@@ -1,0 +1,41 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+**/venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Generated outputs (large binary files — not needed for deployment)
+tool1_network/financing_map.html
+tool2_montecarlo/datacenter_mc_results.png
+tool2_montecarlo/mc_results_sample.csv
+tool3_nlp/capex_conviction_scores.csv
+dashboard/screenshot_*.png
+
+# Streamlit secrets (never commit these)
+.streamlit/secrets.toml
+
+# Environment files with secrets
+*.env
+!tool2_montecarlo/config.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code internal
+.claude/
+
+# Playwright
+playwright-report/
+test-results/
