@@ -692,12 +692,13 @@ st.markdown("---")
 # TABS
 # ════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
     "Overview",
     "Deals & Capital Flows",
     "Active Projects",
     "Profitability & Margins",
     "Underwriting & Growth",
+    "Who's Bullshitting",
 ])
 
 
@@ -1141,5 +1142,302 @@ If either major AI lab renegotiates pricing or builds in-house, the neocloud mod
         "Data sourced from public company filings, press releases, and analyst reports as of March 2026. "
         "Multi-year contract values are shown at face value and are not discounted."
         '</span>',
+        unsafe_allow_html=True,
+    )
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TAB 6: WHO'S BULLSHITTING
+# ─────────────────────────────────────────────────────────────────────────────
+with tab6:
+    st.markdown("### Who's Bullshitting?")
+    st.caption(
+        "An honest, sourced breakdown of where the gap between the narrative and the evidence is largest. "
+        "Rated on a BS scale from 1 (mild spin) to 5 (detached from reality). "
+        "This is editorial analysis, not financial advice."
+    )
+
+    BS_ENTRIES = [
+        dict(
+            name="The $500B Stargate JV",
+            players="SoftBank + OpenAI + Oracle + MGX",
+            score=5,
+            label="Full Fiction",
+            color="#f85149",
+            claim=(
+                "On January 21, 2025, President Trump stood flanked by Masayoshi Son, Sam Altman, "
+                "and Larry Ellison to announce a $500B AI infrastructure joint venture that would "
+                "create 100,000 American jobs. SoftBank committed $100B immediately. Wall Street "
+                "called it the most ambitious infrastructure announcement in decades."
+            ),
+            reality=(
+                "**More than a year later: zero staff hired. Zero data centers built under the JV entity.**\n\n"
+                "OpenAI, Oracle, and SoftBank spent the intervening months in governance disputes — "
+                "fighting over who controls the data centers, who owns the assets, and how profits get split. "
+                "The partners eventually gave up on the JV and pivoted to bilateral deals: OpenAI signed "
+                "a direct $300B contract with Oracle and a $38B contract with AWS, both bypassing the "
+                "Stargate JV structure entirely.\n\n"
+                "SoftBank's ability to deploy $100B was questioned by analysts from the start — the company "
+                "had just completed a painful Vision Fund writedown cycle and was not sitting on $100B in "
+                "liquid capital.\n\n"
+                "**The $500B number was chosen for headline impact, not because it represented a funded, "
+                "organized plan.** The underlying construction is happening — Oracle is building TX campuses, "
+                "OpenAI is buying compute — but under ordinary bilateral contracts, not a historic joint venture."
+            ),
+            sources="The Decoder Feb 2026; Tom's Hardware; TechPortal",
+            url="https://the-decoder.com/stargates-500-billion-ai-infrastructure-project-reportedly-stalls-over-unresolved-disputes-between-openai-oracle-and-softbank/",
+        ),
+        dict(
+            name="OpenAI's '$1.15 Trillion Infrastructure Commitment'",
+            players="OpenAI / Sam Altman",
+            score=4,
+            label="Aggressive Storytelling",
+            color="#d29922",
+            claim=(
+                "OpenAI has 'committed' $1.15 trillion in infrastructure spending over 10 years "
+                "across Broadcom ($350B), Oracle ($300B), Microsoft ($250B), NVIDIA ($100B), AMD ($90B), "
+                "AWS ($38B), and CoreWeave ($22B+). Headlines called it the largest infrastructure "
+                "commitment by any company in history."
+            ),
+            reality=(
+                "**OpenAI is currently losing $5 billion per year on $3.4 billion in revenue.** "
+                "It is a company that does not own a single data center and is currently dependent on "
+                "Microsoft's balance sheet.\n\n"
+                "The $1.15T 'commitment' is a 10-year figure aggregating deals that:\n"
+                "- Start in 2027 (the Oracle $300B deal);\n"
+                "- Have not been signed yet at the time of some announcements;\n"
+                "- Are contingent on OpenAI generating revenues it does not yet have.\n\n"
+                "The Broadcom $350B figure in particular is a 10-year chip development roadmap, not "
+                "a funded purchase order. OpenAI's current runway is dependent on equity raises "
+                "at $157B valuation, not on $350B in committed chip revenue.\n\n"
+                "**None of this means OpenAI is failing** — revenue is doubling annually and ChatGPT "
+                "has 500M+ users. But framing $1.15T in future obligations as a 'commitment' by a "
+                "company losing $5B/yr conflates ambition with funded capital."
+            ),
+            sources="Tunguz OpenAI Infrastructure Analysis; Bloomberg; The Information",
+            url="https://tomtunguz.com/openai-hardware-spending-2025-2035",
+        ),
+        dict(
+            name="The Circular AI Economy (Everyone Paying Each Other)",
+            players="Microsoft + OpenAI + NVIDIA + CoreWeave",
+            score=4,
+            label="Systemic Inflation",
+            color="#d29922",
+            claim=(
+                "Microsoft has deployed $13B+ into OpenAI. OpenAI has committed $22B to CoreWeave. "
+                "NVIDIA has invested $100B into OpenAI. The total 'disclosed capital' in this dataset "
+                "exceeds $900B. Bloomberg, CNBC, and every financial outlet has covered the staggering "
+                "size of AI infrastructure investment."
+            ),
+            reality=(
+                "**Bloomberg documented in February 2026 that the same dollars are cycling through "
+                "the AI ecosystem multiple times**, inflating the headline numbers.\n\n"
+                "The loop: Microsoft invests $13B in OpenAI → OpenAI spends that money on Azure compute "
+                "(back to Microsoft) → Azure uses that revenue to buy NVIDIA GPUs → NVIDIA invests "
+                "$100B back into OpenAI → OpenAI spends that on more compute. **The same pool of capital "
+                "generates multiple headline 'deals' as it cycles.**\n\n"
+                "Add NVIDIA agreeing to buy $6.3B of CoreWeave cloud services (CoreWeave, which itself "
+                "buys NVIDIA GPUs), and you have a system where every player can simultaneously claim "
+                "to be a massive capital deployer.\n\n"
+                "The infrastructure being built is real. The power being consumed is real. The GPUs are real. "
+                "**But the aggregate dollar figures — $700B capex, $1.15T OpenAI commitments — "
+                "substantially overstate the net new capital entering the system** because the circular "
+                "flows aren't netted out in any headline."
+            ),
+            sources="Bloomberg 'AI Circular Deals' Feb 2026; SemiAnalysis",
+            url="https://www.bloomberg.com/graphics/2026-ai-circular-deals/",
+        ),
+        dict(
+            name="CoreWeave's GPU Economics at Current Rental Rates",
+            players="CoreWeave (CRWV)",
+            score=3,
+            label="Optimistic Accounting",
+            color="#d29922",
+            claim=(
+                "CoreWeave is the dominant GPU cloud provider with $55B in contracted revenue backlog, "
+                "700%+ revenue growth, and a stock up 200–300% from its March 2025 IPO. "
+                "It is positioned to be the backbone of AI computing infrastructure."
+            ),
+            reality=(
+                "**The GPU rental economics are at or below break-even at current market rates.**\n\n"
+                "H100 on-demand rates have fallen from ~$9/hr in 2023 to $1.50–2.00/hr by early 2026 "
+                "— a 75%+ decline. A 100k H100 cluster financed at today's purchase prices needs roughly "
+                "$2.10–2.30/hr at 70% utilization to service its debt. At $1.50–2.00/hr spot rates, "
+                "the economics are marginal at best.\n\n"
+                "CoreWeave's $55B backlog is real, but those contracts were signed when rates were higher. "
+                "As contracts roll off and new capacity prices at spot, the revenue per GPU-hour compresses.\n\n"
+                "The customer concentration risk is existential: **60%+ of revenue comes from two customers "
+                "(Microsoft + OpenAI)**. If either renegotiates pricing at renewal — or if OpenAI builds "
+                "more in-house capacity — CoreWeave's model is structurally exposed.\n\n"
+                "The stock trading at ~24x revenue requires CoreWeave to grow into a $10B+ revenue "
+                "company. The backlog supports the path, but the compressed unit economics make this "
+                "a high-risk bet, not a safe infrastructure stock."
+            ),
+            sources="ThunderCompute Dec 2025; CoreWeave S-1; Motley Fool Feb 2026",
+            url="https://www.thundercompute.com/blog/ai-gpu-rental-market-trends",
+        ),
+        dict(
+            name="xAI's Valuation vs. Revenue",
+            players="xAI / Elon Musk",
+            score=3,
+            label="Vision Premium",
+            color="#d29922",
+            claim=(
+                "xAI raised at a $50B+ valuation and is executing the fastest data center build in "
+                "history — 100,000 GPUs in 122 days. The Colossus supercluster in Memphis is vertically "
+                "integrated (owns chips, power, racks, land), making xAI the only AI lab that controls "
+                "its entire compute stack."
+            ),
+            reality=(
+                "**The build execution is genuinely impressive and should not be dismissed.** "
+                "122 days to 100k GPUs is a real engineering achievement that Microsoft, Meta, and "
+                "Google have not matched at comparable speed. The vertical integration thesis is real: "
+                "owning your own power and hardware provides long-term cost advantages.\n\n"
+                "**But:** xAI's disclosed revenue is estimated at under $1 billion, against a "
+                "$50B+ valuation. That is ~100x EV/Revenue — one of the highest multiples on any "
+                "AI infrastructure company.\n\n"
+                "The $20B capital raise ($12.5B in debt, GPUs as collateral) is financially fragile "
+                "if H100/H200 rental rates remain at or below break-even. Using GPU hardware as loan "
+                "collateral works when rates are $8/hr. At $1.50/hr, the collateral is worth much less "
+                "than when the debt was issued.\n\n"
+                "Grok is a good model. X platform is a distribution channel. But there is no publicly "
+                "verified path from current revenue to a valuation that justifies $50B."
+            ),
+            sources="HPCwire May 2025; Bloomberg; Reuters; SemiAnalysis",
+            url="https://www.hpcwire.com/2025/05/13/colossus-ai-hits-200000-gpus-as-musk-ramps-up-ai-ambitions/",
+        ),
+        dict(
+            name="Oracle's Stock Reaction to the $300B Deal",
+            players="Oracle / Larry Ellison",
+            score=2,
+            label="Mild Spin",
+            color="#f0a500",
+            claim=(
+                "Oracle stock surged in June 2025 when the company disclosed a $300B, 5-year compute "
+                "deal with OpenAI, briefly making Larry Ellison the richest person in the world. "
+                "Oracle positioned itself as the primary infrastructure backbone for the AI era."
+            ),
+            reality=(
+                "**The deal is real — but the market's reaction priced in revenue that doesn't "
+                "start until 2027.**\n\n"
+                "The $300B contract begins in 2027 and spreads over 5 years, meaning Oracle receives "
+                "~$60B/year starting two years from the announcement date. The stock jumped immediately "
+                "as if this revenue was imminent.\n\n"
+                "Oracle's actual Q3 FY2025 cloud revenue was ~$7.7B — a $300B deal starting in 2027 "
+                "would eventually be transformative, but pricing it into today's stock as if it were "
+                "current revenue overstates the near-term fundamental picture.\n\n"
+                "**That said, Oracle's Stargate execution is legitimate.** The 131k-GPU zettascale "
+                "cluster is the world's largest in cloud infrastructure and is operational. Oracle "
+                "is genuinely building — it's the announcement timing and market reaction that "
+                "outpaced the underlying reality, not Oracle's actual construction."
+            ),
+            sources="Oracle SEC filing Jun 2025; TechCrunch Feb 2026; Oracle IR",
+            url="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+        ),
+        dict(
+            name="Microsoft's '2 GW Cancellations' vs. '$80B Commitment'",
+            players="Microsoft",
+            score=1,
+            label="Contradictory Messaging",
+            color="#8b949e",
+            claim=(
+                "Microsoft committed $80B to AI data centers in FY2025 — the largest single-year "
+                "capital commitment in the company's history. Satya Nadella repeatedly emphasized "
+                "Microsoft's AI infrastructure leadership."
+            ),
+            reality=(
+                "**Microsoft simultaneously canceled significant infrastructure commitments post-DeepSeek.**\n\n"
+                "In February 2025 — the same quarter as the $80B FY2025 commitment — TD Cowen analysts "
+                "reported that Microsoft had canceled ~200–300 MW of U.S. lease agreements and walked "
+                "away from negotiations to lease ~2 GW of additional capacity in the US and Europe.\n\n"
+                "Microsoft's official explanation was 'capacity optimization.' The reality is that "
+                "DeepSeek's January 2025 release — which demonstrated GPT-4-class results at a "
+                "fraction of the training cost — prompted a reassessment of how much capacity "
+                "was actually needed.\n\n"
+                "**This isn't the worst kind of BS — companies do change plans.** But the contrast "
+                "between the public '$80B commitment' narrative and the simultaneous quiet lease "
+                "cancellations illustrates that even the most committed hyperscaler had material "
+                "uncertainty about whether the AI demand assumptions were right.\n\n"
+                "The pivot from leased to owned capacity (the stated rationale) is also convenient "
+                "framing for what may have simply been demand uncertainty."
+            ),
+            sources="Fortune Feb 2025; Bloomberg; DataCenterFrontier",
+            url="https://fortune.com/2025/02/24/microsoft-cancels-leases-for-ai-data-centers-analyst-says/",
+        ),
+    ]
+
+    # ── BS-o-meter legend ─────────────────────────────────────────────────────
+    st.markdown(
+        "**BS Scale:** "
+        '<span style="color:#8b949e">1 = Mild Spin</span> &nbsp;|&nbsp; '
+        '<span style="color:#f0a500">2 = Contradictory Messaging</span> &nbsp;|&nbsp; '
+        '<span style="color:#d29922">3 = Vision Premium / Optimistic Accounting</span> &nbsp;|&nbsp; '
+        '<span style="color:#d29922">4 = Aggressive Storytelling</span> &nbsp;|&nbsp; '
+        '<span style="color:#f85149">5 = Full Fiction</span>',
+        unsafe_allow_html=True,
+    )
+
+    st.markdown("---")
+
+    for entry in BS_ENTRIES:
+        score_dots = "●" * entry["score"] + "○" * (5 - entry["score"])
+        with st.expander(
+            f'**{entry["name"]}** — {entry["label"]}   '
+            f'[{score_dots}]   ({entry["players"]})'
+        ):
+            st.markdown(
+                f'<span style="color:{entry["color"]};font-size:1.1rem;font-weight:700;">'
+                f'BS Score: {entry["score"]}/5 — {entry["label"]}'
+                f'</span>',
+                unsafe_allow_html=True,
+            )
+
+            col_claim, col_real = st.columns([1, 2])
+            with col_claim:
+                st.markdown("**The Claim / Narrative**")
+                st.info(entry["claim"])
+            with col_real:
+                st.markdown("**What the Evidence Actually Shows**")
+                st.markdown(entry["reality"])
+
+            st.markdown(
+                f'<span class="src-link">Sources: '
+                f'<a href="{entry["url"]}" target="_blank">{entry["sources"]}</a>'
+                f'</span>',
+                unsafe_allow_html=True,
+            )
+
+    st.markdown("---")
+
+    st.markdown("### The Bottom Line")
+    col_l, col_r = st.columns(2)
+    with col_l:
+        st.markdown("""
+**What is genuinely real:**
+- NVIDIA's GPU revenue and margins (~60% operating margin, $47.5B FY2025 data center revenue)
+- Meta's Hyperion site is under active construction (boots on ground, 5,000 workers)
+- xAI's 200k GPU Colossus cluster is operational and running Grok today
+- Oracle's 131k-GPU zettascale cluster in Texas is operational
+- CoreWeave's $55B contracted backlog is legally committed
+- AWS, Azure, and Google Cloud are growing 20–40% YoY with expanding margins
+- The demand for AI inference is real and growing
+        """)
+    with col_r:
+        st.markdown("""
+**What is narrative, not funded reality:**
+- The "$500B Stargate JV" — stalled, no staff, no builds under the JV entity
+- "$1.15T OpenAI infrastructure commitment" — 10-year aspiration by a company losing $5B/yr
+- Any individual headline figure for circular AI deals (the capital cycles, it doesn't compound)
+- GPU rental economics at current spot rates for newly financed clusters (at or below break-even)
+- The idea that $50B+ xAI valuation is grounded in current revenues
+- Any capex commitment announcement made the day of a Presidential photo op
+        """)
+
+    st.markdown("---")
+    st.markdown(
+        '<span class="src-link">'
+        "Editorial analysis based on publicly sourced data. The author has no positions in any securities mentioned. "
+        "Not financial advice. Sources linked in each section above."
+        "</span>",
         unsafe_allow_html=True,
     )
