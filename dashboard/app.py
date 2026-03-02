@@ -11,6 +11,7 @@ Simplified research dashboard covering:
 Run:  tool3_nlp/venv/Scripts/streamlit run dashboard/app.py
 """
 
+import json
 import math
 import warnings
 from datetime import datetime, timedelta
@@ -524,6 +525,69 @@ def load_deals() -> pd.DataFrame:
         return pd.DataFrame()
 
 
+NEWS_JSON = ROOT / "dashboard" / "data" / "news_feed.json"
+
+
+@st.cache_data(ttl=timedelta(minutes=30), show_spinner=False)
+def load_news_feed() -> dict:
+    """Load news articles from the pre-built JSON (updated by GitHub Actions every 6 hours)."""
+    try:
+        return json.loads(NEWS_JSON.read_text(encoding="utf-8"))
+    except Exception:
+        return {"last_updated": None, "article_count": 0, "deal_alert_count": 0, "articles": []}
+
+
+@st.cache_data(ttl=timedelta(hours=2), show_spinner=False)
+def fetch_live_news() -> list[dict]:
+    """Live RSS fetch — supplements the cached JSON. Runs in-browser, cached 2 hrs."""
+    try:
+        import feedparser as fp
+        LIVE_FEEDS = [
+            ("Google News: AI deals",       "https://news.google.com/rss/search?q=AI+data+center+deal+billion+GPU&hl=en-US&gl=US&ceid=US:en"),
+            ("Google News: hyperscaler capex", "https://news.google.com/rss/search?q=Microsoft+Amazon+Google+Meta+Oracle+AI+capex+infrastructure&hl=en-US&gl=US&ceid=US:en"),
+            ("CNBC Tech",                   "https://www.cnbc.com/id/19854910/device/rss/rss.html"),
+            ("DataCenterDynamics",          "https://www.datacenterdynamics.com/en/rss/"),
+            ("TechCrunch",                  "https://techcrunch.com/feed/"),
+            ("SemiAnalysis",                "https://newsletter.semianalysis.com/feed"),
+        ]
+        KEYWORDS = ["data center", "gpu", "nvidia", "openai", "microsoft", "xai", "oracle",
+                    "amazon", "coreweave", "meta", "ai infrastructure", "capex", "hyperscale",
+                    "colossus", "stargate", "h100", "blackwell", "compute"]
+
+        import re, hashlib
+        articles, seen = [], set()
+        for src, url in LIVE_FEEDS:
+            try:
+                feed = fp.parse(url)
+                for e in feed.entries[:25]:
+                    link  = e.get("link", "")
+                    title = re.sub(r"<[^>]+>", "", e.get("title", "")).strip()
+                    body  = re.sub(r"<[^>]+>", "", e.get("summary", ""))[:500]
+                    if not link or not title:
+                        continue
+                    aid = hashlib.md5(link.encode()).hexdigest()[:14]
+                    if aid in seen:
+                        continue
+                    seen.add(aid)
+                    text = (title + " " + body).lower()
+                    if not any(kw in text for kw in KEYWORDS):
+                        continue
+                    amounts = re.findall(r"\$[\d,]+\.?\d*\s*(?:billion|million|B|M|T)\b", text, re.I)
+                    ds = sum(2 for sig in ["billion","deal","contract","invest","acqui","announce","signed","awarded"]
+                             if sig in text)
+                    articles.append({
+                        "id": aid, "title": title, "url": link, "source": src,
+                        "source_cat": "Live", "date": datetime.now().strftime("%Y-%m-%d"),
+                        "summary": body, "deal_score": min(ds, 10),
+                        "amounts": list(set(amounts))[:4], "is_deal_alert": ds >= 4,
+                    })
+            except Exception:
+                pass
+        return sorted(articles, key=lambda x: x["deal_score"], reverse=True)
+    except ImportError:
+        return []
+
+
 def build_network_fig(df: pd.DataFrame, show_labels: bool = False) -> go.Figure:
     G = nx.DiGraph()
     all_nodes = sorted(set(df["source"]) | set(df["target"]))
@@ -692,13 +756,14 @@ st.markdown("---")
 # TABS
 # ════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "Overview",
     "Deals & Capital Flows",
     "Active Projects",
     "Profitability & Margins",
     "Underwriting & Growth",
     "Who's Bullshitting",
+    "Live Intel",
 ])
 
 
@@ -1438,6 +1503,155 @@ with tab6:
         '<span class="src-link">'
         "Editorial analysis based on publicly sourced data. The author has no positions in any securities mentioned. "
         "Not financial advice. Sources linked in each section above."
+        "</span>",
+        unsafe_allow_html=True,
+    )
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TAB 7: LIVE INTEL
+# ─────────────────────────────────────────────────────────────────────────────
+with tab7:
+    st.markdown("### Live Intel — AI Infrastructure News Feed")
+    st.caption(
+        "Automatically scans 14 trusted sources every 6 hours via GitHub Actions. "
+        "Articles with deal signals (company names + dollar amounts) are flagged automatically. "
+        "Click any headline to read the full article."
+    )
+
+    # ── Load cached feed ──────────────────────────────────────────────────────
+    feed_data   = load_news_feed()
+    all_articles = feed_data.get("articles", [])
+    last_updated = feed_data.get("last_updated", "Unknown")
+
+    # ── Live supplement button ────────────────────────────────────────────────
+    col_stat1, col_stat2, col_stat3, col_stat4 = st.columns(4)
+    col_stat1.metric("Tracked Articles", feed_data.get("article_count", 0))
+    col_stat2.metric("Deal Alerts", feed_data.get("deal_alert_count", 0),
+                     help="Articles whose title contains a company name + dollar amount signal")
+    col_stat3.metric("Trusted Sources", "14",
+                     help="Google News, TechCrunch, CNBC, DataCenterDynamics, Reuters, Ars Technica, The Register, SemiAnalysis, The Verge + keyword-targeted Google News feeds")
+    col_stat4.metric("Update Frequency", "Every 6 hrs",
+                     help="GitHub Actions workflow runs at 00:00, 06:00, 12:00, 18:00 UTC and commits fresh articles")
+
+    if last_updated and last_updated != "Unknown":
+        try:
+            ts = datetime.fromisoformat(last_updated.replace("Z", "+00:00"))
+            st.markdown(
+                f'<span class="src-link">Last scanned: {ts.strftime("%B %d, %Y at %H:%M UTC")}</span>',
+                unsafe_allow_html=True,
+            )
+        except Exception:
+            pass
+
+    live_col, _ = st.columns([1, 4])
+    with live_col:
+        if st.button("Fetch Live Now", help="Pull the latest headlines directly from RSS feeds (cached 2 hrs)"):
+            st.cache_data.clear()
+            st.rerun()
+
+    st.markdown("---")
+
+    # ── Merge live articles if available ─────────────────────────────────────
+    with st.spinner("Loading live feed..."):
+        live_articles = fetch_live_news()
+
+    if live_articles:
+        live_ids  = {a["id"] for a in all_articles}
+        new_live  = [a for a in live_articles if a["id"] not in live_ids]
+        if new_live:
+            all_articles = new_live + all_articles
+            st.success(f"{len(new_live)} new articles pulled live (not yet in the 6-hr cache)")
+
+    # ── Filters ───────────────────────────────────────────────────────────────
+    fcol1, fcol2, fcol3 = st.columns([2, 2, 1])
+    with fcol1:
+        search_q = st.text_input("Search headlines", placeholder="e.g. CoreWeave, $5B, Oracle...")
+    with fcol2:
+        sources_available = sorted(set(a["source"] for a in all_articles))
+        source_filter = st.multiselect("Filter by source", sources_available, default=[])
+    with fcol3:
+        deal_only = st.toggle("Deal alerts only", value=False,
+                              help="Show only articles flagged as potential new deals")
+
+    # ── Apply filters ─────────────────────────────────────────────────────────
+    filtered = all_articles
+    if deal_only:
+        filtered = [a for a in filtered if a.get("is_deal_alert")]
+    if source_filter:
+        filtered = [a for a in filtered if a["source"] in source_filter]
+    if search_q:
+        q = search_q.lower()
+        filtered = [a for a in filtered if q in a["title"].lower() or q in a.get("summary", "").lower()]
+
+    st.markdown(f"**{len(filtered)} articles** matching current filters")
+    st.markdown("---")
+
+    # ── Deal alerts section ───────────────────────────────────────────────────
+    deal_alerts = [a for a in filtered if a.get("is_deal_alert")]
+    if deal_alerts and not search_q and not source_filter:
+        st.markdown("#### Deal Alerts — Potential New Capital Flows")
+        st.caption(
+            "These headlines contain company names + dollar amount signals. "
+            "Not all are confirmed new deals — read the article to verify."
+        )
+        for a in deal_alerts[:20]:
+            amt_str = "  ·  " + "  ".join(a["amounts"]) if a.get("amounts") else ""
+            score_bar = "●" * min(a["deal_score"] // 2, 5)
+            st.markdown(
+                f'**[{a["title"]}]({a["url"]})**{amt_str}  \n'
+                f'<span class="src-link">{a["source"]} &nbsp;·&nbsp; {a["date"]} '
+                f'&nbsp;·&nbsp; Signal strength: {score_bar}</span>',
+                unsafe_allow_html=True,
+            )
+        st.markdown("---")
+        st.markdown("#### All Articles")
+
+    # ── All articles ──────────────────────────────────────────────────────────
+    if not filtered:
+        st.info("No articles match the current filters.")
+    else:
+        # Group by date for readability
+        from itertools import groupby
+        by_date = {}
+        for a in filtered[:150]:
+            by_date.setdefault(a["date"], []).append(a)
+
+        for date, arts in sorted(by_date.items(), reverse=True):
+            st.markdown(f"##### {date}")
+            for a in arts:
+                flag  = " 🔔" if a.get("is_deal_alert") else ""
+                amts  = ("  ·  *" + "  ".join(a["amounts"]) + "*") if a.get("amounts") else ""
+                st.markdown(
+                    f'**[{a["title"]}]({a["url"]})**{flag}{amts}  \n'
+                    f'<span class="src-link">{a["source"]} ({a["source_cat"]})</span>',
+                    unsafe_allow_html=True,
+                )
+
+    st.markdown("---")
+    st.markdown("#### Tracked Sources")
+    sources_df = pd.DataFrame([
+        {"Source": "Google News (AI deals)",         "Type": "Keyword search", "Update": "Every 6 hrs", "URL": "https://news.google.com"},
+        {"Source": "Google News (hyperscaler capex)", "Type": "Keyword search", "Update": "Every 6 hrs", "URL": "https://news.google.com"},
+        {"Source": "Google News (CoreWeave/xAI/NVIDIA)","Type": "Keyword search","Update": "Every 6 hrs","URL": "https://news.google.com"},
+        {"Source": "Google News (Stargate/OpenAI)",   "Type": "Keyword search", "Update": "Every 6 hrs", "URL": "https://news.google.com"},
+        {"Source": "Google News (cancellations)",     "Type": "Keyword search", "Update": "Every 6 hrs", "URL": "https://news.google.com"},
+        {"Source": "TechCrunch",                      "Type": "Publication RSS", "Update": "Every 6 hrs", "URL": "https://techcrunch.com"},
+        {"Source": "CNBC Technology",                 "Type": "Publication RSS", "Update": "Every 6 hrs", "URL": "https://cnbc.com"},
+        {"Source": "DataCenterFrontier",              "Type": "DC Specialist",   "Update": "Every 6 hrs", "URL": "https://datacenterfrontier.com"},
+        {"Source": "DataCenterDynamics",              "Type": "DC Specialist",   "Update": "Every 6 hrs", "URL": "https://datacenterdynamics.com"},
+        {"Source": "Reuters Technology",              "Type": "Publication RSS", "Update": "Every 6 hrs", "URL": "https://reuters.com"},
+        {"Source": "Ars Technica",                    "Type": "Publication RSS", "Update": "Every 6 hrs", "URL": "https://arstechnica.com"},
+        {"Source": "The Register (Data Centre)",      "Type": "DC Specialist",   "Update": "Every 6 hrs", "URL": "https://theregister.com"},
+        {"Source": "SemiAnalysis",                    "Type": "Deep Analysis",   "Update": "Every 6 hrs", "URL": "https://semianalysis.com"},
+        {"Source": "The Verge",                       "Type": "Publication RSS", "Update": "Every 6 hrs", "URL": "https://theverge.com"},
+    ])
+    st.dataframe(sources_df, use_container_width=True, hide_index=True)
+    st.markdown(
+        '<span class="src-link">'
+        "News articles are automatically fetched, keyword-filtered, and scored for deal signals. "
+        "Articles do not represent endorsements. Always verify deal details from original sources. "
+        "GitHub Actions workflow: .github/workflows/update_news.yml"
         "</span>",
         unsafe_allow_html=True,
     )

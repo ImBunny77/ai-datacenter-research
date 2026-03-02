@@ -1,0 +1,48 @@
+name: Update News Feed
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests python-dateutil
+
+      - name: Run news updater
+        run: python dashboard/news_updater.py
+
+      - name: Commit updated news feed (if changed)
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add dashboard/data/news_feed.json
+          if git diff --staged --quiet; then
+            echo "No changes to news feed — nothing to commit"
+          else
+            ARTICLE_COUNT=$(python -c "import json; d=json.load(open('dashboard/data/news_feed.json')); print(d['article_count'])")
+            DEAL_COUNT=$(python -c "import json; d=json.load(open('dashboard/data/news_feed.json')); print(d['deal_alert_count'])")
+            git commit -m "auto: news feed update — ${ARTICLE_COUNT} articles, ${DEAL_COUNT} deal alerts [skip ci]"
+            git push
+            echo "Pushed updated news feed: ${ARTICLE_COUNT} articles, ${DEAL_COUNT} deal alerts"
+          fi
