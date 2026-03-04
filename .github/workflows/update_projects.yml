@@ -32,19 +32,19 @@ jobs:
       - name: Run project intelligence scanner
         run: python dashboard/project_updater.py
 
-      - name: Commit updated project feed (if changed)
+      - name: Commit updated feeds (if changed)
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add dashboard/data/projects_feed.json
+          git add dashboard/data/projects_feed.json dashboard/data/confirmed_projects.json
           if git diff --staged --quiet; then
-            echo "No changes to project feed -- nothing to commit"
+            echo "No changes -- nothing to commit"
           else
             FINDINGS=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['finding_count'])")
-            NEW=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['new_project_count'])")
             CANCEL=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['cancellation_count'])")
-            SEC=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['sec_filing_count'])")
-            git commit -m "auto: project feed -- ${FINDINGS} findings, ${NEW} new projects, ${CANCEL} cancellations, ${SEC} SEC filings [skip ci]"
+            CONF=$(python -c "import json; d=json.load(open('dashboard/data/confirmed_projects.json')); print(d['confirmed_count'])")
+            ADDED=$(python -c "import json; d=json.load(open('dashboard/data/confirmed_projects.json')); print(d['newly_added'])")
+            git commit -m "auto: project intel -- ${FINDINGS} signals, ${CANCEL} cancellations, ${CONF} confirmed (${ADDED} new) [skip ci]"
             git push
-            echo "Pushed project feed: ${FINDINGS} findings"
+            echo "Pushed: ${FINDINGS} signals, ${CONF} confirmed projects (${ADDED} newly added)"
           fi

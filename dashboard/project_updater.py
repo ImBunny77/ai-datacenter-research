@@ -440,12 +440,237 @@ def fetch_all_feeds() -> list[dict]:
     return findings
 
 
+# ── Auto-confirmation logic ───────────────────────────────────────────────────
+#
+# A finding is "auto-confirmed" and added to the live projects list when ALL of:
+#   1. confidence >= 8  (company + amount + DC keyword + announcement signal)
+#   2. finding_type is "New Project" or "Expansion"
+#   3. dollar amount >= $1B is present and parseable
+#   4. company is identifiable from our tracked list
+#   5. location (US state or country) is identified
+#   6. source is in TRUSTED_SOURCES (authoritative outlets / official filings)
+#   7. title does NOT contain a cancellation signal
+#
+# These conditions together make false positives very rare: a random article
+# would need to hit company name, dollar amount >= $1B, location, announcement
+# keyword, AND be published by an authoritative outlet.
+
+TRUSTED_SOURCES = {
+    "DataCenterDynamics",
+    "DataCenterFrontier",
+    "Microsoft IR Blog",
+    "Amazon AWS News",
+    "Google Blog",
+    "Google Cloud Blog",
+    "Meta Newsroom",
+    "Oracle News",
+    "SemiAnalysis",
+    "SiliconAngle",
+    "SEC EDGAR (official filing)",
+    "The Register (Data Centre)",
+}
+
+# Canonical company name mapping
+COMPANY_CANONICAL = {
+    "Microsoft": "Microsoft",
+    "Amazon":    "Amazon (AWS)",
+    "Google":    "Google",
+    "Alphabet":  "Google",
+    "Meta":      "Meta",
+    "Oracle":    "Oracle",
+    "CoreWeave": "CoreWeave",
+    "xAI":       "xAI",
+    "NVIDIA":    "NVIDIA",
+    "OpenAI":    "OpenAI",
+    "Anthropic": "Anthropic",
+    "SoftBank":  "SoftBank",
+}
+
+# Hardcoded project fingerprints — (company_keyword, location_keyword) pairs
+# Used to avoid duplicating what is already in ALL_PROJECTS in app.py
+EXISTING_PROJECT_FINGERPRINTS = [
+    ("microsoft", "wisconsin"), ("microsoft", "virginia"), ("microsoft", "north carolina"),
+    ("microsoft", "arizona"), ("microsoft", "texas"), ("microsoft", "georgia"),
+    ("microsoft", "uk"), ("microsoft", "united kingdom"), ("microsoft", "germany"),
+    ("microsoft", "france"), ("microsoft", "japan"), ("microsoft", "australia"),
+    ("microsoft", "malaysia"), ("microsoft", "indonesia"), ("microsoft", "india"),
+    ("microsoft", "spain"),
+    ("amazon", "indiana"), ("amazon", "north carolina"), ("amazon", "louisiana"),
+    ("amazon", "mississippi"), ("amazon", "virginia"), ("amazon", "government"),
+    ("amazon", "germany"), ("aws", "indiana"), ("aws", "north carolina"),
+    ("google", "texas"), ("google", "virginia"), ("google", "south carolina"),
+    ("google", "kansas city"), ("google", "pjm"), ("google", "germany"),
+    ("google", "belgium"), ("google", "india"), ("google", "arkansas"),
+    ("meta", "louisiana"), ("meta", "hyperion"), ("meta", "indiana"),
+    ("meta", "el paso"), ("meta", "dekalb"), ("meta", "illinois"),
+    ("meta", "alabama"), ("meta", "wisconsin"), ("meta", "beaver dam"),
+    ("oracle", "texas"), ("oracle", "abilene"), ("oracle", "wisconsin"),
+    ("oracle", "michigan"), ("oracle", "india"),
+    ("xai", "memphis"), ("xai", "colossus"),
+    ("coreweave", "pennsylvania"), ("coreweave", "north dakota"),
+    ("coreweave", "new jersey"), ("coreweave", "europe"), ("coreweave", "norway"),
+]
+
+
+def parse_capex_b(amounts: list[str]) -> float:
+    """Return the largest dollar amount found, converted to billions."""
+    best = 0.0
+    for amt in amounts:
+        # "$X billion" or "$XB"
+        m = re.search(r"\$?([\d,]+\.?\d*)\s*(?:billion|B)\b", amt, re.IGNORECASE)
+        if m:
+            val = float(m.group(1).replace(",", ""))
+            best = max(best, val)
+        # "$X million"
+        m = re.search(r"\$?([\d,]+\.?\d*)\s*(?:million|M)\b", amt, re.IGNORECASE)
+        if m:
+            val = float(m.group(1).replace(",", "")) / 1000.0
+            best = max(best, val)
+        # "EUR X billion"
+        m = re.search(r"EUR\s*([\d,]+\.?\d*)\s*(?:billion|B)\b", amt, re.IGNORECASE)
+        if m:
+            val = float(m.group(1).replace(",", "")) * 1.08  # rough EUR->USD
+            best = max(best, val)
+    return round(best, 2)
+
+
+def is_duplicate(company: str, locations: list[str]) -> bool:
+    """Return True if this company+location combo already exists in our hardcoded list."""
+    co_l = company.lower()
+    for fp_co, fp_loc in EXISTING_PROJECT_FINGERPRINTS:
+        if fp_co in co_l or co_l in fp_co:
+            for loc in locations:
+                if fp_loc in loc.lower() or loc.lower() in fp_loc:
+                    return True
+    return False
+
+
+def is_auto_confirmable(finding: dict) -> bool:
+    """Return True only when all auto-confirmation criteria are satisfied."""
+    # 1. High confidence
+    if finding.get("confidence", 0) < 8:
+        return False
+    # 2. Finding type must be project announcement
+    if finding.get("finding_type") not in ("New Project", "Expansion"):
+        return False
+    # 3. Must have a parseable dollar amount >= $1B
+    capex = parse_capex_b(finding.get("amounts", []))
+    if capex < 1.0:
+        return False
+    # 4. Must have at least one tracked company
+    if not finding.get("companies"):
+        return False
+    # 5. Must have at least one location
+    if not finding.get("locations"):
+        return False
+    # 6. Source must be authoritative
+    if finding.get("source") not in TRUSTED_SOURCES:
+        return False
+    # 7. Title must not contain cancellation language
+    title_l = finding.get("title", "").lower()
+    if any(sig in title_l for sig in CANCELLATION_SIGNALS):
+        return False
+    return True
+
+
+def build_confirmed_project(finding: dict) -> dict:
+    """Convert a confirmed finding into the ALL_PROJECTS schema for the dashboard."""
+    capex   = parse_capex_b(finding.get("amounts", []))
+    cos     = finding.get("companies", [])
+    locs    = finding.get("locations", [])
+    company_raw = cos[0] if cos else "Unknown"
+    company = COMPANY_CANONICAL.get(company_raw, company_raw)
+    location = ", ".join(locs[:2]) if locs else "Location TBD"
+
+    # Build a clean project name from the title (strip "Google News:" prefixes)
+    raw_title = finding.get("title", "")
+    # Strip feed-name prefixes like "GNews: ..." that sometimes bleed in
+    clean_title = re.sub(r"^(GNews:|Google News:)\s*", "", raw_title, flags=re.IGNORECASE).strip()
+
+    return dict(
+        id=finding["id"],
+        company=company,
+        project=clean_title[:120],
+        location=location,
+        capex_b=capex,
+        status="Auto-Confirmed",
+        scale=f"${capex:.1f}B | Detected: {finding.get('date','?')}",
+        notes=(
+            f"Auto-confirmed by project intelligence scanner. "
+            f"Companies detected: {', '.join(cos)}. "
+            f"Amounts detected: {', '.join(finding.get('amounts', []))}. "
+            f"Original headline: \"{raw_title}\""
+        ),
+        source=finding.get("source", ""),
+        url=finding.get("url", ""),
+        year=int(finding.get("date", "2025-01-01")[:4]),
+        detected_date=finding.get("date", ""),
+        confidence=finding.get("confidence", 0),
+        auto_detected=True,
+        finding_type=finding.get("finding_type", ""),
+    )
+
+
+def update_confirmed_projects(
+    new_confirmed: list[dict],
+    confirmed_file: Path,
+) -> tuple[list[dict], int]:
+    """
+    Merge newly confirmed projects with the existing confirmed_projects.json.
+    Returns (all_confirmed, added_count).
+    Deduplicates by finding ID and by company+location fingerprint.
+    """
+    existing_by_id: dict[str, dict] = {}
+    if confirmed_file.exists():
+        try:
+            old = json.loads(confirmed_file.read_text(encoding="utf-8"))
+            for p in old.get("confirmed_projects", []):
+                existing_by_id[p["id"]] = p
+        except Exception as e:
+            print(f"[WARN] Could not load existing confirmed projects: {e}", file=sys.stderr)
+
+    added = 0
+    for proj in new_confirmed:
+        pid = proj["id"]
+        if pid in existing_by_id:
+            continue  # already confirmed
+        # Check fingerprint dedup against both existing confirmed AND hardcoded list
+        locs = proj.get("location", "").split(", ")
+        if is_duplicate(proj.get("company", ""), locs):
+            print(f"  [SKIP] Already in hardcoded list: {proj['company']} / {proj['location']}")
+            continue
+        # Check against other already-confirmed projects
+        duplicate_of_confirmed = False
+        for ep in existing_by_id.values():
+            ep_locs = ep.get("location", "").split(", ")
+            if ep.get("company", "").lower() == proj.get("company", "").lower():
+                if any(l.lower() in proj.get("location","").lower() or
+                       proj.get("location","").lower() in l.lower()
+                       for l in ep_locs):
+                    duplicate_of_confirmed = True
+                    break
+        if duplicate_of_confirmed:
+            print(f"  [SKIP] Already confirmed: {proj['company']} / {proj['location']}")
+            continue
+        existing_by_id[pid] = proj
+        added += 1
+        print(f"  [CONFIRM] NEW project: {proj['company']} | {proj['location']} | ${proj['capex_b']:.1f}B | {proj['source']}")
+
+    all_confirmed = sorted(
+        existing_by_id.values(),
+        key=lambda x: x.get("detected_date", ""),
+        reverse=True,
+    )
+    return all_confirmed, added
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def run():
-    out_dir  = Path(__file__).parent / "data"
+    out_dir          = Path(__file__).parent / "data"
     out_dir.mkdir(exist_ok=True)
-    out_file = out_dir / "projects_feed.json"
+    out_file         = out_dir / "projects_feed.json"
+    confirmed_file   = out_dir / "confirmed_projects.json"
 
     print(f"Scanning {len(PROJECT_FEEDS)} RSS feeds for project intelligence...")
     rss_findings = fetch_all_feeds()
@@ -457,7 +682,7 @@ def run():
 
     all_fresh = rss_findings + sec_findings
 
-    # Merge with existing to preserve history (keep 60 days)
+    # ── Merge findings with history (keep 60 days) ───────────────────────────
     existing: dict[str, dict] = {}
     if out_file.exists():
         try:
@@ -501,6 +726,25 @@ def run():
         f"({len(new_projects)} new projects, {len(cancellations)} cancellations, "
         f"{len(sec_filings)} SEC filings) -> {out_file}"
     )
+
+    # ── Auto-confirmation: promote findings to live project list ─────────────
+    print("\nChecking for auto-confirmable projects...")
+    new_confirmed_raw = [f for f in all_fresh if is_auto_confirmable(f)]
+    print(f"  {len(new_confirmed_raw)} findings passed all auto-confirmation criteria")
+
+    new_confirmed_projects = [build_confirmed_project(f) for f in new_confirmed_raw]
+    all_confirmed, added = update_confirmed_projects(new_confirmed_projects, confirmed_file)
+
+    confirmed_output = dict(
+        last_updated=datetime.now(timezone.utc).isoformat(),
+        confirmed_count=len(all_confirmed),
+        newly_added=added,
+        confirmed_projects=all_confirmed,
+    )
+    confirmed_file.write_text(
+        json.dumps(confirmed_output, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
+    print(f"Saved {len(all_confirmed)} confirmed projects ({added} newly added) -> {confirmed_file}")
 
 
 if __name__ == "__main__":

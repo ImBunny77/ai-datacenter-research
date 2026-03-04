@@ -1139,8 +1139,9 @@ def load_deals() -> pd.DataFrame:
         return pd.DataFrame()
 
 
-NEWS_JSON     = ROOT / "dashboard" / "data" / "news_feed.json"
-PROJECTS_JSON = ROOT / "dashboard" / "data" / "projects_feed.json"
+NEWS_JSON      = ROOT / "dashboard" / "data" / "news_feed.json"
+PROJECTS_JSON  = ROOT / "dashboard" / "data" / "projects_feed.json"
+CONFIRMED_JSON = ROOT / "dashboard" / "data" / "confirmed_projects.json"
 
 
 @st.cache_data(ttl=timedelta(minutes=30), show_spinner=False)
@@ -1166,6 +1167,16 @@ def load_projects_feed() -> dict:
             "sec_filing_count": 0,
             "findings": [],
         }
+
+
+@st.cache_data(ttl=timedelta(minutes=30), show_spinner=False)
+def load_confirmed_projects() -> list[dict]:
+    """Load auto-confirmed projects (updated by GitHub Actions every 2 hours)."""
+    try:
+        data = json.loads(CONFIRMED_JSON.read_text(encoding="utf-8"))
+        return data.get("confirmed_projects", [])
+    except Exception:
+        return []
 
 
 @st.cache_data(ttl=timedelta(hours=2), show_spinner=False)
@@ -1670,16 +1681,33 @@ with tab3:
 
     st.markdown("---")
 
-    # Build DataFrame
+    # ── Merge hardcoded + auto-confirmed projects ─────────────────────────────
+    auto_confirmed = load_confirmed_projects()
+    # Combine: hardcoded list first, then auto-confirmed (new ones only)
+    combined_projects = list(ALL_PROJECTS)
+    new_auto_count = 0
+    for ac in auto_confirmed:
+        combined_projects.append(ac)
+        new_auto_count += 1
+
+    if new_auto_count > 0:
+        st.success(
+            f"**{new_auto_count} new project(s) auto-confirmed** by the intelligence scanner "
+            f"and added to this list. Marked with AUTO badge below.",
+            icon="🔍",
+        )
+
+    # Build DataFrame from combined list
     proj_rows = []
-    for p in ALL_PROJECTS:
+    for p in combined_projects:
         proj_rows.append({
             "Company":    p["company"],
             "Project":    p["project"],
             "Location":   p["location"],
             "CapEx ($B)": p["capex_b"],
             "Status":     p["status"],
-            "Year":       p["year"],
+            "Year":       p.get("year", 2025),
+            "Source":     "AUTO" if p.get("auto_detected") else "Verified",
         })
     all_proj_df = pd.DataFrame(proj_rows)
 
@@ -1687,18 +1715,19 @@ with tab3:
     total_capex = all_proj_df["CapEx ($B)"].sum()
     n_projects  = len(all_proj_df)
     n_companies = all_proj_df["Company"].nunique()
-    active_ct   = all_proj_df[all_proj_df["Status"].str.contains("Active|Construction", na=False)].shape[0]
+    auto_ct     = len(auto_confirmed)
 
     sc1, sc2, sc3, sc4 = st.columns(4)
     sc1.metric("Total Projects Tracked", f"{n_projects}")
     sc2.metric("Companies Covered", f"{n_companies}")
     sc3.metric("Total CapEx (tracked)", f"${total_capex:.0f}B")
-    sc4.metric("Active / Under Construction", f"{active_ct}")
+    sc4.metric("Auto-Confirmed (Live)", f"{auto_ct}",
+               help="Projects added automatically by the intelligence scanner — company + location + $1B+ + authoritative source all confirmed")
 
     st.markdown("---")
 
     # ── Filters ──────────────────────────────────────────────────────────────
-    fc1, fc2, fc3 = st.columns([2, 2, 1])
+    fc1, fc2, fc3, fc4 = st.columns([2, 2, 1, 1])
     with fc1:
         company_options = ["All"] + sorted(all_proj_df["Company"].unique().tolist())
         sel_company = st.selectbox("Filter by Company", company_options, key="ap_company")
@@ -1708,6 +1737,8 @@ with tab3:
     with fc3:
         min_capex = st.number_input("Min CapEx ($B)", min_value=0.0, max_value=50.0,
                                      value=0.0, step=0.5, key="ap_mincapex")
+    with fc4:
+        show_auto_only = st.checkbox("Auto-confirmed only", key="ap_auto_only")
 
     filtered_df = all_proj_df.copy()
     if sel_company != "All":
@@ -1716,6 +1747,8 @@ with tab3:
         filtered_df = filtered_df[filtered_df["Status"] == sel_status]
     if min_capex > 0:
         filtered_df = filtered_df[filtered_df["CapEx ($B)"] >= min_capex]
+    if show_auto_only:
+        filtered_df = filtered_df[filtered_df["Source"] == "AUTO"]
 
     filtered_df = filtered_df.sort_values("CapEx ($B)", ascending=False).reset_index(drop=True)
 
@@ -1732,7 +1765,14 @@ with tab3:
         }
         return colors.get(val, "")
 
-    styled = filtered_df.style.applymap(color_company, subset=["Company"])
+    def color_source(val):
+        return "color: #3fb950; font-weight: 700" if val == "AUTO" else "color: #7d8590"
+
+    styled = (
+        filtered_df.style
+        .applymap(color_company, subset=["Company"])
+        .applymap(color_source, subset=["Source"])
+    )
 
     st.dataframe(
         styled,
@@ -1741,10 +1781,16 @@ with tab3:
         column_config={
             "CapEx ($B)": st.column_config.NumberColumn(format="$%.1fB"),
             "Year":       st.column_config.NumberColumn(format="%d"),
+            "Source":     st.column_config.TextColumn(
+                help="AUTO = added by intelligence scanner from live sources; Verified = manually researched"
+            ),
         },
     )
 
-    st.caption(f"Showing {len(filtered_df)} of {n_projects} projects. Sorted by CapEx descending.")
+    st.caption(
+        f"Showing {len(filtered_df)} of {n_projects} projects. Sorted by CapEx descending. "
+        f"**AUTO** = auto-confirmed from live intelligence scan (company + location + $1B+ + authoritative source)."
+    )
 
     st.markdown("---")
 
@@ -1788,18 +1834,22 @@ with tab3:
     # ── Detailed project cards ────────────────────────────────────────────────
     st.markdown("---")
     st.markdown("#### Project Detail Cards")
-    st.caption("Click to expand full terms, notes, and source for each project.")
+    st.caption("Click to expand full terms, notes, and source. AUTO badge = live intelligence scanner confirmed.")
 
-    display_projects = ALL_PROJECTS if sel_company == "All" else [
-        p for p in ALL_PROJECTS if p["company"] == sel_company
+    # Filter combined_projects to match active filters
+    display_projects = combined_projects if sel_company == "All" else [
+        p for p in combined_projects if p["company"] == sel_company
     ]
     display_projects = sorted(display_projects, key=lambda x: x["capex_b"], reverse=True)
     if min_capex > 0:
         display_projects = [p for p in display_projects if p["capex_b"] >= min_capex]
+    if show_auto_only:
+        display_projects = [p for p in display_projects if p.get("auto_detected")]
 
     for p in display_projects:
+        auto_badge = " 🟢 AUTO" if p.get("auto_detected") else ""
         label = (
-            f"**{p['company']}** — {p['project']}   |   "
+            f"**{p['company']}**{auto_badge} — {p['project'][:80]}   |   "
             f"${p['capex_b']:.1f}B   |   {p['location']}   |   {p['status']}"
         )
         with st.expander(label):
@@ -1807,7 +1857,15 @@ with tab3:
             d1.metric("CapEx", f"${p['capex_b']:.1f}B")
             d2.metric("Status", p["status"].split("—")[0].split("(")[0].strip())
             d3.metric("Location", p["location"].split(",")[0])
-            d4.metric("Year", str(p["year"]))
+            d4.metric("Year", str(p.get("year", "?")))
+            if p.get("auto_detected"):
+                st.info(
+                    f"**AUTO-CONFIRMED** by live intelligence scanner on {p.get('detected_date','?')}. "
+                    f"Confidence: {p.get('confidence',0)}/10. "
+                    f"All criteria met: company identified, $1B+ amount extracted, "
+                    f"location confirmed, authoritative source, no cancellation signals.",
+                    icon="🔍",
+                )
             st.markdown(f"**Scale:** {p['scale']}")
             st.markdown(f"**Details:** {p['notes']}")
             st.markdown(
