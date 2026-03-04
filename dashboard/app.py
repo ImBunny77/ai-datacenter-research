@@ -297,6 +297,136 @@ ALL_PROJECTS = [
         source="San Antonio Business Journal (2025)", year=2025,
         url="https://news.microsoft.com/source/features/ai/microsoft-data-center-expansion/",
     ),
+    dict(
+        company="Microsoft", project="Georgia Cloud Data Center (Floyd County)",
+        location="Floyd County (Rome area), GA", capex_b=1.0, status="Under Construction",
+        scale="347-acre site; Microsoft's first large-scale Georgia campus",
+        notes=(
+            "Microsoft purchased a 347-acre site in Floyd County, Georgia and committed $1B "
+            "to building a cloud data center. Azure Southeast US coverage. First major Microsoft "
+            "data center presence in Georgia, supporting enterprise and government customers "
+            "in the Southeast."
+        ),
+        source="Microsoft; Georgia Economic Development (2024)", year=2024,
+        url="https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/",
+    ),
+    dict(
+        company="Microsoft", project="UK AI Data Center Expansion",
+        location="London + Wales + Northern England", capex_b=3.2, status="Active",
+        scale="GBP 2.5B (~$3.2B) 3-year program; multiple UK sites",
+        notes=(
+            "Microsoft announced a 3-year, GBP 2.5B ($3.2B) plan to expand AI data center "
+            "infrastructure across the UK, including sites in London, Wales, and potential "
+            "Northern England locations. Supports Azure UK South and UK West regions. "
+            "Key for UK government cloud (G-Cloud) and financial services compliance."
+        ),
+        source="Microsoft UK announcement (2025)", year=2025,
+        url="https://news.microsoft.com/en-gb/2025/04/03/microsoft-announces-gbp-2-5bn-investment-in-ai/",
+    ),
+    dict(
+        company="Microsoft", project="Germany Cloud & AI Capacity Expansion",
+        location="Frankfurt + Berlin + Munich, Germany", capex_b=3.5, status="Active",
+        scale="EUR 3.2B (~$3.5B); doubling German cloud capacity by end of 2025",
+        notes=(
+            "Microsoft pledged EUR 3.2B to double cloud and AI capacity in Germany by end of 2025. "
+            "Azure Germany West Central region anchor. Key for German industrial customers "
+            "(automotive, manufacturing) and EU data sovereignty mandates. "
+            "Includes sovereign cloud product for German government entities."
+        ),
+        source="Microsoft Germany announcement (2024)", year=2024,
+        url="https://news.microsoft.com/de-de/microsoft-investiert-3-2-mrd-euro-in-ki-infrastruktur/",
+    ),
+    dict(
+        company="Microsoft", project="France AI Infrastructure Investment",
+        location="Paris region + Lyon, France", capex_b=4.3, status="Active",
+        scale="EUR 4B (~$4.3B); Azure France Central and new regions",
+        notes=(
+            "Microsoft committed EUR 4B to French data center and AI infrastructure. "
+            "France is a strategic Azure region for EU financial services, luxury goods, "
+            "and aerospace industries. Supports French government digital sovereignty initiative. "
+            "Includes AI skilling program (1M people)."
+        ),
+        source="Microsoft France; Elysee announcement (2024)", year=2024,
+        url="https://news.microsoft.com/fr-fr/microsoft-investissement-france/",
+    ),
+    dict(
+        company="Microsoft", project="Japan Cloud & AI Expansion",
+        location="Tokyo + Osaka, Japan", capex_b=2.9, status="Active",
+        scale="$2.9B 2-year investment; Azure Japan East + West expansion",
+        notes=(
+            "Microsoft committed $2.9B to AI and cloud infrastructure in Japan over 2 years. "
+            "Includes expanding Azure Japan East (Tokyo) and Japan West (Osaka) regions. "
+            "Supports Japan's national AI strategy and large enterprise customers "
+            "(Sony, Toyota, NTT). Includes cybersecurity and AI skilling commitments."
+        ),
+        source="Microsoft Japan announcement; CNBC (2024)", year=2024,
+        url="https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-2-9-billion-in-ai-and-cloud-infrastructure-in-japan/",
+    ),
+    dict(
+        company="Microsoft", project="Australia Cloud & AI Expansion",
+        location="Sydney + Melbourne + Canberra, Australia", capex_b=3.3, status="Active",
+        scale="AUD 5B (~$3.3B) investment through 2025; Azure Australia regions",
+        notes=(
+            "Microsoft pledged AUD 5B (~$3.3B) to expand cloud computing and AI infrastructure "
+            "in Australia. Covers Azure Australia East (Sydney), Southeast (Melbourne), and "
+            "Central (Canberra) for government. Key for Australian federal government cloud "
+            "sovereignty requirements and financial services."
+        ),
+        source="Microsoft Australia; Australian government (2024)", year=2024,
+        url="https://news.microsoft.com/en-au/microsoft-to-invest-5-billion-in-australian-cloud-ai/",
+    ),
+    dict(
+        company="Microsoft", project="Malaysia Cloud & AI Infrastructure",
+        location="Kuala Lumpur region, Malaysia", capex_b=2.2, status="Active",
+        scale="$2.2B (2024-2028); new Azure Malaysia South region launched May 2025",
+        notes=(
+            "Microsoft committed $2.2B to Malaysia over 2024-2028, launching a new Azure "
+            "Malaysia South cloud region in May 2025. Supports Malaysia's national AI strategy "
+            "and regional Southeast Asian enterprise customers. "
+            "Part of Microsoft's Southeast Asia digital sovereignty push."
+        ),
+        source="Microsoft Malaysia; Techwire Asia (May 2025)", year=2025,
+        url="https://techwireasia.com/2025/05/microsoft-opens-cloud-regions-in-malaysia-and-indonesia/",
+    ),
+    dict(
+        company="Microsoft", project="Indonesia Cloud & AI Infrastructure",
+        location="Jakarta, Indonesia", capex_b=1.7, status="Active",
+        scale="$1.7B (2024-2028); Azure Indonesia Central region launched May 2025",
+        notes=(
+            "Microsoft invested $1.7B in Indonesia over 2024-2028, launching a new Azure "
+            "Indonesia Central cloud region in May 2025. Indonesia is the world's 4th most "
+            "populous country and a major emerging AI market. "
+            "Includes government cloud and national AI training programs."
+        ),
+        source="Microsoft Indonesia; Techwire Asia (May 2025)", year=2025,
+        url="https://techwireasia.com/2025/05/microsoft-opens-cloud-regions-in-malaysia-and-indonesia/",
+    ),
+    dict(
+        company="Microsoft", project="India Cloud & AI Expansion",
+        location="Pune + Hyderabad + Chennai, India", capex_b=3.0, status="Active",
+        scale="$3B 2-year investment; Azure India regions expansion",
+        notes=(
+            "Microsoft committed $3B to India cloud and AI infrastructure over 2 years. "
+            "Expands Azure India Central (Pune), South (Chennai), and West (Mumbai) regions. "
+            "India is one of Azure's fastest-growing markets. Supports Indian government "
+            "cloud mandates and a massive AI developer ecosystem."
+        ),
+        source="Microsoft India announcement (2025)", year=2025,
+        url="https://news.microsoft.com/en-in/microsoft-to-invest-3-billion-in-india-cloud-ai/",
+    ),
+    dict(
+        company="Microsoft", project="Spain Cloud & AI Expansion",
+        location="Madrid + Barcelona, Spain", capex_b=2.1, status="Active",
+        scale="$2.1B by end of 2025; 4x increase in Spanish AI/cloud investment",
+        notes=(
+            "Microsoft committed to quadruple its investments in AI and cloud infrastructure "
+            "in Spain, reaching $2.1B by end of 2025. Supports Azure Spain Central region "
+            "and serves Spanish enterprise customers (banking, telecom, government). "
+            "Part of Microsoft's Southern Europe expansion."
+        ),
+        source="Microsoft Spain; CIO Dive (2024)", year=2024,
+        url="https://www.ciodive.com/news/microsoft-cloud-azure-data-center-investments-generative-ai/717897/",
+    ),
     # ── Amazon / AWS ───────────────────────────────────────────────────────────
     dict(
         company="Amazon (AWS)", project="Indiana Data Center Campus",
@@ -335,16 +465,18 @@ ALL_PROJECTS = [
         url="https://www.aboutamazon.com/news/aws/amazon-data-centers-louisiana",
     ),
     dict(
-        company="Amazon (AWS)", project="Federal / Intelligence Community Cloud",
-        location="US (GovCloud East + West)", capex_b=4.5, status="Active/Ongoing",
-        scale="Classified facilities; separate GovCloud infrastructure",
+        company="Amazon (AWS)", project="US Government / Defense AI Infrastructure",
+        location="US (GovCloud East + West + Secret regions)", capex_b=50.0, status="Active/Ongoing",
+        scale="$50B commitment to US government AI + HPC infrastructure (announced Nov 2025)",
         notes=(
-            "AWS GovCloud regions serve DoD, NSA, CIA (C2E contract), and other intelligence "
-            "agencies. Estimated $4.5B+ in active classified infrastructure build. CIA JEDI/C2E "
-            "contract alone is a 10-year engagement. AWS is sole-sourced provider for many agencies."
+            "In November 2025, Amazon announced AWS will invest up to $50B to expand AI and "
+            "high-performance computing infrastructure specifically for US government customers — "
+            "DoD, intelligence community (CIA C2E contract), NSA, and other agencies. "
+            "This is the largest single US government cloud commitment in history. "
+            "AWS GovCloud regions serve classified workloads with separate physical infrastructure."
         ),
-        source="FedTech Magazine; AWS GovCloud filings (2025)", year=2025,
-        url="https://aws.amazon.com/govcloud-us/",
+        source="Amazon announcement; Digital Commerce 360 (Nov 2025)", year=2025,
+        url="https://www.digitalcommerce360.com/2026/01/02/amazon-ai-data-center-multibillion-dollar-commitments/",
     ),
     dict(
         company="Amazon (AWS)", project="Germany Data Center Expansion",
@@ -358,18 +490,45 @@ ALL_PROJECTS = [
         source="AWS; German government (2025)", year=2025,
         url="https://www.aboutamazon.com/news/aws/amazon-germany-data-centers",
     ),
+    dict(
+        company="Amazon (AWS)", project="Mississippi Data Center Campuses",
+        location="Madison County + Warren County, MS", capex_b=13.0, status="Announced",
+        scale="$10B (Madison County) + $3B (Warren County); largest private investment in MS history",
+        notes=(
+            "Amazon announced two hyperscale data center campuses in Mississippi — $10B in Madison "
+            "County and $3B in Warren County — totaling $13B. The Madison County project is the "
+            "largest single capital investment in Mississippi state history. Serves AWS US-South "
+            "capacity expansion. Construction beginning 2025-2026."
+        ),
+        source="Amazon; Mississippi Development Authority (2024)", year=2024,
+        url="https://www.datacenterfrontier.com/hyperscale/article/55295967/amazon-doubles-down-on-ai-infrastructure-with-30b-in-new-us-data-center-investments",
+    ),
+    dict(
+        company="Amazon (AWS)", project="Virginia Long-Term Infrastructure Program",
+        location="Northern Virginia to Richmond corridor", capex_b=35.0, status="Active/Ongoing (through 2040)",
+        scale="$35B committed through 2040; facilities in every county NoVA to Richmond",
+        notes=(
+            "Amazon has committed to invest $35B in Virginia data centers through 2040. NoVA "
+            "is AWS's largest US region (US-East-1). Amazon plans data center facilities in every "
+            "county between Northern Virginia and Richmond. This is the anchor US cloud region "
+            "supporting the majority of AWS's global traffic."
+        ),
+        source="Amazon; Virginia Economic Development Partnership (2025)", year=2025,
+        url="https://www.datacenterfrontier.com/hyperscale/article/55295967/amazon-doubles-down-on-ai-infrastructure-with-30b-in-new-us-data-center-investments",
+    ),
     # ── Google (Alphabet) ──────────────────────────────────────────────────────
     dict(
         company="Google", project="Texas Statewide AI Infrastructure",
-        location="Texas (multiple cities)", capex_b=10.0, status="Active",
-        scale="Statewide: existing sites in Council Bluffs (IA), new TX sites",
+        location="Texas (multiple cities — Midlothian, Garland, others)", capex_b=40.0, status="Active",
+        scale="$40B statewide commitment through 2027; multiple hyperscale campuses",
         notes=(
-            "Google announced $10B in Texas investments in 2025 for AI data center expansion. "
+            "Google announced $40B in Texas investments through 2027 for AI data center expansion — "
+            "confirmed by Governor Abbott's office and Google's own announcement. "
             "Specific sites include Midlothian, Garland, and other DFW-area campuses. "
             "Powers Google Cloud's South-Central US region and AI training clusters."
         ),
-        source="Google; Texas Economic Development (2025)", year=2025,
-        url="https://blog.google/inside-google/infrastructure/google-data-centers-united-states/",
+        source="Governor Abbott office; Google blog (Nov 2025)", year=2025,
+        url="https://gov.texas.gov/news/post/governor-abbott-google-announce-40-billion-investment-in-texas",
     ),
     dict(
         company="Google", project="Virginia Data Center Expansion",
@@ -445,6 +604,45 @@ ALL_PROJECTS = [
         source="Intersect Power; Bloomberg (2025)", year=2025,
         url="https://intersectpower.com/",
     ),
+    dict(
+        company="Google", project="Belgium AI Infrastructure Investment",
+        location="Saint-Ghislain, Belgium", capex_b=5.4, status="Under Construction",
+        scale="EUR 5B (~$5.4B) two-year expansion of existing Belgium campus (2026-2027)",
+        notes=(
+            "Google announced EUR 5B in Belgium data center expansion through 2027, expanding its "
+            "existing Saint-Ghislain facility to boost EU compute capacity and AI readiness. "
+            "Belgium campus is one of Google's largest EU sites. Supports EU AI Act compliance "
+            "and GDPR-sensitive European enterprise workloads."
+        ),
+        source="Google Cloud Press Corner (Oct 2025)", year=2025,
+        url="https://www.googlecloudpresscorner.com/2025-10-07-Google-Announces-New-EUR5-Billion-AI-Infrastructure-Investment-in-Belgium-through-2027",
+    ),
+    dict(
+        company="Google", project="India AI Data Center Cluster (Andhra Pradesh)",
+        location="Visakhapatnam, Andhra Pradesh, India", capex_b=15.0, status="Announced",
+        scale="1 GW cluster; largest Google data center outside the US",
+        notes=(
+            "Google confirmed a $15B investment in Andhra Pradesh, India — its largest data center "
+            "outside the United States. A 1 GW cluster in Visakhapatnam with major renewable energy "
+            "commitments (solar + wind PPAs). Positions Google to compete for Indian government "
+            "cloud contracts and serve the world's most populous internet market."
+        ),
+        source="CNBC; Google announcement (Oct 2025)", year=2025,
+        url="https://www.cnbc.com/2025/10/14/google-to-invest-10-billion-in-ai-data-center-project-in-india.html",
+    ),
+    dict(
+        company="Google", project="Arkansas Data Center (West Memphis)",
+        location="West Memphis, AR", capex_b=4.0, status="Announced",
+        scale="Google's first Arkansas facility; multi-billion buildout through 2027",
+        notes=(
+            "Google announced a $4B investment in West Memphis, Arkansas — the company's first "
+            "data center in the state. Located adjacent to Memphis, TN for fiber and power "
+            "connectivity. Part of Google's broader Mississippi River corridor expansion strategy. "
+            "Construction beginning 2026."
+        ),
+        source="Arkansas EDC; Google blog (Oct 2025)", year=2025,
+        url="https://www.arkansasedc.com/news-events/newsroom/detail/2025/10/02/google-locating-new-data-center-in-west-memphis--arkansas-with-multi-billion-dollar-investment",
+    ),
     # ── Meta ───────────────────────────────────────────────────────────────────
     dict(
         company="Meta", project="Hyperion AI Supercluster (Louisiana)",
@@ -493,6 +691,32 @@ ALL_PROJECTS = [
         ),
         source="Meta sustainability report (2025)", year=2025,
         url="https://sustainability.fb.com/innovation/data-centers/",
+    ),
+    dict(
+        company="Meta", project="Montgomery, Alabama Campus Expansion",
+        location="Montgomery, AL", capex_b=1.5, status="Active/Expanding",
+        scale="1.3M sq ft campus; combined AL investment >$3B with Huntsville site",
+        notes=(
+            "Meta announced an expansion of its Montgomery, AL data center in September 2025, "
+            "pushing total investment to $1.5B+ at the site (from $840M original). "
+            "Located near Hyundai's automotive plant off I-65. 100% renewable energy. "
+            "Together with Meta's Huntsville, AL facility, total Alabama investment exceeds $3B."
+        ),
+        source="Made in Alabama; Meta Data Centers (Sep 2025)", year=2025,
+        url="https://www.madeinalabama.com/2025/09/meta-to-expand-montgomery-data-hub-pushing-total-investment-to-1-5-billion/",
+    ),
+    dict(
+        company="Meta", project="Beaver Dam, Wisconsin Data Center",
+        location="Beaver Dam, WI", capex_b=1.0, status="Under Construction",
+        scale="Meta's 30th global data center; new Wisconsin AI workload site",
+        notes=(
+            "Meta broke ground on its 30th global data center in Beaver Dam, Wisconsin in "
+            "November 2025. Designed to support expanding AI workloads (Llama training + inference). "
+            "Investment exceeding $1B. Separate from the $27B Hyperion project in Louisiana. "
+            "Part of Meta's $125B FY2025 capital expenditure plan."
+        ),
+        source="DataCenterDynamics; Meta Data Centers (Nov 2025)", year=2025,
+        url="https://www.datacenterdynamics.com/en/news/meta-breaks-ground-on-beaver-dam-wisconsin-data-center/",
     ),
     # ── Oracle ─────────────────────────────────────────────────────────────────
     dict(
@@ -612,17 +836,17 @@ ALL_PROJECTS = [
         url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
     ),
     dict(
-        company="CoreWeave", project="Europe Expansion (UK + Germany)",
-        location="London, UK + Frankfurt, Germany", capex_b=2.2, status="Active",
-        scale="EU and UK GPU cloud presence; serves European AI labs",
+        company="CoreWeave", project="Europe Expansion (Norway, Sweden, Spain)",
+        location="Norway + Sweden + Spain", capex_b=2.2, status="Active",
+        scale="$2.2B committed; 100% renewable-powered Nordic + Iberian GPU clusters",
         notes=(
-            "CoreWeave established European operations with $2.2B committed across UK (London "
-            "Docklands area) and Germany (Frankfurt). Serves European AI startups and Microsoft "
-            "Azure European overflow. UK site benefits from proximity to DeepMind, Stability AI. "
-            "EU data sovereignty compliance built in."
+            "CoreWeave committed $2.2B to European data centers powered entirely by renewable "
+            "energy in Norway, Sweden, and Spain, targeting completion by end of 2025. "
+            "Nordic sites (Norway/Sweden) benefit from hydroelectric power and cold climate cooling. "
+            "Spain site serves Mediterranean EU markets. All renewable-powered."
         ),
         source="CoreWeave European expansion announcement (2025)", year=2025,
-        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+        url="https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx",
     ),
 ]
 
