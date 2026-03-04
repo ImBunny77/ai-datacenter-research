@@ -1,0 +1,50 @@
+name: Update Project Intelligence Feed
+
+on:
+  schedule:
+    # Run every 2 hours around the clock
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests python-dateutil
+
+      - name: Run project intelligence scanner
+        run: python dashboard/project_updater.py
+
+      - name: Commit updated project feed (if changed)
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add dashboard/data/projects_feed.json
+          if git diff --staged --quiet; then
+            echo "No changes to project feed -- nothing to commit"
+          else
+            FINDINGS=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['finding_count'])")
+            NEW=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['new_project_count'])")
+            CANCEL=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['cancellation_count'])")
+            SEC=$(python -c "import json; d=json.load(open('dashboard/data/projects_feed.json')); print(d['sec_filing_count'])")
+            git commit -m "auto: project feed -- ${FINDINGS} findings, ${NEW} new projects, ${CANCEL} cancellations, ${SEC} SEC filings [skip ci]"
+            git push
+            echo "Pushed project feed: ${FINDINGS} findings"
+          fi

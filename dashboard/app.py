@@ -1139,7 +1139,8 @@ def load_deals() -> pd.DataFrame:
         return pd.DataFrame()
 
 
-NEWS_JSON = ROOT / "dashboard" / "data" / "news_feed.json"
+NEWS_JSON     = ROOT / "dashboard" / "data" / "news_feed.json"
+PROJECTS_JSON = ROOT / "dashboard" / "data" / "projects_feed.json"
 
 
 @st.cache_data(ttl=timedelta(minutes=30), show_spinner=False)
@@ -1149,6 +1150,22 @@ def load_news_feed() -> dict:
         return json.loads(NEWS_JSON.read_text(encoding="utf-8"))
     except Exception:
         return {"last_updated": None, "article_count": 0, "deal_alert_count": 0, "articles": []}
+
+
+@st.cache_data(ttl=timedelta(minutes=30), show_spinner=False)
+def load_projects_feed() -> dict:
+    """Load project intelligence findings (updated by GitHub Actions every 2 hours)."""
+    try:
+        return json.loads(PROJECTS_JSON.read_text(encoding="utf-8"))
+    except Exception:
+        return {
+            "last_updated": None,
+            "finding_count": 0,
+            "new_project_count": 0,
+            "cancellation_count": 0,
+            "sec_filing_count": 0,
+            "findings": [],
+        }
 
 
 @st.cache_data(ttl=timedelta(hours=2), show_spinner=False)
@@ -1541,6 +1558,117 @@ with tab3:
         "as of March 3, 2026. Sourced from company announcements, SEC filings, state economic development offices, "
         "and investigative reporting. Excludes the stalled Stargate JV (see Largest Projects tab)."
     )
+
+    # ── Live Project Intelligence ─────────────────────────────────────────────
+    pf = load_projects_feed()
+    findings = pf.get("findings", [])
+
+    if findings:
+        last_scan = pf.get("last_updated")
+        if last_scan:
+            try:
+                from datetime import timezone as _tz
+                ts = datetime.fromisoformat(last_scan.replace("Z", "+00:00"))
+                age_mins = int((datetime.now(_tz.utc) - ts).total_seconds() / 60)
+                age_str = f"{age_mins}m ago" if age_mins < 60 else f"{age_mins//60}h ago"
+            except Exception:
+                age_str = "recently"
+        else:
+            age_str = "unknown"
+
+        with st.expander(
+            f"**Live Project Intelligence** — {pf.get('finding_count',0)} signals detected "
+            f"({pf.get('new_project_count',0)} new, {pf.get('cancellation_count',0)} cancellations, "
+            f"{pf.get('sec_filing_count',0)} SEC filings) — last scan: {age_str}",
+            expanded=True,
+        ):
+            st.caption(
+                "Automatically scans 25+ sources every 2 hours: Google News (12 targeted queries), "
+                "SEC EDGAR 8-K filings (official legal disclosures), DataCenterDynamics, DataCenterFrontier, "
+                "SemiAnalysis, SiliconAngle, company IR blogs, and more. "
+                "SEC 8-K filings are signed legal disclosures — the highest-authority source for confirmed investments."
+            )
+
+            if st.button("Refresh Intelligence Feed", key="refresh_proj"):
+                st.cache_data.clear()
+                st.rerun()
+
+            # Finding type color map
+            TYPE_COLORS = {
+                "New Project":          ("#238636", "#1a3a1f"),
+                "Expansion":            ("#1f6feb", "#0d2149"),
+                "Cancellation / Pause": ("#da3633", "#3a0a0a"),
+                "SEC Filing":           ("#d29922", "#3a2a00"),
+                "Earnings / Guidance":  ("#6e40c9", "#1f0f40"),
+                "Statement / Update":   ("#7d8590", "#1c1c1c"),
+            }
+
+            # Tabs within the expander: Cancellations first, then New Projects, SEC, All
+            pi1, pi2, pi3, pi4 = st.tabs([
+                f"Cancellations ({pf.get('cancellation_count',0)})",
+                f"New Projects ({pf.get('new_project_count',0)})",
+                f"SEC Filings ({pf.get('sec_filing_count',0)})",
+                f"All Signals ({pf.get('finding_count',0)})",
+            ])
+
+            def render_findings(items, max_show=40):
+                if not items:
+                    st.info("No findings in this category yet.")
+                    return
+                for f in items[:max_show]:
+                    ftype  = f.get("finding_type", "Statement / Update")
+                    border, bg = TYPE_COLORS.get(ftype, ("#7d8590", "#1c1c1c"))
+                    conf   = f.get("confidence", 0)
+                    conf_dots = "●" * conf + "○" * (10 - conf)
+                    cos    = ", ".join(f.get("companies", [])) or "—"
+                    locs   = ", ".join(f.get("locations", [])) or "—"
+                    amts   = ", ".join(f.get("amounts", [])) or "—"
+                    st.markdown(
+                        f'<div style="border-left:3px solid {border};background:{bg};'
+                        f'padding:10px 14px;margin:6px 0;border-radius:4px">'
+                        f'<div style="display:flex;justify-content:space-between;align-items:center">'
+                        f'<span style="color:{border};font-size:0.72rem;font-weight:700">{ftype.upper()}</span>'
+                        f'<span style="color:#7d8590;font-size:0.68rem">{f.get("date","?")} | Confidence: {conf_dots}</span>'
+                        f'</div>'
+                        f'<div style="font-weight:600;margin:4px 0"><a href="{f["url"]}" target="_blank" '
+                        f'style="color:#e6edf3;text-decoration:none">{f["title"]}</a></div>'
+                        f'<div style="color:#8b949e;font-size:0.78rem;margin:3px 0">{f.get("summary","")[:220]}...</div>'
+                        f'<div style="font-size:0.72rem;color:#7d8590;margin-top:5px">'
+                        f'Companies: <b>{cos}</b> &nbsp;|&nbsp; Locations: <b>{locs}</b> &nbsp;|&nbsp; Amounts: <b style="color:#f0a500">{amts}</b>'
+                        f'</div>'
+                        f'<div style="font-size:0.68rem;color:#484f58;margin-top:2px">Source: {f.get("source","")}</div>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
+
+            with pi1:
+                cancels = [f for f in findings if "Cancellation" in f.get("finding_type","")]
+                render_findings(cancels)
+            with pi2:
+                news = [f for f in findings if f.get("finding_type") == "New Project"]
+                render_findings(news)
+            with pi3:
+                secs = [f for f in findings if f.get("finding_type") == "SEC Filing"]
+                render_findings(secs)
+            with pi4:
+                # Filter controls
+                fc1, fc2 = st.columns([2, 2])
+                with fc1:
+                    co_filter = st.text_input("Filter by company", placeholder="e.g. Microsoft",
+                                              key="pi_co_filter")
+                with fc2:
+                    type_opts = ["All types"] + list(TYPE_COLORS.keys())
+                    type_filter = st.selectbox("Filter by type", type_opts, key="pi_type_filter")
+                shown = findings
+                if co_filter:
+                    shown = [f for f in shown
+                             if any(co_filter.lower() in c.lower() for c in f.get("companies", []))
+                             or co_filter.lower() in f.get("title","").lower()]
+                if type_filter != "All types":
+                    shown = [f for f in shown if f.get("finding_type") == type_filter]
+                render_findings(shown, max_show=60)
+
+    st.markdown("---")
 
     # Build DataFrame
     proj_rows = []
