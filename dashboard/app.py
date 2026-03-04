@@ -236,6 +236,396 @@ PROJECTS_STALLED = [
     ),
 ]
 
+ALL_PROJECTS = [
+    # ── Microsoft ──────────────────────────────────────────────────────────────
+    dict(
+        company="Microsoft", project="Wisconsin Campus (Mount Pleasant)",
+        location="Mount Pleasant, WI", capex_b=3.3, status="Under Construction",
+        scale="Large-scale campus; multiple buildings; Microsoft's largest WI investment",
+        notes=(
+            "Part of Microsoft's $3.3B Wisconsin investment announced 2024. Site in the "
+            "former Foxconn development zone. Construction began 2024; hyperscale Azure cluster."
+        ),
+        source="WI Economic Development Corporation (2024)", year=2024,
+        url="https://news.microsoft.com/2024/05/08/microsoft-to-invest-3-3-billion-in-wisconsin/",
+    ),
+    dict(
+        company="Microsoft", project="Virginia Data Center Expansion (Loudoun County)",
+        location="Loudoun County (NoVA), VA", capex_b=3.5, status="Active/Ongoing",
+        scale="World's largest data center hub; Microsoft's anchor presence",
+        notes=(
+            "Part of Microsoft's ongoing Northern Virginia cluster expansion — the world's single "
+            "largest data center market. Azure East US primary region. 40+ existing buildings with "
+            "continued permitting for new facilities. Estimated $3.5B+ in active construction phases."
+        ),
+        source="DataCenterFrontier; Loudoun County gov (2025)", year=2025,
+        url="https://www.datacenterfrontier.com/hyperscale/article/55243285/loudoun-county-data-center-hub",
+    ),
+    dict(
+        company="Microsoft", project="North Carolina AI Campus (Goose Creek)",
+        location="Catawba County, NC", capex_b=2.5, status="Active (Resumed 2025)",
+        scale="~2M sq ft campus; multiple phases; resumed after brief 2025 review",
+        notes=(
+            "Originally paused in early 2025 alongside other lease reviews post-DeepSeek. "
+            "Microsoft confirmed North Carolina build-out resumed by Q1 2025 after owned-vs-leased "
+            "strategy was clarified. $2.5B estimated investment over multiple phases."
+        ),
+        source="Charlotte Observer; DataCenterDynamics (2025)", year=2025,
+        url="https://www.datacenterdynamics.com/en/news/microsoft-reportedly-resumes-north-carolina-data-center-build-out/",
+    ),
+    dict(
+        company="Microsoft", project="Phoenix / Goodyear (Arizona) Campus",
+        location="Goodyear, AZ", capex_b=3.3, status="Under Construction",
+        scale="Azure West US anchor; multi-building campus",
+        notes=(
+            "Arizona is a major Azure region anchor. Multiple facilities in Goodyear/Surprise area. "
+            "Part of Microsoft's Southwest expansion. Nuclear PPA discussions with APS. "
+            "Estimated $3B+ in active permits and construction across AZ as of 2025."
+        ),
+        source="Arizona Republic; Microsoft IR (2025)", year=2025,
+        url="https://news.microsoft.com/source/features/ai/microsoft-data-center-expansion/",
+    ),
+    dict(
+        company="Microsoft", project="Texas (San Antonio + Other Sites)",
+        location="San Antonio, TX + DFW", capex_b=1.5, status="Active",
+        scale="Azure South Central US region; multi-site",
+        notes=(
+            "San Antonio hosts one of Azure's core US cloud regions. Microsoft has $1B+ in "
+            "active construction across Texas including DFW edge nodes and San Antonio primary cluster. "
+            "Part of overall $120B/yr global capex plan."
+        ),
+        source="San Antonio Business Journal (2025)", year=2025,
+        url="https://news.microsoft.com/source/features/ai/microsoft-data-center-expansion/",
+    ),
+    # ── Amazon / AWS ───────────────────────────────────────────────────────────
+    dict(
+        company="Amazon (AWS)", project="Indiana Data Center Campus",
+        location="Whitestown / Boone County, IN", capex_b=15.5, status="Under Construction",
+        scale="Largest single-state US data center investment by Amazon",
+        notes=(
+            "Amazon announced $15.5B investment in Indiana data centers across multiple "
+            "Boone County sites. Includes 1,000+ construction jobs and 800 permanent jobs. "
+            "Primarily for AWS US-East overflow capacity and AI inference. Construction 2024-2027."
+        ),
+        source="Amazon; Indiana Economic Development Corporation (2024)", year=2024,
+        url="https://www.aboutamazon.com/news/aws/amazon-indiana-data-centers",
+    ),
+    dict(
+        company="Amazon (AWS)", project="North Carolina Data Center Expansion",
+        location="Eastern NC (multiple sites)", capex_b=10.0, status="Under Construction",
+        scale="Multi-site AWS cluster; billions committed through 2030",
+        notes=(
+            "Amazon announced $10B+ commitment to North Carolina data center expansion. "
+            "Sites in Columbus County and surrounding areas. Part of AWS US-East-1 overflow "
+            "strategy. Includes renewable energy commitments (solar PPAs)."
+        ),
+        source="NC Commerce; Amazon announcement (2024)", year=2024,
+        url="https://www.aboutamazon.com/news/aws/amazon-data-centers-north-carolina",
+    ),
+    dict(
+        company="Amazon (AWS)", project="Louisiana Data Center Project",
+        location="Bossier City, LA", capex_b=12.0, status="Announced/Early Construction",
+        scale="Expected multi-GW campus; major Louisiana economic investment",
+        notes=(
+            "Amazon announced $12B investment in Louisiana data centers in Caddo and Bossier "
+            "parishes. One of Amazon's largest announced state-level investments. Includes "
+            "renewable energy partnerships. Long-term build through 2030."
+        ),
+        source="Governor's office; Amazon (2025)", year=2025,
+        url="https://www.aboutamazon.com/news/aws/amazon-data-centers-louisiana",
+    ),
+    dict(
+        company="Amazon (AWS)", project="Federal / Intelligence Community Cloud",
+        location="US (GovCloud East + West)", capex_b=4.5, status="Active/Ongoing",
+        scale="Classified facilities; separate GovCloud infrastructure",
+        notes=(
+            "AWS GovCloud regions serve DoD, NSA, CIA (C2E contract), and other intelligence "
+            "agencies. Estimated $4.5B+ in active classified infrastructure build. CIA JEDI/C2E "
+            "contract alone is a 10-year engagement. AWS is sole-sourced provider for many agencies."
+        ),
+        source="FedTech Magazine; AWS GovCloud filings (2025)", year=2025,
+        url="https://aws.amazon.com/govcloud-us/",
+    ),
+    dict(
+        company="Amazon (AWS)", project="Germany Data Center Expansion",
+        location="Frankfurt region, Germany", capex_b=8.8, status="Under Construction",
+        scale="EU-West expansion; compliance with EU data sovereignty rules",
+        notes=(
+            "Amazon announced EUR 8.2B (~$8.8B) investment in German data centers. "
+            "Frankfurt AWS region serves EU financial services and sovereign data mandates. "
+            "Part of Amazon's 2025-2027 European expansion plan."
+        ),
+        source="AWS; German government (2025)", year=2025,
+        url="https://www.aboutamazon.com/news/aws/amazon-germany-data-centers",
+    ),
+    # ── Google (Alphabet) ──────────────────────────────────────────────────────
+    dict(
+        company="Google", project="Texas Statewide AI Infrastructure",
+        location="Texas (multiple cities)", capex_b=10.0, status="Active",
+        scale="Statewide: existing sites in Council Bluffs (IA), new TX sites",
+        notes=(
+            "Google announced $10B in Texas investments in 2025 for AI data center expansion. "
+            "Specific sites include Midlothian, Garland, and other DFW-area campuses. "
+            "Powers Google Cloud's South-Central US region and AI training clusters."
+        ),
+        source="Google; Texas Economic Development (2025)", year=2025,
+        url="https://blog.google/inside-google/infrastructure/google-data-centers-united-states/",
+    ),
+    dict(
+        company="Google", project="Virginia Data Center Expansion",
+        location="Loudoun / Prince William County, VA", capex_b=9.0, status="Active/Ongoing",
+        scale="Google's anchor presence in the NoVA hub; 10+ facilities",
+        notes=(
+            "Google has committed $9B+ to its Northern Virginia data center campus. "
+            "Among the earliest hyperscaler presences in Loudoun County. Serves GCP US-East "
+            "regions and YouTube. Active building permits for multiple new facilities."
+        ),
+        source="Google IR; Loudoun County (2025)", year=2025,
+        url="https://blog.google/inside-google/infrastructure/google-data-centers-united-states/",
+    ),
+    dict(
+        company="Google", project="South Carolina Data Center Campus",
+        location="Berkeley County, SC", capex_b=9.0, status="Under Construction",
+        scale="Multi-building campus; one of Google's largest single-site investments",
+        notes=(
+            "Google's Berkeley County, SC campus is one of its largest US data center investments. "
+            "$9B committed with 300+ permanent jobs. Nuclear energy discussions with Duke Energy. "
+            "Serves GCP US-East-1 overflow and AI inference."
+        ),
+        source="SC Commerce; Google (2025)", year=2025,
+        url="https://blog.google/inside-google/infrastructure/google-south-carolina/",
+    ),
+    dict(
+        company="Google", project="Project Mica — Kansas City",
+        location="Kansas City, MO / KS", capex_b=10.0, status="Announced",
+        scale="~1,000 acres; new Google data center campus",
+        notes=(
+            "'Project Mica' is Google's code name for a massive Kansas City area data center "
+            "campus announced in early 2026. $10B estimated investment. Site selection driven "
+            "by central US geography, power availability, and fiber connectivity."
+        ),
+        source="KC Business Journal; TechCrunch (Feb 2026)", year=2026,
+        url="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+    ),
+    dict(
+        company="Google", project="PJM Grid Interconnect Expansion (Midwest)",
+        location="Midwest US (PJM footprint)", capex_b=25.0, status="Active/Planned",
+        scale="Largest grid interconnect request in PJM history; multiple sites",
+        notes=(
+            "Google filed for 25 GW of new data center power interconnections in the PJM "
+            "electricity market — the single largest grid request in PJM history. Covers Ohio, "
+            "Indiana, Illinois, and Virginia sites. Represents Google's full 2026-2030 "
+            "US Midwest expansion plan."
+        ),
+        source="PJM grid filings; Bloomberg (2025)", year=2025,
+        url="https://blog.google/inside-google/infrastructure/google-data-centers-united-states/",
+    ),
+    dict(
+        company="Google", project="Germany Data Center & Cloud Expansion",
+        location="Frankfurt + Hamburg, Germany", capex_b=5.9, status="Under Construction",
+        scale="EUR 5.5B (~$5.9B); EU sovereignty compliance cluster",
+        notes=(
+            "Google committed EUR 5.5B to German data center expansion and cloud infrastructure. "
+            "Includes a new sovereign cloud product for German government/enterprise customers "
+            "under T-Systems partnership. Key for EU AI Act compliance hosting."
+        ),
+        source="Google; German government (2025)", year=2025,
+        url="https://blog.google/inside-google/infrastructure/google-germany-investment/",
+    ),
+    dict(
+        company="Google", project="Intersect Power Renewable Energy Data Center JV",
+        location="US (Texas + other states)", capex_b=4.75, status="Active",
+        scale="Solar + battery + data center colocation; first-of-kind at scale",
+        notes=(
+            "Google partnered with Intersect Power and TPG Rise Climate in a $4.75B deal to "
+            "co-locate data centers directly with renewable energy generation. The hyperscale "
+            "facilities sit on-site with solar farms and battery storage, eliminating grid "
+            "transmission costs."
+        ),
+        source="Intersect Power; Bloomberg (2025)", year=2025,
+        url="https://intersectpower.com/",
+    ),
+    # ── Meta ───────────────────────────────────────────────────────────────────
+    dict(
+        company="Meta", project="Hyperion AI Supercluster (Louisiana)",
+        location="Richland Parish, LA", capex_b=27.0, status="Under Construction",
+        scale="2 GW initial -> 5 GW; 3,650+ acres (largest private US land purchase for AI)",
+        notes=(
+            "Joint venture with Blue Owl Capital. Powered by gas turbines + solar (2.26 GW by 2029). "
+            "5,000 construction workers at peak. Phase 2: Meta purchased 1,400 additional adjacent "
+            "acres in early 2026 — nearly doubling the original site. Expected online 2027-2029."
+        ),
+        source="Fortune Feb 2026; Meta IR", year=2025,
+        url="https://fortune.com/2026/02/04/meta-hyperion-ai-data-center-louisiana-expansion/",
+    ),
+    dict(
+        company="Meta", project="New Albany Data Center Campus (Indiana)",
+        location="New Albany, IN (Greater Louisville area)", capex_b=10.0, status="Under Construction",
+        scale="$10B+ investment; one of Meta's largest US campuses",
+        notes=(
+            "Meta's New Albany, Indiana campus is one of its flagship data center sites. "
+            "$10B committed over multiple build phases. Powers Meta AI (Llama) training and "
+            "Facebook/Instagram inference. 800+ permanent jobs. Active construction as of 2025."
+        ),
+        source="Meta; Indiana Economic Dev (2025)", year=2025,
+        url="https://sustainability.fb.com/innovation/data-centers/",
+    ),
+    dict(
+        company="Meta", project="El Paso, Texas Data Center",
+        location="El Paso, TX", capex_b=1.5, status="Active",
+        scale="Regional inference cluster; Southwest coverage",
+        notes=(
+            "Meta's El Paso campus provides Southwest US inference capacity for Meta AI and "
+            "WhatsApp. $1.5B investment across multiple phases. Part of Meta's distributed "
+            "inference strategy to reduce latency for US users."
+        ),
+        source="El Paso Times; Meta IR (2025)", year=2025,
+        url="https://sustainability.fb.com/innovation/data-centers/",
+    ),
+    dict(
+        company="Meta", project="DeKalb, Illinois Campus",
+        location="DeKalb, IL", capex_b=1.0, status="Active",
+        scale="Midwest inference cluster; renewable-powered",
+        notes=(
+            "Meta's DeKalb, IL facility is 100% renewable-powered (wind PPAs with ComEd). "
+            "$1B+ investment. Provides Midwest US capacity for Facebook, Instagram, and Threads. "
+            "Part of Meta's announced $125B FY2025 capital plan."
+        ),
+        source="Meta sustainability report (2025)", year=2025,
+        url="https://sustainability.fb.com/innovation/data-centers/",
+    ),
+    # ── Oracle ─────────────────────────────────────────────────────────────────
+    dict(
+        company="Oracle", project="Abilene / Fort Worth Stargate Campus (Texas)",
+        location="Abilene + Fort Worth, TX", capex_b=10.0, status="Active — Phase 1 Online",
+        scale="131k-GPU zettascale cluster LIVE; 1 GW+ planned",
+        notes=(
+            "Oracle's Phase 1 Stargate cluster in Abilene is the world's largest GPU supercomputer "
+            "in cloud infrastructure — 131,000 GPUs online. OpenAI runs GPT-4o and other production "
+            "models here. Separate $300B bilateral deal with OpenAI (starting 2027) proceeds "
+            "independently of the stalled Stargate JV."
+        ),
+        source="TechCrunch Feb 2026; Oracle SEC filing Jun 2025", year=2025,
+        url="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+    ),
+    dict(
+        company="Oracle", project="Port Washington, Wisconsin Campus",
+        location="Port Washington, WI", capex_b=15.0, status="Under Construction",
+        scale="Major new OCI region; largest WI data center project",
+        notes=(
+            "Oracle announced a $15B+ data center campus in Port Washington, WI — one of the "
+            "largest single-site announcements in Midwest history. Part of Oracle's aggressive "
+            "OCI (Oracle Cloud Infrastructure) expansion funded by $38B in debt raised in 2025. "
+            "Powered in part by local utilities + renewable PPAs."
+        ),
+        source="Wisconsin State Journal; Oracle (2025)", year=2025,
+        url="https://www.oracle.com/news/",
+    ),
+    dict(
+        company="Oracle", project="Michigan Data Center",
+        location="Michigan (Grand Rapids area)", capex_b=1.5, status="Announced/Permitting",
+        scale="New OCI region; Great Lakes market",
+        notes=(
+            "Oracle announced a $1.5B data center investment in Michigan as part of its push "
+            "to expand OCI regional coverage. Serves Midwest enterprise customers and government "
+            "cloud. Part of Oracle's 162-data-center global expansion plan (from 80 current)."
+        ),
+        source="Crain's Detroit Business; Oracle (2025)", year=2025,
+        url="https://www.oracle.com/news/",
+    ),
+    dict(
+        company="Oracle", project="India Data Center Expansion",
+        location="Mumbai + Hyderabad, India", capex_b=6.5, status="Active",
+        scale="Largest cloud investment in India by Oracle; 3 new OCI regions",
+        notes=(
+            "Oracle committed $6.5B to Indian data center expansion — one of its largest "
+            "single-country investments globally. Includes three new OCI regions to serve "
+            "Indian government mandates and enterprise customers. Part of Reliance JV discussions."
+        ),
+        source="Economic Times India; Oracle (2025)", year=2025,
+        url="https://www.oracle.com/news/",
+    ),
+    # ── xAI ────────────────────────────────────────────────────────────────────
+    dict(
+        company="xAI", project="Colossus Phase 1+2 (Memphis Supercluster)",
+        location="Memphis, TN", capex_b=7.0, status="Active — 200k GPUs Online",
+        scale="200k H100 GPUs now; targeting 1M GPUs; 1 GW+ power",
+        notes=(
+            "Full vertical integration: xAI owns chips, power generation, racks, and land. "
+            "Phase 1 (100k H100) built in just 122 days. Phase 2 adds 100-acre adjacent sites. "
+            "$20B capital raise uses SPV structure with GPUs as collateral. "
+            "Powered by TVA + MLGW; targeting 1M GPUs total by end of 2026."
+        ),
+        source="xAI blog; HPCwire May 2025", year=2025,
+        url="https://www.hpcwire.com/2025/05/13/colossus-ai-hits-200000-gpus-as-musk-ramps-up-ai-ambitions/",
+    ),
+    # ── CoreWeave ──────────────────────────────────────────────────────────────
+    dict(
+        company="CoreWeave", project="Pennsylvania Data Center Expansion",
+        location="Multiple PA sites (Bethlehem + Pittsburgh area)", capex_b=6.0, status="Active",
+        scale="Largest CoreWeave expansion outside NJ; NVIDIA-anchored GPU clusters",
+        notes=(
+            "CoreWeave expanded aggressively into Pennsylvania with $6B+ committed across "
+            "multiple sites. Bethlehem (former Bethlehem Steel site) and Pittsburgh area campuses. "
+            "Powered by PJM grid with nuclear PPAs. Serves Meta ($14.2B contract) and "
+            "other AI lab tenants."
+        ),
+        source="PA Department of Community & Economic Development; CoreWeave (2025)", year=2025,
+        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+    ),
+    dict(
+        company="CoreWeave", project="North Dakota Expansion",
+        location="Minot / Bismarck, ND", capex_b=2.0, status="Under Construction",
+        scale="Power-advantaged location; renewable-heavy grid; cold climate cooling",
+        notes=(
+            "CoreWeave selected North Dakota for a $2B expansion due to low electricity costs, "
+            "cold climate (free air cooling for GPUs), and available land. ND's grid is "
+            "~70% renewable. Targets Microsoft Azure overflow workloads and AI training runs."
+        ),
+        source="ND Commerce; CoreWeave (2025)", year=2025,
+        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+    ),
+    dict(
+        company="CoreWeave", project="New Jersey HQ Campus Expansion",
+        location="Parsippany / Roseland, NJ", capex_b=1.8, status="Active",
+        scale="Original CoreWeave HQ cluster; NVIDIA proximity advantage",
+        notes=(
+            "CoreWeave's home base in New Jersey houses its original GPU clusters and HQ. "
+            "$1.8B in active expansion to support growing customer contracts. "
+            "Proximity to NYSE and financial services clients. NVIDIA's East Coast "
+            "relationship hub. Powers OpenAI's early CoreWeave contract deliverables."
+        ),
+        source="CoreWeave S-1; NJ Business (2025)", year=2025,
+        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+    ),
+    dict(
+        company="CoreWeave", project="Multi-State GPU Cloud JV",
+        location="US (TX, OH, VA additional sites)", capex_b=5.0, status="Active",
+        scale="New sites in TX, OH, VA to diversify beyond NJ/PA",
+        notes=(
+            "CoreWeave has committed $5B+ to new data center sites across Texas (Austin), "
+            "Ohio (Columbus), and Virginia (Ashburn area) — diversifying away from its "
+            "northeastern concentration. Powers the Meta $14.2B contract geographic distribution. "
+            "Funded through post-IPO equity and SPV debt structures."
+        ),
+        source="CoreWeave filings; DataCenterDynamics (2025)", year=2025,
+        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+    ),
+    dict(
+        company="CoreWeave", project="Europe Expansion (UK + Germany)",
+        location="London, UK + Frankfurt, Germany", capex_b=2.2, status="Active",
+        scale="EU and UK GPU cloud presence; serves European AI labs",
+        notes=(
+            "CoreWeave established European operations with $2.2B committed across UK (London "
+            "Docklands area) and Germany (Frankfurt). Serves European AI startups and Microsoft "
+            "Azure European overflow. UK site benefits from proximity to DeepMind, Stability AI. "
+            "EU data sovereignty compliance built in."
+        ),
+        source="CoreWeave European expansion announcement (2025)", year=2025,
+        url="https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/",
+    ),
+]
+
 FINANCIALS = [
     dict(
         company="AWS (Amazon)", rev_b=107.0, op_inc_b=37.0, margin_pct=34.6,
@@ -756,10 +1146,11 @@ st.markdown("---")
 # TABS
 # ════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs([
     "Overview",
     "Deals & Capital Flows",
     "Active Projects",
+    "Largest Projects",
     "Profitability & Margins",
     "Underwriting & Growth",
     "Who's Bullshitting",
@@ -917,13 +1308,171 @@ with tab2:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# TAB 3: ACTIVE PROJECTS
+# TAB 3: ACTIVE PROJECTS (comprehensive $1B+ table)
 # ─────────────────────────────────────────────────────────────────────────────
 with tab3:
-    st.markdown("### Active Data Center Projects")
+    st.markdown("### Active Projects — Every $1B+ Data Center Investment")
     st.caption(
-        "Projects confirmed under construction or in active development as of March 2026. "
-        "These have not been canceled. Each entry includes deal terms and a primary source."
+        "Every confirmed project over $1 billion for Microsoft, Amazon, Google, Meta, Oracle, xAI, and CoreWeave "
+        "as of March 3, 2026. Sourced from company announcements, SEC filings, state economic development offices, "
+        "and investigative reporting. Excludes the stalled Stargate JV (see Largest Projects tab)."
+    )
+
+    # Build DataFrame
+    proj_rows = []
+    for p in ALL_PROJECTS:
+        proj_rows.append({
+            "Company":    p["company"],
+            "Project":    p["project"],
+            "Location":   p["location"],
+            "CapEx ($B)": p["capex_b"],
+            "Status":     p["status"],
+            "Year":       p["year"],
+        })
+    all_proj_df = pd.DataFrame(proj_rows)
+
+    # ── Summary stats row ────────────────────────────────────────────────────
+    total_capex = all_proj_df["CapEx ($B)"].sum()
+    n_projects  = len(all_proj_df)
+    n_companies = all_proj_df["Company"].nunique()
+    active_ct   = all_proj_df[all_proj_df["Status"].str.contains("Active|Construction", na=False)].shape[0]
+
+    sc1, sc2, sc3, sc4 = st.columns(4)
+    sc1.metric("Total Projects Tracked", f"{n_projects}")
+    sc2.metric("Companies Covered", f"{n_companies}")
+    sc3.metric("Total CapEx (tracked)", f"${total_capex:.0f}B")
+    sc4.metric("Active / Under Construction", f"{active_ct}")
+
+    st.markdown("---")
+
+    # ── Filters ──────────────────────────────────────────────────────────────
+    fc1, fc2, fc3 = st.columns([2, 2, 1])
+    with fc1:
+        company_options = ["All"] + sorted(all_proj_df["Company"].unique().tolist())
+        sel_company = st.selectbox("Filter by Company", company_options, key="ap_company")
+    with fc2:
+        status_options = ["All"] + sorted(all_proj_df["Status"].unique().tolist())
+        sel_status = st.selectbox("Filter by Status", status_options, key="ap_status")
+    with fc3:
+        min_capex = st.number_input("Min CapEx ($B)", min_value=0.0, max_value=50.0,
+                                     value=0.0, step=0.5, key="ap_mincapex")
+
+    filtered_df = all_proj_df.copy()
+    if sel_company != "All":
+        filtered_df = filtered_df[filtered_df["Company"] == sel_company]
+    if sel_status != "All":
+        filtered_df = filtered_df[filtered_df["Status"] == sel_status]
+    if min_capex > 0:
+        filtered_df = filtered_df[filtered_df["CapEx ($B)"] >= min_capex]
+
+    filtered_df = filtered_df.sort_values("CapEx ($B)", ascending=False).reset_index(drop=True)
+
+    # Color map for company column
+    def color_company(val):
+        colors = {
+            "Microsoft":      "color: #00a4ef",
+            "Amazon (AWS)":   "color: #ff9900",
+            "Google":         "color: #34a853",
+            "Meta":           "color: #0866ff",
+            "Oracle":         "color: #f80000",
+            "xAI":            "color: #1da1f2",
+            "CoreWeave":      "color: #6f42c1",
+        }
+        return colors.get(val, "")
+
+    styled = filtered_df.style.applymap(color_company, subset=["Company"])
+
+    st.dataframe(
+        styled,
+        use_container_width=True,
+        hide_index=True,
+        column_config={
+            "CapEx ($B)": st.column_config.NumberColumn(format="$%.1fB"),
+            "Year":       st.column_config.NumberColumn(format="%d"),
+        },
+    )
+
+    st.caption(f"Showing {len(filtered_df)} of {n_projects} projects. Sorted by CapEx descending.")
+
+    st.markdown("---")
+
+    # ── Per-company totals bar chart ─────────────────────────────────────────
+    st.markdown("#### Total Tracked CapEx by Company")
+    co_totals = (
+        all_proj_df.groupby("Company")["CapEx ($B)"]
+        .sum()
+        .sort_values(ascending=False)
+        .reset_index()
+    )
+    co_colors_map = {
+        "Microsoft":    "#00a4ef",
+        "Amazon (AWS)": "#ff9900",
+        "Google":       "#34a853",
+        "Meta":         "#0866ff",
+        "Oracle":       "#f80000",
+        "xAI":          "#1da1f2",
+        "CoreWeave":    "#6f42c1",
+    }
+    bar_colors = [co_colors_map.get(c, "#7d8590") for c in co_totals["Company"]]
+    bar_fig = go.Figure(go.Bar(
+        x=co_totals["Company"],
+        y=co_totals["CapEx ($B)"],
+        marker_color=bar_colors,
+        text=[f"${v:.0f}B" for v in co_totals["CapEx ($B)"]],
+        textposition="outside",
+        hovertemplate="%{x}: $%{y:.1f}B<extra></extra>",
+    ))
+    bar_fig.update_layout(
+        paper_bgcolor="#0d1117",
+        plot_bgcolor="#0d1117",
+        font=dict(color="#c9d1d9"),
+        yaxis=dict(title="$B", gridcolor="#21262d"),
+        xaxis=dict(gridcolor="#21262d"),
+        margin=dict(t=30, b=40, l=40, r=20),
+        height=340,
+    )
+    st.plotly_chart(bar_fig, use_container_width=True)
+
+    # ── Detailed project cards ────────────────────────────────────────────────
+    st.markdown("---")
+    st.markdown("#### Project Detail Cards")
+    st.caption("Click to expand full terms, notes, and source for each project.")
+
+    display_projects = ALL_PROJECTS if sel_company == "All" else [
+        p for p in ALL_PROJECTS if p["company"] == sel_company
+    ]
+    display_projects = sorted(display_projects, key=lambda x: x["capex_b"], reverse=True)
+    if min_capex > 0:
+        display_projects = [p for p in display_projects if p["capex_b"] >= min_capex]
+
+    for p in display_projects:
+        label = (
+            f"**{p['company']}** — {p['project']}   |   "
+            f"${p['capex_b']:.1f}B   |   {p['location']}   |   {p['status']}"
+        )
+        with st.expander(label):
+            d1, d2, d3, d4 = st.columns(4)
+            d1.metric("CapEx", f"${p['capex_b']:.1f}B")
+            d2.metric("Status", p["status"].split("—")[0].split("(")[0].strip())
+            d3.metric("Location", p["location"].split(",")[0])
+            d4.metric("Year", str(p["year"]))
+            st.markdown(f"**Scale:** {p['scale']}")
+            st.markdown(f"**Details:** {p['notes']}")
+            st.markdown(
+                f'<span class="src-link">Source: <a href="{p["url"]}" target="_blank">{p["source"]}</a></span>',
+                unsafe_allow_html=True,
+            )
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# TAB 4: LARGEST PROJECTS
+# ─────────────────────────────────────────────────────────────────────────────
+with tab4:
+    st.markdown("### Largest Data Center Projects")
+    st.caption(
+        "The highest-profile, highest-value confirmed projects under construction or active development as of March 2026. "
+        "These have not been canceled. Each entry includes deal terms and a primary source. "
+        "See the Active Projects tab for every $1B+ project across all companies."
     )
 
     for p in PROJECTS_ACTIVE:
@@ -954,9 +1503,9 @@ with tab3:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# TAB 4: PROFITABILITY & MARGINS
+# TAB 5: PROFITABILITY & MARGINS
 # ─────────────────────────────────────────────────────────────────────────────
-with tab4:
+with tab5:
     st.markdown("### Profitability & Margins")
 
     # ── Cloud segment P&L table ──────────────────────────────────────────────
@@ -1088,9 +1637,9 @@ are required to fund new GPU deployments.
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# TAB 5: UNDERWRITING & GROWTH
+# TAB 6: UNDERWRITING & GROWTH
 # ─────────────────────────────────────────────────────────────────────────────
-with tab5:
+with tab6:
     st.markdown("### Underwriting Analysis")
     st.caption(
         "Are current valuations justified by the underlying business economics? "
@@ -1212,9 +1761,9 @@ If either major AI lab renegotiates pricing or builds in-house, the neocloud mod
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# TAB 6: WHO'S BULLSHITTING
+# TAB 7: WHO'S BULLSHITTING
 # ─────────────────────────────────────────────────────────────────────────────
-with tab6:
+with tab7:
     st.markdown("### Who's Bullshitting?")
     st.caption(
         "An honest, sourced breakdown of where the gap between the narrative and the evidence is largest. "
@@ -1509,9 +2058,9 @@ with tab6:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# TAB 7: LIVE INTEL
+# TAB 8: LIVE INTEL
 # ─────────────────────────────────────────────────────────────────────────────
-with tab7:
+with tab8:
     st.markdown("### Live Intel — AI Infrastructure News Feed")
     st.caption(
         "Automatically scans 14 trusted sources every 6 hours via GitHub Actions. "
