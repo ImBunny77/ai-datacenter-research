@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-03-05T10:41:26.710233+00:00",
-  "finding_count": 507,
-  "new_project_count": 110,
-  "cancellation_count": 16,
+  "last_updated": "2026-03-05T13:04:22.885708+00:00",
+  "finding_count": 518,
+  "new_project_count": 114,
+  "cancellation_count": 18,
   "sec_filing_count": 30,
-  "high_confidence_count": 248,
+  "high_confidence_count": 255,
   "findings": [
+    {
+      "id": "53f7dc60277416",
+      "title": "Big tech makes ratepayer protection pledge for data centers at White House",
+      "url": "https://www.datacenterdynamics.com/en/news/big-tech-makes-ratepayer-protection-pledge-at-white-house/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Will see Google, Microsoft, Meta, Oracle, xAI, OpenAI, and Amazon commit to buy or build generation needed for their facilities",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Meta",
+        "Oracle",
+        "xAI",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "990b5e0363ca60",
+      "title": "NDC acquires data center in Rennes from French insurance firm Groupama",
+      "url": "https://www.datacenterdynamics.com/en/news/ndc-acquires-data-center-in-rennes-from-french-insurance-firm-groupama/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Company takes over 1.3MW facility, adding second site in Rennes",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1.3MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "6f43e8722ccec2",
       "title": "2MW data center being developed in central Finland, will be integrated into district heating",
@@ -26,6 +66,43 @@
       "is_high_confidence": true
     },
     {
+      "id": "7fdeb1e13715c5",
+      "title": "Israel and US bomb data centers in Tehran, following Iran's drone strikes on AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/israel-and-us-bomb-data-centers-in-tehran-following-irans-drone-strikes-on-aws/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "As data centers increasingly become targets in war",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "808a9eb340c302",
+      "title": "Meta signs pre-development agreement for data center in Beloit, Wisconsin",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-pre-development-agreement-for-data-center-in-beloit-wisconsin/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Project could come to 430 acres near Wisconsin-Illinois border",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Wisconsin",
+        "Illinois"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "050d0dac0826d8",
       "title": "Big tech companies sign Trump’s voluntary pledge to protect Americans from rising electricity costs",
       "url": "https://siliconangle.com/2026/03/04/big-tech-companies-sign-trumps-pledge-protect-americans-rising-electricity-costs/",
@@ -42,6 +119,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4fe94a2916f4f",
+      "title": "AWS introduces Amazon Connect Health with AI agents to reduce administrative burden in healthcare",
+      "url": "https://siliconangle.com/2026/03/05/aws-introduces-amazon-connect-health-ai-agents-reduce-administrative-burden-healthcare/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-05",
+      "summary": "Amazon Web Services Inc. today announced the launch of Amazon Connect Health, a new agentic artificial intelligence solution focused on reducing administrative workloads for healthcare providers while improving how patients access care. The platform is designed to automate routine operational tasks, including patient verification, appointment scheduling, medical history review, clinical documentation and medical coding. AWS [&#8230;] \n The post  AWS introduces Amazon Connect Health with AI agent",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -65,6 +159,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "4cc7b4dea5d0a5",
+      "title": "Industrial firm Alfa Laval enters data center market with liquid cooling system",
+      "url": "https://www.datacenterdynamics.com/en/news/industrial-firm-alfa-laval-enters-data-center-market-with-liquid-cooling-system/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Company launches FreeWaterLoop system",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "79eaa3345b620f",
       "title": "Microsoft open-sources multimodal reasoning model with 15B parameters",
       "url": "https://siliconangle.com/2026/03/04/microsoft-open-sources-multimodal-reasoning-model-15b-parameters/",
@@ -79,6 +188,38 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b126692ed0b3ee",
+      "title": "We’re opening the Google AI Center Berlin as a hub for researchers, developers and leaders.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/google-ai-center-berlin/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-05",
+      "summary": "Photo of the Google team",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "11985633f68c71",
+      "title": "Radian Arc and Blacknut launch GPU cloud in Vietnam",
+      "url": "https://www.datacenterdynamics.com/en/news/radian-arc-and-blacknut-launch-gpu-cloud-in-vietnam/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Aims to support cloud gaming and AI services",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -110,6 +251,27 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "30ec60b4de4014",
+      "title": "Google to invest $10 billion in data centre and AI project in India - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHZTREJPdm9vSjJLMU9aVnQ1V1o1MENiTjhPamFXUEdJeml1U1I1ZFgzcGY4VkNRdEJpdUJaMDFHdW5KMVV5SW40aTRLN2NvN2JSQnZaOTBJZl9reU1oSTlrRDhEQ0FWLVBSRlB2RFJpbnFQMWFKcHpKTmFON0stcDJabGNKWlZlOC1kdTduSkxRaTViQ0luRkpydDZuR3ZCTldSVEU3NDFQeUFjdy10Y2xRWkFGZw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-03-04",
+      "summary": "Google to invest $10 billion in data centre and AI project in India &nbsp;&nbsp; AOL.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "8585a130c702ba",
@@ -150,6 +312,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "6012d0d6d5f153",
+      "title": "How Meta’s Data Centers Support American Energy, Jobs, the Environment, and Local Communities",
+      "url": "https://about.fb.com/news/2026/03/meta-data-centers-support-energy-jobs-environment-local-communities/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-03-04",
+      "summary": "Our AI-optimized data centers are an investment in the future of the US economy, and we’re committed to supporting the communities where we have data centers through responsible energy use, job creation, water stewardship, philanthropic giving, and more. \n The post  How Meta’s Data Centers Support American Energy, Jobs, the Environment, and Local Communities  appeared first on  Meta Newsroom .",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "fea79c82ab73da",
       "title": "Core Scientific buys land outside Dallas, Texas, for 285MW data center campus",
       "url": "https://www.datacenterdynamics.com/en/news/core-scientific-buys-land-outside-dallas-texas-for-285mw-data-center-campus/",
@@ -185,24 +365,6 @@
       "amounts": [
         "115MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6012d0d6d5f153",
-      "title": "How Meta’s Data Centers Support American Energy, Jobs, the Environment, and Local Communities",
-      "url": "https://about.fb.com/news/2026/03/meta-data-centers-support-energy-jobs-environment-local-communities/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-03-04",
-      "summary": "Our AI-optimized data centers are an investment in the future of the US economy, and we’re committed to supporting the communities where we have data centers through responsible energy use, job creation, water stewardship, philanthropic giving, and more. \n The post  How Meta’s Data Centers Support American Energy, Jobs, the Environment, and Local Communities  appeared first on  Meta Newsroom .",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -351,23 +513,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2a209c8605874b",
-      "title": "State-wide data center moratorium could be proposed in Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/state-wide-data-center-moratorium-could-be-proposed-in-pennsylvania/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-04",
-      "summary": "Calls for pause grow louder",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "cfef4c2b855425",
       "title": "Intel unveils cutting-edge Xeon 6+ CPUs with 288 cores, targeting AI-ready networks",
       "url": "https://siliconangle.com/2026/03/03/intel-unveils-cutting-edge-xeon-6-cpus-288-cores-targeting-ai-ready-networks/",
@@ -395,6 +540,23 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2a209c8605874b",
+      "title": "State-wide data center moratorium could be proposed in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/state-wide-data-center-moratorium-could-be-proposed-in-pennsylvania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-04",
+      "summary": "Calls for pause grow louder",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -467,8 +629,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "45006eac4835a2",
-      "title": "Kalshi users able to gamble on Nvidia GPU compute prices, based on Ornn's compute derivatives platform",
+      "id": "9c84dcbce00e1c",
+      "title": "Kalshi users able to wager on Nvidia GPU compute prices, based on Ornn's compute derivatives platform",
       "url": "https://www.datacenterdynamics.com/en/news/kalshi-users-able-to-gamble-on-nvidia-gpu-compute-prices-based-on-ornns-compute-derivatives-platform/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
@@ -529,38 +691,6 @@
       "companies": [],
       "locations": [
         "Minnesota"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d75a043b63599b",
-      "title": "GIP, EQT strike $10.7bn deal to acquire US power producer AES",
-      "url": "https://www.datacenterdynamics.com/en/news/gip-eqt-strike-107bn-deal-to-acquire-us-power-producer-aes/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-04",
-      "summary": "AES is one of the biggest providers of renewable power to the US data center market",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4eeaa51c5f0e26",
-      "title": "Bridge DC inks MoU with Concord Energy for data center renewable and hydrogen use",
-      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-inks-mou-with-concord-energy-for-data-center-renewable-and-hydrogen-use/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-04",
-      "summary": "Will also include the development of Singapore’s first barge-based hydrogen power generation solution",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore"
       ],
       "amounts": [],
       "confidence": 2,
@@ -714,6 +844,55 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "45006eac4835a2",
+      "title": "Kalshi users able to gamble on Nvidia GPU compute prices, based on Ornn's compute derivatives platform",
+      "url": "https://www.datacenterdynamics.com/en/news/kalshi-users-able-to-gamble-on-nvidia-gpu-compute-prices-based-on-ornns-compute-derivatives-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-04",
+      "summary": "A very 2026 story",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d75a043b63599b",
+      "title": "GIP, EQT strike $10.7bn deal to acquire US power producer AES",
+      "url": "https://www.datacenterdynamics.com/en/news/gip-eqt-strike-107bn-deal-to-acquire-us-power-producer-aes/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-04",
+      "summary": "AES is one of the biggest providers of renewable power to the US data center market",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4eeaa51c5f0e26",
+      "title": "Bridge DC inks MoU with Concord Energy for data center renewable and hydrogen use",
+      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-inks-mou-with-concord-energy-for-data-center-renewable-and-hydrogen-use/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-04",
+      "summary": "Will also include the development of Singapore’s first barge-based hydrogen power generation solution",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Singapore"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1060,9 +1239,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$3.75 billion",
         "$500M",
-        "$500 million"
+        "$500 million",
+        "$3.75 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1213,8 +1392,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$44 million",
         "$34 million",
+        "$44 million",
         "$100 million"
       ],
       "confidence": 4,
@@ -1310,25 +1489,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c48e515934cad2",
-      "title": "Amazon says drones damaged three facilities in UAE and Bahrain - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQW5rWEZSQ0g1Nl8tTGxDZVNZUUlGLWdGLVFUbTNyd2d4U0s2WUwxYUhJN1JlZ1lDMHNybXg5ekFlSFFpRkN0Ujkyd3lVVEhIWFNCQ1JUaHdkaTNyMDFsekFwZlRQR2lZYmtpRUFyR1p0RmQ4Yl9ma2ZDTzVhM1hWT0FB?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-03",
-      "summary": "Amazon says drones damaged three facilities in UAE and Bahrain &nbsp;&nbsp; AOL.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "UAE"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f937edcffd7368",
       "title": "What to expect during theCUBE’s coverage of Google Cloud at HIMSS26: Join us March 17",
       "url": "https://siliconangle.com/2026/03/03/google-cloud-ai-in-healthcare-himss26-googlecloudathimss26/",
@@ -1356,23 +1516,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2171aff5d7b50c",
-      "title": "What to expect during Nvidia’s GTC event: Join theCUBE March 20",
-      "url": "https://siliconangle.com/2026/03/03/nvidia-gtc-technology-show-event-thecube-march-nvidiagtcai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-03",
-      "summary": "It’s not an easy task to dominate the news cycle at a technology show as large as the annual CES gathering in Las Vegas, with over 4,000 exhibiting companies, 6,900 media participants and more than 148,000 attendees. Yet that is exactly what Nvidia Corp. did in January. The AI powerhouse unveiled Alpamayo, a new open [&#8230;] \n The post  What to expect during Nvidia’s GTC event: Join theCUBE March 20  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1422,6 +1565,42 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c48e515934cad2",
+      "title": "Amazon says drones damaged three facilities in UAE and Bahrain - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQW5rWEZSQ0g1Nl8tTGxDZVNZUUlGLWdGLVFUbTNyd2d4U0s2WUwxYUhJN1JlZ1lDMHNybXg5ekFlSFFpRkN0Ujkyd3lVVEhIWFNCQ1JUaHdkaTNyMDFsekFwZlRQR2lZYmtpRUFyR1p0RmQ4Yl9ma2ZDTzVhM1hWT0FB?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-03",
+      "summary": "Amazon says drones damaged three facilities in UAE and Bahrain &nbsp;&nbsp; AOL.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "UAE"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2171aff5d7b50c",
+      "title": "What to expect during Nvidia’s GTC event: Join theCUBE March 20",
+      "url": "https://siliconangle.com/2026/03/03/nvidia-gtc-technology-show-event-thecube-march-nvidiagtcai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-03",
+      "summary": "It’s not an easy task to dominate the news cycle at a technology show as large as the annual CES gathering in Las Vegas, with over 4,000 exhibiting companies, 6,900 media participants and more than 148,000 attendees. Yet that is exactly what Nvidia Corp. did in January. The AI powerhouse unveiled Alpamayo, a new open [&#8230;] \n The post  What to expect during Nvidia’s GTC event: Join theCUBE March 20  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1692,8 +1871,8 @@
       "id": "8da5990f3b8ebf",
       "title": "Amazon plans $40 billion investment in Spain data centers - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0xHMndLNnRtSm16ejJJYTA4NnM4TENsTkJERUxBeFI3eC1TYVRSR1RDMWxta0dJQ28zd0JOUFZSMjJndkFBNTBXZ0tpS1hLOXVmR3NMVlB4blVfVkVtTTVQcFBvWXhjTXRkcVVtYm5HeWotcmNzNFRhdXM3R3hCVk01MGs0UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-03-02",
       "summary": "Amazon plans $40 billion investment in Spain data centers &nbsp;&nbsp; Chain Store Age",
       "finding_type": "New Project",
@@ -1786,6 +1965,27 @@
         "Spain"
       ],
       "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "51593b72082475",
+      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOOEJ0Q2NzRnBrZkJvREFUNGhwa3hBOWRRS2hfRWdDbEE1bDVxUXk2Ty1wT0JBeWk0b2k5OUZGYkxGXzlDNmZsR29laHNDOElEQl9nODNNazhSdlBNZ3RNTC1xNF95YXNhYmFEWFExMW5oUWd3djZLVVByd3NwODl0cVZjYlYyWnV0bDlaRU9wVUlEd1JmV2F3REtJZDdlck5PYWkyN3Mtb21WMGw4NGdZbFdkSjFXdVQ0ZW5GOU9zcThFUDlTRnFuMjRTSjMzRmZRd1ZTWHRuU0Q2czVzaU1PN0dvZ1dabVBpQjhXaUZZZlBCUWlvZll1OEpTUnNZWXRtQmI1Q3JiM1puV0lJeUI3aXdFTlNxZ1RENGxraUFIaVY3TUR1TE5idFV4MUNOSFBYWmlvbDFHQzc5aTg1MnFyVkhSTGxhY1hqSnRCcnRnWnN2Zkt5bVlmc2FEZzBFM295bzMyOEFESkp2ejBwZldhYnhucEVpbTQ3QXRrWHNQVnN2Wjl1U3BldVBSVGlVVHdsSUYyNlZ3V1cxT29nd21GTTFWX1Y5TkVrdmluUDJfQkNMNDlQazZEVG5YdWd3dGs?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-02",
+      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "$40 Billion"
+      ],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -2336,27 +2536,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "30ec60b4de4014",
-      "title": "Google to invest $10 billion in data centre and AI project in India - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHZTREJPdm9vSjJLMU9aVnQ1V1o1MENiTjhPamFXUEdJeml1U1I1ZFgzcGY4VkNRdEJpdUJaMDFHdW5KMVV5SW40aTRLN2NvN2JSQnZaOTBJZl9reU1oSTlrRDhEQ0FWLVBSRlB2RFJpbnFQMWFKcHpKTmFON0stcDJabGNKWlZlOC1kdTduSkxRaTViQ0luRkpydDZuR3ZCTldSVEU3NDFQeUFjdy10Y2xRWkFGZw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-02-28",
-      "summary": "Google to invest $10 billion in data centre and AI project in India &nbsp;&nbsp; AOL.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "1e4e75b11152b0",
       "title": "Burry warns Nvidia risks dot-com style bust - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWpUS0t0TTY2d19PaTI3NVpoQXNvSTEwZlQ1MUdrRW5XcDh4U1Q3bmNITk40MXVNQnFBaE9DSU52OUEzRmdlT0djRDF0R3E2M25WaUpJMVY0aEI4d3FuSmJIVTF6Z3ZzY0tzNWQwcHUxSVpUcUc3OWdxTVFjU0xpalBDZ010Y0tIMnVzWUI5TzVqdVJlNy11QmNiNV9PQ21jRTVRYVo5bVBCREViNkJqMUlkVkFRWjlBbWdDWHJVOEt0MUNUd094OUpvemNQUHlySTFqbFZDY2w2cmc?oc=5",
@@ -2570,23 +2749,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9697830b697cf3",
-      "title": "3 Google AI tools that helped me get my new job",
-      "url": "https://blog.google/innovation-and-ai/products/google-ai-career-tools/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-02-26",
-      "summary": "An illustration shows a blonde woman looking at a laptop. A floating digital card next to her displays \"Career Identity Statement,\" along with a \"Re-generate\" button and an \"Explore paths\" button.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7974ec9ddd0ffe",
       "title": "Meta Takes Legal Action Against Scam Advertisers",
       "url": "https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/",
@@ -2617,6 +2779,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9697830b697cf3",
+      "title": "3 Google AI tools that helped me get my new job",
+      "url": "https://blog.google/innovation-and-ai/products/google-ai-career-tools/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-02-26",
+      "summary": "An illustration shows a blonde woman looking at a laptop. A floating digital card next to her displays \"Career Identity Statement,\" along with a \"Re-generate\" button and an \"Explore paths\" button.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2807,8 +2986,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$12 billion",
-        "12 billion dollar"
+        "12 billion dollar",
+        "$12 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -2856,11 +3035,32 @@
       "is_high_confidence": true
     },
     {
+      "id": "cc54f3ebe95279",
+      "title": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion - Minden Press-Herald",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTRHTGdWa0hRN0VzdUU5TkJrQllud2VVYkppcTkzWXJxTHhKSDJ0ZUU1dUtCazMtWU5ESzZLeU1tZmhuZmFIbzVjd1VwblMyNElZb2tmbmFzUlJWYlRYNUV3MG1ZNkFBZ3pwVlA0VnNWRkVZZE5oZkxHQm1wdVotZmZHb0VqUlFzQl9Cak1qZ3pjUzZyZGtleTkwcW90djZLUUJoRlA4MGhobUZBLWJuQjNCX1NnUQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-02-24",
+      "summary": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion &nbsp;&nbsp; Minden Press-Herald",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$12 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "5086ed3df404ce",
       "title": "Amazon says it will limit water use, pay for power at $12 billion NW Louisiana data centers - Louisiana Illuminator",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tbXdaWDdFZ0J6QmNzLUxYcUtZVGhFZG1lWFh6M2ljNHJlcEN6MUpGdnpjTzh3dmRaTF9CT0JBdVhBLXNMXzRrZzFHaTlXck1kV2NoeWlpenVITVhLSm02UDBISy1BVGc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-02-24",
       "summary": "Amazon says it will limit water use, pay for power at $12 billion NW Louisiana data centers &nbsp;&nbsp; Louisiana Illuminator",
       "finding_type": "Statement / Update",
@@ -2896,27 +3096,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cc54f3ebe95279",
-      "title": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion - Minden Press-Herald",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTRHTGdWa0hRN0VzdUU5TkJrQllud2VVYkppcTkzWXJxTHhKSDJ0ZUU1dUtCazMtWU5ESzZLeU1tZmhuZmFIbzVjd1VwblMyNElZb2tmbmFzUlJWYlRYNUV3MG1ZNkFBZ3pwVlA0VnNWRkVZZE5oZkxHQm1wdVotZmZHb0VqUlFzQl9Cak1qZ3pjUzZyZGtleTkwcW90djZLUUJoRlA4MGhobUZBLWJuQjNCX1NnUQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-24",
-      "summary": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion &nbsp;&nbsp; Minden Press-Herald",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "b42ef9d5aef0f1",
       "title": "Amazon announces US$ 12 billion investment into building multiple data centers in Northwest Louisiana - W.Media",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJMek1qb2NkbkFObS1NU0RIdGZySHMwOGxJM3pPbTQ1MGNtTW1hUENkNm1sUTRGYkFHY24tUTlpeFAyeE5Gcmw5ekp2a0FpT2ZfLVc4QzhNcFVUWHA1b2llVllIem9MdG1IR1ZtTDZ2ODlacldjYUNBMmpXZUJjWDZUS3pFV0N6Qk1FcHg1djY5RWVJaXlkSWFOWW9HUlExMnd4Ulg0M2NGV3ZnWU5MbnZSalZQbzBH?oc=5",
@@ -2939,8 +3118,8 @@
       "id": "091adb4af26fbd",
       "title": "Campuses for newly announced Amazon data center spanning Bossier & Caddo parishes confirmed - KSLA",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTVmRjliZUpEcVBqTkc2eDFOQ0FCcWozVFhla1c3aHg0WGNleWRfZWh1dndScGdWZnFQbWtLWThvYUpJdTZGU0hYOU9VQVNtNm9LMF8tV25oSjR6MkpRZEdaNlpqV3VQbUdmbjNlVDlnMHBNd0V2Q2xsaDRra19yNnBBVjZmUFpKS0h3R0NrRExRN1dtZ1FmUFEwZURGTkRWNjh2T1Z3S21BaWhUajNMNnA1TzdrckdNcnfSAc4BQVVfeXFMTVF5cnNDZkJSRUVfdGNkQzM5UTlRSVFkeUxiYk5QbURBSU1GRDJfcEJodnZCZ1gtbzBoTnhQdUVIZEJCSWpNdUlPS2pfUHBWYjd0Nk1idWE4NjhTM19fTHNGYnB0YlNYODJpcVA0c2ozN1F3cFpDQmtZM0Y5MVVWMGZLaWZ4ajZ6LVpXX0loX1RpN1RqbTJwUW9OU3dKOC13SVNUZXM5aTR4T3h2cnFJTURPRU01b2NYbTFwNDU1U0hEZGJzcGREQTJEb1VjUGc?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-02-24",
       "summary": "Campuses for newly announced Amazon data center spanning Bossier & Caddo parishes confirmed &nbsp;&nbsp; KSLA",
       "finding_type": "Statement / Update",
@@ -3024,6 +3203,23 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d9f058fa552945",
+      "title": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom - International Business Times AU",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3M5d2lqLUh5VW9wbm1VSXYydkdoSFZSSzFQaEdvTGN1ZU5Ebk8xRkhfamItN2I5STEzSXlpZlNWVmc2dlMwc0Mwenk5Z0Q2ZWFWbkdMdnliM3VXeE1DNU5RMTJZVnAtVzRvVEJFeGdKd0VlbGRiWDRZSUxkR21BTFRfMVNSVmFUYVdLWjhmOHg0a0VjaUtPTGNHZmFFMFZnS0pNeUJReV9CbUdR?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-02-24",
+      "summary": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom &nbsp;&nbsp; International Business Times AU",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -3120,9 +3316,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "3036ececd9d248",
+      "id": "5d83c0b3db9398",
       "title": "Amazon to spend $12 billion in Louisiana on AI data centers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIY1ZmVUNoYUdSYmY4M0FoZUlCVldPZmdaSkw1aHMxbllINDVRQU4tTklPcnhSX3M4NWN6NkRQTnRBOTdYX1JzZkRVRTNYT05WcHpvNGUyTER3MFRuZGlyZTNGeGhWMkZtSERtRkVKanBuUXd3V1Z5ctIBfkFVX3lxTE1veHFKWW9OZXVnQm1fTDhUYUhjbXlLZVo1SmtMLWRoNXVOamNoZFBEYllLZ3p2S3Z3eWU4X0F2TXo2ZzkzVkZpQnlLTW8xam03UUhsZnpqVGw5cHRGVE54UUpKcXVjRWFWTVJMZ19RdTJZcTM5OFdMVVRxTE1BQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIY1ZmVUNoYUdSYmY4M0FoZUlCVldPZmdaSkw1aHMxbllINDVRQU4tTklPcnhSX3M4NWN6NkRQTnRBOTdYX1JzZkRVRTNYT05WcHpvNGUyTER3MFRuZGlyZTNGeGhWMkZtSERtRkVKanBuUXd3V1Z5cg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-02-23",
@@ -3157,6 +3353,27 @@
       ],
       "amounts": [
         "$12B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3036ececd9d248",
+      "title": "Amazon to spend $12 billion in Louisiana on AI data centers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIY1ZmVUNoYUdSYmY4M0FoZUlCVldPZmdaSkw1aHMxbllINDVRQU4tTklPcnhSX3M4NWN6NkRQTnRBOTdYX1JzZkRVRTNYT05WcHpvNGUyTER3MFRuZGlyZTNGeGhWMkZtSERtRkVKanBuUXd3V1Z5ctIBfkFVX3lxTE1veHFKWW9OZXVnQm1fTDhUYUhjbXlLZVo1SmtMLWRoNXVOamNoZFBEYllLZ3p2S3Z3eWU4X0F2TXo2ZzkzVkZpQnlLTW8xam03UUhsZnpqVGw5cHRGVE54UUpKcXVjRWFWTVJMZ19RdTJZcTM5OFdMVVRxTE1BQQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-02-23",
+      "summary": "Amazon to spend $12 billion in Louisiana on AI data centers &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$12 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -5190,6 +5407,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "7ba884f9191b96",
+      "title": "Microsoft's US$23B AI investment, big focus on India - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGc2amk5bjVlbW9FanJVNWt2YVMtc1lTYW5OeDB0YVg3U3lzOEJ0RktQQk91dmVoLTltN29CYVZMbzgyR0dBX29iSDRmT2RicUR5QUo1S0ZSZFhzQW9XQnRCU3NkTXIzVzNseVdkbjFqd0dmclFFbzNkRUtQWWdyMy1qZGI5d3BfNnM4LUxmOVVwcFRNYm9jd1FVS20yUDUtWF9Sc1V1QU0zSmVGVDhKWU13?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-12-09",
+      "summary": "Microsoft's US$23B AI investment, big focus on India &nbsp;&nbsp; The Straits Times",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "$23B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "00416e3a828e54",
       "title": "Gas Turbines Power UAE Data Centers Despite Renewable Energy Goals - Forbes",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUpmYWNPdWMyWHV2VlIzdXphOXBNSTZFVjl3R2xhdlJGRWdnanJZTHRMU3Vlb0pmS19GbFZXQWwzZkxVRUp2bTdXNjI3WkVfMDloUkRPMEtKc1FvOFV5YUQzTkhGR2tJM0twM0Z0OEk3RTh6Y3AxSkJqSU55Nm1fYUhJSjhxcWk2YndZaUw5dEFScmQyV0tRd2R4ZDZ6b3RwNEVqQ2FiSEpRTl9uZklfd05FYS1USGZ0Ync?oc=5",
@@ -5249,25 +5487,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1f04eb2d54d36d",
-      "title": "Microsoft to expand AI-ready data centre footprint in India beyond 2026: Puneet Chandok - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWm9xdm5OVTR2QlhnamhYVExXYnV6Q1l3OG82Wk9nYmRmTjFFNVBVNEtLcnBhN0xTYXN5Y3ExY3ZlM3lfeDlveTI2VGtid3QyZWVPOWI1b2g3Z2RRSENyUnpCZ25nWmMtN2N4ZG9QeGo1SnFVT0oxY0pSWWZfVGU4dzlVRUlFeUxFUHVuZ2JMRFk0bHh6OUxGS2tpbnBPcEVSTWVVaWVSeC1ObzRLVTVqTVl1VnJmdXZYdjcxQzRTOS1NX19ta2p3OHRtNWVneUVoamw4UlNaYm1UZnk0N3c?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-12-05",
-      "summary": "Microsoft to expand AI-ready data centre footprint in India beyond 2026: Puneet Chandok &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5413,9 +5632,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "90288aa728b326",
+      "id": "2c73a5c16d0183",
       "title": "Amazon to Invest $50 Billion Building Data Centers to Support U.S. Government - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQMG15Zm4wN05SWnJPd25CSU0wX3hEd3BDMHdfQVlOaWZLbFhYY2J0VV9FSWJHT0tHRzRYRDQ4UWNJcWNKTG5vaU1OMklra2YwLTlaa1NQWkpRSHJKYjNiUVVmR0hZQnJyOWxYSjRRNHZFeElsb1JueENDWjBIVm1pWDd5NEVvSGdyMkNvT0xseGRGdGtIMUtONzlJbzlmLVhZUzAzOWFXZEo5enNqTzk1YUR5Yml3RkhJQ193M3NLNzFNd2p4WlMtZUEzcVpXTTdkR1Q1eFQ3c0JnSUc2WjBCZXdkV2d3RXVhYVdmbTdIX3hXdDRDelNvQ2RCOHkwVGNVbHR1MV9wMTdEQVFZb0s1b0xURmJJUkQ3RDEyTEQtdXdxMExnZlczb1l3cUwweXpJSnZGa2kyUHEySVRnMmRWUlRmN0l0MXB1QlRzVFA3TDhZdzdzNVVST0plb2IyV3FTXzBNaGJoNzRHZXd4NmVLNzJpR1l5WlBOTUhWR1BkMS11V0FrdDUwNE5FYjBuRFMtajN2S2k0cEh2R2pkUWJPbEpSSE9sMzhYdEd1MDNQN2ptc24tUHVN?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNc0JJWXdVdWZ0YWczYy1UQ1A5QVBHWjBzd0Y4R3poOVVoc2JVYTBnM3BHYnQ0VkhXeF9zRVRfdHhjTXZCTGRNSDFWVFZrSFVCNnlCNGZ5Q055VXd0UTVqRjhiaWhCZHBlSGg0R1h1MWF4YzdtdC1aZjVHUFE2N011SGdQZ1dLZmNzaWd5UTZVNzBMWjR2T29lM0R2SU82ZmFwLTVYamViRGFFS3VJQnFqQzRUcWRMcHlqSXhTUXdhLXVsb0Q0SUR1UVpyOHVkZWo3SUxvY2lJczBLWXFhS2kyazBlaWpleXdzREQ5bHJsdTcteWIya181LUVTY25OYTUtVjZWeDhDbnZMY0swOWVuTEZYOXRIUmpkdXkwQkFxV0ZmdzRaWnJ5Y2hPdklPdUxBZV9GbFcyQUdHTVo0TDBiQ2tSaEl6eUN2XzRSUFpfTWlkNm1vaWpnX2c5RmR3Z3l6X1JJUjR5eER5ODJUcmhBb1RYTWlsVHZaeVZqa1lIMzIxazVidkJzNGZtb3hEYi1QTUJXa0N0SGZYY1YyWHEyWGcxa0FnbHQwZFA0ZW15TEFWdXZXeTNB?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2025-11-24",
@@ -5427,25 +5646,6 @@
       "locations": [],
       "amounts": [
         "$50 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9178d8bbc23c6d",
-      "title": "Amazon to invest $50 billion in data centers to power US government AI efforts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHEza1E0clM2bWstNjdYUUI3eU5MOFZNUGFzRjF5MmxCSVlvclp6WmRuMlRhS3VmRU5nNVFDYUZxYnRMdVladV9mRDZuNFJlUUFpQTJvZXVHZ2ExbDlib0xLZVdoRk1CeW53bEd2MDlpTUFXb1pXWUowQTk5TUNXUlRGTE1KUWxWUGxOUl9VcDBIdFVaRUFCXzZscVprbjRWS2VEYjhyclVvLVlHQ01HZGYzV19SZW9lTjlYT3VVRko?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2025-11-24",
-      "summary": "Amazon to invest $50 billion in data centers to power US government AI efforts &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$50 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -5531,13 +5731,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d342ec5425aee7",
-      "title": "Amazon announces new $3 billion data center project for Mississippi. Where will it go? - The Clarion-Ledger",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd19QNTVfNVd6OC0xUzR1ZVFCVFJVM2xxV3ppTVBQQnZtbVljMFp3WkZQVjJVVTRleDdoRnEyaGM2TFdUUXdoWXQyc3FCOURDVWZqbGowOTExbTlLczd3OFpmVEIzbWcwdkI2Q3dsb3R1bFRZOG9UNkdMS3pucF80VVhHeDB3YkNsVE9Ma2kxLVZJVE1TTjVldkdFTnA3TTZjekR3UlRPNEFFUGMtbUFXcjJzWmFQdnJEM25mUzkzZjFNOS1pRFBEOXBUSkxsRWMt?oc=5",
+      "id": "9b71885a941f1a",
+      "title": "Amazon plans to invest at least $3 billion in Warren County, Mississippi, for next-generation data center campus - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHg0NWRIMWtoV0Q3ZDNSUGtVSlZhVDhjQThhdS1VdjVhSzdnUURqX3pEODVselE5QUpXUnVCcHBBWVEwdG5ZWi02NUM1V2FGYzhIMkttQXFNMXBLcTNNX05NQ1d6Tkt3dzR1QVVISDlPWkRWUTVoZ0JvVWFNSUJablJxYlBfelJzUWJhaUdGUVd5Q293aTJVY1hJNUU1dw?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2025-11-20",
-      "summary": "Amazon announces new $3 billion data center project for Mississippi. Where will it go? &nbsp;&nbsp; The Clarion-Ledger",
+      "summary": "Amazon plans to invest at least $3 billion in Warren County, Mississippi, for next-generation data center campus &nbsp;&nbsp; About Amazon",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -5552,13 +5752,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "9b71885a941f1a",
-      "title": "Amazon plans to invest at least $3 billion in Warren County, Mississippi, for next-generation data center campus - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdHg0NWRIMWtoV0Q3ZDNSUGtVSlZhVDhjQThhdS1VdjVhSzdnUURqX3pEODVselE5QUpXUnVCcHBBWVEwdG5ZWi02NUM1V2FGYzhIMkttQXFNMXBLcTNNX05NQ1d6Tkt3dzR1QVVISDlPWkRWUTVoZ0JvVWFNSUJablJxYlBfelJzUWJhaUdGUVd5Q293aTJVY1hJNUU1dw?oc=5",
+      "id": "d342ec5425aee7",
+      "title": "Amazon announces new $3 billion data center project for Mississippi. Where will it go? - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd19QNTVfNVd6OC0xUzR1ZVFCVFJVM2xxV3ppTVBQQnZtbVljMFp3WkZQVjJVVTRleDdoRnEyaGM2TFdUUXdoWXQyc3FCOURDVWZqbGowOTExbTlLczd3OFpmVEIzbWcwdkI2Q3dsb3R1bFRZOG9UNkdMS3pucF80VVhHeDB3YkNsVE9Ma2kxLVZJVE1TTjVldkdFTnA3TTZjekR3UlRPNEFFUGMtbUFXcjJzWmFQdnJEM25mUzkzZjFNOS1pRFBEOXBUSkxsRWMt?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2025-11-20",
-      "summary": "Amazon plans to invest at least $3 billion in Warren County, Mississippi, for next-generation data center campus &nbsp;&nbsp; About Amazon",
+      "summary": "Amazon announces new $3 billion data center project for Mississippi. Where will it go? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -5643,27 +5843,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9de819db710d6f",
-      "title": "Microsoft, Nvidia to Invest Up to $15 Billion in Anthropic - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaDRyUG5hSnkzRFFRYXByUy1XRldtSXVzcGVKenNHbTFQeEtyTTA3cFlFa2xidXJIRVFQOEtMMGNucTQxV3JSWTNUR2hoVU9TelpjNkFRQUNYY0EyNklQRlM3MXp4UFhIRDRCX1VSbUFKWTdzMjMyUk9lR19Lb3hrdXVHUzI2QzBZdlF3Vk1aNFEtdWxQUHlXNWdRZUd2akxXbHcwOHdnT19yYk0?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-11-18",
-      "summary": "Microsoft, Nvidia to Invest Up to $15 Billion in Anthropic &nbsp;&nbsp; Bloomberg",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft",
-        "NVIDIA",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "a857af2f35ef8c",
       "title": "Lidl owner Schwarz breaks ground on 200MW data center in Germany - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1MwOE01NTFSXzNZTm5hVFRiX3paZERDMXpidk82Y1dnYUFONXZZVHZ2UEV0RDhGWkFjRG93Q09lbnNmTy1TZ20tbXhmcEFOODhUWHpWNTdTWm1BbEI1U2p5WUFRX054WFFETlhoTDQzSS1ES0xRTmFHMDBzeXZZY2owVVd4Q2kxbXlZQkw1REkzRzZtb1l2a1NxVGNLSkVFYmZFNUtBbkgxVTdp?oc=5",
@@ -5681,25 +5860,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "12a83eb66d17c5",
-      "title": "Microsoft opens first data centres in Belgium - belganewsagency.eu",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEotMVQ2UkU0N1hQTjhOX2Y4Mi1VWHE4ZlhSZzlGOEZ0X1hkdmI0UkRMWFpPeTdmdnBWN0JDZ0NnZmhYRm5LR18teWk3aEFNV2tuM3RhTWRWSElzMURpMGZJazVOM0Vrck5fZ09sMF9XdEF4V21sZXdQVl9hYmlGR0tB?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-11-18",
-      "summary": "Microsoft opens first data centres in Belgium &nbsp;&nbsp; belganewsagency.eu",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Belgium"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     },
     {
       "id": "dcc4b8bfef0831",
@@ -5737,28 +5897,6 @@
         "$40B"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ac3350e32b2146",
-      "title": "Google jumps as Berkshire Hathaway reveals $5.1 billion stake, search giant announces $40 billion investment in Texas data centers - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmkyaWctYlBscXBDQTF2UDN1VXlGdmN6UjhGbjBGdUQ1YVBFZHhqU3U0UmJnOEs2UHNadHZzS3drTldwbkVwRnM2NEJfT2J3YUg0VDhhVXBac1RhYkxqb3NFV0czcFdod0lodEJpcVRKbEk3VTIxUzhHdFFXUzY1QTQzVFQ5Z3B0bFUwbmFZTTRxODJnUnZ3anRzMDRBM0tfUlhiYmhKMmFLZEU?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2025-11-16",
-      "summary": "Google jumps as Berkshire Hathaway reveals $5.1 billion stake, search giant announces $40 billion investment in Texas data centers &nbsp;&nbsp; Sherwood News",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$5.1 billion",
-        "$40 billion"
-      ],
-      "confidence": 9,
       "is_high_confidence": true
     },
     {
@@ -5809,8 +5947,8 @@
       "id": "2a2f77f5e77839",
       "title": "Google plans $40 billion Texas data center investment amid AI boom - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1E2bXMwQ3oyY0tOU0tPV3hWclZvZVlpWTVhbzB3ZXgzWXdOWmdhVkNqRjFtdzEtZjIzUmR3aDVBcFE2WUhYaS1TdG5lVTJIWmt4UTRtU3AyM1RvVnVDMGI5NlEtSFF4QVhyYXMzX3g2U0hobGw0TV9oNnJxZkx5R3NtNXlJLW5NQ3FoOEJoUnB5T1hoNkJEc2s3RGNUb3hMX25TM0tGX211NWpNTDhlYWc3dlpZdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2025-11-14",
       "summary": "Google plans $40 billion Texas data center investment amid AI boom &nbsp;&nbsp; Reuters",
       "finding_type": "New Project",
@@ -5869,13 +6007,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "7609feee835eaa",
-      "title": "Google to Invest $40 Billion in New Data Centers in Texas - Bloomberg",
+      "id": "a9ba6d6c6718ef",
+      "title": "Google to Invest $40 Billion in New Data Centers in Texas - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelpCeE80Tk8xLTFwUlRxb2l6VUQ0MjlSX2RDamhscmlMM0NWZUhwSEJzOWE1ZlhsSTBnS05UUWMyMFcxZFU5VFN6MFlXZk9tSVFWSDlaRVQyZWJZdFBNdmFqc0w1OF9mWWdBV3lVblU3bWd4N1I3Z0F5SEhWNFZDb0FoNUE1MDQ5dEhCR1hyd2M5OXFkQU5KR1k3aVhSZDZxZUlGSkpnVTM5U0E?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2025-11-14",
-      "summary": "Google to Invest $40 Billion in New Data Centers in Texas &nbsp;&nbsp; Bloomberg",
+      "summary": "Google to Invest $40 Billion in New Data Centers in Texas &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -6205,6 +6343,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "dfc2be037a4604",
+      "title": "Whitmer: Multi-billion-dollar Saline Township data center ‘largest investment in Michigan history’ - Michigan Advance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRU5yb3NtZVNmaXVKZFc4OEJydHVCa1BBOUVfLVREbkhQQndUalRtMndJd01oYTMxZUZsbHJaTFFlUXpFNXJEdDNkdjdxdXBiaWJVaHFlYXE2SDJmcTJjNmM1MVBJRFdiYm0xeGlSNDY4WWUxXy01WE9wU3gtOEhLeFVqeWRrVDRmT3ZLMVp0c1hIbXhBaTA4SGRMV1ZRWWQyQ2s5NEQwdEs2ZzNpeklfRlAzWWVwYVlsV0VxeGNTTUkzYzRjOGx3UzVhZDRpbnN1?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2025-10-30",
+      "summary": "Whitmer: Multi-billion-dollar Saline Township data center ‘largest investment in Michigan history’ &nbsp;&nbsp; Michigan Advance",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "f36233800feff7",
       "title": "[News] Hyperscalers Ramp Up Capex Amid AI Boom, Risks Lurk: Microsoft, Meta & Alphabet in Spotlight - TrendForce",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd01pLWhUSHNVQ2tydm9HQ1A3WUEtUTJCMFZDTk9XQVJ6dzV2TGJEMk9qeXBkUG1ISkdXdU9hR0RDMlJ1OG0xZlQyaDVIbDZCWXVYcFNsQ09veUhPUkpNQzhJV25ud1NwUU5ic1lxLTkwVnUyNjFkeGlfVm9CZ3p3T0c3ZHc0WVF5enYxSWpUbE9Uc2JydGFsVnR2ZWU3Z0xGRmwyVXNLQWlubjhxcDY4aUI4Y182VVpSQ1dXMlBqMnJCeS1LR1M1WHdmcTQxN3hCc1E?oc=5",
@@ -6260,23 +6415,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "5f645fb05537e9",
-      "title": "Microsoft Is Dramatically Boosting AI Investments as It Races to Keep Up With Demand - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzdLblNFbm9EMTBzSjJZM202cUdOM2tuSVZQMW12MnJCcU1Za3VRUndxM2w4U1V4SHRwWlZTM3puVVdYMG1xVk5VQWNvQm4yTzRvbkFIT3ltQzJ3dWZBMmYzS0djVFhJbFk0QmhpNmRza1RVY1Z2R2hOUGtrdmphei16RkFWcmthMlN2LVhvbEx0SERXWUlUa2dtd2tfRVdaN1dNWnNGYXk5eW5IVjUzYVJyQ0JvX1c0SGRSc3Vrbw?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-10-29",
-      "summary": "Microsoft Is Dramatically Boosting AI Investments as It Races to Keep Up With Demand &nbsp;&nbsp; Investopedia",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     },
     {
       "id": "3507f9472bad7e",
@@ -6350,21 +6488,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4a62c1cd44e3b9",
-      "title": "What we know about energy use at U.S. data centers amid the AI boom - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb1lqZC1Wdnk4aEwzVVFZZ01DTmxycVRBWENTTUFpSGdZZ2NWYlFnWDdWVXBzbjhIZnJpZ1V6akc5YnVQY2pTVjFPSDQ1dUlLN3ZiVjhaM2dXTVplU29hWndlSU9SeTNGc2JqRVQ3b1lWUnJoVXdQRmR4dC1ITkNIdDg5TWpwVVJrc1lDZVJ4X2dRNzlqaWJOdGpodS1Va1pQeFRTRGhLZUJUQVhvUlBEbVFlM2gwSlRY?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2025-10-24",
-      "summary": "What we know about energy use at U.S. data centers amid the AI boom &nbsp;&nbsp; Pew Research Center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "2eddb3b421bbe4",
       "title": "OpenAI, Oracle announce Wisconsin site for Stargate data centre - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlFuSXVEVzQ4Q3JDM2ZOdFBqbU9IeDBOYVJpSnRPQ0tnSmV6MkgyZ05raDl2QndZZ1J6Zm1vVUtCczJCc3BvYmxNc09GLUhsaTR6eXhDdjRsLVc1ZnhtRFkzY1RIblZDY1lMXzJ4eDFOeDNuNk1fNzZCXzUxT2FtbElEUFNXb1J2VlhOQ3RJTjhVZ1NxZGNPRnhlTHZXNWxDSkR1SkItdDY?oc=5",
@@ -6382,23 +6505,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0ecd41b6b94388",
-      "title": "AI 2026: Microsoft’s Transformation Into a Data Center Giant - Bismarck Brief",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82aG1QSFNsV1JTWGh0SHNUZjJrbG1vY25vRkRUczBlQW5oM3E5ZU5FR3kzQV82cFZKdDE5TkRhaHRJcXctQ3lFWmRqZzh1MU9NZTV6cldmU00tcFpzNnJTdTdTbDZReGNrQ093eURoTkw4dk4zdnlqU1NR?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-10-22",
-      "summary": "AI 2026: Microsoft’s Transformation Into a Data Center Giant &nbsp;&nbsp; Bismarck Brief",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
       "is_high_confidence": false
     },
     {
@@ -6504,13 +6610,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "085c979834d233",
-      "title": "Analysis of Nearly a Hundred NVIDIA AI Investments: The Present and Future of the AI Industry - 36 Kr",
+      "id": "b0b1897ab500e6",
+      "title": "Analysis of Nearly a Hundred NVIDIA AI Investments: The Present and Future of the AI Industry - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fbDF3aGhhbHBWX1dFZTRraDBtSEJwVmpSSEpNUnE0cGVrR1RDMXowREJDbHA2eVdLTWY4dHZDT3UzWFlhMW0tblNad2pOZ1ozZkRn?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2025-10-16",
-      "summary": "Analysis of Nearly a Hundred NVIDIA AI Investments: The Present and Future of the AI Industry &nbsp;&nbsp; 36 Kr",
+      "summary": "Analysis of Nearly a Hundred NVIDIA AI Investments: The Present and Future of the AI Industry &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -6556,9 +6662,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "09e73a05735585",
+      "id": "41d765dbcfe76d",
       "title": "Google to Invest $24 Billion in AI in U.S., India - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNQ0hBaFFNa2djZjUtWFNrc0dkRXBya3IyRkg0dlpkSFhJa0JaWHRtMjlucFRSb1lYaThzV1JPMTQ2MjJzWDc5R2FhWWhrNUtEVVlWLTVyRVhuenA3bU5CWmtCemszbVVFOS1uYWRhTFFsbVRUVTdSY0RqYjJFTWxwM0daTDRFeFAzR01acDBYV1NfS2k5eU9PRl9FeklaczloOVFRUml5VVpvMFlUclRzWnBnNVk2MmZBTUd2bUpjbk5maVIzN2hscmhKNjJ0bVRvcHJNZEYybjNUc0NoaGN1NS1XTjYzVzhrWmtwVEtxRUlJanZMMTRqdldPd1p3MGxreXktek1abjZTZkNvNnNhQUZwNUJCT1J5dXVJREZlU2ZNeXZYRzdXVlhwYzJCcGp6WGdvajhpbUNsOWlvUkhxUVc1VHJWRFFPVHZncmlCdmhjZTR1ajM1NnRFaFZTTVl0NEwyWTNkZkVYbHR1V01mNDYxZjNtTEpVeTUtc0d1X19sUFFaZTQ0VEVYeXZ5Z0Y2QUh5VU9wUUptaVFBa1M4S0QyQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOYmdzeDVOVmh0azcwakt0RFRJMFhBWVlaeHdQakc0enhZNXV1YTk0MklWMmMycjFDRGFjcUZ4T2NFeG9oRlNQaHdXbDFrandrSXlBOS02V1RqbXBKS2FhTGZ5TmtBeDM1VmpwYk9xR2NaS0lIUjg2U2xXeDZtYnJWS051Vnhic3RiZkRZbjExN3BRM0tpWTN0M0dHRHAwZm9FUkp5MVB5UzZtelQyeFZUWmtlX1NvNG1QbnR5OXdWQ2RQdTNQd0c5TDhBVGdldUdsR19fMGxJUGJ5RmxaYUpqTEIzWGZNSTZlV0xnMUNTeGFUejVqQjVuaVNUV1BCQjFTczJZVWF3OHhHUGZJYlpGT1hLWVh1SGxCOUFIN1lBMF9SUUgwUkJROWR3Yk0wTUN3RVRJVFF2WHR2SXo2cDlzcEl1NExtR3VuRmRTR1FYMWdCd2xSTVRiQ1JoczBTZ3EwSmZjYUgwOW9SSlZiWGZMMjByeUlZSFRiVUlXaVp6UVNqdHk1Ny1yaXg5eEIwQnJUVDlKdVJSZXoyWml5dmFwVkV6WQ?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2025-10-14",
@@ -6648,6 +6754,24 @@
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "5479dfbe64d34d",
+      "title": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNU1tQXdWOVRCS2ZEM0xLV1hJV1QyRF9McGtZLWJDX0VaV0Q1aWhzWnZWTC01eXI5czNza1VFWktZUXI2S0oyc2NXM05oTlF4d0p0a2RXTWVncVFKNl9rckdnVFF0bkYzU0Y3ZDB5WUFrazAxVlFyelZxeFc5UnI3RTdRNzZGbFBiVm1XUTVxSTRmN1Iycjh2eGRENTNNWlJoR2c2a09vYTdqdnhucE5LeU1TN1VlWlJBdTFFb3ZQbjhoY3ptclJObw?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-10-09",
+      "summary": "While OpenAI races to build AI data centers, Nadella reminds us that Microsoft already has them &nbsp;&nbsp; TechCrunch",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "14de41dbcffd0e",
@@ -6771,9 +6895,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "bc87b4a8019d9b",
+      "id": "9ef739f3f3ff4c",
       "title": "Stargate Data Center in Abilene, Texas: 3 Things I Learned During My Tour - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOeEcwTnpRSVFacmpQeVgyVnFPcHB1ZlZFWXFBRDg5VXZQcWQ3VzRsMFdPTXFiXzgxMjlIUjhCdkxOTm5uVl9UZHZIRnI5bGRfMjFFVHdYR1ZuVDlRam9aaHdtTWRvdUdZcUJPWF9iM21Ta1diU3N3RUhkVU8xTEl0M3ZRNjk5QS1LTDhNWVFoRDdfLXQtMk1lVXhxcjR4amxSdmpXOC1VV1ZYSHZ0UGRzVUV3bHhZNFdjVWJOb3J6Nmg4VzlRdl9GaURsUFVTY1hidDJpS2tPNzhuM1U0dkkwcjNsaUdUdDdJaHpMb0FYbGRCZWxkVVBHbDVLRWVRd19KWTJUX2U5WEhiYXRlVFVsSXBac1RDLXpybWw2QThtMmU0OGhycEdNajRZSUxVcm02dGZlYjM2R0xiLXJiLUZWTVpMV3lhSk9IY3FzcURIWnhtZzZ3bjF3MkJQcml3MF9NcmZIY1dJX19PZlhtNm93V2xKMG9FNkVVMWZvbEg1UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOSGJseXJkaTdIR0Rad1NIQ3pXUWlRbE1WbkJmc1ZZWjJmLXEwTzU5VjQ5cTI5aEVtYTJRVmY2UlBfLVlFZjJ5ekMzTnpsODZCcFJ2V284aXpqVmpGV1VtbFhici1WRll2WThtQWpYWlFJRDBvd1k2ODVmNXF3ZEwyVDhfQnVxU2djVjdObHdUWm5samlBNmZuWlZSdTRPV2dtNV9jUWlJXy0tdjAyYjU2R0p5YXpWdm1KaVFWdFgtM2tSUXhPNFVWOFU1QlFXVEQwVVp1Y3RsclZyR3d3YWxraTJsQndOVEQ5MWltcDBXbDBFelU4SXVhMWgzUXhzT3NtN05aczNZRFpndTNaYno3S1BXLVNHNXVqa2NUYkRLcTJoZGNMQmFmNGozVXVpRWhoYTZqWFVSWlcwZkpSQ3pfcEZjY0dDM2RUSmJLaWtVeHlsb21tX2pkcFlFQlVyRnhqQ0VzRmg5U0I4b0FOS0JPMWNnOThzR3hkc2NlMzUzOA?oc=5",
       "source": "GNews: Oracle OCI Stargate",
       "source_cat": "Company",
       "date": "2025-10-05",
@@ -6927,6 +7051,44 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "284bc065b3e867",
+      "title": "Meta’s Infrastructure Evolution and the Advent of AI - Engineering at Meta Blog",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEpDSmdobjhEV25aTHhhZlVodWpSNG1CeExoSmhib2paTnFOT2d3SXFJLU1COXZYUGJWdW42Wk80UkZOU3JPak8wRmlITjdqWktvUWp5Y1o0aVFuLWF5dDJLUWZUX2I4N3dwdzRrTElJSl85SW1WZEFHalJmNjNGRklJWTJ6dTlxQ3d4ZVJlTDBBblUxUHphUGViMDFMbEpHUi03Vi1pTlMxeVNxT1JB?oc=5",
+      "source": "GNews: Meta data center",
+      "source_cat": "Company",
+      "date": "2025-09-29",
+      "summary": "Meta’s Infrastructure Evolution and the Advent of AI &nbsp;&nbsp; Engineering at Meta Blog",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "01f3d7578ca89b",
+      "title": "OpenAI, Oracle, and SoftBank expand five new AI data center sites in US for $500B Stargate project - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZEVaYjZCNnVja0x3MFl3RUFwRVZ3Zl92RTRRWG9oaERWY0xScGJ2WVhfd0tUdENvQU8xYzFnVVdqNnZ6NVRFMmkwU25DUHZRTFJ3TFQtMTJ3VGFOSVQ4WTllckJ0Qm1GVGNaNk1fWDVHWGtQNGxGR3pYM0k0NGp6alJsRV84RFlxbUU3QnlUQ2xldVhoMHprNFZ1U2RtNmZCN191aDBQVWlEaXRTdmtDQ016OS1IdmFUaERxUjB4RS1USklXVkhFd2E1bw?oc=5",
+      "source": "GNews: Oracle OCI Stargate",
+      "source_cat": "Company",
+      "date": "2025-09-25",
+      "summary": "OpenAI, Oracle, and SoftBank expand five new AI data center sites in US for $500B Stargate project &nbsp;&nbsp; TNGlobal",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle",
+        "OpenAI",
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [
+        "$500B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "f838dd2331aea0",
@@ -7093,14 +7255,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "7879ae0d955dd3",
-      "title": "Altman, Huang and the last-minute negotiations that sealed the $100 billion OpenAI-Nvidia deal - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0gzdXdHc0tmUGE2S0xIRWZmS3llNkkzQlJxTUZJRTRyV282d1MyOU5EWXF0OFdpYjgtZmpjcUptaE9YMkYwazlOZkgyaHlEZnlObXk5emlfei12VjdfUjhvNWRLVUFOb0l4eW1CQmtzbmhYX3doeWFPRlBkVnpFQVEyTER2NENQZm16T21UalE1NVE5MHh3eUFjTlJMRzV0TUpEUzFNcXHSAa4BQVVfeXFMT2dKTHd3bzRHVFNiSGNZWHpnVHVwbGtMSmIzV0x3LTZ6WVZnajFzVWtEYUhGRFVvWFQxTlpUWWZCdzl1T21zMndOQ3gtdU8tV0pZeGZ3bFdwR291OEdHN19GWjZvMVh1SXUxeTRIY2kxcU43WDgxQXhDaUJSTW05b2VXVWx6OGRRcHc1dnpGc0M2UHRWQk9keWhkNVNQbTkyVmVpZ3otMHZuODFETG13?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-09-23",
-      "summary": "Altman, Huang and the last-minute negotiations that sealed the $100 billion OpenAI-Nvidia deal &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
+      "id": "a7010a5ad810f0",
+      "title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnaEQwRVRFTERxRlVKNVE5dlFJeE8zNDJNT2t5MUlZWS1mYVNTRTBMa1A2dWtxeWFGa2dIQnF3WHI3RjNLZy15c3VtTEFSVGpfaXgxMnd6MnhTSDBtSkQwRnpSYm9TbmtUeWJRZHBpc9IBdEFVX3lxTFBTVnFvemc3N0JtN2Y4dDdrLTVuRFdrbUstc01IeDZTQU82VU9Rc0x1bEJrS25WMExOcjdNZFdST3NmT0FqWXhmbjg4SXJxWEJ4TEhteUlPNkxMeTJzZmFoRl9zdkFxZTFvbGxLZHJpdDZERmtX?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2025-09-22",
+      "summary": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
       "companies": [
         "NVIDIA",
         "OpenAI"
@@ -7109,27 +7271,8 @@
       "amounts": [
         "$100 billion"
       ],
-      "confidence": 6,
+      "confidence": 9,
       "is_high_confidence": true
-    },
-    {
-      "id": "1863b4f939f7aa",
-      "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xOW5ZN2xtYU5kdkNYV2hRTjhKcGZPS2hFYTdlcUhOR1JyNmhWZU9iMnBrOE4tVXZnWmI2UzBhSzhLbVhKOHNTMlB5eWtkUnU2OS01czdCQ05WaWpGb2c?oc=5",
-      "source": "GNews: Oracle OCI Stargate",
-      "source_cat": "Company",
-      "date": "2025-09-23",
-      "summary": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI data center sites &nbsp;&nbsp; OpenAI",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle",
-        "OpenAI",
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     },
     {
       "id": "f651bfad79a428",
@@ -7149,23 +7292,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "cce0fc15ad2e4e",
-      "title": "Microsoft's Datacenter Boom: The Next Big Growth Driver for the Stock? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWJtQlVZOE9mRVlSdkRJeFFjVmJ2UkpyYXNLcVVOcGFkOFF3RWxhS0ZTdVJMSF9teFZ0akFDNUNncGhVNUhGc1NJVm52Wjd1Sm9mQjltOFhHWVdLS2k1eUFQYkdEQ3hzb0lDYjFjWlNlX2IyWVlHYi1zeDRWVXRFTFdsaGduRTBIdGZjOGVSZF9CSGpRYnd5Vk9HNkYxTVQwTzh6ZERrb0RXenFTemw2bUZmdi1KMi1Sa3pXNXZEaFhjUQ?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-09-19",
-      "summary": "Microsoft's Datacenter Boom: The Next Big Growth Driver for the Stock? &nbsp;&nbsp; TradingView",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "1d46d1665776fb",
       "title": "Speed to Power Initiative to Speed Multi-Gigawatt Grid Projects for AI, U.S. Reindustrialization - Holland & Knight",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTN2VUFGY3pFcTlXWXFWQ0FWRTEwYkJUaGg0NlM1b1hzbjlMYmNGa3p3S3pZY2pNelhjd2dpQ21NdEkydHF4S0lHTzBhQUtIWmVrbE8xU0kwTHRHcnNLVXdxQkprLUhWRXlwbV83R194R1dHc3Q3bzFOUVE0YVc1QUQzVE1XamtJQjEwa2oyNVY1SXR1U3k3RmdYbTVvSkpteS1GYXJCQTRSR3VZdnR4aTByVC1Jdmc2cUE?oc=5",
@@ -7181,22 +7307,22 @@
       "is_high_confidence": false
     },
     {
-      "id": "4c8bdabc558a2b",
-      "title": "Microsoft announces $4B investment in second data center in Racine County - WPR",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTFuSk1ESXVpc0MyM2ZnWkxGVW9zSnVaTlFvbHVtQk9YeEpXZVpic3lGbmdBYzV0OUoxaDJ4T3Vud2VRNXY3bmF4elFNZVFWOUhsWGZ4S3NEanB2b0JJVlY0Tmdwell1ZUVtVjVXeGgzWVRkUTVSenlCR21rZm42UDJla3d3djVqaENkOGlhU1pZMklldDlpbFh4MEg?oc=5",
+      "id": "6958ad6dc52356",
+      "title": "Gov. Evers, Microsoft Officials Announce New $4 Billion Investment in Mount Pleasant Datacenter - WEDC",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDFWR3dLSnhqQktfVndtc3AzMkJpdnRtODFvcXljVXg1N0hkSk9BTHRQMWN4cjhCOE9pT3JmWEdsTHNyXy1xZlNPQzV4bmpmUVhDYlVSSHdvR0hfRXBEWURQX1Vmc2gwcjZTSnlOVzZMcEY5SlpzejYzcElnWW5TUE1RYldUZ0V3aENMU2RKcFNIbWpUWDZldTM4ZVY3SjVWU1hfd25mQ2x0V3FmeERn?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2025-09-18",
-      "summary": "Microsoft announces $4B investment in second data center in Racine County &nbsp;&nbsp; WPR",
+      "summary": "Gov. Evers, Microsoft Officials Announce New $4 Billion Investment in Mount Pleasant Datacenter &nbsp;&nbsp; WEDC",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
       ],
       "locations": [],
       "amounts": [
-        "$4B"
+        "$4 Billion"
       ],
-      "confidence": 8,
+      "confidence": 9,
       "is_high_confidence": true
     },
     {
@@ -7317,13 +7443,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "48f04328fb0abb",
-      "title": "UK to host largest European GPU cluster under £11 billion Nvidia investment plans - ITPro",
+      "id": "e367015a6180bb",
+      "title": "UK to host largest European GPU cluster under £11 billion Nvidia investment plans - IT Pro",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcy1hWXZDVHRBVHdfUmFzV1N1QkUtR0hqNEFzYzNpc3lhVTVTR29KeExMVU5DRV8xQk50MnJ4VVZtdVVDUVBoc25vOEYwU1BLOTFOV3pSSnM0bVlLME1OaldneVItVGNWaG5mZFNGcUVUbC1Pbk14YlpRNzNGbmNjNUtoZnRjTlVMZm1fanhBSkd0dGJaLWlzTTBkUnZmVnc1aGdSM2xPRDNqUnJ4X25Zc181NFJGWUU1N3M0VQ?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2025-09-16",
-      "summary": "UK to host largest European GPU cluster under £11 billion Nvidia investment plans &nbsp;&nbsp; ITPro",
+      "summary": "UK to host largest European GPU cluster under £11 billion Nvidia investment plans &nbsp;&nbsp; IT Pro",
       "finding_type": "New Project",
       "companies": [
         "NVIDIA"
@@ -7334,25 +7460,6 @@
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
-    },
-    {
-      "id": "c5383a0c7d35c8",
-      "title": "Microsoft's $30 Billion AI Bet: A Deep Dive into its Cloud and AI Leadership Ambitions - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbFN6S1dZaUFtYmk3RExTMTNnR29DZmtVc3dfc0wtS0l0UGxtVjRhOXhYSTN4bXk2ejFVa19ZSC03U2ItZWd1NHg0dFBwQUhRZUlFTm9kdXVfVXRLSGFrVmQ3UFdUMm82THJJTWNYUGw2b2t4a2EyRnNwLXFwSjdUd3NTb3Z0bjBhMjVxcDRRVW80Rkp0SUF1Z3RWVXlDQmVFSTNzR0UxR3M0SWJIckxSMG9OSHRWUHppellPRDhUX1R6RHZCN1l3eFN0OGp3ald1X2ljckRSX2xJQ0ZUZHpxczFGLTNYcjl5SERQOFZ6bw?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-09-15",
-      "summary": "Microsoft's $30 Billion AI Bet: A Deep Dive into its Cloud and AI Leadership Ambitions &nbsp;&nbsp; FinancialContent",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$30 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     },
     {
       "id": "cc9a2c73d63e3a",
@@ -7371,27 +7478,6 @@
         "$6 Billion"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "60a8797cc69939",
-      "title": "Meta In Talks With Google And OpenAI To Integrate AI Models As Hyperion Data Center Faces $5 Billion Cost Backlash: Report - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQanlfYm9TUEs3S3JzWGhHdEFoM1lxNG5yMG5yMHpieFNQQU5pQVBkcTVKa1ZxRnFHdGNFYmF2SGRRdW1SXy1hMVB1S3NBRlJ2d0NsUEQ0cGpDN1RqVlM3RG5tNVFQdVRHRW5MRHI1VzN3dG11MzJmNThEZlI4cEpYSFV4ejRaYjBiSGZBcTByaHJ6Vk1GQU9EeVRJaUE5QjludDRscWhkdnpZX1RxOTBUVkx2aFJaa043WnJabF9HVzNidDM4a3pXc2Nwc1pqQm1MZHN1Nzg3czlVV01DOFhmY01ZR2E0dmNOeGhkQ0F4aUVDRXdBYm9IdnQ3WUYxLWthdDRr?oc=5",
-      "source": "GNews: Meta data center",
-      "source_cat": "Company",
-      "date": "2025-08-30",
-      "summary": "Meta In Talks With Google And OpenAI To Integrate AI Models As Hyperion Data Center Faces $5 Billion Cost Backlash: Report &nbsp;&nbsp; Benzinga",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "Meta",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$5 Billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -7435,13 +7521,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "4e202c5486605e",
-      "title": "Google to Invest Additional $9 Billion in Virginia Data Centers - Bloomberg",
+      "id": "12b81fb7be470d",
+      "title": "Google to Invest Additional $9 Billion in Virginia Data Centers - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkdMU2lPZEJHek9XalpxSE1Kb25FaUQ3alVEX3VGZmpUREtMdXRuUWIyTTNVZlBMT0F3RGdfemtNWDNtTFBxZ2N4eWNxZ3k1TXFobkRIeXJjajItMEpNZTRLV2dyNm1JR01SeDhPZk9YaFVDQnU1bk5MVVpnRVNsSXI3QTcwRTZlbWNCMU9Nd2xpdmthcXlROWJfRWlFNUZDQnFLaFAzczNnQ0VNa1RRMGhPRQ?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2025-08-27",
-      "summary": "Google to Invest Additional $9 Billion in Virginia Data Centers &nbsp;&nbsp; Bloomberg",
+      "summary": "Google to Invest Additional $9 Billion in Virginia Data Centers &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7478,13 +7564,34 @@
       "is_high_confidence": true
     },
     {
-      "id": "f4ec71cb9a08d7",
-      "title": "$210B Valued Unicorn Set to Be Born, Grabbing Attention of NVIDIA, Google, and xAI - 36 Kr",
+      "id": "e8dbc440a3f1ad",
+      "title": "Meta's planned Louisiana AI data center to cost $50 billion, Trump says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzN0T0l4TFZBQk1CSEVKNkxEd1lHWTMxc3NOWUp5SFJyUXRRSWlUWURoYzkyOU05SUQ3VUNJR3Z2ZHhjaXV4VVhuVS1McUpabFQ0ZnE0eVdUOWR6cExtSEhwUFVZc0RfWGowSkdIc3lDUE9WZjhnUzB0akREWFVlSnJIV1pUTGlsWFpSd0hodmFYQjNCdVVuc00tZTdIU2ZORmliYmw5OXZkWTNIYUpj?oc=5",
+      "source": "GNews: Meta data center",
+      "source_cat": "Company",
+      "date": "2025-08-26",
+      "summary": "Meta's planned Louisiana AI data center to cost $50 billion, Trump says &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$50 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9f03ab9c5f0b7f",
+      "title": "$210B Valued Unicorn Set to Be Born, Grabbing Attention of NVIDIA, Google, and xAI - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oeXE2Q1NTRE9oRjF4dWxYa1NpcWd3OEJRejRTbDBDT2FDa3I0RE5HSWNTcFJod1BRQjFWQjN0bGRzQ0xvRkxhWWlIalJvTHRLR3lN?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2025-08-26",
-      "summary": "$210B Valued Unicorn Set to Be Born, Grabbing Attention of NVIDIA, Google, and xAI &nbsp;&nbsp; 36 Kr",
+      "summary": "$210B Valued Unicorn Set to Be Born, Grabbing Attention of NVIDIA, Google, and xAI &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Google",
@@ -7584,6 +7691,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "bf36fa0511943e",
+      "title": "The data center balance: How US states can navigate the opportunities and challenges - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVd1OUlZdXg3U1NDLTItdW13akkyOXNOaV9fT0VFaVQ2T3hDR3IxRVREQW9qZWZmUURCUmdzcllPWEhUUHZSTGxueVByRll0MDJMZ3gwbUw3WTdhamU0TWkyOHoxeEs1dnBrdGVTTjc4eWx2d1NkeUVjNFdjdFU4X0hfdldVZmMtSGV5dUU1SzhaX3hHaTlrYUh5VEtEMGZXdGp5REZ2cmhNd2w3dlk0ZkpjMHhPMnJNTFk5cG5kcFhaTkRvWkVzY2QyM29Oamp5Q3EtN3gwZEJ6YzFUWFZN?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2025-08-08",
+      "summary": "The data center balance: How US states can navigate the opportunities and challenges &nbsp;&nbsp; McKinsey & Company",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "907ebed632ba7f",
       "title": "SEC 8-K: Unknown filer",
       "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
@@ -7667,23 +7789,6 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "4a78e2a657fdc3",
-      "title": "Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg's big bet pay off? - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVd5Y1oyMVFIVE81bXU2Zi1FQjBkb3RhS3ZydU5MNGxSclVJOFBqVklISF92QTNLaGFtRkVPZ2NmWDY2OXM0UzBZRFJ0NVFZWkExdmZVdlpIUnMyMUZmM01YN0dHcXJaS1hyRG14VFJDekJwbzIzVnN2V212U052WEtkUVlNOV9LY1pwOG1n?oc=5",
-      "source": "GNews: Meta data center",
-      "source_cat": "Company",
-      "date": "2025-07-23",
-      "summary": "Alexandr Wang is now leading Meta’s AI dream team. Will Mark Zuckerberg's big bet pay off? &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     },
     {
       "id": "dd1e7d4f070568",
@@ -8306,6 +8411,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e945d532ae17be",
+      "title": "Amazon has paused some data center lease commitments, Wells Fargo says - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNck8tcDRYc2VKU2FZaUhwNlE2V3Z5TDF4UVNNQUNsVWdsdWRHNWxtYUR1RWRLNUNtNUlFTldCX2FHOTdPeUVPLUNMTy1jRkpHSTRHaTdnZE5UYnRWdWJZZEJodV84WmtvTmZ3WHlITlJIVTZVTmFtLUdCeHRUZlVOUm05Z0ptZHBiYkVjR2xMQzhjWjNTQUFGdVUyamlYcXBPVzBj0gGoAUFVX3lxTE1OYlVPYUc1OHBqU2lQbHFuZWF6WHdpaTZCeGhmNkFJUGJlelp0eURybHlVTk50SGIzd0tNampocUZXYzNMOGhxU3FncFZhZm9GUXQ1QUh6dEl0ZGI3a19iLTJGYkxJZGtVZ0VhQWVRMkNqS1doRmVONmlMeEFmcnZ0eER0QjJLSnVzdVljMy1FZm10czV0TzlmeWxtVHJ2WGprejVrLWVJVg?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2025-04-21",
+      "summary": "Amazon has paused some data center lease commitments, Wells Fargo says &nbsp;&nbsp; CNBC",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "fa992d1aaaebaf",
       "title": "Amazon has halted some data center leasing talks, Wells Fargo analysts say - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMzZtb1BWU2wyVGdxWGQtSWFhVlE1eVVOQnBiZm54MFczUW5TVkFtR1V6ZHhBall1djU1R3Rpc0FZa1J5REc5MzhSUU5Ydk5VRzVhbDl0azRoUTQybVZSRkpxa1ozVjVGTGZOU0NSejhud2lha1gxeXZBZHNBUENkRzFCSEFuUFVmVnh5VUt2cGtvRFA2ZWYwM1pPc0h0bV9hcFNLWHRNNnF4Tm5Bay1jd0Fmblo2SnJwY3NqbDNJSkZfSkhfZ2ZMZm1VeWF3SmM?oc=5",
@@ -8358,13 +8480,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "60254987da4a95",
-      "title": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise - Bloomberg",
+      "id": "15f53f2281950a",
+      "title": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEd2SWVkSzB3ZW92R0lRaFgzUjUyWDV5LXRrbUwxRVdoU05NT3pKZWNRZ1paMDlNd3pIQ1pRcTJuQ09lc3VaNG5kSHd4T3NLc2czUkwxQnA1MnpkUFF0a3RJREVDQWpZYS1DdkVHRU9uRVBpWnRqblktRlBURkJQS2xXcjF3dXN3Y1hCYnVNU2Y0ZGlzVV9Pb1hzYzNKSW8yZU5PRHpPaENsMWo1dVF3?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2025-04-15",
-      "summary": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Microsoft"
@@ -8392,6 +8514,27 @@
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
+    },
+    {
+      "id": "1437da5d6d4524",
+      "title": "Microsoft Cancels $1B Ohio Data Center Project Amid Tariff War - ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMUZfQ0J4ZklCeGdZN2taMkdEU24yMUdoVmRiOXpjV2JiZ1loMER4WkhnTnVETTdBdDgzNy0yX0JXODV6ellJTHk0QUNHejFSZHNhRnpPM09xMkxpTk5pZ2l1LXhSaEQyMVdtem91VQ?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-04-09",
+      "summary": "Microsoft Cancels $1B Ohio Data Center Project Amid Tariff War &nbsp;&nbsp; ColombiaOne.com",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
     },
     {
       "id": "92383424b9a494",
@@ -8434,25 +8577,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "82a766c0fcfc8d",
-      "title": "Microsoft 'pushing back' $1 billion data centers project in Licking County - 10TV",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNazEtTGdHeTlDMUN0Tk13X0E3UjF3SnItUU1mcnlJREJ5eFd2clgtd2dhRnBvU0o0b2pLVzdmVEZ0REV5UnV1ODcwOEJ0QzVaWTlYRWFCQmRlcTBJY1U1WWp5WGN0LVdYR05uWnkzcnRULVBVb2ZrY2FXdnVaVHg1RFBGSl9qSVJ4WTljTzJWd0I4SFU4NzhNZWZHVExMVlJMVjZpVE96RC1nY1Izc1gwQXhnNXN0NXhNd09fVC1JR0hNZHFMZXpQTUhmeWZkamxYZnE3aGdGak5VMUtaOW1J?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-04-07",
-      "summary": "Microsoft 'pushing back' $1 billion data centers project in Licking County &nbsp;&nbsp; 10TV",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "4789ccb2c5755d",
       "title": "Microsoft hits pause on more data centre builds amid AI rethink - capacityglobal.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXBlaU1JRDZIekR3djNFRk1pQkxxTGhqWUVTN1M2M1BWaWtTd2dXQnhOZmhGbUo4TkZCemdreW9Nek1XOEozZXd1enRhYVB1UFdaWUFyOElwWk44TC1STldudnZ5TzA2SHByOHlYZVRzT1AyTzFBNFRCM3N2aUhzYUlxZEJ6eTI5OU5FZTJUd0s0ckxPb1UtN0Nqb1c?oc=5",
@@ -8470,13 +8594,28 @@
       "is_high_confidence": false
     },
     {
-      "id": "ea1b0de6870fbe",
-      "title": "Microsoft Pulls Back on Data Centers From Chicago to Jakarta - Bloomberg",
+      "id": "2584efd4c5a06b",
+      "title": "News | Tariffs threaten to push data center project costs higher - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmhlUFlRQ0JsNTF5UzVaUGtPcko4Wk52M2ZVbTNrd0xrMUFXNUxZbGNDb1BvSWJhVEpxdzdJWU9Xdk1OQnFNLWtmaEt6dVpRWExvaWZXb3F1cG5ESDdGb1BBd2tCZ1ZJWjhrRWE1WWNfZ3BHRXRvWUgzX3ZUN3ZCRVFNejVYNkFFbk95OXB5MFluWmJTdkFEQ1ZOaFRiZ1E?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-04-04",
+      "summary": "News | Tariffs threaten to push data center project costs higher &nbsp;&nbsp; CoStar",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bdfc247324f4be",
+      "title": "Microsoft Pulls Back on Data Centers From Chicago to Jakarta - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkdpelRyTF9WaVJfM3ZzTkdqTnJmc2o2VV9YOGJwVnY0YXNQcVNnalRNTGU3RWRtYkE3Z1pPdUthMHpHMXJramw2TzdwbTY2QVhlNG91aXlGVVFOc01wRzVzS3lCRFo0Tm5YT1dIRjlYSHpBRGxnUEtObjdDUGV2dXN2UkJMWFpQTGRvMmU5VXpSbmJrVGRNdXJhQmE4VlByQmJJdzVWVVdpYjJJSHhQVQ?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2025-04-03",
-      "summary": "Microsoft Pulls Back on Data Centers From Chicago to Jakarta &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Pulls Back on Data Centers From Chicago to Jakarta &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8538,23 +8677,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6c06040d93278c",
-      "title": "Microsoft pulls back from more data center leases in US and Europe, analysts say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2h6MHpTYXdOMzBua1dqeE5CUVdCckw0NUpONTk4bl9KckFtdWwyd0doVHd0bGpZZGpueEdyYllFRWVWU3UycWE1NHBCc2ZuZksyNEFDTl9pQlo5ZTVrdjI2MnV1dW1Vc3JLRFFUckFWZ3pqZUczVG96X0VUZjBRaW1qYzNoMTd1eFpHMEpCSldPTno4cG44YWlEMjdwMFdzLXdWbE5GX1ppU0ZuRXltTmw5eFI?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-03-26",
-      "summary": "Microsoft pulls back from more data center leases in US and Europe, analysts say &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "4adc582b7b75d6",
       "title": "Stargate Data Center to House 400,000 AI Chips - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMU1lZWhqcGdSYXVtM3lCTzFHbkEyV0dOa096NGtPNTJ4T3hjUUlDUzlSYkxXOWk5SnlWSFkzSWRwN3U2aXAyQ1ZwVWlKUGtrSl9Qd3JyS1VfM0NEWDBMX3RqZzhaT2NBbjYxZHF6eEVvY1c5eE5QMNIBfkFVX3lxTE83VDFZRXJQb3VFTVd3c2NqWGdzS2pVcUtKZlFRMHctbUdoc21rMVhkb3plZUZIWXZJRXRNZXJkVDc5dEUwVjlEU0prWloydHBIVEtaT2MzWXhJVWVxQS1ZdzYxVVhhU0VOczROYlRLMlRWdUtINEpZalVQM3ZCZw?oc=5",
@@ -8564,24 +8686,6 @@
       "summary": "Stargate Data Center to House 400,000 AI Chips &nbsp;&nbsp; ForkLog",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07cb8d1531b375",
-      "title": "OpenAI’s First Stargate Site to Hold Up to 400,000 Nvidia Chips - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzMzc2VJMXZiUGc3a2cyUU1EdWpMZHNVSXp5bWljZHJjdkU4c2hERDZQeG9lb3NWWkpENVZBWGJtY2dnNjdjaTFYNy14bTJDYmJablNOUWV5MVFkM0NJbG9Cb1NzMDlMVFZCbzNHTjNNbUpNSXBvc0QzaHlPMGlqSjRtUUtNSUM0SkJjNVF6YkdDSGpRMzM5Y1Y4cVcyaEZtZ2E4ZGl0TDJDblJEbElKTllsLXQ?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2025-03-18",
-      "summary": "OpenAI’s First Stargate Site to Hold Up to 400,000 Nvidia Chips &nbsp;&nbsp; Bloomberg",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -8657,6 +8761,25 @@
         "200MW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "000ca37b6ceb81",
+      "title": "Microsoft reiterates plan to invest $80 billion in AI, but may 'adjust our infrastructure in some areas' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1Rva093QlhZQmk1SGVOS3FPNGpkZ01qemI1RTFhcllLZy01M01QWjdLeU9GSmxLbHQxTXJ5M0FCbkhXQm1MNHdiWFl4ODdIZll4UGlxOTVPb3EyNWRMMnM2ZWwwQVBHcTJBYjlZQzdnZUhCRDBTYzRyY2RnVDhaWmR3Z2YyS1dYSTFOSXVWemVfRXp50gGaAUFVX3lxTE5Nd1RIcVI3ZWEwYm4wSUtHWkZTTmIzb0xfUkdHbWJ5ZVQ0b0RuYW5jV1VYZTdTN2wyNUtZa2tyV21YWXNNQTM0aVMtVVdtcTZqWWhZTGJTdG1ITUJCRFFTOXpsZWV2aUFVQjVVRzlDa09qaTQ3RnVnRnZ3a3p2cl8xeE96eUhSV3dQXy1ucFZyYUhIaHNrTjJ4c1E?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-02-24",
+      "summary": "Microsoft reiterates plan to invest $80 billion in AI, but may 'adjust our infrastructure in some areas' &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$80 billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -8767,6 +8890,42 @@
       "is_high_confidence": false
     },
     {
+      "id": "3f2b5a3e4682a9",
+      "title": "Microsoft to spend $80bn on AI data centers in 2025 - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZS12bDJHLVYzN1l3UGdoeG93eEVDNGVXZkxrdHNLM0VsNzBSZll1U25hWnp0NFFjc01LS0hWZERzVVpYVldIaEw0blZhUllYRHNNVUxOS1h4THdTSFFZSGs1ei1pME5ERi1XMDBvQjRjY0NBS0pGSzRFVEN0OFIzbVRxZ1FQdw?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-01-06",
+      "summary": "Microsoft to spend $80bn on AI data centers in 2025 &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "92abc7117107d1",
+      "title": "Microsoft expects to spend $80 billion on AI-enabled data centers in fiscal 2025 - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWR1dldDS2pncmRyamtCcGFjRzAyRTIyc1UtZ3FOY3ZyNXhBdGwya0xuRk0zamYtVVFSem52cXpIRUdvRWdPcUU5cVJJQXNoX2xnUzBfcVk1bzdaNE85TERya0drNjR0OTlfcGE5TVl3cEJTZGRRMEloVlhtekY4cW1idWUtck41dndEY0hGQnVHYmNrbW1VMG1fSnNNY21UZGZ0OEJjSdIBrAFBVV95cUxNREh3UkJneFliekE1a3RCUm1YM0cxTllJMm1oXzNCV2F2WkdsNEgxNHExZDk1eko2cHRCSWlqN0NKejktNXBaQWZMTzlrQmVyTnk3Q1pVaTlGQkQ3S0drVXlwdDVFbE5JYWpYay1LSEhxZkNnYVd6TV9OWXp4bXl2OG5iSTNYbzZyVnZidXRJV1ctcGYzdlJSUjRwcVlyUmE2cS1KVFF4Z1pTWXQ5?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-01-03",
+      "summary": "Microsoft expects to spend $80 billion on AI-enabled data centers in fiscal 2025 &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$80 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "1ca735d25bf98d",
       "title": "Meta announces 4 million sq ft, 2GW Louisiana data center campus - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcC1weVRrSjRzeWlURFo4Zm1yR2I4cENheHJyNzVMbDdzYjdwUjBnRm5zMk1XS0FvNkY0NGtFSkozb01jcHB2amZlblN1Y3JSdlltVFpKdTVMSGdZaXR1dzVPaFo1am5aMHkwZnh2RmNGdTcwb19Cc2ZBcW5ibjh4eUpzcXo1SW1fQzZOTUpuRWZ1cDNNREdVZEMyV0RCNmZTeDIyTHZR?oc=5",
@@ -8814,6 +8973,48 @@
       "companies": [],
       "locations": [],
       "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "df889bbc90bcc4",
+      "title": "Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT2VvXzJ3S18wS3ZnUG0ydU9sbEViajVIbFFRWnk1WFBJUW5qb1hHWUpkZWdHNFdhWDhEaGhacVc4Mk5oM1gwN1A5a0RsMVJFRVV3b0xJX0FIdk9RVno0YnlDTjVKRkhsOElDeGRfYkxFVHV1d3lVcnNVYWVrZHY2dWhna21nWjlQR1hOa1oxejlQZlB1TEo3VExvU0xzYmtUYXdZbWpmMjhkTkNMSjc4bTVFelJuQVJ4dWZwZXFUSkNjYnBVNHFiaVljU3ZYTjNQTDB2X1ZkWS1KeGJNWXFodmVRUWh0Q09uWnAxRXEyRkc4QXl2MjMw?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2024-05-08",
+      "summary": "Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Wisconsin"
+      ],
+      "amounts": [
+        "$3.3 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "666fa98dcf424a",
+      "title": "Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1RuUEljT2lUS0tNbDRHVloyVHdxODNUc29mY1ZKVTFPTkczSEZKTW5qNFBoTVdlYW9JSl9kMTM0Q1dnRmZYYlZiNi1CNXA3eWRLRkltYUl1VG9wd05VWHN6NHFlcndIM3hlYzZ3OFdXZHE3dEhLSmw4M3FIUkcyQW94VXExdldOUlRDMU5GbTlaeG9iRkJKcVBVMUN4UmJMSkdZMmtTdHlFZ05PUEZTcllRcGZTN1hLbWd2ZjZZUjV2dW5lRlk4aFVSTFp5UQ?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2024-04-30",
+      "summary": "Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Indonesia"
+      ],
+      "amounts": [
+        "$1.7 billion"
+      ],
       "confidence": 7,
       "is_high_confidence": true
     },
