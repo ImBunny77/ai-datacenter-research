@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-06T13:00:03.458005+00:00",
-  "finding_count": 560,
-  "new_project_count": 118,
-  "cancellation_count": 17,
-  "sec_filing_count": 3,
-  "high_confidence_count": 249,
+  "last_updated": "2026-03-06T14:38:59.006200+00:00",
+  "finding_count": 589,
+  "new_project_count": 117,
+  "cancellation_count": 18,
+  "sec_filing_count": 30,
+  "high_confidence_count": 269,
   "findings": [
     {
       "id": "c5bbe70c42e9b9",
@@ -24,6 +24,40 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "a008ab43631021",
+      "title": "Iranian state-affiliated news agency claims AWS data center drone strikes were deliberate",
+      "url": "https://www.datacenterdynamics.com/en/news/iranian-state-affiliated-news-agency-claims-aws-data-center-drone-strikes-were-deliberate/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-06",
+      "summary": "As part of attacks that also impacted AWS' Middle Eastern Ground Station",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bbf1dc1fc89d3d",
+      "title": "Plans for ammonia plant in Norway dropped, company set to target site for data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-ammonia-plant-in-norway-dropped-company-set-to-target-site-for-data-center-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-06",
+      "summary": "Delays to project saw plant lose place in queue with Norwegian grid operator",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "3cdbdf3e60bc3a",
@@ -58,6 +92,55 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5e0e8eeb4ac9c7",
+      "title": "AI cloud Iren purchases 50,000 Nvidia B300 GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-iren-purchases-50000-nvidia-b300-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-06",
+      "summary": "Expands fleet to 150,000 GPUs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2936f985569d13",
+      "title": "Avacon opens data center in Sehnde, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/avacon-opens-data-center-in-sehnde-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-06",
+      "summary": "€40 million facility will significantly expand data center market in region",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c2a1408b98e33c",
+      "title": "Construction begins on Telia Lietuva data center in Vilnius, Lithuania",
+      "url": "https://www.datacenterdynamics.com/en/news/construction-begins-on-telia-lietuva-data-center-in-vilnius-lithuania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-06",
+      "summary": "CEO says facility will boost digital infrastructure in Lithuania",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -363,25 +446,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1eb8735b921533",
-      "title": "Google seeks land annexation for data center campus in Linn County, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/google-seeks-land-annexation-for-data-center-campus-in-linn-county-iowa/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Six-building data center campus now targeting City of Palo to skirt water study requirements",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Iowa"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "050d0dac0826d8",
       "title": "Big tech companies sign Trump’s voluntary pledge to protect Americans from rising electricity costs",
       "url": "https://siliconangle.com/2026/03/04/big-tech-companies-sign-trumps-pledge-protect-americans-rising-electricity-costs/",
@@ -396,6 +460,25 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1eb8735b921533",
+      "title": "Google seeks land annexation for data center campus in Linn County, Iowa",
+      "url": "https://www.datacenterdynamics.com/en/news/google-seeks-land-annexation-for-data-center-campus-in-linn-county-iowa/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Six-building data center campus now targeting City of Palo to skirt water study requirements",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Iowa"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -455,18 +538,17 @@
       "is_high_confidence": false
     },
     {
-      "id": "ee982557496bb3",
-      "title": "Vintage Partners scraps Phoenix, Arizona, data center plans",
-      "url": "https://www.datacenterdynamics.com/en/news/vintage-partners-scraps-phoenix-arizona-data-center-plans/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "73aa3ebb13782d",
+      "title": "Lawmakers want to pause all data centers in Michigan for a year - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkJHX3lqR1lOTy10dDdrWXhZem1iWHotVHlSZjl6OFJ5NWpvQU43cjlPempUNHhDUXI3RUNna2NOcjNmVEd1YlZHOWN2TmFBZFFRTHVjWm9Ob3BzSk5hbnlWcVJFWE01d1FZOXFOYU1nOHFPdUQ3M3FreDZCNUJBUmF1NHNYSHBNeWE4MHpMVXNYYnFtSF9sd3AzTF9Bd3BNZ292SVJteDFmMDQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
       "date": "2026-03-05",
-      "summary": "Developer will switch to a mixed-use project on the 63-acre site",
+      "summary": "Lawmakers want to pause all data centers in Michigan for a year &nbsp;&nbsp; MLive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
-        "Arizona",
-        "Phoenix"
+        "Michigan"
       ],
       "amounts": [],
       "confidence": 3,
@@ -504,6 +586,24 @@
       ],
       "locations": [
         "Florida"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ee982557496bb3",
+      "title": "Vintage Partners scraps Phoenix, Arizona, data center plans",
+      "url": "https://www.datacenterdynamics.com/en/news/vintage-partners-scraps-phoenix-arizona-data-center-plans/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Developer will switch to a mixed-use project on the 63-acre site",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Arizona",
+        "Phoenix"
       ],
       "amounts": [],
       "confidence": 3,
@@ -570,41 +670,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "212ccc27873ee0",
-      "title": "Data center developer Edged eyes tax breaks for potential facility in Fort Worth, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-developer-edged-eyes-tax-breaks-for-potential-facility-in-fort-worth-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Proposals to be considered on March 31",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3a19c886bb0939",
-      "title": "Emerald AI releases results of UK demonstration project in partnership with National Grid",
-      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-releases-results-of-uk-demonstration-project-in-partnership-with-national-grid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Conducted over five days at a Nebius data center in London",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK",
-        "London"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -822,6 +887,41 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "212ccc27873ee0",
+      "title": "Data center developer Edged eyes tax breaks for potential facility in Fort Worth, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-developer-edged-eyes-tax-breaks-for-potential-facility-in-fort-worth-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Proposals to be considered on March 31",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3a19c886bb0939",
+      "title": "Emerald AI releases results of UK demonstration project in partnership with National Grid",
+      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-releases-results-of-uk-demonstration-project-in-partnership-with-national-grid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-05",
+      "summary": "Conducted over five days at a Nebius data center in London",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK",
+        "London"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3821,6 +3921,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "f4fe708a79e321",
+      "title": "3 AI data centers planned for Louisiana. What is impact on small towns? - Shreveport Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcUdtQ0doYVkyNFlMdnhXMklCUnZ6T2lXT1BmRkxPdmdnbmVLcElSZTVLVWFkeVRLYnNjMm9jWEJoSEFDQ0JpU2UyczR2bFI5ZDhlcURQandTODk5MzhkSjVRdXlmSmJ5c2gtX2oxa2xiemNhcGhLaFZSVGZPM3dWbWZkbU9pbkYxTTZKcF9sRnc5aXJTUGRmV2NIelJENEIwSEZWNGNZUXVGenpLV1U4NjdjNFVZc0tGRWtNOE1ueEdBWnhDZEl6VHB3S1ZRT25fbm9xWXBNZ2lBeDJhRW5jQ3JxZlRJS2xYSWhycG1EYVhkT2FyWGtyb2NR?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-02-25",
+      "summary": "3 AI data centers planned for Louisiana. What is impact on small towns? &nbsp;&nbsp; Shreveport Times",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cbaa9c4fcd2a39",
       "title": "AI Fuels India’s Omnichannel Shopping Surge: Meta & Retailers Association of India",
       "url": "https://about.fb.com/news/2026/02/ai-fuels-indias-omnichannel-shopping-surge-meta-retailers-association-of-india/",
@@ -3852,23 +3969,6 @@
         "NVIDIA"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f4fe708a79e321",
-      "title": "3 AI data centers planned for Louisiana. What is impact on small towns? - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcUdtQ0doYVkyNFlMdnhXMklCUnZ6T2lXT1BmRkxPdmdnbmVLcElSZTVLVWFkeVRLYnNjMm9jWEJoSEFDQ0JpU2UyczR2bFI5ZDhlcURQandTODk5MzhkSjVRdXlmSmJ5c2gtX2oxa2xiemNhcGhLaFZSVGZPM3dWbWZkbU9pbkYxTTZKcF9sRnc5aXJTUGRmV2NIelJENEIwSEZWNGNZUXVGenpLV1U4NjdjNFVZc0tGRWtNOE1ueEdBWnhDZEl6VHB3S1ZRT25fbm9xWXBNZ2lBeDJhRW5jQ3JxZlRJS2xYSWhycG1EYVhkT2FyWGtyb2NR?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-25",
-      "summary": "3 AI data centers planned for Louisiana. What is impact on small towns? &nbsp;&nbsp; Shreveport Times",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4158,6 +4258,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "d9f058fa552945",
+      "title": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom - International Business Times AU",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3M5d2lqLUh5VW9wbm1VSXYydkdoSFZSSzFQaEdvTGN1ZU5Ebk8xRkhfamItN2I5STEzSXlpZlNWVmc2dlMwc0Mwenk5Z0Q2ZWFWbkdMdnliM3VXeE1DNU5RMTJZVnAtVzRvVEJFeGdKd0VlbGRiWDRZSUxkR21BTFRfMVNSVmFUYVdLWjhmOHg0a0VjaUtPTGNHZmFFMFZnS0pNeUJReV9CbUdR?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-02-24",
+      "summary": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom &nbsp;&nbsp; International Business Times AU",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b892db18d9d87c",
       "title": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected",
       "url": "https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/",
@@ -4206,23 +4323,6 @@
       "locations": [
         "Australia"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d9f058fa552945",
-      "title": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom - International Business Times AU",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3M5d2lqLUh5VW9wbm1VSXYydkdoSFZSSzFQaEdvTGN1ZU5Ebk8xRkhfamItN2I5STEzSXlpZlNWVmc2dlMwc0Mwenk5Z0Q2ZWFWbkdMdnliM3VXeE1DNU5RMTJZVnAtVzRvVEJFeGdKd0VlbGRiWDRZSUxkR21BTFRfMVNSVmFUYVdLWjhmOHg0a0VjaUtPTGNHZmFFMFZnS0pNeUJReV9CbUdR?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-24",
-      "summary": "NVIDIA (NVDA) Stock Edges Lower Ahead of Q4 Earnings as AI Spending Concerns Loom &nbsp;&nbsp; International Business Times AU",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4476,13 +4576,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e37754181b671d",
-      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - Bitget",
+      "id": "39cca179b1b2f4",
+      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - bitget.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTG5JaU51aWttdkhmR2F5NGZCX3BkX2xEeGNlbFVQM3FhQ052ZjltZUVSaTJhMmtWajFxY3l6NlNkMUpBZWlNai1HVUJmbU0tN1lVUXRLVXdsMzVwVlHSAWNBVV95cUxPZGdjN1BCRE1OUTFSZ21pRlMzT2JsMEI4UWU2bEU0M3FyWV9YTkpzVG44X3VnUGE3ZUp4VmRWVVhpQnZYNHRfQV9Bb1ZHc0lwLVgzUHFMdmc3cVNvd1RUWXV1aFE?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-02-23",
-      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; Bitget",
+      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; bitget.com",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -4495,13 +4595,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "39cca179b1b2f4",
-      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - bitget.com",
+      "id": "e37754181b671d",
+      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - Bitget",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTG5JaU51aWttdkhmR2F5NGZCX3BkX2xEeGNlbFVQM3FhQ052ZjltZUVSaTJhMmtWajFxY3l6NlNkMUpBZWlNai1HVUJmbU0tN1lVUXRLVXdsMzVwVlHSAWNBVV95cUxPZGdjN1BCRE1OUTFSZ21pRlMzT2JsMEI4UWU2bEU0M3FyWV9YTkpzVG44X3VnUGE3ZUp4VmRWVVhpQnZYNHRfQV9Bb1ZHc0lwLVgzUHFMdmc3cVNvd1RUWXV1aFE?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-02-23",
-      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; bitget.com",
+      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; Bitget",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -4616,6 +4716,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "5d4ea894dbfb09",
+      "title": "Asha Sharma named EVP and CEO, Microsoft Gaming",
+      "url": "https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-02-20",
+      "summary": "Satya Nadella, Chairman and CEO, and members of his executive team shared the following communications with employees today. SATYA NADELLA MESSAGE Gaming has been part of Microsoft from the start. Flight Simulator shipped before Windows, and you can practically ray‑trace a line from DirectX in the ’90s to the accelerated‑compute era we’re in today. As... \n The post  Asha Sharma named EVP and CEO, Microsoft Gaming  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3c5268a28addd1",
       "title": "Ahead of Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar Canada",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTU1Y3NndWlpMnRnWmEzUTRVTzRNV1lMSlpLdmpuV1NuWlRLdUNZNkF3a0xtRWhuUERoQW16NTg5ZmxTbnZWNzMwUF9tTWNFejdWc2VGSDBhN0NVZWhLaVRzN1JObGRDSU1BeHpLeFE0eG1qMUdyekRBY1RHbDA0TG1oUEhWVlROdWV5cEFPcm1Hc3JUdWl0UkUxTWJQOEs1c1E?oc=5",
@@ -4630,23 +4747,6 @@
       "locations": [
         "Canada"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5d4ea894dbfb09",
-      "title": "Asha Sharma named EVP and CEO, Microsoft Gaming",
-      "url": "https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-02-20",
-      "summary": "Satya Nadella, Chairman and CEO, and members of his executive team shared the following communications with employees today. SATYA NADELLA MESSAGE Gaming has been part of Microsoft from the start. Flight Simulator shipped before Windows, and you can practically ray‑trace a line from DirectX in the ’90s to the accelerated‑compute era we’re in today. As... \n The post  Asha Sharma named EVP and CEO, Microsoft Gaming  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4701,23 +4801,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "028c172377182c",
-      "title": "Microsoft to keep buying enough renewable energy to match all its electricity needs - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWJjbFU5dUxEektHLTYwM2czR29BMHh4eXl5TTU4MW02RmFIZzF3aG5EcExDUU5lOHVWVWlDS0JYV01OZjhCRWlncEs4R0lYZEF6NmxEam9aeklkQ3F4N2o2eGxmbndjQ2ppeXJPSVp0cVVQbUFpNHBDRHBDU200MmV1Wmt2VjF5OHF1X0FBR2w4WkNZS19LSmNEQTZ5QTRZc1djcFRBSk4zdkRjaTJodnVxakxQNUY1NnpVblZmTVJ0a0psZERJTUVsNWVyS3BoeDl1ME13cF9IVWM?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-02-18",
-      "summary": "Microsoft to keep buying enough renewable energy to match all its electricity needs &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b3de40f5e2fa7f",
       "title": "New Research Shows Open Source Is Accelerating India’s AI Market Growth and Social Impact",
       "url": "https://about.fb.com/news/2026/02/new-research-shows-open-source-is-accelerating-indias-ai-market-growth-and-social-impact/",
@@ -4732,6 +4815,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "028c172377182c",
+      "title": "Microsoft to keep buying enough renewable energy to match all its electricity needs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWJjbFU5dUxEektHLTYwM2czR29BMHh4eXl5TTU4MW02RmFIZzF3aG5EcExDUU5lOHVWVWlDS0JYV01OZjhCRWlncEs4R0lYZEF6NmxEam9aeklkQ3F4N2o2eGxmbndjQ2ppeXJPSVp0cVVQbUFpNHBDRHBDU200MmV1Wmt2VjF5OHF1X0FBR2w4WkNZS19LSmNEQTZ5QTRZc1djcFRBSk4zdkRjaTJodnVxakxQNUY1NnpVblZmTVJ0a0psZERJTUVsNWVyS3BoeDl1ME13cF9IVWM?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-02-18",
+      "summary": "Microsoft to keep buying enough renewable energy to match all its electricity needs &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5880,8 +5980,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "20 billion dollar",
-        "$20 billion"
+        "$20 billion",
+        "20 billion dollar"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -6657,27 +6757,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "7ba884f9191b96",
-      "title": "Microsoft's US$23B AI investment, big focus on India - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGc2amk5bjVlbW9FanJVNWt2YVMtc1lTYW5OeDB0YVg3U3lzOEJ0RktQQk91dmVoLTltN29CYVZMbzgyR0dBX29iSDRmT2RicUR5QUo1S0ZSZFhzQW9XQnRCU3NkTXIzVzNseVdkbjFqd0dmclFFbzNkRUtQWWdyMy1qZGI5d3BfNnM4LUxmOVVwcFRNYm9jd1FVS20yUDUtWF9Sc1V1QU0zSmVGVDhKWU13?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-12-09",
-      "summary": "Microsoft's US$23B AI investment, big focus on India &nbsp;&nbsp; The Straits Times",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$23B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "ab28265a166d9f",
       "title": "From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion - CNBC",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11RVVNOGRfY01MbEEybkdoMGdybDk4bUExRlp2UVlzNktGaGFxcnloZmhNWlVIdjVQUmlTRGxNUjlRN0duNmdFM1hROEZsTEp5ZmV5ZjRpLWxobWRmSEloaWctbENkNThzTUZaNExWUE9MMl90TnNj0gF8QVVfeXFMTnZiTDBBR2VtQzhNQ3pHUFBzYUpFZ09SWEdEZHVSVEs2ald2R0l4Z0NMYTRMVDdneVZBWFp4d25uWV8tWXYySHBzQkpQdDhEN0FvRlhGQ1Z2SHdKWVdTZEF0WWNrLWpXZi1seFZiY1lSalBEdU5mLWtXUEVUQg?oc=5",
@@ -6712,6 +6791,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "0f97e6c8b5c55a",
+      "title": "NextEra Energy (NEE) Stock: AI Data Center Boom and 8% EPS Growth Target Power December 2025 Outlook - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZUxSZmV0b1hSVzU0VXhZV2hzbHk4YTY1OEJNSFpJRDhVcWtDenY1QTdYLUpFVzdac2UwcjRJZkMwdm54c0NTQWNLSkxLNXhzcFJwTTdyVTd6ODZIdWhvWEMxcXFreG15VjFqYXhUdHhvbjJnai0zXzlqU3dBOUNwdDczdm9nWmtFY0VzeEx6NmcxbXcwZjJOVndka2JIWEpKUHE1UmR3TlNVY1Z2WV9MRDNYbDNDQWZ6?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2025-12-09",
+      "summary": "NextEra Energy (NEE) Stock: AI Data Center Boom and 8% EPS Growth Target Power December 2025 Outlook &nbsp;&nbsp; TechStock²",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "efc823f59e1b57",
+      "title": "NextEra Energy and Google Cloud Announce Landmark Strategic Energy and Technology Partnership to Accelerate AI Growth and Transform the Energy Industry - NextEra Energy Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxON3l4OXlUMzRkTGVqOTJuZXpNd1ZEVDV6ZkkyLTRaV2RsM1NiQmNfZ0hMaWtIYWZiaDRfLUktN2t2TGZ6VHJHUEVhdnliemRES0NlQVpzamtOanZJVHJlU1NXNHpYV253S1ZMcElmZDIteTJiekhITW1FaEozTkEzZm5UUS13UjJTU2YtdDlUTmEwVzlhQzhoX1hDZUI1YUo2cjB1V1ktdEJ0SmROU3VEV1loS2o0TkZsVEhMNldNaVFmVlBGdGd4dllDZWVTOW9pMDVVd09nYWJpMXJvUU1scE11cmFuWXVBLThNNUdfZkJvWnR1bXBaRk0xMDIyMHVpbE4yRjVrdlBieTc4OXkzS1ZjdkV6dXBLaEpwRFlrQXZoZzJfWGJfQUxB?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2025-12-08",
+      "summary": "NextEra Energy and Google Cloud Announce Landmark Strategic Energy and Technology Partnership to Accelerate AI Growth and Transform the Energy Industry &nbsp;&nbsp; NextEra Energy Newsroom",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "95629c0528a6aa",
       "title": "NextEra working with Exxon to develop gigawatt data center for hyperscaler - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1YySUd3d0VLSURCTVJpRXptbUIxYlhmMy1ocExWMTA1RUFDV2lSUW1mQjNNRnhxNHBjZ0pHUl9IVjFzM2tGRTRkZ216NHZBTkZjQkdzNmowbHVuOWZvX3loTjhyeFN4VVhCVE40UHhvTmpzZ3RhZ2dZZUxZd2xWLTRIcVFTT2FZNjRsV3JRSjhkZVRFQjdiMXB5SdIBoAFBVV95cUxOZTE3WGYza2lBS2ltN29ndjRrUk9ySmkyUzNMbVBZeUI0OUtxc3hvMjAwVDhUUWZ0R1ZjVmJnQ0dVaHBGQk9vN2pNMTVvczhZV2Y5TE5mYm1maXQ2ck5WeU4xakswdzhqY3Fnb252Vi1DMk5WYW5UVjQ1XzVFVEtyakl6d2RrZGdEeElsUFRyellVXzVOd1NIeWFsZWxlQkdR?oc=5",
@@ -6737,6 +6848,25 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1f04eb2d54d36d",
+      "title": "Microsoft to expand AI-ready data centre footprint in India beyond 2026: Puneet Chandok - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWm9xdm5OVTR2QlhnamhYVExXYnV6Q1l3OG82Wk9nYmRmTjFFNVBVNEtLcnBhN0xTYXN5Y3ExY3ZlM3lfeDlveTI2VGtid3QyZWVPOWI1b2g3Z2RRSENyUnpCZ25nWmMtN2N4ZG9QeGo1SnFVT0oxY0pSWWZfVGU4dzlVRUlFeUxFUHVuZ2JMRFk0bHh6OUxGS2tpbnBPcEVSTWVVaWVSeC1ObzRLVTVqTVl1VnJmdXZYdjcxQzRTOS1NX19ta2p3OHRtNWVneUVoamw4UlNaYm1UZnk0N3c?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-12-05",
+      "summary": "Microsoft to expand AI-ready data centre footprint in India beyond 2026: Puneet Chandok &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -6899,9 +7029,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "21ae03780eb461",
+      "id": "382381f7330a9c",
       "title": "Amazon to Invest $50 Billion Building Data Centers to Support U.S. Government - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxNVXc1c1pZd24wcElGVy1TaE1WdWNMblJEVDAwNC10aDhEVjdseTJEcjBzY0hPNE4zNVJMVjJVOEMzS0dicEUxXzQwRFQ2ZUxYVk1HUzRqTVBmcTlBc2VlTDRmeGZPdTMxbjBsWUlYOFk4MXZ2Vl8tN3NJWnIxd2VFN3V2bVc0UDJ6dDd3aHRaOVRkUWdHa296M1hGUGVVdFN2MFR1TW5CekVNQVlQa0ZPQkpHUWVHOWQ3YUNwZTEyZXV1WnV4Z0VtcXNBSENfRUZObGtNUE5fTHlVNWctVmFFWGVFRjlsdHlIVTRTNkFnaVdGYUtaaHRxOVYtME0yc29aWUtzbDJ5VUhvSFFqY3dYT3JSVlh5cVg2a29aUDRfd2c2R1RKcVptbHdZYWREWEhzbldrU05xakhQWWlvY1hSLW1MVXhrQlA3OXJmU2FsLTBtaFl5MWZvSmFQTlNvbmVtdU5xR25XSWlGSVJ6V1pQdXdkWW9BRFZFSzRuSVNQaDA5RXVMcmJVWjNaa1JwUHlORmFaT3VQYlNpazNYY1FSem9pQS0zVWstdWEzUDU3UTlTT09BV0RR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPc1JFZmxqTHExXzBsUDYyOUR4RndEdWdMc1JGdDZGM2Voa2xKYld5bUloWGMzTWxKbl9LNGtEZVpfek9DaFFKTlBnVTRFUndMRlRDYVZiOG5OcVhMSDUwdTViM0lMb3ljYXRlcFJSbmJpOHRvUVV1dS1pblpJRnBCcHNTU0RyTXU2ZFBqX3UySkV4NEU3dTRLalFkRk5TVE1tWUg5Nkp0a3g4dGRKUEFVdnZuZU4weHVHMW5rWmVzVXpteXpvSWw5MkFseGg2TWJJSkxuMFYycm1mcDd1bWdHN1c4SWZ3Si1DQTRleWRvTDhlLU5aSG1KbTZXOFhkLW1XaFlGYXFzSzVYeW92NkJsMHVYWG9UakZKUGYyVHRiU2p2YVdIYmpNeldKdnhIU0VOX2xTdWhjZmlQcUhtMVdfTWlFUGplbDJiYnl3M1lDZF91UGtMRk80M0Q0TkpZZGdoT05XVWFXTDJjcldPUkkwN1pZZjRnaFVhbGM3ZDVUT2R5czdXT1hhOWw4RFcxQl9hZUEwQzhQSEhuR19oeVd3Y3BQTzBKR1NseWFkSmtHdUpqM08zN0ZR?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2025-11-24",
@@ -7108,25 +7238,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a857af2f35ef8c",
-      "title": "Lidl owner Schwarz breaks ground on 200MW data center in Germany - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1MwOE01NTFSXzNZTm5hVFRiX3paZERDMXpidk82Y1dnYUFONXZZVHZ2UEV0RDhGWkFjRG93Q09lbnNmTy1TZ20tbXhmcEFOODhUWHpWNTdTWm1BbEI1U2p5WUFRX054WFFETlhoTDQzSS1ES0xRTmFHMDBzeXZZY2owVVd4Q2kxbXlZQkw1REkzRzZtb1l2a1NxVGNLSkVFYmZFNUtBbkgxVTdp?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2025-11-18",
-      "summary": "Lidl owner Schwarz breaks ground on 200MW data center in Germany &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [
-        "200MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "dcc4b8bfef0831",
       "title": "From idea to deployment: The complete lifecycle of AI on display at Ignite 2025",
       "url": "https://blogs.microsoft.com/blog/2025/11/18/from-idea-to-deployment-the-complete-lifecycle-of-ai-on-display-at-ignite-2025/",
@@ -7180,8 +7291,8 @@
         "Texas"
       ],
       "amounts": [
-        "$5.1 billion",
-        "$40 billion"
+        "$40 billion",
+        "$5.1 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -7231,13 +7342,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2a2f77f5e77839",
-      "title": "Google plans $40 billion Texas data center investment amid AI boom - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1E2bXMwQ3oyY0tOU0tPV3hWclZvZVlpWTVhbzB3ZXgzWXdOWmdhVkNqRjFtdzEtZjIzUmR3aDVBcFE2WUhYaS1TdG5lVTJIWmt4UTRtU3AyM1RvVnVDMGI5NlEtSFF4QVhyYXMzX3g2U0hobGw0TV9oNnJxZkx5R3NtNXlJLW5NQ3FoOEJoUnB5T1hoNkJEc2s3RGNUb3hMX25TM0tGX211NWpNTDhlYWc3dlpZdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "1aa93678eb88f8",
+      "title": "Google to build three new data centers in Texas in $40 billion investment - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBibHY4QkRiaFVkeWJyMFl6RlNXd3FnWjdxYUF6MTUxV3FPNnhaZlprOVF0SWM3bFg2N0xPNDE2MEdBU1dHZE9Bck55b2hJRTlMbkt3YmFGSlVCR1E4ZWxfc2M1bUxyMVFrbUk5WmxYZUlYWU15WkZzVQ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2025-11-14",
-      "summary": "Google plans $40 billion Texas data center investment amid AI boom &nbsp;&nbsp; Reuters",
+      "summary": "Google to build three new data centers in Texas in $40 billion investment &nbsp;&nbsp; The Texas Tribune",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7252,13 +7363,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "1aa93678eb88f8",
-      "title": "Google to build three new data centers in Texas in $40 billion investment - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBibHY4QkRiaFVkeWJyMFl6RlNXd3FnWjdxYUF6MTUxV3FPNnhaZlprOVF0SWM3bFg2N0xPNDE2MEdBU1dHZE9Bck55b2hJRTlMbkt3YmFGSlVCR1E4ZWxfc2M1bUxyMVFrbUk5WmxYZUlYWU15WkZzVQ?oc=5",
+      "id": "2a2f77f5e77839",
+      "title": "Google plans $40 billion Texas data center investment amid AI boom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1E2bXMwQ3oyY0tOU0tPV3hWclZvZVlpWTVhbzB3ZXgzWXdOWmdhVkNqRjFtdzEtZjIzUmR3aDVBcFE2WUhYaS1TdG5lVTJIWmt4UTRtU3AyM1RvVnVDMGI5NlEtSFF4QVhyYXMzX3g2U0hobGw0TV9oNnJxZkx5R3NtNXlJLW5NQ3FoOEJoUnB5T1hoNkJEc2s3RGNUb3hMX25TM0tGX211NWpNTDhlYWc3dlpZdw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2025-11-14",
-      "summary": "Google to build three new data centers in Texas in $40 billion investment &nbsp;&nbsp; The Texas Tribune",
+      "summary": "Google plans $40 billion Texas data center investment amid AI boom &nbsp;&nbsp; Reuters",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7487,21 +7598,21 @@
       "is_high_confidence": false
     },
     {
-      "id": "be783ed9385d6a",
-      "title": "Google to Invest €5.5 Billion In German Data Centers, Operations - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcEZYXzktdFBIdUpCLUMyWlIyMTJOS040SEdMSzFTZEdpcmJPUFU5aXRWOXc0LUZDa2RVZXlWNXl0WkRzaWdEQTJ6Q2NWdTZ0MWJqRlhQZXNONC1JZWloVUR0ZVFlQVBHX052RnVocnkwV1c2c1N6V0o4NUwwQjc2U1FZdmhmRURqcW1KU0I5NklOZ0FnaC1oUklfRi04elVFRDRYa3lEZlU0NTBOSFVobTJFWQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
+      "id": "ebad247e386ef1",
+      "title": "Microsoft powers into Portugal with €8.6bn AI data-centre hub - capacityglobal.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9naTQ5UXdyNHhudDliZk9xTk83cEc3c1l5ai1oU1NxNF9rRVozbzNfVjVTZXZrQy04ZS1oRGdvVTV0SkxlenA1UWpTQzlNZGhzVUYwbE5LNHJfSGpETmxIRm9GcFNVcHF2SFg4eFJhYmg?oc=5",
+      "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
-      "date": "2025-11-11",
-      "summary": "Google to Invest €5.5 Billion In German Data Centers, Operations &nbsp;&nbsp; Bloomberg",
-      "finding_type": "New Project",
+      "date": "2025-11-12",
+      "summary": "Microsoft powers into Portugal with €8.6bn AI data-centre hub &nbsp;&nbsp; capacityglobal.com",
+      "finding_type": "Statement / Update",
       "companies": [
-        "Google"
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "dde671fe5ea2f8",
@@ -7516,21 +7627,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "883644903364eb",
-      "title": "Funding AI’s trillion-dollar bill — Tech bond issuance soars to bankroll data center spend - 9fin",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rRmpvRnNGc2hrdFdoTy1sX1ZHelhackpaU2NneE81UkZHd1BsN1N3R19rZlhfc1RVWTYyM0EzVnpuMGRfb2xPMmt1RUZXRjdkYWI2WEdrWWQ5bzdpNVVNY0d2ZlNVWmExLU1WX2Y2UUE5OFFQRExVOUNsMng?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2025-11-06",
-      "summary": "Funding AI’s trillion-dollar bill — Tech bond issuance soars to bankroll data center spend &nbsp;&nbsp; 9fin",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -7894,6 +7990,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "15340a60950cc7",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-10-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "8ba6e549ff1374",
       "title": "Analysis of Nearly a Hundred NVIDIA AI Investments: The Present and Future of the AI Industry - 让一部分人先看到未来",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fbDF3aGhhbHBWX1dFZTRraDBtSEJwVmpSSEpNUnE0cGVrR1RDMXowREJDbHA2eVdLTWY4dHZDT3UzWFlhMW0tblNad2pOZ1ozZkRn?oc=5",
@@ -7965,9 +8076,26 @@
       "is_high_confidence": true
     },
     {
-      "id": "db8efd31cb1c18",
+      "id": "860acc8af7b52a",
+      "title": "Breaking Ground on Our New AI-Optimized Data Center in El Paso - meta.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmVkX2NRbzhGYjVKeTRnN0cxZGtsYy1McGdSZE9HUDJsQl8zWHpwV01TN0ZkMUpYeTRWdGkyemhhbW9BM2N0YnFkdVBoRFZPN2NOdkVVMUh6ck45TEd1N1JqRm5SdGxqMUZyb0NvRUJfZDhEU2hlak1tRnN6V1hGYTRXb9IBiAFBVV95cUxQUzY2dUF0Vk5QMFpwVnZudG5SYmh4cWtNenZHeUJHMDhYWFlycnNIOUt0MnROclpZRHMxT3ZxNHN2U2J6dkU5UUk5eWV5TWVvWlVjX0xkUmlzc0gwdWtFM0ZNa3I5V3BZanktUS1PcWhpZmh4NmFGbEl3SHhsRHhyZlhNQ2NxR3pL?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2025-10-15",
+      "summary": "Breaking Ground on Our New AI-Optimized Data Center in El Paso &nbsp;&nbsp; meta.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a7b0a3887eeb2a",
       "title": "Google to Invest $24 Billion in AI in U.S., India - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOTkNpQ3BYUGxTNVEwdDdHY1hBODdaODNQQzVpX0JPZm1udklKbFFWQkMzdXZsMU9Cb3J1eFJXTkpqYWFLMEdZc3NuWGgwUTdTUWRlMk5wNzdWaDJqWFEtYmp4YTV2aVdxckc3NEdOOXRFbk5RVjM3elk0RFZmZUJ6ekNIRlZXbmg1OG9vTU5fZmlDMnlOeVNQamdZdzdzZG5ydHo1NDYwOXhldGRPTzVPaDNxdC1acW1pWGVRXzFjbVJ6ZUFFdGpXakcyYURJNkV4cERUUVB5bmhIRWNHS3ZNWmtiUV9icklHTFBuem5pbmhkdS0zVlo2cHFiNVRnZEZXRHJ1Y2U4aWpYWlIwZEtEMlVKOXotVzJyOWNleE1wWVlQZ1Rac2pQLVpNcUtqWkxwVEtacDFSQVVsUmJGWFRiMTFtcE1IdlBWZk1nN0NDaThDYTRVLXRkd2JyTlVLT1VHcG5OeFFQdnFrdHlPZXU4Umw0aUJ6clJoX3BQdHdOM0lwb190cUJNM3plbUU2SFN2cVE4TEZJcXFXbzdTWnhsQ0lTNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQNUN3TV9qTU1rWjhzZTFwWmdZaW5Uci1NenhUdjgyZXBLMXhXX0w0UTV6ejd5QkoyUkZlX3dwNld0Z19UZVdMN3R1MlQ1dDV5M1M2RmZvc2hqVlFEMTZzNVY2SnZSLXVESndmOHVUbGNIWVZaZTNoemZCR3ZXaUR5bjY0eUU3VFBqS21xV2VKSFR0OWk5S0lKV0dfYkVoSlY5UWx1LUpYdmJWSDc4LTEyc1ExeGFGSlM1ZTFreXpRQXp5MGNURU01SC1vTHc5TWRFekQtQ1dsTnVDNktZSkdmZ0tjUW9BSVlVcXZrT2ZyeW41NlJvR0liSTFUNXNOMUs0TFE3enVlODFkMDk0bmdkMWJDd0prb0RNNmhpazJiY21BdldsM2NjRzBkVDJWZnZCb2ZyWjdzbEFvSE1MTGl4RUdKSFo4Rk8yR2xmelpSY2ZrazB4SFBxZ3ZKZmNFd1FMWUh1cGw1NW81RzZTWVJCSm1wZWlKLUgwa0VJZTZhekFkWDdua05LNDhQREVVRnBOOUhUZTZ0Vy1uU05EMWt1QUJqMA?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2025-10-14",
@@ -8021,6 +8149,25 @@
         "200 MW"
       ],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "28d412023dc1ee",
+      "title": "Google to build a $15bn AI data hub in India - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKb3VGanFOMjR2dzF3ajZ5MHhMbUUtWFVOaHJOTXJYSFNPRkRCelQ3XzhFUDBDRkRtdFlpNVdIVEgxNWZCOUtlbUJJQnc1bUttVWc2MmVUNUlDZw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2025-10-14",
+      "summary": "Google to build a $15bn AI data hub in India &nbsp;&nbsp; BBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -8183,9 +8330,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "27a1dee0ba4b9f",
+      "id": "814c438358ac77",
       "title": "Stargate Data Center in Abilene, Texas: 3 Things I Learned During My Tour - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNZzdkbm1iZTFOdHBrWFBaZm93dWM3a2tTSG41MEpUNUdpR2k4UVhXU3BFR2ZLSXM0UTB1djVCbGFKQzlxNXp3V2pkV2NSUDN4bS1hTWlpSEtvamtaTXgxZnpGOTVPb3dDM2pJTGI3WHN1aWN1UWlmX2pETmpSQ0JZVWxPcUFmNzJOS1prSGd1dGlJbmI1OVZmMVpySlNhb2doa20yQWdwcHRJdDYydUVkLWU3Y3BCNkl0bGdSWXFnRElaUV95eEo3dTZUZlozSTdmdUZ2d19CSzFyMHJkNDNvYWtTYWwwZXdzRzJUYzF2VUdzalk5a1JGNEhKRzFnM1duYjc5RXd1UFVxNnJOZ1d1aUkyTnpkX1pyVEV2a01zRWZMdGstdE95cDJ3YUIwUE9RZ1NpTlRwazRxa1hxM2l3UWtyV2luZDlVejJwWDdzdTFQRS00OHpSeS1pT2NPWVhyMG5jV0JRbklQN3VFcHpTWE5Kbm5tZVEwSnRGMXVCaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQdVozM3lrb1NDc2lybkpxdUdlOEc4UENST2FIQzNrX25rYUlnendOMWJHMlRVNHY1MWxMYW02cW9kNkt5XzVQM3Jha3JiSlVsR19kM3F3cngyWEtLbDk0YzhyckhzTVl5dXQzTFdqTjg2NVRPUVBJNzQ0b1dJdjN1TzZoYWYxOGpyMW5VZUtBMUdNQ1N6NWxKcVpqQWhBYXZmaVJEMTA0TnhrQ0hkNk9oSjVUM3V4RXA1YTlhYldmdlZyT281OHNFa0RJWmowUjFObHJpazdyUjRabDVnU0VFc3pmWnRyTUdKQ25CczYxTW9FbU5FZVlTa2Q0cmZqd05aYkZIX1JoZ3AydFlBc1ZXYlk4VE1SX1RVU1Eyb0I2YlBzWXNNLU5CemI3eXpaM2JvN01rUlVrMnF5V0NiUXU3Q29MZElrVWg0X2F0Q2RFTy14a0lCZkpra0FiRTgteDFzZHVvN1JENmZ2WW9Cc0VtUy0zQzFUT3RGVlBPblBYVQ?oc=5",
       "source": "GNews: Oracle OCI Stargate",
       "source_cat": "Company",
       "date": "2025-10-05",
@@ -8581,6 +8728,26 @@
       "is_high_confidence": false
     },
     {
+      "id": "a7010a5ad810f0",
+      "title": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnaEQwRVRFTERxRlVKNVE5dlFJeE8zNDJNT2t5MUlZWS1mYVNTRTBMa1A2dWtxeWFGa2dIQnF3WHI3RjNLZy15c3VtTEFSVGpfaXgxMnd6MnhTSDBtSkQwRnpSYm9TbmtUeWJRZHBpc9IBdEFVX3lxTFBTVnFvemc3N0JtN2Y4dDdrLTVuRFdrbUstc01IeDZTQU82VU9Rc0x1bEJrS25WMExOcjdNZFdST3NmT0FqWXhmbjg4SXJxWEJ4TEhteUlPNkxMeTJzZmFoRl9zdkFxZTFvbGxLZHJpdDZERmtX?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-09-22",
+      "summary": "Nvidia plans to invest up to $100 billion in OpenAI as part of data center buildout &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$100 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "f651bfad79a428",
       "title": "Updated Nvidia Stock Price Target — AI “Bubble” Narrative Ignores Re-Acceleration in Big Tech Capex - Medium",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2ctckpiYW43YnN3X0pNYnNmbWJzaTkxWFRkWFhDeFNXUzNDdGt4TkpCZmFiOWdjVEs4WjgxdTRFVk9KVmJRVC1Tbi1MSmRYQ29ta3RSeU1iQk80VGE2aW40a3dGSGdYcTI0TTFNSDNObExyNV9KWUZMZUEybW5CemkwejB4NWVTWkRSUFhadmZackFvU1B1a0Zkb1A5S2N4Z3NsaFJTSVVpVERYeVNsaTdrRVhZd2VUUzBMd2RzV2N1Rk5pY2pPUjhPeG0?oc=5",
@@ -8802,6 +8969,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "0c856fda2d1c1c",
+      "title": "Avaio Digital Partners breaks ground on $6bn data center in Mississippi - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOci0wSUFzQ1QxMVB3TXgtU1N0cXRlbHZJMXlvS0QwX0xiUnlsVEg4aHRKa2x0cmduNzladncybE5Nd3BLSGRMYlZuZE5MSjFGU2F4aXh2X2pucWVyaXB2NTY5M09adUxjdWkteEdJU0g5NnZjVEtHWDhLZzZ6UTI1OVo0UmpGTnh5TzZiYV9zY3p5ZEJvRFFrTm9kTVpZUzY0UVZ6VkhQQmF6cTlIUTBxdm9LY0c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2025-09-13",
+      "summary": "Avaio Digital Partners breaks ground on $6bn data center in Mississippi &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "81841840e86f59",
       "title": "OpenAI Signs $300 Billion Data Center Pact With Tech Giant Oracle - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkFpbEp0eTdVMHFxTXM3aTFWalVzbGNkdFM5V2hDUGV4ZTREUjFRYVlMWENUNkZCRENDRmNUUm1TeHlYbmhXeUhPZUFyRlVJdXRDczhBVlFOdXhtWFgxQWRKaXJrUDI3WGtnOXVmV0lsdzhSTzRWd3NndHpQdmwzd3VJX0JJa3NUSkE?oc=5",
@@ -8902,23 +9086,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "70818c559ed245",
-      "title": "These Are Nvidia’s 2 Biggest Risks — And Neither Are China - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2ZBMFFQbk9ySTZLQWJLZ0NMUzhNenN0RnRJMllITHlaeWhYV1d2VnY2UXNXRGpkcmFwdlZnM2RaU1Q0c3kxVUFmRGF1MEo5TlUzYUFGNFQwM0I1a1ZaTzYtVDRIUkhXaG40Ti1kRFRxTzZZMUpJWlptNzFXcUZvUnBrZFN6Z24zeW1aNWhBWkItTWNhS3JzSVp2QVFoQjhI?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2025-08-28",
-      "summary": "These Are Nvidia’s 2 Biggest Risks — And Neither Are China &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     },
     {
       "id": "4e202c5486605e",
@@ -9051,23 +9218,49 @@
       "is_high_confidence": false
     },
     {
-      "id": "9da4e7461d4b4d",
-      "title": "Meta, Microsoft Gain Ground On Amazon As AI Arms Race Accelerates - Bisnow",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2JNVDV6bi1yLUtjeWV5Mk1LR1A1N3NBNFQ3VEdwZ2d0TGJZUEhvZjQtOTQxOUxTMk9WbjktN0hTZUQwUGtyNDAzcEhhMjlmMWlXRVh0TzJocTZnTExjb1JVd2xxR0tpRnFEYmljS2NEbVBNUzBGYzM2N3pFaDJfYlg0TjFjTllFajNHQU1ZUmVSelpaOG41T2ZFWFJsUjhwNURZejVoNlVUSGRodTNGajhsT3h3V3M3M2s1bw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2025-08-01",
-      "summary": "Meta, Microsoft Gain Ground On Amazon As AI Arms Race Accelerates &nbsp;&nbsp; Bisnow",
+      "id": "bf36fa0511943e",
+      "title": "The data center balance: How US states can navigate the opportunities and challenges - McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVd1OUlZdXg3U1NDLTItdW13akkyOXNOaV9fT0VFaVQ2T3hDR3IxRVREQW9qZWZmUURCUmdzcllPWEhUUHZSTGxueVByRll0MDJMZ3gwbUw3WTdhamU0TWkyOHoxeEs1dnBrdGVTTjc4eWx2d1NkeUVjNFdjdFU4X0hfdldVZmMtSGV5dUU1SzhaX3hHaTlrYUh5VEtEMGZXdGp5REZ2cmhNd2w3dlk0ZkpjMHhPMnJNTFk5cG5kcFhaTkRvWkVzY2QyM29Oamp5Q3EtN3gwZEJ6YzFUWFZN?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2025-08-08",
+      "summary": "The data center balance: How US states can navigate the opportunities and challenges &nbsp;&nbsp; McKinsey & Company",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Meta"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "907ebed632ba7f",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-08-07",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a8811323c5af4c",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-07-31",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "284bb366c043ab",
@@ -9318,25 +9511,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "02b92c6fb95a99",
-      "title": "Mark Zuckerberg says Meta is building a 5GW AI data center - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVhHbmJYM2RBUWFpWmF3bjZ5UlJYNjFrc19xZVNvUVk4eEdHWHJTWU5jTXdxM1pRUnZuV3czdnplbDJGbGxoc1JIZmdJMk1EWDJDRkM4NDU3WTN2aHVRM0NxVG1wa2pobUNvaUQzSlVQZEx6Xzl2TDVvNml6R0tnNmhsUTRINmI1Z0RVOFZ1Q2wyLVlNQXJtNQ?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2025-07-14",
-      "summary": "Mark Zuckerberg says Meta is building a 5GW AI data center &nbsp;&nbsp; TechCrunch",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "5GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "7849f74961dd83",
       "title": "Mark Zuckerberg’s Meta to invest hundreds of billions on data centers after poaching top AI talent - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUNlNHZPdTAwZFZJVkt4OHp6d3ZManN6OEw5cy04M0N3blJWdUFDVVluNnptN2x4LXY3aUFYQjBvYkZKdEZhVXU2S1UyV19pNFR6YkY0Q2xZcDYteDdJRFVWOUJxcS1qY2hYYnNOMGF1UEMxZnRrRlpLXzRONm1qeUFEV0tFMm1iVlJ0MUNKSGpTUS12akRZcmg5Z3YyNktqdXpMS0VnSmJWMWxvaU4xekpSNA?oc=5",
@@ -9497,27 +9671,6 @@
         "$30 billion"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "28a1f89c94a31b",
-      "title": "To land Meta’s massive $10 billion data center, Louisiana pulled out all the stops. Will it be worth it? - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQVZTMHFHSG9YRUdlVjdIQmtudVlIVzlORk45eE44SU5WX0g2QkZqVVd1b01MSzlDTWdwS19nVlVVZTNJY1F4SERLalpfZ29SZjBaNXFsZ0N6YWdhaHJ6enJZaTJ3T2owSVZiQXlIVkFtZFhVNHAtZkNnSHl3OExmYUp5X0oxek41S3pfZmtVbWx0eE9Tdnln0gGcAUFVX3lxTE1kMk9CUjhvMGhyLV9KVmgwc3I2ekhPamNKXzRhOEtwd1V2Q3dLX0FvbzFfcmJrcE8yNmlEWm1tOWZtMjFVd3Q4RWxjQmlZRUFGLUFvdncxZUxqRzBIODlxNjgweWRLdl9mWXItOGowYjJKa0dNdUhMM2N6dC1iZWF3SHJOa2h6RjNOdGlMRzJHTHNndnpFZ01raXBkRg?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2025-06-25",
-      "summary": "To land Meta’s massive $10 billion data center, Louisiana pulled out all the stops. Will it be worth it? &nbsp;&nbsp; CNBC",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
       "is_high_confidence": true
     },
     {
@@ -9855,6 +10008,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "60254987da4a95",
+      "title": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEd2SWVkSzB3ZW92R0lRaFgzUjUyWDV5LXRrbUwxRVdoU05NT3pKZWNRZ1paMDlNd3pIQ1pRcTJuQ09lc3VaNG5kSHd4T3NLc2czUkwxQnA1MnpkUFF0a3RJREVDQWpZYS1DdkVHRU9uRVBpWnRqblktRlBURkJQS2xXcjF3dXN3Y1hCYnVNU2Y0ZGlzVV9Pb1hzYzNKSW8yZU5PRHpPaENsMWo1dVF3?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2025-04-15",
+      "summary": "Microsoft’s Data Center Pause Caught Ohio Officials by Surprise &nbsp;&nbsp; Bloomberg",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "41948703a3b517",
       "title": "Microsoft ‘slowing or pausing’ some AI data center projects - The Hill",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWw3LVViTU9XUkg3bnJodlFVLXlOczFoUVdIRFpTdHBHd1l1VmJOYUFXT2ZPRy1wMUtJUDRmMVJTVXRCRmRuUXF2YTc3NzFUVXRVOWM0bkVueUlYNFNMVHZMSTNFeEVXMjJOWFFaNEs2YWZzRFFPOVJmdHAzYVFwZEdoLXhUdVc2LWozUG8yWFI5NUExdUM2a0UtQU1hUnhCaWVmOU5yQdIBrAFBVV95cUxPYWFsNnJDUjBaaWFfODdVZ2Q2SGd2eFBOR2pUQ1lGYkl3SHJuRDVMQ0ZlSUp0QnVRcHlQbldsRlFXeGlxTGlmZVI1c0p1X1BUd2pCeUNndHNtZTlDakhPN0hHWWlJaHRmSWNfbmJrMTFvdy1USm5tclcyX243SVZyN3g2d0xkTUF1WUxvYnQ0NTFwbnJydGl6ODlBUmFUa0JzTzFqZ3FOeXhmclpF?oc=5",
@@ -9912,6 +10084,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "82a766c0fcfc8d",
+      "title": "Microsoft 'pushing back' $1 billion data centers project in Licking County - 10TV",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNazEtTGdHeTlDMUN0Tk13X0E3UjF3SnItUU1mcnlJREJ5eFd2clgtd2dhRnBvU0o0b2pLVzdmVEZ0REV5UnV1ODcwOEJ0QzVaWTlYRWFCQmRlcTBJY1U1WWp5WGN0LVdYR05uWnkzcnRULVBVb2ZrY2FXdnVaVHg1RFBGSl9qSVJ4WTljTzJWd0I4SFU4NzhNZWZHVExMVlJMVjZpVE96RC1nY1Izc1gwQXhnNXN0NXhNd09fVC1JR0hNZHFMZXpQTUhmeWZkamxYZnE3aGdGak5VMUtaOW1J?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2025-04-07",
+      "summary": "Microsoft 'pushing back' $1 billion data centers project in Licking County &nbsp;&nbsp; 10TV",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "4789ccb2c5755d",
       "title": "Microsoft hits pause on more data centre builds amid AI rethink - capacityglobal.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXBlaU1JRDZIekR3djNFRk1pQkxxTGhqWUVTN1M2M1BWaWtTd2dXQnhOZmhGbUo4TkZCemdreW9Nek1XOEozZXd1enRhYVB1UFdaWUFyOElwWk44TC1STldudnZ5TzA2SHByOHlYZVRzT1AyTzFBNFRCM3N2aUhzYUlxZEJ6eTI5OU5FZTJUd0s0ckxPb1UtN0Nqb1c?oc=5",
@@ -9926,21 +10117,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2584efd4c5a06b",
-      "title": "News | Tariffs threaten to push data center project costs higher - CoStar",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmhlUFlRQ0JsNTF5UzVaUGtPcko4Wk52M2ZVbTNrd0xrMUFXNUxZbGNDb1BvSWJhVEpxdzdJWU9Xdk1OQnFNLWtmaEt6dVpRWExvaWZXb3F1cG5ESDdGb1BBd2tCZ1ZJWjhrRWE1WWNfZ3BHRXRvWUgzX3ZUN3ZCRVFNejVYNkFFbk95OXB5MFluWmJTdkFEQ1ZOaFRiZ1E?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-04-04",
-      "summary": "News | Tariffs threaten to push data center project costs higher &nbsp;&nbsp; CoStar",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -9980,21 +10156,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a50c23d31499bf",
-      "title": "Corning Launches GlassWorks AI™ Solutions, a One-Stop Shop for AI Data Center Infrastructure Needs - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSktuOU41TXctVTdNUldGQnVTT2REOFlqcmFYRmNySW0wUGNQLTdGa08xQmNUeW8xdUNRLWxSNVJQTDhnUldneVhOREkxYTJ3TVhveUdwUC1RZ0gtc0FVRXJNTTJKekJKLTFENEUwVjFYQkRRX0V1X3AwNWpYQjZUenhLVkl2NFg4U3g3eEpNZXRqMGRWVERpUGVNMndQc21nckFXVEpJN3ZjaUxGdGlGY0l5OWhtMzV6Q2FaWEc4Z1YzODdFWGZpeC1BT1VCM0NNeUJYZ21vQVdJU0tqSXljRjZ5WFByaXhX?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-03-27",
-      "summary": "Corning Launches GlassWorks AI™ Solutions, a One-Stop Shop for AI Data Center Infrastructure Needs &nbsp;&nbsp; Business Wire",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4adc582b7b75d6",
       "title": "Stargate Data Center to House 400,000 AI Chips - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhMU1lZWhqcGdSYXVtM3lCTzFHbkEyV0dOa096NGtPNTJ4T3hjUUlDUzlSYkxXOWk5SnlWSFkzSWRwN3U2aXAyQ1ZwVWlKUGtrSl9Qd3JyS1VfM0NEWDBMX3RqZzhaT2NBbjYxZHF6eEVvY1c5eE5QMNIBfkFVX3lxTE83VDFZRXJQb3VFTVd3c2NqWGdzS2pVcUtKZlFRMHctbUdoc21rMVhkb3plZUZIWXZJRXRNZXJkVDc5dEUwVjlEU0prWloydHBIVEtaT2MzWXhJVWVxQS1ZdzYxVVhhU0VOczROYlRLMlRWdUtINEpZalVQM3ZCZw?oc=5",
@@ -10008,42 +10169,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "29ddfd928f73bd",
-      "title": "Microsoft cancels 200MW of AI data center leases - report - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlhmNjQ3ZzVwV29yenE3X0VJcTE3WmE1TmJoWkp3WlNIRm9pVy1NNjAydUVXN3VwQ2ZVTFlZZFNFUUtSMFMtekJRS0hmdGlZRGNvSXU1OE9YUkxTdkNtM0hMV2JUV0ItR1R1ZFhlaElaZUVFYlNnQ2RSV1pjTzN4aG5ZLWk3elBaRi1YeGtZSVNjZTBPbjQxNER4VFpNLXRq?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-02-24",
-      "summary": "Microsoft cancels 200MW of AI data center leases - report &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "200MW"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0063f4e5ae6f29",
-      "title": "Microsoft data center leases slowing, analysts say, raising investor attention - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjIyZlRTSThqVkxmUjN4ODJjVWpJX0lUVS1NWWpMSWRiVmdQSkpPODBQSUJEVmlucmgzNDVEakFGbVdWRU1HcTBKekJ0Tjk2TTZKU0lySU9zMHh0SEJ6ZldOR2E4aVR5WTRJQTFsNmF3RWl0NXdhWXF3YkEtOVdaejE0anI5cVYzcnVIZXh2RzVWdi1iSTFNeTU5VE1CWl81NDROOEVPR1RkWGVSVGhvNlRzRDJ3MDY4Y0J1amZaMEVNZw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-02-24",
-      "summary": "Microsoft data center leases slowing, analysts say, raising investor attention &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
     },
     {
       "id": "3978ccd055e398",
@@ -10083,25 +10208,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "92abc7117107d1",
-      "title": "Microsoft expects to spend $80 billion on AI-enabled data centers in fiscal 2025 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWR1dldDS2pncmRyamtCcGFjRzAyRTIyc1UtZ3FOY3ZyNXhBdGwya0xuRk0zamYtVVFSem52cXpIRUdvRWdPcUU5cVJJQXNoX2xnUzBfcVk1bzdaNE85TERya0drNjR0OTlfcGE5TVl3cEJTZGRRMEloVlhtekY4cW1idWUtck41dndEY0hGQnVHYmNrbW1VMG1fSnNNY21UZGZ0OEJjSdIBrAFBVV95cUxNREh3UkJneFliekE1a3RCUm1YM0cxTllJMm1oXzNCV2F2WkdsNEgxNHExZDk1eko2cHRCSWlqN0NKejktNXBaQWZMTzlrQmVyTnk3Q1pVaTlGQkQ3S0drVXlwdDVFbE5JYWpYay1LSEhxZkNnYVd6TV9OWXp4bXl2OG5iSTNYbzZyVnZidXRJV1ctcGYzdlJSUjRwcVlyUmE2cS1KVFF4Z1pTWXQ5?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-01-03",
-      "summary": "Microsoft expects to spend $80 billion on AI-enabled data centers in fiscal 2025 &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$80 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "1ca735d25bf98d",
       "title": "Meta announces 4 million sq ft, 2GW Louisiana data center campus - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcC1weVRrSjRzeWlURFo4Zm1yR2I4cENheHJyNzVMbDdzYjdwUjBnRm5zMk1XS0FvNkY0NGtFSkozb01jcHB2amZlblN1Y3JSdlltVFpKdTVMSGdZaXR1dzVPaFo1am5aMHkwZnh2RmNGdTcwb19Cc2ZBcW5ibjh4eUpzcXo1SW1fQzZOTUpuRWZ1cDNNREdVZEMyV0RCNmZTeDIyTHZR?oc=5",
@@ -10123,24 +10229,33 @@
       "is_high_confidence": true
     },
     {
-      "id": "17b49e9dc46281",
-      "title": "Meta Selects Northeast Louisiana as Site of $10 Billion Artificial Intelligence Optimized Data Center; Governor Jeff Landry Calls Investment ‘A New Chapter’ for State - LED - Louisiana Economic Development (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWDlwMDU2Rnl3QkVZN0NBQ01ZYldRRjByQzc1b2JDT3V2QXpzaU94NzFCckx6TUszcUNUYjhKS0V2ZVNseUwzUHpudFJDY1FRajlJbGVTZHhLYXBtbU55eEstcUhSb2ZjSXZrZmhGa3JyVjFvRm53OXJWN2hDM3BNNVhVaHJ6c3k2OVNNenRUTFVRSHcxMVlEYlVIZmN2YVlDS0I1T0lUYTdWR05Jd0xFX2FZOUhfLXJ4MlYyZGlranJvSkc5LXQwS1JmakR6bHNVWGJBUnpKMU1td1RUeE5raldmeWlZTWkxbHJaNXJiUnJHYVN2RTJxYjdZcEFHOFRfMHFtWlFyaU15aExMYWdlZWUySkkzWXloRkIzY0lGWVdORG03U0ktV2tSRG8?oc=5",
-      "source": "GNews: Meta data center",
-      "source_cat": "Company",
-      "date": "2024-12-04",
-      "summary": "Meta Selects Northeast Louisiana as Site of $10 Billion Artificial Intelligence Optimized Data Center; Governor Jeff Landry Calls Investment ‘A New Chapter’ for State - LED &nbsp;&nbsp; Louisiana Economic Development (.gov)",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$10 Billion"
-      ],
-      "confidence": 9,
+      "id": "2f3ddfbd8fdd92",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-06-28",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "119e0a03bf7a6e",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-05-14",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -10165,23 +10280,332 @@
       "is_high_confidence": true
     },
     {
-      "id": "b96a77e6eb115a",
-      "title": "Microsoft announces US$2.2 billion investment to fuel Malaysia’s cloud and AI transformation - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUR1VzNGVGM1a1ZfbUZwRVpTZDk3OHc2c19LOW5kbm1mZkwzU05lZ0VtNkNoM0hQVGNhYU4wVWlPVkxnckhkMGlmTXo3MzB2bG4tNWp1OFdSRHp1aHltam85SXNEcVhjQ3VWYWV5czNjTVI4cHAyZTUtSzdZLWZCQUpVd3I2S2FkR0xQQTVUYWJTbERmWElyR2FZalFOMzgzZGNLNnp2a1VYWHl1VV9SYmthRG5LLVVoOVAwclh2Nl9raW1MZ1pYSF9pOWFKMlE?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2024-05-02",
-      "summary": "Microsoft announces US$2.2 billion investment to fuel Malaysia’s cloud and AI transformation &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$2.2 billion"
-      ],
+      "id": "1c4cfb50b5d5b1",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-03-06",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "061eb1afd89976",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2023-03-31",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6d03e24ffda9c7",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2022-09-12",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f57e8fdbbebe87",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2022-05-13",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2226c298990a3d",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2021-11-10",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c79787af7ee524",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2021-07-23",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b2275c6560cfd6",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2021-05-17",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6c2349a282a050",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2020-09-11",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bd44b7f01e51e8",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2020-03-12",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "26b015396bd176",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2018-03-19",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1efa32020aa7a6",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2017-11-07",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "17f249c77b46d9",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2017-08-22",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "249b42b9223003",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2017-05-11",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "acab265b54d81c",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2017-03-07",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a58093a205e8e0",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2016-11-23",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2b27846cdc3ab4",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2015-11-27",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1518cba666a224",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2012-11-01",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2e1743dc6245d9",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2011-11-18",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e857e5ed8ac138",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2011-08-02",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d443010a956775",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2008-07-17",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b3fe4c4247fde3",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2006-08-22",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1dfe9c1c675ae0",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2005-03-04",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     }
