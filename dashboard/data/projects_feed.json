@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-03-13T18:45:46.079740+00:00",
+  "last_updated": "2026-03-13T20:37:07.573455+00:00",
   "finding_count": 600,
-  "new_project_count": 80,
-  "cancellation_count": 14,
+  "new_project_count": 81,
+  "cancellation_count": 15,
   "sec_filing_count": 2,
-  "high_confidence_count": 189,
+  "high_confidence_count": 191,
   "findings": [
     {
-      "id": "783fe1960f32ef",
-      "title": "NC lands another $1B data center investment, as Google expands outside Charlotte - Charlotte Observer",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YQ09rRHUyeGxvNnJQZ2FtcnVuWVhYV1h1VHNzX2tlZWZxajlyeG5DVm1BMGYwYTZ0M1JPUURRY2RtQWNZbFQ2cWY4OUxCOFgxd1M1cGV5ZFI5QmFDSHhNcVJBOUhMWEd6bDdvVWpsQXpTNG9LY0Uwd9IBeEFVX3lxTE9JNlNKTDZiTE5JM1lHaXhhRXl4eTI3eEEtQlJrb3ZaRlMwaFhmVFBLQmxrZGZubXNYQWowNFhsbnFZbk9EZThkek5Wd2IxTGY1OGxRTTdvX1lJVGQzZ3o0QTlLbjN2Q0xvWTlQV2VaTU1vZFd2ZWpiMQ?oc=5",
+      "id": "a1d8885aa4b4df",
+      "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-13",
-      "summary": "NC lands another $1B data center investment, as Google expands outside Charlotte &nbsp;&nbsp; Charlotte Observer",
-      "finding_type": "Statement / Update",
+      "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
+      "finding_type": "New Project",
       "companies": [
         "Google"
       ],
       "locations": [],
       "amounts": [
-        "$1B"
+        "$1 billion"
       ],
-      "confidence": 8,
+      "confidence": 9,
       "is_high_confidence": true
     },
     {
@@ -45,6 +45,44 @@
         "1GW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "783fe1960f32ef",
+      "title": "NC lands another $1B data center investment, as Google expands outside Charlotte - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YQ09rRHUyeGxvNnJQZ2FtcnVuWVhYV1h1VHNzX2tlZWZxajlyeG5DVm1BMGYwYTZ0M1JPUURRY2RtQWNZbFQ2cWY4OUxCOFgxd1M1cGV5ZFI5QmFDSHhNcVJBOUhMWEd6bDdvVWpsQXpTNG9LY0Uwd9IBeEFVX3lxTE9JNlNKTDZiTE5JM1lHaXhhRXl4eTI3eEEtQlJrb3ZaRlMwaFhmVFBLQmxrZGZubXNYQWowNFhsbnFZbk9EZThkek5Wd2IxTGY1OGxRTTdvX1lJVGQzZ3o0QTlLbjN2Q0xvWTlQV2VaTU1vZFd2ZWpiMQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-13",
+      "summary": "NC lands another $1B data center investment, as Google expands outside Charlotte &nbsp;&nbsp; Charlotte Observer",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "74fa09baee6209",
+      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
+      "url": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-13",
+      "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$75 million"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -207,6 +245,23 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b69c72471036e3",
+      "title": "Behind-the-meter data center proposed outside Richmond, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/behind-the-meter-data-center-proposed-outside-richmond-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "LS Power plans four-building campus next to Doswell energy plant",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -4326,6 +4381,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-05",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6461591231a9f0",
       "title": "Donald Trump accelerates construction of AI infrastructure as Florida stands poised to restrict data centers - Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUVUN2N6Y3RtbVJfenN1a2N6d2RjMm5tSzZYUFBkMkE5WTd5R0tVNTh1WHFON3VXR1BOS0lEWHBpeEtXV1hDY0stZW42SW1ia3VSMXdCLUg5R2d3WWd1azhZbklNcWdnazVoaFdEZHFmSmRESGZDM0lvY3oyT25vUlpQMFdscE5rc2hwNUc2LUw2b1pYRzZNbzZ1ejJRMmItVXp4MTB6cXZ1a0ZYd1BkNE12MG82QUQ5MmNtX3k3WkFHaHFCY01maWRtendoN2o2Uk1qWHg3TFdqaXRNNENicWFBcGJXWlow?oc=5",
@@ -4338,21 +4408,6 @@
       "locations": [
         "Florida"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8170,8 +8225,8 @@
       "id": "407126874ac0a4",
       "title": "Shreveport City Council welcomes $12 billion data center being built by Amazon - KSLA",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzI4Qzd2eGVpVDlmcTV3cHhiRTEwVmxQdDBXM0w1bEVzYzBsbFlsNVNnTE1xS3BCLXpUeTZSQTJWcEM5UTZlVWRVdW4yZ2lWYzFLbGR4Ulg1UTR4S2JidnRrdkdxRF91SmpzMUUtSm5VaXM1YkJpZTlkWklFLTdsaU44R09Dbm1uWXd4NThJUWo2Rlp1VnpUMkZ1WGVaakNhM2JQQ19ETmw2WktENHhn?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-02-24",
       "summary": "Shreveport City Council welcomes $12 billion data center being built by Amazon &nbsp;&nbsp; KSLA",
       "finding_type": "Statement / Update",
@@ -8488,14 +8543,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "40afde9bd1081a",
-      "title": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcEhOaXFqc05RcjN1Uloydmg5WjZFQVZaRU9xZ2N4SFUyS3VZQ3QxaUU4ZWFxdUI3YlVUNEJ2LXBNUkliX0Z0clRrSmV2TlRGRXNWNzlDZ21Ld0haY2VsQnlqZEFCUGtscDdhLVZfa0tXVy1HVHpKR2IzVDBDaUJtTHZoamM3MjRkbE1qcGJLckZ0VmxTSGszV25hRG1PdnlUTXlNUTJOUmpzTWgxc1BKRFV1aWliMkN5ZHFXa2RsekN0bFJqZWFxclRURzloa2t4bmJCTE1CWUdXRGFWeXE4R1AxcTQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "id": "fafc6d18aa380e",
+      "title": "Amazon plans $12 billion Louisiana data center buildout - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR24wNDhXcGlXRlpkNzU1aXRWT19DWlR2bWJBY24tLVFrdmlDMW9iNTNQbXZJUkUxQjFDQS1VbDVmcDFKT0dNWjVvQ29QTWJWVG1iSzNpUHNNZlZjVEtqY0k1encydjR3QUV6aTh1VVZJNEZiX1BSS1JleGxUd2tpNTMxWm9PYUg1ZUlCVVhGWjJUbFR1MnZrNzZyUFEzMGxrcVhVaW1GcEpmSW10Z3pKT2RwTjhkUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-02-23",
-      "summary": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier &nbsp;&nbsp; Shreveport Times",
-      "finding_type": "Statement / Update",
+      "summary": "Amazon plans $12 billion Louisiana data center buildout &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
@@ -8503,7 +8558,7 @@
         "Louisiana"
       ],
       "amounts": [
-        "$12B"
+        "$12 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -8530,14 +8585,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "fafc6d18aa380e",
-      "title": "Amazon plans $12 billion Louisiana data center buildout - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR24wNDhXcGlXRlpkNzU1aXRWT19DWlR2bWJBY24tLVFrdmlDMW9iNTNQbXZJUkUxQjFDQS1VbDVmcDFKT0dNWjVvQ29QTWJWVG1iSzNpUHNNZlZjVEtqY0k1encydjR3QUV6aTh1VVZJNEZiX1BSS1JleGxUd2tpNTMxWm9PYUg1ZUlCVVhGWjJUbFR1MnZrNzZyUFEzMGxrcVhVaW1GcEpmSW10Z3pKT2RwTjhkUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "40afde9bd1081a",
+      "title": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier - Shreveport Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcEhOaXFqc05RcjN1Uloydmg5WjZFQVZaRU9xZ2N4SFUyS3VZQ3QxaUU4ZWFxdUI3YlVUNEJ2LXBNUkliX0Z0clRrSmV2TlRGRXNWNzlDZ21Ld0haY2VsQnlqZEFCUGtscDdhLVZfa0tXVy1HVHpKR2IzVDBDaUJtTHZoamM3MjRkbE1qcGJLckZ0VmxTSGszV25hRG1PdnlUTXlNUTJOUmpzTWgxc1BKRFV1aWliMkN5ZHFXa2RsekN0bFJqZWFxclRURzloa2t4bmJCTE1CWUdXRGFWeXE4R1AxcTQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-02-23",
-      "summary": "Amazon plans $12 billion Louisiana data center buildout &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
+      "summary": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier &nbsp;&nbsp; Shreveport Times",
+      "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
@@ -8545,7 +8600,7 @@
         "Louisiana"
       ],
       "amounts": [
-        "$12 billion"
+        "$12B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -8753,6 +8808,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "91df0b8f75bbd1",
+      "title": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmVuM3ZPbkIyaS1ZdUhtYVN1S1dfc3dIUUd2bl9MbloxYjNRQXppWUhyX3g1RFJfMktXMjVBS3JQOVA2aE05QU5DMWhfeFJUNzZoMlFNbHB5VDlkN21VOF9lQW4xUm1odW9BTmdocnFjRi1kTlNxb0VkV012RjdXZzFBUDFIcHBiUjRZZUxsSG1VRmxOSXpkNm5nZ0dDODJtRXVydGZMemIyRE05MElQVXJFNlAydTZaMVJqcmNwdHd2UUQxdTVLU1lDYXZYN2RCTEZ5Sg?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-02-23",
+      "summary": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "1dbb968c9e6d27",
       "title": "Amazon AI data centers to be built in northwest Louisiana: 'Something unlike we have ever seen' - NOLA.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXpHZGkybkI1MEFMVGhlSEpxbDVmMkVSMWJRUWY4YTVHQU9kcVhnaTFxdmJMYUVKZWNyR0ZERnZTcTNjWVhDU3lKUl8xUS05NjB5UXF2WkdSU2ZKRko0U29DZktUbGlYb0dRYXNqbWQ5eHVTMEFscXlMLXd0OHlDemNLMldlUGJMdzFobmFHeWlUYmY1Ym1RODE0czJaZ1c5cUZndVFsdDViOFEtN1pkYjBlTTVjeTNs0gG-AUFVX3lxTE1rcmVhY19uZXU4YXlkR0ZDai1xd0N3ZW9vVmNFdlRha1NVUlNpS3R5Mml6bFB6UlJkWG1KS05Oa0xNLXpZYzUwNjM5MElpczFPNnljdUQyajZhQXRmQ1JmR0F4YlE0RjUtNzJXR3A0TGxjNGRNVnZPelN5Q0tBMnFoTEl0OUdxaTdJdmw5MWw2bXZkZ0dPOVpaZXFGdi1ja3NlR2wzR2pTbGxVWWlWQkZKVUE3bHdscVc1azRhM1E?oc=5",
@@ -8784,25 +8858,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "91df0b8f75bbd1",
-      "title": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmVuM3ZPbkIyaS1ZdUhtYVN1S1dfc3dIUUd2bl9MbloxYjNRQXppWUhyX3g1RFJfMktXMjVBS3JQOVA2aE05QU5DMWhfeFJUNzZoMlFNbHB5VDlkN21VOF9lQW4xUm1odW9BTmdocnFjRi1kTlNxb0VkV012RjdXZzFBUDFIcHBiUjRZZUxsSG1VRmxOSXpkNm5nZ0dDODJtRXVydGZMemIyRE05MElQVXJFNlAydTZaMVJqcmNwdHd2UUQxdTVLU1lDYXZYN2RCTEZ5Sg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-23",
-      "summary": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -9035,8 +9090,8 @@
       "id": "1bc16432aa2288",
       "title": "India's Adani to invest $100 billion in AI data centers over the next decade - CNBC",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNURKZTFoRGVWUFRmUmh1b1M1QnNTX0stQ24tdjZ2WFo3eC1pcFc1ZXZkQWpKUm42SVVaN0VscVpjOTZxVDltOXNLbFl5Z2d1QWFkeWN2U0xwSUNHMGUxY0tMZldkUXBRb0ZEbWY0TlU1anNQZ3lUVFVtRkJoMDFtctIBhgFBVV95cUxQMHh5WWhIdFBPaFkwZl9Wakl1RlN0ZHM4aUFwVGh6azNKYWc3VS03QW41Mk1uUWdmLUdRajdOc2M5OXF6SGpxSkZWZzhmRzdJSU5tbzFNUndPMGg2VFhFc19mWlJERHpJMmFpWnFFMWlaaXhMUEpVcXJiRm51Sm9OR3N0VVQwUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2026-02-17",
       "summary": "India's Adani to invest $100 billion in AI data centers over the next decade &nbsp;&nbsp; CNBC",
       "finding_type": "New Project",
@@ -10483,21 +10538,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7a94f125f49fd9",
-      "title": "NAACP Releases Playbook for Frontline Communities to Stop Dirty Data Centers - NAACP",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVJhTzNzV3hVTFRyU0VPX2IzN3RMeWtyaXpUVzFHVjQwa2xteFhZVU1oLWs3VlVid0QzcjZqMm1CaXIycGotRVE1NEdWd2lCdzF2aEtQRVV1a3VaVTdVNUZsVE9IVksyazlHd0pEcGtiV3dHQm41b203elNXN19xQXQtWk40a0NJVUVNaTZWaWRKQlFOaTJRRTZ5YmM?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-01-08",
-      "summary": "NAACP Releases Playbook for Frontline Communities to Stop Dirty Data Centers &nbsp;&nbsp; NAACP",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ada464683eb182",
       "title": "Apple-TSMC: The Partnership That Built Modern Semiconductors",
       "url": "https://newsletter.semianalysis.com/p/apple-tsmc-the-partnership-that-built",
@@ -10524,40 +10564,6 @@
       "companies": [
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d6ae4bb6ae2307",
-      "title": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGVjWkdleXdJemFrcU9CVFdZQlFGa0l5MVBNNlNGOTFUckdwZWJhRE84LWtSVzZnZ3hLWTB2QzhyNkctV0Y0OUxIZVBHdzE4ZTRBUmg3T1pWZ0NkakhmMkNkT013V2d4YkxaYVB1WVkxOXh4OFFlZEZGc0lxTHUtTVh3QVRKSDRPbE8wcVZ6NGtDQQ?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-02",
-      "summary": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "33d2ad38295287",
-      "title": "Co-Packaged Optics (CPO) Book – Scaling with Light for the Next Wave of Interconnect",
-      "url": "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-01-01",
-      "summary": "Co-Packaged Optics (CPO) has long promised to transform datacenter connectivity, but it has taken a long time for the technology to come to market, with tangible deployment-ready products only arriving in 2025.",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
