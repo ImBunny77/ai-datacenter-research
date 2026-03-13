@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-13T14:42:46.224320+00:00",
+  "last_updated": "2026-03-13T16:42:19.464917+00:00",
   "finding_count": 600,
-  "new_project_count": 85,
-  "cancellation_count": 16,
+  "new_project_count": 83,
+  "cancellation_count": 14,
   "sec_filing_count": 2,
-  "high_confidence_count": 194,
+  "high_confidence_count": 190,
   "findings": [
     {
       "id": "8bf3ca3475ce56",
@@ -22,6 +22,23 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "c73fd331dc03d1",
+      "title": "AWS partners with big chip co. Cerebras for AI “inference disaggregation”",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-partners-with-big-chip-co-cerebras-for-ai-inference-disaggregation/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "Will be deployed on Amazon Bedrock in AWS data centers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "31fd904d38fc82",
@@ -43,6 +60,45 @@
       "is_high_confidence": false
     },
     {
+      "id": "71e640f01cdd59",
+      "title": "Nvidia builds out LPU chip team following $20bn Groq acquihire, announcement rumored for GTC",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-builds-out-lpu-chip-team-following-20bn-groq-acquihire-announcement-rumored-for-gtc/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "Multiple hires for \"Nvidia's new class of LPU technology,\" despite company's Language Processing Unit yet to be officially confirmed",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9feaf259d95c7c",
+      "title": "AI startups’ funding frenzy, where AWS goes next, and what’s coming at Nvidia’s GTC event",
+      "url": "https://siliconangle.com/2026/03/13/ai-startups-funding-frenzy-aws-goes-next-whats-coming-nvidias-gtc-event/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-13",
+      "summary": "The Anthropic-Pentagon pissing match continues. Anthropic got some backing from Google employees, Microsoft and others, but it&#8217;s still likely losing business to OpenAI and yes, Google. Massive AI startup funding raged on this week with a couple of billion-dollar-plus rounds for Yann Lecun&#8217;s and Mira Murati&#8217;s startups, plus multiple multi-hundred-million rounds for vertical startups and [&#8230;] \n The post  AI startups&#8217; funding frenzy, where AWS goes next, and what&#8217;",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "NVIDIA",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "409b7720d73725",
       "title": "Bridge Data Centres plans to invest $2.3bn-$4bn in Singapore's digital infrastructure",
       "url": "https://www.datacenterdynamics.com/en/news/bridge-data-centres-plans-to-invest-23bn-4bn-in-singapores-digital-infrastructure/",
@@ -57,6 +113,68 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9343b82b4af82f",
+      "title": "Frustration grows as data center project in limbo in Bergamo, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/frustration-grows-as-data-center-project-in-limbo-in-bergamo-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "Construction of the 181,000 sqm ‘Innovation Hub’ was expected to start in 2024",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7563a524c88f33",
+      "title": "MWC 2026: AI deluge grips telecoms industry",
+      "url": "https://www.datacenterdynamics.com/en/analysis/mwc-2026-ai-deluge-grips-telecoms-industry/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "As Nvidia plays a starring role ahead of AI and 6G future",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "25c3a23b441502",
+      "title": "As data center campuses grow, so do related career opportunities",
+      "url": "https://www.datacenterdynamics.com/en/opinions/as-data-center-campuses-grow-so-do-related-career-opportunities/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "How US data center development is forging new career pathways",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9661e544dad5e0",
+      "title": "Crusoe launches Edge offering with self-made modular AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-launches-edge-offering-with-self-made-modular-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "Also establishes new manufacturing facility for modular data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -157,6 +275,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "260ca816634958",
+      "title": "Twenty years after pioneering the cloud, Amazon Web Services chases the next big prize: AI",
+      "url": "https://siliconangle.com/2026/03/13/twenty-years-pioneering-cloud-amazon-web-services-chases-ai-prize/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-13",
+      "summary": "As soon as online photo storage startup SmugMug Inc. heard about Amazon.com Inc.’s Simple Storage Service, an online data storage repository that debuted on March 14, 2006, “my eyes got all big,” co-founder and Chief Executive Don MacAskill said at the time.  Amazon’s S3, the pioneering service for what soon became known as cloud computing, [&#8230;] \n The post  Twenty years after pioneering the cloud, Amazon Web Services chases the next big prize: AI  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "362c5812c9027d",
       "title": "Anthropic’s Claude gets interactive visuals to enhance learning",
       "url": "https://siliconangle.com/2026/03/12/anthropics-claude-gets-interactive-visuals-enhance-learning/",
@@ -174,6 +309,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "622c760ba43921",
+      "title": "Microsoft is working to eliminate PC gaming's \"compiling shaders\" wait times",
+      "url": "https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-13",
+      "summary": "Advanced Shader Delivery uses precompiled shaders for \"console-like load times\" across PC hardware.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e4e45fd1647b21",
       "title": "Twenty years of Amazon S3 and building what’s next",
       "url": "https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/",
@@ -184,6 +336,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5200f8a82923ca",
+      "title": "How Google Earth AI’s planetary intelligence is supporting global public health",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai-global-public-health/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-13",
+      "summary": "Top-down satellite view of a town featuring a distinct, densely packed circular historic center with red roofs, surrounded by newer residential neighborhoods and a vast geometric patchwork of green and tan agricultural fields.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0662f3b4d75141",
+      "title": "Rewarding Original Creators on Facebook",
+      "url": "https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-03-13",
+      "summary": "With clearer original content guidelines and stronger tools to protect creators’ work, it’s easier than ever for authentic voices to stand out. \n The post  Rewarding Original Creators on Facebook  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
         "Meta"
       ],
       "locations": [],
@@ -336,23 +522,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "89820e7238ae51",
-      "title": "Humain secures 211 plots of land in Saudi Arabia for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/humain-secures-211-plots-of-land-in-saudi-arabia-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Also announces deployment of Qualcomm AI racks at data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "f13d0ec5b9a787",
       "title": "Anthropic launches an institute to tackle AI risks",
       "url": "https://siliconangle.com/2026/03/11/anthropic-launches-anthropic-institute-tackle-ai-risks/",
@@ -399,6 +568,23 @@
         "Microsoft"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "89820e7238ae51",
+      "title": "Humain secures 211 plots of land in Saudi Arabia for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/humain-secures-211-plots-of-land-in-saudi-arabia-for-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-12",
+      "summary": "Also announces deployment of Qualcomm AI racks at data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Saudi Arabia"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -453,21 +639,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7109cdd8e9e9e3",
-      "title": "Shark Tank's Kevin O'Leary on Bitzero, data centers, and the AI revolution",
-      "url": "https://www.datacenterdynamics.com/en/analysis/shark-tanks-kevin-oleary-on-bitzero-data-centers-and-the-ai-revolution/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "TV's Mr Wonderful is all in on digital infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -616,6 +787,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7109cdd8e9e9e3",
+      "title": "Shark Tank's Kevin O'Leary on Bitzero, data centers, and the AI revolution",
+      "url": "https://www.datacenterdynamics.com/en/analysis/shark-tanks-kevin-oleary-on-bitzero-data-centers-and-the-ai-revolution/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-12",
+      "summary": "TV's Mr Wonderful is all in on digital infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -972,8 +1158,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$2 Billion",
-        "$28 Billion"
+        "$28 Billion",
+        "$2 Billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1323,40 +1509,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7e270a253d0e95",
-      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
-      "url": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-11",
-      "summary": "Google is more focused on desktop gaming than ever before.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a6963adc0d8bd2",
-      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
-      "url": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-11",
-      "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c9b090e85f6d27",
       "title": "New ways to try, buy and master paid games with Google Play",
       "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-paid-games-updates/",
@@ -1384,6 +1536,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7e270a253d0e95",
+      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android",
+      "url": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-11",
+      "summary": "Google is more focused on desktop gaming than ever before.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a6963adc0d8bd2",
+      "title": "FCC chair blasts Amazon after it criticizes SpaceX megaconstellation",
+      "url": "https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-11",
+      "summary": "Will it really take \"centuries\" for SpaceX to deploy its megaconstellation?",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -7830,8 +8016,8 @@
       "id": "407126874ac0a4",
       "title": "Shreveport City Council welcomes $12 billion data center being built by Amazon - KSLA",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzI4Qzd2eGVpVDlmcTV3cHhiRTEwVmxQdDBXM0w1bEVzYzBsbFlsNVNnTE1xS3BCLXpUeTZSQTJWcEM5UTZlVWRVdW4yZ2lWYzFLbGR4Ulg1UTR4S2JidnRrdkdxRF91SmpzMUUtSm5VaXM1YkJpZTlkWklFLTdsaU44R09Dbm1uWXd4NThJUWo2Rlp1VnpUMkZ1WGVaakNhM2JQQ19ETmw2WktENHhn?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-02-24",
       "summary": "Shreveport City Council welcomes $12 billion data center being built by Amazon &nbsp;&nbsp; KSLA",
       "finding_type": "Statement / Update",
@@ -8148,6 +8334,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "40afde9bd1081a",
+      "title": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier - Shreveport Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcEhOaXFqc05RcjN1Uloydmg5WjZFQVZaRU9xZ2N4SFUyS3VZQ3QxaUU4ZWFxdUI3YlVUNEJ2LXBNUkliX0Z0clRrSmV2TlRGRXNWNzlDZ21Ld0haY2VsQnlqZEFCUGtscDdhLVZfa0tXVy1HVHpKR2IzVDBDaUJtTHZoamM3MjRkbE1qcGJLckZ0VmxTSGszV25hRG1PdnlUTXlNUTJOUmpzTWgxc1BKRFV1aWliMkN5ZHFXa2RsekN0bFJqZWFxclRURzloa2t4bmJCTE1CWUdXRGFWeXE4R1AxcTQ?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-02-23",
+      "summary": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier &nbsp;&nbsp; Shreveport Times",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$12B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "3036ececd9d248",
       "title": "Amazon to spend $12 billion in Louisiana on AI data centers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIY1ZmVUNoYUdSYmY4M0FoZUlCVldPZmdaSkw1aHMxbllINDVRQU4tTklPcnhSX3M4NWN6NkRQTnRBOTdYX1JzZkRVRTNYT05WcHpvNGUyTER3MFRuZGlyZTNGeGhWMkZtSERtRkVKanBuUXd3V1Z5ctIBfkFVX3lxTE1veHFKWW9OZXVnQm1fTDhUYUhjbXlLZVo1SmtMLWRoNXVOamNoZFBEYllLZ3p2S3Z3eWU4X0F2TXo2ZzkzVkZpQnlLTW8xam03UUhsZnpqVGw5cHRGVE54UUpKcXVjRWFWTVJMZ19RdTJZcTM5OFdMVVRxTE1BQQ?oc=5",
@@ -8164,27 +8371,6 @@
       ],
       "amounts": [
         "$12 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "40afde9bd1081a",
-      "title": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcEhOaXFqc05RcjN1Uloydmg5WjZFQVZaRU9xZ2N4SFUyS3VZQ3QxaUU4ZWFxdUI3YlVUNEJ2LXBNUkliX0Z0clRrSmV2TlRGRXNWNzlDZ21Ld0haY2VsQnlqZEFCUGtscDdhLVZfa0tXVy1HVHpKR2IzVDBDaUJtTHZoamM3MjRkbE1qcGJLckZ0VmxTSGszV25hRG1PdnlUTXlNUTJOUmpzTWgxc1BKRFV1aWliMkN5ZHFXa2RsekN0bFJqZWFxclRURzloa2t4bmJCTE1CWUdXRGFWeXE4R1AxcTQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-23",
-      "summary": "Amazon invests $12B in Louisiana AI data center in Caddo-Bossier &nbsp;&nbsp; Shreveport Times",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -8846,7 +9032,7 @@
       "id": "1cbe333bde94a8",
       "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - US News Money",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
+      "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-02-17",
       "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; US News Money",
@@ -9644,23 +9830,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "130fd79946daa7",
-      "title": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmsxMDBmZ1lQWkt1dWpLcEFPNWhWVDRXVHQtNzFXVWF1Q2hfMkx5bVRQRFg4bGx3eVJoSS1OVTZGTzJwbksyLXotTlQ2OGo1NjhPNURhVVY0dW5uYXJvM3BiOWtFNjJKX0lxbVdhYVFVY0lGeVdXQldQSXRSbkplZ0Z1akwwSDJNa0h4RExWNXhiYUc4S3NqM0dYNA?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-26",
-      "summary": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition &nbsp;&nbsp; The Texas Tribune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "94d2d6c4c11fff",
       "title": "Maia 200: The AI accelerator built for inference",
       "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
@@ -9690,6 +9859,23 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "130fd79946daa7",
+      "title": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmsxMDBmZ1lQWkt1dWpLcEFPNWhWVDRXVHQtNzFXVWF1Q2hfMkx5bVRQRFg4bGx3eVJoSS1OVTZGTzJwbksyLXotTlQ2OGo1NjhPNURhVVY0dW5uYXJvM3BiOWtFNjJKX0lxbVdhYVFVY0lGeVdXQldQSXRSbkplZ0Z1akwwSDJNa0h4RExWNXhiYUc4S3NqM0dYNA?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-01-26",
+      "summary": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition &nbsp;&nbsp; The Texas Tribune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10021,26 +10207,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3d4b434e3fc4d1",
-      "title": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkhmdHhCbjd3cGRmUmgybFRKTUlhTmJQTWhqYkdTMmE4Q25oNmxLazF0VDFSTm41aGNPS05uUWlZOHRvT1pGV1ZPUS1YbzRkdmpJT1M3dDJORUdxZmtqbEVDSDBvS3NGYVZnLUpLT2lhSGVGQTRXSjlIM05HWTdkN3E4bFZ3azh2MHZnSS15QWpSdGk5N2hKTWxBeVNvTXh0OG9IU0E2Z1lDd9IBrwFBVV95cUxOUHpXUWE4Z1lXS2swdTFiUEhPQ3o5dnlvbmxqdm9Gb1VyNHR6bFRiekZZdDhna1J5R24wUXJxMWZvMDI5RnlfZk10aWwyOEh4NFpBQnY4QXpoWlZJbXNST3dnTmZtTTRKTG9LbGZ2R1JycUwxQ21IYVVsQlhHWEg5WXc1SW02d0VXYjY3UFpsV0lYSV9WalZSNDJmRDF6dVVqeDVVVzdJczhhQjE5dXRB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-01-09",
-      "summary": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "4af11238e2a00b",
       "title": "Meta Announces Nuclear Energy Projects, Unlocking Up to 6.6 GW to Power American Leadership in AI Innovation - meta.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT2pPa1RyS01SdjVXYmtibWp3MURDbHJuRjhMb3BuUkI4dXZueW5uMzhIUkFKamsxYW55VDZ5Z0RlU1R4M3ZnODRIMXl2SW5xOURoRTFyNlhYbkVlNXVTd3N6N0N5aHB4OXdrc3JKR3hTUG1jNnE4ZnRpdzM5bzRGdDh0S0JzVWZCSG1DN21fSlFqYzdObjJJ0gGcAUFVX3lxTE5MMy05clZwUVAtY2NTbzVWRVRnR0F5emgtRXlwS0NidU9FdUFxdUtUQ3VmZkZic29DbmVtS09BZkdZU0ROekUxc1ctWDVoYkk2aFhSdnB5dVcyd0FPT1dyeUlURklqV0g0VXhwYmNZZldsYlhXTUNUQ01Pc2l3SjA0MXl2TENJVHhVVy1OVXJFRGpZeS05dmd0WFBiUg?oc=5",
@@ -10107,8 +10273,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "20 billion dollar",
-        "$20 billion"
+        "$20 billion",
+        "20 billion dollar"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10192,6 +10358,25 @@
       ],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d6ae4bb6ae2307",
+      "title": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGVjWkdleXdJemFrcU9CVFdZQlFGa0l5MVBNNlNGOTFUckdwZWJhRE84LWtSVzZnZ3hLWTB2QzhyNkctV0Y0OUxIZVBHdzE4ZTRBUmg3T1pWZ0NkakhmMkNkT013V2d4YkxaYVB1WVkxOXh4OFFlZEZGc0lxTHUtTVh3QVRKSDRPbE8wcVZ6NGtDQQ?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-01-02",
+      "summary": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 4,
       "is_high_confidence": false
     },
     {
@@ -10388,193 +10573,6 @@
         "$15 billion"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "23bc48bb61e98f",
-      "title": "Port Washington data center groundbreaking shows partnerships, marketing might - Milwaukee Journal Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkRjaGVFSUNBNm9Dai1UVF9Uc1UwZl9zeml6ZVZlSEV6QzdlQ0NmMVl1UFBncHllRHRKbkt3M013TncwejY3cnpZS0dHRmtWS2tzSjJSODBKLXpTdDl2bmJMS1NjLUJGUXZuNXdmZGFQdlN6WHYzR09HN2dCMHFtOXVXOFFBNkRvVFNnM3g2WUFZbTVuLUduT3NVN2ZabEJNQW1PeUlVNk1YSmJMT0szUVpjZXRXdkFVQkZNYlk1OGFKS1diVzZ2ZFJPOG53eDE1?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2025-12-18",
-      "summary": "Port Washington data center groundbreaking shows partnerships, marketing might &nbsp;&nbsp; Milwaukee Journal Sentinel",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Washington"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "62c4e577a65166",
-      "title": "Hut 8 Selects Southeast Louisiana as Site of $10 Billion Artificial Intelligence Data Center - LED - Louisiana Economic Development (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaExtUWlYN25xamd2akoyRmJfb3FxQldacDhDNFFfOTlTa0t4Mm5OTDRCZ3FXUEM3RmNTZ3I5cjRCdWxDYXVLX1JPYkc4TzlHOGRqbUd1X0JUbFJXOVdtcFRrem5OWVNncF9JQ0tGWi1lcWlrNjJsYTh6R2l1X2lQQW5OODIzeURzdDIyd2loVll2RE1oaVUwTnQ5cjN3ZEQ1akR0MFF6WXdFSWdsZ2xrMFZnZGlSN0thNUVJV1dkZU9FclZ2Uk92YUdxaGFWQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2025-12-17",
-      "summary": "Hut 8 Selects Southeast Louisiana as Site of $10 Billion Artificial Intelligence Data Center - LED &nbsp;&nbsp; Louisiana Economic Development (.gov)",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$10 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1f8bba0575b745",
-      "title": "Groundbreaking held as construction begins on $15 billion Port Washington data center - BizTimes - Milwaukee Business News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25kODgwdWZmdTk0S3RlNlg4VTFUam8xeVVsQm9LUFV2RlFRT1JKTzZEN1Q1cng4SlQ4WTAtT3RtbTR3amJ3dTk4N0hhTllOb1RFUnEzX1MxVm90Q0lvOUI1QTU2eV9seGpqRUowSExfeWthZkhOWmptempheGdIUTZJSHFaa1B2akJxM3R1VDlHbUZWRGdBSl9DNmhSbU5t0gGoAUFVX3lxTE0yR1BOelMtOXFlRWQyeTBnV0FWVnYzcm9fd2JBczJVT1BkY2M4RTFDZFNxSHFvMDJNT3FCNmswUUx1QUJnLTJfTDUxTGluUjJZWjBtbGdwbzB3YW5oOGZsZVdqcnlMa1h6OU9rS1RJaFNqTnpJYXc3R3N6NVVfY3VNeTBhZURqei1GSzl5d2N3NnpqQ0ZZYXd0QU8wQkN6RG01RTFBOUZmNg?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2025-12-17",
-      "summary": "Groundbreaking held as construction begins on $15 billion Port Washington data center &nbsp;&nbsp; BizTimes - Milwaukee Business News",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Washington"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "996602da1756a7",
-      "title": "Bernie Sanders wants to temporarily halt AI data center construction nationwide - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZExUaVJkaGE3WDM2aXF4QlV5TVpWUVQ0bDEyTVlRWDFXR0RwN3BXN1FVY29pNHE1NVc5eW1BTldlOHdvN2NhQ2pEb3FyTURSSm5mZ2lpNkxncUhLUlFrSDNwdk5rdk1VUS1xYTQ3NzVjQUZ0eFFZOENCaTFnSmF3NVFTcGZOWEt6eGhBenU1TjY3RGllOFFRMXlHZGJ4LVNW?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-12-17",
-      "summary": "Bernie Sanders wants to temporarily halt AI data center construction nationwide &nbsp;&nbsp; Business Insider",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "661c091044c7e4",
-      "title": "Bernie Sanders wants to pause new data centers to stop the economy from growing too much - Reason Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDZyQjJhc243VkhjUm1fX0NXNWdURDhFbnhEUDNDN1BCSENRTTBPell1Z0J0dUN0ZjdnSzlEdEItcjg1VENRdU5RLUJKWS01cVVuUXBtbndMTVFMSmVkZnVRRGRmNnpsbGVmaFBtMDFfZWI0MXZrcmdkVjY3TmRrcGJOdUQwVXZoUWJ1RVFveGgyanNuT3Q4SEdxaV9Nai11X3JiZ0ZHREZMQ1Z3VnptRnY0QVZwSW16TWs0?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-12-17",
-      "summary": "Bernie Sanders wants to pause new data centers to stop the economy from growing too much &nbsp;&nbsp; Reason Magazine",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cd3decc6e65c3f",
-      "title": "The Real Race for an AI Moratorium: Stopping Data Centers - Tech Policy Press",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1VuWjFvUlVIMzJMdmJjYzQxVG94b0RpVDFhRDZlU2x0NTJNcElsYU13WG5ULVJzdWt4V0RGOGhjNllqc2pHdXFHTGxra1dSRE96Sm9hdkk1VjJhWDlpcTNHaG90dnFybEVtdWMxVURpMGZWcGFfZ2dnUHNKU1hqOEgyZjRaQXlJ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-12-17",
-      "summary": "The Real Race for an AI Moratorium: Stopping Data Centers &nbsp;&nbsp; Tech Policy Press",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2ab0f7a34d9b0c",
-      "title": "Texas Pacific Land (TPL) Stock Jumps on Bolt Data Center Partnership as 3-for-1 Split Nears — News, Forecasts, and Fresh Analysis for Dec. 17, 2025 - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM0lVeE11UUVuRGtnSWV6X3U5ek5tQ1dhMjl0dFNmUEpBRHhUek1ybVZwM19CNjRYVGFuYUowTV9hbU5ia21raER5YmhXS3BoSU42OWcxc0RGdmZXSEtoOFJNblJweEdKd0ZjaE1oaDk4amJHcUlkUzFqUzNGeS14VUxOdXRWb0dzbHRwVWVMaWNmNl8zTXZ3bVVmN2Ftc3BhUHAzbVBSN2F5cG5McFh6M1lqTWJoWDBZUm9YWDh1cHhmTkh1WUdMaFFTOGh3ZG1RZlgwMVRGcGxzS29fbzFlczJCYTVTVk40UUxfYy1IWkNRdw?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2025-12-17",
-      "summary": "Texas Pacific Land (TPL) Stock Jumps on Bolt Data Center Partnership as 3-for-1 Split Nears — News, Forecasts, and Fresh Analysis for Dec. 17, 2025 &nbsp;&nbsp; TechStock²",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "98989259461058",
-      "title": "Microsoft’s Canada Investment Puts Digital Sovereignty to Work - ERP Today",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFh2VU8zRHQ1Nm45dG5qNlBTR3B4aE1CUGpNQU5tRl9xRjhSVEU0dUJnMXdQdGcwbDFMZlQ1YjNoYlBUWjE0Mk9JM3JaTjZLVkt3Tnh3OVRJRjZmQ2hYUzFRNWt2bDV0OTVQTHNQMzQ2MlF0VlJuYlFEQ3NEamZjaVpGeU5PNTg?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2025-12-12",
-      "summary": "Microsoft’s Canada Investment Puts Digital Sovereignty to Work &nbsp;&nbsp; ERP Today",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3836ed0946576b",
-      "title": "States will keep pushing AI laws despite Trump’s efforts to stop them - Stateline",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUG9Ma1FlSUptajUzYUdKdXZMYVZuMnEyd3h3dGRhUDBuR1hvS3cwOHlISnI2aXdSQkRRVzNLMjQxLVJoN0loLWo0aFdPUHRsSWRxWkdyRjhUb2d2Sm5lSWFIVWMwQzlfRXFBOUtiWF9MQ2o5TFdPM3ZTRkhNaTRhaTg1TTJtUWVpWUhhUXFVN0JnbU9XTjRqVUgxb0FFZEVIUnBCZw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2025-12-12",
-      "summary": "States will keep pushing AI laws despite Trump’s efforts to stop them &nbsp;&nbsp; Stateline",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "df797207022ca0",
-      "title": "NextEra Energy (NEE) Stock Update: AI Data Center Deals, Higher 2026 EPS Outlook, and What to Watch Next Week (Updated Dec. 12, 2025) - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaThPNXNQdVVydWJHeWdnWWVuY0lvSjhEVy1BTUp5M3RNNnRwdkVITG9TNE5lVFhJamd2MXJ0RVNkYTBCYkM0UFFTUFl2TFZoU2RkWWk4QWhWMG9OV3oyeFd2Mk9Td2NpczBua3JYckNUWlZDS1pfaTBhdWhLLUVLSnladzFzZjdDQnA1SnRrdUlOZEIzY29Jd0tiblVpYmZpdFFYQUpaWFpsUWl2SnB3Nk9idThUVXMzWGJSNG1yVjlVUDE4ekprdlNZRjE4NWRFcjBRaE4xYjd5bTJxQWc?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2025-12-12",
-      "summary": "NextEra Energy (NEE) Stock Update: AI Data Center Deals, Higher 2026 EPS Outlook, and What to Watch Next Week (Updated Dec. 12, 2025) &nbsp;&nbsp; TechStock²",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b5339eb8958a19",
-      "title": "$2 billion data center now operational in Fort Wayne, Google outlines its plans for the community - WANE 15",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRUdYVWI2UEc2cGk0eC11TmVxSVJucG9QclVMOVJzYXN2RDgxN1FnVWRuYkl5SzIyZEJyRWRpdG1KcVc5cDBsV2tOd0NscGUtN3FLbV9rRHBHVE9KNnZHVWJ1UmV0Q3FzN2xtamJOeXBnS0RETjU3Ym5pRUs4TFl5UmVoWEpkRktYTkJXNm1USXVrRnRjcVp1c29OekRRY3liaHc0ODB2ZWdkdHpfYmRDcFZpY0VjQU9ObmF4bERZM3ZnXzB4R1hybdIBzgFBVV95cUxQV0J6MG1kc1EzcENINnRoR2dwWEc1dFF3eXNfVDZTdGwtU0NqZ1Aza2Z3ZGd5aC1PTUpGbGQ4Y3M1QWpUUmRiRWY5Q1JJUG9JQ1BGbUpmdXd0b3JMekhJY3lGd3lnZ1JiOUw5clZvQzlTcVFxZ3BxZEpnUEgwQTdvN1Z2Z0JDcmtfeUJlay1HWTM1VXByTFEzSFl4cVpvSWlLSjJ6M2c2SklhOGZCbnZXNVlTWUVsdTBGZ3JwZGtzRC1FdmxmazFmbmNLSHNpUQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2025-12-11",
-      "summary": "$2 billion data center now operational in Fort Wayne, Google outlines its plans for the community &nbsp;&nbsp; WANE 15",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     }
   ]
