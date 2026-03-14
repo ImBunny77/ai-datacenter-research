@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-14T02:09:23.542547+00:00",
+  "last_updated": "2026-03-14T05:13:36.368913+00:00",
   "finding_count": 600,
-  "new_project_count": 83,
-  "cancellation_count": 15,
-  "sec_filing_count": 2,
-  "high_confidence_count": 188,
+  "new_project_count": 80,
+  "cancellation_count": 16,
+  "sec_filing_count": 9,
+  "high_confidence_count": 190,
   "findings": [
     {
       "id": "a1d8885aa4b4df",
@@ -5212,6 +5212,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1e7b7dad27041f",
+      "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-03-04",
+      "summary": "AWS launches OpenClaw on Amazon Lightsail to run OpenClaw instance, pairing your browser, enabling AI capabilities, and optionally connecting messaging channels. Your Lightsail OpenClaw instance is pre-configured with Amazon Bedrock for starting with your AI assistant immediately — no additional configuration required.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f30b695ca3ab3a",
       "title": "Where are the data centers being built in Mississippi? See the map - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3dHb2JXT2k0WTdlS0RrT2F3VE45UWtNb3JnRG04QnBKZ1Z6b1FfUFFsM2RuQU9rYzhjd01hZFAwZmNYQ2VHRVNZTU95MXQwWTE1VVY1cDR1bXBhT3BwbFYxZG5pWDZmRVZfUzJ2ZEc4dk5xX01yd3FCMkJQdVRfSnhHQ1ItRG5lOHc1UkQzQmFEWUdtU2F0ZWF2TTI?oc=5",
@@ -5238,23 +5255,6 @@
       "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e7b7dad27041f",
-      "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-03-04",
-      "summary": "AWS launches OpenClaw on Amazon Lightsail to run OpenClaw instance, pairing your browser, enabling AI capabilities, and optionally connecting messaging channels. Your Lightsail OpenClaw instance is pre-configured with Amazon Bedrock for starting with your AI assistant immediately — no additional configuration required.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -7711,24 +7711,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "14296c0bc84da7",
-      "title": "OpenAI and Amazon announce strategic partnership - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0YwTXV4SlM4LWlrMHU1UTBfLWV3aUx4RkdmelQ5QllaWXhlUU9Sb3d4MTZiRUxnRFEtVjBKMmF1aVpVVGpGNVJRT01nSmN3YlJpQjUtVmJmdnJZVWVCM1E4eW1aRmRiSTdKS1hjMEZLbDJHNVFFOEl0eXBhNWI3Q0RiMlhyTFJJOW9IZg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-27",
-      "summary": "OpenAI and Amazon announce strategic partnership &nbsp;&nbsp; About Amazon",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "f65b79a1a7f42d",
       "title": "Microsoft and OpenAI joint statement on continuing partnership",
       "url": "https://blogs.microsoft.com/blog/2026/02/27/microsoft-and-openai-joint-statement-on-continuing-partnership/",
@@ -7739,6 +7721,24 @@
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "14296c0bc84da7",
+      "title": "OpenAI and Amazon announce strategic partnership - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0YwTXV4SlM4LWlrMHU1UTBfLWV3aUx4RkdmelQ5QllaWXhlUU9Sb3d4MTZiRUxnRFEtVjBKMmF1aVpVVGpGNVJRT01nSmN3YlJpQjUtVmJmdnJZVWVCM1E4eW1aRmRiSTdKS1hjMEZLbDJHNVFFOEl0eXBhNWI3Q0RiMlhyTFJJOW9IZg?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-02-27",
+      "summary": "OpenAI and Amazon announce strategic partnership &nbsp;&nbsp; About Amazon",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon",
         "OpenAI"
       ],
       "locations": [],
@@ -7818,23 +7818,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2bc10eae35a8b7",
-      "title": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5% - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX19yRFBMblVGcUJRaC1fbGpJbzBmaVhBLTBYUGxMbWNYc3ZIU00wMVBOZUh1Ql8wVWdPM1E0VDlSZmxnTVRpNnZ0dVpXOVpOclZpY3JXX2RXc1RUaG1IMzIzSlNtN0xUWVJQMDBtRGJiQTZoVjhJUXROc1rSAYIBQVVfeXFMUGhDMDQ0UUpkcXVvMzJIZ1VuY3ZfVG9ZanZOdUtDaVhkTy13d0YwZ3p2ZGNMMmFCNkNTS29vRFdCRGxTV2JLbUFRRl9aVU9YMTVDNHFwOUNmek5OcE92a0x3Nm5PQ2FTcFZuWmZHY2VNMm1hNzNKUkQ0NGNVZjhJZWN1UQ?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-26",
-      "summary": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5% &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7974ec9ddd0ffe",
       "title": "Meta Takes Legal Action Against Scam Advertisers",
       "url": "https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/",
@@ -7850,6 +7833,23 @@
       "locations": [
         "Brazil"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2bc10eae35a8b7",
+      "title": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VX19yRFBMblVGcUJRaC1fbGpJbzBmaVhBLTBYUGxMbWNYc3ZIU00wMVBOZUh1Ql8wVWdPM1E0VDlSZmxnTVRpNnZ0dVpXOVpOclZpY3JXX2RXc1RUaG1IMzIzSlNtN0xUWVJQMDBtRGJiQTZoVjhJUXROc1rSAYIBQVVfeXFMUGhDMDQ0UUpkcXVvMzJIZ1VuY3ZfVG9ZanZOdUtDaVhkTy13d0YwZ3p2ZGNMMmFCNkNTS29vRFdCRGxTV2JLbUFRRl9aVU9YMTVDNHFwOUNmek5OcE92a0x3Nm5PQ2FTcFZuWmZHY2VNMm1hNzNKUkQ0NGNVZjhJZWN1UQ?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-02-26",
+      "summary": "Nvidia's blowout earnings report disappoints Wall Street as stock sinks 5% &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8838,6 +8838,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "5299d6fd946689",
+      "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-02-23",
+      "summary": "Last week, my team met many developers at Developer Week in San Jose. My colleague, Vinicius Senger delivered a great keynote about renascent software—a new way of building and evolving applications where humans and AI collaborate as co-developers using Kiro. Other colleagues, Du’An Lightfoot, Elizabeth Fuentes, Laura Salinas, and Sandhya Subramani spoke about building and […]",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "1dbb968c9e6d27",
       "title": "Amazon AI data centers to be built in northwest Louisiana: 'Something unlike we have ever seen' - NOLA.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXpHZGkybkI1MEFMVGhlSEpxbDVmMkVSMWJRUWY4YTVHQU9kcVhnaTFxdmJMYUVKZWNyR0ZERnZTcTNjWVhDU3lKUl8xUS05NjB5UXF2WkdSU2ZKRko0U29DZktUbGlYb0dRYXNqbWQ5eHVTMEFscXlMLXd0OHlDemNLMldlUGJMdzFobmFHeWlUYmY1Ym1RODE0czJaZ1c5cUZndVFsdDViOFEtN1pkYjBlTTVjeTNs0gG-AUFVX3lxTE1rcmVhY19uZXU4YXlkR0ZDai1xd0N3ZW9vVmNFdlRha1NVUlNpS3R5Mml6bFB6UlJkWG1KS05Oa0xNLXpZYzUwNjM5MElpczFPNnljdUQyajZhQXRmQ1JmR0F4YlE0RjUtNzJXR3A0TGxjNGRNVnZPelN5Q0tBMnFoTEl0OUdxaTdJdmw5MWw2bXZkZ0dPOVpaZXFGdi1ja3NlR2wzR2pTbGxVWWlWQkZKVUE3bHdscVc1azRhM1E?oc=5",
@@ -8852,23 +8869,6 @@
       "locations": [
         "Louisiana"
       ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5299d6fd946689",
-      "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-02-23",
-      "summary": "Last week, my team met many developers at Developer Week in San Jose. My colleague, Vinicius Senger delivered a great keynote about renascent software—a new way of building and evolving applications where humans and AI collaborate as co-developers using Kiro. Other colleagues, Du’An Lightfoot, Elizabeth Fuentes, Laura Salinas, and Sandhya Subramani spoke about building and […]",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -10320,166 +10320,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "616aabde227326",
-      "title": "SB Energy secures $1 billion from OpenAI and SoftBank for Stargate datacenter expansion - pv magazine USA",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlNnV2pJX1lld084OThOS2NmNS1pY0l5YW1BU1A3emE4eHNyYUNfV1FMNkhqMHJkUVY5djd6SW9aWjNsT0JzWDJ3WF9EMVBEQXdRR3F4V2FaVW9CZ09hNG9HcnM0QmNRakp0T3BjaFdEblF4QXpld2xBNXBXcW03d2xvNVhYTnNVSkx1b2lXLUpxNVRUTHg0RnBnVFo1em02WUNfbW5hbEE5ZmlDb09IalZwYXdVZ2hUbW4xVXltSEJ6T2dP?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-12",
-      "summary": "SB Energy secures $1 billion from OpenAI and SoftBank for Stargate datacenter expansion &nbsp;&nbsp; pv magazine USA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0e2c2a9142314a",
-      "title": "Meta establishes 'Meta Compute,' plans multiple gigawatt-plus scale AI data centers - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2dId3NERWo2VWdkcXVocmNNUDZDM1hldWRnb3VSdmFKaGduT0VzWjh3R2tXaWx1RDNCNjM3OTJxYUtKSVpSN3dqRHBuaklNbkZOS3VXQUxKaWZjR2lQM0FnQ1JOSS1ybXVoVU44OFRXMUxUc3QxaDgxTExHcUlrb0hwMFZfMWdpNERjUXhfTVB2LXRPVUhkRzNMVjlOSFdvUFdQaElTWi1ucENYR1pOQ3hiUXF5QnZjSnplTU1rd3VXdw?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-12",
-      "summary": "Meta establishes 'Meta Compute,' plans multiple gigawatt-plus scale AI data centers &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a5994497c39823",
-      "title": "AVAIO Digital Announces New Large-Scale AI-Ready Data Center and Power Campus in Little Rock, Arkansas - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLWtKbEVNeTItS0k1WlZrdmZvemRRZlUxb1dDWTZzNVprcXRBWWk5ME1ua1hWenVQOUpGSFNIWXFSZHBRaVg1QWx5bzZpQzlaa0ktTE53VUxOaUlxa25oS1ZuQ0QyWnQ0VVB2SU1zcTk2ZnJYcW51Ym9aZHRsZUxrMlpLaVBCd0JQaFpoQUQ5TUtKek50TkRhNzdjb0hYd2Z2MjZtSlhnV3VsTWlQcFpsMWJIaGxRcWJUQUwzSWdDWlI1TW1BcnM1bzRvUHRIRGRxSW5BMnlGUDkyalk5NTlGMnBaYlFSME1iTGx6QnJB?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-01-12",
-      "summary": "AVAIO Digital Announces New Large-Scale AI-Ready Data Center and Power Campus in Little Rock, Arkansas &nbsp;&nbsp; PR Newswire",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Arkansas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d4b434e3fc4d1",
-      "title": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkhmdHhCbjd3cGRmUmgybFRKTUlhTmJQTWhqYkdTMmE4Q25oNmxLazF0VDFSTm41aGNPS05uUWlZOHRvT1pGV1ZPUS1YbzRkdmpJT1M3dDJORUdxZmtqbEVDSDBvS3NGYVZnLUpLT2lhSGVGQTRXSjlIM05HWTdkN3E4bFZ3azh2MHZnSS15QWpSdGk5N2hKTWxBeVNvTXh0OG9IU0E2Z1lDd9IBrwFBVV95cUxOUHpXUWE4Z1lXS2swdTFiUEhPQ3o5dnlvbmxqdm9Gb1VyNHR6bFRiekZZdDhna1J5R24wUXJxMWZvMDI5RnlfZk10aWwyOEh4NFpBQnY4QXpoWlZJbXNST3dnTmZtTTRKTG9LbGZ2R1JycUwxQ21IYVVsQlhHWEg5WXc1SW02d0VXYjY3UFpsV0lYSV9WalZSNDJmRDF6dVVqeDVVVzdJczhhQjE5dXRB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-01-09",
-      "summary": "OpenAI and SoftBank announce $1 billion investment in SB Energy as part of massive AI buildout &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dad9427f7f93b2",
-      "title": "Meta Signs Nuclear Power Deals for 6.6 Gigawatts to Fuel AI Data Centers - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmVxRW96akhVTTc1R2l1ckVtVzVhY3h4OGR3SUVLTHo4c0gwalUxMnJlb1JWYlMxQ1ZXdThoRDdzWjRkTlFaUGRQWWtzNkh1M2NYUnhpeU1QUDdaNDdQUS1KRzl2LVVzcEtBUEliSlBDQW1qOTlxQm1weGlRT0N2RjB4ekRVekhUN1BCVHl1ajFLdEpUd3pBXzBKMVJIT2pMTlZOTF9mano4THZj?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-09",
-      "summary": "Meta Signs Nuclear Power Deals for 6.6 Gigawatts to Fuel AI Data Centers &nbsp;&nbsp; Technobezz",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ac90aa1553c63e",
-      "title": "Tech leader xAI investing more than $20 billion in Southaven - Office of Governor Tate Reeves (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2RxZEdjTkxJUUdxVGJIS0lPamMwMzdtZ0RqVmo1bi12QXlqby05SlJ6QjlJSGZQWUdxSXQ3R0hoNzdQWG1ocEpSSkY5Ymlzc0VzRDFHcmlpdFR3ekNCUTZhNDM0UF9oZjh4VmFoTVFCWVU0Q000QTQ2MkdERTkyZ3plamRMMUIxcTdqbXI2NlJvMHNN?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-01-08",
-      "summary": "Tech leader xAI investing more than $20 billion in Southaven &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
-      "finding_type": "New Project",
-      "companies": [
-        "xAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$20 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3c0cb7c23e4109",
-      "title": "‘Largest economic development in history’: $20 billion dollar data center coming to Southaven - Action News 5",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSWFLRjB2QnF2MUtRTy1Ga1ZHOHdKZEMtanpVYkkwaFAxUGZjcEZreWNtcW1reGhiU0dSS2tJWVNnb0VnU2JDc29qLTlGNmU5TnAxanhYMV9Rd3JyTUlyY2FiT2JsTnRrSEFPVjVyTTE4SjdKZHNRanNXZVhQTVBBRktLaUM4Q1V2V0VUMUlpZGRfUXJMbjMtVVpneGNiOTlqdk5WMHUtQzVZME05N201Q2VhMlpBV3dhd1hydDdIUVnSAdQBQVVfeXFMTlcyQTdtdEZSd185RG9JS044QlptQ2lxSUlLaVZXZUNVQjJJeFIwOVEwMHFhWnM3VmFXSW42S0tPTGhXWWQyQXJVVHFueF9USnhIUjR1QURjdXdYeXdNY2RMOFZScWlETVN1XzZ4LXZnZUxYVVd6MjE1X0FiS3NlblZZN0dka00ySThPWWFMeTM0VGVTVGVENmc1RGE2NUJsQUE3M3JxYUYyMHp4dVE5NHhiMlR4OElyQ3JiVjh4QXRVS21aMG0yTXE2M29FTndrZXZWdDU?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-01-08",
-      "summary": "‘Largest economic development in history’: $20 billion dollar data center coming to Southaven &nbsp;&nbsp; Action News 5",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$20 billion",
-        "20 billion dollar"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "74bdc159f6c915",
-      "title": "Mississippi Marketplace: Elon Musk investing billions in Southaven data center operations - Mississippi Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVNpSnBER1ZHLVdmSi1HNThGRDJNeHgyb2hYcTVHRUhDbTJ6SXYtMWtELXZwcnN5WFhXb3FpMUVxQVJ0clZnUEhSV3p0Tmd0Q0NYc1FSU0ZtOXgzYTlvSllvdWpTZnR3eVg0VnQtUVR1T0J4ZmFxT0tRbEtMYzhsa0dWaWZEMDU5NDItbkczTENCN1VtcTl6YWVUOWl3eVRjaFpWdnY5bVliSUYtemVV?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-01-08",
-      "summary": "Mississippi Marketplace: Elon Musk investing billions in Southaven data center operations &nbsp;&nbsp; Mississippi Today",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7a94f125f49fd9",
-      "title": "NAACP Releases Playbook for Frontline Communities to Stop Dirty Data Centers - NAACP",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORVJhTzNzV3hVTFRyU0VPX2IzN3RMeWtyaXpUVzFHVjQwa2xteFhZVU1oLWs3VlVid0QzcjZqMm1CaXIycGotRVE1NEdWd2lCdzF2aEtQRVV1a3VaVTdVNUZsVE9IVksyazlHd0pEcGtiV3dHQm41b203elNXN19xQXQtWk40a0NJVUVNaTZWaWRKQlFOaTJRRTZ5YmM?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-01-08",
-      "summary": "NAACP Releases Playbook for Frontline Communities to Stop Dirty Data Centers &nbsp;&nbsp; NAACP",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ada464683eb182",
       "title": "Apple-TSMC: The Partnership That Built Modern Semiconductors",
       "url": "https://newsletter.semianalysis.com/p/apple-tsmc-the-partnership-that-built",
@@ -10512,42 +10352,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ee23581b65c718",
-      "title": "Trump, atoms, AI and the Texas data center gusher - Politico",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaF9XbFFweFRyLUxsdWswX1dwWDdITzY2Vmc1ZlFyZHZuZjZqY21OM19fWVRmeEFFZzJ5Skl3VjBOM2xFZy0zV3NaRWphOGM3WjE2bWd2eXBMc1UxVENEV192TU8yQzl5Nmtza3FYeVZmWXl6elFlOGpORXF4My0zWGRwNVc2bjlFQW8zRE01enJMYkJ5?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-04",
-      "summary": "Trump, atoms, AI and the Texas data center gusher &nbsp;&nbsp; Politico",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d6ae4bb6ae2307",
-      "title": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGVjWkdleXdJemFrcU9CVFdZQlFGa0l5MVBNNlNGOTFUckdwZWJhRE84LWtSVzZnZ3hLWTB2QzhyNkctV0Y0OUxIZVBHdzE4ZTRBUmg3T1pWZ0NkakhmMkNkT013V2d4YkxaYVB1WVkxOXh4OFFlZEZGc0lxTHUtTVh3QVRKSDRPbE8wcVZ6NGtDQQ?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-01-02",
-      "summary": "Ex-Google CEO Eric Schmidt jumps into the AI data center business with a failed Texas railroad &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "33d2ad38295287",
       "title": "Co-Packaged Optics (CPO) Book – Scaling with Light for the Next Wave of Interconnect",
       "url": "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling",
@@ -10561,6 +10365,183 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "eab7f7caf4a847",
+      "title": "AWS Trainium3 Deep Dive | A Potential Challenger Approaching",
+      "url": "https://newsletter.semianalysis.com/p/aws-trainium3-deep-dive-a-potential",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2025-12-04",
+      "summary": "NL72x2/NL32x2 Scale Up Rack Architecture, Step-Function Software & System Improvements, Optimized Perf per TCO, &#8220;Amazon Basics&#8221; GB200 NVL36x2, Astera Labs, Trainium4",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3451a664d207e4",
+      "title": "TPUv7: Google Takes a Swing at the King",
+      "url": "https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2025-11-28",
+      "summary": "Anthropic&#8217;s 1GW+ TPUs, New customers Meta/SSI/xAI/OAI, Full Stack Review of v7 Ironwood, CUDA Moat at risk, Next Generation TPUv8AX and TPUv8X versus Vera Rubin",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "Meta",
+        "xAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6ec128647fad21",
+      "title": "Microsoft's AI Strategy Deconstructed - From Energy to Tokens",
+      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2025-11-12",
+      "summary": "\"The Big Pause\", AI Tokens Factory Economics Stack, OpenAI, Neocloud Renting, GitHub Copilot Woes, MAI and Maia Floundering",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e7df23d36ec9b6",
+      "title": "ClusterMAX™ 2.0: The Industry Standard GPU Cloud Rating System",
+      "url": "https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2025-11-06",
+      "summary": "95% Coverage By Volume, 84 Providers Rated, 209 Providers Tracked, 140+ Customers Surveyed, 46,000 Words For Your Enjoyment",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "15340a60950cc7",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-10-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "907ebed632ba7f",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-08-07",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a8811323c5af4c",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2025-07-31",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2f3ddfbd8fdd92",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-06-28",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "119e0a03bf7a6e",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-05-14",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1c4cfb50b5d5b1",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2024-03-06",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "061eb1afd89976",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2023-03-31",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
     }
   ]
 }
