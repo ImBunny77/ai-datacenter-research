@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-16T08:59:24.623010+00:00",
+  "last_updated": "2026-03-16T10:55:05.703428+00:00",
   "finding_count": 600,
-  "new_project_count": 87,
+  "new_project_count": 86,
   "cancellation_count": 14,
-  "sec_filing_count": 2,
-  "high_confidence_count": 193,
+  "sec_filing_count": 3,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "a2adf6f65bcd19",
@@ -26,6 +26,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "51ab68070b6482",
       "title": "Nutanix rolls out software solution to scale enterprise agentic AI rollouts at lower cost",
       "url": "https://siliconangle.com/2026/03/16/nutanix-rolls-software-solution-scale-enterprise-agentic-ai-rollouts-lower-cost/",
@@ -40,6 +55,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d5dc72d25ecd3",
+      "title": "City Council of Provo, Utah, votes against data center rezoning proposal",
+      "url": "https://www.datacenterdynamics.com/en/news/city-council-of-provo-utah-votes-against-data-center-rezoning-proposal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "But developer could reapply",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -75,8 +107,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -560,6 +592,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "3dfb76f4e24dcf",
+      "title": "Leading Surveys accelerates data center layout and floor level measurement with HP SitePrint",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/leading-surveys-accelerates-data-center-layout-and-floor-level-measurement-with-hp-siteprint/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "Australian Certified HP SitePrint Service Provider completes over 9,000 m² and 4,300 bolt layout points for data center rack base plates in just 17 hours",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "7b967783c0f695",
       "title": "US real estate firm Comstock launches data center unit",
       "url": "https://www.datacenterdynamics.com/en/news/us-real-estate-firm-comstock-launches-data-center-unit/",
@@ -599,23 +646,6 @@
       "summary": "Construction of the 181,000 sqm ‘Innovation Hub’ was expected to start in 2024",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7563a524c88f33",
-      "title": "MWC 2026: AI deluge grips telecoms industry",
-      "url": "https://www.datacenterdynamics.com/en/analysis/mwc-2026-ai-deluge-grips-telecoms-industry/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-13",
-      "summary": "As Nvidia plays a starring role ahead of AI and 6G future",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -752,6 +782,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7563a524c88f33",
+      "title": "MWC 2026: AI deluge grips telecoms industry",
+      "url": "https://www.datacenterdynamics.com/en/analysis/mwc-2026-ai-deluge-grips-telecoms-industry/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-13",
+      "summary": "As Nvidia plays a starring role ahead of AI and 6G future",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -10536,57 +10583,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e956459becdf9d",
-      "title": "At least 4 Wisconsin communities signed secrecy deals for billion-dollar data centers - WPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSnFfeTJvOXc1NlprT2xhRWJESGZiTUVEZmFvMXFxOXdhX0ZaRlhWdWEtbGdWb2g5TmhEWVR0bzRSWld0YjlLakpub3RwR1FFUnJROTE0MS1JUGdxY1g2SkkyVG10OVVFOFdqQmsyVVFlMU9rNTNYNTExWF95MXc5M0RLQWZ1RElrWHZ5b040M0FweFZyTllSVi1kWFBUZw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-01-26",
-      "summary": "At least 4 Wisconsin communities signed secrecy deals for billion-dollar data centers &nbsp;&nbsp; WPR",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Wisconsin"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "130fd79946daa7",
-      "title": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmsxMDBmZ1lQWkt1dWpLcEFPNWhWVDRXVHQtNzFXVWF1Q2hfMkx5bVRQRFg4bGx3eVJoSS1OVTZGTzJwbksyLXotTlQ2OGo1NjhPNURhVVY0dW5uYXJvM3BiOWtFNjJKX0lxbVdhYVFVY0lGeVdXQldQSXRSbkplZ0Z1akwwSDJNa0h4RExWNXhiYUc4S3NqM0dYNA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-01-26",
-      "summary": "El Paso’s plan to build natural gas power plant for massive data center kicks up opposition &nbsp;&nbsp; The Texas Tribune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "94d2d6c4c11fff",
-      "title": "Maia 200: The AI accelerator built for inference",
-      "url": "https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-01-26",
-      "summary": "Today, we’re proud to introduce Maia 200, a breakthrough inference accelerator engineered to dramatically improve the economics of AI token generation. Maia 200 is an AI inference powerhouse: an accelerator built on TSMC’s 3nm process with native FP8/FP4 tensor cores, a redesigned memory system with 216GB HBM3e at 7 TB/s and 272MB of on-chip SRAM, plus... \n The post  Maia 200: The AI accelerator built for inference  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
