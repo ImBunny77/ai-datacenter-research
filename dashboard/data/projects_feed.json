@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-17T10:53:24.199332+00:00",
+  "last_updated": "2026-03-17T13:16:24.950648+00:00",
   "finding_count": 600,
-  "new_project_count": 83,
+  "new_project_count": 82,
   "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 185,
+  "high_confidence_count": 186,
   "findings": [
     {
       "id": "fd82654a124bad",
@@ -20,9 +20,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$27 billion",
+        "$12 billion",
         "$27B",
-        "$12 billion"
+        "$27 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -77,12 +77,32 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1.64 billion",
         "$1.64B",
-        "$143 million",
-        "$143M"
+        "$1.64 billion",
+        "$143M",
+        "$143 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3b93969ef1ea06",
+      "title": "Nscale acquires 8GW Monarch Compute Campus, Microsoft signs on for 1.35GW of compute",
+      "url": "https://www.datacenterdynamics.com/en/news/nscale-acquires-8gw-monarch-compute-campus-microsoft-signs-on-for-135gw-of-compute/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Will comprise Vera Rubin NVL72 GPUs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "1.35GW",
+        "8GW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -137,6 +157,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "323d729608ab91",
+      "title": "Druva launches Identity Resilience to protect Okta, Microsoft Active Directory and Entra ID environments",
+      "url": "https://siliconangle.com/2026/03/17/druva-launches-identity-resilience-protect-okta-microsoft-active-directory-entra-id-environments/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "Data security provider Druva Inc. today announced the launch of Druva Identity Resilience, a new capability that extends its data security platform to support Okta Inc., Microsoft Active Directory and Microsoft Entra ID in a unified software-as-a-service environment to protect and restore identity systems after cyber incidents. Identity-driven attacks have reached a tipping point, with nearly 90% [&#8230;] \n The post  Druva launches Identity Resilience to protect Okta, Microsoft Active Directory",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "f69b139c9dfd53",
       "title": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea - The Korea Economic Daily Global Edition",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00b0lDR3B4a0JJMUxORXJKbUo2M1RJNFJkRHZTOU5UeDVDaEVJOS1jT2V0SXlxMXk1MjNLdmx5NG9YZUlFODRjRjJLc0Vhejdmc3dCT1dRejlINHZSNjRSSXZfRVBsWTdSUV9JQ085WElHa2xWWlF1UTFB?oc=5",
@@ -144,6 +181,38 @@
       "source_cat": "Company",
       "date": "2026-03-17",
       "summary": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6b141d0a06671e",
+      "title": "Nvidia, Broadcom form group to standardize optical interconnects for next-gen AI clusters",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-broadcom-form-group-to-standardize-optical-interconnects-for-next-gen-ai-clusters/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "OCI-MSA looks to drive open 'plug-and-play ecosystem’ in the notoriously fierce optics market",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d2fbc9fc0cc940",
+      "title": "DCD>Talks: Data centers and the wider energy ecosystem with Carlos Pérez Linkenheil, AFRY",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-data-centers-and-the-wider-energy-ecosystem-with-carlos-p%C3%A9rez-linkenheil-afry/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "DCD's Alex Dickins speaks with AFRY's Carlos Pérez Linkenheil about the evolving relationship between data centers and the global energy ecosystem.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -161,6 +230,23 @@
       "summary": "The idea of chillerless data centers has recently launched into industry-wide discourse. Steven Carlini, chief advocate, AI and data centers at Schneider Electric looks beyond this headline",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d2168e9b6013d8",
+      "title": "Cato Networks rolls out Neural Edge and AI Security to protect enterprise AI workloads",
+      "url": "https://siliconangle.com/2026/03/17/cato-networks-rolls-neural-edge-ai-security-protect-enterprise-ai-workloads/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "Cloud networking company Cato Networks Ltd. today unveiled two major innovations for the Cato SASE Platform that are designed to secure enterprise artificial intelligence adoption at scale: Cato Neutral Edge and Cato AI Security. Cato Neural Edge sees the deployment of Nvidia Corp. graphics processing units across Cato’s global private backbone to accelerate AI-driven analysis for real-time [&#8230;] \n The post  Cato Networks rolls out Neural Edge and AI Security to protect enterprise AI workloa",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -216,6 +302,25 @@
         "NVIDIA"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0ce2c96f0488e8",
+      "title": "Scaling clean energy and reliability in Michigan",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-reliability-michigan/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-17",
+      "summary": "state of Michigan with a Google logo on top",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Michigan"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1154,8 +1259,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -1335,8 +1440,8 @@
       "id": "a1d8885aa4b4df",
       "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-13",
       "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
       "finding_type": "New Project",
@@ -9596,21 +9701,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "157f470b6b1889",
-      "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-02-25",
-      "summary": "States Push Data Center Moratoriums as AI Growth Surges &nbsp;&nbsp; Built In",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f4fe708a79e321",
       "title": "3 AI data centers planned for Louisiana. What is impact on small towns? - Shreveport Times",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcUdtQ0doYVkyNFlMdnhXMklCUnZ6T2lXT1BmRkxPdmdnbmVLcElSZTVLVWFkeVRLYnNjMm9jWEJoSEFDQ0JpU2UyczR2bFI5ZDhlcURQandTODk5MzhkSjVRdXlmSmJ5c2gtX2oxa2xiemNhcGhLaFZSVGZPM3dWbWZkbU9pbkYxTTZKcF9sRnc5aXJTUGRmV2NIelJENEIwSEZWNGNZUXVGenpLV1U4NjdjNFVZc0tGRWtNOE1ueEdBWnhDZEl6VHB3S1ZRT25fbm9xWXBNZ2lBeDJhRW5jQ3JxZlRJS2xYSWhycG1EYVhkT2FyWGtyb2NR?oc=5",
@@ -9623,6 +9713,21 @@
       "locations": [
         "Louisiana"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "157f470b6b1889",
+      "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-02-25",
+      "summary": "States Push Data Center Moratoriums as AI Growth Surges &nbsp;&nbsp; Built In",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9781,8 +9886,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "12 billion dollar",
-        "$12 billion"
+        "$12 billion",
+        "12 billion dollar"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10472,108 +10577,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1dbb968c9e6d27",
-      "title": "Amazon AI data centers to be built in northwest Louisiana: 'Something unlike we have ever seen' - NOLA.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXpHZGkybkI1MEFMVGhlSEpxbDVmMkVSMWJRUWY4YTVHQU9kcVhnaTFxdmJMYUVKZWNyR0ZERnZTcTNjWVhDU3lKUl8xUS05NjB5UXF2WkdSU2ZKRko0U29DZktUbGlYb0dRYXNqbWQ5eHVTMEFscXlMLXd0OHlDemNLMldlUGJMdzFobmFHeWlUYmY1Ym1RODE0czJaZ1c5cUZndVFsdDViOFEtN1pkYjBlTTVjeTNs0gG-AUFVX3lxTE1rcmVhY19uZXU4YXlkR0ZDai1xd0N3ZW9vVmNFdlRha1NVUlNpS3R5Mml6bFB6UlJkWG1KS05Oa0xNLXpZYzUwNjM5MElpczFPNnljdUQyajZhQXRmQ1JmR0F4YlE0RjUtNzJXR3A0TGxjNGRNVnZPelN5Q0tBMnFoTEl0OUdxaTdJdmw5MWw2bXZkZ0dPOVpaZXFGdi1ja3NlR2wzR2pTbGxVWWlWQkZKVUE3bHdscVc1azRhM1E?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-23",
-      "summary": "Amazon AI data centers to be built in northwest Louisiana: 'Something unlike we have ever seen' &nbsp;&nbsp; NOLA.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5299d6fd946689",
-      "title": "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-4-6-in-amazon-bedrock-kiro-in-govcloud-regions-new-agent-plugins-and-more-february-23-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-02-23",
-      "summary": "Last week, my team met many developers at Developer Week in San Jose. My colleague, Vinicius Senger delivered a great keynote about renascent software—a new way of building and evolving applications where humans and AI collaborate as co-developers using Kiro. Other colleagues, Du’An Lightfoot, Elizabeth Fuentes, Laura Salinas, and Sandhya Subramani spoke about building and […]",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44b788cba5a391",
-      "title": "How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREN6dW9XRWVQOFhQaE8wSHQ5cXo3QXVwVng1S3BZa3VfLTR0c0JldWYza3gyTl9zTmdacVgtLVZSWEYyd0hQenp3clEwdkZsaWJzc29lbVJMczVQeVlCbEJEY1h5UVJobWtaZFoxYUlobnBpWHk4LW5MYXhpd2hvd0U3SEh4TkxGWmxlcUcweXU4c3E3QUFEMFFfdWJhdjlaRGtXdQ?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-23",
-      "summary": "How the AI debt binge shattered hyperscalers’ ‘unspoken contract’ with investors &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bd15fc4ffbc052",
-      "title": "Governor Jeff Landry to announce ‘transformational’ Caddo Parish data center - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMWJZR1lCZ3J3U0xtRFQ2cnVrd1FXRTUtSGtaLTFaRHBkSHRaN0hwU0tVbklWN05MeHRxTnZqc0NfeS0zT0ZnRWlCSVdKTWlrWlkxMU9QM0h2MTJ5cUhRTm9mVTNTQmNPRzFmVVl6NHc0OWpTR3FZT1g4U19RUEs0RzEtaVpSa19kTVNnN2hRb0lkNzMzOURFMS10TFpZdkctVl9mOVBjV2xHQUdvVURDQnR5QlMtY0pHdExUX0JaSnJ5ZE9sUkpoNldVbmlSWWxWVzZnTDdVbWc1RVdEN1lpZDA0elY2VDZtV3c?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-20",
-      "summary": "Governor Jeff Landry to announce ‘transformational’ Caddo Parish data center &nbsp;&nbsp; Shreveport Times",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7f7534981de379",
-      "title": "Meta Works With the UK National Crime Agency and the Nigerian Police Force to Disrupt Alleged Online Scams Centre in Nigeria",
-      "url": "https://about.fb.com/news/2026/02/meta-works-with-the-uk-national-crime-agency-and-the-nigerian-police-force-to-disrupt-alleged-online-scams-centre-in-nigeria/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-02-20",
-      "summary": "Meta is committed to combatting scams on its platforms, and taking actions against the criminals behind them. \n The post  Meta Works With the UK National Crime Agency and the Nigerian Police Force to Disrupt Alleged Online Scams Centre in Nigeria  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5d4ea894dbfb09",
-      "title": "Asha Sharma named EVP and CEO, Microsoft Gaming",
-      "url": "https://blogs.microsoft.com/blog/2026/02/20/asha-sharma-named-evp-and-ceo-microsoft-gaming/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-02-20",
-      "summary": "Satya Nadella, Chairman and CEO, and members of his executive team shared the following communications with employees today. SATYA NADELLA MESSAGE Gaming has been part of Microsoft from the start. Flight Simulator shipped before Windows, and you can practically ray‑trace a line from DirectX in the ’90s to the accelerated‑compute era we’re in today. As... \n The post  Asha Sharma named EVP and CEO, Microsoft Gaming  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
