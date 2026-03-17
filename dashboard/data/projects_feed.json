@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-17T17:05:17.127033+00:00",
+  "last_updated": "2026-03-17T19:04:31.261383+00:00",
   "finding_count": 600,
   "new_project_count": 77,
   "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 172,
+  "high_confidence_count": 167,
   "findings": [
     {
       "id": "fd82654a124bad",
@@ -20,9 +20,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$12 billion",
         "$27B",
-        "$27 billion"
+        "$27 billion",
+        "$12 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -66,6 +66,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0a4822401955b0",
+      "title": "Google confirmed as company behind $500m data center in Lima, Ohio",
+      "url": "https://www.datacenterdynamics.com/en/news/google-confirmed-as-company-behind-500m-data-center-in-lima-ohio/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Project known under codename \"Project BOSC\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$500m"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "813c00425e6d4f",
       "title": "Frore Systems scores $143M in funding at a $1.64B valuation to help AI chips run cooler",
       "url": "https://siliconangle.com/2026/03/16/frore-systems-scores-143m-funding-1-64b-valuation-help-ai-chips-run-cooler/",
@@ -77,12 +98,49 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$143 million",
         "$1.64B",
         "$143M",
-        "$1.64 billion",
-        "$143 million"
+        "$1.64 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9415d880fe5e54",
+      "title": "Google warns Aussie gov't that high taxes could prevent AU$20bn investment",
+      "url": "https://www.datacenterdynamics.com/en/news/google-warns-aussie-govt-that-high-taxes-could-prevent-au20bn-investment/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Cloud giant is looking for an Asia-Pacific hub for AI and data centers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7cac63cb2331c4",
+      "title": "360MW data center campus planned on Germany's eastern border",
+      "url": "https://www.datacenterdynamics.com/en/news/360mw-data-center-campus-planned-on-germanys-eastern-border/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "In the lesser-known Frankfurt",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany",
+        "Frankfurt"
+      ],
+      "amounts": [
+        "360MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -142,6 +200,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "b9685199bff0b6",
+      "title": "Microsoft commences second phase of data center construction in Køge, Denmark",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-commences-second-phase-of-data-center-construction-in-k%C3%B8ge-denmark/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Company plans to launch a cloud region in the country some time this year",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Denmark"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "e4a08b4291246c",
       "title": "Nvidia debuts the Groq 3 language processing unit, a dedicated inference chip for multi-agent workloads",
       "url": "https://siliconangle.com/2026/03/16/nvidia-debuts-groq-3-language-processing-unit-dedicated-inference-chip-multiagent-workloads/",
@@ -165,7 +242,7 @@
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-03-17",
-      "summary": "Hammerspace Inc., an eight-year-old startup that provides high-speed access to distributed data, has introduced an artificial intelligence-focused data platform that prepares and delivers data to AI systems without requiring large-scale data migrations or new storage infrastructure. The company announced general availability of its AI Data Platform at the Nvidia Global Technology Conference this week, positioning [&#8230;] \n The post  Hammerspace storage platform feeds distributed data directly ",
+      "summary": "Hammerspace Inc., an eight-year-old startup that provides high-speed access to distributed data, has introduced an artificial intelligence-focused data platform that prepares and delivers data to AI systems without requiring large-scale data migrations or new storage infrastructure. The company announced general availability of its AI Data Platform at the Nvidia GTC conference this week, positioning the [&#8230;] \n The post  Hammerspace storage platform feeds distributed data directly to GPUs  a",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -232,6 +309,70 @@
       "source_cat": "Company",
       "date": "2026-03-17",
       "summary": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dccce1b4f14d43",
+      "title": "Emerald AI and InfraPartners claim data center design offers greater flexibility over power needs",
+      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-and-infrapartners-claim-data-center-design-offers-greater-flexibility-over-power-needs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "New ‘Flex-Ready Data Centers’ use AI to adjust load according to grid conditions",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9f0a9a014be29b",
+      "title": "Fossefall eyes data center in Rollag, Norway - report",
+      "url": "https://www.datacenterdynamics.com/en/news/fossefall-is-reportedly-looking-to-develop-another-data-center-in-central-norway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Company targets former Kongsberg Våpenfabrikk automotive plant",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9d7a1b7f00eb82",
+      "title": "Norway's Østfold Energi targets data center developments south of Oslo",
+      "url": "https://www.datacenterdynamics.com/en/news/norways-%C3%B8stfold-energi-targets-data-center-developments-south-of-oslo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Utility developing sites in Sarpsborg and Valer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34783f564e3812",
+      "title": "Storage wars: Is this the end for hard drives in the data center?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/storage-wars-is-this-the-end-for-hard-drives-in-the-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Could the shortages facing the HDD market ultimately lead to the technology being replaced?",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -339,69 +480,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "8fe8217290c3f2",
-      "title": "Former JPMorgan data center in New Jersey leased to new tenant",
-      "url": "https://www.datacenterdynamics.com/en/news/former-jpmorgan-data-center-in-new-jersey-leased-to-new-tenant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "5cb24e248c4508",
+      "title": "The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI",
+      "url": "https://siliconangle.com/2026/03/17/intelligent-green-aws-pga-tour-reimagining-fan-experience-agentic-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-03-17",
-      "summary": "Landlord Russo Development secures new customer",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9723f4135b3aa0",
-      "title": "T-Mobile, Nvidia to integrate physical AI applications on the network Edge",
-      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-nvidia-to-integrate-physical-ai-applications-on-the-network-edge/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Aims to refocus the cell site as an AI compute platform",
+      "summary": "The intersection of professional sports and cloud computing has enabled leagues and organizations to accelerate innovation. However, the partnership between the PGA Tour and Amazon Web Services Inc. is currently entering a new phase: the hyper-personalized era. This week the golf world descended upon TPC Sawgrass for THE PLAYERS Championship, to watch Cam Young take [&#8230;] \n The post  The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI  appear",
       "finding_type": "Statement / Update",
       "companies": [
-        "NVIDIA"
+        "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4e78ee95037627",
-      "title": "Former paper mill site in Finland targeted for data center use - report",
-      "url": "https://www.datacenterdynamics.com/en/news/former-paper-mill-site-in-finland-targeted-for-data-center-use-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Hyperco-linked firm eyes site in Kouvola",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aaf138fca38db5",
-      "title": "Germany's Stadtwerke Lübeck launches first data center",
-      "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "The facility in northern Germany will service strong local demand for digitally sovereign services",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -468,6 +558,23 @@
       "source_cat": "Tech Analysis",
       "date": "2026-03-17",
       "summary": "Artificial intelligence inference, the processing of getting answers from AI models, has reached an inflection point and the AI factory is now poised to drive much of the global economy, Nvidia Corp. Chief Executive Jensen Huang declared today. During the AI chipmaking giant&#8217;s GTC gathering in San Jose today, Huang (pictured) said he believes Nvidia will see $1 [&#8230;] \n The post  AI inflection point: As Nvidia&#8217;s Jensen Huang outlines vision for agents and the AI factory, he foreca",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fd94c460f34e71",
+      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
+      "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-17",
+      "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -559,6 +666,74 @@
       ],
       "locations": [
         "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8fe8217290c3f2",
+      "title": "Former JPMorgan data center in New Jersey leased to new tenant",
+      "url": "https://www.datacenterdynamics.com/en/news/former-jpmorgan-data-center-in-new-jersey-leased-to-new-tenant/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Landlord Russo Development secures new customer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New Jersey"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9723f4135b3aa0",
+      "title": "T-Mobile, Nvidia to integrate physical AI applications on the network Edge",
+      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-nvidia-to-integrate-physical-ai-applications-on-the-network-edge/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Aims to refocus the cell site as an AI compute platform",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4e78ee95037627",
+      "title": "Former paper mill site in Finland targeted for data center use - report",
+      "url": "https://www.datacenterdynamics.com/en/news/former-paper-mill-site-in-finland-targeted-for-data-center-use-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Hyperco-linked firm eyes site in Kouvola",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aaf138fca38db5",
+      "title": "Germany's Stadtwerke Lübeck launches first data center",
+      "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "The facility in northern Germany will service strong local demand for digitally sovereign services",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
       ],
       "amounts": [],
       "confidence": 2,
@@ -10335,194 +10510,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "52784f8f678ccb",
-      "title": "Amazon says it will limit water use, pay for power at $12 billion NW Louisiana data centers - New Orleans CityBusiness",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDlMZ0tQV2RpbmV2NzBqTlRLTldwWllhUWQ1Z3pCM1Q1RHlZX19RTlJ6R3BhOURuUDU5QjBCeTdHRDdqODFneEpjYkswRUpublR5aXJ5c3lwSGlyMVpQaE53T2NreV9CSEE4ajVNNWl5bjhaS21qenRJU0hNT1lDR0ZKN0hsZEtvZGlITXhB?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-24",
-      "summary": "Amazon says it will limit water use, pay for power at $12 billion NW Louisiana data centers &nbsp;&nbsp; New Orleans CityBusiness",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4381b234de6385",
-      "title": "Amazon Selects Louisiana For $12 Billion Data Center Campuses Expansion - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDEtb3Bmemp1QmRLRE8xa0l1Yk9JWUxqdm4xX2g4UmxtQXdIb1FHaXhHTXdfLV9MMUJ2OGJnWndLS25vdEF5RmNTUExVaENxb2FTNzdJQndqbkpBZTF2OXExVHRXbVVOMG5NVl96ZUZKLW9lUzB2VnRxeEpBcDBKUzU3RHZWRU9hTVlLWE1QbmhQSlpQ0gGaAUFVX3lxTE1HYzF0OS1oU2VyV0tBdHRtRTZ3bXhDaGJyaFo5eWJydWt1WkJRM3BXU3AtM2ZXamxzQWhzM1BxOUZ4T0JhUklUSnpYVk1TVGtKNEtvT09BTHJyWE1hWWRTNGJtXzZxVklMUlM0cHlOVU00UUd0VW9NODBfQ0xfN2ZUZk55alFuZ25Ray00QVZhcnhuVFIxbENrWmc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-24",
-      "summary": "Amazon Selects Louisiana For $12 Billion Data Center Campuses Expansion &nbsp;&nbsp; Pulse 2.0",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cc54f3ebe95279",
-      "title": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion - Minden Press-Herald",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTRHTGdWa0hRN0VzdUU5TkJrQllud2VVYkppcTkzWXJxTHhKSDJ0ZUU1dUtCazMtWU5ESzZLeU1tZmhuZmFIbzVjd1VwblMyNElZb2tmbmFzUlJWYlRYNUV3MG1ZNkFBZ3pwVlA0VnNWRkVZZE5oZkxHQm1wdVotZmZHb0VqUlFzQl9Cak1qZ3pjUzZyZGtleTkwcW90djZLUUJoRlA4MGhobUZBLWJuQjNCX1NnUQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-24",
-      "summary": "Amazon selects North Louisiana for $12 billion data center campuses in major U.S. expansion &nbsp;&nbsp; Minden Press-Herald",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b42ef9d5aef0f1",
-      "title": "Amazon announces US$ 12 billion investment into building multiple data centers in Northwest Louisiana - W.Media",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJMek1qb2NkbkFObS1NU0RIdGZySHMwOGxJM3pPbTQ1MGNtTW1hUENkNm1sUTRGYkFHY24tUTlpeFAyeE5Gcmw5ekp2a0FpT2ZfLVc4QzhNcFVUWHA1b2llVllIem9MdG1IR1ZtTDZ2ODlacldjYUNBMmpXZUJjWDZUS3pFV0N6Qk1FcHg1djY5RWVJaXlkSWFOWW9HUlExMnd4Ulg0M2NGV3ZnWU5MbnZSalZQbzBH?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-24",
-      "summary": "Amazon announces US$ 12 billion investment into building multiple data centers in Northwest Louisiana &nbsp;&nbsp; W.Media",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "091adb4af26fbd",
-      "title": "Campuses for newly announced Amazon data center spanning Bossier & Caddo parishes confirmed - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTVmRjliZUpEcVBqTkc2eDFOQ0FCcWozVFhla1c3aHg0WGNleWRfZWh1dndScGdWZnFQbWtLWThvYUpJdTZGU0hYOU9VQVNtNm9LMF8tV25oSjR6MkpRZEdaNlpqV3VQbUdmbjNlVDlnMHBNd0V2Q2xsaDRra19yNnBBVjZmUFpKS0h3R0NrRExRN1dtZ1FmUFEwZURGTkRWNjh2T1Z3S21BaWhUajNMNnA1TzdrckdNcnfSAc4BQVVfeXFMTVF5cnNDZkJSRUVfdGNkQzM5UTlRSVFkeUxiYk5QbURBSU1GRDJfcEJodnZCZ1gtbzBoTnhQdUVIZEJCSWpNdUlPS2pfUHBWYjd0Nk1idWE4NjhTM19fTHNGYnB0YlNYODJpcVA0c2ozN1F3cFpDQmtZM0Y5MVVWMGZLaWZ4ajZ6LVpXX0loX1RpN1RqbTJwUW9OU3dKOC13SVNUZXM5aTR4T3h2cnFJTURPRU01b2NYbTFwNDU1U0hEZGJzcGREQTJEb1VjUGc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-02-24",
-      "summary": "Campuses for newly announced Amazon data center spanning Bossier & Caddo parishes confirmed &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6eba44ebcaf7fd",
-      "title": "KSLA gets one-on-one interview AWS director of economic development as massive data center project announced - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0x6aGZNenFsNTZNOFVQZFp4ZndRNGVkMjNnb2s4eTFrc2p6RjMySzVUX05mTXBYOE5oeDdDSnRYWUl1YTQtcWREZU1jQ3REMDV1eVU0cWI1NzFoclcycHVHMUVWY0xlcEVhZ3dGRFFxYlppbGpnT3BwRjBFd2R4NVdwRjF3MEcyQTNKYUtFLXRjdzVSOXNveHh1cWtGUFdZb0NlaUViRm1CT2Z5bDhhNmx4QXFwTzdQZVVDVUZPUE0wbGtWOGE0MFJiR0xSU0xx?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-24",
-      "summary": "KSLA gets one-on-one interview AWS director of economic development as massive data center project announced &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b30f88488bbc7f",
-      "title": "Amazon posting job listings for newly announced data center in northwest Louisiana - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPandyU2NDLTNFTjBWMkh6eDBrRnRFQ0RjZDNHTmtLWGt5NEhIXzNwMXctS2xHeGdPWkZERWZBU0FYQ1Q0M1gyVzlEY3BmNGVneXM5U00xclliZldVdUF4SmJUSGRIb0xiQ1FkTUx0SlFxVlN4TEhlMmJZN3pDSlU0ZmtmTzZWQWJ4WEMwYWdpQzNuemtreHYyUWY0UEw4TWtuU2pjcVdmTWFRNV9U?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-24",
-      "summary": "Amazon posting job listings for newly announced data center in northwest Louisiana &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f001615d5290c2",
-      "title": "Meta and AMD Partner for Longterm AI Infrastructure Agreement",
-      "url": "https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-02-24",
-      "summary": "We’re announcing a long-term agreement with AMD to power our AI infrastructure with up to 6GW of AMD Instinct GPUs, helping us build a flexible, resilient tech stack for our AI workloads. \n The post  Meta and AMD Partner for Longterm AI Infrastructure Agreement  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "6GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f6bac9f76b1a67",
-      "title": "Shreveport data center lawsuit: Petition alleges city withheld public information - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeTB3YURPNzFnVTR2VldJLVlkVWpDeTFEYTd6cVBIUUFZRWlxa2g0OVpJNWNNWDZBeWxmVTc5WWg0MmRzaXM4SzdsWDdFYmtyYmlLZHQ5X1hqbzVKUjNKMDc1S2wySHJrbEF5bHFKd3BwWHB1aDN1U1Zva2VyZXN0ZUFmOVo5RzVWMkM3UDlmWVIzV2hfVWw0eUxXTElZR1pjSFdtZzFnRUVzT3luQ2lZeXdMRQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-24",
-      "summary": "Shreveport data center lawsuit: Petition alleges city withheld public information &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b892db18d9d87c",
-      "title": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected",
-      "url": "https://blogs.microsoft.com/blog/2026/02/24/microsoft-sovereign-cloud-adds-governance-productivity-and-support-for-large-ai-models-securely-running-even-when-completely-disconnected/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-02-24",
-      "summary": "As digital sovereignty becomes a strategic requirement, organizations are rethinking how they deploy critical infrastructure and AI capabilities under tighter regulatory expectations and higher risk conditions. Microsoft’s approach to sovereignty is grounded in enabling enterprises, public sectors and regulated industries to participate in the digital economy securely, independently and on their own terms. The Microsoft Sovereign Cloud brings together productivity, security and cloud workloads t",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
