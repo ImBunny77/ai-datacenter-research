@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-17T07:07:03.410513+00:00",
+  "last_updated": "2026-03-17T08:56:02.554462+00:00",
   "finding_count": 600,
   "new_project_count": 82,
-  "cancellation_count": 13,
-  "sec_filing_count": 2,
-  "high_confidence_count": 184,
+  "cancellation_count": 14,
+  "sec_filing_count": 1,
+  "high_confidence_count": 185,
   "findings": [
     {
       "id": "fd82654a124bad",
@@ -20,11 +20,49 @@
       ],
       "locations": [],
       "amounts": [
+        "$27 billion",
         "$12 billion",
-        "$27B",
-        "$27 billion"
+        "$27B"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f73a568040526b",
+      "title": "Microsoft to invest $52m in data centers in Medina, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-52m-in-data-centers-in-medina-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Split across two sites, small town near San Antonio gets interest from hyperscaler",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$52m"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "19aec7dcf1c1d8",
+      "title": "Asprofin Bank Announces $10 Billion Sovereign Data Center Investment Program in Qatar and the Gulf - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUVkya3o1U3dXaFpldWZ2SUQ1NGNNaXZsYXc4RVduZVo1bzBkaHJlei0tZ003TUNYM3p3RWpaRHNkR3VHWVdFLVBZNFVNTUJJdHpEY3NGb3pncklQTVZmZ1o2U1h3RkthaHdBVE1ubGxDM1ZzMk93cWR2TTlqazFTOWptTlZSRTVhR01nNUR0ZHNCbHp2UktnY1labGpXdno2SjN2bG1mcWNTalRobVFkSW84RjRGWUNSaEpwRjlvZU1yUTY5bndUbkZmQjVKMzBveGJvby1vTmhXR3ZTQ0JmUEtHWWw3TWRqMGNDRzctcFRFa19iVlRzanVYa25vM2M?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-17",
+      "summary": "Asprofin Bank Announces $10 Billion Sovereign Data Center Investment Program in Qatar and the Gulf &nbsp;&nbsp; FinancialContent",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$10 Billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -39,12 +77,31 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$143 million",
-        "$143M",
         "$1.64 billion",
-        "$1.64B"
+        "$1.64B",
+        "$143M",
+        "$143 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e86831d78164dc",
+      "title": "Applied Digital says data center near Toronto, South Dakota, “unlikely to go forward”",
+      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-says-data-center-near-toronto-south-dakota-unlikely-to-go-forward/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Developer effectively withdraws",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "South Dakota"
+      ],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -62,6 +119,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f69b139c9dfd53",
+      "title": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea - The Korea Economic Daily Global Edition",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00b0lDR3B4a0JJMUxORXJKbUo2M1RJNFJkRHZTOU5UeDVDaEVJOS1jT2V0SXlxMXk1MjNLdmx5NG9YZUlFODRjRjJLc0Vhejdmc3dCT1dRejlINHZSNjRSSXZfRVBsWTdSUV9JQ085WElHa2xWWlF1UTFB?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-17",
+      "summary": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -709,7 +781,7 @@
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-03-16",
-      "summary": "As the Finnish vendor also bolsters its Out-of-band management (OOBM) offering with Aurelis for Data Centers",
+      "summary": "As the Finnish vendor also bolsters its Out-of-band management offering with Aurelis for Data Centers",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -744,39 +816,6 @@
       "summary": "The company's data center modules come with their own BESS",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e056025880659",
-      "title": "€1.6bn Irish data center proposed in 2019 finally gets go-ahead",
-      "url": "https://www.datacenterdynamics.com/en/news/16bn-irish-data-center-proposed-in-2019-finally-gets-go-ahead/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Construction now approved",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e8539fd2a18108",
-      "title": "Nebius secures up to $27bn AI infrastructure contract from Meta",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-secures-up-to-27bn-ai-infrastructure-contract-from-meta/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Will span five years and include large-scale deployments of Nvidia Vera Rubin platform",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "NVIDIA"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -973,6 +1012,39 @@
       "is_high_confidence": false
     },
     {
+      "id": "8e056025880659",
+      "title": "€1.6bn Irish data center proposed in 2019 finally gets go-ahead",
+      "url": "https://www.datacenterdynamics.com/en/news/16bn-irish-data-center-proposed-in-2019-finally-gets-go-ahead/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Construction now approved",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e8539fd2a18108",
+      "title": "Nebius secures up to $27bn AI infrastructure contract from Meta",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-secures-up-to-27bn-ai-infrastructure-contract-from-meta/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Will span five years and include large-scale deployments of Nvidia Vera Rubin platform",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "0fe725911ff7cf",
       "title": "Proposed Maine moratorium could scupper plan for data center in old paper mill",
       "url": "https://www.datacenterdynamics.com/en/news/proposed-maine-moratorium-could-scupper-plan-for-data-center-in-old-paper-mill/",
@@ -1052,8 +1124,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -6524,13 +6596,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "545ad393809d3a",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
+      "id": "c6dd8e0387c023",
+      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
+      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -6556,13 +6628,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c6dd8e0387c023",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect",
+      "id": "545ad393809d3a",
+      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect",
+      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10506,75 +10578,6 @@
       "locations": [
         "Canada"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c06bcce1592892",
-      "title": "Voter fury and the American energy ‘paradox’: Higher utility bills, record oil and gas production—and 45% of the world’s data centers - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQURZRGx6X1JISXEyZVN6d1hmeUhIa1ZZN2hVU0w5MlpiS1VHZ1lGWEZ5NU95QUQ0Sll3eWJKRHE5N2ZXV2pxbE9mRl9RRFdERXBiNEkzc3FObXV4UkV2TkUzYWNVWWxpaTB1cEJFMHJmby1LeDlTUk1DdDMzU0dpcFlIWm9jMHhDWUl6bUN1Zk45QQ?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-02-20",
-      "summary": "Voter fury and the American energy ‘paradox’: Higher utility bills, record oil and gas production—and 45% of the world’s data centers &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "40729b74e7a439",
-      "title": "India's Adani Group To Invest $100 Billion In AI Data Centers Amid Strategic Partnership With Google, Microsoft - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DMWUtZWd6UWF5amxCTjI4WmxZOGl5bmZ1S3hiSVhlaFRRdXlKeWlWQU5HTnNra0YtZ2lsVnE4TlpuZEI2eGktbVh1YzRFSWZLZ3pTWEFtQThHLVAtRUZaRGhaVGRkWFN3YkR3NWRHUmFBbXVZTVp2QzFHNldFQQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-02-19",
-      "summary": "India's Adani Group To Invest $100 Billion In AI Data Centers Amid Strategic Partnership With Google, Microsoft &nbsp;&nbsp; AOL.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft",
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$100 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2f96e5fe50aa08",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-02-19",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "50c3e8b2d44e67",
-      "title": "3 Reasons NVIDIA Will Crush Earnings on February 25th - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXVNak1icWN6NHQxT1RoNmY5NG41NjNTcXNvaWhjOTc3ZEJxMXdBa2xLTG5UUkpIZURfSWN1OTl4bGJ5MnB6Z0pxQ1hUNnZPWVQ0YTJBbE9xNGJoQm00Q24zaFNlUkw2ODlqbXh3WlFvR09uTVYzN0E1YTgyOGljeQ?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-19",
-      "summary": "3 Reasons NVIDIA Will Crush Earnings on February 25th &nbsp;&nbsp; AOL.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
