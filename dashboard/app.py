@@ -850,6 +850,301 @@ ALL_PROJECTS = [
     ),
 ]
 
+
+# ==========================================================================
+# PROJECTS MAP - enriched with coordinates + infrastructure data
+# ==========================================================================
+PROJECTS_MAP = [
+    dict(company='Microsoft', project='Wisconsin Campus (Mount Pleasant)',
+         location='Mount Pleasant, WI', capex_b=3.3, status='Under Construction',
+         lat=42.723, lon=-87.864, mw=300, ptype='Cloud / AI',
+         online=2026, iso='MISO', state='WI',
+         notes="Part of Microsoft's $3.3B Wisconsin investment announced 2024. Site in the former Foxconn development zone. Construction began 2024; hyperscale Azure cluster.",
+         url='https://news.microsoft.com/2024/05/08/microsoft-to-invest-3-3-billion-in-wisconsin/'),
+    dict(company='Microsoft', project='Virginia Data Center Expansion (Loudoun County)',
+         location='Loudoun County (NoVA), VA', capex_b=3.5, status='Active/Ongoing',
+         lat=39.08, lon=-77.55, mw=500, ptype='Cloud / AI',
+         online='Ongoing', iso='PJM', state='VA',
+         notes="Part of Microsoft's ongoing Northern Virginia cluster expansion — the world's single largest data center market. Azure East US primary region. 40+ existing buil",
+         url='https://www.datacenterfrontier.com/hyperscale/article/55243285/loudoun-county-data-center-hub'),
+    dict(company='Microsoft', project='North Carolina AI Campus (Goose Creek)',
+         location='Catawba County, NC', capex_b=2.5, status='Active (Resumed 2025)',
+         lat=35.73, lon=-81.08, mw=400, ptype='Cloud / AI',
+         online=2026, iso='SERC', state='NC',
+         notes='Originally paused in early 2025 alongside other lease reviews post-DeepSeek. Microsoft confirmed North Carolina build-out resumed by Q1 2025 after owned-vs-leas',
+         url='https://www.datacenterdynamics.com/en/news/microsoft-reportedly-resumes-north-carolina-data-center-build-out/'),
+    dict(company='Microsoft', project='Phoenix / Goodyear (Arizona) Campus',
+         location='Goodyear, AZ', capex_b=3.3, status='Under Construction',
+         lat=33.44, lon=-112.36, mw=400, ptype='Cloud / AI',
+         online=2025, iso='WECC', state='AZ',
+         notes="Arizona is a major Azure region anchor. Multiple facilities in Goodyear/Surprise area. Part of Microsoft's Southwest expansion. Nuclear PPA discussions with APS",
+         url='https://news.microsoft.com/source/features/ai/microsoft-data-center-expansion/'),
+    dict(company='Microsoft', project='Texas (San Antonio + Other Sites)',
+         location='San Antonio, TX + DFW', capex_b=1.5, status='Active',
+         lat=29.42, lon=-98.49, mw=200, ptype='Cloud / AI',
+         online='Ongoing', iso='ERCOT', state='TX',
+         notes="San Antonio hosts one of Azure's core US cloud regions. Microsoft has $1B+ in active construction across Texas including DFW edge nodes and San Antonio primary ",
+         url='https://news.microsoft.com/source/features/ai/microsoft-data-center-expansion/'),
+    dict(company='Microsoft', project='Georgia Cloud Data Center (Floyd County)',
+         location='Floyd County (Rome area), GA', capex_b=1.0, status='Under Construction',
+         lat=34.26, lon=-85.16, mw=150, ptype='Cloud',
+         online=2026, iso='SERC', state='GA',
+         notes='Microsoft purchased a 347-acre site in Floyd County, Georgia and committed $1B to building a cloud data center. Azure Southeast US coverage. First major Microso',
+         url='https://azure.microsoft.com/en-us/blog/microsofts-commitment-to-supporting-cloud-infrastructure-demand-in-the-united-states/'),
+    dict(company='Microsoft', project='UK AI Data Center Expansion',
+         location='London + Wales + Northern England', capex_b=3.2, status='Active',
+         lat=51.5, lon=-0.12, mw=400, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='UK',
+         notes='Microsoft announced a 3-year, GBP 2.5B ($3.2B) plan to expand AI data center infrastructure across the UK, including sites in London, Wales, and potential North',
+         url='https://news.microsoft.com/en-gb/2025/04/03/microsoft-announces-gbp-2-5bn-investment-in-ai/'),
+    dict(company='Microsoft', project='Germany Cloud & AI Capacity Expansion',
+         location='Frankfurt + Berlin + Munich, Germany', capex_b=3.5, status='Active',
+         lat=50.11, lon=8.68, mw=500, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='DE',
+         notes='Microsoft pledged EUR 3.2B to double cloud and AI capacity in Germany by end of 2025. Azure Germany West Central region anchor. Key for German industrial custom',
+         url='https://news.microsoft.com/de-de/microsoft-investiert-3-2-mrd-euro-in-ki-infrastruktur/'),
+    dict(company='Microsoft', project='France AI Infrastructure Investment',
+         location='Paris region + Lyon, France', capex_b=4.3, status='Active',
+         lat=48.85, lon=2.35, mw=600, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='FR',
+         notes='Microsoft committed EUR 4B to French data center and AI infrastructure. France is a strategic Azure region for EU financial services, luxury goods, and aerospac',
+         url='https://news.microsoft.com/fr-fr/microsoft-investissement-france/'),
+    dict(company='Microsoft', project='Japan Cloud & AI Expansion',
+         location='Tokyo + Osaka, Japan', capex_b=2.9, status='Active',
+         lat=35.68, lon=139.69, mw=400, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='JP',
+         notes='Microsoft committed $2.9B to AI and cloud infrastructure in Japan over 2 years. Includes expanding Azure Japan East (Tokyo) and Japan West (Osaka) regions. Supp',
+         url='https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-2-9-billion-in-ai-and-cloud-infrastructure-in-japan/'),
+    dict(company='Microsoft', project='Australia Cloud & AI Expansion',
+         location='Sydney + Melbourne + Canberra, Australia', capex_b=3.3, status='Active',
+         lat=-33.87, lon=151.21, mw=400, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='AU',
+         notes='Microsoft pledged AUD 5B (~$3.3B) to expand cloud computing and AI infrastructure in Australia. Covers Azure Australia East (Sydney), Southeast (Melbourne), and',
+         url='https://news.microsoft.com/en-au/microsoft-to-invest-5-billion-in-australian-cloud-ai/'),
+    dict(company='Microsoft', project='Malaysia Cloud & AI Infrastructure',
+         location='Kuala Lumpur region, Malaysia', capex_b=2.2, status='Active',
+         lat=3.14, lon=101.69, mw=300, ptype='Cloud / AI',
+         online=2025, iso='--', state='MY',
+         notes="Microsoft committed $2.2B to Malaysia over 2024-2028, launching a new Azure Malaysia South cloud region in May 2025. Supports Malaysia's national AI strategy an",
+         url='https://techwireasia.com/2025/05/microsoft-opens-cloud-regions-in-malaysia-and-indonesia/'),
+    dict(company='Microsoft', project='Indonesia Cloud & AI Infrastructure',
+         location='Jakarta, Indonesia', capex_b=1.7, status='Active',
+         lat=-6.21, lon=106.85, mw=250, ptype='Cloud / AI',
+         online=2025, iso='--', state='ID',
+         notes="Microsoft invested $1.7B in Indonesia over 2024-2028, launching a new Azure Indonesia Central cloud region in May 2025. Indonesia is the world's 4th most populo",
+         url='https://techwireasia.com/2025/05/microsoft-opens-cloud-regions-in-malaysia-and-indonesia/'),
+    dict(company='Microsoft', project='India Cloud & AI Expansion',
+         location='Pune + Hyderabad + Chennai, India', capex_b=3.0, status='Active',
+         lat=18.52, lon=73.86, mw=400, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='IN',
+         notes='Microsoft committed $3B to India cloud and AI infrastructure over 2 years. Expands Azure India Central (Pune), South (Chennai), and West (Mumbai) regions. India',
+         url='https://news.microsoft.com/en-in/microsoft-to-invest-3-billion-in-india-cloud-ai/'),
+    dict(company='Microsoft', project='Spain Cloud & AI Expansion',
+         location='Madrid + Barcelona, Spain', capex_b=2.1, status='Active',
+         lat=40.42, lon=-3.7, mw=300, ptype='Cloud / AI',
+         online=2025, iso='--', state='ES',
+         notes='Microsoft committed to quadruple its investments in AI and cloud infrastructure in Spain, reaching $2.1B by end of 2025. Supports Azure Spain Central region and',
+         url='https://www.ciodive.com/news/microsoft-cloud-azure-data-center-investments-generative-ai/717897/'),
+    dict(company='Amazon (AWS)', project='Indiana Data Center Campus',
+         location='Whitestown / Boone County, IN', capex_b=15.5, status='Under Construction',
+         lat=39.99, lon=-86.36, mw=2000, ptype='Cloud / AI',
+         online=2027, iso='MISO', state='IN',
+         notes='Amazon announced $15.5B investment in Indiana data centers across multiple Boone County sites. Includes 1,000+ construction jobs and 800 permanent jobs. Primari',
+         url='https://www.aboutamazon.com/news/aws/amazon-indiana-data-centers'),
+    dict(company='Amazon (AWS)', project='North Carolina Data Center Expansion',
+         location='Eastern NC (multiple sites)', capex_b=10.0, status='Under Construction',
+         lat=34.52, lon=-78.37, mw=1500, ptype='Cloud / AI',
+         online=2027, iso='SERC', state='NC',
+         notes='Amazon announced $10B+ commitment to North Carolina data center expansion. Sites in Columbus County and surrounding areas. Part of AWS US-East-1 overflow strate',
+         url='https://www.aboutamazon.com/news/aws/amazon-data-centers-north-carolina'),
+    dict(company='Amazon (AWS)', project='Louisiana Data Center Project',
+         location='Bossier City, LA', capex_b=12.0, status='Announced/Early Construction',
+         lat=32.52, lon=-93.73, mw=1500, ptype='Cloud / AI',
+         online=2028, iso='MISO', state='LA',
+         notes="Amazon announced $12B investment in Louisiana data centers in Caddo and Bossier parishes. One of Amazon's largest announced state-level investments. Includes re",
+         url='https://www.aboutamazon.com/news/aws/amazon-data-centers-louisiana'),
+    dict(company='Amazon (AWS)', project='US Government / Defense AI Infrastructure',
+         location='US (GovCloud East + West + Secret regions)', capex_b=50.0, status='Active/Ongoing',
+         lat=38.88, lon=-77.0, mw=5000, ptype='Gov / Defense',
+         online='Ongoing', iso='PJM', state='VA',
+         notes='In November 2025, Amazon announced AWS will invest up to $50B to expand AI and high-performance computing infrastructure specifically for US government customer',
+         url='https://www.digitalcommerce360.com/2026/01/02/amazon-ai-data-center-multibillion-dollar-commitments/'),
+    dict(company='Amazon (AWS)', project='Germany Data Center Expansion',
+         location='Frankfurt region, Germany', capex_b=8.8, status='Under Construction',
+         lat=50.11, lon=8.75, mw=1000, ptype='Cloud / AI',
+         online=2027, iso='--', state='DE',
+         notes='Amazon announced EUR 8.2B (~$8.8B) investment in German data centers. Frankfurt AWS region serves EU financial services and sovereign data mandates. Part of Ama',
+         url='https://www.aboutamazon.com/news/aws/amazon-germany-data-centers'),
+    dict(company='Amazon (AWS)', project='Mississippi Data Center Campuses',
+         location='Madison County + Warren County, MS', capex_b=13.0, status='Announced',
+         lat=32.56, lon=-90.09, mw=1500, ptype='Cloud / AI',
+         online=2027, iso='MISO', state='MS',
+         notes='Amazon announced two hyperscale data center campuses in Mississippi — $10B in Madison County and $3B in Warren County — totaling $13B. The Madison County projec',
+         url='https://www.datacenterfrontier.com/hyperscale/article/55295967/amazon-doubles-down-on-ai-infrastructure-with-30b-in-new-us-data-center-investments'),
+    dict(company='Amazon (AWS)', project='Virginia Long-Term Infrastructure Program',
+         location='Northern Virginia to Richmond corridor', capex_b=35.0, status='Active/Ongoing (through 2040)',
+         lat=38.95, lon=-77.35, mw=4000, ptype='Cloud / AI',
+         online='Ongoing (through 2040)', iso='PJM', state='VA',
+         notes="Amazon has committed to invest $35B in Virginia data centers through 2040. NoVA is AWS's largest US region (US-East-1). Amazon plans data center facilities in e",
+         url='https://www.datacenterfrontier.com/hyperscale/article/55295967/amazon-doubles-down-on-ai-infrastructure-with-30b-in-new-us-data-center-investments'),
+    dict(company='Google', project='Texas Statewide AI Infrastructure',
+         location='Texas (multiple cities — Midlothian, Garland, others)', capex_b=40.0, status='Active',
+         lat=32.47, lon=-97.37, mw=5000, ptype='Cloud / AI',
+         online='Ongoing', iso='ERCOT', state='TX',
+         notes="Google announced $40B in Texas investments through 2027 for AI data center expansion — confirmed by Governor Abbott's office and Google's own announcement. Spec",
+         url='https://gov.texas.gov/news/post/governor-abbott-google-announce-40-billion-investment-in-texas'),
+    dict(company='Google', project='Virginia Data Center Expansion',
+         location='Loudoun / Prince William County, VA', capex_b=9.0, status='Active/Ongoing',
+         lat=38.68, lon=-77.55, mw=1200, ptype='Cloud / AI',
+         online='Ongoing', iso='PJM', state='VA',
+         notes='Google has committed $9B+ to its Northern Virginia data center campus. Among the earliest hyperscaler presences in Loudoun County. Serves GCP US-East regions an',
+         url='https://blog.google/inside-google/infrastructure/google-data-centers-united-states/'),
+    dict(company='Google', project='South Carolina Data Center Campus',
+         location='Berkeley County, SC', capex_b=9.0, status='Under Construction',
+         lat=33.19, lon=-79.96, mw=1200, ptype='Cloud / AI',
+         online=2026, iso='SERC', state='SC',
+         notes="Google's Berkeley County, SC campus is one of its largest US data center investments. $9B committed with 300+ permanent jobs. Nuclear energy discussions with Du",
+         url='https://blog.google/inside-google/infrastructure/google-south-carolina/'),
+    dict(company='Google', project='Project Mica — Kansas City',
+         location='Kansas City, MO / KS', capex_b=10.0, status='Announced',
+         lat=39.1, lon=-94.58, mw=1500, ptype='Cloud / AI',
+         online=2027, iso='MISO', state='MO',
+         notes="'Project Mica' is Google's code name for a massive Kansas City area data center campus announced in early 2026. $10B estimated investment. Site selection driven",
+         url='https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/'),
+    dict(company='Google', project='PJM Grid Interconnect Expansion (Midwest)',
+         location='Midwest US (PJM footprint)', capex_b=25.0, status='Active/Planned',
+         lat=40.0, lon=-83.0, mw=3000, ptype='Cloud / AI',
+         online='2026-2030', iso='PJM', state='OH',
+         notes='Google filed for 25 GW of new data center power interconnections in the PJM electricity market — the single largest grid request in PJM history. Covers Ohio, In',
+         url='https://blog.google/inside-google/infrastructure/google-data-centers-united-states/'),
+    dict(company='Google', project='Germany Data Center & Cloud Expansion',
+         location='Frankfurt + Hamburg, Germany', capex_b=5.9, status='Under Construction',
+         lat=53.55, lon=9.99, mw=800, ptype='Cloud / AI',
+         online=2026, iso='--', state='DE',
+         notes='Google committed EUR 5.5B to German data center expansion and cloud infrastructure. Includes a new sovereign cloud product for German government/enterprise cust',
+         url='https://blog.google/inside-google/infrastructure/google-germany-investment/'),
+    dict(company='Google', project='Intersect Power Renewable Energy Data Center JV',
+         location='US (Texas + other states)', capex_b=4.75, status='Active',
+         lat=31.97, lon=-99.9, mw=600, ptype='Solar + Data Center',
+         online=2026, iso='ERCOT', state='TX',
+         notes='Google partnered with Intersect Power and TPG Rise Climate in a $4.75B deal to co-locate data centers directly with renewable energy generation. The hyperscale ',
+         url='https://intersectpower.com/'),
+    dict(company='Google', project='Belgium AI Infrastructure Investment',
+         location='Saint-Ghislain, Belgium', capex_b=5.4, status='Under Construction',
+         lat=50.45, lon=3.82, mw=700, ptype='Cloud / AI',
+         online=2027, iso='--', state='BE',
+         notes='Google announced EUR 5B in Belgium data center expansion through 2027, expanding its existing Saint-Ghislain facility to boost EU compute capacity and AI readin',
+         url='https://www.googlecloudpresscorner.com/2025-10-07-Google-Announces-New-EUR5-Billion-AI-Infrastructure-Investment-in-Belgium-through-2027'),
+    dict(company='Google', project='India AI Data Center Cluster (Andhra Pradesh)',
+         location='Visakhapatnam, Andhra Pradesh, India', capex_b=15.0, status='Announced',
+         lat=17.69, lon=83.22, mw=1000, ptype='Cloud / AI',
+         online=2027, iso='--', state='IN',
+         notes='Google confirmed a $15B investment in Andhra Pradesh, India — its largest data center outside the United States. A 1 GW cluster in Visakhapatnam with major rene',
+         url='https://www.cnbc.com/2025/10/14/google-to-invest-10-billion-in-ai-data-center-project-in-india.html'),
+    dict(company='Google', project='Arkansas Data Center (West Memphis)',
+         location='West Memphis, AR', capex_b=4.0, status='Announced',
+         lat=35.15, lon=-90.19, mw=500, ptype='Cloud / AI',
+         online=2026, iso='MISO', state='AR',
+         notes="Google announced a $4B investment in West Memphis, Arkansas — the company's first data center in the state. Located adjacent to Memphis, TN for fiber and power ",
+         url='https://www.arkansasedc.com/news-events/newsroom/detail/2025/10/02/google-locating-new-data-center-in-west-memphis--arkansas-with-multi-billion-dollar-investment'),
+    dict(company='Meta', project='Hyperion AI Supercluster (Louisiana)',
+         location='Richland Parish, LA', capex_b=27.0, status='Under Construction',
+         lat=32.22, lon=-91.64, mw=2000, ptype='AI Training',
+         online=2027, iso='MISO', state='LA',
+         notes='Joint venture with Blue Owl Capital. Powered by gas turbines + solar (2.26 GW by 2029). 5,000 construction workers at peak. Phase 2: Meta purchased 1,400 additi',
+         url='https://fortune.com/2026/02/04/meta-hyperion-ai-data-center-louisiana-expansion/'),
+    dict(company='Meta', project='New Albany Data Center Campus (Indiana)',
+         location='New Albany, IN (Greater Louisville area)', capex_b=10.0, status='Under Construction',
+         lat=38.29, lon=-85.82, mw=1200, ptype='AI Training',
+         online='Ongoing', iso='MISO', state='IN',
+         notes="Meta's New Albany, Indiana campus is one of its flagship data center sites. $10B committed over multiple build phases. Powers Meta AI (Llama) training and Faceb",
+         url='https://sustainability.fb.com/innovation/data-centers/'),
+    dict(company='Meta', project='El Paso, Texas Data Center',
+         location='El Paso, TX', capex_b=1.5, status='Active',
+         lat=31.76, lon=-106.49, mw=200, ptype='AI Inference',
+         online='Active', iso='ERCOT', state='TX',
+         notes="Meta's El Paso campus provides Southwest US inference capacity for Meta AI and WhatsApp. $1.5B investment across multiple phases. Part of Meta's distributed inf",
+         url='https://sustainability.fb.com/innovation/data-centers/'),
+    dict(company='Meta', project='DeKalb, Illinois Campus',
+         location='DeKalb, IL', capex_b=1.0, status='Active',
+         lat=41.93, lon=-88.75, mw=150, ptype='AI Inference',
+         online='Active', iso='MISO', state='IL',
+         notes="Meta's DeKalb, IL facility is 100% renewable-powered (wind PPAs with ComEd). $1B+ investment. Provides Midwest US capacity for Facebook, Instagram, and Threads.",
+         url='https://sustainability.fb.com/innovation/data-centers/'),
+    dict(company='Meta', project='Montgomery, Alabama Campus Expansion',
+         location='Montgomery, AL', capex_b=1.5, status='Active/Expanding',
+         lat=32.37, lon=-86.3, mw=200, ptype='AI Inference',
+         online='Active', iso='SERC', state='AL',
+         notes='Meta announced an expansion of its Montgomery, AL data center in September 2025, pushing total investment to $1.5B+ at the site (from $840M original). Located n',
+         url='https://www.madeinalabama.com/2025/09/meta-to-expand-montgomery-data-hub-pushing-total-investment-to-1-5-billion/'),
+    dict(company='Meta', project='Beaver Dam, Wisconsin Data Center',
+         location='Beaver Dam, WI', capex_b=1.0, status='Under Construction',
+         lat=43.46, lon=-88.84, mw=150, ptype='AI Training',
+         online=2026, iso='MISO', state='WI',
+         notes='Meta broke ground on its 30th global data center in Beaver Dam, Wisconsin in November 2025. Designed to support expanding AI workloads (Llama training + inferen',
+         url='https://www.datacenterdynamics.com/en/news/meta-breaks-ground-on-beaver-dam-wisconsin-data-center/'),
+    dict(company='Oracle', project='Abilene / Fort Worth Stargate Campus (Texas)',
+         location='Abilene + Fort Worth, TX', capex_b=10.0, status='Active — Phase 1 Online',
+         lat=32.45, lon=-99.73, mw=1000, ptype='AI Cloud (Stargate)',
+         online='Active', iso='ERCOT', state='TX',
+         notes="Oracle's Phase 1 Stargate cluster in Abilene is the world's largest GPU supercomputer in cloud infrastructure — 131,000 GPUs online. OpenAI runs GPT-4o and othe",
+         url='https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/'),
+    dict(company='Oracle', project='Port Washington, Wisconsin Campus',
+         location='Port Washington, WI', capex_b=15.0, status='Under Construction',
+         lat=43.39, lon=-87.88, mw=2000, ptype='Cloud / AI',
+         online=2027, iso='MISO', state='WI',
+         notes="Oracle announced a $15B+ data center campus in Port Washington, WI — one of the largest single-site announcements in Midwest history. Part of Oracle's aggressiv",
+         url='https://www.oracle.com/news/'),
+    dict(company='Oracle', project='Michigan Data Center',
+         location='Michigan (Grand Rapids area)', capex_b=1.5, status='Announced/Permitting',
+         lat=42.96, lon=-85.67, mw=200, ptype='Cloud',
+         online=2026, iso='MISO', state='MI',
+         notes='Oracle announced a $1.5B data center investment in Michigan as part of its push to expand OCI regional coverage. Serves Midwest enterprise customers and governm',
+         url='https://www.oracle.com/news/'),
+    dict(company='Oracle', project='India Data Center Expansion',
+         location='Mumbai + Hyderabad, India', capex_b=6.5, status='Active',
+         lat=19.08, lon=72.88, mw=800, ptype='Cloud / AI',
+         online='Ongoing', iso='--', state='IN',
+         notes='Oracle committed $6.5B to Indian data center expansion — one of its largest single-country investments globally. Includes three new OCI regions to serve Indian ',
+         url='https://www.oracle.com/news/'),
+    dict(company='xAI', project='Colossus Phase 1+2 (Memphis Supercluster)',
+         location='Memphis, TN', capex_b=7.0, status='Active — 200k GPUs Online',
+         lat=35.15, lon=-90.05, mw=1000, ptype='AI Training (GPU Cluster)',
+         online='Active', iso='SERC', state='TN',
+         notes='Full vertical integration: xAI owns chips, power generation, racks, and land. Phase 1 (100k H100) built in just 122 days. Phase 2 adds 100-acre adjacent sites. ',
+         url='https://www.hpcwire.com/2025/05/13/colossus-ai-hits-200000-gpus-as-musk-ramps-up-ai-ambitions/'),
+    dict(company='CoreWeave', project='Pennsylvania Data Center Expansion',
+         location='Multiple PA sites (Bethlehem + Pittsburgh area)', capex_b=6.0, status='Active',
+         lat=40.62, lon=-75.36, mw=800, ptype='GPU Cloud',
+         online='Active', iso='PJM', state='PA',
+         notes='CoreWeave expanded aggressively into Pennsylvania with $6B+ committed across multiple sites. Bethlehem (former Bethlehem Steel site) and Pittsburgh area campuse',
+         url='https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/'),
+    dict(company='CoreWeave', project='North Dakota Expansion',
+         location='Minot / Bismarck, ND', capex_b=2.0, status='Under Construction',
+         lat=46.88, lon=-100.78, mw=300, ptype='GPU Cloud',
+         online=2026, iso='MISO', state='ND',
+         notes="CoreWeave selected North Dakota for a $2B expansion due to low electricity costs, cold climate (free air cooling for GPUs), and available land. ND's grid is ~70",
+         url='https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/'),
+    dict(company='CoreWeave', project='New Jersey HQ Campus Expansion',
+         location='Parsippany / Roseland, NJ', capex_b=1.8, status='Active',
+         lat=40.87, lon=-74.28, mw=250, ptype='GPU Cloud',
+         online='Active', iso='PJM', state='NJ',
+         notes="CoreWeave's home base in New Jersey houses its original GPU clusters and HQ. $1.8B in active expansion to support growing customer contracts. Proximity to NYSE ",
+         url='https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/'),
+    dict(company='CoreWeave', project='Multi-State GPU Cloud JV',
+         location='US (TX, OH, VA additional sites)', capex_b=5.0, status='Active',
+         lat=30.27, lon=-97.74, mw=600, ptype='GPU Cloud',
+         online='Active', iso='ERCOT', state='TX',
+         notes='CoreWeave has committed $5B+ to new data center sites across Texas (Austin), Ohio (Columbus), and Virginia (Ashburn area) — diversifying away from its northeast',
+         url='https://www.fool.com/investing/2026/02/25/ai-stock-soared-since-ipo-still-but-coreweave/'),
+    dict(company='CoreWeave', project='Europe Expansion (Norway, Sweden, Spain)',
+         location='Norway + Sweden + Spain', capex_b=2.2, status='Active',
+         lat=59.91, lon=10.75, mw=300, ptype='GPU Cloud',
+         online=2025, iso='--', state='NO',
+         notes='CoreWeave committed $2.2B to European data centers powered entirely by renewable energy in Norway, Sweden, and Spain, targeting completion by end of 2025. Nordi',
+         url='https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx'),
+]
+
 FINANCIALS = [
     dict(
         company="AWS (Amazon)", rev_b=107.0, op_inc_b=37.0, margin_pct=34.6,
@@ -1398,7 +1693,7 @@ st.markdown("---")
 # TABS
 # ════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs([
     "Overview",
     "Deals & Capital Flows",
     "Active Projects",
@@ -1407,6 +1702,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs([
     "Underwriting & Growth",
     "Who's Bullshitting",
     "Live Intel",
+    "Project Map",
 ])
 
 
@@ -2614,3 +2910,297 @@ with tab8:
         "</span>",
         unsafe_allow_html=True,
     )
+
+
+# -----------------------------------------------------------------------------
+# TAB 9: PROJECT MAP
+# -----------------------------------------------------------------------------
+with tab9:
+    try:
+        import folium
+        from folium.plugins import MarkerCluster
+        from streamlit_folium import st_folium
+        _map_ok = True
+    except ImportError:
+        _map_ok = False
+
+    if not _map_ok:
+        st.error("Map libraries missing. Run: pip install folium streamlit-folium")
+    else:
+        st.markdown("### AI Data Center Project Map")
+        st.caption(
+            "All confirmed $1B+ projects across 7 companies. "
+            "Click markers for details. Toggle layers via the control at top-right."
+        )
+
+        # ── Filters ───────────────────────────────────────────────────────────
+        fc1, fc2, fc3, fc4 = st.columns([2, 2, 2, 2])
+        with fc1:
+            _companies = ["All"] + sorted(set(p["company"] for p in PROJECTS_MAP))
+            sel_company = st.selectbox("Company", _companies, key="map_company")
+        with fc2:
+            _statuses = ["All"] + sorted(set(
+                p["status"].split("-")[0].split("/")[0].strip()
+                for p in PROJECTS_MAP
+            ))
+            sel_status = st.selectbox("Status", _statuses, key="map_status")
+        with fc3:
+            _ptypes = ["All"] + sorted(set(p["ptype"] for p in PROJECTS_MAP))
+            sel_type = st.selectbox("Type", _ptypes, key="map_ptype")
+        with fc4:
+            min_capex = st.slider(
+                "Min CAPEX ($B)", min_value=1.0, max_value=50.0,
+                value=1.0, step=0.5, key="map_capex"
+            )
+
+        search_q = st.text_input(
+            "Search projects (name, location, keyword)...", key="map_search"
+        )
+
+        # ── Apply filters ─────────────────────────────────────────────────────
+        fmap = PROJECTS_MAP[:]
+        if sel_company != "All":
+            fmap = [p for p in fmap if p["company"] == sel_company]
+        if sel_status != "All":
+            fmap = [p for p in fmap if sel_status.lower() in p["status"].lower()]
+        if sel_type != "All":
+            fmap = [p for p in fmap if p["ptype"] == sel_type]
+        fmap = [p for p in fmap if p["capex_b"] >= min_capex]
+        if search_q:
+            sq = search_q.lower()
+            fmap = [
+                p for p in fmap
+                if sq in p["project"].lower()
+                or sq in p["location"].lower()
+                or sq in p.get("notes", "").lower()
+                or sq in p["company"].lower()
+            ]
+
+        # ── Summary stats ─────────────────────────────────────────────────────
+        ms1, ms2, ms3, ms4, ms5 = st.columns(5)
+        ms1.metric("Visible Projects", len(fmap))
+        ms2.metric("Total CAPEX", f"${sum(p['capex_b'] for p in fmap):.0f}B")
+        ms3.metric("Est. Capacity", f"{sum(p.get('mw', 0) for p in fmap):,} MW")
+        ms4.metric("Companies", len(set(p["company"] for p in fmap)))
+        ms5.metric("Locations", len(set(p.get("state", "?") for p in fmap)))
+
+        # Reset View
+        if st.button("Reset View", key="map_reset_btn"):
+            for _k in ["map_company", "map_status", "map_ptype",
+                       "map_capex", "map_search"]:
+                if _k in st.session_state:
+                    del st.session_state[_k]
+            st.rerun()
+
+        # ── Build folium map ───────────────────────────────────────────────────
+        _m = folium.Map(
+            location=[37.5, -96.0], zoom_start=4,
+            tiles=None, prefer_canvas=True,
+        )
+
+        # Basemap tiles
+        folium.TileLayer(
+            tiles=(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/"
+                "World_Imagery/MapServer/tile/{z}/{y}/{x}"
+            ),
+            attr="Esri | Maxar | Earthstar Geographics",
+            name="Satellite", overlay=False, control=True, show=True,
+        ).add_to(_m)
+        folium.TileLayer(
+            "CartoDB dark_matter", name="Dark",
+            overlay=False, control=True, show=False,
+        ).add_to(_m)
+        folium.TileLayer(
+            "OpenStreetMap", name="Street",
+            overlay=False, control=True, show=False,
+        ).add_to(_m)
+
+        # ── ISO/RTO Region Overlays ────────────────────────────────────────────
+        _ISO_REGIONS = [
+            dict(name="ERCOT (TX Grid)", color="#ff6b35",
+                 coords=[[31.0, -104.0], [31.0, -93.5], [26.5, -97.5], [26.5, -103.5]]),
+            dict(name="PJM (Mid-Atl / Midwest)", color="#4ecdc4",
+                 coords=[[36.5, -89.5], [36.5, -74.0], [42.5, -74.0], [42.5, -82.5],
+                         [47.0, -85.0], [42.5, -88.5], [36.5, -89.5]]),
+            dict(name="MISO (Central / South)", color="#45b7d1",
+                 coords=[[29.0, -104.0], [29.0, -88.5], [47.5, -88.5],
+                         [49.0, -95.0], [49.0, -104.0]]),
+            dict(name="SERC (Southeast)", color="#96ceb4",
+                 coords=[[24.5, -89.5], [24.5, -75.0], [37.5, -75.0],
+                         [37.5, -85.0], [35.0, -89.5]]),
+            dict(name="WECC (Western US)", color="#dda0dd",
+                 coords=[[31.5, -124.5], [49.0, -124.5], [49.0, -104.0], [31.5, -104.0]]),
+            dict(name="SPP (Central Plains)", color="#f7dc6f",
+                 coords=[[26.0, -104.0], [26.0, -94.0], [41.0, -94.0],
+                         [49.0, -98.0], [49.0, -104.0]]),
+        ]
+        _iso_group = folium.FeatureGroup(name="ISO/RTO Regions (approx.)", show=False)
+        for _iso in _ISO_REGIONS:
+            folium.Polygon(
+                locations=[[c[0], c[1]] for c in _iso["coords"]],
+                color=_iso["color"], fill=True,
+                fill_color=_iso["color"], fill_opacity=0.08,
+                weight=2, opacity=0.55,
+                tooltip=_iso["name"] + " - Approximate boundary",
+            ).add_to(_iso_group)
+        _iso_group.add_to(_m)
+
+        # ── 50 km radius circles ───────────────────────────────────────────────
+        _radius_group = folium.FeatureGroup(name="50 km Radius Circles", show=False)
+        for p in fmap:
+            _co = COMPANY_COLORS.get(
+                p["company"].split(" (")[0].split("/")[0].strip(), "#888888"
+            )
+            folium.Circle(
+                location=[p["lat"], p["lon"]], radius=50000,
+                color=_co, fill=True, fill_opacity=0.04,
+                weight=1, opacity=0.35,
+            ).add_to(_radius_group)
+        _radius_group.add_to(_m)
+
+        # ── Marker cluster ─────────────────────────────────────────────────────
+        _mc = MarkerCluster(
+            name="Projects",
+            disableClusteringAtZoom=7,
+            options={"maxClusterRadius": 60, "showCoverageOnHover": False},
+        ).add_to(_m)
+
+        for p in fmap:
+            _co_key = p["company"].split(" (")[0].split("/")[0].strip()
+            _color = COMPANY_COLORS.get(_co_key, "#888888")
+            _r = max(9, min(22, int(p["capex_b"] ** 0.45 * 4)))
+            _notes_short = (p.get("notes") or "")[:200]
+            if len(p.get("notes", "")) > 200:
+                _notes_short += "..."
+            _online_str = str(p.get("online", "TBD"))
+            _loc = p["location"].replace("<", "&lt;").replace(">", "&gt;")
+            _proj = p["project"].replace("<", "&lt;").replace(">", "&gt;")
+            _notes_safe = _notes_short.replace("<", "&lt;").replace(">", "&gt;")
+            _src_url = p.get("url", "#")
+            _capex_str = f"${p['capex_b']:.1f}B"
+            _mw_str = f"{p.get('mw', 0):,} MW"
+            _iso_str = p.get("iso", "--")
+            _status_str = p["status"]
+            _ptype_str = p.get("ptype", "--")
+
+            _popup_html = (
+                "<div style='font-family:sans-serif;background:#0d1117;"
+                "color:#e6edf3;border-radius:8px;min-width:280px;max-width:340px;"
+                "border:1px solid #30363d;overflow:hidden;'>"
+                f"<div style='background:{_color};padding:10px 14px;"
+                f"font-weight:700;font-size:0.83rem;'>{p['company']} &middot; {_iso_str}</div>"
+                f"<div style='padding:12px 14px;'>"
+                f"<div style='font-size:0.91rem;font-weight:700;"
+                f"margin-bottom:6px;'>{_proj}</div>"
+                "<table style='font-size:0.77rem;border-collapse:collapse;width:100%;'>"
+                f"<tr><td style='color:#7d8590;width:80px;'>Location</td><td>{_loc}</td></tr>"
+                f"<tr><td style='color:#7d8590;'>CAPEX</td><td>{_capex_str}</td></tr>"
+                f"<tr><td style='color:#7d8590;'>Status</td><td>{_status_str}</td></tr>"
+                f"<tr><td style='color:#7d8590;'>Type</td><td>{_ptype_str}</td></tr>"
+                f"<tr><td style='color:#7d8590;'>MW</td><td>{_mw_str}</td></tr>"
+                f"<tr><td style='color:#7d8590;'>Online</td><td>{_online_str}</td></tr>"
+                "</table>"
+                f"<div style='margin-top:8px;font-size:0.73rem;color:#7d8590;"
+                f"border-top:1px solid #30363d;padding-top:6px;'>{_notes_safe}</div>"
+                f"<a href='{_src_url}' target='_blank' style='display:inline-block;"
+                f"margin-top:8px;font-size:0.72rem;color:{_color};"
+                f"text-decoration:none;'>Source &rarr;</a>"
+                "</div></div>"
+            )
+            _tooltip = f"{p['company']} - {_proj} ({_capex_str})"
+
+            folium.Marker(
+                location=[p["lat"], p["lon"]],
+                popup=folium.Popup(_popup_html, max_width=360, parse_html=False),
+                tooltip=_tooltip,
+                icon=folium.DivIcon(
+                    icon_size=(_r * 2, _r * 2),
+                    icon_anchor=(_r, _r),
+                    html=(
+                        f"<div style='width:{_r*2}px;height:{_r*2}px;"
+                        f"background:{_color};border:2px solid rgba(255,255,255,0.7);"
+                        "border-radius:50%;opacity:0.9;"
+                        "box-shadow:0 0 5px rgba(0,0,0,0.5);'></div>"
+                    ),
+                ),
+            ).add_to(_mc)
+
+        # Layer control
+        folium.LayerControl(collapsed=False, position="topright").add_to(_m)
+
+        # Dark popup CSS
+        _m.get_root().header.add_child(folium.Element(
+            "<style>"
+            ".leaflet-popup-content-wrapper{"
+            "background:#0d1117!important;"
+            "border:1px solid #30363d!important;"
+            "border-radius:8px!important;padding:0!important;"
+            "box-shadow:0 4px 20px rgba(0,0,0,0.6)!important;}"
+            ".leaflet-popup-tip{background:#0d1117!important;}"
+            ".leaflet-popup-content{margin:0!important;}"
+            "</style>"
+        ))
+
+        # ── Render map ─────────────────────────────────────────────────────────
+        st_folium(_m, height=660, use_container_width=True, key="project_map_v1")
+
+        # ── Legend ─────────────────────────────────────────────────────────────
+        st.markdown("---")
+        st.markdown("**Legend - Company Colors**")
+        _leg_items = [
+            (c, col) for c, col in COMPANY_COLORS.items()
+            if c in {
+                p["company"].split(" (")[0].split("/")[0].strip()
+                for p in PROJECTS_MAP
+            }
+        ]
+        _lcols = st.columns(max(1, len(_leg_items)))
+        for i, (comp, clr) in enumerate(_leg_items):
+            _lcols[i].markdown(
+                f"<span style='display:inline-block;width:13px;height:13px;"
+                f"background:{clr};border-radius:50%;margin-right:5px;"
+                f"vertical-align:middle;'></span>"
+                f"<span style='font-size:0.78rem;'>{comp}</span>",
+                unsafe_allow_html=True,
+            )
+        st.caption(
+            "Marker size scales with CAPEX. "
+            "Toggle ISO/RTO and radius layers via the layer control (top-right). "
+            "Boundaries are approximate."
+        )
+
+        # ── CSV Download ───────────────────────────────────────────────────────
+        st.markdown("---")
+        _map_df = pd.DataFrame([{
+            "Company": p["company"],
+            "Project": p["project"],
+            "Location": p["location"],
+            "CAPEX ($B)": p["capex_b"],
+            "Status": p["status"],
+            "Type": p["ptype"],
+            "Est. MW": p.get("mw", 0),
+            "Online Year": str(p.get("online", "TBD")),
+            "ISO / RTO": p.get("iso", "--"),
+            "State / Country": p.get("state", "--"),
+            "Lat": p["lat"],
+            "Lon": p["lon"],
+            "Source URL": p.get("url", ""),
+        } for p in fmap])
+        _dl_c1, _dl_c2 = st.columns([1, 4])
+        with _dl_c1:
+            st.download_button(
+                "Download CSV",
+                _map_df.to_csv(index=False),
+                "ai_datacenter_projects.csv",
+                "text/csv",
+                key="map_csv_dl",
+            )
+        with _dl_c2:
+            _vis_capex = sum(p["capex_b"] for p in fmap)
+            _vis_locs = len(set(p.get("state", "?") for p in fmap))
+            st.caption(
+                f"{len(fmap)} projects visible"
+                f"  |  ${_vis_capex:.0f}B total CAPEX"
+                f"  |  {_vis_locs} locations"
+            )
