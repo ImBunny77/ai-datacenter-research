@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-17T20:41:19.543792+00:00",
+  "last_updated": "2026-03-17T22:35:45.494743+00:00",
   "finding_count": 600,
-  "new_project_count": 77,
-  "cancellation_count": 14,
+  "new_project_count": 76,
+  "cancellation_count": 15,
   "sec_filing_count": 1,
-  "high_confidence_count": 167,
+  "high_confidence_count": 165,
   "findings": [
     {
       "id": "fd82654a124bad",
@@ -20,8 +20,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$12 billion",
         "$27 billion",
+        "$12 billion",
         "$27B"
       ],
       "confidence": 9,
@@ -120,10 +120,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$1.64 billion",
         "$1.64B",
-        "$143M",
         "$143 million",
-        "$1.64 billion"
+        "$143M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -285,6 +285,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1c8357f31a409e",
+      "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
+      "url": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-17",
+      "summary": "Suit: The National Center for Atmospheric Research is to be terminated for no rational reason.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -502,6 +519,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "23a65b173e3f1a",
+      "title": "OpenAI, Mistral AI release new hardware-efficient language models",
+      "url": "https://siliconangle.com/2026/03/17/openai-mistral-ai-release-new-hardware-efficient-language-models/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "OpenAI Group PBC and Mistral AI SAS today introduced new artificial intelligence models optimized for cost-sensitive use cases. OpenAI is rolling out two algorithms called GPT-5.4 mini and GPT 5.4 nano to its cloud services. Anthropic, in turn, has released a new addition to its Mistral Small series of open-source models. GPT-5.4 mini and GPT [&#8230;] \n The post  OpenAI, Mistral AI release new hardware-efficient language models  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5cb24e248c4508",
       "title": "The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI",
       "url": "https://siliconangle.com/2026/03/17/intelligent-green-aws-pga-tour-reimagining-fan-experience-agentic-ai/",
@@ -596,7 +631,7 @@
       "source": "Ars Technica",
       "source_cat": "Tech News",
       "date": "2026-03-17",
-      "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way",
+      "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way.",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -1392,23 +1427,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "437af6c84cccbc",
-      "title": "No accountability: Bills would ban liability lawsuits for climate change",
-      "url": "https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-16",
-      "summary": "This is the latest front in the battle over climate lawsuits.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f4bdcf3ad1f043",
       "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
       "url": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/",
@@ -1471,6 +1489,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "437af6c84cccbc",
+      "title": "No accountability: Bills would ban liability lawsuits for climate change",
+      "url": "https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-16",
+      "summary": "This is the latest front in the battle over climate lawsuits.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1916,8 +1951,8 @@
       "id": "a1d8885aa4b4df",
       "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-13",
       "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
       "finding_type": "New Project",
@@ -7228,13 +7263,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c6dd8e0387c023",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect",
+      "id": "545ad393809d3a",
+      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect",
+      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7260,13 +7295,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "545ad393809d3a",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
+      "id": "c6dd8e0387c023",
+      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
+      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10404,8 +10439,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "12 billion dollar",
-        "$12 billion"
+        "$12 billion",
+        "12 billion dollar"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10469,46 +10504,6 @@
         "$12 Billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "41ad2a360ad0a0",
-      "title": "Amazon Announces $12 Billion Investment in Louisiana’s First Data Center Campuses - Eudaimonia and Co",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVU1YblFYc01FTWhiM2ZzMVppWnpzbFE1RUQ5clpxTlZwcThQdWMwRWpCd1BQUFVoa3I1RlZpYXZUaXhwZEhJekJBQWpDV2tDQzFXMllyb09NLXRyQUs1aE9NNzVwZlNERFJJOUFtcTJrYjdnalVlN2Z2ek1lRzB0QmVwQUNROUxrWEl3NVhreGdoaWNiczJCenRGRQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-24",
-      "summary": "Amazon Announces $12 Billion Investment in Louisiana’s First Data Center Campuses &nbsp;&nbsp; Eudaimonia and Co",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "407126874ac0a4",
-      "title": "Shreveport City Council welcomes $12 billion data center being built by Amazon - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzI4Qzd2eGVpVDlmcTV3cHhiRTEwVmxQdDBXM0w1bEVzYzBsbFlsNVNnTE1xS3BCLXpUeTZSQTJWcEM5UTZlVWRVdW4yZ2lWYzFLbGR4Ulg1UTR4S2JidnRrdkdxRF91SmpzMUUtSm5VaXM1YkJpZTlkWklFLTdsaU44R09Dbm1uWXd4NThJUWo2Rlp1VnpUMkZ1WGVaakNhM2JQQ19ETmw2WktENHhn?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-24",
-      "summary": "Shreveport City Council welcomes $12 billion data center being built by Amazon &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$12 billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     }
   ]
