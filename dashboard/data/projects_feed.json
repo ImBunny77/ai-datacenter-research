@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-17T13:16:24.950648+00:00",
+  "last_updated": "2026-03-17T14:59:17.069249+00:00",
   "finding_count": 600,
-  "new_project_count": 82,
+  "new_project_count": 80,
   "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 186,
+  "high_confidence_count": 181,
   "findings": [
     {
       "id": "fd82654a124bad",
@@ -25,6 +25,28 @@
         "$27 billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3a6dc83c63e0a6",
+      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-17",
+      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "1GW",
+        "$10 billion"
+      ],
+      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -77,12 +99,29 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1.64B",
-        "$1.64 billion",
+        "$143 million",
         "$143M",
-        "$143 million"
+        "$1.64 billion",
+        "$1.64B"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "51871c7d911ec6",
+      "title": "Sunly plans to build Baltic region’s largest data center in Estonia",
+      "url": "https://www.datacenterdynamics.com/en/news/sunly-plans-to-build-baltic-regions-largest-data-center-in-estonia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "The 180MW facility will provide Estonia with AI training infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "180MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -181,6 +220,104 @@
       "source_cat": "Company",
       "date": "2026-03-17",
       "summary": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b858bd39c6aa1f",
+      "title": "Factory waste heat could help cool data centers thanks to novel zeolite 'thermal battery'",
+      "url": "https://www.datacenterdynamics.com/en/news/factory-waste-heat-could-help-cool-data-centers-thanks-to-novel-zeolite-thermal-battery/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Research is at an early stage, but has delivered promising results",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8fe8217290c3f2",
+      "title": "Former JPMorgan data center in New Jersey leased to new tenant",
+      "url": "https://www.datacenterdynamics.com/en/news/former-jpmorgan-data-center-in-new-jersey-leased-to-new-tenant/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Landlord Russo Development secures new customer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New Jersey"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9723f4135b3aa0",
+      "title": "T-Mobile, Nvidia to integrate physical AI applications on the network Edge",
+      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-nvidia-to-integrate-physical-ai-applications-on-the-network-edge/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Aims to refocus the cell site as an AI compute platform",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4e78ee95037627",
+      "title": "Former paper mill site in Finland targeted for data center use - report",
+      "url": "https://www.datacenterdynamics.com/en/news/former-paper-mill-site-in-finland-targeted-for-data-center-use-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Hyperco-linked firm eyes site in Kouvola",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aaf138fca38db5",
+      "title": "Germany's Stadtwerke Lübeck launches first data center",
+      "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "The facility in northern Germany will service strong local demand for digitally sovereign services",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "489a9f9947e3e6",
+      "title": "The critical power supplement",
+      "url": "https://www.datacenterdynamics.com/en/magazines/the-critical-power-supplement-2026/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Data centers face the energy dilemma",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -586,40 +723,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "08034d3c1638e8",
-      "title": "Nvidia announces space compute modules, including Space-1 Vera Rubin",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-announces-space-compute-modules-including-vera-rubin/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Will be used by Aetherflux, Axiom Space, Kepler Comms, Planet, Sophia Space, and Starcloud",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f624a4797ae2fc",
-      "title": "Nvidia announces Groq 3 LPU AI inference chip, plans 256-LPU rack",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-announces-groq-3-lpu-ai-inference-chip-plans-256-lpu-rack/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "LPX rack will be liquid cooled, focused on \"extreme low latency token generation\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "c125a3d00e5597",
       "title": "Nvidia builds partnerships in effort to connect AI-driven robots to the real world",
       "url": "https://siliconangle.com/2026/03/16/nvidia-builds-partnerships-effort-connect-ai-driven-robots-real-world/",
@@ -756,6 +859,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "08034d3c1638e8",
+      "title": "Nvidia announces space compute modules, including Space-1 Vera Rubin",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-announces-space-compute-modules-including-vera-rubin/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Will be used by Aetherflux, Axiom Space, Kepler Comms, Planet, Sophia Space, and Starcloud",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f624a4797ae2fc",
+      "title": "Nvidia announces Groq 3 LPU AI inference chip, plans 256-LPU rack",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-announces-groq-3-lpu-ai-inference-chip-plans-256-lpu-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "LPX rack will be liquid cooled, focused on \"extreme low latency token generation\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "a48f7c35a38c01",
       "title": "Nvidia ups the stakes for AI infra with turbocharged Vera Rubin platform launch",
       "url": "https://siliconangle.com/2026/03/16/nvidia-ups-stakes-ai-infra-turbocharged-vera-rubin-platform-launch/",
@@ -787,158 +924,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2019dac9dd8c05",
-      "title": "AWS to deploy more than one million Nvidia GPUs over next 12 months",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-to-deploy-more-than-one-million-nvidia-gpus-over-next-12-months/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Starting now",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "061a1e0415c062",
-      "title": "Micron begins volume production of HBM4 36GB 12H for Nvidia Vera Rubin",
-      "url": "https://www.datacenterdynamics.com/en/news/micron-begins-volume-production-of-hbm4-36gb-12h-for-nvidia-vera-rubin/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "It's all about who has the memory",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f494b26686fefe",
-      "title": "Nvidia offers DGX Cloud to AI foundation model labs for new Nemotron Coalition",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-offers-dgx-cloud-to-ai-foundation-model-labs-on-new-nemotron-coalition/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Locking in open source support",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6dc502135fb83b",
-      "title": "Pharmaceutical company Roche deploys 3,500 Nvidia Blackwell GPUs across hybrid cloud and on‐premises",
-      "url": "https://www.datacenterdynamics.com/en/news/pharmaceutical-company-roche-deploys-3500-nvidia-blackwell-gpus-across-hybrid-cloud-and-onpremises/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Building on previous Genentech-Nvidia partnership",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7b9cd2109f4c0c",
-      "title": "Nvidia Vera CPU enters full production, pitched at agentic AI workloads",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-cpu-enters-full-production-pitched-at-agentic-ai-workloads/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "New rack to feature 256 liquid-cooled Vera CPUs",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6d6bd609d45301",
-      "title": "Nvidia CEO Jensen Huang says company has one trillion dollars in orders through 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-says-company-has-one-trillion-dollars-in-orders-through-2027/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Up from $500bn a year ago",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "83b4f4b7b6442a",
-      "title": "City council in Norwalk, Iowa, approves potential data center development agreement despite public concerns",
-      "url": "https://www.datacenterdynamics.com/en/news/city-council-in-norwalk-iowa-approves-potential-data-center-development-agreement-despite-public-concerns/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Development agreement with Tract approved earlier this month",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Iowa"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8393a4e2104fec",
-      "title": "Nokia beefs up optical networking portfolio for AI",
-      "url": "https://www.datacenterdynamics.com/en/news/nokia-beefs-up-optical-networking-portfolio-for-ai/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "As the Finnish vendor also bolsters its Out-of-band management offering with Aurelis for Data Centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0af3340ee9cd90",
-      "title": "Nvidia wants to reinvent the RAN",
-      "url": "https://www.datacenterdynamics.com/en/analysis/nvidia-wants-reinvent-the-ran-gtc-2026/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "All eyes on bringing AI to the RAN for the 6G future",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -1132,6 +1117,158 @@
       "is_high_confidence": false
     },
     {
+      "id": "2019dac9dd8c05",
+      "title": "AWS to deploy more than one million Nvidia GPUs over next 12 months",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-to-deploy-more-than-one-million-nvidia-gpus-over-next-12-months/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Starting now",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "061a1e0415c062",
+      "title": "Micron begins volume production of HBM4 36GB 12H for Nvidia Vera Rubin",
+      "url": "https://www.datacenterdynamics.com/en/news/micron-begins-volume-production-of-hbm4-36gb-12h-for-nvidia-vera-rubin/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "It's all about who has the memory",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f494b26686fefe",
+      "title": "Nvidia offers DGX Cloud to AI foundation model labs for new Nemotron Coalition",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-offers-dgx-cloud-to-ai-foundation-model-labs-on-new-nemotron-coalition/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Locking in open source support",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6dc502135fb83b",
+      "title": "Pharmaceutical company Roche deploys 3,500 Nvidia Blackwell GPUs across hybrid cloud and on‐premises",
+      "url": "https://www.datacenterdynamics.com/en/news/pharmaceutical-company-roche-deploys-3500-nvidia-blackwell-gpus-across-hybrid-cloud-and-onpremises/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Building on previous Genentech-Nvidia partnership",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7b9cd2109f4c0c",
+      "title": "Nvidia Vera CPU enters full production, pitched at agentic AI workloads",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-vera-cpu-enters-full-production-pitched-at-agentic-ai-workloads/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "New rack to feature 256 liquid-cooled Vera CPUs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6d6bd609d45301",
+      "title": "Nvidia CEO Jensen Huang says company has one trillion dollars in orders through 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-says-company-has-one-trillion-dollars-in-orders-through-2027/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Up from $500bn a year ago",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "83b4f4b7b6442a",
+      "title": "City council in Norwalk, Iowa, approves potential data center development agreement despite public concerns",
+      "url": "https://www.datacenterdynamics.com/en/news/city-council-in-norwalk-iowa-approves-potential-data-center-development-agreement-despite-public-concerns/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "Development agreement with Tract approved earlier this month",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Iowa"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8393a4e2104fec",
+      "title": "Nokia beefs up optical networking portfolio for AI",
+      "url": "https://www.datacenterdynamics.com/en/news/nokia-beefs-up-optical-networking-portfolio-for-ai/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "As the Finnish vendor also bolsters its Out-of-band management offering with Aurelis for Data Centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0af3340ee9cd90",
+      "title": "Nvidia wants to reinvent the RAN",
+      "url": "https://www.datacenterdynamics.com/en/analysis/nvidia-wants-reinvent-the-ran-gtc-2026/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-16",
+      "summary": "All eyes on bringing AI to the RAN for the 6G future",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "686459163b4753",
       "title": "Canadian data center company Virtual Grid launches modular prototype",
       "url": "https://www.datacenterdynamics.com/en/news/canadian-data-center-company-virtual-grid-launches-modular-prototype/",
@@ -1242,28 +1379,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "3a6dc83c63e0a6",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-15",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "1GW",
-        "$10 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     },
     {
       "id": "0efba34f1bc05a",
@@ -1388,23 +1503,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "cc6a1cd0a1cc22",
-      "title": "Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage",
-      "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-14",
-      "summary": "For Amazon Web Services Inc., this year’s Amazon S3 anniversary marks more than a milestone — it underscores S3’s rise from an internal utility to a pillar of cloud infrastructure and beyond. Commemorating the 20th Amazon S3 anniversary on March 14, the company is using Pi Day — the annual celebration of the mathematical constant [&#8230;] \n The post  Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "fbfcafead13af4",
       "title": "Staff complain that xAI is flailing because of constant upheaval",
       "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
@@ -1415,6 +1513,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc6a1cd0a1cc22",
+      "title": "Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage",
+      "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-14",
+      "summary": "For Amazon Web Services Inc., this year’s Amazon S3 anniversary marks more than a milestone — it underscores S3’s rise from an internal utility to a pillar of cloud infrastructure and beyond. Commemorating the 20th Amazon S3 anniversary on March 14, the company is using Pi Day — the annual celebration of the mathematical constant [&#8230;] \n The post  Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1727,23 +1842,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "17b311ad897a07",
-      "title": "Google Fiber will be sold to private equity firm and merge with cable company",
-      "url": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-13",
-      "summary": "GFiber and Astound to merge with Alphabet, selling majority stake to Stonepeak.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e4e45fd1647b21",
       "title": "Twenty years of Amazon S3 and building what’s next",
       "url": "https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/",
@@ -1806,6 +1904,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "17b311ad897a07",
+      "title": "Google Fiber will be sold to private equity firm and merge with cable company",
+      "url": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-13",
+      "summary": "GFiber and Astound to merge with Alphabet, selling majority stake to Stonepeak.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -10441,143 +10556,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "78269168bbae3e",
-      "title": "Amazon to build $12B data center campuses in Northwest Louisiana - KTBS",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN05TNFF1bk1HZWxtRHJ3NEVHUVJoUUlHaVRST1B5VjFvam1xb0tqcXNKZC1pdG9SUkxZUEhVdWptOFlPM3htd0JNMzZaSUhQYURtdnZlekF6R2RLMDBiQTBRaE41NXdLTkdzQVp4eU9nQm9aSUxFZjBobFBMNlk0eFl1SzhidTBFRkkwM1hYVDBzNml3b1BUa1ZIdENndFVEd0hJTzZzMU9SeGRVSGZ6WGZkcDJvX29oZmt1YzU3bDRPMlhid3FHMlZtczBISXktb0wtcUV3?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-23",
-      "summary": "Amazon to build $12B data center campuses in Northwest Louisiana &nbsp;&nbsp; KTBS",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "06b9aabff56c3e",
-      "title": "Amazon Is Dropping $12 Billion on Louisiana—And Construction Starts Within Weeks - 96.5 KPEL",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43N3FTcGY4WWExZDYzMktIVFY1dnlwdkFEWWRuc0oxb28tOU1ZcjA2czVuU0JEQ19pOUpXenlQSjl0ZVozblBJRWtyYmw2QXBEb0p2UDlfeU5xQm1LdzE4WGxvUDJNQ2NEVkZFQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-23",
-      "summary": "Amazon Is Dropping $12 Billion on Louisiana—And Construction Starts Within Weeks &nbsp;&nbsp; 96.5 KPEL",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6aa5523b8dc286",
-      "title": "Amazon Is Dropping $12 Billion on Louisiana—And Construction Starts Within Weeks - KPEL 96.5",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43N3FTcGY4WWExZDYzMktIVFY1dnlwdkFEWWRuc0oxb28tOU1ZcjA2czVuU0JEQ19pOUpXenlQSjl0ZVozblBJRWtyYmw2QXBEb0p2UDlfeU5xQm1LdzE4WGxvUDJNQ2NEVkZFQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-02-23",
-      "summary": "Amazon Is Dropping $12 Billion on Louisiana—And Construction Starts Within Weeks &nbsp;&nbsp; KPEL 96.5",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$12 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e37754181b671d",
-      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTG5JaU51aWttdkhmR2F5NGZCX3BkX2xEeGNlbFVQM3FhQ052ZjltZUVSaTJhMmtWajFxY3l6NlNkMUpBZWlNai1HVUJmbU0tN1lVUXRLVXdsMzVwVlHSAWNBVV95cUxPZGdjN1BCRE1OUTFSZ21pRlMzT2JsMEI4UWU2bEU0M3FyWV9YTkpzVG44X3VnUGE3ZUp4VmRWVVhpQnZYNHRfQV9Bb1ZHc0lwLVgzUHFMdmc3cVNvd1RUWXV1aFE?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-23",
-      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; Bitget",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$600B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "39cca179b1b2f4",
-      "title": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? - bitget.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTG5JaU51aWttdkhmR2F5NGZCX3BkX2xEeGNlbFVQM3FhQ052ZjltZUVSaTJhMmtWajFxY3l6NlNkMUpBZWlNai1HVUJmbU0tN1lVUXRLVXdsMzVwVlHSAWNBVV95cUxPZGdjN1BCRE1OUTFSZ21pRlMzT2JsMEI4UWU2bEU0M3FyWV9YTkpzVG44X3VnUGE3ZUp4VmRWVVhpQnZYNHRfQV9Bb1ZHc0lwLVgzUHFMdmc3cVNvd1RUWXV1aFE?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-23",
-      "summary": "Nvidia FY2026 Q4 Preview: $600B Hyperscaler AI Capex Set to Power Guidance Upside—Can Earnings Reaccelerate? &nbsp;&nbsp; bitget.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$600B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1327f75ab272b9",
-      "title": "What Amazon’s latest data center announcement says about AI right now - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOXB4ZEVyME1ydG5LV3Q2SUdXNmp5WlB6Y0lqbTF0WGVkQkdWR2xGTV9ibU9PN3RCclVBZmU2T09fMmVXbVFYdG5hOFgzTFlfcDR4OVFPVjBrdURWaElmYklYb2NHYk5iMXl2NlpJTDFaMklrXzNQQ0toanNVVFVMeHp6SjdXSmZocHgzeHByZlBOSy05cFR1VVVoWXk?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-02-23",
-      "summary": "What Amazon’s latest data center announcement says about AI right now &nbsp;&nbsp; Sherwood News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "91df0b8f75bbd1",
-      "title": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmVuM3ZPbkIyaS1ZdUhtYVN1S1dfc3dIUUd2bl9MbloxYjNRQXppWUhyX3g1RFJfMktXMjVBS3JQOVA2aE05QU5DMWhfeFJUNzZoMlFNbHB5VDlkN21VOF9lQW4xUm1odW9BTmdocnFjRi1kTlNxb0VkV012RjdXZzFBUDFIcHBiUjRZZUxsSG1VRmxOSXpkNm5nZ0dDODJtRXVydGZMemIyRE05MElQVXJFNlAydTZaMVJqcmNwdHd2UUQxdTVLU1lDYXZYN2RCTEZ5Sg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-23",
-      "summary": "Amazon plans to spend $12bn on Louisiana data center campuses, developed by Stack Infrastructure &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
