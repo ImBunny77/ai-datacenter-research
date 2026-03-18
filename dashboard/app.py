@@ -1693,7 +1693,7 @@ st.markdown("---")
 # TABS
 # ════════════════════════════════════════════════════════════════════════════
 
-tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs([
     "Overview",
     "Deals & Capital Flows",
     "Active Projects",
@@ -1703,6 +1703,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs([
     "Who's Bullshitting",
     "Live Intel",
     "Project Map",
+    "Data Assistant",
 ])
 
 
@@ -3204,3 +3205,72 @@ with tab9:
                 f"  |  ${_vis_capex:.0f}B total CAPEX"
                 f"  |  {_vis_locs} locations"
             )
+
+# -----------------------------------------------------------------------------
+# TAB 10: DATA ASSISTANT
+# -----------------------------------------------------------------------------
+with tab10:
+    st.markdown("### 🤖 Data Assistant (Local Search Mode)")
+    st.caption("Ask questions about the projects, financials, and deals in this dashboard. This is a local keyword-search assistant that reads directly from the dashboard datasets.")
+    
+    if "chat_messages" not in st.session_state:
+        st.session_state.chat_messages = [
+            {"role": "assistant", "content": "Hi! I'm your local Data Assistant. Ask me about hyperscaler CapEx, specific projects (like Colossus), deals, or market stats. I'll search the dashboard's data to answer!"}
+        ]
+
+    # Display existing messages
+    for msg in st.session_state.chat_messages:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+    # Input and response
+    if prompt := st.chat_input("E.g., What is Microsoft's CapEx? or Tell me about Colossus."):
+        # Append user message
+        st.session_state.chat_messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        with st.chat_message("assistant"):
+            q = prompt.lower()
+            results = []
+            
+            stop_words = {"what", "when", "where", "which", "who", "whom", "this", "that", "these", "those", "is", "are", "was", "were", "have", "has", "had", "do", "does", "did", "tell", "show", "give", "about", "project", "projects", "company", "companies", "data", "center", "centers", "can", "you", "me"}
+            query_words = [w for w in q.replace('?','').replace('.','').replace(',','').split() if len(w) > 2 and w not in stop_words]
+            
+            if not query_words and not any(kw in q for kw in ["capex", "spend", "deals", "flows", "capital", "margin", "profit"]):
+                response = "Could you be more specific? Try asking about a company (e.g., Oracle, xAI) or a topic like CapEx."
+            else:
+                for p in ALL_PROJECTS:
+                    if any(kw in p["company"].lower() or kw in p["project"].lower() or kw in p["location"].lower() for kw in query_words):
+                        results.append(f"- **{p['company']} ({p['project']})**: ${p['capex_b']}B CapEx in {p['location']}. Status: {p['status'].split('—')[0].strip()}.")
+                        
+                for f in FINANCIALS:
+                    if any(kw in f["company"].lower() for kw in query_words):
+                        results.append(f"- **{f['company']} Financials**: Revenue ${f['rev_b']}B, Margin {f['margin_pct']}%, 2026 CapEx ${f['capex_b_2026']}B.")
+                
+                for v in VALUATIONS:
+                    if any(kw in v["company"].lower() or kw in v["verdict"].lower() for kw in query_words):
+                        results.append(f"- **{v['company']} Valuation**: ${v['mktcap_b']}B Market Cap, {v['ev_rev']}x EV/Rev. Verdict: {v['verdict']}.")
+                
+                if "capex" in q or "spend" in q:
+                    results.append("- **Overall 2026 CapEx**: Expected to be ~$700B (+36% from 2025). Amazon $200B, Google $180B, Microsoft ~$120B, Meta ~$125B.")
+                if "deals" in q or "flows" in q or "capital" in q:
+                    results.append("- **Capital Flows**: Tracking massive circular flows, including OpenAI's $1.15T in 10-year commitments and Microsoft's $13B deployment into OpenAI.")
+                if "margin" in q or "profitability" in q:
+                    results.append("- **Margins**: NVIDIA leads with ~60% DC margins. Microsoft Intelligent Cloud sits at 43%, AWS at 34.6%, and Google Cloud at 23.7%. GPU rental economics are currently tight ($1.50-$2.00/hr for H100).")
+                
+                # Deduplicate backwards to preserve order
+                # (converting to dict and back preserves insertion order)
+                results_dict = {}
+                for r in results: results_dict[r] = True
+                results = list(results_dict.keys())
+                
+                if not results:
+                    response = "I couldn't find specific data matching your query in the dashboard's datasets. Try searching for a specific company like 'Microsoft', 'Oracle', or 'Meta'."
+                else:
+                    if len(results) > 6:
+                        results = results[:6] + ["\n*(Showing top 6 results to save space...)*"]
+                    response = "Here's what I found based on your query:\n\n" + "\n".join(results)
+                    
+            st.markdown(response)
+            st.session_state.chat_messages.append({"role": "assistant", "content": response})
