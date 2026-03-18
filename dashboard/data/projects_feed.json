@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-18T05:26:43.622071+00:00",
+  "last_updated": "2026-03-18T07:04:15.731623+00:00",
   "finding_count": 600,
   "new_project_count": 73,
   "cancellation_count": 16,
   "sec_filing_count": 1,
-  "high_confidence_count": 164,
+  "high_confidence_count": 165,
   "findings": [
     {
       "id": "a662b4ef57a673",
@@ -92,33 +92,11 @@
       ],
       "locations": [],
       "amounts": [
-        "$27 billion",
+        "$27B",
         "$12 billion",
-        "$27B"
+        "$27 billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3a6dc83c63e0a6",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-17",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "1GW",
-        "$10 billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -212,10 +190,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1.64B",
-        "$143 million",
         "$143M",
-        "$1.64 billion"
+        "$1.64 billion",
+        "$1.64B",
+        "$143 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1884,6 +1862,28 @@
       "is_high_confidence": false
     },
     {
+      "id": "3a6dc83c63e0a6",
+      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-15",
+      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "$10 billion",
+        "1GW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "0efba34f1bc05a",
       "title": "GTC preview: Inside the AI factory — The $1T infrastructure war under the hood of the AI economy",
       "url": "https://siliconangle.com/2026/03/14/gtc-preview-inside-ai-factory-1t-infrastructure-war-hood-ai-economy/",
@@ -2058,8 +2058,8 @@
       "id": "a1d8885aa4b4df",
       "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-03-13",
       "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
       "finding_type": "New Project",
@@ -6558,6 +6558,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-05",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6461591231a9f0",
       "title": "Donald Trump accelerates construction of AI infrastructure as Florida stands poised to restrict data centers - Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUVUN2N6Y3RtbVJfenN1a2N6d2RjMm5tSzZYUFBkMkE5WTd5R0tVNTh1WHFON3VXR1BOS0lEWHBpeEtXV1hDY0stZW42SW1ia3VSMXdCLUg5R2d3WWd1azhZbklNcWdnazVoaFdEZHFmSmRESGZDM0lvY3oyT25vUlpQMFdscE5rc2hwNUc2LUw2b1pYRzZNbzZ1ejJRMmItVXp4MTB6cXZ1a0ZYd1BkNE12MG82QUQ5MmNtX3k3WkFHaHFCY01maWRtendoN2o2Uk1qWHg3TFdqaXRNNENicWFBcGJXWlow?oc=5",
@@ -6570,21 +6585,6 @@
       "locations": [
         "Florida"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8877,6 +8877,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "5bd227069232c4",
+      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNanZGWUhjdlFBMkMtZzNQZVFlY3l5eC1hR3dEcV9TOXBqSFpfWHZPanFLeDRCYmlsWTg2R1h1aGlLYlpJOUdxN0dvcVJYWjZ3amF2RjdZUTIxZW5ZNnNHSnJSc3VpdE9ZTVdzQWxvZ0FwZ25ZaTZXc19yNzRBVV9sMF9LN3RQSmZYeWlGTXZWeHR1ZGJLTjRoSXR5dlBraGkwLXhQLTRJaklwOHFRT3hOdDdvMVBxVUdPNi1JNWtsd2RQRjFLTnhNVVlCNzltbE5YOU96TVViSFRrWWhtY0d1a1g4Z3lMcjhqSzE5OVYzam41N0VsbmtoZnFpQWswci1YX1B4U2ZadldVRjBFSTBFZEhlaGY2b3BCZTV4bXFqQ1RHY3BXVEczQm5zNGJXOFJpSmU5U2FfUnJRZU5xZ2h5VkpkeEJNZ2htQU1zdHZIZ3ZVcEVlN1FlTk1BdU8ydVpTSzVVT1hKc2xqSVlKSVpjZ0ZPbnBaS1dLRTg4STBkREZHUWx4WVVTVHVFeF9RZVVDR1RHa0w0MHFOYTNLdkNidGFFcUd4Mk1nVUNXLXBtTnFmVWNfbWNkZ3NXQkZvZ0E?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-02",
+      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "$40 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "3c9392b9256801",
       "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPRERPUEhVWWFvUnZsM21RSkh6elVDVDdLd0JPOUE4NWdiSGVHYnNFUF9aOGFOaE9NdjNlZ21ENExsQlFWbm5FTEY3MmItSGlNczByc0dJRnVYU0FXbng0RW1kY2MyVWk3d2kzWTZidVh6aDRLcWk2NmMzQUNxYlk0U3NVQ0FRRGtqeWtkaF9BOHcyOXVYb0YzXzdBV1JaaHBVMXJKVklrQnhHUTB4ekJGUG44QWNxd2hpdTYwQ1QzV0lDTk5YVDdRUFMzSmZWTF82WDhUVlJBd1BMMHFtVGR0WXh3Wjl5eXFicjRxV0ctOXpzV21UWUtkX3pZZWlpZlMtS09iQWJUcmE5b0x2U2E1WjdQVHFrTkZ3b2QzWkVoWEFKOHlXNGowM0UxM2J0X3RhWEU0eG91OVA4b1FlWlYwaUU0QnZuZllIU05KclZHekl6SVRFRXNjRFpna0JZcW5YWFBtcHU4c0JFNWt5RjFfZHU3RjRiN0pRdkpUQ05PZnRsZHZEQkJsLW5yWWhrY0dLVG0tSUhwSVdQamtUV2EzM0F1UzZRN05McEgwV2kzRHR5bFVQUG5iQk1uVjVhM3c?oc=5",
@@ -10481,23 +10502,6 @@
       "locations": [
         "Louisiana"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ef8a53d7017db",
-      "title": "Nvidia set to report strong results and guidance - Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zOTdPMmZYSzdOeVN1WVhtYVFUX1VUVTZxVXVZbzFlNUE1OUhMemM4TW54OTJYRjV5bkZrYnQxcGdILU1NTWZSZUxzYUJla0RMUUV4a21FZ3hPZVBNVEVPNWNoVFYxQ2pKSDFWRXhkOGRMNjM0dlk4bw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-02-25",
-      "summary": "Nvidia set to report strong results and guidance &nbsp;&nbsp; Latest news from Azerbaijan",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
