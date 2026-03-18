@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-03-18T13:16:50.742141+00:00",
+  "last_updated": "2026-03-18T15:04:54.409825+00:00",
   "finding_count": 600,
-  "new_project_count": 73,
-  "cancellation_count": 17,
+  "new_project_count": 72,
+  "cancellation_count": 16,
   "sec_filing_count": 1,
-  "high_confidence_count": 169,
+  "high_confidence_count": 170,
   "findings": [
+    {
+      "id": "fdc7d479c55335",
+      "title": "AWS files to develop data centers in San Antonio, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-files-to-develop-data-centers-in-san-antonio-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Total investment for two projects to reach $90m",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$90m"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "cec60be8e305e0",
       "title": "Google confirms 1GW data center campus near Detroit, Michigan, partners with DTE Energy on 2.7GW power generation",
@@ -120,6 +141,55 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2628008e3379a2",
+      "title": "200-acre 'Project Azalea' data center approved",
+      "url": "https://www.datacenterdynamics.com/en/news/200-acre-project-azalea-data-center-approved/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Construction estimated to be completed in 2029",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5ebed1eacf6944",
+      "title": "Iron Mountain eyes seven-building data center campus outside Austin, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/iron-mountain-eyes-seven-building-data-center-campus-outside-austin-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Company plans first data center in Lone Star State",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "605dfb71db636f",
+      "title": "Akamai deploys Nvidia \"AI Grid\" across 4,400 Edge locations, claims to be first",
+      "url": "https://www.datacenterdynamics.com/en/news/akamai-deploys-nvidia-ai-grid-across-4400-edge-locations-claims-to-be-first/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Spectrum, Comcast, AT&amp;T, and Crown Castle follow suit",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -306,9 +376,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$12 billion",
         "$27B",
-        "$27 billion"
+        "$27 billion",
+        "$12 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -386,8 +456,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$600 billion",
-        "$600B"
+        "$600B",
+        "$600 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -405,8 +475,8 @@
       "locations": [],
       "amounts": [
         "$143 million",
-        "$1.64 billion",
         "$1.64B",
+        "$1.64 billion",
         "$143M"
       ],
       "confidence": 6,
@@ -655,55 +725,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9f0a9a014be29b",
-      "title": "Fossefall eyes data center in Rollag, Norway - report",
-      "url": "https://www.datacenterdynamics.com/en/news/fossefall-is-reportedly-looking-to-develop-another-data-center-in-central-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Company targets former Kongsberg Våpenfabrikk automotive plant",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d7a1b7f00eb82",
-      "title": "Norway's Østfold Energi targets data center developments south of Oslo",
-      "url": "https://www.datacenterdynamics.com/en/news/norways-%C3%B8stfold-energi-targets-data-center-developments-south-of-oslo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Utility developing sites in Sarpsborg and Valer",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "34783f564e3812",
-      "title": "Storage wars: Is this the end for hard drives in the data center?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/storage-wars-is-this-the-end-for-hard-drives-in-the-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Could the shortages facing the HDD market ultimately lead to the technology being replaced?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "23a65b173e3f1a",
       "title": "OpenAI, Mistral AI release new hardware-efficient language models",
       "url": "https://siliconangle.com/2026/03/17/openai-mistral-ai-release-new-hardware-efficient-language-models/",
@@ -909,6 +930,55 @@
       "locations": [
         "Michigan"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9f0a9a014be29b",
+      "title": "Fossefall eyes data center in Rollag, Norway - report",
+      "url": "https://www.datacenterdynamics.com/en/news/fossefall-is-reportedly-looking-to-develop-another-data-center-in-central-norway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Company targets former Kongsberg Våpenfabrikk automotive plant",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9d7a1b7f00eb82",
+      "title": "Norway's Østfold Energi targets data center developments south of Oslo",
+      "url": "https://www.datacenterdynamics.com/en/news/norways-%C3%B8stfold-energi-targets-data-center-developments-south-of-oslo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Utility developing sites in Sarpsborg and Valer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34783f564e3812",
+      "title": "Storage wars: Is this the end for hard drives in the data center?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/storage-wars-is-this-the-end-for-hard-drives-in-the-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-17",
+      "summary": "Could the shortages facing the HDD market ultimately lead to the technology being replaced?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1376,8 +1446,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1 Trillion",
-        "$700 Billion"
+        "$700 Billion",
+        "$1 Trillion"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -2607,8 +2677,8 @@
       "id": "a97cdd0765bec4",
       "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-03-13",
       "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
@@ -3020,6 +3090,23 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "e4b1cfc295f61a",
+      "title": "$2.1 Billion SGI-HCM AI Data Center Campus Breaks Ground in April, Vietnam - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVHo3UGZRaFFmSE5LVUR6clpZT096c2xTSlZZQXA4R2JPbl85YkNNOVlRSjZidDU3dXc5RzBGS09mWEdEVDg3SEJxWUZSTnFoQnFGZHh6YnF6MTczZXVyWmFuaFRoVFRaQ1BTZkJDTkxrQjFyaUNxaTB0cUFhT0xMR0E4ZDd0RGJwYWRlekFlZnpFWkVZYjlyTW95NjRzbWdOUklabVhrY3dfOVd0LUw3WHQ5RkhERFFPaHVHQmprT3dmdHpQTDBlNmFB?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-12",
+      "summary": "$2.1 Billion SGI-HCM AI Data Center Campus Breaks Ground in April, Vietnam &nbsp;&nbsp; Construction Review",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$2.1 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
     },
     {
       "id": "3d597e2edb742d",
@@ -9109,6 +9196,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "8058f8a330765f",
+      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNLUVsaktUczFtZWhXaVlRVG9KOXUtR3QzbVctR2RpTTNzWVNSbHRUNUI0VThaS1NwTkUwZTRJcF9kc3RhSlpMTmExUTR5REJDYVJmU19RTW9KMVFrUW5ReVEyejdjWGM2c0MxSjhuTnNDVER2Ti01SWxEaVdDTWtnV0xEaExoRzdRMlZZLXhzZ05WR3BrLXkwazZFVHREVWNONkd6MnpNSlp3cHQ3U0ZSZzBMZnAzblhjWHI0Y2l3d0F2VWpSQ2x2N3Q4RGRRaG9LbTRaSnNCdEw2eWFKVjZCTEczRzh4TDNHT0ZvSkEtUGFLMlF5U2p3NjhrS2o2Z1FEaGgwX3VHbGN3UWhYTUVVLUVDcHBUM0pKMUZYd3MtV3dlZERiQTdOeEJKT0FrTVdLblFubEh3QldZZlhJS1VpeUFDYXBCbUZyN2p1MkdKQTg4Ym1XcWthRUZmR0VZRzRrQzBVcmVneFk1eFM3Q1QyV1dtR2xaSFR5R1lSWDFsdHNJX29fVVp5dnNHaDd6MmFYdm9wYkxsbW9XbzZFRlU2d0k0b3ppd0xEaUxyejlWNzdSZFotbUhDUzhRRTl4ckU?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-02",
+      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "$40 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "e038af0669b116",
       "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPZmJ2TGNUMXdtanppLVpYajRsc2tLZ3lIZGxlX3d4N21CNmNZWXJpd1M5WXZMdEhyRlZqT1ZJVy1LQW1SODlFR2VILUFNTnE4RUx2LWd2WnhoWjdzQzRWUEJzUmFtQ0cyVE4tclFIQkRGNF8xR0lEaDlMQ3BnV0dxZDRDcHlGTTlaQ1FxaFlwemlRR0dXdjlTTlhXd3A3M09WMnpmTFlaVWw2SDhaU09xelBqTjhJT1lUX1dtUTVnTDVfOWNZUGxfRDFhOTIwcXJ5dGI5eDJtblRuZ0h6QWlmUUJ0d2wwdXB4cjFvSkFyWHpSamU0YXcxcTFFalpkM3dsQ3ZidjVoNVM4dmg4SFpTX2JqSlVMRXkzWlZMUDRUc0wzVzNJOWxSUlRrYWZQNktremM5ZU45WWoxQTJqR0sxZUtiTTZBZkNSREF5MVJISlRBVWpad3RWTW9mX1JockRRci1tdWZYN053TU9DZndpa0k4NklVVlpHMDdNRW9Ja0RrMXJ2WFp4dTUzUXZiSlFBbXk5ZkpoQVZSVkpDVWZnYnZVYnpTUUIyNGI0SkRKdG1sMlJ6U2lHQVdzWDNlTDg?oc=5",
@@ -10402,116 +10510,6 @@
       "companies": [
         "Microsoft",
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "14296c0bc84da7",
-      "title": "OpenAI and Amazon announce strategic partnership - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS0YwTXV4SlM4LWlrMHU1UTBfLWV3aUx4RkdmelQ5QllaWXhlUU9Sb3d4MTZiRUxnRFEtVjBKMmF1aVpVVGpGNVJRT01nSmN3YlJpQjUtVmJmdnJZVWVCM1E4eW1aRmRiSTdKS1hjMEZLbDJHNVFFOEl0eXBhNWI3Q0RiMlhyTFJJOW9IZg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-27",
-      "summary": "OpenAI and Amazon announce strategic partnership &nbsp;&nbsp; About Amazon",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "385913dc7176f1",
-      "title": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iMUVvUFRUZkNwUkNRMVFvdnJwOFJNZ1ZjRWNTRnM3Zk1SeG5EczRmbjJQaHRWVGVNQThGTkdJUkZVNWhGS0o0cmlHM2s4Nlc0UHQtMXZyWWtkQi01NEtweG1jSl93MjJHdUhUMTMzYi1uVVdJa25DLTR30gF_QVVfeXFMTklPWGFvaE5KcVY5cjFQU2EwbXNsRFlBQVFSODhXNEhXcmdTWEpfRHBYUjFSa0ktcGdrb0kwa3pmbHpmYVY0LXB5VDdhb0x2RXlSMGpEd3A1NE1QZTZNUnoxU2hfdWlFdUs3cURPZmNpUmhFX1B2VU1vcnZTYWJLMA?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-02-27",
-      "summary": "How Amazon's massive stake in OpenAI could boost its AI and cloud businesses &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "514ec1d4dc825d",
-      "title": "Google to invest $40B in Texas data centers in major AI push - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT1VYSlRwOFkwUEFUQ3Zrczl0S2NBdkgxemc2c0NEV1NkTTllZEtfT0c1WGJuZHVGalBoSmpQb2g1SnpxcnlBYlRpb0pmRWdmcjROU1o0aHFfUVBpV09ZS2M4QkNJZnBCM09SUnc5aThJeXpZRkZtMDZpUXBlYjZqa2hOY19DSWVqTG1vYXVxLVNFa2hIVkdNM3lpaHFwTlY2b3FVTjdsV0FUN1dYUGJBY01IUk1rMTA4SkVnWHdSTE5SQnFZcFdxQmkxY0ZxTEV2X2JOS0hsaUE3UEJQWHBGLWRRalg3NHExVmIwUUpmU0hJa1k?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-02-26",
-      "summary": "Google to invest $40B in Texas data centers in major AI push &nbsp;&nbsp; MSN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$40B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0ff2258caa433b",
-      "title": "West Virginia governor announces $4 billion private investment for sprawling data center - WCHS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDBCdUVWQXFQVGpQeU13QnYtZmRYdy1saUI2bU01Qm5OVzZCZnA5alQ0c0tJc2FZZFpydU1oeVRHLXdrYThaZUpWQ0x1dFZIVTZ5SUFBdGx5UUhEUEs5c2pIbWJ6V25MS3VLcHdpMXJVVjR1eG9MX1BEbnoxME5odTEyMG9QV2phektwSlRhWFY0cHFWcklOU1p0WDNRcTFKTkxNQjFZSEp0ZWZYRXJDamZIUXc5NlFC?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-02-26",
-      "summary": "West Virginia governor announces $4 billion private investment for sprawling data center &nbsp;&nbsp; WCHS",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "West Virginia"
-      ],
-      "amounts": [
-        "$4 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f5bcde4466dcc4",
-      "title": "AWS Security Hub Extended offers full-stack enterprise security with curated partner solutions",
-      "url": "https://aws.amazon.com/blogs/aws/aws-security-hub-extended-offers-full-stack-enterprise-security-with-curated-partner-solutions/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-02-26",
-      "summary": "AWS announces the general availability of AWS Security Hub Extended, a unified, full-stack enterprise security solution. It brings together AWS detection services and curated partner solutions through a single, simplified experience.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5b821af302e067",
-      "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
-      "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-02-26",
-      "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
