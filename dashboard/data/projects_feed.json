@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-19T02:27:09.561776+00:00",
+  "last_updated": "2026-03-19T05:23:32.189818+00:00",
   "finding_count": 600,
   "new_project_count": 67,
   "cancellation_count": 16,
@@ -18,8 +18,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1.5B",
-        "$1.5 billion"
+        "$1.5 billion",
+        "$1.5B"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -1540,21 +1540,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "73fca141968611",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-16",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "2bacf9cc8b0f63",
       "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - Caldwell County, NC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV2NpWFRDRVpMd1I0RE5zWGdUemVGWUU1dHA3N2tIT2pGSjRhZHE5eXNiSmlySi12bm9yemVhUWM3Y283UWxUTXJ5QlVqU2xiUEoxWnVQOEVfcFZxU2hfSWIySmdlMkxN?oc=5",
@@ -1572,6 +1557,21 @@
       "amounts": [
         "$1 Billion"
       ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -1737,8 +1737,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$700 Billion",
-        "$1 Trillion"
+        "$1 Trillion",
+        "$700 Billion"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -9487,6 +9487,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "d57b6e40b90967",
+      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQM0ItWnprdU43X28tM0J6ejg0U3dtVEhIUHlMQWFoS3JHUFoydnZKcV9fb1RvWFNRLW5jMlhmRE9yVlh0b204RnRGSlRjdk9CNmlESmFVc09rVkRaVE1PMEVmWlNFNFRsNmV3UUhUWFJqSF9lLWNIemdhNUdLTzI5ZHYySWJyTURzeUg0N0dfczFSYzl1cDRQYnpvTWRzNXJaQk5HRHRnUzFFbjdLa0czMWdqR3p2YVdXakhBUk84UzRvcWg4cFVnc1Vhb2Eyc1U5WFFGWHYtS25tVFFmZGRJeW5LS2pIczZNSHdIU0xnbnVWQ0g1c1RVZDBzWlRxYzR3azh0NmpvRG1aeWxHZjE1NW1laTFnVWU4dHo2NnhFS3RMT1BIREtUVjZRTFM4eWxiZ0oyYmNuQnlPMWQ4cjdJT0E5OWMzTE5xc19pTVk1LV9FVmFvYlBVZVV5VGpDR0VPUlFYbTFKUmZmX3VzUnhBYXU2M1g4ZndHaXhzMlNtX1hvZXA4YlZOd3FLWWdZUVNNT0VWWERwZkZlbDVpXzZMajVhVHhOYzkxdWdRWFpsa2cwUFRfNnQ5akdpRTdwdlk?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-02",
+      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "$40 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "a2cdf8bc1f45eb",
       "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNUEJWM21FM0lYN0hMNnRkSG1MQUVpdEcxS3pCWlpESFZpR1ZPdFVCWnpWc1h6VVdFeXZ1TGVqbDNEZjZQdUJZRjQ5cnZaekNxQWw0NkstcmJHQjdET0MtdVFHZ1ZQcm4xa1VPbXNIRzdjYmg3bUhPd1B6eDl2dTdieFAzOEUyaHBjNTg0S29pTE1CaUJMTmp6MzZtV3dRcWg1bWplZFp0b0tnX3h1TmswSUxZcnRsemNRcF9kWTZTS2wxaGY4X3J4NkVFSHJVQkloNEhQWVd3SEdDNzA1bDdGTWZJRlEwZXNHQXpSQkZFRFNzcTViWEZQNTlLOVZMazlVSW5aZ2J5OVQ4dUZOOG1KczhSbE5SczBjMDRqMG8wZUdWV2ZuSDZ4cG8xUm5iZFcxZFdicXB0ek1nYXVmR2tkanhHdkx5akg3TXdhTUUxUS1yOHNtMm9RVmF3MWl5Sy1vTS1yRzBaR1JxNGFfU0VoaUtuVV9uOTN6Nm9ZbDBoMW5qWXdRb1E2cW41QzlfcF8tdWp3RmdRSlp2SjAwSkx5b09XalJOR05lMkRIS1AtM3dwUHNiV1ZNUzUyTVM0WTA?oc=5",
@@ -10475,27 +10496,6 @@
       "id": "118ab6ff914f73",
       "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQd2F0ZkUzcGZQdXRaYmo4TG1DY3ZsTGllZUZQZFVZWE9wUkU4SnNvUGZJLTdsR0RVUmVoQkprZnNacl9jazYweFMyeTJpR0VyNl9laE8wRkd3dy0wU1RBTG5jZE5NWmNvcTRyNEpEZVRwQWs4LVRFTUF1SFltMi1RaDg2Y1NlT1E3MkRKYV83WTBzSDRmQUdSN3FldXhiRWZ5RldYa3hvQ1I2ZnVlaFhSOXdNeUpydGNMNEFhSUdoNTZBQU9iSTg1WF9ScHN3eFpmZWlnQ1RGYUhrd0UtSjBXUDd2aDRWa1JCdkhkNXpCQW8tdktwSkd0RkJKcGxrelZWbHlHMnVaODRUaURHek5JZXB6ZUstZWZqMVYycFhlcmhpcEVwMU9ZY0laMGZtcFZtbS1kTUxfUzBWYWJBRW1BTGxPTUhTS3E3T2ZIQUdaTExSWTkzM25aaEZ3Q254SjlWRlFKcWRPMzVRcWZMMDdBa3FXYjRLUWNObmxkV194aUZ0MGFkQUxoVHN5T09pY3dENFFDRGRITnJJdnZwa1VoVFZRTFlUZmljUm9IVkpPbUhmR3RtbllMM0pYLVIwMFU?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "814d7335317832",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOMkhmT2tsMjZkcGxLQWpfUG5CdmFaVTl4TmVpbVh3TmFqajhJSEtxTWlncWpVZWhHa3NIbGVib1BuTFlvTjVtYW5PaWRMTldpU3d5Q0plUHlSZHVIZzkzY043LW9TaXZDY0tST0NWbEo4TnFGUEtnS2lmUkVZRWtISEFITm5YMFZaM2dlY3RVWUxLUExiSzdsMDZRWENRUkVqMGc4a1hmNUhoUGlBNnVCZHR0MEZZNmpHcVFCaWUxbGViMVNBTGNla0dNTFJDNFVkc2lZczJfbkxOcDR6eS1xeXRQRW5NNmo0aHFIXzhDVEhWZDdTaVpLdlB0YWVxSXBnQ0xJZEJKZTNJTGs1N1FLWndub0JhUU0ybU0wSUpRNkswSF9tNmlJZUhlTDQ2Y01zTV9vcmxkZ1dHeUpRZ3lWSURha3IxdVBxTFZaMFlwdzdZaG51SVRPemgyaW1POEY0QVgtWlJBblVRQy1TdjVMRWhEeTdyU3lPcW95NDgyZTFoeDAzbUl3dmNUNmxRVU5mcVJvZlNyMG9MWm5rSFdKSzVDblhMMFJ0TUJERzg5LVNNWHV6T0NJVDB0dkRMOVE?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-03-02",
