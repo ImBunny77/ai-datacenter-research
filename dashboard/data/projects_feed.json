@@ -1,11 +1,115 @@
 {
-  "last_updated": "2026-03-19T10:42:21.303059+00:00",
+  "last_updated": "2026-03-19T13:08:46.277226+00:00",
   "finding_count": 600,
-  "new_project_count": 67,
+  "new_project_count": 68,
   "cancellation_count": 16,
   "sec_filing_count": 1,
-  "high_confidence_count": 163,
+  "high_confidence_count": 157,
   "findings": [
+    {
+      "id": "5ad4d4ef5e3d73",
+      "title": "Gigawatt-scale data center planned for Choczewo, Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-planned-for-choczewo-poland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "The 3.2GW facility will be constructed by WBS Power",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
+      "amounts": [
+        "3.2GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e8627505e56be9",
+      "title": "NTT Global Data Centers working to double capacity in two years, says CEO",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-global-data-centers-working-to-double-capacity-in-two-years-says-ceo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Business will offer \"well over 5GW\" in five years",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "5GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "613c7c1fe125e7",
+      "title": "Liquid cooling vendor Frore Systems raises $143m at $1.6bn valuation",
+      "url": "https://www.datacenterdynamics.com/en/news/liquid-cooling-vendor-frore-systems-raises-143m-at-16bn-valuation/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Says its novel coldplate can unlock efficiency benefits in AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$143m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5cc8ed47168a60",
+      "title": "Shinsegae Group and Reflection AI to build 250MW sovereign AI data center in South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/shinsegae-group-and-reflection-ai-to-build-250mw-sovereign-ai-data-center-in-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Will offer compute to government and enterprise clients",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "250MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "89cc9365a697c3",
+      "title": "Microsoft unveils micro LED innovation to halve data center energy use",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-unveils-micro-led-innovation-to-halve-data-center-energy-use/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Could be cheaper to manufacture and more durable, as it is less sensitive to environmental factors",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "458ac465ab7d88",
+      "title": "Microsoft swears off NDAs for data center projects",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-swears-off-ndas-for-data-center-projects/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Expands on its \"Community-First AI Infrastructure Plan\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
     {
       "id": "bb8b1914f57a1f",
       "title": "On-demand GPU startup Andromeda raises funding at $1.5B valuation",
@@ -22,6 +126,72 @@
         "$1.5B"
       ],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7ddaba39ad9b91",
+      "title": "A new milestone for smart, affordable electricity growth",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/demand-response-data-center-milestone/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-19",
+      "summary": "Google’s data center demand response capabilities support the grid",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d81a5c9ca5ae4e",
+      "title": "Rubrik unveils Google Workspace protection offering with rapid recovery and air-gapped backups",
+      "url": "https://siliconangle.com/2026/03/19/rubrik-unveils-google-workspace-protection-offering-rapid-recovery-air-gapped-backups/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-19",
+      "summary": "Cloud data management and data security company Rubrik Inc. today announced the launch of Rubrik Data Protection for Google Workspace The new security offering, Rubrik says, allows the more than 11 million enterprises using Google Drive and Gmail to use Rubrik features to help them achieve end-to-end cyber resilience. Google Workspace holds mission-critical data for millions in organizations [&#8230;] \n The post  Rubrik unveils Google Workspace protection offering with rapid recovery and air-gap",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1b238c51cd11a8",
+      "title": "Data center site outside Amarillo, Texas, evacuated after nearby grassfire",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-site-outside-amarillo-texas-evacuated-after-nearby-grassfire/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Smoke forces people to leave site after car crash starts grassfire",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3501e2ca81e793",
+      "title": "Ciena: demand for low latency brings hollow core fiber into play",
+      "url": "https://www.datacenterdynamics.com/en/news/ciena-demand-for-low-latency-brings-hollow-core-fiber-into-play/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "And this will support the data center industry to keep up with the demands of AI",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -277,107 +447,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "aa53177bc2c9c7",
-      "title": "DCD>Talks: How AI facilities change operations, with Jason Hoffman, Switch DataCenters",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-how-ai-facilities-change-operations-with-jason-hoffman-switch-datacenters/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Kat Sullivan speaks with Jason Hoffman of Switch DataCenters on AI-driven operations, exascale facilities, high-density systems, and integrating power, cooling, and grid infrastructure for reliable, efficient performance.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f9747380a52b01",
-      "title": "Building the next generation of data centers: Where industrial expertise meets digital urgency",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-the-next-generation-of-data-centers-where-industrial-expertise-meets-digital-urgency/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Crises reshaping data centers and the industrial DNA advantage",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "12987d5c3c8e32",
-      "title": "SpaceX’s Starlink asks Ofcom for permission to build two new Earth stations in London and Essex",
-      "url": "https://www.datacenterdynamics.com/en/news/spacexs-starlink-asks-ofcom-for-permission-to-build-two-new-earth-stations-in-london-and-essex/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Starlink targets new gateways, data centers, in the heart of England, according to Ofcom docs",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "812ddc5fdb7d01",
-      "title": "Ciena and Meta claim record-breaking subsea transmission speed",
-      "url": "https://www.datacenterdynamics.com/en/news/ciena-and-meta-claim-record-breaking-subsea-transmission-speed/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Trials see 800 Gbps deployed on undersea optical link between Singapore and California",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "California",
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "89f20005e18637",
-      "title": "200-acre 'Project Azalea' data center approved outside Augusta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/200-acre-project-azalea-data-center-approved/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Construction estimated to be completed in 2029",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ebed1eacf6944",
-      "title": "Iron Mountain eyes seven-building data center campus outside Austin, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/iron-mountain-eyes-seven-building-data-center-campus-outside-austin-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-18",
-      "summary": "Company plans first data center in Lone Star State",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "862c7e64e8862e",
       "title": "Researchers discover zero-day DarkSword exploit chain in iOS 18",
       "url": "https://siliconangle.com/2026/03/18/researchers-discover-zero-day-darksword-exploit-chain-ios-18/",
@@ -512,6 +581,107 @@
       ],
       "locations": [
         "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aa53177bc2c9c7",
+      "title": "DCD>Talks: How AI facilities change operations, with Jason Hoffman, Switch DataCenters",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-how-ai-facilities-change-operations-with-jason-hoffman-switch-datacenters/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Kat Sullivan speaks with Jason Hoffman of Switch DataCenters on AI-driven operations, exascale facilities, high-density systems, and integrating power, cooling, and grid infrastructure for reliable, efficient performance.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f9747380a52b01",
+      "title": "Building the next generation of data centers: Where industrial expertise meets digital urgency",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-the-next-generation-of-data-centers-where-industrial-expertise-meets-digital-urgency/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Crises reshaping data centers and the industrial DNA advantage",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "12987d5c3c8e32",
+      "title": "SpaceX’s Starlink asks Ofcom for permission to build two new Earth stations in London and Essex",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexs-starlink-asks-ofcom-for-permission-to-build-two-new-earth-stations-in-london-and-essex/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Starlink targets new gateways, data centers, in the heart of England, according to Ofcom docs",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "London"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "812ddc5fdb7d01",
+      "title": "Ciena and Meta claim record-breaking subsea transmission speed",
+      "url": "https://www.datacenterdynamics.com/en/news/ciena-and-meta-claim-record-breaking-subsea-transmission-speed/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Trials see 800 Gbps deployed on undersea optical link between Singapore and California",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "California",
+        "Singapore"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "89f20005e18637",
+      "title": "200-acre 'Project Azalea' data center approved outside Augusta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/200-acre-project-azalea-data-center-approved/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Construction estimated to be completed in 2029",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5ebed1eacf6944",
+      "title": "Iron Mountain eyes seven-building data center campus outside Austin, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/iron-mountain-eyes-seven-building-data-center-campus-outside-austin-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-18",
+      "summary": "Company plans first data center in Lone Star State",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
       ],
       "amounts": [],
       "confidence": 2,
@@ -775,8 +945,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$600B",
-        "$600 billion"
+        "$600 billion",
+        "$600B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -931,23 +1101,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "00af5fbe294156",
-      "title": "Hammerspace storage platform feeds distributed data directly to GPUs",
-      "url": "https://siliconangle.com/2026/03/17/hammerspace-storage-platform-feeds-distributed-data-directly-gpus/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-17",
-      "summary": "Hammerspace Inc., an eight-year-old startup that provides high-speed access to distributed data, has introduced an artificial intelligence-focused data platform that prepares and delivers data to AI systems without requiring large-scale data migrations or new storage infrastructure. The company announced general availability of its AI Data Platform at the Nvidia GTC conference this week, positioning the [&#8230;] \n The post  Hammerspace storage platform feeds distributed data directly to GPUs  a",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "1c8357f31a409e",
       "title": "Trump's plan to shut down weather and climate center triggers lawsuit",
       "url": "https://arstechnica.com/science/2026/03/university-group-sues-trump-administration-over-shutdown-of-climate-center/",
@@ -958,6 +1111,23 @@
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "00af5fbe294156",
+      "title": "Hammerspace storage platform feeds distributed data directly to GPUs",
+      "url": "https://siliconangle.com/2026/03/17/hammerspace-storage-platform-feeds-distributed-data-directly-gpus/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "Hammerspace Inc., an eight-year-old startup that provides high-speed access to distributed data, has introduced an artificial intelligence-focused data platform that prepares and delivers data to AI systems without requiring large-scale data migrations or new storage infrastructure. The company announced general availability of its AI Data Platform at the Nvidia GTC conference this week, positioning the [&#8230;] \n The post  Hammerspace storage platform feeds distributed data directly to GPUs  a",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1023,41 +1193,6 @@
       "summary": "Shinsegae, US startup Reflection AI agree to build $6.7 bn data center in South Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "23a65b173e3f1a",
-      "title": "OpenAI, Mistral AI release new hardware-efficient language models",
-      "url": "https://siliconangle.com/2026/03/17/openai-mistral-ai-release-new-hardware-efficient-language-models/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-17",
-      "summary": "OpenAI Group PBC and Mistral AI SAS today introduced new artificial intelligence models optimized for cost-sensitive use cases. OpenAI is rolling out two algorithms called GPT-5.4 mini and GPT 5.4 nano to its cloud services. Anthropic, in turn, has released a new addition to its Mistral Small series of open-source models. GPT-5.4 mini and GPT [&#8230;] \n The post  OpenAI, Mistral AI release new hardware-efficient language models  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5cb24e248c4508",
-      "title": "The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI",
-      "url": "https://siliconangle.com/2026/03/17/intelligent-green-aws-pga-tour-reimagining-fan-experience-agentic-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-17",
-      "summary": "The intersection of professional sports and cloud computing has enabled leagues and organizations to accelerate innovation. However, the partnership between the PGA Tour and Amazon Web Services Inc. is currently entering a new phase: the hyper-personalized era. This week the golf world descended upon TPC Sawgrass for THE PLAYERS Championship, to watch Cam Young take [&#8230;] \n The post  The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI  appear",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1180,6 +1315,41 @@
       "locations": [
         "Michigan"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "23a65b173e3f1a",
+      "title": "OpenAI, Mistral AI release new hardware-efficient language models",
+      "url": "https://siliconangle.com/2026/03/17/openai-mistral-ai-release-new-hardware-efficient-language-models/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "OpenAI Group PBC and Mistral AI SAS today introduced new artificial intelligence models optimized for cost-sensitive use cases. OpenAI is rolling out two algorithms called GPT-5.4 mini and GPT 5.4 nano to its cloud services. Anthropic, in turn, has released a new addition to its Mistral Small series of open-source models. GPT-5.4 mini and GPT [&#8230;] \n The post  OpenAI, Mistral AI release new hardware-efficient language models  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5cb24e248c4508",
+      "title": "The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI",
+      "url": "https://siliconangle.com/2026/03/17/intelligent-green-aws-pga-tour-reimagining-fan-experience-agentic-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-17",
+      "summary": "The intersection of professional sports and cloud computing has enabled leagues and organizations to accelerate innovation. However, the partnership between the PGA Tour and Amazon Web Services Inc. is currently entering a new phase: the hyper-personalized era. This week the golf world descended upon TPC Sawgrass for THE PLAYERS Championship, to watch Cam Young take [&#8230;] \n The post  The intelligent green: How AWS and the PGA Tour are reimagining the fan experience through agentic AI  appear",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1585,6 +1755,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "2bacf9cc8b0f63",
       "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - Caldwell County, NC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV2NpWFRDRVpMd1I0RE5zWGdUemVGWUU1dHA3N2tIT2pGSjRhZHE5eXNiSmlySi12bm9yemVhUWM3Y283UWxUTXJ5QlVqU2xiUEoxWnVQOEVfcFZxU2hfSWIySmdlMkxN?oc=5",
@@ -1602,21 +1787,6 @@
       "amounts": [
         "$1 Billion"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "73fca141968611",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-16",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -2515,8 +2685,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -3043,23 +3213,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "5200f8a82923ca",
-      "title": "How Google Earth AI’s planetary intelligence is supporting global public health",
-      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai-global-public-health/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-03-13",
-      "summary": "Top-down satellite view of a town featuring a distinct, densely packed circular historic center with red roofs, surrounded by newer residential neighborhoods and a vast geometric patchwork of green and tan agricultural fields.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "0662f3b4d75141",
       "title": "Rewarding Original Creators on Facebook",
       "url": "https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/",
@@ -3087,6 +3240,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5200f8a82923ca",
+      "title": "How Google Earth AI’s planetary intelligence is supporting global public health",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-earth-ai-global-public-health/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-13",
+      "summary": "Top-down satellite view of a town featuring a distinct, densely packed circular historic center with red roofs, surrounded by newer residential neighborhoods and a vast geometric patchwork of green and tan agricultural fields.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -8046,21 +8216,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "545ad393809d3a",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1e7b7dad27041f",
       "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
       "url": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
@@ -8072,6 +8227,21 @@
       "companies": [
         "Amazon"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "545ad393809d3a",
+      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-04",
+      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -9513,6 +9683,46 @@
       "is_high_confidence": true
     },
     {
+      "id": "0160bc19a9e891",
+      "title": "Amazon increases investment in Spain to €33.7 billion to expand data center infrastructure and drive AI innovation across Europe - aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rSEJ4blNkWmxPRXVVZG9nbFFjRzFEUW1rOF9VZ09RME5JMmJEZTQ1UTNpaTVzX2Y2RkVSaGJPLVM1R3FpQVo5THpILXdyMDRhMFNRN2hnNFZXTlVCTmg0bDRyVGlXbjI5ZVdkUENtTUttQ3Y4S3RqMw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-02",
+      "summary": "Amazon increases investment in Spain to €33.7 billion to expand data center infrastructure and drive AI innovation across Europe &nbsp;&nbsp; aboutamazon.com",
+      "finding_type": "Expansion",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c2a9fe02295ae1",
+      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNNDM2WE5IMGVaU2k0MGE0ZWpUQklSU2dLMFlqNm51R3VEemlMWjVRZEJ4eFZ3R25hZ0p5ZG8yR1h3Y0trWkxyR3IzakNxOEswWlFzd2taUGlVXzdtRUtYN0NoVGM5TDdfcTBGQVZYekVFNU9JQ2Z5bU5PbWpkTV9rMEVZZF9PMWlGR2ZVYmxrV1dEajFyTEVnS1RiTlBFU2RvS2ludXlsRzA5bFVDbWJ1ZjJPU2N4NEx2bmVrSHl1cTJneHJDUHFsQWp2eUdUMmZWUEthSGFVU0ZpbVhOSlhuLXJMZnQyOEc0cWQ4NUZMTFNkOVA5NUg5OEluTHE0NEhrOFJPTXJfWjlIR0hnZlh2aUtUcXhzdnJIYXpKcDJsYmczaWRPMEQtem1JQ3VXYU5nbUFNM01oUUFOSXlodmRYTmpHS1RoZ1E5SW5iX0xxYWRJbFJKME9hX3hlZ3U1SFpsbGZjNEVJZ3E2dWY2YVhHY1RXVVkyOU1GMDNtTDF6ZF9iVk9yOVRmZmZ4UjlhcTV1X2lPbUFsTVJaNjZ6a0lJd2pKYXE1S1g4cU41bjlVWnM5SWpOY0pIdWc5cmVQUHM?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-02",
+      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "$40 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "4d705e9134f1c0",
       "title": "Amazon increases investment in Spain to €33.7 billion to expand data center infrastructure and drive AI innovation across Europe - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rSEJ4blNkWmxPRXVVZG9nbFFjRzFEUW1rOF9VZ09RME5JMmJEZTQ1UTNpaTVzX2Y2RkVSaGJPLVM1R3FpQVo5THpILXdyMDRhMFNRN2hnNFZXTlVCTmg0bDRyVGlXbjI5ZVdkUENtTUttQ3Y4S3RqMw?oc=5",
@@ -10226,258 +10436,6 @@
       "id": "3f69dd76b8a0b7",
       "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNT01VSGN2b0pGc0Nhb29GeS1BMG1RZF85VnoySG9RNTdlOENYWnlxMkI5S01KTlAtNDNpc3BDbnY4ZVJLc0pRWVluNXJXbDBqSkhmdlBaZ0VFWXFPN3NqN0E0Zjd6SVhGc2FZa0FOXzI0dWswYVo3UjNGQ05CWHNZNHZMbHJoWE1ZRnBoR214N3U0cF9QeExrRmZ5QjZuNW55djdsOXZjcnVVMlZYcGhGSGZXQTNlczVCRU05U0pkZTVPTWd2cjRKRS1UUlFVYjJrQVdRUkxwZ3lSeFZ1X0R3b0NwalJGT19SNk4yTWVJcHZoY1FtWHFqU1JiYTJFa3I0MF9Pckl2RS1vRnFVYXc5R0s5QU5pSFVyTms5UDgyNXZONk9YYjRZZWhGUmI1NGZXRnRvU2RmSU1pTzh3UkJhcWpBakFSbzIxUm9UWEpINi15Znk4eURUdlB5QnJSMkN2a08zbTlwRkpZcV9RUUVQT2tTTjlHRzJSUVV3c3VXNmVwbUsyMWZsRTlhMUJFZG1OMVdGYjRucklIay13ZzZsZW5tWWtZSm9qcmJjSG1Zek12RXdzLWVzM3BpUG0zTmM?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "81ef36242936d7",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNdzNsbm55QU1YRFhsMklDUGEzNGpmVUxaUTNkM0xwQ1QwZFZhRGlzR0FmQkJOWkVVdHAwR0F2SUxtSHVYVHM2cEhoV0xEbTdtd1BKU3J2enRFMk5uYjVHMTNYR1hxRGw2VExTQ2ZBLW02UmdMdzJscWhJTklQLWNueXl4a21tTXo4d3pYX3FfOFJVdEtqMjNjNnA3bnlyRTFZOVU3Q0NCZHppRDMwNkJsWnVrN0xQclNBT3NQSFRweTFPSlZPc3lfUVloODVSRXZmQnZRcUdscWlqcGRrX19HV0IzS3VjLUlXbkRGRkUwVG05STBfM1p6UldZU1lUelpKU2xWOGlVcEFCX3Y0N3dSMDFRWnBleFh3ckd5YVRnbVlVTU5Sb2ViRml4SlZmNmd3ZXRlSkZGNmFQTHlCZWw5NVc0M0xhZ0xYLTlJMEdfa2dMcWNKMXdrRlBDRkhhdXhWcktkMzhWWHF1RE4zMy1oZlladDJnRzBhOXhQZUNpTU5kWEVDUmJ4VnhmM3diczA3cDV5UmR3dlk2ZGg0ZHJhVjFBUC03MXZjSkRYenlFVGVNUXI0MkxEWFFFUWFrMWc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "73e53c4e41824e",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNX2s1Yy1OZmZXOEl5Wncxck1hNTl1Ull5V2p6YUxoWWZDY0xNaHJ5XzY1MEdSZ0tlVWMyRmtvT19OR0xtSXNnZ2R2R21fRVN6NzV0Y0hkWDRGeEwyN3NROXJHZVVkWTJLbktUU3BlSC1BRXNDYnpMckR6b3ZrTFJOMUJVYW1nQWEyT051NFo3cTRjZGNRb3VQQTlhQ2xEQ25iUUFYUFVzV2JuVE8xR2JQZEhXa2N1Tm0xUUxIQjVkcDJuNFY2U2JqZC0ycUZXbUhUWWVJWVlkTFdMTWwwMXZTaV9lblJjVlpvdGl2OWRBbzlVc0NrLWxIbFNMMU13WElxeGJjTmotS2hnMFV0Tk9QRFkzQTZqMEQ0TmJWZlNBNkpSOFVySjFWQ1NVcmV3RUo4V2xxNGJReE9QOWRxUU94aldyY1VNcGpfRUZKd0JDbkx0bm9qejJ2SWwwU2ZobGZzXzVNalROU0oxcGdMQ2FaUVpqN0JIbWhjQWhwbVdsZGJ1YnNKWjdGUTVPRnBWbkdZUTJsYXVFaG96anRzbEdwTHVPc2VLTy1yRmNZSFJ4TldLWmpVTGg2a29RQ1MzOWc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2d9c2e3749efe7",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPaTJHSHk5SXhqeDZYOWRMdzBlSmVXSDFHckRXMWhNQVZ0c3JlNTl6eXNlRDEzMHJuVDlmbDdGajZsM3BLUnh6RlFVS19hNGE5aGtaMWF6QmxRbUZ4cHRZOUVBcFhHeTBzM01wVjd0dF9IdFVsekR3eGdaR0IyQ05lMlNRZ3g0a1Bhb0FQTTVyaHgwbHVuY2hmYXVmS0VzdFpBLTlMbHVnbnJwUUNMWGN2dEFPOURWdm1YajhOZU9wMmR1V2p5QnFINkRFVzVsMENrNlBlbHVsTUdQd250bmNoY3BIRU9zMEF1WWJoLTRZNzl4aWdUd0ZQZHdHUUJLd2RXOUs3NzBjODR6OWhHSzJiQWppUUNEeHVDMmZWcjZQRHdFNUZEajZNUXh1LXRZSjhVUk9OZWlhVy1yQWNHS19YNGVjckpPRU1iaGpJaE0yeFVOYmZfaUJNcnlSNURxZzBUcURkemR4SjJxZ08wdFhKS2J5M0pIbkdNVU40bjFRWnhRV182a1BvbWhqU3NCUG9XbFMwQ0NDcGM4bl9wSXp6TVFzQVNIeFRZRm1SZF9sTVY0YkExVWdieXJjSHZoQzg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7bbd2a03ab0130",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQQUxCc3hjTm42Q04wNWw4VTFXMk1XMTZ3YWhkVU9kRGxHRnVYV3c3dlVPV1ZaRTNXN1B1X3BTbnVDV2wtX2FlNXZCdUc0WnpfbjF2OTNaYjFoOWQ1X1NUYXdwaUhUajdMOENpSW1qY0gxaC1RRVNyTzdlYlJCdlBfc2t3VzZuaHF6ZjJuZEFkMVRFalN2bVpkOXFjdThvQTg3TGQ5UVl5OVZoQzBOODlIc3Z3WkVwR1IzZDBDc3dxNkVjekZIZ21DVGpfX2NVU1VSazU0cHFMNEhreFVrUENJQ2xpNTIyZTB0ZHFtNVVKdVJKTVR5bHpzV2s2YW5nSGtFNmd3cjBZTUMwX19KdlU3R1lucWxxaUR6N2h1WlV5U2FraldRWHd1RTFsTG5HSVBDZjQ1Z0JCelBEZThDbWVCREI5NlBpOVRSRU9CbXJ3RWtkQkE0c09mRmpDQldFMUVVaG1yLVpSNlA2TTRRUmptSlpMVTF3UDZkRmhvWXlWVnRQMnFuM3hMT3phTEF4dkVDWTU0YUJEYzQ2U2NWN3BvZXJ4dlZ2LTZ0OWt3M0JISDNhYUZTa3ZZUE9yQ3JsY0k?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a9b4e6273f8f0b",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOenhaSDNXX21wcnZOVmpUZTVEZ3A2emdULS1fMzFFaTRGU2FhVGw0ZHEybHppalJKbFhRWkVPcl9FQjZaLXAwaXgxLVNsQ3ludE1yckUxMy1BRjVqTWJUaWoxX1FXbzBqbGFnYkpqRWwzOGRFNmhwMEpqQUlEWnlXQjcwdWdNT0gxRE16Nm9OSzZHNTVtbnZiZnpqMGNLNkpVMFAxS1pwb1JGWFpMV3UwTVR1VGRGR0E5YlpHMk1oYkxKVWJOYloyTUk1VGxHMFNUb0h5ZzAxVEZhd3I5YU9zSjFIdUZIYXNxOVNBcVJXeW12bkFQalVOWWVlZDVjODdNRElPMnMzaU90ZDgweWFMS3ZJWDYwNmFQSGs1dnVmMVFoX2t0bFhiOXRTVkx1QjhQTEdFWU9FS3BveWhsWUU5TjdzWTdSdmZid1hKcWRsQlhuRVdLRmczSXRIdklIdHBwdVBIb0RZaTBadzNDd21jUkF6NUVUbmktenJJTm95cmliRHlNOTIyQjRIdG5GejVSU2txcG5zSllnWjFrdnk4TXloUEsyaHNGZzM2T0pQdldKMDNOUDhPNEJ0Rzkyb0U?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "63c4764a4d28c6",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOcERXdUoxQ1VtelAyTzNYaXlFU002ZGVDdFhzRWI2cUg4MW82eWRJQXctYXc1V0Nkc1RGSUJONTI2RGpmUHhCQWRpRXhwQmhUS29FYUJzaHFOMUg3MUY2RE5Zclp0UTlTa21kRjlvcWxoQTd1NGw3VDhRcnFpZXRvNG83SDRuUkhmZFlfWFNTUkdCNmtBbU1SUHh3V2VjMUZkWndyYzlxQWRoSm5PcHpzcThkNmF4bWFYcm9tdE9mNE9uQjBrLUNkOURDV2t2dGFYcGtLM3dHUTd0Ti1NOXp5ZzVmZWp3ZVlhcWp5TUhOWHduQ0FmNi11QVg5bXpGOTBXZjM2YlQ1clo4QW5HWXlmZ2plVVplZHc2b2VIRkx6QmNmbU1SekdET3RHY2JNWHYyaWhJeVhaSGNUcUtrV0NXQ1RiNmg2VFZ5SVd3TlY1MTYtQlVobEt3VHkxSVVoQ3JIZzdJRWFnT29hejhEeHYweDhEVmZ2M0RXQ09hTmdpTkJ2TEdnYnF4cmJVbkxjenBGcWdzdEk0djR5UVNjX2kzYnM3MV90VWwyWkFqNEsyazlVRzNYYU9nUFJ1akNhUGs?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bf9b8d39652f60",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNaERtVUQ0cEFHOVg4b09BRGczTVZwWTVjU2tMMlV6MmdDMUFjRm9EUHduWEtURHg4RU9Edk5aNnhQT0lJZjlvY2R2Nm5va0pHZFR0Z282ZWNGVmtjTVJ2N3djT2p2NDRxcWhucm1telo1SkZzM3NBZGtqdEsyUWpGMmpGN2pOaUZUeDBfYVZKMHppazFhekpvcm9GeWlUVEpvcUNFMWdMTEstU0FzVC0xby1pWEFCcFNNZXZjVnRXOVRwcy1vT0VIS1k4NmlFWVJhMFJIQ0llZkoyR253bTd0aE9LMXhaR01IeVZra3F0Mm9RWkdUM3V4MjZkQXp1YnptaklQcnBoNDB6YUc2Q1ROaGVKZkIwcUs3V1o4U255M0Npc3c5Q1dSSnZrV0NjcGI0QnB1TUJzT1hvWXE4Y1VLWlZQUzRuM3E2akxrZVgwWjREYmxrVHp6cEJfamJZVTRtM0F0bktlbm51a0dSZTB4anFmSWxFQUhvcDlCX0RKTnptbjBvRmpSLTVXdFplbUVtN2lmMmlXQ1o2a3gxcW1XbXl2eFI4cDliMWJMSENoNUx2NTY4UDF0ZFpaRXJ1MlU?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "51593b72082475",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOOEJ0Q2NzRnBrZkJvREFUNGhwa3hBOWRRS2hfRWdDbEE1bDVxUXk2Ty1wT0JBeWk0b2k5OUZGYkxGXzlDNmZsR29laHNDOElEQl9nODNNazhSdlBNZ3RNTC1xNF95YXNhYmFEWFExMW5oUWd3djZLVVByd3NwODl0cVZjYlYyWnV0bDlaRU9wVUlEd1JmV2F3REtJZDdlck5PYWkyN3Mtb21WMGw4NGdZbFdkSjFXdVQ0ZW5GOU9zcThFUDlTRnFuMjRTSjMzRmZRd1ZTWHRuU0Q2czVzaU1PN0dvZ1dabVBpQjhXaUZZZlBCUWlvZll1OEpTUnNZWXRtQmI1Q3JiM1puV0lJeUI3aXdFTlNxZ1RENGxraUFIaVY3TUR1TE5idFV4MUNOSFBYWmlvbDFHQzc5aTg1MnFyVkhSTGxhY1hqSnRCcnRnWnN2Zkt5bVlmc2FEZzBFM295bzMyOEFESkp2ejBwZldhYnhucEVpbTQ3QXRrWHNQVnN2Wjl1U3BldVBSVGlVVHdsSUYyNlZ3V1cxT29nd21GTTFWX1Y5TkVrdmluUDJfQkNMNDlQazZEVG5YdWd3dGs?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1132d17917e477",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOZ3BRclhQclU2X2xhTDFVdUNIOU1FSDdVd01qQ1ZabzNaekF5WWxxVXdKaVhKQkh1aGFDN0QyLUFVazFYSWc4dURLbWktZi1XN05ENXpaY0dJMTJTaFB4cHpjTm5JT2s3ejdCU2RmUkZJRTFMZU0xMlM0TkxpZnJNSUM3SDQwZno2MlktV2Q3X3BmVVR6WUdibjk4T2oyaURSNGpKaFItMGFqdTZWTjF1WUU1SjZxVjJkY3I3d0dyT3l0elpnSWw5TVNpdkZ2bG4wUlBJZE9fRUdMOEZxSG1aOUUyalV3Z2twSndrSmFMMFdya0FpTEgxY2NJNVAtRVJXRUpqZXVGYlBpWFVZNlN3QlMyMDFjQVVTcklCZE4zdk9JLXVUY2lGcDJ3YXIyVjZKaExhdXR2V3ZsWHZYNWFmNnI4djJDR1BzYUcwQnRkSmFyVmtzZWFxQlFwSnY3TU43eWVtTGM1ZzdnSzh3b0kzUG1MSlZqaVBRUHViM25yZ3BZWHNxVTREWjg4OFlITzdMWlo4Z0d4b2gtaFN4Qnc5VXREeU1QRHRGRU1nM1VBakE1SlJpWjRKaHVTRk5pbDA?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dd4b49bf900f22",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOWnJWM1Ezb01ndzdCQzBqLVBvUHF3VHp4RWZ1UWkyS3h2SzFkX2MtMGdrVTczRzdJMXozemdMQnZtQkc5REZZeDhfeC1mUE1wRUs3N2M3cnVKZElEcF9TcWxTWjNQcnducmx6SDF6R0FwendfYVRvZ0J6MHQwbC1LekEwVEREd2NqMy1YQV9NcWwtNGNiQmVUWVVmY0dLYTk2ZFZBYWFfUE5sRWNQV3JuNHNMNnFsb3Vpal92T3VJZmhNeWtxWFJSR2puamZIakltYkl4U25FdnBNVWFobnZ6MGdOdnJzRFgzcm15Z0l4a1A5TUdtbWlET2R2UVdra3V0WlVRRmwtdzF3djFheTZ4Nk1vQ1lfQUtjMXljYVIxRmswWGtSSDAxaG9RSUZUb0pxTTZ5NHg4a0s0Yks4dDBHSDBTcmpJemlFajBrQlN6SlhlLVZjUEhqWVpSZ3NfRVF4YVlxOENKNnI0RnhQSS1HMllESF9sVjA2NWloWXBPVy1fRFAtNzNEX2FZamtORUxmbHY4eklRc2w3blFLb0VhaEhJWjYyODI2OS1KNXA5SlJvWU90cUYzNW52WHkzVzA?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2642800d261598",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOcG40S1dFQnJ3eHlyVzFFQkZ2Q2dZLWppVFo4d0hSUlIwR0hUTUlvUXpHcWdYUHp5aFlfMTRITWNCZW9qWGEzLXhockpjdllaYWNzcTg4bloxX1NnTUxMMGRIemxxWTl2VEg4YlZWdEtGYUJMRTVSNE9vRXFYY1ozZ01IYzhkQVByZEJ6RVkwLVZqSEdNTnE2eHhNcXEySUhQVHh4NUFQSEZKYzlEQ2ZROUhYVDFEdndTSWxzRmtjZFl1NzMzRjZZdjRQNktTRm5YZEhLZUdidU51ejJELUptU1VyWlpmRjhOV1k5U1VIQTZuWnNFbmNiTXBQaUhfa01XUGRIYzdmbDlqZWsxTklrTTlLRGQtN09YWnpZOUlKWVg5MTJVakJvR3VhQTZNR3ExeEl0eTMyZWhZMTAwR001SXo5aXU2dmZZUEpTd3llQWhLcFY0NUVfYURTTWZubmhkV0lHM1JzQk1EMkg5emx1SmxFNzk0VUxNZkNOSUEtbFJIVGJ0OVVCM1ktMjhPZjVObXhWQzgyVEE0bUJMcWJKMXJOcWlPYUtWSkNqdzRZY0tDWDBJa1NIN0k4SUZPYXM?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3d77821017d6b9",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQa2hvalNKem9kZHFqNk4xSllqT3JnYmY4YkpUWGZ6RlRwZm12NmNaM1d6YllaRFFfYTVFcDJRYnhubm5fcTJ2YTZJVG5zUndLZjVQTmY2UUo4SEdnWlF2X3dqUWpkY2NycXMxZ011b0dmZnVlT0RYOTBHbUR6X2xfdTd0YTkwdm1uR002R2VNbkw3R3VHTmduaTQ3a0ZaNEVzWndwV2NyMmdQVGszQWI4OFhnWkpiTG9tN3EwWVI3Q05ndGNCUTAwX2lkYUJLSW9faUdYT0FiMEloRW4wQUFsb0owTzRDbmwySDRXVzF4VjZUVU42b196RXlkUmp6LUQwemo5V2RUUDR5VFo4TVlaZ1ZhTDktZzVURkJrTk5QU1huZWFDbG1lSC1XY2J3bHpfekE4ZGZaWGRsdHFzbmItbkxjYTIxa2lxQmh6anhGdTB5bkd1Si0zaE1IdmdyU0MzZVd5bkZSLW5WOWttMzdFT1o1WXRpSEtEZVlwOTUxYUxXeXdONTE0Nk9MZU1VNEVGRy00cVMtejkybEQxODJxNkZGSG5rVEFuT3U0T0NicHM4M1RpTzd2VTdXdUh4ZnM?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-03-02",
