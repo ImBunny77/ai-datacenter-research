@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-03-20T13:03:32.144513+00:00",
+  "last_updated": "2026-03-20T14:43:00.883793+00:00",
   "finding_count": 600,
-  "new_project_count": 70,
+  "new_project_count": 69,
   "cancellation_count": 16,
   "sec_filing_count": 1,
-  "high_confidence_count": 132,
+  "high_confidence_count": 130,
   "findings": [
+    {
+      "id": "cbe3e20e6f4344",
+      "title": "432MW data center campus eyed in Virginia’s Data Center Alley",
+      "url": "https://www.datacenterdynamics.com/en/news/432mw-data-center-campus-eyed-in-virginias-data-center-alley/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-20",
+      "summary": "Regency housing community looking to sell up to developer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [
+        "432MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e8a4b388cf7876",
+      "title": "TeraWulf tops out latest data center at Lake Mariner campus in New York",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulf-tops-out-latest-data-center-at-lake-mariner-campus-in-new-york/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-20",
+      "summary": "CB4 to offer 168MW when energized later this year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [
+        "168MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "3ce42093142f2a",
       "title": "Energy management SaaS PADO raises $6m in seed round",
@@ -37,8 +75,8 @@
         "Norway"
       ],
       "amounts": [
-        "60MW",
         "400MW",
+        "60MW",
         "50MW"
       ],
       "confidence": 5,
@@ -58,8 +96,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$300 million",
-        "$300M"
+        "$300M",
+        "$300 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -77,6 +115,38 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a819cafc71da58",
+      "title": "Edinburgh could approve potential data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/edinburgh-could-approve-potential-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-20",
+      "summary": "Would remain in place until \"green data center\" is defined",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3120114876bf14",
+      "title": "Three charged with smuggling Supermicro servers containing Nvidia GPUs into China, including company co-founder",
+      "url": "https://www.datacenterdynamics.com/en/news/three-charged-with-smuggling-supermicro-servers-containing-nvidia-gpus-into-china-including-company-co-founder/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-20",
+      "summary": "One of the defendants is a co-founder of the server manufacturer",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -272,25 +342,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "1efa29c845fe20",
-      "title": "QTS acquires 1,700 acres of land in Pennsylvania for data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/qts-acquires-1700-acres-of-land-in-pennsylvania-for-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-19",
-      "summary": "Company buys land close to Talen nuclear plant and Amazon's planned campus",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "6aba6cdb008618",
       "title": "Hosted.ai raises $19M to pool GPU capacity, increasing the efficiency of neocloud infrastructure",
       "url": "https://siliconangle.com/2026/03/19/hosted-ai-raises-19m-pool-gpu-capacity-increasing-efficiency-neocloud-infrastructure/",
@@ -344,6 +395,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "1efa29c845fe20",
+      "title": "QTS acquires 1,700 acres of land in Pennsylvania for data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/qts-acquires-1700-acres-of-land-in-pennsylvania-for-data-center-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Company buys land close to Talen nuclear plant and Amazon's planned campus",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "89cc9365a697c3",
       "title": "Microsoft unveils micro LED innovation to halve data center energy use",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-unveils-micro-led-innovation-to-halve-data-center-energy-use/",
@@ -375,21 +445,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e5ac9c2512169",
-      "title": "Fujikura to triple optical fiber production as part of $2bn investment",
-      "url": "https://www.datacenterdynamics.com/en/news/fujikura-to-triple-optical-fiber-production-as-part-of-2bn-investment/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-19",
-      "summary": "Wants to support the demand for US-based AI data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -427,35 +482,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "0f7be5771f0bde",
-      "title": "Qilimanjaro Quantum Tech launches Quantum-as-a-Service cloud offering",
-      "url": "https://www.datacenterdynamics.com/en/news/qilimanjaro-quantum-tech-launches-quantum-as-a-service-cloud-offering/",
+      "id": "1e5ac9c2512169",
+      "title": "Fujikura to triple optical fiber production as part of $2bn investment",
+      "url": "https://www.datacenterdynamics.com/en/news/fujikura-to-triple-optical-fiber-production-as-part-of-2bn-investment/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-03-19",
-      "summary": "SpecQtrum will give users access to the company’s data center in Barcelona, Spain",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1960640f253795",
-      "title": "Euro cloud company Scaleway launches cloud region in Milan, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/euro-cloud-company-scaleway-launches-cloud-region-in-milan-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-19",
-      "summary": "Will have three availability zones",
+      "summary": "Wants to support the demand for US-based AI data centers",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -590,6 +628,38 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0f7be5771f0bde",
+      "title": "Qilimanjaro Quantum Tech launches Quantum-as-a-Service cloud offering",
+      "url": "https://www.datacenterdynamics.com/en/news/qilimanjaro-quantum-tech-launches-quantum-as-a-service-cloud-offering/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "SpecQtrum will give users access to the company’s data center in Barcelona, Spain",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1960640f253795",
+      "title": "Euro cloud company Scaleway launches cloud region in Milan, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/euro-cloud-company-scaleway-launches-cloud-region-in-milan-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-19",
+      "summary": "Will have three availability zones",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -3188,9 +3258,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "3a6dc83c63e0a6",
+      "id": "08fbe0be54bbdb",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcjNzalVsQmg3LWRWcEJ2OWhDY2s1WWtOUVNvUjlQXzBkX1pCbmg5MkpBMlBSZW9fdjZhSlZhVW42UFJwOUpPNEstN2liSzVhOFJmeDljVG5peVZzRVJmbnNBRUc3dUFubk45MG1wV2Ytc01fNjNaUjgyMzl1VnQtX2FOdUpVdWlRZWJibkNLeEJQV1BRWmtTMjdtcVlLLW1yTHNBZHpad2dMX3hmbHR5TWVLQzJzU2ctTEdELVdMOHJhNGh2RUJqX3hLellidEZrbTNxTGEycGU4LWItUFVJNlh2RDBRYVZCT19oaG54X09Nb0tZRzRBS1BxNmhyWUZRaWduLUNnWmQwLVVGY3dCM0lIaVNOQ25faUZsaEtzQ2w1dlpoMDJpd2dZcGRaUWV4U0tic1R6YXVIdTBnaUhYcFZRbW0tVjBmOTZDTVNXV0Q5a2hCQU5wTzhwc0V0TFVMc3ZGXzZJVHJ6YjFrM18wWEdHT1c?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-15",
@@ -3210,9 +3280,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "08fbe0be54bbdb",
+      "id": "3a6dc83c63e0a6",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcjNzalVsQmg3LWRWcEJ2OWhDY2s1WWtOUVNvUjlQXzBkX1pCbmg5MkpBMlBSZW9fdjZhSlZhVW42UFJwOUpPNEstN2liSzVhOFJmeDljVG5peVZzRVJmbnNBRUc3dUFubk45MG1wV2Ytc01fNjNaUjgyMzl1VnQtX2FOdUpVdWlRZWJibkNLeEJQV1BRWmtTMjdtcVlLLW1yTHNBZHpad2dMX3hmbHR5TWVLQzJzU2ctTEdELVdMOHJhNGh2RUJqX3hLellidEZrbTNxTGEycGU4LWItUFVJNlh2RDBRYVZCT19oaG54X09Nb0tZRzRBS1BxNmhyWUZRaWduLUNnWmQwLVVGY3dCM0lIaVNOQ25faUZsaEtzQ2w1dlpoMDJpd2dZcGRaUWV4U0tic1R6YXVIdTBnaUhYcFZRbW0tVjBmOTZDTVNXV0Q5a2hCQU5wTzhwc0V0TFVMc3ZGXzZJVHJ6YjFrM18wWEdHT1c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-15",
@@ -3225,8 +3295,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10254,88 +10324,6 @@
         "$2B"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "83788dd1ef831a",
-      "title": "Amazon to invest additional $21 billion in Spain for data centres and AI - Global Banking & Finance Review®",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORE9ldGU5RlVZVm5tNFF4YmRXT0JrOUhYZTUwNE1jZUE0VGVCQU9TeWoxRDR1ZGRGQ3F6N1dQYmN1NDM4aXNhZUNXYVZNejNHLWVacVJlc3NiUmVRM1VmSEI1d0RoQnBFUF9rSnl5NHlwTlJuUEVfcTd5QjNHVWF6eDlZVUVEXzliVFNfbnFhSmFrUzVsMUlCQTU5NV9sRDA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-02",
-      "summary": "Amazon to invest additional $21 billion in Spain for data centres and AI &nbsp;&nbsp; Global Banking & Finance Review®",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$21 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4d705e9134f1c0",
-      "title": "Amazon increases investment in Spain to €33.7 billion to expand data center infrastructure and drive AI innovation across Europe - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rSEJ4blNkWmxPRXVVZG9nbFFjRzFEUW1rOF9VZ09RME5JMmJEZTQ1UTNpaTVzX2Y2RkVSaGJPLVM1R3FpQVo5THpILXdyMDRhMFNRN2hnNFZXTlVCTmg0bDRyVGlXbjI5ZVdkUENtTUttQ3Y4S3RqMw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-02",
-      "summary": "Amazon increases investment in Spain to €33.7 billion to expand data center infrastructure and drive AI innovation across Europe &nbsp;&nbsp; About Amazon",
-      "finding_type": "Expansion",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "95a362c91a4564",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPNVRpNkluRGRoWlJoSmVHR001cVhlcjhwdE5wd3ZTc183UG9McGZSSTZERjZRaXN3MXJPa25zb2pZQ0pYYURCZ3pYVDBkUERYc2hvcU1URVllNEkzcEJReTRNekRDWnhmVG1XX0tpS0hjdlZibE9vbGJsNGJYX3VTbk4yT1RoVVVfb3UyR050UFMzeWRxSzFCdE44aE1DUWNZNUJyNTlDRFo2YmhWaHNwRkFNZm5HNnN2bTBqajBtbi1nZml5Y0E0ZmZNby1GTGdsVDctbjN0T3NUV1ZZdjlLNU5NMHV2VFpQd2preFp3YjJVb3AwTFNmLTdWek9fb3RKcjJFdF9hR2VOcFMyZkEyR1RWREZtck94S1Npajg1ZzRSeWZfZWM0bld1ZEs5Q0kxRWN3UXhYRll6eEJZcnNUUWZkZjN4YnRzdWVSdEtWVTNNdkQwLWRDaVU0eWlYOHVWQTFRS3VwYzNIWGd6TDh2aWhuREN1d0p0WHhxQXR2NVFSOW00Qk1lMEJuTzRiS3hIWjVEWGNiR1dBN2RYNDRJZmo1cXpUQVNtX0gyNGJ2cnBzRlVYLXo0WGpiUWRYTWs?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5e736733b1f443",
-      "title": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNeGFVZTQyTVRXdDgyWERpbXZaczZWR1JfdUctZVJpVVJXenQ2eUFNMU42ZWEzS1I2M2ljZ2JraEZZdktBOGM2NFdXQ3R3Z1BpUjE2ZjBBYnYwTWEwVmlSaGZkdmQ5aEk3NUNsWTYyZUNzQXNpaXN5a2tYeDBXeS1zNVBuUVBUdUpZcFJnZWVvYVU1YUpKU1RpQjYxV1F0VjJteGQ1dnp6TmZzOS1sMmx1LTdpYm5RX0lMUHpLTkx5aS1PUWNBQkR5c2hIaHBxa0NHVTZ4ZjlPQl9KSElqbDN2NUNXWjRCdWkyZHZaSlhCNDBNcmx4THFWeHczRkZEODZ3R1gyZXZTTm9vSkN2SkJMb2JVSkFpYkZicVR5aXFLMHBDTTBjOTgwOGxQRlg5c2RxUmNqdEdyYWRnSlIwTjRjSk1VTFBlaWU0bnBDSUJ1ay1tTUFtQ3hQZ3N6Z2JjemJuMlVCZlVxQnpDakRfX2pJRWVlSTM2UGptSFRhSkdZci1GbXRIcXJLeVNOdGdZYWJFdUhnZXpZcm9rZTBUYUl0U1dfZEI5WU5oNkV3XzhxR1NVTjZGQ0kwbzEtazA4N2M?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-02",
-      "summary": "Amazon Pledges Nearly $40 Billion to Expand AI Data-Center Infrastructure in Spain &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 6,
       "is_high_confidence": true
     }
   ]
