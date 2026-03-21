@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-21T10:29:11.494499+00:00",
+  "last_updated": "2026-03-21T12:53:38.750154+00:00",
   "finding_count": 600,
-  "new_project_count": 69,
+  "new_project_count": 68,
   "cancellation_count": 17,
   "sec_filing_count": 1,
-  "high_confidence_count": 128,
+  "high_confidence_count": 127,
   "findings": [
     {
       "id": "6936d3afec028d",
@@ -38,6 +38,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e16e45e1f6679e",
+      "title": "Egypt's Renergy Group may establish data center alongside its green energy projects in Sinai Peninsula",
+      "url": "https://www.datacenterdynamics.com/en/news/egypts-renergy-group-may-establish-data-center-alongside-its-green-energy-projects-in-sinai-peninsula/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-21",
+      "summary": "But details about data center are sparse",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -107,6 +122,23 @@
         "9.2GW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "93d78fab396f90",
+      "title": "Federal officials announce $33B data center, power plant in Pike County - 10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZJZWVpbS0ya3Y4a01lM2prSmJGSUxRSklpUmRXWi1kVEMxLVM2eXh3TEd1SFl4bFZrUlFQQ3Q0VWVKN053VHJLTEhNaERHdlp2ODdRVE44R0o2VGlmR0dOZV9pU015MWFZZ2pHdUQ1bkpreTJ4NGpCWkJoaFlaUnFNRmktMEdJNjVRSUsyR2I0QWI0ck5abUhxOE5kU0NxdVpic1lkRGxlYmo2dFhwODhMS3RjWTZnY3JEWFhGRjBoNEp2ZmpEOTdONXBzNzhKMGtzbDBfMmdEZmwwcWp5alhHaldiV0FXRzdtaml3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-20",
+      "summary": "Federal officials announce $33B data center, power plant in Pike County &nbsp;&nbsp; 10tv.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$33B"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -872,7 +904,7 @@
       "id": "b805bf55476c4f",
       "title": "Meta’s $27 Billion deal with Blue Owl Builds Data Center Outsourcing the Burden to Rural Communities - techi.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZHhFYlgtelZObEZxX01JOUpiUEpEQVE2NEFCZVM5NHJRT3M1SDlRN1BuR2VSWllWZnk5dm9TZ3pQekVVcVBXRTlmZ3UtVTNfNGJJS0c0QXQ4S19UQjhMVlRhdWdTQmkzemhLdDFnekI?oc=5",
-      "source": "GNews: Meta data center",
+      "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-03-19",
       "summary": "Meta’s $27 Billion deal with Blue Owl Builds Data Center Outsourcing the Burden to Rural Communities &nbsp;&nbsp; techi.com",
@@ -924,8 +956,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$43M",
-        "$43 million"
+        "$43 million",
+        "$43M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1031,8 +1063,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$19M",
-        "$19 million"
+        "$19 million",
+        "$19M"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -3022,6 +3054,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "2bacf9cc8b0f63",
       "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - Caldwell County, NC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV2NpWFRDRVpMd1I0RE5zWGdUemVGWUU1dHA3N2tIT2pGSjRhZHE5eXNiSmlySi12bm9yemVhUWM3Y283UWxUTXJ5QlVqU2xiUEoxWnVQOEVfcFZxU2hfSWIySmdlMkxN?oc=5",
@@ -3039,21 +3086,6 @@
       "amounts": [
         "$1 Billion"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "73fca141968611",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-16",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -3937,9 +3969,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "3a6dc83c63e0a6",
+      "id": "08fbe0be54bbdb",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcjNzalVsQmg3LWRWcEJ2OWhDY2s1WWtOUVNvUjlQXzBkX1pCbmg5MkpBMlBSZW9fdjZhSlZhVW42UFJwOUpPNEstN2liSzVhOFJmeDljVG5peVZzRVJmbnNBRUc3dUFubk45MG1wV2Ytc01fNjNaUjgyMzl1VnQtX2FOdUpVdWlRZWJibkNLeEJQV1BRWmtTMjdtcVlLLW1yTHNBZHpad2dMX3hmbHR5TWVLQzJzU2ctTEdELVdMOHJhNGh2RUJqX3hLellidEZrbTNxTGEycGU4LWItUFVJNlh2RDBRYVZCT19oaG54X09Nb0tZRzRBS1BxNmhyWUZRaWduLUNnWmQwLVVGY3dCM0lIaVNOQ25faUZsaEtzQ2w1dlpoMDJpd2dZcGRaUWV4U0tic1R6YXVIdTBnaUhYcFZRbW0tVjBmOTZDTVNXV0Q5a2hCQU5wTzhwc0V0TFVMc3ZGXzZJVHJ6YjFrM18wWEdHT1c?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-15",
@@ -3959,9 +3991,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "08fbe0be54bbdb",
+      "id": "3a6dc83c63e0a6",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcjNzalVsQmg3LWRWcEJ2OWhDY2s1WWtOUVNvUjlQXzBkX1pCbmg5MkpBMlBSZW9fdjZhSlZhVW42UFJwOUpPNEstN2liSzVhOFJmeDljVG5peVZzRVJmbnNBRUc3dUFubk45MG1wV2Ytc01fNjNaUjgyMzl1VnQtX2FOdUpVdWlRZWJibkNLeEJQV1BRWmtTMjdtcVlLLW1yTHNBZHpad2dMX3hmbHR5TWVLQzJzU2ctTEdELVdMOHJhNGh2RUJqX3hLellidEZrbTNxTGEycGU4LWItUFVJNlh2RDBRYVZCT19oaG54X09Nb0tZRzRBS1BxNmhyWUZRaWduLUNnWmQwLVVGY3dCM0lIaVNOQ25faUZsaEtzQ2w1dlpoMDJpd2dZcGRaUWV4U0tic1R6YXVIdTBnaUhYcFZRbW0tVjBmOTZDTVNXV0Q5a2hCQU5wTzhwc0V0TFVMc3ZGXzZJVHJ6YjFrM18wWEdHT1c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-15",
@@ -5164,8 +5196,8 @@
       "id": "a97cdd0765bec4",
       "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
       "date": "2026-03-12",
       "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
@@ -10262,49 +10294,6 @@
         "$21b"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "baaf61148f1855",
-      "title": "Co-packaged optics startup Ayar Labs raises $500M round backed by Nvidia, AMD",
-      "url": "https://siliconangle.com/2026/03/03/co-packaged-optics-startup-ayar-labs-raises-500m-round-backed-nvidia-amd/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-03",
-      "summary": "Networking startup Ayar Labs Inc. has raised $500 million in late-stage funding at a $3.75 billion valuation. The Series E round was led by Neuberger Berman. Ayar Labs stated in its late Monday funding announcement that Nvidia Corp., Advanced Micro Devices Inc. and MediaTek Inc. participated as well alongside several other backers. The company’s total [&#8230;] \n The post  Co-packaged optics startup Ayar Labs raises $500M round backed by Nvidia, AMD  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$500M",
-        "$3.75 billion",
-        "$500 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0ef52e9f060fa9",
-      "title": "Google files for fifth data center at Midlothian campus in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/google-files-for-fifth-data-center-at-midlothian-campus-in-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-03",
-      "summary": "Estimates the project will cost $880m",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas",
-        "Midlothian"
-      ],
-      "amounts": [
-        "$880m"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
