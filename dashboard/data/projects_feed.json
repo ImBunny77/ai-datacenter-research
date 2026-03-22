@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-03-22T02:27:22.264620+00:00",
+  "last_updated": "2026-03-22T05:19:43.765701+00:00",
   "finding_count": 600,
   "new_project_count": 66,
   "cancellation_count": 17,
   "sec_filing_count": 1,
-  "high_confidence_count": 123,
+  "high_confidence_count": 124,
   "findings": [
+    {
+      "id": "299ddd8b94e653",
+      "title": "SoftBank planning massive $500 billion data center in Ohio - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-21",
+      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; The Japan Times",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [
+        "Ohio",
+        "Japan"
+      ],
+      "amounts": [
+        "$500 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "6936d3afec028d",
       "title": "Massive $33 billion energy hub for data centers announced in Pike County - The Columbus Dispatch",
@@ -297,8 +319,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$300 million",
-        "$300M"
+        "$300M",
+        "$300 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -968,7 +990,7 @@
       "id": "b805bf55476c4f",
       "title": "Meta’s $27 Billion deal with Blue Owl Builds Data Center Outsourcing the Burden to Rural Communities - techi.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZHhFYlgtelZObEZxX01JOUpiUEpEQVE2NEFCZVM5NHJRT3M1SDlRN1BuR2VSWllWZnk5dm9TZ3pQekVVcVBXRTlmZ3UtVTNfNGJJS0c0QXQ4S19UQjhMVlRhdWdTQmkzemhLdDFnekI?oc=5",
-      "source": "GNews: Microsoft data center build",
+      "source": "GNews: Meta data center",
       "source_cat": "Company",
       "date": "2026-03-19",
       "summary": "Meta’s $27 Billion deal with Blue Owl Builds Data Center Outsourcing the Burden to Rural Communities &nbsp;&nbsp; techi.com",
@@ -1127,8 +1149,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$19M",
-        "$19 million"
+        "$19 million",
+        "$19M"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -2530,23 +2552,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6db5dbbd52acb5",
-      "title": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer - Money Morning",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHFLX3V3bFJTRkhEMG1oR2JSMDhkRVJ0NEFIRGI4WGVycjZyb3pydm1SSEEtMS10aEwxVVVRZ2JScHNOU09nR0pNSGlkQ0RqQlZ3cURQZXR3MFg5NUxEeDBHSGNrZDhodl9GYndHYjk0R0dNY2hkRHFsbEZieEllT0V5VmxKRXR3QWc?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-03-17",
-      "summary": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer &nbsp;&nbsp; Money Morning",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "653025e8a730ab",
       "title": "Announcing Copilot leadership update",
       "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
@@ -2625,6 +2630,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6db5dbbd52acb5",
+      "title": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer - Money Morning",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHFLX3V3bFJTRkhEMG1oR2JSMDhkRVJ0NEFIRGI4WGVycjZyb3pydm1SSEEtMS10aEwxVVVRZ2JScHNOU09nR0pNSGlkQ0RqQlZ3cURQZXR3MFg5NUxEeDBHSGNrZDhodl9GYndHYjk0R0dNY2hkRHFsbEZieEllT0V5VmxKRXR3QWc?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-03-17",
+      "summary": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer &nbsp;&nbsp; Money Morning",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -3135,6 +3157,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "2bacf9cc8b0f63",
       "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - Caldwell County, NC",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV2NpWFRDRVpMd1I0RE5zWGdUemVGWUU1dHA3N2tIT2pGSjRhZHE5eXNiSmlySi12bm9yemVhUWM3Y283UWxUTXJ5QlVqU2xiUEoxWnVQOEVfcFZxU2hfSWIySmdlMkxN?oc=5",
@@ -3152,21 +3189,6 @@
       "amounts": [
         "$1 Billion"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "73fca141968611",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-16",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -8844,21 +8866,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6461591231a9f0",
       "title": "Donald Trump accelerates construction of AI infrastructure as Florida stands poised to restrict data centers - Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUVUN2N6Y3RtbVJfenN1a2N6d2RjMm5tSzZYUFBkMkE5WTd5R0tVNTh1WHFON3VXR1BOS0lEWHBpeEtXV1hDY0stZW42SW1ia3VSMXdCLUg5R2d3WWd1azhZbklNcWdnazVoaFdEZHFmSmRESGZDM0lvY3oyT25vUlpQMFdscE5rc2hwNUc2LUw2b1pYRzZNbzZ1ejJRMmItVXp4MTB6cXZ1a0ZYd1BkNE12MG82QUQ5MmNtX3k3WkFHaHFCY01maWRtendoN2o2Uk1qWHg3TFdqaXRNNENicWFBcGJXWlow?oc=5",
@@ -8871,6 +8878,21 @@
       "locations": [
         "Florida"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-05",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10256,21 +10278,6 @@
       "source_cat": "Tech News",
       "date": "2026-03-04",
       "summary": "The Neo won't be for everyone, but Apple has managed to preserve a premium feel.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "210d92ba828241",
-      "title": "The $599 MacBook Neo is Apple's long-awaited colorful, lower-cost MacBook",
-      "url": "https://arstechnica.com/gadgets/2026/03/the-599-macbook-neo-is-apples-long-awaited-colorful-lower-cost-macbook/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-04",
-      "summary": "Cute, colorful laptop takes the place of the old $599 M1 MacBook Air.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
