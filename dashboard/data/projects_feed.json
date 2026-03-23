@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-23T16:57:34.437621+00:00",
+  "last_updated": "2026-03-23T18:58:08.217204+00:00",
   "finding_count": 600,
-  "new_project_count": 73,
+  "new_project_count": 72,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 137,
+  "high_confidence_count": 139,
   "findings": [
     {
       "id": "03d5715964a754",
@@ -49,6 +49,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "257b39e569a412",
+      "title": "Metanet to migrate client data to Green-operated data centers in Zürich, Switzerland",
+      "url": "https://www.datacenterdynamics.com/en/news/metanet-to-migrate-client-data-to-green-operated-data-centers-in-z%C3%BCrich-switzerland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Swiss hosting and cloud firm to spend $3.1 million on \"rebuilding\" its infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$3.1 million"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "aa9fe2fdf60ac9",
       "title": "Eleveight AI deploys 512 Nvidia B300s at 2MW data center in Gagarin, Armenia",
       "url": "https://www.datacenterdynamics.com/en/news/eleveight-ai-deploys-512-nvidia-b300s-at-2mw-data-center-in-gagarin-armenia/",
@@ -68,22 +87,18 @@
       "is_high_confidence": true
     },
     {
-      "id": "540a62171907bc",
-      "title": "NextEra gets federal approval to build 10GW of natural gas power in Texas and Pennsylvania for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/nextera-gets-federal-approval-to-build-10gw-of-natural-gas-power-in-texas-and-pennsylvania-for-data-centers/",
+      "id": "39f2048c3cb64b",
+      "title": "How technology will unlock a $3 trillion opportunity in data center construction",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-technology-will-unlock-a-3-trillion-opportunity-in-data-center-construction/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-03-23",
-      "summary": "Tied to Japan's recent $550bn investment commitment to the US market",
-      "finding_type": "New Project",
+      "summary": "Could help overcome staff shortages and cut delays",
+      "finding_type": "Cancellation / Pause",
       "companies": [],
-      "locations": [
-        "Texas",
-        "Pennsylvania",
-        "Japan"
-      ],
+      "locations": [],
       "amounts": [
-        "10GW"
+        "$3 trillion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -103,6 +118,27 @@
       "locations": [],
       "amounts": [
         "$1 trillion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "540a62171907bc",
+      "title": "NextEra gets federal approval to build 10GW of natural gas power in Texas and Pennsylvania for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/nextera-gets-federal-approval-to-build-10gw-of-natural-gas-power-in-texas-and-pennsylvania-for-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Tied to Japan's recent $550bn investment commitment to the US market",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Texas",
+        "Pennsylvania",
+        "Japan"
+      ],
+      "amounts": [
+        "10GW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -226,6 +262,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "1b4c79550c21ed",
+      "title": "As AI outgrows the data center, the edge becomes critical",
+      "url": "https://siliconangle.com/2026/03/23/distributed-ai-infrastructure-gains-urgency-ai-era-nvidiagtcai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-23",
+      "summary": "As enterprises move from AI experimentation into production, some see distributed AI infrastructure as a strategic advantage rather than just a technical foundation. This shift is pushing organizations to rethink how — and where — AI runs. With AI environments becoming multi-agent and multi-model, organizations are prioritizing choice and flexibility over commitment to any single [&#8230;] \n The post  As AI outgrows the data center, the edge becomes critical  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "0ecd3523a0c5b2",
       "title": "As AI outgrows the data center, the edge becomes crtical",
       "url": "https://siliconangle.com/2026/03/23/distributed-ai-infrastructure-gains-urgency-ai-era-nvidiagtcai/",
@@ -238,6 +289,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "57ad7045776cc0",
+      "title": "National Geographic Society migrates 15 petabytes of media footage to AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/national-geographic-society-migrates-15-petabytes-of-media-footage-to-aws/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Will create a centralized hub of content",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e087f15a8a4ed4",
+      "title": "Nvidia LPU-based LPX rack to consume up to 160kW, be fully liquid cooled",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-lpu-based-lpx-rack-to-consume-up-to-160kw-be-fully-liquid-cooled/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "The same power consumption as its neighboring Vera Rubin rack",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -270,6 +355,23 @@
       "locations": [
         "Michigan"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e72d7eb33df07",
+      "title": "Vast Data and Nvidia target storage to unlock next-gen AI inference scale",
+      "url": "https://siliconangle.com/2026/03/23/ai-inference-gains-10x-boost-kv-cache-offloading-nvidiagtcai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-23",
+      "summary": "As AI inference demand grows, storage is becoming the pressure point that determines how far GPUs can truly scale. The pressure is especially acute for enterprises deploying agentic workflows, where massive fleets of agents send constant inference requests to GPU servers. Offloading previously computed attention data from high-bandwidth memory to intelligent storage tiers can significantly [&#8230;] \n The post  Vast Data and Nvidia target storage to unlock next-gen AI inference scale  appeared f",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -387,21 +489,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d97e9965c187c7",
-      "title": "AI factories & the waterless future",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/ai-factories-the-waterless-future/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "Waterless cooling is emerging as a critical foundation for scalable AI factory infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "b8feac87911705",
       "title": "Broadcom expands Kubernetes support with VKS upgrades, open-source contributions and new partnerships",
       "url": "https://siliconangle.com/2026/03/23/broadcom-expands-kubernetes-support-vks-upgrades-open-source-contributions-new-partnerships/",
@@ -410,6 +497,21 @@
       "date": "2026-03-23",
       "summary": "Broadcom Inc. is using this week’s KubeCon Europe 2026 conference to outline a multipronged strategy aimed at simplifying Kubernetes operations for enterprises while expanding support for artificial intelligence and modern application workloads. The company’s updates include new contributions of open-source software, enhancements to its VMware vSphere Kubernetes Service and an expansion of its partner ecosystem [&#8230;] \n The post  Broadcom expands Kubernetes support with VKS upgrades, open-sou",
       "finding_type": "Expansion",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d97e9965c187c7",
+      "title": "AI factories & the waterless future",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/ai-factories-the-waterless-future/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Waterless cooling is emerging as a critical foundation for scalable AI factory infrastructure",
+      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
@@ -552,8 +654,8 @@
       "id": "6936d3afec028d",
       "title": "Massive $33 billion energy hub for data centers announced in Pike County - The Columbus Dispatch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFBJbmJONU5wRS1Td0tZNW1RVUdOd2VtTEZ4V3VqLVJyWnJkNF9NNFktRzNMTmJzWGN5ZWhHakMwdjEzbFRZdzFvRTBvMk1GMTNYVHNjejZEWkQxa1VtOVBPQV92NnJKS2ZJRVVUX29GMFZ2V0FLRzRlU09scXFqcUhDUDJDTDlPdHRyd3hEN0tEQnZvbUhzc0F2VHFpRjFCY2g3bWpzeW0xN0tsSFE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-21",
       "summary": "Massive $33 billion energy hub for data centers announced in Pike County &nbsp;&nbsp; The Columbus Dispatch",
       "finding_type": "New Project",
@@ -784,25 +886,6 @@
       "amounts": [
         "$300M",
         "$300 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4b9b76fd897025",
-      "title": "Nvidia Stock (NVDA): $1T Order Backlog, Vera Rubin & Forecast 2026 - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WdkdrdC12VzJPc1JkSVpfcDNZNGd5X0U4RWxkaEZiTTVQMXJuTDVLRFhNQTFnTXRybjJTbnM4bk9PQ1l1MnU0X1MtNA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-20",
-      "summary": "Nvidia Stock (NVDA): $1T Order Backlog, Vera Rubin & Forecast 2026 &nbsp;&nbsp; techi.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1T"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1043,23 +1126,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "051cbbbde4c0c4",
-      "title": "Trump officials announce data center and gas plants for former Ohio uranium site - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbGlMV0hlcEVBZkhuem9TNFhVZlZGTDhmWWhJNTh4cEl3aDhFUDVwN0gzMl9LckdYb3BZQzNLTXF4X0NIbWszc0RJOTIwWWpTRi1NSjBfNVJ2YWdKNHJ5T0JDYkE2MUh1dXN5ZzE2S3VZZ1hja1FB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-20",
-      "summary": "Trump officials announce data center and gas plants for former Ohio uranium site &nbsp;&nbsp; CBS News",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "65a602cb2c8b3d",
       "title": "Nvidia and Adobe team up to bring digital twins into the marketing machine",
       "url": "https://siliconangle.com/2026/03/20/nvidia-adobe-bring-ai-powered-digital-production-nvidiagtcai/",
@@ -1089,6 +1155,23 @@
         "Microsoft"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "051cbbbde4c0c4",
+      "title": "Trump officials announce data center and gas plants for former Ohio uranium site - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbGlMV0hlcEVBZkhuem9TNFhVZlZGTDhmWWhJNTh4cEl3aDhFUDVwN0gzMl9LckdYb3BZQzNLTXF4X0NIbWszc0RJOTIwWWpTRi1NSjBfNVJ2YWdKNHJ5T0JDYkE2MUh1dXN5ZzE2S3VZZ1hja1FB?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-20",
+      "summary": "Trump officials announce data center and gas plants for former Ohio uranium site &nbsp;&nbsp; CBS News",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -2224,6 +2307,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "4b9b76fd897025",
+      "title": "Nvidia Stock (NVDA): $1T Order Backlog, Vera Rubin & Forecast 2026 - techi.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WdkdrdC12VzJPc1JkSVpfcDNZNGd5X0U4RWxkaEZiTTVQMXJuTDVLRFhNQTFnTXRybjJTbnM4bk9PQ1l1MnU0X1MtNA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-18",
+      "summary": "Nvidia Stock (NVDA): $1T Order Backlog, Vera Rubin & Forecast 2026 &nbsp;&nbsp; techi.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1T"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "a662b4ef57a673",
       "title": "Nvidia CEO Jensen Huang reveals chip sales in China are about to restart",
       "url": "https://siliconangle.com/2026/03/17/nvidia-ceo-jensen-huang-reveals-chip-sales-china-restart/",
@@ -3108,23 +3210,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6db5dbbd52acb5",
-      "title": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer - Money Morning",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHFLX3V3bFJTRkhEMG1oR2JSMDhkRVJ0NEFIRGI4WGVycjZyb3pydm1SSEEtMS10aEwxVVVRZ2JScHNOU09nR0pNSGlkQ0RqQlZ3cURQZXR3MFg5NUxEeDBHSGNrZDhodl9GYndHYjk0R0dNY2hkRHFsbEZieEllT0V5VmxKRXR3QWc?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-03-17",
-      "summary": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer &nbsp;&nbsp; Money Morning",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "653025e8a730ab",
       "title": "Announcing Copilot leadership update",
       "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
@@ -3186,6 +3271,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6db5dbbd52acb5",
+      "title": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer - Money Morning",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHFLX3V3bFJTRkhEMG1oR2JSMDhkRVJ0NEFIRGI4WGVycjZyb3pydm1SSEEtMS10aEwxVVVRZ2JScHNOU09nR0pNSGlkQ0RqQlZ3cURQZXR3MFg5NUxEeDBHSGNrZDhodl9GYndHYjk0R0dNY2hkRHFsbEZieEllT0V5VmxKRXR3QWc?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-03-17",
+      "summary": "OKLO: The Beaten-Down Nuclear Startup That Just Landed Meta as a Customer &nbsp;&nbsp; Money Morning",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -3713,6 +3815,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "73fca141968611",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-16",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "bdbcea5b494d65",
       "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - Caldwell County, NC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FWnZUYlIzMmdCMG43NENRbVJ6SXNacFZyZlRweXBPRk9RM0hIQ3F0eWlvS3RfTU1qZ2MtdUdfRGFhLUloOWRQOTA1ak1DUW9mbFFpU051dGZ3a0p2bWZnY01MR2NHLWs?oc=5",
@@ -3730,21 +3847,6 @@
       "amounts": [
         "$1 Billion"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "73fca141968611",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-16",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -5876,8 +5978,8 @@
       "id": "a97cdd0765bec4",
       "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
       "date": "2026-03-12",
       "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
@@ -9838,6 +9940,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "f2fb9f1d0b6032",
+      "title": "TCS Bets Big on AI Infrastructure Amid Stock Slump - Whalesbook",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDBmQUhSQjVDbXhYTHFYdlNzRGpHWFJZVGJhZnlyVkJzYVJRdzl6QXRBR2RHQVNyYlBuVmxKbUNwUEZuTGZlaVdvUF9wSFNlZVlpQ1JadEJkWmFQeExKdE9kVmVRZlJEUTgyV3lSU2lNSnp4SzNoRlkwallPZ0xVWFY0WXdmbGdvWW5UVWhZT3lGbFd2SjlNV3FNQ3ZIOWx0QVo1VW9oMGNDTUVvaG9NZUNQSzdySmkzNUtqQg?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-05",
+      "summary": "TCS Bets Big on AI Infrastructure Amid Stock Slump &nbsp;&nbsp; Whalesbook",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "f3fca7d7bd4325",
       "title": "Broadcom’s AI chip business jumps 106% as it cruises to another solid earnings and revenue beat",
       "url": "https://siliconangle.com/2026/03/04/broadcoms-ai-chip-business-jumps-106-cruises-another-solid-earnings-revenue-beat/",
@@ -10207,119 +10324,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cfef4c2b855425",
-      "title": "Intel unveils cutting-edge Xeon 6+ CPUs with 288 cores, targeting AI-ready networks",
-      "url": "https://siliconangle.com/2026/03/03/intel-unveils-cutting-edge-xeon-6-cpus-288-cores-targeting-ai-ready-networks/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-04",
-      "summary": "Intel Corp. today unveiled its most advanced central processing unit so far, targeting artificial intelligence networks and other data center applications. Announced at the MWC telecom conference in Barcelona, the Xeon 6+ CPU, codenamed “Clearwater Forest,” is targeted at networks and cloud infrastructures and is based on a complex multi-chiplet design that combines 12 compute [&#8230;] \n The post  Intel unveils cutting-edge Xeon 6+ CPUs with 288 cores, targeting AI-ready networks  appeared firs",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2a209c8605874b",
-      "title": "State-wide data center moratorium could be proposed in Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/state-wide-data-center-moratorium-could-be-proposed-in-pennsylvania/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-04",
-      "summary": "Calls for pause grow louder",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "16f6f4243aa17c",
-      "title": "Nvidia forms telco alliance to build open source 6G",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-forms-telco-alliance-to-build-open-source-6g/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-04",
-      "summary": "The Nvidia-telco commitment aims to be \"open with 6G from the outset,\" says Nvidia",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f30b695ca3ab3a",
-      "title": "Where are the data centers being built in Mississippi? See the map - The Clarion-Ledger",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3dHb2JXT2k0WTdlS0RrT2F3VE45UWtNb3JnRG04QnBKZ1Z6b1FfUFFsM2RuQU9rYzhjd01hZFAwZmNYQ2VHRVNZTU95MXQwWTE1VVY1cDR1bXBhT3BwbFYxZG5pWDZmRVZfUzJ2ZEc4dk5xX01yd3FCMkJQdVRfSnhHQ1ItRG5lOHc1UkQzQmFEWUdtU2F0ZWF2TTI?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-04",
-      "summary": "Where are the data centers being built in Mississippi? See the map &nbsp;&nbsp; The Clarion-Ledger",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e7b7dad27041f",
-      "title": "Introducing OpenClaw on Amazon Lightsail to run your autonomous private AI agents",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-openclaw-on-amazon-lightsail-to-run-your-autonomous-private-ai-agents/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-03-04",
-      "summary": "AWS launches OpenClaw on Amazon Lightsail to run OpenClaw instance, pairing your browser, enabling AI capabilities, and optionally connecting messaging channels. Your Lightsail OpenClaw instance is pre-configured with Amazon Bedrock for starting with your AI assistant immediately — no additional configuration required.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8705799c4ee8d7",
-      "title": "Who’s Funding the Data Center Boom? - CommercialSearch",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tTUxybElYX2dBcDFUa0VaeXc2Z2hQNWhqelhzY29qWU1zNllpUUw3ZDFkeTlZOUdrX1pKTDdwNnZoenlwbEIzSGxMWm81SUxQUmZYNmxZNVN3cklsR3pLZTFPdEZQMHF3cm40YmluLU1qc1haaHlsMEp0Ulo?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-03-04",
-      "summary": "Who’s Funding the Data Center Boom? &nbsp;&nbsp; CommercialSearch",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "545ad393809d3a",
-      "title": "March 2026 Data Center Report: Year Begins with Record Construction Starts - ConstructConnect News",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rLWF2SEtFVVRsRDFYTFE1aTBkZUVkZkozSmtJV3NuQl80OUIzcnFTTXhPSWllUzFaOGxpRDdwYnMtNDNaMmJYdTB6cnVtTXdQUFdGUU1iT2ZRX1diaWZ3QV92US0xaHlKQUdUdnhTelXSAYABQVVfeXFMUEFibVkyYjhLLXpZQ19lWVZFVEMyQ2pIT05TVlpVWDc0M3RvemdDSTRSNlZuV3hzNGpfZUFadHA0a2ZkbklkNUlTc0FreS1OUjFEM19KOFV4UTlTYjBCWmxUai10T2hDWm1mallIRUdaT2pqemhlSjJseFJvU19BMDg?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-04",
-      "summary": "March 2026 Data Center Report: Year Begins with Record Construction Starts &nbsp;&nbsp; ConstructConnect News",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
