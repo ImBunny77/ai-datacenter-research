@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-24T17:01:15.006096+00:00",
+  "last_updated": "2026-03-24T19:05:30.918009+00:00",
   "finding_count": 600,
-  "new_project_count": 73,
-  "cancellation_count": 18,
+  "new_project_count": 74,
+  "cancellation_count": 19,
   "sec_filing_count": 1,
-  "high_confidence_count": 133,
+  "high_confidence_count": 135,
   "findings": [
     {
       "id": "3fad2aa0741164",
@@ -19,6 +19,48 @@
       "locations": [],
       "amounts": [
         "$1.4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b065ac5f1efce5",
+      "title": "Metrobloks announces plans for three-building data center campus in Kansas City, Missouri",
+      "url": "https://www.datacenterdynamics.com/en/news/metrobloks-announces-plans-for-three-building-data-center-campus-in-kansas-city-missouri/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-24",
+      "summary": "Company to invest $1.4 billion in project",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Kansas",
+        "Missouri"
+      ],
+      "amounts": [
+        "$1.4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2d7b673eab3d9a",
+      "title": "Microsoft agrees to lease 700MW at Crusoe's data center in Abilene, Texas - report",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-agrees-to-lease-700mw-at-crusoes-data-center-in-abilene-texas-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-24",
+      "summary": "Talks conclude: Microsoft gets the gig",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Texas",
+        "Abilene"
+      ],
+      "amounts": [
+        "700MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -79,23 +121,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "9d33cf137e46e6",
-      "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site - WLWT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGRXM3AwR0NjZW1rZmlPdU9faE03emZ5QzQ0RUl3UlRrVmVRY1MtbjdzaFMxbnFFMzVJNnJvWlFGTnRqRTJyRC1ZZ3d4a3BndU5laUtGUGZTd0VnMy1sc25iSk9qdGhnN01kM1hhbmx0STlsaGtkbFl5SFVILW5ZMmk1eGZ5S3JyNmtldldBZm5ScEdRQ3lBX2FXNWk?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-24",
-      "summary": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site &nbsp;&nbsp; WLWT",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "8d64275a4f2a9c",
       "title": "AWS Bahrain region \"disrupted\" by drone activity as war in Middle East continues to impact data centers",
       "url": "https://www.datacenterdynamics.com/en/news/aws-bahrain-region-disrupted-by-drone-activity-as-war-in-middle-east-continues-to-impact-data-centers/",
@@ -108,6 +133,40 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "48f3bc3fbd270e",
+      "title": "Meta Partners With Arm to Develop New Class of Data Center Silicon",
+      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-03-24",
+      "summary": "We’re partnering with Arm to develop a new class of CPUs purpose-built to support data centers and large-scale AI deployments. \n The post  Meta Partners With Arm to Develop New Class of Data Center Silicon  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9d33cf137e46e6",
+      "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site - WLWT",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGRXM3AwR0NjZW1rZmlPdU9faE03emZ5QzQ0RUl3UlRrVmVRY1MtbjdzaFMxbnFFMzVJNnJvWlFGTnRqRTJyRC1ZZ3d4a3BndU5laUtGUGZTd0VnMy1sc25iSk9qdGhnN01kM1hhbmx0STlsaGtkbFl5SFVILW5ZMmk1eGZ5S3JyNmtldldBZm5ScEdRQ3lBX2FXNWk?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-24",
+      "summary": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site &nbsp;&nbsp; WLWT",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -143,6 +202,23 @@
       ],
       "locations": [
         "India"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "958c989631afa8",
+      "title": "Cerebras plans data center in Manitoba, Canada",
+      "url": "https://www.datacenterdynamics.com/en/news/cerebras-plans-data-center-in-manitoba-canada/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-24",
+      "summary": "Following Saskatchewan announcement with Bell",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Canada"
       ],
       "amounts": [],
       "confidence": 3,
@@ -349,6 +425,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "a6b55086681e01",
+      "title": "Google's new version of Android Automotive will move beyond infotainment",
+      "url": "https://arstechnica.com/cars/2026/03/google-wants-android-automotive-to-control-more-of-your-car/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-24",
+      "summary": "Google wants Android in cars to break out of the infotainment box.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f443b6b8521898",
+      "title": "All of DOGE’s work could be undone as lawsuit against Musk proceeds",
+      "url": "https://arstechnica.com/tech-policy/2026/03/all-of-doges-work-could-be-undone-as-lawsuit-against-musk-proceeds/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-24",
+      "summary": "Musk’s X posts bragging about DOGE may trigger reversals of its biggest wins.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e2cd63bb0f9156",
       "title": "Claude Code can now take over your computer to complete tasks",
       "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
@@ -446,6 +556,36 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "67fa35c81cffe5",
+      "title": "The race to control AI infrastructure is on, and SUSE is going all in on open cloud-native power",
+      "url": "https://siliconangle.com/2026/03/24/suse-pitches-open-infrastructure-modernization-platform-ai-kubeconeu/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-24",
+      "summary": "As enterprises move toward cloud-native architectures and AI-driven operations, the fight for control is intensifying. But as complexity surges, can open infrastructure restore order fast enough? The modernization push is arriving amid near-universal Kubernetes adoption, with 82% of container users now running it in production. SUSE S.A. is positioning itself at the center of this [&#8230;] \n The post  The race to control AI infrastructure is on, and SUSE is going all in on open cloud-native pow",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cf6d7ced3e3ba0",
+      "title": "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
+      "url": "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-24",
+      "summary": "Apple Maps ads will look and work a bit like current App Store ads do.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -734,40 +874,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "57ad7045776cc0",
-      "title": "National Geographic Society migrates 15 petabytes of media footage to AWS",
-      "url": "https://www.datacenterdynamics.com/en/news/national-geographic-society-migrates-15-petabytes-of-media-footage-to-aws/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "Will create a centralized hub of content",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e087f15a8a4ed4",
-      "title": "Nvidia LPU-based LPX rack to consume up to 160kW, be fully liquid cooled",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-lpu-based-lpx-rack-to-consume-up-to-160kw-be-fully-liquid-cooled/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "The same power consumption as its neighboring Vera Rubin rack",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "eb69dc4ffd08f0",
       "title": "Dell targets the weak link in AI infrastructure: Resilience gaps in the data center",
       "url": "https://siliconangle.com/2026/03/23/resilient-infrastructure-key-securing-ai-workloads-rsac26/",
@@ -862,6 +968,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "57ad7045776cc0",
+      "title": "National Geographic Society migrates 15 petabytes of media footage to AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/national-geographic-society-migrates-15-petabytes-of-media-footage-to-aws/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Will create a centralized hub of content",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e087f15a8a4ed4",
+      "title": "Nvidia LPU-based LPX rack to consume up to 160kW, be fully liquid cooled",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-lpu-based-lpx-rack-to-consume-up-to-160kw-be-fully-liquid-cooled/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "The same power consumption as its neighboring Vera Rubin rack",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -10132,6 +10272,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-05",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6461591231a9f0",
       "title": "Donald Trump accelerates construction of AI infrastructure as Florida stands poised to restrict data centers - Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaUVUN2N6Y3RtbVJfenN1a2N6d2RjMm5tSzZYUFBkMkE5WTd5R0tVNTh1WHFON3VXR1BOS0lEWHBpeEtXV1hDY0stZW42SW1ia3VSMXdCLUg5R2d3WWd1azhZbklNcWdnazVoaFdEZHFmSmRESGZDM0lvY3oyT25vUlpQMFdscE5rc2hwNUc2LUw2b1pYRzZNbzZ1ejJRMmItVXp4MTB6cXZ1a0ZYd1BkNE12MG82QUQ5MmNtX3k3WkFHaHFCY01maWRtendoN2o2Uk1qWHg3TFdqaXRNNENicWFBcGJXWlow?oc=5",
@@ -10149,21 +10304,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a0107db0230658",
       "title": "Unbox the sleek, durable new Pixel 10a with us.",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-10a-unboxing-video/",
@@ -10174,140 +10314,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b126692ed0b3ee",
-      "title": "We’re opening the Google AI Center Berlin as a hub for researchers, developers and leaders.",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/google-ai-center-berlin/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-03-05",
-      "summary": "Photo of the Google team",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ba82250d583773",
-      "title": "OpenAI launches GPT-5.4 with computer vision, tool use enhancements",
-      "url": "https://siliconangle.com/2026/03/05/openai-launches-gpt-5-4-computer-vision-tool-use-enhancements/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-05",
-      "summary": "OpenAI Group PBC today launched a new large language model that it says is more adept at automating work tasks than its earlier algorithms. GPT-5.4 is available in ChatGPT, the Codex programming tool and OpenAI’s application programming interface. The company bills API users based on the number of tokens that its LLMs process while generating [&#8230;] \n The post  OpenAI launches GPT-5.4 with computer vision, tool use enhancements  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20024fcce94267",
-      "title": "The infrastructure bottleneck: Why enterprise AI needs a ‘hyperspeed’ pivot",
-      "url": "https://siliconangle.com/2026/03/05/infrastructure-bottleneck-enterprise-ai-needs-hyperspeed-pivot/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-05",
-      "summary": "We are squarely in the artificial intelligence event season with MWC just wrapping up and Nvidia GTC and RSAC on deck. The talk of every show this year has been about moving AI from vision to reality. However, it’s often the case that the transition from AI experimentation to production-grade, value-generating systems hits a wall because [&#8230;] \n The post  The infrastructure bottleneck: Why enterprise AI needs a &#8216;hyperspeed&#8217; pivot  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7ad9de32451365",
-      "title": "Edge AI puts real-time performance on a millisecond deadline",
-      "url": "https://siliconangle.com/2026/03/05/real-time-determinism-critical-edge-ai-mwc26/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-05",
-      "summary": "AI is moving beyond centralized data centers and into the physical world, where real-time determinism is emerging as a critical requirement for the next generation of edge computing. As AI expands into environments such as telecommunications networks, vehicles and industrial systems, machines must sense, reason and respond instantly rather than simply generate answers from static [&#8230;] \n The post  Edge AI puts real-time performance on a millisecond deadline  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8b2b8df847500d",
-      "title": "Google Threat Intelligence Group warns enterprise systems increasingly targeted by zero-day exploits",
-      "url": "https://siliconangle.com/2026/03/05/google-threat-intelligence-group-warns-enterprise-systems-increasingly-targeted-zero-day-exploits/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-05",
-      "summary": "A new report out today from Google LLC&#8217;s Threat Intelligence Group finds that zero-day vulnerability exploitation remained elevated in 2025 as attackers increasingly targeted enterprise infrastructure and security appliances rather than traditional consumer software. A zero-day vulnerability is a previously unknown software vulnerability that attackers exploit before the vendor has had zero days to fix [&#8230;] \n The post  Google Threat Intelligence Group warns enterprise systems increasi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2203b562397d04",
-      "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-      "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-05",
-      "summary": "Meta accused of \"concealing the facts\" about smart glass users' privacy.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e020b77a415722",
-      "title": "MS exec: Microsoft's next console will play \"Xbox and PC games\"",
-      "url": "https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-05",
-      "summary": "Project Helix is set to open the closed-console ecosystem, but the details will matter.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "123ec8e36fc883",
-      "title": "RFK Jr.’s anti-vaccine policies are \"unreviewable,\" DOJ lawyer tells judge",
-      "url": "https://arstechnica.com/health/2026/03/rfk-jr-can-promote-getting-measles-with-impunity-doj-lawyer-tells-judge/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-05",
-      "summary": "The startling claim came amid a lawsuit from the American Academy of Pediatrics.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
