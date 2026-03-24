@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-03-24T13:16:04.223166+00:00",
+  "last_updated": "2026-03-24T15:00:06.630188+00:00",
   "finding_count": 600,
-  "new_project_count": 71,
+  "new_project_count": 72,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 132,
+  "high_confidence_count": 133,
   "findings": [
+    {
+      "id": "3fad2aa0741164",
+      "title": "Metrobloks announces $1.4 billion data center coming to Liberty - KCTV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0VGclc4UWt6c201cHlnT0FMRUhRZnJ1NDlwZkgwaENQQnNjNUl5emJrb0FNakdrTEtYWjB6dG9CWm12SmFjWnlfLUtLUDFDWVNxOUpnV0o4M0tCZ1J2U1RHTzZjN09ZOHQ3MzM0ZndscDd0SElPazl1SjIxWjBibWNVSzhZYmd1enN6c21TeUhTQ29ybU0xNEJQWEE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-24",
+      "summary": "Metrobloks announces $1.4 billion data center coming to Liberty &nbsp;&nbsp; KCTV",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "8642768a81441a",
       "title": "FuelCell Energy launches 12.5MW modular energy solution for data center sector",
@@ -140,6 +157,26 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c8a4cc872388d3",
+      "title": "Oracle reveals Hosted Dedicated Region offering",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-reveals-hosted-dedicated-region-offering/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-24",
+      "summary": "Also adds new UK regions for Oracle Database@AWS",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Oracle"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -625,13 +662,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "328daf608e65bf",
-      "title": "AI workloads demand protection before the attack, warns Dell",
+      "id": "eb69dc4ffd08f0",
+      "title": "Dell targets the weak link in AI infrastructure: Resilience gaps in the data center",
       "url": "https://siliconangle.com/2026/03/23/resilient-infrastructure-key-securing-ai-workloads-rsac26/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-03-23",
-      "summary": "As AI workloads flood enterprise data centers, the resilient infrastructure that supports them is becoming just as important as the models themselves — and just as exposed to sophisticated threats. That urgency is front and center for Dell Technologies Inc., which is rolling out a set of cyber resilience and data protection enhancements designed to close [&#8230;] \n The post  AI workloads demand protection before the attack, warns Dell  appeared first on  SiliconANGLE .",
+      "summary": "As AI workloads flood enterprise data centers, the resilient infrastructure that supports them is becoming just as important as the models themselves — and just as exposed to sophisticated threats. That urgency is front and center for Dell Technologies Inc., which is rolling out a set of cyber resilience and data protection enhancements designed to close [&#8230;] \n The post  Dell targets the weak link in AI infrastructure: Resilience gaps in the data center  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -720,6 +757,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "328daf608e65bf",
+      "title": "AI workloads demand protection before the attack, warns Dell",
+      "url": "https://siliconangle.com/2026/03/23/resilient-infrastructure-key-securing-ai-workloads-rsac26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-23",
+      "summary": "As AI workloads flood enterprise data centers, the resilient infrastructure that supports them is becoming just as important as the models themselves — and just as exposed to sophisticated threats. That urgency is front and center for Dell Technologies Inc., which is rolling out a set of cyber resilience and data protection enhancements designed to close [&#8230;] \n The post  AI workloads demand protection before the attack, warns Dell  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -820,21 +872,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1d2e6c86ed00f7",
-      "title": "Upstage in talks with AMD to deploy 10,000 MI355 GPUs across South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/upstage-in-talks-with-amd-to-deploy-10000-mi355-gpus-across-south-korea/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "Companies currently negotiating deal following visit to country by AMD CEO, Lisa Su",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "e9c68e0f582d3f",
       "title": "As AI reshapes the storage hierarchy, SSDs move to the center of inference",
       "url": "https://siliconangle.com/2026/03/23/ssd-infrastructure-becomes-critical-ai-inference-scales-nvidiagtcai/",
@@ -843,6 +880,21 @@
       "date": "2026-03-23",
       "summary": "AI inference workloads are drastically changing the data storage landscape, creating a new tier of SSD infrastructure between GPU memory and traditional data lakes. The partnership between platform builder AIC Inc. and SSD maker Solidigm, a trademark of SK Hynix NAND Product Solutions Corp., illustrates how collaborating ecosystems are shaping a broader shift in storage, [&#8230;] \n The post  As AI reshapes the storage hierarchy, SSDs move to the center of inference  appeared first on  SiliconAN",
       "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1d2e6c86ed00f7",
+      "title": "Upstage in talks with AMD to deploy 10,000 MI355 GPUs across South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/upstage-in-talks-with-amd-to-deploy-10000-mi355-gpus-across-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-23",
+      "summary": "Companies currently negotiating deal following visit to country by AMD CEO, Lisa Su",
+      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
@@ -5161,8 +5213,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10249,58 +10301,6 @@
       "companies": [],
       "locations": [
         "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3a19c886bb0939",
-      "title": "Emerald AI releases results of UK demonstration project in partnership with National Grid",
-      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-releases-results-of-uk-demonstration-project-in-partnership-with-national-grid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Conducted over five days at a Nebius data center in London",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK",
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e809282eee52e",
-      "title": "Nvidia reallocates China H200 manufacturing capacity for Vera Rubin chips - report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-reallocates-china-h200-manufacturing-capacity-for-vera-rubin-chips-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Decision results from lack of meaningful GPU sales to Chinese customers",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "12dfbfe6db45c7",
-      "title": "Prologis details plans for data center campus outside Cincinnati, Ohio",
-      "url": "https://www.datacenterdynamics.com/en/news/prologis-details-plans-for-data-center-campus-outside-cincinnati-ohio/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-05",
-      "summary": "Project Mila to total four buildings and 880,000 sq ft",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
       ],
       "amounts": [],
       "confidence": 2,
