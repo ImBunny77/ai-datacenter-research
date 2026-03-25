@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-25T18:58:09.692762+00:00",
+  "last_updated": "2026-03-25T20:40:43.750421+00:00",
   "finding_count": 600,
-  "new_project_count": 77,
-  "cancellation_count": 18,
+  "new_project_count": 78,
+  "cancellation_count": 17,
   "sec_filing_count": 1,
-  "high_confidence_count": 138,
+  "high_confidence_count": 139,
   "findings": [
     {
       "id": "6013b2ed9e7694",
@@ -139,6 +139,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "02d689891f3355",
+      "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
+      "url": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-25",
+      "summary": "Meta emerges as the biggest loser as second child safety trial verdict hits.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$3M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "3b0e4cd5914669",
       "title": "PDG plans two more data center campuses in India, totaling 210MW",
       "url": "https://www.datacenterdynamics.com/en/news/pdg-plans-two-more-data-center-campuses-in-india-totaling-210mw/",
@@ -211,6 +230,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7b64a135e7ee49",
+      "title": "Sanders and AOC Move to Freeze Data Center Construction - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQclNLVjB4TEFnWlRlSkY0azJYeEFPZnJsVWx4M1RrY3Uxa05nN1M2MHdHVjVtUmczdDZCVTlXZWpzTUM5TV9SSkc5VjMzTVQwbnBLZTB5UnltdnVJLU5KbFZUVVZmaFFXLWdCdS1oS3NQUlVlN2gtUFNjLUg0Vk43dF9aX2xMaXlxWXUwTkJLOGMxQQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-03-25",
+      "summary": "Sanders and AOC Move to Freeze Data Center Construction &nbsp;&nbsp; The Tech Buzz",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -447,6 +481,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "df46d0548a6b1f",
+      "title": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-03-25",
+      "summary": "AWS introduces a new express configuration for Amazon Aurora PostgreSQL, a streamlined database creation experience with preconfigured defaults designed to help you get started in seconds. With Aurora PostgreSQL, start building quickly from the RDS Console or your preferred developer tool—with the ability to modify configurations anytime. Plus, Aurora PostgreSQL is now available with AWS Free Tier.",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "929c30536b23ba",
       "title": "Build with Lyria 3, our newest music generation model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
@@ -592,13 +643,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "03fc9401c302cc",
-      "title": "City of Liberty announces new $1.4 billion AI data center - spectrumlocalnews.com",
+      "id": "11ed0f2b34e3f1",
+      "title": "City of Liberty announces new $1.4 billion AI data center - Spectrum News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjB3aFl5Ylpnclp0bGRha05zUFhNOUNjWWJGdGVYRmZOMUpYc2ZQNWFBWk1uVjFGblo5ZHQyMkdYQnlEYXc0SXpGcEVRUHpTRUh3R25xMnB3SEl1QUdBejZscVR4S3JNcWhmbXBfdThzbHlNMWxiREJ0U2oxU1h3YnBidTM1OWs5RWhMcUo5cXBlRy0weXRr?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-24",
-      "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; spectrumlocalnews.com",
+      "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; Spectrum News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -609,13 +660,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "11ed0f2b34e3f1",
-      "title": "City of Liberty announces new $1.4 billion AI data center - Spectrum News",
+      "id": "03fc9401c302cc",
+      "title": "City of Liberty announces new $1.4 billion AI data center - spectrumlocalnews.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjB3aFl5Ylpnclp0bGRha05zUFhNOUNjWWJGdGVYRmZOMUpYc2ZQNWFBWk1uVjFGblo5ZHQyMkdYQnlEYXc0SXpGcEVRUHpTRUh3R25xMnB3SEl1QUdBejZscVR4S3JNcWhmbXBfdThzbHlNMWxiREJ0U2oxU1h3YnBidTM1OWs5RWhMcUo5cXBlRy0weXRr?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-24",
-      "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; Spectrum News",
+      "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; spectrumlocalnews.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -10254,59 +10305,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bbf1dc1fc89d3d",
-      "title": "Plans for ammonia plant in Norway dropped, company set to target site for data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-for-ammonia-plant-in-norway-dropped-company-set-to-target-site-for-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-06",
-      "summary": "Delays to project saw plant lose place in queue with Norwegian grid operator",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3cdbdf3e60bc3a",
-      "title": "Perplexity signs cloud capacity deal with CoreWeave",
-      "url": "https://www.datacenterdynamics.com/en/news/perplexity-signs-cloud-capacity-deal-with-coreweave/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-06",
-      "summary": "ElevenLabs opts for Google Cloud",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Google",
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e4be0432b4eff5",
-      "title": "OpenAI introduces Codex Security to help developers fix software vulnerabilities",
-      "url": "https://siliconangle.com/2026/03/06/openai-introduces-codex-security-help-developers-fix-software-vulnerabilities/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-06",
-      "summary": "OpenAI Group PBC today debuted Codex Security, a new tool in its Codex programming assistant that can help developers find and fix code vulnerabilities. The launch comes two weeks after Anthropic PBC introduced a competing product. Claude Code Security can analyze an application’s code base, identify vulnerabilities and suggest fixes. Codex Security works in a [&#8230;] \n The post  OpenAI introduces Codex Security to help developers fix software vulnerabilities  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
