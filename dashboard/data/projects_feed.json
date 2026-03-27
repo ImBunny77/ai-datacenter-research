@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-27T13:11:00.302227+00:00",
+  "last_updated": "2026-03-27T14:52:22.406435+00:00",
   "finding_count": 600,
   "new_project_count": 76,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 145,
+  "high_confidence_count": 146,
   "findings": [
     {
       "id": "a6ae388490877d",
@@ -23,6 +23,25 @@
         "550MW"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d96bef4b0a0453",
+      "title": "$4bn data center in Indianapolis, Indiana, gets go ahead",
+      "url": "https://www.datacenterdynamics.com/en/news/4bn-data-center-in-indianapolis-indiana-gets-go-ahead/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-27",
+      "summary": "Will offer 250MW of capacity at completion",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "250MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -153,6 +172,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "79c67968f53531",
+      "title": "Rewiring resilience: The case for DC-powered lighting in data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rewiring-resilience-the-case-for-dc-powered-lighting-in-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-27",
+      "summary": "A lightbulb moment",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b0a576fa137fc1",
       "title": "Pennsylvania House advances bill aimed at shielding ratepayers from rising costs associated with data center growth",
       "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-advances-bill-aimed-at-shielding-ratepayers-from-rising-costs-associated-with-data-center-growth/",
@@ -251,6 +285,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "edecb27cba115f",
+      "title": "Judge issues block on Pentagon’s label of Anthropic as supply chain risk",
+      "url": "https://siliconangle.com/2026/03/26/judge-issues-block-pentagon-label-anthropic-supply-chain-risk/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-27",
+      "summary": "A U.S. judge ​today temporarily blocked the Pentagon&#8217;s blacklisting of Anthropic PBC after the Department of Defense last month designated the company a “supply chain risk” over disagreements over how it intends to use its chatbot Claude. The spat originated after Anthropic won a contract to provide the Pentagon with access to its Claude series [&#8230;] \n The post  Judge issues block on Pentagon&#8217;s label of Anthropic as supply chain risk  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d939047f4cc18c",
+      "title": "Senators want US energy information agency to monitor data center electricity usage",
+      "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-03-27",
+      "summary": "In a letter, senators press for mandated annual electricity disclosure for data centers.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e7402a63bd318c",
       "title": "Two data centers to be built at life science campus outside London, UK",
       "url": "https://www.datacenterdynamics.com/en/news/two-data-centers-to-be-built-at-life-science-campus-outside-london-uk/",
@@ -278,23 +344,6 @@
       "summary": "The ability to scale watts and heat together without introducing reliability or efficiency penalties provides a competitive advantage for data center operators",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "edecb27cba115f",
-      "title": "Judge issues block on Pentagon’s label of Anthropic as supply chain risk",
-      "url": "https://siliconangle.com/2026/03/26/judge-issues-block-pentagon-label-anthropic-supply-chain-risk/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-27",
-      "summary": "A U.S. judge ​today temporarily blocked the Pentagon&#8217;s blacklisting of Anthropic PBC after the Department of Defense last month designated the company a “supply chain risk” over disagreements over how it intends to use its chatbot Claude. The spat originated after Anthropic won a contract to provide the Pentagon with access to its Claude series [&#8230;] \n The post  Judge issues block on Pentagon&#8217;s label of Anthropic as supply chain risk  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1002,8 +1051,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10249,55 +10298,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71dd950ffd832e",
-      "title": "Why network as a service is gaining momentum in the distributed enterprise",
-      "url": "https://siliconangle.com/2026/03/10/network-as-a-service-gaining-traction-ai-era-thecube-cubeconversations/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-10",
-      "summary": "Network as a service is emerging as a critical enabler for enterprises navigating distributed architectures, hybrid cloud environments and the growing demands of AI-driven workloads. As organizations move applications, data and analytics across cloud platforms, edge locations and data centers, the role of the network shifts from static infrastructure to a dynamic platform that can [&#8230;] \n The post  Why network as a service is gaining momentum in the distributed enterprise  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1af268a488c8a5",
-      "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
-      "url": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-10",
-      "summary": "One toggle for \"fast classic search.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5c7a64f1a28a90",
-      "title": "Anthropic sues US over blacklisting; White House calls firm \"radical left, woke\"",
-      "url": "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-10",
-      "summary": "Anthropic says it was blacklisted for opposing autonomous weapons, mass surveillance.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
