@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-30T15:05:00.882686+00:00",
+  "last_updated": "2026-03-30T16:58:24.362798+00:00",
   "finding_count": 600,
-  "new_project_count": 72,
+  "new_project_count": 73,
   "cancellation_count": 24,
   "sec_filing_count": 1,
-  "high_confidence_count": 154,
+  "high_confidence_count": 155,
   "findings": [
     {
       "id": "f941d3a363094a",
@@ -58,6 +58,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "1ab2f40a9d96d2",
+      "title": "60MW data center colocated with solar and battery storage planned in Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/60mw-data-center-colocated-with-solar-and-battery-storage-planned-in-finland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "French energy firm latest to target Finland for data center development",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "60MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "878d084d8e610c",
       "title": "170MW data center campus proposed in Boulder, Nevada",
       "url": "https://www.datacenterdynamics.com/en/news/170mw-data-center-campus-proposed-in-boulder-nevada/",
@@ -72,6 +91,26 @@
       ],
       "amounts": [
         "170MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7a4a1099e19522",
+      "title": "Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips",
+      "url": "https://siliconangle.com/2026/03/30/rebellions-inc-lands-400m-funding-lead-south-korean-revolt-nvidia-chips/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-30",
+      "summary": "Cloud-native artificial intelligence inference chip startup Rebellions Inc. is upping its game in an effort to compete better with rivals such as Nvidia Corp. and Advanced Micro Devices Inc. by raising a massive $400 million in what it calls a “pre-IPO funding round.” Mirae Asset Financial Group and the Korea National Growth Fund led the [&#8230;] \n The post  Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$400 million",
+        "$400M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -113,26 +152,6 @@
       "amounts": [
         "$830m",
         "200MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7a4a1099e19522",
-      "title": "Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips",
-      "url": "https://siliconangle.com/2026/03/30/rebellions-inc-lands-400m-funding-lead-south-korean-revolt-nvidia-chips/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-30",
-      "summary": "Cloud-native artificial intelligence inference chip startup Rebellions Inc. is upping its game in an effort to compete better with rivals such as Nvidia Corp. and Advanced Micro Devices Inc. by raising a massive $400 million in what it calls a “pre-IPO funding round.” Mirae Asset Financial Group and the Korea National Growth Fund led the [&#8230;] \n The post  Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$400M",
-        "$400 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -184,6 +203,85 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "901ec91a3f2115",
+      "title": "Oppidan data center outside Minneapolis rejected",
+      "url": "https://www.datacenterdynamics.com/en/news/oppidan-data-center-outside-minneapolis-rejected/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "Brings end to year-long application process",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6ea8b771ba720f",
+      "title": "Two research institutions partner for new HPC data center in Berlin, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/two-research-institutions-partner-for-new-hpc-data-center-in-berlin-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "Initially will be housed at ZIB and HZB's existing buildings, with a new facility to be constructed later",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "891b7abdd3cf17",
+      "title": "Mitsui and Hitachi could put data centers on used boats",
+      "url": "https://www.datacenterdynamics.com/en/news/mitsui-and-hitachi-could-put-data-centers-on-used-boats/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "The cloud could soon be riding the waves",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c3e29feedb7994",
+      "title": "AI in space: Why tomorrow's networks will need an interconnected orbit",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-in-space-why-tomorrows-networks-will-need-an-interconnected-orbit/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "The future of data centers in space",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bcc5b98e54d1c7",
+      "title": "Google's 105-qubit Willow quantum processor opens for early access",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-105-qubit-willow-quantum-processor-opens-for-early-access/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-30",
+      "summary": "Researchers invited to use not-yet-public chip that’s five times more reliable than its predecessor",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -255,6 +353,74 @@
       "is_high_confidence": false
     },
     {
+      "id": "e1d8f29112a070",
+      "title": "On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI",
+      "url": "https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-30",
+      "summary": "The warning bell is sounding for cybersecurity, as machine identities flood the system faster than companies can secure their data. At the annual Nvidia GTC event, Nvidia Corp. CEO Jensen Huang introduced a series of open-source tools based on OpenClaw, an open-source AI agent. The main tool, NemoClaw, is designed to safeguard OpenClaw’s outputs, but security [&#8230;] \n The post  On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI  appeared fi",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4b9e7e4c40980",
+      "title": "OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds",
+      "url": "https://siliconangle.com/2026/03/30/openai-codex-vulnerability-enabled-github-token-theft-via-command-injection-report-finds/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-30",
+      "summary": "A critical vulnerability in OpenAI Group PBC&#8217;s Codex coding agent could have exposed sensitive GitHub authentication tokens through a command injection flaw, according to a new report out today from Phantom Labs, the research arm of identity and access security company BeyondTrust Corp. Codex is a coding assistant offered as part of ChatGPT that allows developers to interact [&#8230;] \n The post  OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds  app",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "136452da664cf0",
+      "title": "AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more (March 30, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-03-30",
+      "summary": "Last week, what excited me most was the launch of the 2026 AWS AI &amp; ML Scholars program by Swami Sivasubramanian, VP of AWS Agentic AI, to provide free AI education to up to 100,000 learners worldwide. The program has two phases: a Challenge phase where you’ll learn foundational generative AI skills, followed by a […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5f7160d0ccd4e7",
+      "title": "Google Maps simplifies battery predictions and trip planning for 350+ Android Auto EV models.",
+      "url": "https://blog.google/products-and-platforms/products/maps/google-maps-simplifies-battery-predictions-and-trip-planning-for-350-android-auto-ev-models/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-30",
+      "summary": "A video showing someone inputting their battery level into Google Maps for custom charging recommendations.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "eb66426991393b",
       "title": "Prologis files to develop data center outside Toronto, Canada",
       "url": "https://www.datacenterdynamics.com/en/news/prologis-files-to-develop-data-center-outside-toronto-canada/",
@@ -298,40 +464,6 @@
       "summary": "Details on facility not shared",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e1d8f29112a070",
-      "title": "On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI",
-      "url": "https://siliconangle.com/2026/03/30/machine-identities-ai-rsac-thecubepod/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-30",
-      "summary": "The warning bell is sounding for cybersecurity, as machine identities flood the system faster than companies can secure their data. At the annual Nvidia GTC event, Nvidia Corp. CEO Jensen Huang introduced a series of open-source tools based on OpenClaw, an open-source AI agent. The main tool, NemoClaw, is designed to safeguard OpenClaw’s outputs, but security [&#8230;] \n The post  On theCUBE Pod: RSAC raises alarms over open-source agents and KubeCon’s role changes in the wake of AI  appeared fi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a4b9e7e4c40980",
-      "title": "OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds",
-      "url": "https://siliconangle.com/2026/03/30/openai-codex-vulnerability-enabled-github-token-theft-via-command-injection-report-finds/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-30",
-      "summary": "A critical vulnerability in OpenAI Group PBC&#8217;s Codex coding agent could have exposed sensitive GitHub authentication tokens through a command injection flaw, according to a new report out today from Phantom Labs, the research arm of identity and access security company BeyondTrust Corp. Codex is a coding assistant offered as part of ChatGPT that allows developers to interact [&#8230;] \n The post  OpenAI Codex vulnerability enabled GitHub token theft via command injection, report finds  app",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1462,23 +1594,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "770d48e772884f",
-      "title": "Google, Cohere launch new audio AI models",
-      "url": "https://siliconangle.com/2026/03/26/google-cohere-launch-new-audio-models/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-26",
-      "summary": "Google LLC and Cohere Inc. today released new artificial intelligence models optimized for audio processing tasks.  The search giant’s algorithm, Gemini 3.1 Flash Live, can automate customer service interactions. Cohere’s new AI is designed to transcribe speech. Both models provide significantly higher output quality than their predecessors. Companies can use Gemini 3.1 Flash Live to [&#8230;] \n The post  Google, Cohere launch new audio AI models  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "80d50c17640b73",
       "title": "Customize your AWS Management Console experience with visual settings including account color, region and service visibility",
       "url": "https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/",
@@ -1557,6 +1672,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "770d48e772884f",
+      "title": "Google, Cohere launch new audio AI models",
+      "url": "https://siliconangle.com/2026/03/26/google-cohere-launch-new-audio-models/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-26",
+      "summary": "Google LLC and Cohere Inc. today released new artificial intelligence models optimized for audio processing tasks.  The search giant’s algorithm, Gemini 3.1 Flash Live, can automate customer service interactions. Cohere’s new AI is designed to transcribe speech. Both models provide significantly higher output quality than their predecessors. Companies can use Gemini 3.1 Flash Live to [&#8230;] \n The post  Google, Cohere launch new audio AI models  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2332,13 +2464,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d6278ee181e7c0",
-      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+      "id": "929c30536b23ba",
+      "title": "Build with Lyria 3, our newest music generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-03-25",
-      "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
+      "summary": "Google Lyria teaser",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2349,13 +2481,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "929c30536b23ba",
-      "title": "Build with Lyria 3, our newest music generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+      "id": "d6278ee181e7c0",
+      "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-03-25",
-      "summary": "Google Lyria teaser",
+      "summary": "Sizzle video showing new capabilities from Lyria 3 Pro",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -4460,6 +4592,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "2a07d61edd53e0",
+      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-21",
+      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$500 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "299ddd8b94e653",
       "title": "SoftBank planning massive $500 billion data center in Ohio - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
@@ -4474,27 +4627,6 @@
       "locations": [
         "Ohio",
         "Japan"
-      ],
-      "amounts": [
-        "$500 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2a07d61edd53e0",
-      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-21",
-      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [
-        "Ohio"
       ],
       "amounts": [
         "$500 billion"
@@ -8927,8 +9059,8 @@
       "id": "a1d8885aa4b4df",
       "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-13",
       "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
       "finding_type": "New Project",
@@ -9021,13 +9153,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "3607debaad056e",
-      "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - cityoflenoir.com",
+      "id": "35060f1b27608d",
+      "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - City of Lenoir",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwbkpQUHgzb2FjRjNucGI3NEI4cEZNZTY4dTZCZFNvNG80dk5sM0llSERRTHQxdWxwWm9SQkZKa2d2SXJ3NTR2Y1hHQzI2X1Faa1lDcDIyNDVrNkFueWQxZ2lNdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-13",
-      "summary": "Google Announces New, Two-Year $1 Billion Investment in North Carolina &nbsp;&nbsp; cityoflenoir.com",
+      "summary": "Google Announces New, Two-Year $1 Billion Investment in North Carolina &nbsp;&nbsp; City of Lenoir",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9042,13 +9174,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "35060f1b27608d",
-      "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - City of Lenoir",
+      "id": "3607debaad056e",
+      "title": "Google Announces New, Two-Year $1 Billion Investment in North Carolina - cityoflenoir.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwbkpQUHgzb2FjRjNucGI3NEI4cEZNZTY4dTZCZFNvNG80dk5sM0llSERRTHQxdWxwWm9SQkZKa2d2SXJ3NTR2Y1hHQzI2X1Faa1lDcDIyNDVrNkFueWQxZ2lNdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-13",
-      "summary": "Google Announces New, Two-Year $1 Billion Investment in North Carolina &nbsp;&nbsp; City of Lenoir",
+      "summary": "Google Announces New, Two-Year $1 Billion Investment in North Carolina &nbsp;&nbsp; cityoflenoir.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -10152,134 +10284,6 @@
       "source_cat": "DC Specialist",
       "date": "2026-03-12",
       "summary": "Deploys Utilidata's platform across data center footprint",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c326c98499c6f0",
-      "title": "Google Fiber to merge with Stonepeak's Astound Broadband",
-      "url": "https://www.datacenterdynamics.com/en/news/httpswwwdatacenterdynamicscomennewsgoogle-fiber-to-merge-with-stonepeaks-astound-broadband/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Google's parent company, Alphabet, to remain a minority shareholder",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1d70a29eb56634",
-      "title": "US Space Command to host informational session about new facility, data center included",
-      "url": "https://www.datacenterdynamics.com/en/news/us-space-command-to-host-informational-session-about-new-facility-data-center-included/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Interested parties should register before March 18",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "965314cc70f1cb",
-      "title": "Pure DC plans natural gas microgrid at Dublin data center campus, Ireland",
-      "url": "https://www.datacenterdynamics.com/en/news/pure-dc-plans-natural-gas-microgrid-at-dublin-data-center-campus-ireland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Company working with AVK in Ballycoolin",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bd2762bc5ae151",
-      "title": "Atlancis and EverseTech launch sovereign AI cloud in Kenya",
-      "url": "https://www.datacenterdynamics.com/en/news/atlancis-and-eversetech-launch-sovereign-ai-cloud-in-kenya/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Hosted at iXAfrica data center in Nairobi",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f31c33b4d57ea7",
-      "title": "Google Fiber to merge with Stonepeak's Astound Broadband",
-      "url": "https://www.datacenterdynamics.com/en/news/g/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Google's parent company, Alphabet, to remain a minority shareholder",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20eac663a9c52d",
-      "title": "Data center could come to Stroudsburg, Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-could-come-to-stroudsburg-pennsylvania/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "But plans are still preliminary",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ca9869a77eebd6",
-      "title": "Data center as a good grid citizen - executive overview",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-as-a-good-grid-citizen-executive-overview/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "Rethinking the relationship between data centers and the power grid",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6280470d6a1a1b",
-      "title": "Sponsored: Rethinking redundancy at scale: Resilience without oversizing",
-      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-redundancy-at-scale-resilience-without-oversizing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-12",
-      "summary": "At large scale, electrical architecture influences far more than uptime, it shapes the economic model, expansion flexibility, and operational discipline of a data center",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
