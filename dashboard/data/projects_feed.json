@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-01T09:07:25.084783+00:00",
+  "last_updated": "2026-04-01T10:58:59.148954+00:00",
   "finding_count": 600,
   "new_project_count": 85,
   "cancellation_count": 25,
   "sec_filing_count": 1,
-  "high_confidence_count": 172,
+  "high_confidence_count": 171,
   "findings": [
     {
       "id": "593a0f2a752d64",
@@ -44,6 +44,25 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "c0a83407464186",
+      "title": "AWS proposes data center campus next to nuclear plant in Calvert County, Maryland",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-proposes-data-center-campus-next-to-nuclear-plant-in-calvert-county-maryland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-01",
+      "summary": "Would be located near the Calvert Cliffs Nuclear Power Plant",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Maryland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "624c514d41e385",
@@ -125,8 +144,8 @@
         "California"
       ],
       "amounts": [
-        "$2B",
-        "$2 billion"
+        "$2 billion",
+        "$2B"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -139,25 +158,6 @@
       "source_cat": "Announcement",
       "date": "2026-03-31",
       "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "de1b2ed5e4a498",
-      "title": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3VkTFZ3MHpzS2lxLXkyZ0RZQXVibTdVaUtLRExCdXVJUEY3YVJtVlkxd0hkNUYyZkFQYmN1UjBTX215eWNHQVl4cFktTjhvODJGRFgxVHk0YlNnT1lSbjZMVEJUVFlrUEd0QThkd2hyYkhGdkpGd01WZXM1Snc3UjZCdDh0MUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure &nbsp;&nbsp; The Next Web",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -244,10 +244,29 @@
       ],
       "locations": [],
       "amounts": [
-        "$852B",
-        "$122B",
         "$852 billion",
-        "$122 billion"
+        "$122 billion",
+        "$852B",
+        "$122B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "de1b2ed5e4a498",
+      "title": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3VkTFZ3MHpzS2lxLXkyZ0RZQXVibTdVaUtLRExCdXVJUEY3YVJtVlkxd0hkNUYyZkFQYmN1UjBTX215eWNHQVl4cFktTjhvODJGRFgxVHk0YlNnT1lSbjZMVEJUVFlrUEd0QThkd2hyYkhGdkpGd01WZXM1Snc3UjZCdDh0MUE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-31",
+      "summary": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure &nbsp;&nbsp; The Next Web",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -360,8 +379,8 @@
       "locations": [],
       "amounts": [
         "$70 billion",
-        "$120 million",
-        "$70M"
+        "$70M",
+        "$120 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -378,8 +397,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$170 million",
         "$170M",
+        "$170 million",
         "$1.1B"
       ],
       "confidence": 6,
@@ -914,13 +933,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f941d3a363094a",
-      "title": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund - The Globe and Mail",
+      "id": "8613dc89a7a5be",
+      "title": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXl1R2VNVTd3eDYtLVhiUGYzX3lkcFlGTUhmNWRLcDhySmxzWHM0Y2JuUmpZS3kxaXpVNFdLbUxrUWh6NUxXdzZfeHdQUnpLbnlvdm5yQUVRdml1VnFWb3pWMU1tZ3pXSmRiS2djWnVWZEJYUU1EUkRTZUJaandwZG5jbFdOZVlUbmlWVW1TNDBFeGRIb3U2ZzNUTTgwS1hzYW5MeFB4QllUMnpvUG5UUFcyX2dyT2hING94eFdvSWpRNTdVUi1QR2Q1M1R1ckttYk5QS0JnSDItMnFvZDVkdXBxZjJuM1V4Q1MwVGpDVC1NN1h0SkpOdTlKWDAyNTA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-30",
-      "summary": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund &nbsp;&nbsp; The Globe and Mail",
+      "summary": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund &nbsp;&nbsp; theglobeandmail.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -931,13 +950,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "8613dc89a7a5be",
-      "title": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund - theglobeandmail.com",
+      "id": "f941d3a363094a",
+      "title": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUXl1R2VNVTd3eDYtLVhiUGYzX3lkcFlGTUhmNWRLcDhySmxzWHM0Y2JuUmpZS3kxaXpVNFdLbUxrUWh6NUxXdzZfeHdQUnpLbnlvdm5yQUVRdml1VnFWb3pWMU1tZ3pXSmRiS2djWnVWZEJYUU1EUkRTZUJaandwZG5jbFdOZVlUbmlWVW1TNDBFeGRIb3U2ZzNUTTgwS1hzYW5MeFB4QllUMnpvUG5UUFcyX2dyT2hING94eFdvSWpRNTdVUi1QR2Q1M1R1ckttYk5QS0JnSDItMnFvZDVkdXBxZjJuM1V4Q1MwVGpDVC1NN1h0SkpOdTlKWDAyNTA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-30",
-      "summary": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund &nbsp;&nbsp; theglobeandmail.com",
+      "summary": "Digital Realty Announces Final Close of $3.25 billion U.S. Hyperscale Data Center Fund &nbsp;&nbsp; The Globe and Mail",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -10339,24 +10358,6 @@
         "$75 million"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9feaf259d95c7c",
-      "title": "AI startups’ funding frenzy, where AWS goes next, and what’s coming at Nvidia’s GTC event",
-      "url": "https://siliconangle.com/2026/03/13/ai-startups-funding-frenzy-aws-goes-next-whats-coming-nvidias-gtc-event/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-13",
-      "summary": "Massive AI startup funding raged on this week with a couple of billion-dollar-plus rounds for Yann Lecun&#8217;s and Mira Murati&#8217;s startups, plus multiple multi-hundred-million rounds for vertical startups and tool providers &#8212; I mean, look at the AI and Data Money Matters section down there, it&#8217;s nuts &#8212; plus big funding for data centers too. [&#8230;] \n The post  AI startups&#8217; funding frenzy, where AWS goes next, and what&#8217;s coming at Nvidia&#8217;s GTC event  a",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
