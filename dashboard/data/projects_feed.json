@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-04-01T13:25:49.290946+00:00",
+  "last_updated": "2026-04-01T15:06:33.779407+00:00",
   "finding_count": 600,
-  "new_project_count": 82,
+  "new_project_count": 80,
   "cancellation_count": 24,
   "sec_filing_count": 1,
-  "high_confidence_count": 167,
+  "high_confidence_count": 166,
   "findings": [
+    {
+      "id": "fd98ae81775732",
+      "title": "360MW data center to be built outside Austin, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/360mw-data-center-to-be-built-outside-austin-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-01",
+      "summary": "Construction set to take three and a half years",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "360MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "48ab90755db514",
       "title": "True IDC breaks ground on 250MW data center site in Thailand",
@@ -75,8 +94,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$8.4M",
-        "$8.4 million"
+        "$8.4 million",
+        "$8.4M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -117,6 +136,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4b526040c326fc",
+      "title": "Legrand acquires Keydak in China and TES in UK",
+      "url": "https://www.datacenterdynamics.com/en/news/legrand-acquires-keydak-in-china-and-tes-in-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-01",
+      "summary": "Industrial firm continues data center-related acquisition spree",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0c8b1970142773",
+      "title": "Lyten to build data center in Gdańsk, Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/lyten-to-build-data-center-in-gda%C5%84sk-poland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-01",
+      "summary": "The site will be built around an existing BESS and R&amp;D facility in the port",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -213,6 +266,25 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "094261889e261a",
+      "title": "We’re creating a new satellite imagery map to help protect Brazil’s forests.",
+      "url": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-01",
+      "summary": "Google partnered with the Brazilian government on a satellite imagery map to help protect the country’s forests.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Brazil"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -327,9 +399,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$852B",
         "$852 billion",
         "$122B",
-        "$852B",
         "$122 billion"
       ],
       "confidence": 7,
@@ -483,8 +555,8 @@
       "locations": [],
       "amounts": [
         "$120 million",
-        "$70M",
-        "$70 billion"
+        "$70 billion",
+        "$70M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -615,23 +687,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "bc1aa1835b4cc7",
-      "title": "'Project Atlas' data center application withdrawn in Coweta, Oklahoma",
-      "url": "https://www.datacenterdynamics.com/en/news/project-atlas-data-center-application-withdrawn-in-coweta-oklahoma/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Beale pulls out",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "dba9eaf9a7537e",
       "title": "AWS pushes to automate application monitoring and penetration testing with AI agents",
       "url": "https://siliconangle.com/2026/03/31/aws-pushes-automate-application-monitoring-penetration-testing-ai-agents/",
@@ -661,6 +716,23 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bc1aa1835b4cc7",
+      "title": "'Project Atlas' data center application withdrawn in Coweta, Oklahoma",
+      "url": "https://www.datacenterdynamics.com/en/news/project-atlas-data-center-application-withdrawn-in-coweta-oklahoma/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-31",
+      "summary": "Beale pulls out",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Oklahoma"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -700,41 +772,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8f16d2a3e1b06c",
-      "title": "CoreWeave secures $8.5bn loan for GPU purchases",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-secures-85bn-loan-for-gpu-purchases/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Reportedly backed by Meta deal signed last year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e95fcc79cd414",
-      "title": "DigitalBridge JV acquires NEC data centers in Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/digitalbridge-jv-acquires-nec-data-centers-in-japan/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "NEC divests two data centers to DigitalBridge partnership alongside JEXI",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -887,6 +924,41 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8f16d2a3e1b06c",
+      "title": "CoreWeave secures $8.5bn loan for GPU purchases",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-secures-85bn-loan-for-gpu-purchases/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-31",
+      "summary": "Reportedly backed by Meta deal signed last year",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1e95fcc79cd414",
+      "title": "DigitalBridge JV acquires NEC data centers in Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/digitalbridge-jv-acquires-nec-data-centers-in-japan/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-03-31",
+      "summary": "NEC divests two data centers to DigitalBridge partnership alongside JEXI",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Japan"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1745,13 +1817,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c587d952e920e0",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
+      "id": "48044455adc6e4",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -1766,13 +1838,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "48044455adc6e4",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
+      "id": "c587d952e920e0",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -2824,23 +2896,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9500bcc927b140",
-      "title": "Transform your headphones into a live personal translator on iOS.",
-      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-03-26",
-      "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a13b4029e11a44",
       "title": "WhatsApp Adds New Features to Simplify Storage, Switch Accounts, and More",
       "url": "https://about.fb.com/news/2026/03/whatsapp-new-features-simplify-storage-switch-accounts/",
@@ -2851,6 +2906,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9500bcc927b140",
+      "title": "Transform your headphones into a live personal translator on iOS.",
+      "url": "https://blog.google/products-and-platforms/products/translate/live-translate-with-headphones/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-03-26",
+      "summary": "Google Translate’s Live translate with headphones is officially arriving on iOS! And we're expanding the capability for both iOS and Android users to even more countries…",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3244,8 +3316,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10273,76 +10345,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "cc6a1cd0a1cc22",
-      "title": "Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage",
-      "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-14",
-      "summary": "For Amazon Web Services Inc., this year’s Amazon S3 anniversary marks more than a milestone — it underscores S3’s rise from an internal utility to a pillar of cloud infrastructure and beyond. Commemorating the 20th Amazon S3 anniversary on March 14, the company is using Pi Day — the annual celebration of the mathematical constant [&#8230;] \n The post  Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "60beb68ee33831",
-      "title": "Sponsored: Power-ready doesn’t mean shovel-ready: Why data center site selection is a multi-dimensional problem",
-      "url": "https://www.datacenterdynamics.com/en/opinions/power-ready-doesnt-mean-shovel-ready-why-data-center-site-selection-is-a-multi-dimensional-problem/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-14",
-      "summary": "Data center development has focused heavily on power as the biggest risk, but site viability is a multi-dimensional problem, and teams that de-risk sequentially are paying the price",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a1d8885aa4b4df",
-      "title": "Google to invest $1 billion in WNC data center expansion - The Asheville Citizen Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-03-13",
-      "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; The Asheville Citizen Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a3d3b8a536acb5",
-      "title": "Google to invest $1 billion in WNC data center expansion - citizen-times.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlBtSEZNcEdKNjlKeFl4eFBkdGJzUVZZV3FKLU1odGRLOEszb1JWUm1vMVFvQS0zTWVRbFpDWEVucHduNW1COTRwQ1ZqVFFkWHF3cS1IWnNXSGpHd012b2EwaFBaM1U0Z0RxaGk3OURNalNTdVBZS0pNbHhMdkRJTmlSMTRDY21zRTFUQlNFZF9GMGc1cjB4Rnk4VFhLN0VFc0w0OFBpUkljVS1GMjAzNTR6cnlZQTQxTFZ3RTdhMzhqODByMDRrdkw2djkzQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-03-13",
-      "summary": "Google to invest $1 billion in WNC data center expansion &nbsp;&nbsp; citizen-times.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
     }
   ]
 }
