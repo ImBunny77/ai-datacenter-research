@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-01T20:46:58.301134+00:00",
+  "last_updated": "2026-04-01T22:39:32.483068+00:00",
   "finding_count": 600,
-  "new_project_count": 80,
+  "new_project_count": 78,
   "cancellation_count": 23,
   "sec_filing_count": 1,
-  "high_confidence_count": 164,
+  "high_confidence_count": 162,
   "findings": [
     {
       "id": "09368d565dd8ef",
@@ -111,8 +111,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$8.4M",
-        "$8.4 million"
+        "$8.4 million",
+        "$8.4M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -341,6 +341,41 @@
       "is_high_confidence": false
     },
     {
+      "id": "9ebd48ab68966a",
+      "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+      "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-01",
+      "summary": "Microsoft, Intel are also working on their own solutions for the issue.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fdc76c34e26bc0",
+      "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+      "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-01",
+      "summary": "A persistent agent, stealth \"Undercover\" mode, and... a virtual assistant named Buddy?",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5b4414110c41cf",
       "title": "Google.org and Highlights for Children have helped 1 million students navigate the digital world.",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/highlights-be-internet-awesome/",
@@ -478,6 +513,85 @@
       "is_high_confidence": true
     },
     {
+      "id": "147bc07af70e98",
+      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - news.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-31",
+      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; news.microsoft.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "06a5bbc807a5d6",
+      "title": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEZ1YW9HY3c3TkVfYnRYN3FyOUtXZ1RxZ2NvTmhIVzVWVHZ1VVB4OTRmZzFmQURkQ3lVTWw2UTFsSmladWVTOFI2Uk1kbUh2b295aDVMdHNGcE42MzkzOUxxMnRCQ29BN3VReUhQTnpxcTFBdm5fZGFZT2ctVEJCUkNGWVpIUnJTXzhUYWd3NHhNd21jdDZmalBqWkVqZlhsSGNCd2FxSVVCSTNOdnJURUc2ZDZuTkw1bmQzNXR5SDNad0tGcHBoMg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-31",
+      "summary": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5a55fb2a74af84",
+      "title": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand - businesstoday.com.my",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG9uZ2Y5UlNEVWl3aGtzMzlFSTgya0I2bDFXVmJjWTBncVplLTg1dUNFdVBDNXZieGZCUm5JcFJ6X2lzTWEtZ0ZpdG9kWnF4UnJyMTRYTFlkZmNiZkQxRVRidnFjZmJYUTYxUWYwaUhPMVdLTXo5UWxvRjVIVjVGTkxCVlU3QW5xVENOcXFfMnNpYkRTUHNPTi1TNzdxV3lQZDRrRFNrSmx0ei15cEhvYjZhWlBrN2dNZFZZY0JB?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-31",
+      "summary": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand &nbsp;&nbsp; businesstoday.com.my",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "34d0cb1e2480df",
+      "title": "OpenAI closes record-breaking $122B funding round that brings its valuation to $852B",
+      "url": "https://siliconangle.com/2026/03/31/openai-just-closed-record-breaking-122b-funding-round-brings-value-852b/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-03-31",
+      "summary": "OpenAI Group PBC showed that it’s still the darling of artificial intelligence investors today, announcing it has raised $122 billion at an $852 billion valuation, the largest funding round in Silicon Valley’s history. The round, which comes at a time when the company is believed to be gearing up for an initial public offering, will [&#8230;] \n The post  OpenAI closes record-breaking $122B funding round that brings its valuation to $852B  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$852 billion",
+        "$122 billion",
+        "$852B",
+        "$122B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "3e37f01342a6a4",
       "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
@@ -537,47 +651,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "34d0cb1e2480df",
-      "title": "OpenAI closes record-breaking $122B funding round that brings its valuation to $852B",
-      "url": "https://siliconangle.com/2026/03/31/openai-just-closed-record-breaking-122b-funding-round-brings-value-852b/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-31",
-      "summary": "OpenAI Group PBC showed that it’s still the darling of artificial intelligence investors today, announcing it has raised $122 billion at an $852 billion valuation, the largest funding round in Silicon Valley’s history. The round, which comes at a time when the company is believed to be gearing up for an initial public offering, will [&#8230;] \n The post  OpenAI closes record-breaking $122B funding round that brings its valuation to $852B  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$852 billion",
-        "$122B",
-        "$122 billion",
-        "$852B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "06a5bbc807a5d6",
-      "title": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEZ1YW9HY3c3TkVfYnRYN3FyOUtXZ1RxZ2NvTmhIVzVWVHZ1VVB4OTRmZzFmQURkQ3lVTWw2UTFsSmladWVTOFI2Uk1kbUh2b295aDVMdHNGcE42MzkzOUxxMnRCQ29BN3VReUhQTnpxcTFBdm5fZGFZT2ctVEJCUkNGWVpIUnJTXzhUYWd3NHhNd21jdDZmalBqWkVqZlhsSGNCd2FxSVVCSTNOdnJURUc2ZDZuTkw1bmQzNXR5SDNad0tGcHBoMg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "55127bec3bb1cb",
       "title": "Amazon purchases 1,300 acres in Morrow County, Oregon",
       "url": "https://www.datacenterdynamics.com/en/news/amazon-purchases-1300-acres-in-morrow-county-oregon/",
@@ -625,44 +698,6 @@
       "source_cat": "Announcement",
       "date": "2026-03-31",
       "summary": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure &nbsp;&nbsp; thenextweb.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5a55fb2a74af84",
-      "title": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand - businesstoday.com.my",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG9uZ2Y5UlNEVWl3aGtzMzlFSTgya0I2bDFXVmJjWTBncVplLTg1dUNFdVBDNXZieGZCUm5JcFJ6X2lzTWEtZ0ZpdG9kWnF4UnJyMTRYTFlkZmNiZkQxRVRidnFjZmJYUTYxUWYwaUhPMVdLTXo5UWxvRjVIVjVGTkxCVlU3QW5xVENOcXFfMnNpYkRTUHNPTi1TNzdxV3lQZDRrRFNrSmx0ei15cEhvYjZhWlBrN2dNZFZZY0JB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand &nbsp;&nbsp; businesstoday.com.my",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "147bc07af70e98",
-      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - news.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -3467,8 +3502,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -6047,27 +6082,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2a07d61edd53e0",
-      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-21",
-      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$500 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "299ddd8b94e653",
       "title": "SoftBank planning massive $500 billion data center in Ohio - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
@@ -6082,6 +6096,27 @@
       "locations": [
         "Ohio",
         "Japan"
+      ],
+      "amounts": [
+        "$500 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2a07d61edd53e0",
+      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-21",
+      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [
+        "Ohio"
       ],
       "amounts": [
         "$500 billion"
@@ -6729,13 +6764,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f606387d94a3f1",
-      "title": "Massive data center, natural gas power plant planned for Southern Ohio - Cleveland.com",
+      "id": "9425f52d745286",
+      "title": "Massive data center, natural gas power plant planned for Southern Ohio - cleveland.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzFLZHpHdU12aUdRQ3ZxSy0ySzg1d29YZm1YV3RrQl95VzNwdzdWMUhTMEdYTlhQd21qTW5ERHh2b1Z1X2d2RmlkQzRpc1dtcTJLZDdGdFN3X2xGSDFIN3BsV3VraU5yejE4ZlRrby1rQ2xZa05PeXhPaVNMcUpFZkVCOXpNckJ0UjRlWlRYSTE2TlFWcVl4a29OXy1Hb2JzU0dZYTBfRlZNdm1DVkJwaG5pOFktc1F20gHMAUFVX3lxTE1ZbXZXQmY2MmhjQkpIZV9LVnY5MnRDRkE2RER6SzdUVGkzRE1ESGNWbzA3cHNQZ3o3TzJuR2oyUDdfVzZ2QnA1dkIza1BwSG1VS2t5cXoyQ0FnVTI1bnY2blR6TEdqR3lIT3RsLVQxbzZuU0RhdDJGZHJWcFEwUnNnN21RRmR4TWY4SUpVel9MQm41Tm9vdjh4b1JnRXdma051ZDNYNVJxSEVkenk0OS1FaEdRWEpKZWNMdW9QMmFfUm9GaGl1d3daSlpHMg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; Cleveland.com",
+      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; cleveland.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -6746,13 +6781,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9425f52d745286",
-      "title": "Massive data center, natural gas power plant planned for Southern Ohio - cleveland.com",
+      "id": "f606387d94a3f1",
+      "title": "Massive data center, natural gas power plant planned for Southern Ohio - Cleveland.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzFLZHpHdU12aUdRQ3ZxSy0ySzg1d29YZm1YV3RrQl95VzNwdzdWMUhTMEdYTlhQd21qTW5ERHh2b1Z1X2d2RmlkQzRpc1dtcTJLZDdGdFN3X2xGSDFIN3BsV3VraU5yejE4ZlRrby1rQ2xZa05PeXhPaVNMcUpFZkVCOXpNckJ0UjRlWlRYSTE2TlFWcVl4a29OXy1Hb2JzU0dZYTBfRlZNdm1DVkJwaG5pOFktc1F20gHMAUFVX3lxTE1ZbXZXQmY2MmhjQkpIZV9LVnY5MnRDRkE2RER6SzdUVGkzRE1ESGNWbzA3cHNQZ3o3TzJuR2oyUDdfVzZ2QnA1dkIza1BwSG1VS2t5cXoyQ0FnVTI1bnY2blR6TEdqR3lIT3RsLVQxbzZuU0RhdDJGZHJWcFEwUnNnN21RRmR4TWY4SUpVel9MQm41Tm9vdjh4b1JnRXdma051ZDNYNVJxSEVkenk0OS1FaEdRWEpKZWNMdW9QMmFfUm9GaGl1d3daSlpHMg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; cleveland.com",
+      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; Cleveland.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -10292,50 +10327,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "3a6dc83c63e0a6",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN0VLdk1EWEhGQzVScjA2dEZJUm83aW8tZFZpTlNiOUJudzVianJuOE40enhJbWpOOV9fbkZkNGdWalZNM3NFQ1pIMktCdVoyU0JEd3VkV2hCQnQ3ejRKckVodl81TkpUajNhZ2xNeE80bUZqNUFjckMxLVloTW9HZDNBVkgyUFcwU1FJZXpaMzJKc2JzM0ViaTA5dURJSnpJY2FzQXlBQmNtMUpXcHlUTWVPWXBkSmNwdDV0RHBxRTBMODVNVklYMVNFaWpSUHJrdDZVMW1XTkduN1dhZHJVd1VjbUZWRXF3Nm03Sm45b0l3dXVHYlNwbmthNE04LTI2NWdkdGtub1VHN1dtNE12aFR4ZkVOcTNUUVY5Y3pvQVJKMEQ4Ym0yeFgyX1FEalVGaUl1SHhsMUg3TkNsUDh5YnFtU2hZRGJsbzctcTU1ckdDMjFtejVkMUQ0SnJ5MTVQcnFJTVBOTjFiVnVKY0M1TEhhVDg2QQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-15",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "$10 billion",
-        "1GW"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "08fbe0be54bbdb",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcjNzalVsQmg3LWRWcEJ2OWhDY2s1WWtOUVNvUjlQXzBkX1pCbmg5MkpBMlBSZW9fdjZhSlZhVW42UFJwOUpPNEstN2liSzVhOFJmeDljVG5peVZzRVJmbnNBRUc3dUFubk45MG1wV2Ytc01fNjNaUjgyMzl1VnQtX2FOdUpVdWlRZWJibkNLeEJQV1BRWmtTMjdtcVlLLW1yTHNBZHpad2dMX3hmbHR5TWVLQzJzU2ctTEdELVdMOHJhNGh2RUJqX3hLellidEZrbTNxTGEycGU4LWItUFVJNlh2RDBRYVZCT19oaG54X09Nb0tZRzRBS1BxNmhyWUZRaWduLUNnWmQwLVVGY3dCM0lIaVNOQ25faUZsaEtzQ2w1dlpoMDJpd2dZcGRaUWV4U0tic1R6YXVIdTBnaUhYcFZRbW0tVjBmOTZDTVNXV0Q5a2hCQU5wTzhwc0V0TFVMc3ZGXzZJVHJ6YjFrM18wWEdHT1c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-15",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "$10 billion",
-        "1GW"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     }
   ]
 }
