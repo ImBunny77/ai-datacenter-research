@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-04-03T02:31:15.103380+00:00",
+  "last_updated": "2026-04-03T05:42:34.634311+00:00",
   "finding_count": 600,
-  "new_project_count": 73,
+  "new_project_count": 72,
   "cancellation_count": 25,
   "sec_filing_count": 1,
-  "high_confidence_count": 167,
+  "high_confidence_count": 165,
   "findings": [
+    {
+      "id": "072a8462eb7b1d",
+      "title": "PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI dominate AI deals",
+      "url": "https://siliconangle.com/2026/04/03/pitchbook-us-venture-funding-surges-record-267b-openai-anthropic-xai-dominate-ai-deals/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-03",
+      "summary": "U.S. venture capital activity surged to unprecedented levels in the first quarter of 2026, driven by a small number of outsized artificial intelligence deals that reshaped the overall market profile, according to a first look at the quarterly PitchBook-NVCA Venture Monitor report released early Friday. According to the report, $267.2 billion in deal value was recorded during the quarter, [&#8230;] \n The post  PitchBook: US venture funding surges to record $267B as OpenAI, Anthropic and xAI domin",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$267.2 billion",
+        "$267B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "ea151b1a880ea9",
       "title": "Cursor refreshes its vibe coding platform with focus on AI agents",
@@ -27,23 +49,24 @@
       "is_high_confidence": true
     },
     {
-      "id": "a2b9446374b21b",
-      "title": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5qUndnVnBrek1ZenJSTmZuaXh4Y3dYLXFXRERGWWhLYlJabklSWFBUU0VyWXB0a0xvN1ZyU2VOdFdsdEQzS3Zaa3RZWjZ4YXNHalVtMkRSQlpNVjFoQ1FlanVUdHRFNW5Kbkoyc1piVDlGMF9nNFM1S0ZSUURKWWZTc3ZlTHAtNFZ4QVdvNHlMeVdPUDQ4WW9R?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-02",
-      "summary": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment &nbsp;&nbsp; Meyka",
-      "finding_type": "New Project",
+      "id": "02cb282a06b2a2",
+      "title": "Microsoft to invest $10 bn for Japan AI data centres - France 24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd05Bai1SQTRYWmNkZVR0QUtrSk5vaVR5Qm81eERxUjR2LUFvTjBKa0w4TTA2eGstYmZWWjZMZENKZWJIZl9IWTdrLVhJMlFMLW52d1BlZm1Ia0p6MHFCLWtKeUo1VXZPT2JndnJuVk1TVC03ckpqY2s0RDBqRmMzYjZFVjdUY0NIQldWWlpCQjMydXVuTUd6SS1MTUxzaTg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-03",
+      "summary": "Microsoft to invest $10 bn for Japan AI data centres &nbsp;&nbsp; France 24",
+      "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
       ],
-      "locations": [],
-      "amounts": [
-        "$1B"
+      "locations": [
+        "Japan",
+        "France"
       ],
-      "confidence": 6,
-      "is_high_confidence": true
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "f0e73d017e9dc5",
@@ -60,6 +83,25 @@
       "locations": [],
       "amounts": [
         "$30 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a2b9446374b21b",
+      "title": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5qUndnVnBrek1ZenJSTmZuaXh4Y3dYLXFXRERGWWhLYlJabklSWFBUU0VyWXB0a0xvN1ZyU2VOdFdsdEQzS3Zaa3RZWjZ4YXNHalVtMkRSQlpNVjFoQ1FlanVUdHRFNW5Kbkoyc1piVDlGMF9nNFM1S0ZSUURKWWZTc3ZlTHAtNFZ4QVdvNHlMeVdPUDQ4WW9R?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-02",
+      "summary": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment &nbsp;&nbsp; Meyka",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -190,9 +232,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$50 million",
         "$100 million",
-        "$50M",
-        "$50 million"
+        "$50M"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -1251,13 +1293,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "3e37f01342a6a4",
-      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - Microsoft Source",
+      "id": "147bc07af70e98",
+      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-31",
-      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; Microsoft Source",
+      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -1284,6 +1326,25 @@
       "locations": [],
       "amounts": [
         "$2 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3e37f01342a6a4",
+      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-31",
+      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1327,25 +1388,6 @@
         "$852 billion",
         "$122 billion",
         "$852B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "147bc07af70e98",
-      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - news.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; news.microsoft.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -4325,8 +4367,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -6833,6 +6875,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "5d377997e65175",
+      "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWhtZ3pqejEzYXNjU19wMFVWaTY1anYxSV9VVGxsZHlUSmdXNjZqS3lXVzJVSDZKYm9lWDIyMVpha0JqSU90cjdYeWgyczBWUFJiOWpwRmJyODljWUVJeVlGOGJqYW55REhDLVc3WEZVeDZWamFDY3JjX0pLSDBTVkloY3M2NUNZbDZ5OGRiUFpBX1FwaDFVNkZ3QmFlYmPSAaQBQVVfeXFMTm1mVjBHYUliSmdXUzJONUxtbGdUeWYtbFVKcG5vamJ4d2RRdWFWTnNkVXdvdm5VbWR5U2o4cmF3clRqU1BoZC1jUVBOdnNkUDM1SGRIS3BfLXUxQTlydnlpbFgyQjJTMjFOY2p1STFFWndsTW1mSTRrOTdXQzNvUWhQN2x3WUhtUjI0RDZsaElwUy05Nng0MThiR3RHWkUtdkxCZjU?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-03-22",
+      "summary": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "127829b9de5a67",
       "title": "SoftBank and AEP plan massive Ohio gas-fired AI data center campus - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KX3AyNHV6Qkd0Q1NDSlp6aVZ4MjFzMWdEVWt6RTdqdFgwRWlfc2pTRnhwWldleGhneF85YVk5NVNDM3V6bl9sbFVfSzNQSVo2YW56b19B?oc=5",
@@ -7602,13 +7661,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9425f52d745286",
-      "title": "Massive data center, natural gas power plant planned for Southern Ohio - cleveland.com",
+      "id": "f606387d94a3f1",
+      "title": "Massive data center, natural gas power plant planned for Southern Ohio - Cleveland.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzFLZHpHdU12aUdRQ3ZxSy0ySzg1d29YZm1YV3RrQl95VzNwdzdWMUhTMEdYTlhQd21qTW5ERHh2b1Z1X2d2RmlkQzRpc1dtcTJLZDdGdFN3X2xGSDFIN3BsV3VraU5yejE4ZlRrby1rQ2xZa05PeXhPaVNMcUpFZkVCOXpNckJ0UjRlWlRYSTE2TlFWcVl4a29OXy1Hb2JzU0dZYTBfRlZNdm1DVkJwaG5pOFktc1F20gHMAUFVX3lxTE1ZbXZXQmY2MmhjQkpIZV9LVnY5MnRDRkE2RER6SzdUVGkzRE1ESGNWbzA3cHNQZ3o3TzJuR2oyUDdfVzZ2QnA1dkIza1BwSG1VS2t5cXoyQ0FnVTI1bnY2blR6TEdqR3lIT3RsLVQxbzZuU0RhdDJGZHJWcFEwUnNnN21RRmR4TWY4SUpVel9MQm41Tm9vdjh4b1JnRXdma051ZDNYNVJxSEVkenk0OS1FaEdRWEpKZWNMdW9QMmFfUm9GaGl1d3daSlpHMg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; cleveland.com",
+      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; Cleveland.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -7619,13 +7678,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f606387d94a3f1",
-      "title": "Massive data center, natural gas power plant planned for Southern Ohio - Cleveland.com",
+      "id": "9425f52d745286",
+      "title": "Massive data center, natural gas power plant planned for Southern Ohio - cleveland.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzFLZHpHdU12aUdRQ3ZxSy0ySzg1d29YZm1YV3RrQl95VzNwdzdWMUhTMEdYTlhQd21qTW5ERHh2b1Z1X2d2RmlkQzRpc1dtcTJLZDdGdFN3X2xGSDFIN3BsV3VraU5yejE4ZlRrby1rQ2xZa05PeXhPaVNMcUpFZkVCOXpNckJ0UjRlWlRYSTE2TlFWcVl4a29OXy1Hb2JzU0dZYTBfRlZNdm1DVkJwaG5pOFktc1F20gHMAUFVX3lxTE1ZbXZXQmY2MmhjQkpIZV9LVnY5MnRDRkE2RER6SzdUVGkzRE1ESGNWbzA3cHNQZ3o3TzJuR2oyUDdfVzZ2QnA1dkIza1BwSG1VS2t5cXoyQ0FnVTI1bnY2blR6TEdqR3lIT3RsLVQxbzZuU0RhdDJGZHJWcFEwUnNnN21RRmR4TWY4SUpVel9MQm41Tm9vdjh4b1JnRXdma051ZDNYNVJxSEVkenk0OS1FaEdRWEpKZWNMdW9QMmFfUm9GaGl1d3daSlpHMg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; Cleveland.com",
+      "summary": "Massive data center, natural gas power plant planned for Southern Ohio &nbsp;&nbsp; cleveland.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -10270,61 +10329,6 @@
         "$2 Billion"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "de0a6dccd2d134",
-      "title": "Nvidia previews Vera Rubin Space-1 Module for orbital data centers",
-      "url": "https://siliconangle.com/2026/03/16/nvidia-previews-vera-rubin-space-1-module-orbital-data-centers/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-16",
-      "summary": "Nvidia Corp. has previewed a computing device called the Vera Rubin Space-1 Module that is designed to power satellites and orbital data centers. Chief Executive Jensen Huang announced the product today in his GTC keynote.  Nvidia has shared only a limited amount of information about its new space hardware. As the name suggests, the Vera [&#8230;] \n The post  Nvidia previews Vera Rubin Space-1 Module for orbital data centers  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "180d7e5a0f1fe9",
-      "title": "Digital Edge secures Indonesia’s largest-ever data center green loan, targeting local AI data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-edge-secures-indonesias-largest-ever-data-center-green-loan-targeting-local-ai-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "The $665 million green loan will support phase-one development of CGK Campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Indonesia"
-      ],
-      "amounts": [
-        "$665 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "81cf4c19e19351",
-      "title": "Google pledges $1bn investment in North Carolina data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/google-pledges-1bn-investment-in-north-carolina-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-16",
-      "summary": "Will be focused on expanding data center in Lenoir",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
