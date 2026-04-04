@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-04-04T14:34:59.310688+00:00",
+  "last_updated": "2026-04-04T16:38:13.859807+00:00",
   "finding_count": 600,
   "new_project_count": 82,
-  "cancellation_count": 27,
+  "cancellation_count": 28,
   "sec_filing_count": 0,
   "high_confidence_count": 177,
   "findings": [
     {
-      "id": "d0e0a8148f51ab",
-      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
+      "id": "fe913271e79bfd",
+      "title": "Maine Set to Become First State to Halt New AI Data Centers - broadbandbreakfast.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-04",
-      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
+      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; broadbandbreakfast.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -41,6 +41,44 @@
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
+    },
+    {
+      "id": "d0e0a8148f51ab",
+      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-04",
+      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c87a9ae6f6c206",
+      "title": "Microsoft invests $10 billion in AI data centers in Japan - unn.ua",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNnVjRLUl9EUC03UmxBWllLaXNBZ0tZWnc2NXp2MjNxeHVUN2FBaHRPb2RpNmlFX3kxY0lJNEd3WjJJYTNjbHA5UzIxbWRDMVBLa2pJSk5rNFNZMmJCTUJJNENuaTgycXhndVBXdzNlRWlIdDFaM1ZScWNPdDBEcVNoejR4TEFEbU84bWR30gGMAUFVX3lxTE8tSnhKQTY4TzZOSHdzdFozbXVwSkdXWnB2U0wyN212X1E1M09lT0xDZW1lSnc1c2p5SmtHYnBKeDlGQURQSUd4UXpzRTllUDJNeUhiZGttT3VFV2VCd29mZUU0UFAxOG1xZnBzRnhEbzBjYUpoUDgyeXRaR1Y2RnVQbnRWcWxSanFCUWR2?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-03",
+      "summary": "Microsoft invests $10 billion in AI data centers in Japan &nbsp;&nbsp; unn.ua",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Japan"
+      ],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "3248d6243f6e02",
@@ -85,27 +123,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "c87a9ae6f6c206",
-      "title": "Microsoft invests $10 billion in AI data centers in Japan - unn.ua",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNnVjRLUl9EUC03UmxBWllLaXNBZ0tZWnc2NXp2MjNxeHVUN2FBaHRPb2RpNmlFX3kxY0lJNEd3WjJJYTNjbHA5UzIxbWRDMVBLa2pJSk5rNFNZMmJCTUJJNENuaTgycXhndVBXdzNlRWlIdDFaM1ZScWNPdDBEcVNoejR4TEFEbU84bWR30gGMAUFVX3lxTE8tSnhKQTY4TzZOSHdzdFozbXVwSkdXWnB2U0wyN212X1E1M09lT0xDZW1lSnc1c2p5SmtHYnBKeDlGQURQSUd4UXpzRTllUDJNeUhiZGttT3VFV2VCd29mZUU0UFAxOG1xZnBzRnhEbzBjYUpoUDgyeXRaR1Y2RnVQbnRWcWxSanFCUWR2?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-03",
-      "summary": "Microsoft invests $10 billion in AI data centers in Japan &nbsp;&nbsp; unn.ua",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "b38ae863fab691",
       "title": "Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure, cybersecurity, and workforce - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmJJc1MtaElhWjBueGJuanlHTXo1aS0wMzc4a3VlYnNpWkt6WWVzajltc0FyMl91aGRTS19teE1hM0VnS0JkdkVzN3N0ZDNXNi03SEVXN2xCTThQSEw0TlUzc1RYY0k1YVRKNGdldWFpXzFTMF9lN2FnU25sTzFkUW5sMWxKU2tEc3VmUVNQMVhVMGVNZWdmYjQ0TmJTV0FQTm1JQVJ1d3E3YW1McmtPMUM1UDh1aDJlWUNJMUltcW40ZG1WMXJyRm9TRWpaWkZpamVMU24yeG9QcnNCSF9TYnBtb2NUZTJ5UFFWR1dvSG1CTFM3OEI4?oc=5",
@@ -127,13 +144,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "7ab054c284fd88",
-      "title": "Why Microsoft Is Investing $10 Billion in Japan? - TradingKey",
+      "id": "ec107fd04fc4b8",
+      "title": "Why Microsoft Is Investing $10 Billion in Japan? - tradingkey.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTRMNlptRTktN3o2dmxDS1BsbE1zbkNfRVNacTZJUHp0REhtRDIzX2x5MkZYQVZHcmRsUnBTTVFWRlZFSnN6aGVPNUt3cVROcEJxX0p2T0gwRndpOHR2M1hiSGNsYWdiNEJiVHFZNTBXZG1Dbmh4cHZ4aEpXQ3JBbXBYSWZ2OG5kVk8zTk94a1ZaODQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-03",
-      "summary": "Why Microsoft Is Investing $10 Billion in Japan? &nbsp;&nbsp; TradingKey",
+      "summary": "Why Microsoft Is Investing $10 Billion in Japan? &nbsp;&nbsp; tradingkey.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -189,13 +206,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "decc632316764a",
-      "title": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU5HNWRIbGV5bDluRlNqNEs1bDBXTzRvTWpqZS00Si1pVU1wRFdGakRsSDkwMXlXNjVTNnh3TURMTnFudDlxTXBGSEZLd1MwdjNyX0o5LVpjYk9oVlRJZWZPSTJGODNFX1k0alNWWXV3dVhsYW03QnFqaW1NTENCRDZncjlnT01YWWlaaUdHVlhDeUFvVzljTUtMWmFGYUF3T25xb2tJLThCRllyc0d1RC1LZw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "id": "7ab054c284fd88",
+      "title": "Why Microsoft Is Investing $10 Billion in Japan? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTRMNlptRTktN3o2dmxDS1BsbE1zbkNfRVNacTZJUHp0REhtRDIzX2x5MkZYQVZHcmRsUnBTTVFWRlZFSnN6aGVPNUt3cVROcEJxX0p2T0gwRndpOHR2M1hiSGNsYWdiNEJiVHFZNTBXZG1Dbmh4cHZ4aEpXQ3JBbXBYSWZ2OG5kVk8zTk94a1ZaODQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-04-03",
-      "summary": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan &nbsp;&nbsp; bloomberg.com",
+      "summary": "Why Microsoft Is Investing $10 Billion in Japan? &nbsp;&nbsp; TradingKey",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -210,13 +227,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ec107fd04fc4b8",
-      "title": "Why Microsoft Is Investing $10 Billion in Japan? - tradingkey.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTRMNlptRTktN3o2dmxDS1BsbE1zbkNfRVNacTZJUHp0REhtRDIzX2x5MkZYQVZHcmRsUnBTTVFWRlZFSnN6aGVPNUt3cVROcEJxX0p2T0gwRndpOHR2M1hiSGNsYWdiNEJiVHFZNTBXZG1Dbmh4cHZ4aEpXQ3JBbXBYSWZ2OG5kVk8zTk94a1ZaODQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "decc632316764a",
+      "title": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU5HNWRIbGV5bDluRlNqNEs1bDBXTzRvTWpqZS00Si1pVU1wRFdGakRsSDkwMXlXNjVTNnh3TURMTnFudDlxTXBGSEZLd1MwdjNyX0o5LVpjYk9oVlRJZWZPSTJGODNFX1k0alNWWXV3dVhsYW03QnFqaW1NTENCRDZncjlnT01YWWlaaUdHVlhDeUFvVzljTUtMWmFGYUF3T25xb2tJLThCRllyc0d1RC1LZw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-03",
-      "summary": "Why Microsoft Is Investing $10 Billion in Japan? &nbsp;&nbsp; tradingkey.com",
+      "summary": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan &nbsp;&nbsp; bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -242,8 +259,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "20MW",
-        "$65.6m"
+        "$65.6m",
+        "20MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -283,8 +300,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$267.2 billion",
-        "$267B"
+        "$267B",
+        "$267.2 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -667,8 +684,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100 million",
         "$50 million",
+        "$100 million",
         "$50M"
       ],
       "confidence": 4,
@@ -10362,23 +10379,6 @@
       "locations": [
         "Michigan"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fd94c460f34e71",
-      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-      "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-03-17",
-      "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
