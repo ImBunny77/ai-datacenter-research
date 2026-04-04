@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-04-03T22:35:33.656536+00:00",
+  "last_updated": "2026-04-04T02:23:38.593886+00:00",
   "finding_count": 600,
-  "new_project_count": 75,
-  "cancellation_count": 26,
+  "new_project_count": 77,
+  "cancellation_count": 27,
   "sec_filing_count": 0,
-  "high_confidence_count": 169,
+  "high_confidence_count": 172,
   "findings": [
+    {
+      "id": "d0e0a8148f51ab",
+      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-04",
+      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
     {
       "id": "3248d6243f6e02",
       "title": "Microsoft invests $10 billion in AI data centers in Japan - Українські Національні Новини (УНН)",
@@ -77,6 +94,27 @@
       "source_cat": "Announcement",
       "date": "2026-04-03",
       "summary": "Why Microsoft Is Investing $10 Billion in Japan? &nbsp;&nbsp; TradingKey",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Japan"
+      ],
+      "amounts": [
+        "$10 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "39e93ef8609f2d",
+      "title": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTU5HNWRIbGV5bDluRlNqNEs1bDBXTzRvTWpqZS00Si1pVU1wRFdGakRsSDkwMXlXNjVTNnh3TURMTnFudDlxTXBGSEZLd1MwdjNyX0o5LVpjYk9oVlRJZWZPSTJGODNFX1k0alNWWXV3dVhsYW03QnFqaW1NTENCRDZncjlnT01YWWlaaUdHVlhDeUFvVzljTUtMWmFGYUF3T25xb2tJLThCRllyc0d1RC1LZw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-03",
+      "summary": "Microsoft Drafts $10 Billion Investment Plan in AI-Hungry Japan &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -184,8 +222,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$267B",
-        "$267.2 billion"
+        "$267.2 billion",
+        "$267B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -208,6 +246,25 @@
         "$3 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "643962bbd249dd",
+      "title": "Microsoft to invest $10 bil for Japan AI data centers - japantoday.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjEyYnRLTnM3UFhicWJLbVpnb0RJSmMtcXNXV3J0OUpDYlhwNnpiZ2F5ZU9QdVRzWVVPWFhrci1CX2RacERVTkR1U042OXRnckI5bjlpTjJaYTd0TWdZcFFoc0x1VkFMbGlWTHB4OWpfaVVoSko3WTJLOElvM0RIMVNhcGJ0OUwxckVDTk01YzhjQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-03",
+      "summary": "Microsoft to invest $10 bil for Japan AI data centers &nbsp;&nbsp; japantoday.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Japan"
+      ],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -406,25 +463,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a2b9446374b21b",
-      "title": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5qUndnVnBrek1ZenJSTmZuaXh4Y3dYLXFXRERGWWhLYlJabklSWFBUU0VyWXB0a0xvN1ZyU2VOdFdsdEQzS3Zaa3RZWjZ4YXNHalVtMkRSQlpNVjFoQ1FlanVUdHRFNW5Kbkoyc1piVDlGMF9nNFM1S0ZSUURKWWZTc3ZlTHAtNFZ4QVdvNHlMeVdPUDQ4WW9R?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-02",
-      "summary": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment &nbsp;&nbsp; Meyka",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "f0e73d017e9dc5",
       "title": "OpenAI acquires tech industry podcast company TBPN",
       "url": "https://siliconangle.com/2026/04/02/openai-acquires-tech-industry-podcast-tbpn/",
@@ -439,6 +477,25 @@
       "locations": [],
       "amounts": [
         "$30 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a2b9446374b21b",
+      "title": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment - Meyka",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5qUndnVnBrek1ZenJSTmZuaXh4Y3dYLXFXRERGWWhLYlJabklSWFBUU0VyWXB0a0xvN1ZyU2VOdFdsdEQzS3Zaa3RZWjZ4YXNHalVtMkRSQlpNVjFoQ1FlanVUdHRFNW5Kbkoyc1piVDlGMF9nNFM1S0ZSUURKWWZTc3ZlTHAtNFZ4QVdvNHlMeVdPUDQ4WW9R?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-02",
+      "summary": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment &nbsp;&nbsp; Meyka",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -550,8 +607,8 @@
       "locations": [],
       "amounts": [
         "$50M",
-        "$100 million",
-        "$50 million"
+        "$50 million",
+        "$100 million"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -870,23 +927,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "670a98835bd1be",
-      "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-02",
-      "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e350dc7fc6c80e",
       "title": "Create, edit and share videos at no cost in Google Vids",
       "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
@@ -897,6 +937,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "670a98835bd1be",
+      "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-02",
+      "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1092,6 +1149,27 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "52f0eb51d78c38",
+      "title": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPMUFXbzd5WVRqTXk5QkdRWG84OXRULXBFak9xZUw1aE93NkZkZ1RKU19UeFJEMHpYV0h6dHVLNno2SVpFdmVDZlBjdHhGR1VrOXpqUFNfV3d3ZjRVX3dTU0xNN1pOa0FLcnUxVmtIa29TNkFIQnplTmZsVEVseng3LUpoTTZhbFRkMTh1dkJfMUFSM2V6T0Y1TFByR2w5aVdqbjduaFBFX0lwSzJKeG9oRGZaanpIeFhJU0MtQWNvY1JwZTNLZXY0Wk5QUFFIOERfOEU1R0VkbVppeEI5UkgzeGNYX1Vhbk9YVllGc0I4UUptZC1qeUR2TEFLU3JGSXE3R1pYUWhiaUM2UnIwSC1GZXU5Vk5HOVUxVnQzTWhweFU3QlRHZWRnZjlBV3Z4ZklTcWo5VVNxMkZiLXdxejJZQjFua1FVTnR6ZVBURkFrZ0tUaEUwd0tWQ3BpNEdMZzlyNGxiRGRLUFpSNE9ydExpT0JYVEViUEdOeVhMODdtaGx1SmhEbTlyMHQ4Nzd6ZWZpYXhHd1NmV1Z6dml0VFE4Mg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-01",
+      "summary": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 &nbsp;&nbsp; WSJ",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$5.5 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "680f6f2916537a",
@@ -3209,13 +3287,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c587d952e920e0",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
+      "id": "48044455adc6e4",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -3230,13 +3308,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "48044455adc6e4",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
+      "id": "c587d952e920e0",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -4708,28 +4786,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "28a8d7c4de3a57",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - msn.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUJoV1VPVmN1NU53bXRTdlVQenhOWXVrX1FOc1BOVGtaYjh3ekRTNlZJWElLeXA4dDc0UDNpSHg2OXdERU1JbGZwdHJXQzlCLTNrY1ZlZ0F0R1Q1aDlWNmJSSnpnem5GX0xzd2ZnTUI1OTFPR2p4ZW5pd3l5bHFrc2hIUm1YVms1cGZmT1ppTGpLLUdad2VkbFd0MWVnMEhqTF84aGJoY3B2N0lLRHpNLTlzSlMyaUtBbS1VaUNGZEN4R29JZ19uenRxRG9BeDloaTZsNWhlQjhTbHhxcEFj?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-25",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; msn.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "1GW",
-        "$10 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "52cffa1ebef0c9",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUJoV1VPVmN1NU53bXRTdlVQenhOWXVrX1FOc1BOVGtaYjh3ekRTNlZJWElLeXA4dDc0UDNpSHg2OXdERU1JbGZwdHJXQzlCLTNrY1ZlZ0F0R1Q1aDlWNmJSSnpnem5GX0xzd2ZnTUI1OTFPR2p4ZW5pd3l5bHFrc2hIUm1YVms1cGZmT1ppTGpLLUdad2VkbFd0MWVnMEhqTF84aGJoY3B2N0lLRHpNLTlzSlMyaUtBbS1VaUNGZEN4R29JZ19uenRxRG9BeDloaTZsNWhlQjhTbHhxcEFj?oc=5",
@@ -4747,6 +4803,28 @@
       "amounts": [
         "$10 billion",
         "1GW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "28a8d7c4de3a57",
+      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - msn.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUJoV1VPVmN1NU53bXRTdlVQenhOWXVrX1FOc1BOVGtaYjh3ekRTNlZJWElLeXA4dDc0UDNpSHg2OXdERU1JbGZwdHJXQzlCLTNrY1ZlZ0F0R1Q1aDlWNmJSSnpnem5GX0xzd2ZnTUI1OTFPR2p4ZW5pd3l5bHFrc2hIUm1YVms1cGZmT1ppTGpLLUdad2VkbFd0MWVnMEhqTF84aGJoY3B2N0lLRHpNLTlzSlMyaUtBbS1VaUNGZEN4R29JZ19uenRxRG9BeDloaTZsNWhlQjhTbHhxcEFj?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-25",
+      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; msn.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -5156,6 +5234,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "aca3906cb1609c",
+      "title": "Lumentum Holdings Inc Stock Faces Pressure Amid AI Optical Market Slowdown and Datacenter Spending U - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlExdWdRT0l6ZkJCa3F5RlI0dVQzcW9iVVp0Sk1XNWlVTDg3OUhDd1FFa2VUaTdXZWo4QWVyenNmNjFkU1F0ZXVOTXl1d3dLSnB6UHcxRGpmNHV3LVJGa0Rib1I2OTJiZzNaakI4VU9KMFp4TXhDRXpfSVNma1I0T2p6Wlg3RUtYOHUzT1lIYVU0ODhUdHp2YUN2WU9aTk10LWY4cHRHRTZlelh6VHNRWjA3VjRfeWlwOHh1NXJWUGg1blhmNjQ0?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-03-25",
+      "summary": "Lumentum Holdings Inc Stock Faces Pressure Amid AI Optical Market Slowdown and Datacenter Spending U &nbsp;&nbsp; AD HOC NEWS",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "df46d0548a6b1f",
       "title": "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/",
@@ -5167,21 +5260,6 @@
       "companies": [
         "Amazon"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aca3906cb1609c",
-      "title": "Lumentum Holdings Inc Stock Faces Pressure Amid AI Optical Market Slowdown and Datacenter Spending U - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlExdWdRT0l6ZkJCa3F5RlI0dVQzcW9iVVp0Sk1XNWlVTDg3OUhDd1FFa2VUaTdXZWo4QWVyenNmNjFkU1F0ZXVOTXl1d3dLSnB6UHcxRGpmNHV3LVJGa0Rib1I2OTJiZzNaakI4VU9KMFp4TXhDRXpfSVNma1I0T2p6Wlg3RUtYOHUzT1lIYVU0ODhUdHp2YUN2WU9aTk10LWY4cHRHRTZlelh6VHNRWjA3VjRfeWlwOHh1NXJWUGg1blhmNjQ0?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-03-25",
-      "summary": "Lumentum Holdings Inc Stock Faces Pressure Amid AI Optical Market Slowdown and Datacenter Spending U &nbsp;&nbsp; AD HOC NEWS",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -7352,6 +7430,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "2a07d61edd53e0",
+      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-03-21",
+      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$500 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "299ddd8b94e653",
       "title": "SoftBank planning massive $500 billion data center in Ohio - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
@@ -7366,27 +7465,6 @@
       "locations": [
         "Ohio",
         "Japan"
-      ],
-      "amounts": [
-        "$500 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2a07d61edd53e0",
-      "title": "SoftBank planning massive $500 billion data center in Ohio - japantimes.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVJaM2toQ2dfMDJFS3V1dDVqd3NFLXF5RE1GSnFtY2VtckdicUZ1UmpWUGpfWXB1eUs3SUk0d1NtZXQwZXlDR0oyNWlmTk1mME5iNS1ocHNablFBcHpXZjJLeXBncFdZWXdNX0tsa1VWS05VeHJuZDcxdzFBcXJKYXJZRzRnWVhJZmozUFJR?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-21",
-      "summary": "SoftBank planning massive $500 billion data center in Ohio &nbsp;&nbsp; japantimes.co.jp",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [
-        "Ohio"
       ],
       "amounts": [
         "$500 billion"
@@ -10289,72 +10367,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9f0a9a014be29b",
-      "title": "Fossefall eyes data center in Rollag, Norway - report",
-      "url": "https://www.datacenterdynamics.com/en/news/fossefall-is-reportedly-looking-to-develop-another-data-center-in-central-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Company targets former Kongsberg Våpenfabrikk automotive plant",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d7a1b7f00eb82",
-      "title": "Norway's Østfold Energi targets data center developments south of Oslo",
-      "url": "https://www.datacenterdynamics.com/en/news/norways-%C3%B8stfold-energi-targets-data-center-developments-south-of-oslo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Utility developing sites in Sarpsborg and Valer",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "34783f564e3812",
-      "title": "Storage wars: Is this the end for hard drives in the data center?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/storage-wars-is-this-the-end-for-hard-drives-in-the-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "Could the shortages facing the HDD market ultimately lead to the technology being replaced?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4f382665122a8c",
-      "title": "3D printed data center proposed in Kansas",
-      "url": "https://www.datacenterdynamics.com/en/news/3d-printed-data-center-proposed-in-kansas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-17",
-      "summary": "3D printing firm Cormor partners with Data Shelter",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
