@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-08T13:23:29.403530+00:00",
+  "last_updated": "2026-04-08T15:12:32.567934+00:00",
   "finding_count": 600,
   "new_project_count": 94,
-  "cancellation_count": 27,
+  "cancellation_count": 28,
   "sec_filing_count": 0,
-  "high_confidence_count": 187,
+  "high_confidence_count": 190,
   "findings": [
     {
       "id": "d583461ed59c3d",
@@ -23,6 +23,45 @@
         "$1.16 Billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cea5a16ba3e629",
+      "title": "Up to $50M will back NVIDIA chip purchases in Forum's first AI loan deal - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTZVcEZIU0ZTY013dWJiSl9kOE1MbXNlLTVnZFFfSEdnQVJiRHhIemNVanJqYUZ6aGtLNDdEXzA3RW5CbzBhUHZtdjVTSlZGY1I0VlNLV2FaSmFNYjh4YU9rSWR0Y0gtQWMtd1l1aVNWWndsZFFiWFdNNWx4bjliMTJtVEo0NHJSMFJkV2VpTFphZW9pbkFvSHk4eDI1aEhUUDJ6WTFzSlZFNDZsbzNpZDNJaUtQTUZ3ZWVfZHcwTF8?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-04-08",
+      "summary": "Up to $50M will back NVIDIA chip purchases in Forum's first AI loan deal &nbsp;&nbsp; stocktitan.net",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$50M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "557944cac61965",
+      "title": "Edged launches 36MW data center in Phoenix, Arizona",
+      "url": "https://www.datacenterdynamics.com/en/news/edged-launches-36mw-data-center-in-phoenix-arizona/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "Company launches first Arizona facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Arizona",
+        "Phoenix"
+      ],
+      "amounts": [
+        "36MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -45,18 +84,35 @@
       "is_high_confidence": true
     },
     {
-      "id": "2af4842d423d76",
-      "title": "Is another Amazon data center coming to Madison County? - clarionledger.com",
+      "id": "292af41acc8ee5",
+      "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-08",
-      "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; clarionledger.com",
+      "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c7f5cf55239e9b",
+      "title": "TikTok to invest €1bn in second Finnish data center",
+      "url": "https://www.datacenterdynamics.com/en/news/tiktok-to-invest-1bn-in-second-finnish-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "Comes after the company pulled back on plans for its Ireland location",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Ireland"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -81,13 +137,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "292af41acc8ee5",
-      "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
+      "id": "2af4842d423d76",
+      "title": "Is another Amazon data center coming to Madison County? - clarionledger.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-08",
-      "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
+      "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; clarionledger.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -95,6 +151,56 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "62700b82cf25d9",
+      "title": "DC Blox to expand into Indiana, targets data center campus in Indianapolis",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-to-expand-into-indiana-targets-data-center-campus-in-indianapolis/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "Three-building campus planned at former Ford manufacturing site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4fff8670e2cd75",
+      "title": "Hyperscale operators now account for nearly half of all data center capacity worldwide",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-operators-now-account-for-nearly-half-of-all-data-center-capacity-worldwide/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "Could hold more than two-thirds of the market by 2031",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6ce5c3b1dc102b",
+      "title": "Microsoft's Eric Boyd joins Anthropic as head of infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/microsofts-eric-boyd-joins-anthropic-as-head-of-infrastructure/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "Boyd previously led engineering of hardware and software for AI models on Azure",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -179,6 +285,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "d691508fccac58",
+      "title": "Anthropic debuts Project Glasswing, leveraging its powerful Mythos model to reinforce software security",
+      "url": "https://siliconangle.com/2026/04/07/anthropic-debuts-project-glasswing-initiative-will-leverage-powerful-mythos-model-reinforce-software-security/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-08",
+      "summary": "Anthropic PBC said today it’s releasing a preview of the most powerful frontier model it has ever developed, making it available to a small coterie of partners and cybersecurity researchers to help secure the world’s software. The model, called Claude Mythos, is being released as part of a new cybersecurity initiative dubbed Project Glasswing, which [&#8230;] \n The post  Anthropic debuts Project Glasswing, leveraging its powerful Mythos model to reinforce software security  appeared first on  Si",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a5a9d6002fc513",
+      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-08",
+      "summary": "A select group of customers is testing the Claude Mythos Preview.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "93ff23a86ac644",
       "title": "Sponsored: Brownfield data center modernization for AI: Liquid cooling without starting from scratch",
       "url": "https://www.datacenterdynamics.com/en/opinions/brownfield-data-center-modernization-for-ai-liquid-cooling-without-starting-from-scratch/",
@@ -209,23 +349,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d691508fccac58",
-      "title": "Anthropic debuts Project Glasswing, leveraging its powerful Mythos model to reinforce software security",
-      "url": "https://siliconangle.com/2026/04/07/anthropic-debuts-project-glasswing-initiative-will-leverage-powerful-mythos-model-reinforce-software-security/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-08",
-      "summary": "Anthropic PBC said today it’s releasing a preview of the most powerful frontier model it has ever developed, making it available to a small coterie of partners and cybersecurity researchers to help secure the world’s software. The model, called Claude Mythos, is being released as part of a new cybersecurity initiative dubbed Project Glasswing, which [&#8230;] \n The post  Anthropic debuts Project Glasswing, leveraging its powerful Mythos model to reinforce software security  appeared first on  Si",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ad7b6f97839d75",
       "title": "Silicon Data brings transparency to future GPU prices for enterprise CFOs",
       "url": "https://siliconangle.com/2026/04/08/silicon-data-brings-transparency-future-gpu-prices-enterprise-cfos/",
@@ -238,6 +361,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f20c749648eb78",
+      "title": "SambaNova and Intel expand partnership with inference architecture to support agentic AI workloads",
+      "url": "https://www.datacenterdynamics.com/en/news/sambanova-and-intel-expand-partnership-with-inference-architecture-to-support-agentic-ai-workloads/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-08",
+      "summary": "The offering which combines GPUs, RDUs, and CPUs will be available in the latter half of the year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -299,23 +437,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "dea1699130f763",
-      "title": "Chindata and HEC break ground on 7.5MW data center in Hubei Province, China",
-      "url": "https://www.datacenterdynamics.com/en/news/chindata-and-hec-break-ground-on-75mw-data-center-in-hubei-province-china/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "Campus will include \"AI showcase and academic exchange center\"",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "7.5MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "6d6065248d3f2e",
       "title": "Data center switch maker Aria Networks raises $125M",
       "url": "https://siliconangle.com/2026/04/07/data-center-switch-maker-aria-networks-raises-125m/",
@@ -327,8 +448,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$125M",
-        "$125 million"
+        "$125 million",
+        "$125M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -347,8 +468,25 @@
       ],
       "locations": [],
       "amounts": [
-        "$19.3M",
-        "$19.3 million"
+        "$19.3 million",
+        "$19.3M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "dea1699130f763",
+      "title": "Chindata and HEC break ground on 7.5MW data center in Hubei Province, China",
+      "url": "https://www.datacenterdynamics.com/en/news/chindata-and-hec-break-ground-on-75mw-data-center-in-hubei-province-china/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-07",
+      "summary": "Campus will include \"AI showcase and academic exchange center\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "7.5MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -568,13 +706,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9d3f0db709aebc",
-      "title": "Calls to Pause Data Center Construction Criticized - National Today",
+      "id": "d149b9c4f9635b",
+      "title": "Calls to Pause Data Center Construction Criticized - nationaltoday.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTY2Nl9jdG10VHhnM3AyOFVCbV94bk9JYmJhd2hXeGxjdUxXeVVlaEFLUkg1VnVqaFowcmtuUDlYSUxrYkFuZ2Z6ZXN5RWxXVV9JVmE2UGhJNDhBVXVUODFUbV9JLXQ4bUxaNkZtSEgxOTM2RGE4NlN5WUlXTERtUGcwNWM5U0ljdDFOMGw1OWk2dlNOeE9RUV9wdUhzZlJua2I4MmxFYk9lYi1XYmhYag?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-07",
-      "summary": "Calls to Pause Data Center Construction Criticized &nbsp;&nbsp; National Today",
+      "summary": "Calls to Pause Data Center Construction Criticized &nbsp;&nbsp; nationaltoday.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
@@ -600,13 +738,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d149b9c4f9635b",
-      "title": "Calls to Pause Data Center Construction Criticized - nationaltoday.com",
+      "id": "9d3f0db709aebc",
+      "title": "Calls to Pause Data Center Construction Criticized - National Today",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcTY2Nl9jdG10VHhnM3AyOFVCbV94bk9JYmJhd2hXeGxjdUxXeVVlaEFLUkg1VnVqaFowcmtuUDlYSUxrYkFuZ2Z6ZXN5RWxXVV9JVmE2UGhJNDhBVXVUODFUbV9JLXQ4bUxaNkZtSEgxOTM2RGE4NlN5WUlXTERtUGcwNWM5U0ljdDFOMGw1OWk2dlNOeE9RUV9wdUhzZlJua2I4MmxFYk9lYi1XYmhYag?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-07",
-      "summary": "Calls to Pause Data Center Construction Criticized &nbsp;&nbsp; nationaltoday.com",
+      "summary": "Calls to Pause Data Center Construction Criticized &nbsp;&nbsp; National Today",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
@@ -634,6 +772,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7156ae8ec5fd17",
+      "title": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion - ontario.ca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanNGMHFpTU1mb2oyQlVwS1pGbWdmVkVzY0s1QkZOQXplUG9xOUxxYkZsamVqWS1Va19tNUJCWUl4aXkwUXdmQmJqelRPNVJHTGFiV0JpM2JDcUl3bk5pcGhMM01kVHJCY0pNRW1EQ2xVdzEyakpreXBYWFRlaEZUV01EcHN1UGN3aURIRzhBWEhRMFJHVTNjV1U4Q2V1SU0?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-07",
+      "summary": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion &nbsp;&nbsp; ontario.ca",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5bd21e8ddc77e4",
       "title": "Chris Koopman and Kevin Frazier: The problem with pausing data centers - community.triblive.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS1c5OTU3eWhIMXVobUlaQ0o4TGl6LVAxWVVPY18xclFTdFdhbi1CcTVseHRzRHJRd3RFbXlqbU9FYk5mTFhKNENiYkt1dEE4OUh1X0tR?oc=5",
@@ -644,23 +799,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "880651e7f86ee3",
-      "title": "Data centers may come to Yuma, Arizona, says mayor",
-      "url": "https://www.datacenterdynamics.com/en/news/data-centers-may-come-to-yuma-arizona-says-mayor/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "But no application or request has yet been filed",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Arizona"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -798,6 +936,23 @@
       ],
       "locations": [
         "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "880651e7f86ee3",
+      "title": "Data centers may come to Yuma, Arizona, says mayor",
+      "url": "https://www.datacenterdynamics.com/en/news/data-centers-may-come-to-yuma-arizona-says-mayor/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-07",
+      "summary": "But no application or request has yet been filed",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Arizona"
       ],
       "amounts": [],
       "confidence": 2,
@@ -1110,13 +1265,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ea18692d20772a",
-      "title": "$15 billion investment: Google to kick off data centre project on April 28 - telecom.economictimes.indiatimes.com",
+      "id": "b1e8c8b7169b9e",
+      "title": "$15 billion investment: Google to kick off data centre project on April 28 - ET Telecom",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2xRZXgyWndyWkU2X0ZvOFozMlduV3lldC1Ud3M5ajdTVW15Z3l1RjlGbzZBcTNFOUxBa3F2VFBYT3NmcXpNUEd2NFVEcWdrNV91d0N5MEhxS0pNcEFSZlFRMzlPRG5SdEkzRENVbnptNDc3Tk9VdmQ0YkJKd2V5NmN5dXJCTjVmZHdvSFRaZXVNd013a3NBVWE2ZElWd2FOZEd2V0UzU0NNbzBCNVZ5SWRLQWwwUWpGTVZrTUxzMnZlYnZzYVdyNXBRUnVoZERjNkxuZGJqbTLSAd4BQVVfeXFMTjVueW5jQzNWYzJEX0Ffa1AzOHdXR2g4WWxRLTFSTDEzeGhnRWY1SV85d2lWaTlQYmExZmxrZjB2djJ1YkV1M3lYRTdZVEpWcHdVaEFKYlQ5V3g0Q2dGTE5Mdms1WnJWSkxaWXpvbWNsYjVVYXVQT0k5RXNEekZvSXh4Y2lDOE5rMDhGRDI3Wk9GYTNEejNoV2JYcE15bkl6cnh1Zm5CNUdRY09oUWZQRHFUcThaRzJabWdZQnpic2VCV3VIOWJIdjhzUXg5a3g1aVY2Y3oxZ1VuYTVXVzl3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-04-06",
-      "summary": "$15 billion investment: Google to kick off data centre project on April 28 &nbsp;&nbsp; telecom.economictimes.indiatimes.com",
+      "summary": "$15 billion investment: Google to kick off data centre project on April 28 &nbsp;&nbsp; ET Telecom",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1129,13 +1284,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "b1e8c8b7169b9e",
-      "title": "$15 billion investment: Google to kick off data centre project on April 28 - ET Telecom",
+      "id": "ea18692d20772a",
+      "title": "$15 billion investment: Google to kick off data centre project on April 28 - telecom.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2xRZXgyWndyWkU2X0ZvOFozMlduV3lldC1Ud3M5ajdTVW15Z3l1RjlGbzZBcTNFOUxBa3F2VFBYT3NmcXpNUEd2NFVEcWdrNV91d0N5MEhxS0pNcEFSZlFRMzlPRG5SdEkzRENVbnptNDc3Tk9VdmQ0YkJKd2V5NmN5dXJCTjVmZHdvSFRaZXVNd013a3NBVWE2ZElWd2FOZEd2V0UzU0NNbzBCNVZ5SWRLQWwwUWpGTVZrTUxzMnZlYnZzYVdyNXBRUnVoZERjNkxuZGJqbTLSAd4BQVVfeXFMTjVueW5jQzNWYzJEX0Ffa1AzOHdXR2g4WWxRLTFSTDEzeGhnRWY1SV85d2lWaTlQYmExZmxrZjB2djJ1YkV1M3lYRTdZVEpWcHdVaEFKYlQ5V3g0Q2dGTE5Mdms1WnJWSkxaWXpvbWNsYjVVYXVQT0k5RXNEekZvSXh4Y2lDOE5rMDhGRDI3Wk9GYTNEejNoV2JYcE15bkl6cnh1Zm5CNUdRY09oUWZQRHFUcThaRzJabWdZQnpic2VCV3VIOWJIdjhzUXg5a3g1aVY2Y3oxZ1VuYTVXVzl3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-04-06",
-      "summary": "$15 billion investment: Google to kick off data centre project on April 28 &nbsp;&nbsp; ET Telecom",
+      "summary": "$15 billion investment: Google to kick off data centre project on April 28 &nbsp;&nbsp; telecom.economictimes.indiatimes.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1225,6 +1380,23 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "087296cca497e1",
+      "title": "Outside Charlotte, Meta + Corning launch 1,000-job data center support project - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZ0licDl5OHpNaUxyR2d0UHJ4LVA1ZDhRb000NHJ2QjdzeXppUzVZUkYxZ0ExUkh2Mm5uVk82TzcxWERDU180OUMzeTJUVTlKNmFOcXZiUk5TaWJyTjROXzI2cEt6ekEzdWFyRjM0dm5maU9FeDhOZdIBeEFVX3lxTE1OZ09YNzlMeDhuREM1VktsU3lTOFBxZkRIM19qcXZFRDB4dEJnV0xsT0xfbV8wMUpSa3VtZXB5ZHA3MjEyMTRBMnpGZDZRM3dMNkpzOUQtb0tnQ2l3STJLUVBxTnd2LW9pYU53WEQ2UHUtOGZ6d0NTMg?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-06",
+      "summary": "Outside Charlotte, Meta + Corning launch 1,000-job data center support project &nbsp;&nbsp; Charlotte Observer",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "5f0fd6b6632204",
@@ -2880,6 +3052,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "bc990989dc4825",
+      "title": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWNIQzVsdmhjWjVlenBRdk1CdWFnbmZUZzY4R0NHMGRWMnF0UERMSFR0OThzcnVWRkhlZHgwSm56bmF1Y04tR2lEQ21Pc2VLV2RzYXpYRGJXby0tYU9rYUhDQzVjb1VkdGFKQjJGRGpLOG5zT0Zqa3FQUUZaWHh0S0NhYl9ZeXVjbVRnOGhLQkpVREhubU5PbE9PTQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-01",
+      "summary": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 &nbsp;&nbsp; WSJ",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$5.5 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "93418b4e448629",
       "title": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 - WSJ",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOejlCTGNvN0MxNUljbUxFODQ4TGQtQU9ZMmxuSTU0MkwxOUZzQkNaZGthWVpqTlcyRjJ1TENKTFg5NFFqZ3RVbjZWYnhERXJGZ1dWWkM5cnY1cG14LWhYbUxyMkFrYTk5Rk9pLS1hQ0I0MmZ5b0pxUEFMOFo3VzZqV0ZaNkpKUmdVNFBPSWpRQjhRWmJ4dlhqRzZ6bS1wTU5uamhTb2xSQlFFWXNvTkVkMDhvaG1oblNyOFVmdzgtbWNWazE5T044dURGcjItWDBiajFkM1NCS1NoYXBaNVhyU3MyY211cHVsUmQzWThOWkJETk90Ui1RNTJZT1NtZWNWVWRJbE1oVXRwckhTQjRZeHV4SG5WVFF4MEFzajdYbWpCOGlPbUJIS1BvNW54WmVMNjFmYnVYdVkyVjRsT2Z0ZkNaM2h3dGgxYzloWm92dGpKYktyOHNQMGZjV3A2aHUtdTdtLUtFdzJqckRxbjdGLVdaLVpTelBYX1lTSGc1S05uM3Rjblk0alVuWGoyQ0M2Y0FoZTNaU3pzVTUzUkl5Tw?oc=5",
@@ -3959,23 +4152,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "087296cca497e1",
-      "title": "Outside Charlotte, Meta + Corning launch 1,000-job data center support project - Charlotte Observer",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZ0licDl5OHpNaUxyR2d0UHJ4LVA1ZDhRb000NHJ2QjdzeXppUzVZUkYxZ0ExUkh2Mm5uVk82TzcxWERDU180OUMzeTJUVTlKNmFOcXZiUk5TaWJyTjROXzI2cEt6ekEzdWFyRjM0dm5maU9FeDhOZdIBeEFVX3lxTE1OZ09YNzlMeDhuREM1VktsU3lTOFBxZkRIM19qcXZFRDB4dEJnV0xsT0xfbV8wMUpSa3VtZXB5ZHA3MjEyMTRBMnpGZDZRM3dMNkpzOUQtb0tnQ2l3STJLUVBxTnd2LW9pYU53WEQ2UHUtOGZ6d0NTMg?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Outside Charlotte, Meta + Corning launch 1,000-job data center support project &nbsp;&nbsp; Charlotte Observer",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     },
     {
       "id": "2a969a52faba82",
@@ -5195,13 +5371,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "48044455adc6e4",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
+      "id": "c587d952e920e0",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -5216,13 +5392,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c587d952e920e0",
-      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - entergy.com",
+      "id": "48044455adc6e4",
+      "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-03-27",
-      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; entergy.com",
+      "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -6240,21 +6416,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3adee4834b4041",
-      "title": "New Data Center Developments: March 2026 - Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dFd1RnLTJjbU1kN2x1SDNYaHliSDdRcGFvYmRXVGZvRTdWTFdXalUwZWZZYVNMQ3JVTHk0dGtfajNrRlplRG9fSFZNOTRpZzBoLXhENElTT2JnSUZHWVljSGNycGJkSW9VWkhNa0tsbDdIQnpVZXhaN2ZFLWZrSElVQ0M2WXAzYWdmeFZMVVpXMk1ocm5TQnVaNG5TZHNhbWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-26",
-      "summary": "New Data Center Developments: March 2026 &nbsp;&nbsp; Data Center Knowledge",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "80d50c17640b73",
       "title": "Customize your AWS Management Console experience with visual settings including account color, region and service visibility",
       "url": "https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/",
@@ -6283,6 +6444,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3adee4834b4041",
+      "title": "New Data Center Developments: March 2026 - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0dFd1RnLTJjbU1kN2x1SDNYaHliSDdRcGFvYmRXVGZvRTdWTFdXalUwZWZZYVNMQ3JVTHk0dGtfajNrRlplRG9fSFZNOTRpZzBoLXhENElTT2JnSUZHWVljSGNycGJkSW9VWkhNa0tsbDdIQnpVZXhaN2ZFLWZrSElVQ0M2WXAzYWdmeFZMVVpXMk1ocm5TQnVaNG5TZHNhbWc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-03-26",
+      "summary": "New Data Center Developments: March 2026 &nbsp;&nbsp; Data Center Knowledge",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -7660,8 +7836,8 @@
       "id": "11ed0f2b34e3f1",
       "title": "City of Liberty announces new $1.4 billion AI data center - Spectrum News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjB3aFl5Ylpnclp0bGRha05zUFhNOUNjWWJGdGVYRmZOMUpYc2ZQNWFBWk1uVjFGblo5ZHQyMkdYQnlEYXc0SXpGcEVRUHpTRUh3R25xMnB3SEl1QUdBejZscVR4S3JNcWhmbXBfdThzbHlNMWxiREJ0U2oxU1h3YnBidTM1OWs5RWhMcUo5cXBlRy0weXRr?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-24",
       "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; Spectrum News",
       "finding_type": "New Project",
@@ -9541,13 +9717,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6936d3afec028d",
-      "title": "Massive $33 billion energy hub for data centers announced in Pike County - The Columbus Dispatch",
+      "id": "b53c283370ee78",
+      "title": "Massive $33 billion energy hub for data centers announced in Pike County - dispatch.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFBJbmJONU5wRS1Td0tZNW1RVUdOd2VtTEZ4V3VqLVJyWnJkNF9NNFktRzNMTmJzWGN5ZWhHakMwdjEzbFRZdzFvRTBvMk1GMTNYVHNjejZEWkQxa1VtOVBPQV92NnJKS2ZJRVVUX29GMFZ2V0FLRzRlU09scXFqcUhDUDJDTDlPdHRyd3hEN0tEQnZvbUhzc0F2VHFpRjFCY2g3bWpzeW0xN0tsSFE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive $33 billion energy hub for data centers announced in Pike County &nbsp;&nbsp; The Columbus Dispatch",
+      "summary": "Massive $33 billion energy hub for data centers announced in Pike County &nbsp;&nbsp; dispatch.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -9558,13 +9734,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "b53c283370ee78",
-      "title": "Massive $33 billion energy hub for data centers announced in Pike County - dispatch.com",
+      "id": "6936d3afec028d",
+      "title": "Massive $33 billion energy hub for data centers announced in Pike County - The Columbus Dispatch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFBJbmJONU5wRS1Td0tZNW1RVUdOd2VtTEZ4V3VqLVJyWnJkNF9NNFktRzNMTmJzWGN5ZWhHakMwdjEzbFRZdzFvRTBvMk1GMTNYVHNjejZEWkQxa1VtOVBPQV92NnJKS2ZJRVVUX29GMFZ2V0FLRzRlU09scXFqcUhDUDJDTDlPdHRyd3hEN0tEQnZvbUhzc0F2VHFpRjFCY2g3bWpzeW0xN0tsSFE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Massive $33 billion energy hub for data centers announced in Pike County &nbsp;&nbsp; dispatch.com",
+      "summary": "Massive $33 billion energy hub for data centers announced in Pike County &nbsp;&nbsp; The Columbus Dispatch",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -9597,13 +9773,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d4e57a5cc1a8b0",
-      "title": "Federal officials announce $33B data center, power plant in Pike County - 10TV",
+      "id": "93d78fab396f90",
+      "title": "Federal officials announce $33B data center, power plant in Pike County - 10tv.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZJZWVpbS0ya3Y4a01lM2prSmJGSUxRSklpUmRXWi1kVEMxLVM2eXh3TEd1SFl4bFZrUlFQQ3Q0VWVKN053VHJLTEhNaERHdlp2ODdRVE44R0o2VGlmR0dOZV9pU015MWFZZ2pHdUQ1bkpreTJ4NGpCWkJoaFlaUnFNRmktMEdJNjVRSUsyR2I0QWI0ck5abUhxOE5kU0NxdVpic1lkRGxlYmo2dFhwODhMS3RjWTZnY3JEWFhGRjBoNEp2ZmpEOTdONXBzNzhKMGtzbDBfMmdEZmwwcWp5alhHaldiV0FXRzdtaml3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Federal officials announce $33B data center, power plant in Pike County &nbsp;&nbsp; 10TV",
+      "summary": "Federal officials announce $33B data center, power plant in Pike County &nbsp;&nbsp; 10tv.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9614,13 +9790,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "93d78fab396f90",
-      "title": "Federal officials announce $33B data center, power plant in Pike County - 10tv.com",
+      "id": "d4e57a5cc1a8b0",
+      "title": "Federal officials announce $33B data center, power plant in Pike County - 10TV",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHZJZWVpbS0ya3Y4a01lM2prSmJGSUxRSklpUmRXWi1kVEMxLVM2eXh3TEd1SFl4bFZrUlFQQ3Q0VWVKN053VHJLTEhNaERHdlp2ODdRVE44R0o2VGlmR0dOZV9pU015MWFZZ2pHdUQ1bkpreTJ4NGpCWkJoaFlaUnFNRmktMEdJNjVRSUsyR2I0QWI0ck5abUhxOE5kU0NxdVpic1lkRGxlYmo2dFhwODhMS3RjWTZnY3JEWFhGRjBoNEp2ZmpEOTdONXBzNzhKMGtzbDBfMmdEZmwwcWp5alhHaldiV0FXRzdtaml3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-03-20",
-      "summary": "Federal officials announce $33B data center, power plant in Pike County &nbsp;&nbsp; 10tv.com",
+      "summary": "Federal officials announce $33B data center, power plant in Pike County &nbsp;&nbsp; 10TV",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10245,164 +10421,6 @@
       "source_cat": "Announcement",
       "date": "2026-03-20",
       "summary": "Federal, state, local and international officials break ground for what could be the nation’s largest data center in Pike County &nbsp;&nbsp; WOUB Public Media -",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f53d35e985d7c6",
-      "title": "Bezos-backed Blue Origin files for approval to put data centers in space",
-      "url": "https://www.datacenterdynamics.com/en/news/bezos-backed-blue-origin-files-for-approval-to-put-data-centers-in-space/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "Another joins the data center space race",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a819cafc71da58",
-      "title": "Edinburgh could approve potential data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/edinburgh-could-approve-potential-data-center-moratorium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "Would remain in place until \"green data center\" is defined",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f7e742a8bde40f",
-      "title": "Fluidstack drops data center projects in France to focus on US - report",
-      "url": "https://www.datacenterdynamics.com/en/news/fluidstack-drops-projects-in-france-to-focus-on-us-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "Neocloud unlikely to be in Macron's good books",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "03168ccce47035",
-      "title": "Three at Supermicro charged with smuggling Nvidia GPU servers into China, including company co-founder",
-      "url": "https://www.datacenterdynamics.com/en/news/three-charged-with-smuggling-supermicro-servers-containing-nvidia-gpus-into-china-including-company-co-founder/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "One of the defendants is a co-founder of the server manufacturer",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b6498910fd8b2d",
-      "title": "Three charged with smuggling Supermicro servers with Nvidia GPUs into China, including company co-founder",
-      "url": "https://www.datacenterdynamics.com/en/news/three-charged-with-smuggling-supermicro-servers-containing-nvidia-gpus-into-china-including-company-co-founder/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "One of the defendants is a co-founder of the server manufacturer",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3120114876bf14",
-      "title": "Three charged with smuggling Supermicro servers containing Nvidia GPUs into China, including company co-founder",
-      "url": "https://www.datacenterdynamics.com/en/news/three-charged-with-smuggling-supermicro-servers-containing-nvidia-gpus-into-china-including-company-co-founder/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "One of the defendants is a co-founder of the server manufacturer",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b625c3dc1e5b82",
-      "title": "DCD>Talks: Resilient power strategies with Mario Macri, ABB",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-resilient-power-strategies-with-mario-macri-abb/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "ABB's Data Center Segment Lead for APAC, Mario Macri, speaks to DCD's Emma Brookes about AI-driven growth demands and resilient power strategies in APAC",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a849be3970aa3",
-      "title": "Sponsored: The helmsmen behind the shifting tides of modern computing",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-helmsmen-behind-the-shifting-tides-of-modern-computing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "With chip advancements arriving in waves, data center growth can drift without clear direction, requiring strong HR and Finance leadership to set strategy, course, and pace",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "080b1e372768dc",
-      "title": "Sponsored: Modular data center design: A construction choice that cuts embodied carbon",
-      "url": "https://www.datacenterdynamics.com/en/opinions/modular-data-center-design-a-construction-choice-that-cuts-embodied-carbon/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "Build decisions lock in a data center’s carbon footprint before operations ever start. A lifecycle assessment (LCA) report reveals how those choices shape long-term carbon efficiency",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "80f2f8521b3fcd",
-      "title": "Sponsored: Nxtra by Airtel Africa: Powering Nigeria’s digital future from the heart of Eko Atlantic",
-      "url": "https://www.datacenterdynamics.com/en/product-news/nxtra-by-airtel-africa-powering-nigerias-digital-future-from-the-heart-of-eko-atlantic/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-20",
-      "summary": "A behind‑the‑scenes look at the leadership inspection of Nigeria’s next hyperscale data center",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
