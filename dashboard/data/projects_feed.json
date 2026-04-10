@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-10T07:54:58.689486+00:00",
+  "last_updated": "2026-04-10T09:12:27.955773+00:00",
   "finding_count": 600,
   "new_project_count": 108,
-  "cancellation_count": 28,
+  "cancellation_count": 27,
   "sec_filing_count": 0,
-  "high_confidence_count": 205,
+  "high_confidence_count": 204,
   "findings": [
     {
       "id": "e18818b83f9530",
@@ -41,9 +41,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$400 million",
+        "$400M",
         "$3.65 billion",
-        "$400M"
+        "$400 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -63,9 +63,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$21B",
         "$14.2 billion",
-        "$21 billion"
+        "$21 billion",
+        "$21B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -90,6 +90,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "b46d55a85acd3a",
+      "title": "Amazon claims title of Europe's largest corporate buyer of renewables - report",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-claims-title-of-europes-largest-corporate-buyer-of-renewables-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-10",
+      "summary": "Now has more than 10GW of contracted capacity across the reigon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "10GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "af25c8d99b2d9f",
       "title": "Florida AG opens probe into ChatGPT alleging connection to FSU shooting",
       "url": "https://siliconangle.com/2026/04/09/florida-ag-opens-probe-chatgpt-alleging-connection-fsu-shooting/",
@@ -106,6 +125,25 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ada1ef470d7c9e",
+      "title": "Microsoft Azure's UK South region experiences capacity issues - report",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-azures-uk-south-region-experiences-capacity-issues-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-10",
+      "summary": "Customers claim they are being turned away from increasing compute",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -10480,42 +10518,6 @@
         "$3.1 million"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "aa9fe2fdf60ac9",
-      "title": "Eleveight AI deploys 512 Nvidia B300s at 2MW data center in Gagarin, Armenia",
-      "url": "https://www.datacenterdynamics.com/en/news/eleveight-ai-deploys-512-nvidia-b300s-at-2mw-data-center-in-gagarin-armenia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "Construction of facility slated for completion this month",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "2MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "39f2048c3cb64b",
-      "title": "How technology will unlock a $3 trillion opportunity in data center construction",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-technology-will-unlock-a-3-trillion-opportunity-in-data-center-construction/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-23",
-      "summary": "Could help overcome staff shortages and cut delays",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3 trillion"
-      ],
-      "confidence": 6,
       "is_high_confidence": true
     }
   ]
