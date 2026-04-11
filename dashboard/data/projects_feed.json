@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-04-11T10:35:50.602842+00:00",
+  "last_updated": "2026-04-11T13:02:13.106800+00:00",
   "finding_count": 600,
-  "new_project_count": 109,
+  "new_project_count": 110,
   "cancellation_count": 27,
   "sec_filing_count": 0,
-  "high_confidence_count": 214,
+  "high_confidence_count": 215,
   "findings": [
+    {
+      "id": "a31ff148e002aa",
+      "title": "Amazon investing $12 billion to build more data centers in Mississippi - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZzNXR25SSDk2QS1ndjc0NXVCY3pwaE1NMnJocHFOQThxdjVLQWVfQ0VZSl9Fd3BNc05ySGNmUjQ1c21EcG1RU3FROHVqS1dhbXRMcWlCaVUtbnRpZEpzNEQySjVvWm9udkNCbU0zOHNFM1ZtNDB5RGZSRUE2Z1poczYtM1o1M2ltSnctZTJ2dHVHWnlQS2JFVDRsbE1EZnR5VThtMlpOSkV0VnNEYXk4QWI2dE9ldnhJTWdEY3NnanBCSV93UG40bUdoYmJpekd2c0hiX2RUWnJMUXBrWWRjOEhIaU5ZYlV3dERGd3V1bVZwM1NL?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-11",
+      "summary": "Amazon investing $12 billion to build more data centers in Mississippi &nbsp;&nbsp; Northeast Mississippi Daily Journal",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$12 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
     {
       "id": "a0a6165447954e",
       "title": "Maine could be the first state to ban new data centers. These 11 other states tried and failed. - Business Insider",
@@ -33,6 +54,26 @@
       "summary": "As AI becomes a critical workload across sectors, the organizations that succeed will be those that align compute strategy with a flexible, efficient, and collaborative infrastructure model",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f371abe56aa12f",
+      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+      "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-11",
+      "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "xAI",
+        "OpenAI",
+        "Anthropic"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -91,8 +132,8 @@
       "locations": [],
       "amounts": [
         "$400 million",
-        "$400M",
-        "$3.65 billion"
+        "$3.65 billion",
+        "$400M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -112,30 +153,11 @@
       ],
       "locations": [],
       "amounts": [
-        "$21B",
         "$14.2 billion",
-        "$21 billion"
+        "$21 billion",
+        "$21B"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5c07b7b2fdb7ff",
-      "title": "AWS scales up investment commitment for Mississippi data centers to $25bn - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbC0zU3Y2WDlSakN1Yzllc0xJMmVsUzZtUC1hOHpUdjJFamIyREw5OXJsdkRvcjA4Y1ZKRjRRbkhGT0o0Y1VISlB5Z0hqb1VzWC05UjBod2pLRGNaTzJCMHFCbDNiNkN4TWIzalJwejZvY19JdVZISktEUnFKdldxMy1LQ0tDSHAzZG5MSkhpc1k3YVFWNkFlRXN6T01FQ0xqVERsVnVlbnptakpaQXMzYnZRa2FMRTQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-10",
-      "summary": "AWS scales up investment commitment for Mississippi data centers to $25bn &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [],
-      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -147,6 +169,25 @@
       "date": "2026-04-10",
       "summary": "News | Amazon nearly doubles Mississippi data center investment &nbsp;&nbsp; CoStar",
       "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5c07b7b2fdb7ff",
+      "title": "AWS scales up investment commitment for Mississippi data centers to $25bn - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbC0zU3Y2WDlSakN1Yzllc0xJMmVsUzZtUC1hOHpUdjJFamIyREw5OXJsdkRvcjA4Y1ZKRjRRbkhGT0o0Y1VISlB5Z0hqb1VzWC05UjBod2pLRGNaTzJCMHFCbDNiNkN4TWIzalJwejZvY19JdVZISktEUnFKdldxMy1LQ0tDSHAzZG5MSkhpc1k3YVFWNkFlRXN6T01FQ0xqVERsVnVlbnptakpaQXMzYnZRa2FMRTQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-10",
+      "summary": "AWS scales up investment commitment for Mississippi data centers to $25bn &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
@@ -3081,21 +3122,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0c6257112b0719",
-      "title": "Chris Koopman and Kevin Frazier: The problem with pausing data centers - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS1c5OTU3eWhIMXVobUlaQ0o4TGl6LVAxWVVPY18xclFTdFdhbi1CcTVseHRzRHJRd3RFbXlqbU9FYk5mTFhKNENiYkt1dEE4OUh1X0tR?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-07",
-      "summary": "Chris Koopman and Kevin Frazier: The problem with pausing data centers &nbsp;&nbsp; TribLIVE.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7156ae8ec5fd17",
       "title": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion - ontario.ca",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanNGMHFpTU1mb2oyQlVwS1pGbWdmVkVzY0s1QkZOQXplUG9xOUxxYkZsamVqWS1Va19tNUJCWUl4aXkwUXdmQmJqelRPNVJHTGFiV0JpM2JDcUl3bk5pcGhMM01kVHJCY0pNRW1EQ2xVdzEyakpreXBYWFRlaEZUV01EcHN1UGN3aURIRzhBWEhRMFJHVTNjV1U4Q2V1SU0?oc=5",
@@ -3195,6 +3221,21 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0c6257112b0719",
+      "title": "Chris Koopman and Kevin Frazier: The problem with pausing data centers - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS1c5OTU3eWhIMXVobUlaQ0o4TGl6LVAxWVVPY18xclFTdFdhbi1CcTVseHRzRHJRd3RFbXlqbU9FYk5mTFhKNENiYkt1dEE4OUh1X0tR?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-07",
+      "summary": "Chris Koopman and Kevin Frazier: The problem with pausing data centers &nbsp;&nbsp; TribLIVE.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7683,8 +7724,8 @@
       "id": "48044455adc6e4",
       "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-03-27",
       "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
       "finding_type": "Statement / Update",
@@ -10509,42 +10550,6 @@
         "OpenAI"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a801512e0a7a76",
-      "title": "AWS eyeing 2-3 gigawatts India capacity on tax sops sweetener - ET BrandEquity",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMHVVbDZzZnJIbXB2U1RRZzJvMHYzQnJBUWJyNW5hYnFGWTU5MlJOSFJBLVVIOHZmVU5aTWRmRWZqUUFmQlNxd2haTlpRVnVqNEUzOEpSWjFpT3JzblZ4WWJyOWJoY0RyUEZ1MTlNRDBscXNhT05kMUp5TlZkZ3BUYXNIRHZManlsdXN0YlpYOVY3dkthTmo4NnJaaFBsb013Q2YzYmNybXpzX2R2Vk9qTDBQREVQc0I2ZkY4dm5QMlRLRGwtdXNFVFJWZjR5RGpfWkVCdVdPY042c3dT0gHiAUFVX3lxTFBUWTNZTkszbnBmVkxiMGtrUEZQUHF1aHNTaGtYWi1mSUJsNnVuWmhZZlp3Slp2elBCTk0zWG5VTTNBS3R0MkFieWdRSFo2eWtYM2ZzRnBBbUpYQVZ3V0VXLVMyUEhOUnE2dm9DTC1YY0NXUVRUQ2MwcVlNZ3JFT2I0a09EU1M2Z295RERKdExiR3ZvTjFXbXBPRUZrOVVfOGw0Y0VjLXNDU2gtX1g1aTNTaERmbzVqRjlKVUNIWjk0Yms4dHFTNVhBLThDQ0tsVlJ3TjlaLXB5ZzUxYmpfZHJYR1E?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-03-24",
-      "summary": "AWS eyeing 2-3 gigawatts India capacity on tax sops sweetener &nbsp;&nbsp; ET BrandEquity",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "958c989631afa8",
-      "title": "Cerebras plans data center in Manitoba, Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/cerebras-plans-data-center-in-manitoba-canada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-24",
-      "summary": "Following Saskatchewan announcement with Bell",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
