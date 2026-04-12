@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-12T10:40:12.820545+00:00",
+  "last_updated": "2026-04-12T13:05:04.318660+00:00",
   "finding_count": 600,
   "new_project_count": 108,
-  "cancellation_count": 28,
+  "cancellation_count": 29,
   "sec_filing_count": 0,
-  "high_confidence_count": 217,
+  "high_confidence_count": 218,
   "findings": [
     {
       "id": "95221201239eab",
@@ -22,6 +22,21 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "6057914d0bcd80",
+      "title": "When data centers bring their own power supply",
+      "url": "https://www.datacenterdynamics.com/en/opinions/when-data-centers-bring-their-own-power-supply/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-12",
+      "summary": "Why utilities and construction CFOs need a new tech playbook",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "a31ff148e002aa",
@@ -161,8 +176,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$3.65 billion",
         "$400 million",
+        "$3.65 billion",
         "$400M"
       ],
       "confidence": 7,
@@ -204,9 +219,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$14.2 billion",
         "$21B",
-        "$21 billion"
+        "$21 billion",
+        "$14.2 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -485,6 +500,25 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6888341f55e363",
+      "title": "Stargate UK: Why is OpenAI Halting its AI Data Centre Deal? - Data Centre Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXAweThXcFdya1ltWk0zMnl6MERLbXFvLTk3U3UtR09OQWVkMC00Ym1QZUY3dlI2ZXZiOFVDVjBRb2tRdS15a01aRW82Y0tGWkZsNDl1aVVPQ2Q0Y3VnMGxVOV9tZE5GaDRySEFycnBsVlBnaHNTby0yYnVVTlZPbW9xbV9iTU44b3FfV0lxZ1RQSmtIUHlN?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-10",
+      "summary": "Stargate UK: Why is OpenAI Halting its AI Data Centre Deal? &nbsp;&nbsp; Data Centre Magazine",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -1058,6 +1092,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "8692fe668cffea",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Mississippi Development Authority",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWdqTThRb3laOVlGQlMwN2RMY054MUNWX1VnLS1CbFQwZEdCQV9aay11cVhjSmdrSUlrZDFzc09LakxuOG1XUThtRmVYLWVSV19nUmFOdk9BejdLTDRNaVN3QWt4SHg1TlliVFkwZTJrUkJ1Z1hFdDhPQ3F5VFV1dXQ2THd4elR6YVFYc2l0OTdxTktSQkxMWko0MkN0MU9DeGVPel9ZY2pWeG1LeU5KRGkyOE4yVkNyNGlPak1Ma0o2cm1GOUtYZHhNazhtbmhDemtEeHVFbWNock0?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Mississippi Development Authority",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "25f429c3cc4ba7",
       "title": "Amazon drops $25B on Mississippi data centers in AI bet - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTc0WC1JcC0xWDFFcW5NNDNLamgzMFB0QXVJS3gwTE84X3NwaEphNmFLUldGekZ3c3BIZXQ2UWcwUkxDeHgzZnBIaERNVlgwX0R1c3BZWUxTTzQ0by1YZXY2THNQdWtIUk96eVZpcGRncDhPS2dXdXJ5eWlrQWpUbFVkbFEtdVV1SXVOVVIxbFE?oc=5",
@@ -1180,25 +1235,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "a6133cc49bafb2",
-      "title": "Amazon announces plans to expand in Magnolia State with $12B investment - Vicksburg Daily News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY05ycndnREZMQUlLdlR6V3BONjBBNThtTXhfbW1GaUtUSTJTZ0RHSE9oNEdENjE4eVVRSTRNWWlsSkt2R0NkbFkyRzRyYVlSY3VWajVDd24wT2VveXBrUWV4ZUNHck9EX0tLV2pCbExkRFQ4aFNHVFI1Qkp4Z2NzN1pOUGhQaEVaaEZYWVVxZmFfeW1FMWhOUFk3RTlfQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon announces plans to expand in Magnolia State with $12B investment &nbsp;&nbsp; Vicksburg Daily News",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$12B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "3e4dce65db4d16",
       "title": "‘2,000 new jobs right here in Mississippi’: Gov. Reeves $12B more in investments from AWS - WLBT",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHJPbFdvT09YUWxFSTk4RlpwME9ORGdDQjRxR19VeXlsTlN4Vi03Rk81ZE1YVW9LYThPSENJc1JUc3QzRjlhVWxhdXRwbHJnTGRlOVo5eXA2cnZHc0dqS0lsQ1RUMVN6NDhnbmRwbTJWVzdObmtDdndad0xUMGhKc2VWYmlVZXBCcnpOb0xQWV9COXRpMC1VNGpYRERCS1c0MzlYVmVXT0JCRGIwSkE5dzdsek7SAcgBQVVfeXFMTmxtbF9UUnBYMVZtQUhlV1FXVUg3blBXYVluMHRQWFB3NlNKb3lodjR4Ujd6bkxjOERaci15WTZOVXlIUUgzdEhLNkZSVVFvYmY1cnZHZlZTZjAtX1lmYlRaTGgtZ0IyT2d5ZldYYS1MdjhDT2F0QUxyREVJV1QwWmJ4Y0t1MmRmZ3M0aTd0NThwNW9faUJUYXRrd0I3ZnFQT1RQa2tJcjdKa21SbGduRGFSRTZqZHl1a0prdVpUMGhBblI0UFRwbFY?oc=5",
@@ -1213,6 +1249,25 @@
       "locations": [
         "Mississippi"
       ],
+      "amounts": [
+        "$12B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a6133cc49bafb2",
+      "title": "Amazon announces plans to expand in Magnolia State with $12B investment - Vicksburg Daily News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY05ycndnREZMQUlLdlR6V3BONjBBNThtTXhfbW1GaUtUSTJTZ0RHSE9oNEdENjE4eVVRSTRNWWlsSkt2R0NkbFkyRzRyYVlSY3VWajVDd24wT2VveXBrUWV4ZUNHck9EX0tLV2pCbExkRFQ4aFNHVFI1Qkp4Z2NzN1pOUGhQaEVaaEZYWVVxZmFfeW1FMWhOUFk3RTlfQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Amazon announces plans to expand in Magnolia State with $12B investment &nbsp;&nbsp; Vicksburg Daily News",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [
         "$12B"
       ],
@@ -2260,8 +2315,8 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
@@ -3211,23 +3266,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6190b20de92731",
-      "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQUNWWUZQNk1sUEVUQjJmU2lQYWRHQk5WeVhOTG9FNW5ycGZZN0p2Z09OajFxSXVqMGhmZjFNYXBNODR2THpTVmM0dTBiYldNNWpjVTg0T2J5V25odWwxZ2xXXzg3M3NuRFpVWm5aQQ?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-04-07",
-      "summary": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now &nbsp;&nbsp; AOL.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9d8066b504f47e",
       "title": "Launching S3 Files, making S3 buckets accessible as file systems",
       "url": "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/",
@@ -3310,6 +3348,23 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6190b20de92731",
+      "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQUNWWUZQNk1sUEVUQjJmU2lQYWRHQk5WeVhOTG9FNW5ycGZZN0p2Z09OajFxSXVqMGhmZjFNYXBNODR2THpTVmM0dTBiYldNNWpjVTg0T2J5V25odWwxZ2xXXzg3M3NuRFpVWm5aQQ?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-04-07",
+      "summary": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now &nbsp;&nbsp; AOL.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7796,8 +7851,8 @@
       "id": "48044455adc6e4",
       "title": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings - Entergy",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ2QzQWxmZzhSMGdMNC01RGlNTjNXM3RZRWNkWFZVelJXVHlOTmFFRzlDbkM3eTFCTjlTUGtUcjZKbVgwakFpVUl6UnpseFNFNFBpSTlra3E5LVVUZTh2aTE5NG1uZFdIc3Vvbk5HM1VYb2dneG96YTRLOTFmYmFBZkt3eFRtRmZiRWx0OGZsazZ4RmFFWmkxZWtkZkw2QS03OHVvMXM2bDF1U1kwbWJCN3QtVVVPN0w1dXlGOHZ4Nkd0RURHN21TRGc2aEpHSW1MWGFj?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-27",
       "summary": "Entergy Louisiana announces a new agreement with Meta that will deliver an additional $2B in customer savings &nbsp;&nbsp; Entergy",
       "finding_type": "Statement / Update",
@@ -10258,8 +10313,8 @@
       "id": "11ed0f2b34e3f1",
       "title": "City of Liberty announces new $1.4 billion AI data center - Spectrum News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjB3aFl5Ylpnclp0bGRha05zUFhNOUNjWWJGdGVYRmZOMUpYc2ZQNWFBWk1uVjFGblo5ZHQyMkdYQnlEYXc0SXpGcEVRUHpTRUh3R25xMnB3SEl1QUdBejZscVR4S3JNcWhmbXBfdThzbHlNMWxiREJ0U2oxU1h3YnBidTM1OWs5RWhMcUo5cXBlRy0weXRr?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-03-24",
       "summary": "City of Liberty announces new $1.4 billion AI data center &nbsp;&nbsp; Spectrum News",
       "finding_type": "New Project",
@@ -10505,57 +10560,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "48f3bc3fbd270e",
-      "title": "Meta Partners With Arm to Develop New Class of Data Center Silicon",
-      "url": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-03-24",
-      "summary": "We’re partnering with Arm to develop a new class of CPUs purpose-built to support data centers and large-scale AI deployments. \n The post  Meta Partners With Arm to Develop New Class of Data Center Silicon  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d33cf137e46e6",
-      "title": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site - WLWT",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGRXM3AwR0NjZW1rZmlPdU9faE03emZ5QzQ0RUl3UlRrVmVRY1MtbjdzaFMxbnFFMzVJNnJvWlFGTnRqRTJyRC1ZZ3d4a3BndU5laUtGUGZTd0VnMy1sc25iSk9qdGhnN01kM1hhbmx0STlsaGtkbFl5SFVILW5ZMmk1eGZ5S3JyNmtldldBZm5ScEdRQ3lBX2FXNWk?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-24",
-      "summary": "Trump officials announce 10-gigawatt data center, gas plants for former Ohio uranium site &nbsp;&nbsp; WLWT",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8d64275a4f2a9c",
-      "title": "AWS Bahrain region \"disrupted\" by drone activity as war in Middle East continues to impact data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-bahrain-region-disrupted-by-drone-activity-as-war-in-middle-east-continues-to-impact-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-24",
-      "summary": "Cloud giant moves more customers to other regions",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
