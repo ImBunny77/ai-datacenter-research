@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-12T08:52:33.628442+00:00",
+  "last_updated": "2026-04-12T10:40:12.820545+00:00",
   "finding_count": 600,
-  "new_project_count": 109,
+  "new_project_count": 108,
   "cancellation_count": 28,
   "sec_filing_count": 0,
-  "high_confidence_count": 216,
+  "high_confidence_count": 217,
   "findings": [
     {
       "id": "95221201239eab",
@@ -161,9 +161,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$3.65 billion",
         "$400 million",
-        "$400M",
-        "$3.65 billion"
+        "$400M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -204,9 +204,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$21 billion",
         "$14.2 billion",
-        "$21B"
+        "$21B",
+        "$21 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -974,6 +974,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "884ac2ed5cc5e1",
+      "title": "Amazon Expands Mississippi Data Center Investment To $25B Amid Aggressive AI Bet - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTGpJVW1kcGJIWXJWNU9JVTJ2SDNxM3hWMmh3R0oxWVJvdnpjMWtsdWpBWV85YURFWk84UXQtbDlJZ3kwMFh2VjhhejJPYWJrZXlYR2lUUWVqcUhzamVkWGh2M2hSc0VjMjRiVFVydVlCdTREeE9RM1M0Mk5TcWVKZVFPam0zY0pPOHN3NUpKLWsxRldBdTMtSGFxQXRPaC0tMmxySkRBdDNab0IzOE1ZTDJvYkNLNjlhQ1dSNkFpQXlMZUY2UGlmdnJQbEJCWk93NGd2SHBibzd4Sjg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Amazon Expands Mississippi Data Center Investment To $25B Amid Aggressive AI Bet &nbsp;&nbsp; Stocktwits",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
@@ -1210,8 +1231,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$5 million",
-        "$5M"
+        "$5M",
+        "$5 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1470,25 +1491,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "135ff059389419",
-      "title": "OpenAI pauses UK data centre deal over energy costs and regulation - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HQlZmUm5fd083SWtVZ01yT1o0dmNLT1pUVXVNeEFHQ0dPMHdFV3QyLXZJNC1wN1VOVDZhaUpwdG9wZHV2cm1keHJ1ZDVOZl9NXzF4dkRiVXpOLWQ5?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-09",
-      "summary": "OpenAI pauses UK data centre deal over energy costs and regulation &nbsp;&nbsp; BBC",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "d3e7f62513ed5b",
       "title": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure",
       "url": "https://siliconangle.com/2026/04/09/yobi-teams-microsoft-deliver-predictive-consumer-intelligence-azure/",
@@ -1518,6 +1520,25 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "135ff059389419",
+      "title": "OpenAI pauses UK data centre deal over energy costs and regulation - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HQlZmUm5fd083SWtVZ01yT1o0dmNLT1pUVXVNeEFHQ0dPMHdFV3QyLXZJNC1wN1VOVDZhaUpwdG9wZHV2cm1keHJ1ZDVOZl9NXzF4dkRiVXpOLWQ5?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-09",
+      "summary": "OpenAI pauses UK data centre deal over energy costs and regulation &nbsp;&nbsp; BBC",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "UK"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -4075,23 +4096,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d0e0a8148f51ab",
-      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-04",
-      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Maine"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "e95af35f43a200",
       "title": "Reaffirming our commitment to child safety in the face of European Union inaction",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/",
@@ -4106,6 +4110,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d0e0a8148f51ab",
+      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-04",
+      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -10534,24 +10555,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9dbb293717c84e",
-      "title": "Metrobloks announces plans for three-building data center campus in Kansas City, Missouri - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmRzdUw0NUJUTTNMeDJpbEExa0ItYlBlN0JUQjFJclhDLU9UWUNWMVdZQjJ2amdLei1nM25SNmY3SFlGTFE4SDh4a0xhbzl6Y0hDd0RULWNsVXhydlYxamt5bW1zMXpjYmlkaHc3RkR0MFFNTHFJTnM3eXhFQWlkMWd1WmI3Zy1nV1QwcmNRR0ZkckhwNlpqbmFONUlFQWlSdzRjdHdsZkZ1cGZQOU1vaUwwcE5qYkZlZVVKczRXaHNoUXB1bElYUWpacHk?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-24",
-      "summary": "Metrobloks announces plans for three-building data center campus in Kansas City, Missouri &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Kansas",
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
