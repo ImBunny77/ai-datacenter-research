@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-04-13T09:56:51.167191+00:00",
+  "last_updated": "2026-04-13T11:20:47.660618+00:00",
   "finding_count": 600,
   "new_project_count": 110,
-  "cancellation_count": 29,
+  "cancellation_count": 30,
   "sec_filing_count": 0,
-  "high_confidence_count": 218,
+  "high_confidence_count": 215,
   "findings": [
+    {
+      "id": "2ecc9a4a5d89f4",
+      "title": "PJM targeting up to 15GW of new generation as part of emergency auction to meet growing data center demand",
+      "url": "https://www.datacenterdynamics.com/en/news/pjm-targeting-up-to-15gw-of-new-generation-as-part-of-emergency-auction-to-meet-growing-data-center-demand/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-13",
+      "summary": "Process expected to take place from September through March 2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "15GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "dcb45889dbbb9e",
       "title": "20MW data center proposed at former Eon office site in Nottinghamshire, UK",
@@ -26,6 +43,40 @@
       "is_high_confidence": true
     },
     {
+      "id": "edeb7d973bad64",
+      "title": "Microsoft pauses all future carbon removal purchases - report",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pauses-all-future-carbon-removal-purchases-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-13",
+      "summary": "The company has purchased more than 45 million tons of credits to date",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b06dc61af52d30",
+      "title": "QTS data center site in Utah evacuated after bomb threat",
+      "url": "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-utah-evacuated-after-bomb-threat/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-13",
+      "summary": "Anti-data center rhetoric continues to grow",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6e648ee3fa3510",
       "title": "Sponsored: It’s a win-win: Applying industrial lessons to AI infrastructure",
       "url": "https://www.datacenterdynamics.com/en/marketwatch/its-a-win-win-applying-industrial-lessons-to-ai-infrastructure/",
@@ -38,6 +89,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "36af59c9bb77c3",
+      "title": "US hyperscale investment shifts to Texas and Midwest as AI-induced energy pressures hit primary markets - report",
+      "url": "https://www.datacenterdynamics.com/en/news/us-hyperscale-investment-shifts-to-texas-and-midwest-as-ai-induced-energy-pressures-hit-primary-markets-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-13",
+      "summary": "Massive AI investment seeks more power-rich jurisdictions",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 1,
       "is_high_confidence": false
     },
     {
@@ -231,9 +299,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$400 million",
         "$400M",
-        "$3.65 billion",
-        "$400 million"
+        "$3.65 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -275,8 +343,8 @@
       "locations": [],
       "amounts": [
         "$14.2 billion",
-        "$21B",
-        "$21 billion"
+        "$21 billion",
+        "$21B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -377,6 +445,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "7dd2536bf065c2",
+      "title": "CoreWeave inks multiyear cloud deal with Anthropic",
+      "url": "https://siliconangle.com/2026/04/10/coreweave-inks-multiyear-cloud-deal-anthropic/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-10",
+      "summary": "CoreWeave Inc. today announced that it has won a multiyear contract to supply Anthropic PBC with cloud infrastructure. The company&#8217;s shares closed 11% higher on the news. The data center capacity commissioned by Anthropic developer will start coming online later this year. CoreWeave said the infrastructure will “support the development and deployment of Anthropic’s Claude.” [&#8230;] \n The post  CoreWeave inks multiyear cloud deal with Anthropic  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "d572cfb4c59ace",
       "title": "Malaysia's Privasia to develop 10MW data center in Perak",
       "url": "https://www.datacenterdynamics.com/en/news/malaysias-privasia-to-develop-10mw-data-center-in-perak/",
@@ -428,24 +514,6 @@
       "amounts": [
         "540MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7dd2536bf065c2",
-      "title": "CoreWeave inks multiyear cloud deal with Anthropic",
-      "url": "https://siliconangle.com/2026/04/10/coreweave-inks-multiyear-cloud-deal-anthropic/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-10",
-      "summary": "CoreWeave Inc. today announced that it has won a multiyear contract to supply Anthropic PBC with cloud infrastructure. The company&#8217;s shares closed 11% higher on the news. The data center capacity commissioned by Anthropic developer will start coming online later this year. CoreWeave said the infrastructure will “support the development and deployment of Anthropic’s Claude.” [&#8230;] \n The post  CoreWeave inks multiyear cloud deal with Anthropic  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -698,6 +766,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "52d0ba1e084d92",
+      "title": "Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pricing",
+      "url": "https://siliconangle.com/2026/04/09/anthropic-openai-target-big-businesses-enterprise-grade-controls-lower-pricing/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-10",
+      "summary": "Artificial intelligence leaders Anthropic PBC and OpenAI Group PBC are stepping up their efforts to compete for the enterprise, making their most advanced agentic tools more accessible to the largest organizations. In its update today, Anthropic revealed new “organization-wide controls” to help corporate teams deploy its autonomous Claude Cowork service. Meanwhile, OpenAI took a different [&#8230;] \n The post  Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pr",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "22df055cef51d8",
       "title": "GDS launches pilot with EcoCeres to trial use of HVO at data center in northern China",
       "url": "https://www.datacenterdynamics.com/en/news/gds-launches-pilot-with-ecoceres-to-trial-use-of-hvo-at-data-center-in-northern-china/",
@@ -723,24 +809,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "52d0ba1e084d92",
-      "title": "Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pricing",
-      "url": "https://siliconangle.com/2026/04/09/anthropic-openai-target-big-businesses-enterprise-grade-controls-lower-pricing/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-10",
-      "summary": "Artificial intelligence leaders Anthropic PBC and OpenAI Group PBC are stepping up their efforts to compete for the enterprise, making their most advanced agentic tools more accessible to the largest organizations. In its update today, Anthropic revealed new “organization-wide controls” to help corporate teams deploy its autonomous Claude Cowork service. Meanwhile, OpenAI took a different [&#8230;] \n The post  Anthropic and OpenAI target big businesses with enterprise-grade controls and lower pr",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1105,27 +1173,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "25f429c3cc4ba7",
-      "title": "Amazon drops $25B on Mississippi data centers in AI bet - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTc0WC1JcC0xWDFFcW5NNDNLamgzMFB0QXVJS3gwTE84X3NwaEphNmFLUldGekZ3c3BIZXQ2UWcwUkxDeHgzZnBIaERNVlgwX0R1c3BZWUxTTzQ0by1YZXY2THNQdWtIUk96eVZpcGRncDhPS2dXdXJ5eWlrQWpUbFVkbFEtdVV1SXVOVVIxbFE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-09",
-      "summary": "Amazon drops $25B on Mississippi data centers in AI bet &nbsp;&nbsp; The Tech Buzz",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
@@ -1142,6 +1189,27 @@
       ],
       "amounts": [
         "$25 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "25f429c3cc4ba7",
+      "title": "Amazon drops $25B on Mississippi data centers in AI bet - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTc0WC1JcC0xWDFFcW5NNDNLamgzMFB0QXVJS3gwTE84X3NwaEphNmFLUldGekZ3c3BIZXQ2UWcwUkxDeHgzZnBIaERNVlgwX0R1c3BZWUxTTzQ0by1YZXY2THNQdWtIUk96eVZpcGRncDhPS2dXdXJ5eWlrQWpUbFVkbFEtdVV1SXVOVVIxbFE?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "Amazon drops $25B on Mississippi data centers in AI bet &nbsp;&nbsp; The Tech Buzz",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1271,25 +1339,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "a6133cc49bafb2",
-      "title": "Amazon announces plans to expand in Magnolia State with $12B investment - Vicksburg Daily News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY05ycndnREZMQUlLdlR6V3BONjBBNThtTXhfbW1GaUtUSTJTZ0RHSE9oNEdENjE4eVVRSTRNWWlsSkt2R0NkbFkyRzRyYVlSY3VWajVDd24wT2VveXBrUWV4ZUNHck9EX0tLV2pCbExkRFQ4aFNHVFI1Qkp4Z2NzN1pOUGhQaEVaaEZYWVVxZmFfeW1FMWhOUFk3RTlfQQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-09",
-      "summary": "Amazon announces plans to expand in Magnolia State with $12B investment &nbsp;&nbsp; Vicksburg Daily News",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$12B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "96051b8164450c",
       "title": "Amazon plans $11 billion Madison County expansion, adding 700 jobs - WAPT",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFRIaVBUeEU1aW9KeGlvYjVUODlkZFVvZmVVTUNVRG1oeVhvWW5OMUU5TmN0akhIYXdVd0ttaTI2YzcxWXlKdVN1bXdTRG42SXJnQVFzb0ZwWnVFeU9EZmFmZDF5WEhtTGkyUU5Na2IyRHVtM0hBNkptdXlrazhXQVN6TDNNRFNXWTRLMUtyeExYaHllTEF2SF8yZm5WTkRNclRrQUxDYnhZMnpSX2xRa0pZR1RCaGJVUW9Ya0dR?oc=5",
@@ -1322,6 +1371,25 @@
       "amounts": [
         "$5M",
         "$5 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a6133cc49bafb2",
+      "title": "Amazon announces plans to expand in Magnolia State with $12B investment - Vicksburg Daily News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY05ycndnREZMQUlLdlR6V3BONjBBNThtTXhfbW1GaUtUSTJTZ0RHSE9oNEdENjE4eVVRSTRNWWlsSkt2R0NkbFkyRzRyYVlSY3VWajVDd24wT2VveXBrUWV4ZUNHck9EX0tLV2pCbExkRFQ4aFNHVFI1Qkp4Z2NzN1pOUGhQaEVaaEZYWVVxZmFfeW1FMWhOUFk3RTlfQQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "Amazon announces plans to expand in Magnolia State with $12B investment &nbsp;&nbsp; Vicksburg Daily News",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$12B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10493,74 +10561,6 @@
         "$1.4B"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d13c3dd486f211",
-      "title": "City of Liberty announces plans for $1.4B data center - kmbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnNxR2ZVSVpORmc3ZWtMcWhtdnhYaWxvN29lRHNONDFTQTNxZ0J1UDctMkU3angwajE3N1J5UklPMXdYRmY5bFpZLTJicFFvWDNlek5EUnJ4YklocDQ3WWt1cDVYVkRIc3VKMGtJMHN6X3kxM2dzOHh1UFF3LXJ2MVNuYU05bjVEUGh0X21Jcw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-03-24",
-      "summary": "City of Liberty announces plans for $1.4B data center &nbsp;&nbsp; kmbc.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1.4B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d9710e973d5095",
-      "title": "Leon Capital-backed firm launches new European data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/leon-capital-backed-firm-launches-new-european-data-center-developer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-24",
-      "summary": "PoweringAI claims 350MW pipeline of brownfield sites",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "350MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8642768a81441a",
-      "title": "FuelCell Energy launches 12.5MW modular energy solution for data center sector",
-      "url": "https://www.datacenterdynamics.com/en/news/fuelcell-energy-launches-125mw-modular-energy-solution-for-data-center-sector/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-24",
-      "summary": "Will expand manufacturing facility by more than three times to meet demand",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "12.5MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6b45c617fdc627",
-      "title": "City of Liberty, data center developer partner on $1.4B facility - KMBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnNxR2ZVSVpORmc3ZWtMcWhtdnhYaWxvN29lRHNONDFTQTNxZ0J1UDctMkU3angwajE3N1J5UklPMXdYRmY5bFpZLTJicFFvWDNlek5EUnJ4YklocDQ3WWt1cDVYVkRIc3VKMGtJMHN6X3kxM2dzOHh1UFF3LXJ2MVNuYU05bjVEUGh0X21Jcw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-03-24",
-      "summary": "City of Liberty, data center developer partner on $1.4B facility &nbsp;&nbsp; KMBC",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1.4B"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
