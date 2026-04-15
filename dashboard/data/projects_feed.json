@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-04-15T19:20:26.925891+00:00",
+  "last_updated": "2026-04-15T20:52:24.916459+00:00",
   "finding_count": 600,
-  "new_project_count": 104,
+  "new_project_count": 103,
   "cancellation_count": 26,
   "sec_filing_count": 0,
-  "high_confidence_count": 204,
+  "high_confidence_count": 202,
   "findings": [
+    {
+      "id": "c267ecf46e2dc5",
+      "title": "Amazon details $11 billion Madison County data center expansion and wa... - Madison County Journal",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzQycTN6TUd2Z3BhaUpfWDBwaFdLaDB6N3ZQT29BUjcxYmtwalRKUnZLYWdQcUxxZFl1WHQ0WGxoall0TEdCd2Z6UVRxSDlOX1ZmLXctWldudV9NY0VSNzFsOFJHZWVvU2VhOGV6OEpTZHNDMk9kWmtDWkNpZDFWQXY4MnE3OF9aUzFuQ0dVU0w0RzV3MmR1ZGpfTS1PSW5WZkRUSFl5am1BajN4V3diZ3hFS0V1MGExaVFJc256WDc2QUVxWGF1ZV9ITTFMbk0?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-15",
+      "summary": "Amazon details $11 billion Madison County data center expansion and wa... &nbsp;&nbsp; Madison County Journal",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$11 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "114e11c268097e",
       "title": "Meta doubles down on partnership with Broadcom on custom AI processors",
@@ -26,25 +45,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "77c9b814353ec0",
-      "title": "Meta, Entergy announce massive expansion at Louisiana AI data center - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPT2dTV1NnZDJmYnhCMWt1OGRiQTU2a0oxUGhSX1JCWGE5SlRybGVhNk5nLWNQSlBJM3o1UTB0OEV3VnhYaUJzUXBUTkU4WUxmZjlBM2EtSGd4UHBybjZDTkRVWHhTZC1UOFJLd0xZdzhrdkp2Nk5xRHlGb2x2azRkaXJOcFJpSkhRSzdaNUVhWnpQc1BNWkRibU1pcWl4bktZTlhNMERiWVdJejUwVkRmY0tQWXFoX0wxS1JwWnc5V1FIdS1qZjJjeS1LbXloc0Rqa1huZGlRdFRDYlRSWVFua3JrSmJKLVFqSkcxalcwVVBFUlNKdTZ1NGV2UnpGX2d4ZWk0SzExRU0yelJlWkdYeGRaMkVHVVFLSGtGNTNYUENyQS1UeVFCMndCNnUxSy12QXcwcy03Z09wR0VMajR2RkFZRldFbXpYS21ZY1gyaHBhTmht?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-15",
-      "summary": "Meta, Entergy announce massive expansion at Louisiana AI data center &nbsp;&nbsp; MSN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "6082bb31e1f5fa",
       "title": "Pi Data Centers developing 23MW data center in Mumbai, India",
       "url": "https://www.datacenterdynamics.com/en/news/pi-data-centers-developing-23mw-data-center-in-mumbai-india/",
@@ -61,6 +61,25 @@
       "amounts": [
         "23MW"
       ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "77c9b814353ec0",
+      "title": "Meta, Entergy announce massive expansion at Louisiana AI data center - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPT2dTV1NnZDJmYnhCMWt1OGRiQTU2a0oxUGhSX1JCWGE5SlRybGVhNk5nLWNQSlBJM3o1UTB0OEV3VnhYaUJzUXBUTkU4WUxmZjlBM2EtSGd4UHBybjZDTkRVWHhTZC1UOFJLd0xZdzhrdkp2Nk5xRHlGb2x2azRkaXJOcFJpSkhRSzdaNUVhWnpQc1BNWkRibU1pcWl4bktZTlhNMERiWVdJejUwVkRmY0tQWXFoX0wxS1JwWnc5V1FIdS1qZjJjeS1LbXloc0Rqa1huZGlRdFRDYlRSWVFua3JrSmJKLVFqSkcxalcwVVBFUlNKdTZ1NGV2UnpGX2d4ZWk0SzExRU0yelJlWkdYeGRaMkVHVVFLSGtGNTNYUENyQS1UeVFCMndCNnUxSy12QXcwcy03Z09wR0VMajR2RkFZRldFbXpYS21ZY1gyaHBhTmht?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-04-15",
+      "summary": "Meta, Entergy announce massive expansion at Louisiana AI data center &nbsp;&nbsp; MSN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -392,6 +411,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "7fa54ba3cfb38c",
+      "title": "What to expect during Google Cloud Next: Join theCUBE April 22-24",
+      "url": "https://siliconangle.com/2026/04/15/google-cloud-next-2026-thecube-cloud-infrastructure-googlecloudnext/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-15",
+      "summary": "Among the three companies that dominate the global cloud infrastructure market, Google Cloud remains in third place &#8212; behind Amazon Web Services Inc. and Microsoft Corp. &#8212; with 12% to 14% market share. That story may be about to change. Google parent Alphabet Inc. reported 48% revenue growth year-over-year for its cloud operations in Q4 2025, [&#8230;] \n The post  What to expect during Google Cloud Next: Join theCUBE April 22-24  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f693a23e94cd04",
       "title": "Oracle says the agentic AI bottleneck isn’t the model — it’s the database",
       "url": "https://siliconangle.com/2026/04/15/oracle-makes-database-key-agentic-ai-development-oracledatadeepdivenyc/",
@@ -529,6 +567,42 @@
       "is_high_confidence": false
     },
     {
+      "id": "db38580eac4394",
+      "title": "Google releases new apps for Windows and MacOS",
+      "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-15",
+      "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d48c52ce265611",
+      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
+      "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-15",
+      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Boston"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8717b2e8b62b27",
       "title": "We’re upgrading Dynamic Search Ads to AI Max",
       "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
@@ -657,8 +731,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$11.6 billion",
-        "$11.6B"
+        "$11.6B",
+        "$11.6 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -956,40 +1030,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "45fcd42e57db3f",
-      "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-      "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-14",
-      "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "589af69d5bbe95",
-      "title": "Google will begin punishing sites for back button hijacking in June",
-      "url": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-14",
-      "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "61832c02f4c154",
       "title": "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity",
       "url": "https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/",
@@ -1105,6 +1145,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "45fcd42e57db3f",
+      "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
+      "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-14",
+      "summary": "You can save custom prompts you find useful or grab a premade Skill from Google's library.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "589af69d5bbe95",
+      "title": "Google will begin punishing sites for back button hijacking in June",
+      "url": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-14",
+      "summary": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2895,8 +2969,8 @@
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-09",
       "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
@@ -3372,24 +3446,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e35314238d09cd",
-      "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2NrUE0wN2FDS2JWVGE2TFJLNWlxbjh0elY2TnprNE1nRWRuM3lVeGhsYXRXRlY4TzdSTVZlRWhEdV91bmw3bk9OT19aNERPZjFycFZLSWJMRlo1b0ZXVmZxd19tVV92VW40ZzAxRWh0ekRGVnh3TUcxNWtBX1lLRFM1R19PVWRSWlY1U2tIaUNDaklCM0c5YzcwLXpYWGJfeTlwcS1yQjFqclpfWHRRN0VsZ21yVG1HNGc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "a0056403613327",
       "title": "OpenAI halts UK stargate project amid regulatory and energy price concerns - CNBC",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nNUhwODVGQ21leUJ2RzE3QU9rN3dlN0xYUUE3YXExa0o2aXRVVkl3SWdfbFJZQ1ZRTTlKMC12OGdEX084aW5LRFlOZnAwNFhaSFk4VUdhMmdTeDNhMkNHNVk2bFVlRzNHVlctNjQ5NHhNNnRlMTg4atIBfkFVX3lxTE1Yb0lTcnFmaUtTVktFUlpfZi11d1pCeTRvX2lEVF8yRWt5NGlIRXdzdUpNS0xmdWJJX2lyQWN3c2FXMmQ5M1U2SjFSTmloZjZ5NTdpNmowZ29YLVNwVy16b2ZJQ3RWMWx4Qk9SVWxQN0JQYnQ0V1RZaXc3V2ZmZw?oc=5",
@@ -3404,6 +3460,24 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e35314238d09cd",
+      "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2NrUE0wN2FDS2JWVGE2TFJLNWlxbjh0elY2TnprNE1nRWRuM3lVeGhsYXRXRlY4TzdSTVZlRWhEdV91bmw3bk9OT19aNERPZjFycFZLSWJMRlo1b0ZXVmZxd19tVV92VW40ZzAxRWh0ekRGVnh3TUcxNWtBX1lLRFM1R19PVWRSWlY1U2tIaUNDaklCM0c5YzcwLXpYWGJfeTlwcS1yQjFqclpfWHRRN0VsZ21yVG1HNGc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -4235,8 +4309,8 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
@@ -5169,6 +5243,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7156ae8ec5fd17",
+      "title": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion - ontario.ca",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanNGMHFpTU1mb2oyQlVwS1pGbWdmVkVzY0s1QkZOQXplUG9xOUxxYkZsamVqWS1Va19tNUJCWUl4aXkwUXdmQmJqelRPNVJHTGFiV0JpM2JDcUl3bk5pcGhMM01kVHJCY0pNRW1EQ2xVdzEyakpreXBYWFRlaEZUV01EcHN1UGN3aURIRzhBWEhRMFJHVTNjV1U4Q2V1SU0?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-07",
+      "summary": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion &nbsp;&nbsp; ontario.ca",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9d8066b504f47e",
       "title": "Launching S3 Files, making S3 buckets accessible as file systems",
       "url": "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/",
@@ -5200,23 +5291,6 @@
       "locations": [
         "UK"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7156ae8ec5fd17",
-      "title": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion - ontario.ca",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanNGMHFpTU1mb2oyQlVwS1pGbWdmVkVzY0s1QkZOQXplUG9xOUxxYkZsamVqWS1Va19tNUJCWUl4aXkwUXdmQmJqelRPNVJHTGFiV0JpM2JDcUl3bk5pcGhMM01kVHJCY0pNRW1EQ2xVdzEyakpreXBYWFRlaEZUV01EcHN1UGN3aURIRzhBWEhRMFJHVTNjV1U4Q2V1SU0?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-07",
-      "summary": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion &nbsp;&nbsp; ontario.ca",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10543,82 +10617,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "03ff0bae2c6c4f",
-      "title": "DCD>Talks: Digital twins and the new GPU efficiency frontier with Arti Garg, AVEVA",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-digital-twins-and-the-new-gpu-efficiency-frontier-with-arti-garg-aveva/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "AVEVA’s Arti Garg talks to DCD’s James Raddings about applying industrial lessons to AI infrastructure and why digital twins are becoming critical to operating at scale.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3f215ec5358810",
-      "title": "Meta boosts investment in El Paso AI data center to $10 billion - El Paso Inc.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlQ0Wm9IQy1DejRmcnpVRi1kV2VTSmFvcURYbk45ZnprSEVQRi02V2FZNGtPbnZ2VE5qUm9jVm9vN2U5bzBnSGZ6eXdRb1RqUUV0QVNueVR0Wk1QRWRKN0lCVFFoOFpyZWF6UTJ3SWp6dmloMWNpZVFxdGV1XzRGenpZbFFwMzJYajd5Zkl6WHRWOTEtZFRxMk9CbGsxcndqRkZoeWpMN2V2Q0FfYkZ5WUdaRzFXZlVubG1UZ0F2OTViNWxvX0FfYmdXSS1Edm5EVUlNc1RmdDFGZ2hObTJzdUFn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-26",
-      "summary": "Meta boosts investment in El Paso AI data center to $10 billion &nbsp;&nbsp; El Paso Inc.",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9e729e6bd6a89d",
-      "title": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana - fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZRERpRWt5eDBieUI1TlpxeFZybE4zMm9YdW1xYXpzOXNvamhHNEtDdXZCQTdySXR5aThkNnN2dXZKOVFJZkVNQ1NjWVFOeXpibXlSYnlaR19QcEVfZjNVYzNqVy1ZaVBvbUJFR0FHZTh1ZkloMGN4TWV3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-26",
-      "summary": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana &nbsp;&nbsp; fortune.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$27 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dfd04a36f65acf",
-      "title": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZRERpRWt5eDBieUI1TlpxeFZybE4zMm9YdW1xYXpzOXNvamhHNEtDdXZCQTdySXR5aThkNnN2dXZKOVFJZkVNQ1NjWVFOeXpibXlSYnlaR19QcEVfZjNVYzNqVy1ZaVBvbUJFR0FHZTh1ZkloMGN4TWV3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-26",
-      "summary": "Meta’s $27 billion AI data center is causing chaos in small town Louisiana &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$27 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     }
   ]
 }
