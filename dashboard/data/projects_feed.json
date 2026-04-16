@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-16T02:48:04.918048+00:00",
+  "last_updated": "2026-04-16T06:02:27.033837+00:00",
   "finding_count": 600,
-  "new_project_count": 103,
-  "cancellation_count": 27,
+  "new_project_count": 104,
+  "cancellation_count": 28,
   "sec_filing_count": 0,
   "high_confidence_count": 204,
   "findings": [
@@ -24,6 +24,23 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
+    },
+    {
+      "id": "f97e32cbb877d4",
+      "title": "NIST shifts National Vulnerability Database to risk-based triage as CVE submissions hit record levels",
+      "url": "https://siliconangle.com/2026/04/15/nist-shifts-national-vulnerability-database-risk-based-triage-cve-submissions-hit-record-levels/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-16",
+      "summary": "The U.S. National Institute of Standards and Technology today announced an overhaul of how it processes cybersecurity vulnerabilities in its National Vulnerability Database . NIST is abandoning its longstanding goal of fully analyzing every submitted Common Vulnerability and Exposure in favor of a risk-based triage model that prioritizes the most dangerous flaws. The change, which took effect [&#8230;] \n The post  NIST shifts National Vulnerability Database to risk-based triage as CVE submission",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "79c33310ba8dd1",
@@ -553,24 +570,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "657314e566c9fe",
-      "title": "Microsoft’s MAI-Image-2-Efficient model accelerates company’s move away from OpenAI",
-      "url": "https://siliconangle.com/2026/04/14/microsofts-mai-image-2-efficient-model-accelerates-companys-move-away-openai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Microsoft Corp.’s push for artificial intelligence independence is gaining traction with today’s release of MAI-Image-2-Efficient, a lean and mean version of its flagship image generation model that debuted earlier this month. The new version is meant to deliver high-quality visuals faster, and at a fraction of the cost of its predecessor, the company said. The [&#8230;] \n The post  Microsoft&#8217;s MAI-Image-2-Efficient model accelerates company&#8217;s move away from OpenAI  appeared first on",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f10b39607eb292",
       "title": "ISSCC 2026: NVIDIA & Broadcom CPO, HBM4 & LPDDR6, TSMC Active LSI, Logic-Based SRAM, UCIe-S and More",
       "url": "https://newsletter.semianalysis.com/p/isscc-2026-nvidia-and-broadcom-cpo",
@@ -634,6 +633,24 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "657314e566c9fe",
+      "title": "Microsoft’s MAI-Image-2-Efficient model accelerates company’s move away from OpenAI",
+      "url": "https://siliconangle.com/2026/04/14/microsofts-mai-image-2-efficient-model-accelerates-companys-move-away-openai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-15",
+      "summary": "Microsoft Corp.’s push for artificial intelligence independence is gaining traction with today’s release of MAI-Image-2-Efficient, a lean and mean version of its flagship image generation model that debuted earlier this month. The new version is meant to deliver high-quality visuals faster, and at a fraction of the cost of its predecessor, the company said. The [&#8230;] \n The post  Microsoft&#8217;s MAI-Image-2-Efficient model accelerates company&#8217;s move away from OpenAI  appeared first on",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -2849,13 +2866,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d5ef497a0ce182",
-      "title": "Amazon announces additional $12 billion for data centers in central Mississippi - Mississippi Public Broadcasting",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWwzUTFoQnJmay1VRHhYZGVyU1NfM2RvSmFpTklPY3h5YmloYldITGpBMkxiTDFCakJIRUpTYlZJZXZYcEgzTUZvUnhNSGd0TzlzUWM3dkpGdDVXLXROOHpUUi0wcHBwZVdfWl9sVEx3VHZUd3VjQ0pKcE9SZ0hNWWpJYjk0NHVkNGNsOU1HdllfQXMwak1mTm1OM0JhSHk5Y1dGVFBKenFnbl9qSEVZT1J4eGVybU0?oc=5",
+      "id": "17c082c0ed1c29",
+      "title": "Details of new $12 billion Amazon data center investment in Mississippi - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3JTRV9rdXBsTEkyRlUzRGlRTkhaMzdDbFhaUkdpMWFCYXhRbG9ld2JQMHZGbmJPZGs3THdKNHlQaWJiQTl0dXFRb2lFcEZ0Z3lVZ0FheTBiLWVWMThtNnhtZzRfM0VNajZZVXN5TDdERlhhdVdtYjBtbFMzMDE2Z3VMdG40M2duWWV6UXdiaWxjcnFPTDZ3SEtoVDhPZVpkVjlKaUYtRWVybDhUQ2pxbmZYOTQ0ZmJtdmdmSld6UXdkZEt1MWVXZnV3MTJqYlZTYmljWXlhNU9SUQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-09",
-      "summary": "Amazon announces additional $12 billion for data centers in central Mississippi &nbsp;&nbsp; Mississippi Public Broadcasting",
+      "summary": "Details of new $12 billion Amazon data center investment in Mississippi &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -2870,13 +2887,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "17c082c0ed1c29",
-      "title": "Details of new $12 billion Amazon data center investment in Mississippi - The Clarion-Ledger",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3JTRV9rdXBsTEkyRlUzRGlRTkhaMzdDbFhaUkdpMWFCYXhRbG9ld2JQMHZGbmJPZGs3THdKNHlQaWJiQTl0dXFRb2lFcEZ0Z3lVZ0FheTBiLWVWMThtNnhtZzRfM0VNajZZVXN5TDdERlhhdVdtYjBtbFMzMDE2Z3VMdG40M2duWWV6UXdiaWxjcnFPTDZ3SEtoVDhPZVpkVjlKaUYtRWVybDhUQ2pxbmZYOTQ0ZmJtdmdmSld6UXdkZEt1MWVXZnV3MTJqYlZTYmljWXlhNU9SUQ?oc=5",
+      "id": "d5ef497a0ce182",
+      "title": "Amazon announces additional $12 billion for data centers in central Mississippi - Mississippi Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWwzUTFoQnJmay1VRHhYZGVyU1NfM2RvSmFpTklPY3h5YmloYldITGpBMkxiTDFCakJIRUpTYlZJZXZYcEgzTUZvUnhNSGd0TzlzUWM3dkpGdDVXLXROOHpUUi0wcHBwZVdfWl9sVEx3VHZUd3VjQ0pKcE9SZ0hNWWpJYjk0NHVkNGNsOU1HdllfQXMwak1mTm1OM0JhSHk5Y1dGVFBKenFnbl9qSEVZT1J4eGVybU0?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-09",
-      "summary": "Details of new $12 billion Amazon data center investment in Mississippi &nbsp;&nbsp; The Clarion-Ledger",
+      "summary": "Amazon announces additional $12 billion for data centers in central Mississippi &nbsp;&nbsp; Mississippi Public Broadcasting",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -3039,8 +3056,8 @@
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-09",
       "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
@@ -4379,13 +4396,32 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4de50fde7c0608",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSVVwSTdSNXhQalc0eEV5YWhwNWtMS0xYWHNtOFJMa05xaTlfWXZDdTFsYzBwS2hlbzJDem53Rkt4ZDlIcjFxNWNTNGFoaE1kMG15ZXdmYUw1endPLXg5em5ZdkxKX3N1TXQzZUJkRTMzbFJRa2RKSnNGcnBXOUFtMDJCR0JJUnVXWTlzYlVGRG45Q0ZESU9lN19ydVpoamtLT2RpSG9QckFENHFwQWRFWWpRdWtDTFdOMGptVGNlZw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-08",
+      "summary": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict &nbsp;&nbsp; TechCrunch",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon",
+        "OpenAI",
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -8832,6 +8868,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "700fdfb6fa1604",
+      "title": "Nvidia Just Handed Marvell Technology the Ultimate Buy Signal - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHJ6R1loa1BGbzRrSUxaclZfcG9IQnFrOEhTcFM2bER1akIxNU1HcjFVNGZRMFBHaU9CZGtveVBETEdmcmJ0ZTVqdHpyTXJnWXljNDh2R1JNdkpQNy1TRFY2RzZ6VGo4ejVGMi1WTXhYQTNCQ3RadDRIaHZjR1RGc25oQWtzNFNKZFdZWVFITjRuVXIwaU80alRZQjl4V2ZYcnFKZGRpRnQ?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-03-31",
+      "summary": "Nvidia Just Handed Marvell Technology the Ultimate Buy Signal &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "fda2153a55683f",
       "title": "Dissecting Nvidia Blackwell - Tensor Cores, PTX Instructions, SASS, Floorsweep, Yield",
       "url": "https://newsletter.semianalysis.com/p/dissecting-nvidia-blackwell-tensor",
@@ -8893,23 +8946,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "700fdfb6fa1604",
-      "title": "Nvidia Just Handed Marvell Technology the Ultimate Buy Signal - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMHJ6R1loa1BGbzRrSUxaclZfcG9IQnFrOEhTcFM2bER1akIxNU1HcjFVNGZRMFBHaU9CZGtveVBETEdmcmJ0ZTVqdHpyTXJnWXljNDh2R1JNdkpQNy1TRFY2RzZ6VGo4ejVGMi1WTXhYQTNCQ3RadDRIaHZjR1RGc25oQWtzNFNKZFdZWVFITjRuVXIwaU80alRZQjl4V2ZYcnFKZGRpRnQ?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-03-31",
-      "summary": "Nvidia Just Handed Marvell Technology the Ultimate Buy Signal &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -10589,39 +10625,6 @@
       "finding_type": "Expansion",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2bfb711db9d77a",
-      "title": "Data centers are war infrastructure now",
-      "url": "https://www.datacenterdynamics.com/en/analysis/data-centers-are-war-infrastructure-now/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "For the industry to keep claiming civilian status, it needs to face core decisions on workload segregation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e7402a63bd318c",
-      "title": "Two data centers to be built at life science campus outside London, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/two-data-centers-to-be-built-at-life-science-campus-outside-london-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "Will be located next to a GSK facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK",
-        "London"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
