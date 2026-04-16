@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-16T15:27:38.308024+00:00",
+  "last_updated": "2026-04-16T17:16:56.688089+00:00",
   "finding_count": 600,
-  "new_project_count": 107,
+  "new_project_count": 108,
   "cancellation_count": 28,
   "sec_filing_count": 0,
-  "high_confidence_count": 208,
+  "high_confidence_count": 207,
   "findings": [
     {
       "id": "00ff06477bbaf9",
@@ -77,10 +77,48 @@
       ],
       "locations": [],
       "amounts": [
-        "$45M",
-        "$45 million"
+        "$45 million",
+        "$45M"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "41273b8977802a",
+      "title": "Nest thermostats have saved users an estimated $14 billion and 200 billion kWh of energy since 2011.",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/google-nest-thermostat-energy-savings-milestone/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-16",
+      "summary": "Google Nest thermostats saved 200 billion kWh of energy since 2011. With energy-saving features, Nest helps get the most out of your home.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$14 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "220b5cde416997",
+      "title": "AtlasEdge starts work on second data center in Leverkusen, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/atlasedge-starts-work-on-second-data-center-in-leverkusen-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-16",
+      "summary": "Company adding 4.4.MW of capacity, due live next year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [
+        "4.MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -254,6 +292,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "21f402196adf7b",
+      "title": "Google introduces new agentic AI-ready tools and resources for Android developers",
+      "url": "https://siliconangle.com/2026/04/16/google-introduces-new-agentic-ai-ready-tools-resources-android-developers/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-16",
+      "summary": "Google LLC’s Android team is introducing new ways to build high-quality software for its mobile platform with artificial intelligence agents.  Today, the company provided two new tool suites, including a new Android command-line interface with skills designed to enable agents to build cleanly and a knowledge base filled with official documentation.  Revitalizing the CLI for agents  These two new resources complement each other. The CLI, or command-line interface, is a [&#8230;] \n The post  Googl",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "169103aae4abb6",
+      "title": "‘Vibe coding is fun, but is it safe?’: Oracle takes on the trust crisis at the core of AI development",
+      "url": "https://siliconangle.com/2026/04/16/achieving-trusted-ai-development-beyond-vibes-oracledatadeepdivenyc/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-16",
+      "summary": "Generative AI is democratizing application development, putting code-generation tools in the hands of virtually any developer. But as AI-assisted development accelerates, the enterprise technology industry faces a harder question: How do you build trusted AI development practices around code that AI writes for you? The answer, increasingly, is a discipline unto itself. Verification, security and [&#8230;] \n The post  &#8216;Vibe coding is fun, but is it safe?&#8217;: Oracle takes on the trust cr",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5376ffa887cd85",
       "title": "Best of frenemies: Oracle’s and AWS’ clouds unite with dedicated, private connectivity",
       "url": "https://siliconangle.com/2026/04/16/best-frenemies-oracles-awss-clouds-unite-dedicated-private-connectivity/",
@@ -289,6 +361,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1ebf6358ffb8ec",
+      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-16",
+      "summary": "Google is making it easier to feed your photos into Nano Banana for more personal image generation.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ecd78f529f25d3",
       "title": "Introducing Anthropic’s Claude Opus 4.7 model in Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/aws/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
@@ -300,6 +389,23 @@
       "companies": [
         "Amazon",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8c07bb3c980a69",
+      "title": "Voting is live: Help choose the next Doodle for Google winner",
+      "url": "https://blog.google/company-news/inside-google/doodles/2026-voting/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-16",
+      "summary": "Illustrated shapes with eyes on graph paper.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -600,38 +706,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8fa23824956258",
-      "title": "US’ first state-wide data center moratorium passes Maine legislature",
-      "url": "https://www.datacenterdynamics.com/en/news/us-first-state-wide-data-center-moratorium-passes-maine-legislature/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-15",
-      "summary": "But still requires governor approval",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Maine"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7917fe285313b7",
-      "title": "AI uncertainty: More adoption, more caution",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-uncertainty-more-adoption-more-caution/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-15",
-      "summary": "As IT organizations embrace AI, data center facilities and colocation providers need to plan to deploy the supporting infrastructure, despite many uncertainties",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7fa54ba3cfb38c",
       "title": "What to expect during Google Cloud Next: Join theCUBE April 22-24",
       "url": "https://siliconangle.com/2026/04/15/google-cloud-next-2026-thecube-cloud-infrastructure-googlecloudnext/",
@@ -678,40 +752,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "57c41325a3b3b1",
-      "title": "Australian researchers blaze a trail toward quantum coexistence",
-      "url": "https://siliconangle.com/2026/04/15/quantum-computing-hpc-hybrid-models-hpeworldquantumday/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Quantum computing is emerging as a practical complement to traditional supercomputing, with early applications in optimization, machine learning and complex simulation now moving from theory into real-world experimentation. World Quantum Day is giving researchers a chance to highlight how quantum computing is evolving from a largely experimental discipline to tackle real-world use cases. The Pawsey [&#8230;] \n The post  Australian researchers blaze a trail toward quantum coexistence  appeared fi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cfd3d3e170b5e5",
-      "title": "DeepMind launches Gemini Robotics-ER 1.6 to meet precise physical AI demands",
-      "url": "https://siliconangle.com/2026/04/15/deepmind-launches-gemini-robotics-er-1-6-meet-precise-physical-ai-demands/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Google DeepMind, Alphabet Inc.’s artificial intelligence research division, Tuesday introduced a new foundation robotics AI model designed as a significant upgrade for understanding and precise spatial reasoning.  The new model, named Gemini Robotics-ER 1.6 from Gemini Robotics, enhances spatial reasoning and multiview understanding to bring greater autonomy to physical agents and robots of all kinds.  DeepMind said this model provides high-level reasoning capabilities for robotics, offering a l",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -779,6 +819,72 @@
       "source_cat": "Company IR",
       "date": "2026-04-15",
       "summary": "A conceptual graphic illustrating the transition from Google Ads legacy features to AI Max.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8fa23824956258",
+      "title": "US’ first state-wide data center moratorium passes Maine legislature",
+      "url": "https://www.datacenterdynamics.com/en/news/us-first-state-wide-data-center-moratorium-passes-maine-legislature/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-15",
+      "summary": "But still requires governor approval",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7917fe285313b7",
+      "title": "AI uncertainty: More adoption, more caution",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-uncertainty-more-adoption-more-caution/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-15",
+      "summary": "As IT organizations embrace AI, data center facilities and colocation providers need to plan to deploy the supporting infrastructure, despite many uncertainties",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "57c41325a3b3b1",
+      "title": "Australian researchers blaze a trail toward quantum coexistence",
+      "url": "https://siliconangle.com/2026/04/15/quantum-computing-hpc-hybrid-models-hpeworldquantumday/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-15",
+      "summary": "Quantum computing is emerging as a practical complement to traditional supercomputing, with early applications in optimization, machine learning and complex simulation now moving from theory into real-world experimentation. World Quantum Day is giving researchers a chance to highlight how quantum computing is evolving from a largely experimental discipline to tackle real-world use cases. The Pawsey [&#8230;] \n The post  Australian researchers blaze a trail toward quantum coexistence  appeared fi",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cfd3d3e170b5e5",
+      "title": "DeepMind launches Gemini Robotics-ER 1.6 to meet precise physical AI demands",
+      "url": "https://siliconangle.com/2026/04/15/deepmind-launches-gemini-robotics-er-1-6-meet-precise-physical-ai-demands/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-15",
+      "summary": "Google DeepMind, Alphabet Inc.’s artificial intelligence research division, Tuesday introduced a new foundation robotics AI model designed as a significant upgrade for understanding and precise spatial reasoning.  The new model, named Gemini Robotics-ER 1.6 from Gemini Robotics, enhances spatial reasoning and multiview understanding to bring greater autonomy to physical agents and robots of all kinds.  DeepMind said this model provides high-level reasoning capabilities for robotics, offering a l",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1530,6 +1636,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "6f8407aeecce7a",
+      "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon",
+      "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-04-14",
+      "summary": "We’re partnering with Broadcom to co-develop multiple generations of custom silicon, ensuring we have the compute foundation to deliver on our long-term AI ambitions. \n The post  Meta Partners With Broadcom to Co-Develop Custom AI Silicon  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6e2458f88e674a",
       "title": "UK Department for Transport accelerates public policy insights with Google Cloud AI",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/uk-department-for-transport-accelerates-public-policy-insights-with-google-cloud-ai/",
@@ -1545,23 +1668,6 @@
         "UK",
         "London"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6f8407aeecce7a",
-      "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon",
-      "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-04-14",
-      "summary": "We’re partnering with Broadcom to co-develop multiple generations of custom silicon, ensuring we have the compute foundation to deliver on our long-term AI ambitions. \n The post  Meta Partners With Broadcom to Co-Develop Custom AI Silicon  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4724,8 +4830,8 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
@@ -5677,21 +5783,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0c6257112b0719",
-      "title": "Chris Koopman and Kevin Frazier: The problem with pausing data centers - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS1c5OTU3eWhIMXVobUlaQ0o4TGl6LVAxWVVPY18xclFTdFdhbi1CcTVseHRzRHJRd3RFbXlqbU9FYk5mTFhKNENiYkt1dEE4OUh1X0tR?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-07",
-      "summary": "Chris Koopman and Kevin Frazier: The problem with pausing data centers &nbsp;&nbsp; TribLIVE.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7156ae8ec5fd17",
       "title": "Ontario Welcomes Microsoft’s AI Infrastructure Expansion - ontario.ca",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanNGMHFpTU1mb2oyQlVwS1pGbWdmVkVzY0s1QkZOQXplUG9xOUxxYkZsamVqWS1Va19tNUJCWUl4aXkwUXdmQmJqelRPNVJHTGFiV0JpM2JDcUl3bk5pcGhMM01kVHJCY0pNRW1EQ2xVdzEyakpreXBYWFRlaEZUV01EcHN1UGN3aURIRzhBWEhRMFJHVTNjV1U4Q2V1SU0?oc=5",
@@ -5740,6 +5831,21 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0c6257112b0719",
+      "title": "Chris Koopman and Kevin Frazier: The problem with pausing data centers - TribLIVE.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wS1c5OTU3eWhIMXVobUlaQ0o4TGl6LVAxWVVPY18xclFTdFdhbi1CcTVseHRzRHJRd3RFbXlqbU9FYk5mTFhKNENiYkt1dEE4OUh1X0tR?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-07",
+      "summary": "Chris Koopman and Kevin Frazier: The problem with pausing data centers &nbsp;&nbsp; TribLIVE.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10531,114 +10637,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "b6d2eda4e1d63c",
-      "title": "DMG gets approval for extra 10MW at Christina Lake data center site in Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/dmg-gets-approval-for-extra-10mw-at-christina-lake-data-center-site-in-canada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "Crypto miner says added non-firm capacity will support AI data center plans in British Columbia",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "10MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4433850c9f160d",
-      "title": "Meta pledges $10bn investment for El Paso, Texas, data center",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-pledges-10bn-investment-for-el-paso-texas-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "Project broke ground in 2025",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5bc79824429568",
-      "title": "Rai Way gets approval for €400m hyperscale data center near Rome, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/rai-way-gets-approval-for-400m-hyperscale-data-center-near-rome-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "The project is awaiting authorisation for a 5.5MW photovoltaic plant to power it",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "5.5MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fa69781e350ac4",
-      "title": "Baker Hughes partners with Google Cloud to develop AI tools for data center power optimization",
-      "url": "https://www.datacenterdynamics.com/en/news/baker-hughes-partners-with-google-cloud-to-develop-ai-tools-for-data-center-power-optimization/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "Aim to create AI-driven tools to optimize power usage and enhance sustainability in data centers",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f07e64ec72f39b",
-      "title": "Microsoft launches Denmark cloud region",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-launches-denmark-cloud-region/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-27",
-      "summary": "Works continue on additional sites",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Denmark"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d216c7ed77f19f",
-      "title": "Alphabet Stock (GOOGL) Analysis: Complete Investment Guide 2026 - techi.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80bmtuSFZ1eEN0TU5qamNaN1lJeDJJSG5GYV9NTTRjOExtNkNoU2dXanl2bmk0VXJoSDlTdlhuNE9iZkJEQmdYeW83OA?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-03-27",
-      "summary": "Alphabet Stock (GOOGL) Analysis: Complete Investment Guide 2026 &nbsp;&nbsp; techi.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
