@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-17T16:56:07.355827+00:00",
+  "last_updated": "2026-04-17T19:03:23.418174+00:00",
   "finding_count": 600,
-  "new_project_count": 110,
-  "cancellation_count": 28,
+  "new_project_count": 109,
+  "cancellation_count": 29,
   "sec_filing_count": 0,
-  "high_confidence_count": 197,
+  "high_confidence_count": 198,
   "findings": [
     {
       "id": "2ca45e55ab0a17",
@@ -60,6 +60,23 @@
       "amounts": [
         "30MW"
       ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3d1dd7e9153ff6",
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-17",
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -149,6 +166,21 @@
         "OpenAI",
         "Anthropic"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f409e8c55a1d44",
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-17",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -357,6 +389,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "83d908daf158b5",
+      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-17",
+      "summary": "The two newest Fire Sticks block apps from outside of Amazon's store.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1042,6 +1091,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "77c9b814353ec0",
+      "title": "Meta, Entergy announce massive expansion at Louisiana AI data center - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPT2dTV1NnZDJmYnhCMWt1OGRiQTU2a0oxUGhSX1JCWGE5SlRybGVhNk5nLWNQSlBJM3o1UTB0OEV3VnhYaUJzUXBUTkU4WUxmZjlBM2EtSGd4UHBybjZDTkRVWHhTZC1UOFJLd0xZdzhrdkp2Nk5xRHlGb2x2azRkaXJOcFJpSkhRSzdaNUVhWnpQc1BNWkRibU1pcWl4bktZTlhNMERiWVdJejUwVkRmY0tQWXFoX0wxS1JwWnc5V1FIdS1qZjJjeS1LbXloc0Rqa1huZGlRdFRDYlRSWVFua3JrSmJKLVFqSkcxalcwVVBFUlNKdTZ1NGV2UnpGX2d4ZWk0SzExRU0yelJlWkdYeGRaMkVHVVFLSGtGNTNYUENyQS1UeVFCMndCNnUxSy12QXcwcy03Z09wR0VMajR2RkFZRldFbXpYS21ZY1gyaHBhTmht?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-04-15",
+      "summary": "Meta, Entergy announce massive expansion at Louisiana AI data center &nbsp;&nbsp; MSN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "6082bb31e1f5fa",
       "title": "Pi Data Centers developing 23MW data center in Mumbai, India",
       "url": "https://www.datacenterdynamics.com/en/news/pi-data-centers-developing-23mw-data-center-in-mumbai-india/",
@@ -1058,25 +1126,6 @@
       "amounts": [
         "23MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "77c9b814353ec0",
-      "title": "Meta, Entergy announce massive expansion at Louisiana AI data center - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPT2dTV1NnZDJmYnhCMWt1OGRiQTU2a0oxUGhSX1JCWGE5SlRybGVhNk5nLWNQSlBJM3o1UTB0OEV3VnhYaUJzUXBUTkU4WUxmZjlBM2EtSGd4UHBybjZDTkRVWHhTZC1UOFJLd0xZdzhrdkp2Nk5xRHlGb2x2azRkaXJOcFJpSkhRSzdaNUVhWnpQc1BNWkRibU1pcWl4bktZTlhNMERiWVdJejUwVkRmY0tQWXFoX0wxS1JwWnc5V1FIdS1qZjJjeS1LbXloc0Rqa1huZGlRdFRDYlRSWVFua3JrSmJKLVFqSkcxalcwVVBFUlNKdTZ1NGV2UnpGX2d4ZWk0SzExRU0yelJlWkdYeGRaMkVHVVFLSGtGNTNYUENyQS1UeVFCMndCNnUxSy12QXcwcy03Z09wR0VMajR2RkFZRldFbXpYS21ZY1gyaHBhTmht?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-15",
-      "summary": "Meta, Entergy announce massive expansion at Louisiana AI data center &nbsp;&nbsp; MSN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -3976,6 +4025,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "a7f8d2d0b0d588",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "d64bc133953f6f",
       "title": "Amazon investing another $12 billion in Central Mississippi - Magnolia Tribune",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVZlRGhIZFBCeThDeHBTMUJNNEJYQ3I4YnlRb2hyWm9ZODNOdkpJRGJyVVFlUkhya0UxSFNvUEJmZkVycWpiZUJielktb2tHV2Z3U0hfOXJNZ19ZY1piY29GaWNxWUhra1paeTYtSnhrd1ZTUkFUeTF1c1ZQdEk2UHRoZVQzZWdtZXkwZnFrckY4bC1pbllrOERmSmY1a00?oc=5",
@@ -3992,27 +4062,6 @@
       ],
       "amounts": [
         "$12 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a7f8d2d0b0d588",
-      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-09",
-      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -5340,8 +5389,8 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
@@ -6956,23 +7005,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b22c750fb04030",
-      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-06",
-      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "33655d0ac54bae",
       "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0ZGNkxMclFrajIydXRYLUctdlFqSWVjMGpvX0VlWVBoTGpuUkZVTFctLUgwOUdqNVowVVBHMlRGLTN2bXM0UzcwbGFBYTItUzAyc00yVFlSQVhXVF9uT3pXd3F4emF1dF9qNDdTQUFma3E4WVJyM1U5NlpiM1Q2RXc0WEVyOWZtTU5Ic19RSjJGTzBJNm8yYUsxNDNoZ3A3RUZsRUpTd2Q2YllrZ2VR?oc=5",
@@ -6983,6 +7015,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b22c750fb04030",
+      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-06",
+      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10563,53 +10612,6 @@
       "companies": [
         "OpenAI"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "901ec91a3f2115",
-      "title": "Oppidan data center outside Minneapolis rejected",
-      "url": "https://www.datacenterdynamics.com/en/news/oppidan-data-center-outside-minneapolis-rejected/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-30",
-      "summary": "Brings end to year-long application process",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6ea8b771ba720f",
-      "title": "Two research institutions partner for new HPC data center in Berlin, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/two-research-institutions-partner-for-new-hpc-data-center-in-berlin-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-30",
-      "summary": "Initially will be housed at ZIB and HZB's existing buildings, with a new facility to be constructed later",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "891b7abdd3cf17",
-      "title": "Mitsui and Hitachi could put data centers on used boats",
-      "url": "https://www.datacenterdynamics.com/en/news/mitsui-and-hitachi-could-put-data-centers-on-used-boats/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-30",
-      "summary": "The cloud could soon be riding the waves",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
