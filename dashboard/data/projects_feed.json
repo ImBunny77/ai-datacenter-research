@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18T08:53:52.385914+00:00",
+  "last_updated": "2026-04-18T10:42:09.979370+00:00",
   "finding_count": 600,
   "new_project_count": 110,
   "cancellation_count": 29,
@@ -80,6 +80,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "3d1dd7e9153ff6",
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-17",
+      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "3e583ea23c159c",
       "title": "German MSP Noris Network to break ground on 30MW Frankfurt data center",
       "url": "https://www.datacenterdynamics.com/en/news/german-msp-noris-network-to-break-ground-on-30mw-frankfurt-data-center/",
@@ -95,23 +112,6 @@
       "amounts": [
         "30MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3d1dd7e9153ff6",
-      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
-      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-17",
-      "summary": "Prices for \"critical components\" are surging because of massive data center investments.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -597,8 +597,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$45 million",
-        "$45M"
+        "$45M",
+        "$45 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3865,27 +3865,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b005a5294393cd",
-      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c8abde68daa200",
       "title": "Amazon is investing $12 billion to build more data centers in Mississippi - Mississippi Today",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hMGhibDhkNTk5d0ZtNWIyTUluX1ZEdk9fOFJUVEt2R1p3eGRqckwycUI4Y2FodU91VkhmSHI1TUJZZVJsY2gzUUNwTTZYMWJKYTBVdVJXanNTcG0wRGk5VHFpZmpXcV9yZmV6UENpZFN0WDY0Q2luSFBOcjU?oc=5",
@@ -3902,6 +3881,27 @@
       ],
       "amounts": [
         "$12 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b005a5294393cd",
+      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -4115,6 +4115,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "a7f8d2d0b0d588",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "d64bc133953f6f",
       "title": "Amazon investing another $12 billion in Central Mississippi - Magnolia Tribune",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVZlRGhIZFBCeThDeHBTMUJNNEJYQ3I4YnlRb2hyWm9ZODNOdkpJRGJyVVFlUkhya0UxSFNvUEJmZkVycWpiZUJielktb2tHV2Z3U0hfOXJNZ19ZY1piY29GaWNxWUhra1paeTYtSnhrd1ZTUkFUeTF1c1ZQdEk2UHRoZVQzZWdtZXkwZnFrckY4bC1pbllrOERmSmY1a00?oc=5",
@@ -4131,27 +4152,6 @@
       ],
       "amounts": [
         "$12 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a7f8d2d0b0d588",
-      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-09",
-      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -8684,13 +8684,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9678054772835b",
-      "title": "Stop the DIY gamble: Why validated AI infrastructure wins - Cisco Blogs",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVU0bG1HWkJ5aEJPbE9NWnl6S3Q4bmFEUHh4SGg0dmRZZ0pLOXZES3k5RUw2RnAyamhqUmhWNEpfUGxubFdkX2RJem9GUGtwamdaYWVicVBoZ1RWUVVQeTJwZW8xR0F0VGQ4T1ZtcTB1MlNiSHpYMjZvbzB5dDJDZkZnTUxtQ2hfa3JodFNuNGU4RHU4QXc?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
+      "id": "952fd47a39da14",
+      "title": "The Great GPU Shortage – Rental Capacity – Launching our H100 1 Year Rental Price Index",
+      "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
       "date": "2026-04-02",
-      "summary": "Stop the DIY gamble: Why validated AI infrastructure wins &nbsp;&nbsp; Cisco Blogs",
+      "summary": "GPU Rental Pricing Dashboard Launch",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8699,13 +8699,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "952fd47a39da14",
-      "title": "The Great GPU Shortage – Rental Capacity – Launching our H100 1 Year Rental Price Index",
-      "url": "https://newsletter.semianalysis.com/p/the-great-gpu-shortage-rental-capacity",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "9678054772835b",
+      "title": "Stop the DIY gamble: Why validated AI infrastructure wins - Cisco Blogs",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVU0bG1HWkJ5aEJPbE9NWnl6S3Q4bmFEUHh4SGg0dmRZZ0pLOXZES3k5RUw2RnAyamhqUmhWNEpfUGxubFdkX2RJem9GUGtwamdaYWVicVBoZ1RWUVVQeTJwZW8xR0F0VGQ4T1ZtcTB1MlNiSHpYMjZvbzB5dDJDZkZnTUxtQ2hfa3JodFNuNGU4RHU4QXc?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
       "date": "2026-04-02",
-      "summary": "GPU Rental Pricing Dashboard Launch",
+      "summary": "Stop the DIY gamble: Why validated AI infrastructure wins &nbsp;&nbsp; Cisco Blogs",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
