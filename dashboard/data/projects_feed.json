@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-04-20T13:45:59.730771+00:00",
+  "last_updated": "2026-04-20T15:17:12.384982+00:00",
   "finding_count": 600,
   "new_project_count": 108,
-  "cancellation_count": 32,
+  "cancellation_count": 33,
   "sec_filing_count": 0,
-  "high_confidence_count": 192,
+  "high_confidence_count": 193,
   "findings": [
+    {
+      "id": "8ec4c6d362f65b",
+      "title": "Developer withdraws application for 70MW data center in Hutto, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-withdraws-application-for-70mw-data-center-in-hutto-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Zydeco eases off amid pushback from locals",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "70MW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "884fe7dc1d9260",
       "title": "Aussie data center firm NextDC secures 250MW data center deals, set to raise more than  AU$1.5 billion via new shares",
@@ -18,8 +39,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "250MW",
-        "$1.5 billion"
+        "$1.5 billion",
+        "250MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -69,7 +90,7 @@
       "source": "Meta Newsroom",
       "source_cat": "Company IR",
       "date": "2026-04-20",
-      "summary": "The LevelUp Fiber Technician Pathway is a free, four-week training program designed to prepare people to fill fiber technician jobs at US data centers and our construction sites. \n The post  Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program  appeared first on  Meta Newsroom .",
+      "summary": "The LevelUp Fiber Technician Pathway is a training program designed to prepare people to fill fiber technician jobs at US data centers and our construction sites. \n The post  Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program  appeared first on  Meta Newsroom .",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -114,6 +135,58 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9ece55eedad429",
+      "title": "Google in discussions with Marvell for development of two inference chips – report",
+      "url": "https://www.datacenterdynamics.com/en/news/google-in-discussions-with-marvell-for-development-of-two-inference-chips-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Follows announcement that Broadcom will develop Google TPUs until 2031",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b88b8b32f6b95a",
+      "title": "Amazon to tee up satellite connectivity for DP World Tour golf",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-to-tee-up-satellite-connectivity-for-dp-world-tour-golf/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Will leverage Amazon Leo to keep those on the course connected",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b2e9d9437dc768",
+      "title": "CoreWeave and Google raise $6.7bn in junk bond offering - report",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-and-google-raise-67bn-in-junk-bond-offering-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Google raises $5.7bn of total",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -196,6 +269,38 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bc6b2286a1c9d5",
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-20",
+      "summary": "Cyberdefenses could be exposed faster than fixes could be deployed.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8c6e4b1efcea3b",
+      "title": "How Much Do GPU Clusters Really Cost?",
+      "url": "https://newsletter.semianalysis.com/p/how-much-do-gpu-clusters-really-cost",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-04-20",
+      "summary": "Calculating Cluster TCO, The Real Impact of Downtime, The Grand Unifying Theory Of Goodput, and a ClusterMAX 2.1 Update",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -5160,6 +5265,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b8b7ee07fefec7",
+      "title": "CEO Andy Jassy’s 2025 Letter to Shareholders - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFDWFp0cEY5ZUFqd01nYmlLVWg0cjBreFFXaFMxZGFOV085T3RNVDdsRTlwcFpPb3E3MnkwbjNjVlRaWjVDNjAtSkUzZGtKSHpiVWJZc1BjVXNsdlR6TEdhd1hKTlM0aVJWUHNKUEppSlh2OHhwYjVFTVhyVC1oZ2RSNnJzVHV1UkRna09wcVBwdlFoSWkwdTBVQQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-09",
+      "summary": "CEO Andy Jassy’s 2025 Letter to Shareholders &nbsp;&nbsp; About Amazon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "0fa2cb8b599ba7",
       "title": "Instagram Expands Teen Accounts Inspired by 13+ Content Ratings",
       "url": "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings-2/",
@@ -5174,23 +5296,6 @@
       "locations": [
         "India"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b8b7ee07fefec7",
-      "title": "CEO Andy Jassy’s 2025 Letter to Shareholders - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFDWFp0cEY5ZUFqd01nYmlLVWg0cjBreFFXaFMxZGFOV085T3RNVDdsRTlwcFpPb3E3MnkwbjNjVlRaWjVDNjAtSkUzZGtKSHpiVWJZc1BjVXNsdlR6TEdhd1hKTlM0aVJWUHNKUEppSlh2OHhwYjVFTVhyVC1oZ2RSNnJzVHV1UkRna09wcVBwdlFoSWkwdTBVQQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-09",
-      "summary": "CEO Andy Jassy’s 2025 Letter to Shareholders &nbsp;&nbsp; About Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10512,102 +10617,6 @@
       "locations": [
         "Japan"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "710bca998e87d3",
-      "title": "Hyperscale Data purchases 48.5 acres in southwest Michigan to expand data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-purchases-485-acres-in-southwest-michigan-to-expand-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Purchase more than doubles company’s acreage in the area",
-      "finding_type": "Expansion",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a882fb8d32f091",
-      "title": "Enterprise technology and software firm Sagtec Global to build sovereign AI data center",
-      "url": "https://www.datacenterdynamics.com/en/news/enterprise-technology-and-software-firm-sagtec-global-to-build-sovereign-ai-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Development to take place through subsidiary CL Technologies",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2fa19bad3f4306",
-      "title": "Planning decision on Rochelle, Illinois, data center postponed",
-      "url": "https://www.datacenterdynamics.com/en/news/planning-decision-on-rochelle-illinois-data-center-postponed/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Unclear when proposal will be considered again",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Illinois"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "527ee318ed0c4e",
-      "title": "Sponsored: Beyond PUE: Rethinking how data center sustainability is measured",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-pue-rethinking-how-data-center-sustainability-is-measured/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Three essential metrics to help data center managers measure sustainability success via a more complete and comparative framework",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "24328bc8ffccc3",
-      "title": "Modular data centers could be attached to gas pipelines and use excess pressure for power and cooling",
-      "url": "https://www.datacenterdynamics.com/en/news/modular-data-centers-could-be-attached-to-gas-pipelines-and-use-excess-pressure-for-power-and-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "First facility could be commissioned later this year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "03451deea58778",
-      "title": "Google Fiber rebrands to GFiber, ahead of Astound merger",
-      "url": "https://www.datacenterdynamics.com/en/news/g/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Google has decided to adopt the nickname ahead of Astound fiber merger",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
