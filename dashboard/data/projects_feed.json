@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-21T11:08:38.552469+00:00",
+  "last_updated": "2026-04-21T13:44:54.492901+00:00",
   "finding_count": 600,
-  "new_project_count": 103,
+  "new_project_count": 96,
   "cancellation_count": 32,
   "sec_filing_count": 0,
-  "high_confidence_count": 188,
+  "high_confidence_count": 182,
   "findings": [
     {
       "id": "00d5b8b25d741b",
@@ -25,6 +25,66 @@
         "$25 billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d15fd0ad6cff0f",
+      "title": "Meta files to expand campus in El Paso, Texas, with 12 new buildings",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-files-to-expand-campus-in-el-paso-texas-with-12-new-buildings/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Will invest $289m in the project",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$289m"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "69a38fc91d9da3",
+      "title": "Amazon invests $5bn in Anthropic; Anthropic agrees to lease 5GW of AWS AI capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-invests-5bn-in-anthropic-anthropic-agrees-to-lease-5gw-of-ai-capacity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Could invest a further $20bn in the AI company",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "5GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "37f7a03c92eda6",
+      "title": "NTT plans 200MW data center campus outside Tokyo",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-plans-200mw-data-center-campus-outside-tokyo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "First phase of new development due live in 2030",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Tokyo"
+      ],
+      "amounts": [
+        "200MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -59,6 +119,94 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ee6a854d24cd45",
+      "title": "EdgeCore secures $1.5 bn financing for Virginia data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/edgecore-secures-15-bn-financing-for-virginia-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Secures funds to finish build of two facilities, due live this year and next",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0fdf98ee3c6338",
+      "title": "Aon increases data center insurance coverage to $3.5bn",
+      "url": "https://www.datacenterdynamics.com/en/news/aon-increases-data-center-insurance-coverage-to-35bn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Company will also cover existing data centers coming off the first year of operations",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "056d88bd184370",
+      "title": "DirecTV-occupied data centers in Washington and Minnesota up for sale",
+      "url": "https://www.datacenterdynamics.com/en/news/directv-occupied-data-centers-in-washington-and-minnesota-up-for-sale/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Uplink facilities in Minnesota and Washington available to new landlord",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Washington",
+        "Minnesota"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a5b525d793f8a0",
+      "title": "Microsoft to supply waste heat to local district heating network in Høje-Taastrup, Denmark",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-supply-waste-heat-to-local-district-heating-network-in-h%C3%B8je-taastrup-denmark/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "In collaboration with VEKS and Høje Taastrup Fjernvarme",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Denmark"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c29a552b105bff",
+      "title": "Emerald AI to conduct pilot program with Silicon Valley Power in Santa Clara, California",
+      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-to-conduct-pilot-program-with-silicon-valley-power-in-santa-clara-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Fourth pilot program undertaken by the Nvidia-backed firm",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "California"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -143,6 +291,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "49b01865c6781a",
+      "title": "Apple CEO Tim Cook to step down, John Ternus to take charge from September",
+      "url": "https://www.datacenterdynamics.com/en/news/apple-ceo-tim-cook-to-step-down-john-ternus-to-take-charge-from-september/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Cook has been CEO since 2011",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "8ec4c6d362f65b",
       "title": "Developer withdraws application for 70MW data center in Hutto, Texas",
       "url": "https://www.datacenterdynamics.com/en/news/developer-withdraws-application-for-70mw-data-center-in-hutto-texas/",
@@ -182,6 +345,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "8e8bb56b564081",
+      "title": "Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program",
+      "url": "https://about.fb.com/news/2026/04/meta-cbre-invest-in-american-jobs-new-fiber-technician-training-program/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-04-20",
+      "summary": "The LevelUp Fiber Technician Pathway is a training program designed to prepare people to fill fiber technician jobs at US data centers and our construction sites. \n The post  Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program  appeared first on  Meta Newsroom .",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "89dfb380f11c6d",
       "title": "Former Remington gun factory in New York set to become 200MW data center",
       "url": "https://www.datacenterdynamics.com/en/news/former-remington-gun-factory-in-new-york-set-to-become-200mw-data-center/",
@@ -197,23 +377,6 @@
       "amounts": [
         "200MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8e8bb56b564081",
-      "title": "Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program",
-      "url": "https://about.fb.com/news/2026/04/meta-cbre-invest-in-american-jobs-new-fiber-technician-training-program/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-04-20",
-      "summary": "The LevelUp Fiber Technician Pathway is a training program designed to prepare people to fill fiber technician jobs at US data centers and our construction sites. \n The post  Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program  appeared first on  Meta Newsroom .",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -333,8 +496,8 @@
       "id": "890aed2cf9f931",
       "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-04-20",
       "summary": "Amazon and Anthropic expand strategic collaboration &nbsp;&nbsp; About Amazon",
       "finding_type": "Statement / Update",
@@ -374,118 +537,6 @@
       "summary": "Edge offering part of Entel's portfolio of cloud, IT, and IoT solutions",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e351fc16f3a5c",
-      "title": "Ericsson hit by North America telecom slowdown, geopolitical instability",
-      "url": "https://www.datacenterdynamics.com/en/news/ericsson-hit-by-north-america-telecom-slowdown-geopolitical-instability/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "And it does not expect to be a near-term player in the AI and data center party",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "201e9610f58316",
-      "title": "German asset manager Kauri acquires 55,000 sqm parcel in Hochheim for data center",
-      "url": "https://www.datacenterdynamics.com/en/news/german-asset-manager-kauri-acquires-55000-sqm-parcel-in-hochheim-for-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "Construction estimated to finish in 2031",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "043066d23a7732",
-      "title": "Bitcoin mining data center slated for deployment at gas field in East Yorkshire, UK - report",
-      "url": "https://www.datacenterdynamics.com/en/news/bitcoin-mining-data-center-slated-for-deployment-at-gas-field-in-east-yorkshire-uk-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "Bitcoin mining expected to fund further development of the gas field",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a05bbb1eec0eb0",
-      "title": "Spanish energy firm Solaria in talks to join Telefónica-ACS data center venture - report",
-      "url": "https://www.datacenterdynamics.com/en/news/solaria-negotiates-its-entry-into-telefonica-and-acss-large-scale-data-center-project/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "The deal, which is still under negotiation, would strengthen the convergence between energy and digital infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "42130edd687ea3",
-      "title": "Developer says it will build larger data center if plans for smaller facility near Philadelphia go unapproved",
-      "url": "https://www.datacenterdynamics.com/en/news/developer-says-it-will-build-larger-data-center-if-plans-for-smaller-facility-near-philadelphia-go-unapproved/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "'Project Forge' has faced steep opposition thus far",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b88b8b32f6b95a",
-      "title": "Amazon to tee up satellite connectivity for DP World Tour golf",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-to-tee-up-satellite-connectivity-for-dp-world-tour-golf/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "Will leverage Amazon Leo to keep those on the course connected",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b2e9d9437dc768",
-      "title": "CoreWeave and Google raise $6.7bn in junk bond offering - report",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-and-google-raise-67bn-in-junk-bond-offering-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-20",
-      "summary": "Google raises $5.7bn of total",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "CoreWeave"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -609,6 +660,118 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e351fc16f3a5c",
+      "title": "Ericsson hit by North America telecom slowdown, geopolitical instability",
+      "url": "https://www.datacenterdynamics.com/en/news/ericsson-hit-by-north-america-telecom-slowdown-geopolitical-instability/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "And it does not expect to be a near-term player in the AI and data center party",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "201e9610f58316",
+      "title": "German asset manager Kauri acquires 55,000 sqm parcel in Hochheim for data center",
+      "url": "https://www.datacenterdynamics.com/en/news/german-asset-manager-kauri-acquires-55000-sqm-parcel-in-hochheim-for-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Construction estimated to finish in 2031",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "043066d23a7732",
+      "title": "Bitcoin mining data center slated for deployment at gas field in East Yorkshire, UK - report",
+      "url": "https://www.datacenterdynamics.com/en/news/bitcoin-mining-data-center-slated-for-deployment-at-gas-field-in-east-yorkshire-uk-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Bitcoin mining expected to fund further development of the gas field",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a05bbb1eec0eb0",
+      "title": "Spanish energy firm Solaria in talks to join Telefónica-ACS data center venture - report",
+      "url": "https://www.datacenterdynamics.com/en/news/solaria-negotiates-its-entry-into-telefonica-and-acss-large-scale-data-center-project/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "The deal, which is still under negotiation, would strengthen the convergence between energy and digital infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "42130edd687ea3",
+      "title": "Developer says it will build larger data center if plans for smaller facility near Philadelphia go unapproved",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-says-it-will-build-larger-data-center-if-plans-for-smaller-facility-near-philadelphia-go-unapproved/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "'Project Forge' has faced steep opposition thus far",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b88b8b32f6b95a",
+      "title": "Amazon to tee up satellite connectivity for DP World Tour golf",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-to-tee-up-satellite-connectivity-for-dp-world-tour-golf/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Will leverage Amazon Leo to keep those on the course connected",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b2e9d9437dc768",
+      "title": "CoreWeave and Google raise $6.7bn in junk bond offering - report",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-and-google-raise-67bn-in-junk-bond-offering-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-20",
+      "summary": "Google raises $5.7bn of total",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -1016,6 +1179,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "f409e8c55a1d44",
+      "title": "Satellite and drone images reveal big delays in US data center construction",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-17",
+      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "093309215017e6",
       "title": "AI + quantum, Amazon vs. Starlink and the wide-open US-China internet battle",
       "url": "https://siliconangle.com/2026/04/17/ai-quantum-amazon-vs-starlink-wide-open-us-china-internet-battle/",
@@ -1028,21 +1206,6 @@
         "Amazon",
         "NVIDIA"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f409e8c55a1d44",
-      "title": "Satellite and drone images reveal big delays in US data center construction",
-      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-17",
-      "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -1094,6 +1257,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3acd294c80571d",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-17",
+      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1179,23 +1359,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3acd294c80571d",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-17",
-      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1630,13 +1793,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3479610f90b0d9",
-      "title": "Gemini is stopping harmful ads before people ever see them",
-      "url": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
+      "id": "3d672299136f9c",
+      "title": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-04-16",
-      "summary": "Google's 2025 Ads Safety Report",
+      "summary": "Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1647,13 +1810,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3d672299136f9c",
-      "title": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/",
+      "id": "3479610f90b0d9",
+      "title": "Gemini is stopping harmful ads before people ever see them",
+      "url": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-04-16",
-      "summary": "Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
+      "summary": "Google's 2025 Ads Safety Report",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -3073,23 +3236,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a44352c19e17a1",
-      "title": "The Google app for desktop is now available for Windows users around the world.",
-      "url": "https://blog.google/products-and-platforms/products/search/google-apps-windows-english/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-14",
-      "summary": "Google app for desktop is now available for Windows users around the world in English",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6f8407aeecce7a",
       "title": "Meta Partners With Broadcom to Co-Develop Custom AI Silicon",
       "url": "https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/",
@@ -3100,6 +3246,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a44352c19e17a1",
+      "title": "The Google app for desktop is now available for Windows users around the world.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-apps-windows-english/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-14",
+      "summary": "Google app for desktop is now available for Windows users around the world in English",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -4784,27 +4947,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b005a5294393cd",
-      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c8abde68daa200",
       "title": "Amazon is investing $12 billion to build more data centers in Mississippi - Mississippi Today",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hMGhibDhkNTk5d0ZtNWIyTUluX1ZEdk9fOFJUVEt2R1p3eGRqckwycUI4Y2FodU91VkhmSHI1TUJZZVJsY2gzUUNwTTZYMWJKYTBVdVJXanNTcG0wRGk5VHFpZmpXcV9yZmV6UENpZFN0WDY0Q2luSFBOcjU?oc=5",
@@ -4863,6 +5005,27 @@
       ],
       "amounts": [
         "$12 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b005a5294393cd",
+      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -5034,13 +5197,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "8692fe668cffea",
-      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Mississippi Development Authority",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWdqTThRb3laOVlGQlMwN2RMY054MUNWX1VnLS1CbFQwZEdCQV9aay11cVhjSmdrSUlrZDFzc09LakxuOG1XUThtRmVYLWVSV19nUmFOdk9BejdLTDRNaVN3QWt4SHg1TlliVFkwZTJrUkJ1Z1hFdDhPQ3F5VFV1dXQ2THd4elR6YVFYc2l0OTdxTktSQkxMWko0MkN0MU9DeGVPel9ZY2pWeG1LeU5KRGkyOE4yVkNyNGlPak1Ma0o2cm1GOUtYZHhNazhtbmhDemtEeHVFbWNock0?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "id": "a7f8d2d0b0d588",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-09",
-      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Mississippi Development Authority",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -5055,13 +5218,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a7f8d2d0b0d588",
-      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "id": "8692fe668cffea",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Mississippi Development Authority",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWdqTThRb3laOVlGQlMwN2RMY054MUNWX1VnLS1CbFQwZEdCQV9aay11cVhjSmdrSUlrZDFzc09LakxuOG1XUThtRmVYLWVSV19nUmFOdk9BejdLTDRNaVN3QWt4SHg1TlliVFkwZTJrUkJ1Z1hFdDhPQ3F5VFV1dXQ2THd4elR6YVFYc2l0OTdxTktSQkxMWko0MkN0MU9DeGVPel9ZY2pWeG1LeU5KRGkyOE4yVkNyNGlPak1Ma0o2cm1GOUtYZHhNazhtbmhDemtEeHVFbWNock0?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-09",
-      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Mississippi Development Authority",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -6398,8 +6561,8 @@
       "id": "292af41acc8ee5",
       "title": "Is another Amazon data center coming to Madison County? - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-08",
       "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; The Clarion-Ledger",
       "finding_type": "Statement / Update",
@@ -10408,184 +10571,6 @@
       "source_cat": "Announcement",
       "date": "2026-03-31",
       "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "147bc07af70e98",
-      "title": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent - news.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV2pkWS03WVQ1ckx5dDJ6LWg4ZW5idm1fQ1lmMFVEQkZzNFJ5dVVGaU5Ta1VRYUJJdHRDWkYtWWhGQlUwYjM3c0JFaktGWW81SUhBdDFzNnhQMFNUZVhpT0d5WDIwM3paazFzRWgwOUVrYk1haE1Dd29LOTluai1DNWxHZVptbzNZZDV6cUNNQ25tRDlhTldNUldXOFh0SWV6em1MT0YyQWRPcXl3dWxNMlhkQlFBXzFEWUtvTzJIdHNvR1FHcHVUS1loMElfZC1EVGpQdDJoSHRrSW1WdnhuOUNqYlNYNGFVQnBlSEJDdkFjMkFVekw4?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-03-31",
-      "summary": "Microsoft Deepens Thailand Partnership with more than US$1 billion Investment, Spanning Technology, Trust, and Talent &nbsp;&nbsp; news.microsoft.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "90aaf1d7215aba",
-      "title": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEZ1YW9HY3c3TkVfYnRYN3FyOUtXZ1RxZ2NvTmhIVzVWVHZ1VVB4OTRmZzFmQURkQ3lVTWw2UTFsSmladWVTOFI2Uk1kbUh2b295aDVMdHNGcE42MzkzOUxxMnRCQ29BN3VReUhQTnpxcTFBdm5fZGFZT2ctVEJCUkNGWVpIUnJTXzhUYWd3NHhNd21jdDZmalBqWkVqZlhsSGNCd2FxSVVCSTNOdnJURUc2ZDZuTkw1bmQzNXR5SDNad0tGcHBoMg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking &nbsp;&nbsp; 247wallst.com",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "06a5bbc807a5d6",
-      "title": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEZ1YW9HY3c3TkVfYnRYN3FyOUtXZ1RxZ2NvTmhIVzVWVHZ1VVB4OTRmZzFmQURkQ3lVTWw2UTFsSmladWVTOFI2Uk1kbUh2b295aDVMdHNGcE42MzkzOUxxMnRCQ29BN3VReUhQTnpxcTFBdm5fZGFZT2ctVEJCUkNGWVpIUnJTXzhUYWd3NHhNd21jdDZmalBqWkVqZlhsSGNCd2FxSVVCSTNOdnJURUc2ZDZuTkw1bmQzNXR5SDNad0tGcHBoMg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "NVIDIA Up on Marvell Deal: 3 Reasons the $2 Billion Investment Has the AI World Talking &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4d4909a7293fe1",
-      "title": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand - BusinessToday Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG9uZ2Y5UlNEVWl3aGtzMzlFSTgya0I2bDFXVmJjWTBncVplLTg1dUNFdVBDNXZieGZCUm5JcFJ6X2lzTWEtZ0ZpdG9kWnF4UnJyMTRYTFlkZmNiZkQxRVRidnFjZmJYUTYxUWYwaUhPMVdLTXo5UWxvRjVIVjVGTkxCVlU3QW5xVENOcXFfMnNpYkRTUHNPTi1TNzdxV3lQZDRrRFNrSmx0ei15cEhvYjZhWlBrN2dNZFZZY0JB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand &nbsp;&nbsp; BusinessToday Malaysia",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "34d0cb1e2480df",
-      "title": "OpenAI closes record-breaking $122B funding round that brings its valuation to $852B",
-      "url": "https://siliconangle.com/2026/03/31/openai-just-closed-record-breaking-122b-funding-round-brings-value-852b/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-03-31",
-      "summary": "OpenAI Group PBC showed that it’s still the darling of artificial intelligence investors today, announcing it has raised $122 billion at an $852 billion valuation, the largest funding round in Silicon Valley’s history. The round, which comes at a time when the company is believed to be gearing up for an initial public offering, will [&#8230;] \n The post  OpenAI closes record-breaking $122B funding round that brings its valuation to $852B  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$122B",
-        "$852 billion",
-        "$122 billion",
-        "$852B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5a55fb2a74af84",
-      "title": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand - businesstoday.com.my",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG9uZ2Y5UlNEVWl3aGtzMzlFSTgya0I2bDFXVmJjWTBncVplLTg1dUNFdVBDNXZieGZCUm5JcFJ6X2lzTWEtZ0ZpdG9kWnF4UnJyMTRYTFlkZmNiZkQxRVRidnFjZmJYUTYxUWYwaUhPMVdLTXo5UWxvRjVIVjVGTkxCVlU3QW5xVENOcXFfMnNpYkRTUHNPTi1TNzdxV3lQZDRrRFNrSmx0ei15cEhvYjZhWlBrN2dNZFZZY0JB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft Plans Over US$1 Billion Cloud AI Data Centre Investment In Thailand &nbsp;&nbsp; businesstoday.com.my",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "55127bec3bb1cb",
-      "title": "Amazon purchases 1,300 acres in Morrow County, Oregon",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-purchases-1300-acres-in-morrow-county-oregon/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-03-31",
-      "summary": "Could be for 1GW data center project",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Oregon"
-      ],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "de1b2ed5e4a498",
-      "title": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure - The Next Web",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3VkTFZ3MHpzS2lxLXkyZ0RZQXVibTdVaUtLRExCdXVJUEY3YVJtVlkxd0hkNUYyZkFQYmN1UjBTX215eWNHQVl4cFktTjhvODJGRFgxVHk0YlNnT1lSbjZMVEJUVFlrUEd0QThkd2hyYkhGdkpGd01WZXM1Snc3UjZCdDh0MUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure &nbsp;&nbsp; The Next Web",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "42d6031df2dc91",
-      "title": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure - thenextweb.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3VkTFZ3MHpzS2lxLXkyZ0RZQXVibTdVaUtLRExCdXVJUEY3YVJtVlkxd0hkNUYyZkFQYmN1UjBTX215eWNHQVl4cFktTjhvODJGRFgxVHk0YlNnT1lSbjZMVEJUVFlrUEd0QThkd2hyYkhGdkpGd01WZXM1Snc3UjZCdDh0MUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-03-31",
-      "summary": "Microsoft commits $1 billion to Thailand for cloud and AI infrastructure &nbsp;&nbsp; thenextweb.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
