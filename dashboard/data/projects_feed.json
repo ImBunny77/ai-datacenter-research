@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-04-21T15:14:48.508414+00:00",
+  "last_updated": "2026-04-21T17:04:45.799949+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
+  "new_project_count": 95,
   "cancellation_count": 32,
   "sec_filing_count": 0,
-  "high_confidence_count": 180,
+  "high_confidence_count": 181,
   "findings": [
+    {
+      "id": "7958ad1d789704",
+      "title": "Tecto Data Centers Announces $2 Billion Investment Plan and Expands into Enterprise Market - jsa.net",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB4SGxJTFNYZnV1V2xOZmJseVFTTXRzVERBQnhMNVluenBqLUJodi00UFk3YlhWaUJHSE5xNnNGYTlfeVIzaEh6UDZZSG0yd2MwN1FkWmdPeDZRZlpMZUo3NnV6d1l5U2NCQXlmdk11SHU3VkJ2aXpEaWZrYnNORDZUTXhSaldIcGxDTW42Um8zSUpnaE9MQTVYUWZZWlVCYUt5SkJqeEttME5uX0p3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-21",
+      "summary": "Tecto Data Centers Announces $2 Billion Investment Plan and Expands into Enterprise Market &nbsp;&nbsp; jsa.net",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$2 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "00d5b8b25d741b",
       "title": "Amazon to invest up to $25B in Anthropic as part of expanded cloud partnership",
@@ -21,8 +38,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$25B",
-        "$25 billion"
+        "$25 billion",
+        "$25B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -105,6 +122,59 @@
       "is_high_confidence": true
     },
     {
+      "id": "76dad11af7dfb3",
+      "title": "Meta partners with CBRE to train data center technicians in the US for free",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-partners-with-cbre-to-train-data-center-technicians-in-the-us-for-free/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Successful graduates will go on to work at Meta data centers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "43e65a366e9f21",
+      "title": "Automaker Stellantis aims to reduce data center footprint by 60%, migrates to Microsoft Azure",
+      "url": "https://www.datacenterdynamics.com/en/news/automaker-stellantis-aims-to-reduce-data-center-footprint-by-60-migrates-to-microsoft-azure/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Stellantis and Microsoft sign five-year agreement to support migration",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "35a725c4ea8441",
+      "title": "Google confirms plans for data center in LaGrange, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/google-confirms-plans-for-data-center-in-lagrange-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Company linked to project earlier this month after Fire Department rescued worker from data center roof",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "c518dda90e32a1",
       "title": "Anthropic hiring for analyst to assess geopolitical risks and nation-state threats to staff, offices, and data centers",
       "url": "https://www.datacenterdynamics.com/en/news/anthropic-hiring-for-analyst-to-assess-geopolitical-risks-and-nation-state-threats-to-staff-offices-and-data-centers/",
@@ -122,6 +192,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a79f95d83f82b7",
+      "title": "Officials in North Carolina County give ok for rezoning, potential data center incoming",
+      "url": "https://www.datacenterdynamics.com/en/news/officials-in-north-carolina-county-give-ok-for-rezoning-potential-data-center-incoming/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Natelli Investments back with new project: Company hasn’t provided details, residents unhappy",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "North Carolina"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "7570a0fe6a493c",
       "title": "Google Cloud Next 2026 preview: The real story isn’t AI — it’s the control plane",
       "url": "https://siliconangle.com/2026/04/20/google-cloud-next-2026-preview-real-story-isnt-ai-control-plane/",
@@ -136,6 +223,55 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ee07adfc9d2109",
+      "title": "Uravu's salty solution to the data center cooling conundrum",
+      "url": "https://www.datacenterdynamics.com/en/analysis/uravus-salty-solution-to-the-data-center-cooling-conundrum/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "System can chill racks and harvest heat",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "de1429d98acf21",
+      "title": "Plans to build 1,300-acre data center in Fort Meade, Florida, gets go-ahead from officials",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-to-build-1300-acre-data-center-in-fort-meade-florida-gets-go-ahead-from-officials/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "But still needs final approval from water utility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Florida"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7915c4674c940f",
+      "title": "NTT decommissions data center outside London",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-decommissions-data-center-outside-london/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Facility inherited from Gyron in Hemel Hempstead retired, environmental permit surrendered",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "London"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -222,39 +358,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "a5b525d793f8a0",
-      "title": "Microsoft to supply waste heat to local district heating network in Høje-Taastrup, Denmark",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-supply-waste-heat-to-local-district-heating-network-in-h%C3%B8je-taastrup-denmark/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "9553f292f61b0b",
+      "title": "Boomi builds a role for agents and guardrails in the data-connected enterprise",
+      "url": "https://siliconangle.com/2026/04/21/boomi-builds-data-activation-agents-guardrails-boomiworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-04-21",
-      "summary": "In collaboration with VEKS and Høje Taastrup Fjernvarme",
+      "summary": "Artificial intelligence and machine learning have been a central focus for Boomi LP over much of its 26 years as a data activation company. The organization began storing anonymized metadata from customer integrations when it launched its multi-tenant platform for the cloud in 2005. In 2010, Boomi added a wizard to its platform that relied [&#8230;] \n The post  Boomi builds a role for agents and guardrails in the data-connected enterprise  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [
-        "Microsoft"
+        "Meta"
       ],
-      "locations": [
-        "Denmark"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c29a552b105bff",
-      "title": "Emerald AI to conduct pilot program with Silicon Valley Power in Santa Clara, California",
-      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-to-conduct-pilot-program-with-silicon-valley-power-in-santa-clara-california/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "Fourth pilot program undertaken by the Nvidia-backed firm",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "California"
-      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -270,6 +385,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1cbcf3b87a9cc0",
+      "title": "Accelerating Frontier Transformation with Microsoft partners",
+      "url": "https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-21",
+      "summary": "AI has moved quickly from experimentation to production. Customers want measurable business outcomes, along with security, governance and responsible AI built in from day one. Microsoft partners are a meaningful differentiator to deliver these objectives. They turn ideas into deployable solutions by prioritizing the highest value use cases, building the right data and security foundations... \n The post  Accelerating Frontier Transformation with Microsoft partners  appeared first on  The Official",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -306,6 +438,44 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a5b525d793f8a0",
+      "title": "Microsoft to supply waste heat to local district heating network in Høje-Taastrup, Denmark",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-supply-waste-heat-to-local-district-heating-network-in-h%C3%B8je-taastrup-denmark/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "In collaboration with VEKS and Høje Taastrup Fjernvarme",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Denmark"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c29a552b105bff",
+      "title": "Emerald AI to conduct pilot program with Silicon Valley Power in Santa Clara, California",
+      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-to-conduct-pilot-program-with-silicon-valley-power-in-santa-clara-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-21",
+      "summary": "Fourth pilot program undertaken by the Nvidia-backed firm",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "California"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1314,23 +1484,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b959bb72bc1dc2",
-      "title": "Dell and Nvidia turn AI infrastructure into the new power center of enterprise tech",
-      "url": "https://siliconangle.com/2026/04/17/dell-nvidia-push-ai-infrastructure-aifactoriesdatacenters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-17",
-      "summary": "As artificial intelligence scales, AI infrastructure is becoming the deciding factor in whether enterprise AI delivers real value or stalls. AI is shifting from experimentation to unified systems where infrastructure, data and software work together. Partnerships such as Dell Technologies Inc. and Nvidia Corp. are aligning these layers to simplify deployment and support scalable, long-term platforms, [&#8230;] \n The post  Dell and Nvidia turn AI infrastructure into the new power center of enterp",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3acd294c80571d",
       "title": "7 ways to travel smarter this summer, with help from Google",
       "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
@@ -1341,6 +1494,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b959bb72bc1dc2",
+      "title": "Dell and Nvidia turn AI infrastructure into the new power center of enterprise tech",
+      "url": "https://siliconangle.com/2026/04/17/dell-nvidia-push-ai-infrastructure-aifactoriesdatacenters/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-17",
+      "summary": "As artificial intelligence scales, AI infrastructure is becoming the deciding factor in whether enterprise AI delivers real value or stalls. AI is shifting from experimentation to unified systems where infrastructure, data and software work together. Partnerships such as Dell Technologies Inc. and Nvidia Corp. are aligning these layers to simplify deployment and support scalable, long-term platforms, [&#8230;] \n The post  Dell and Nvidia turn AI infrastructure into the new power center of enterp",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1860,13 +2030,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3d672299136f9c",
-      "title": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/",
+      "id": "3479610f90b0d9",
+      "title": "Gemini is stopping harmful ads before people ever see them",
+      "url": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-04-16",
-      "summary": "Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
+      "summary": "Google's 2025 Ads Safety Report",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1877,13 +2047,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3479610f90b0d9",
-      "title": "Gemini is stopping harmful ads before people ever see them",
-      "url": "https://blog.google/products/ads-commerce/2025-ads-safety-report/",
+      "id": "3d672299136f9c",
+      "title": "Grow with Google's event discussed AI in the workplace with Fortune 500 company leaders.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-transformation-summit/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-04-16",
-      "summary": "Google's 2025 Ads Safety Report",
+      "summary": "Our Leading the AI Transformation summit equipped execs to drive AI adoption, emphasizing how people use AI to unlock potential.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5264,27 +5434,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "a7f8d2d0b0d588",
-      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-09",
-      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "8692fe668cffea",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Mississippi Development Authority",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWdqTThRb3laOVlGQlMwN2RMY054MUNWX1VnLS1CbFQwZEdCQV9aay11cVhjSmdrSUlrZDFzc09LakxuOG1XUThtRmVYLWVSV19nUmFOdk9BejdLTDRNaVN3QWt4SHg1TlliVFkwZTJrUkJ1Z1hFdDhPQ3F5VFV1dXQ2THd4elR6YVFYc2l0OTdxTktSQkxMWko0MkN0MU9DeGVPel9ZY2pWeG1LeU5KRGkyOE4yVkNyNGlPak1Ma0o2cm1GOUtYZHhNazhtbmhDemtEeHVFbWNock0?oc=5",
@@ -5309,8 +5458,8 @@
       "id": "d64bc133953f6f",
       "title": "Amazon investing another $12 billion in Central Mississippi - Magnolia Tribune",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVZlRGhIZFBCeThDeHBTMUJNNEJYQ3I4YnlRb2hyWm9ZODNOdkpJRGJyVVFlUkhya0UxSFNvUEJmZkVycWpiZUJielktb2tHV2Z3U0hfOXJNZ19ZY1piY29GaWNxWUhra1paeTYtSnhrd1ZTUkFUeTF1c1ZQdEk2UHRoZVQzZWdtZXkwZnFrckY4bC1pbllrOERmSmY1a00?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-09",
       "summary": "Amazon investing another $12 billion in Central Mississippi &nbsp;&nbsp; Magnolia Tribune",
       "finding_type": "New Project",
@@ -5322,6 +5471,27 @@
       ],
       "amounts": [
         "$12 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a7f8d2d0b0d588",
+      "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-04-09",
+      "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10408,170 +10578,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a6addb9cb1e4ad",
-      "title": "What to expect during the Oracle Data Deep Dive NYC event: Join theCUBE April 14",
-      "url": "https://siliconangle.com/2026/04/01/oracle-data-deep-dive-event-ai-database-thecube-oracledatadeepdivenyc/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-01",
-      "summary": "At Oracle World in Las Vegas in October, Oracle Corp. founder and CEO Larry Ellison got right to the point. “AI changes everything,” Ellison told attendees, and his company’s recent releases have reflected the transformation taking place in the AI database world. Oracle has taken a major step into AI database architecture, with a redesigned [&#8230;] \n The post  What to expect during the Oracle Data Deep Dive NYC event: Join theCUBE April 14  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78de6b72f0c2e5",
-      "title": "Global Bitcoin network hashrate drops for first time since 2020 as cryptominers seek to retrofit data centers for AI",
-      "url": "https://www.datacenterdynamics.com/en/news/global-bitcoin-network-hashrate-drops-for-first-time-since-2020-as-cryptominers-seek-to-retrofit-data-centers-for-ai/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "First quarter saw a drop of four percent",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "560ffafe53e772",
-      "title": "Oracle expands AI infrastructure offering in US gov't clouds",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-expands-ai-infrastructure-offering-in-us-govt-clouds/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "Also works on Defense Industrial Base Isolated Cloud Environment",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5fa656fb14537b",
-      "title": "Scaling AI-enabled digital twins across the data center lifecycle with OpenUSD",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/scaling-ai-enabled-digital-twins-across-the-data-center-lifecycle-with-openusd/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "Unifying data center design, build, and operations into a single, AI-driven lifecycle model for faster, lower-risk decision-making",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4b526040c326fc",
-      "title": "Legrand acquires Keydak in China and TES in UK",
-      "url": "https://www.datacenterdynamics.com/en/news/legrand-acquires-keydak-in-china-and-tes-in-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "Industrial firm continues data center-related acquisition spree",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0c8b1970142773",
-      "title": "Lyten to build data center in Gdańsk, Poland",
-      "url": "https://www.datacenterdynamics.com/en/news/lyten-to-build-data-center-in-gda%C5%84sk-poland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "The site will be built around an existing BESS and R&amp;D facility in the port",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Poland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20aa49050aa4b8",
-      "title": "ByteDance backs out of plans to lease additional capacity in Ireland - report",
-      "url": "https://www.datacenterdynamics.com/en/news/bytedance-backs-out-of-plans-to-lease-additional-capacity-in-ireland-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "TikTok owner will not lease second data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "be5ebe09686958",
-      "title": "New Zealand's Datacom acquires Auckland data center from T4",
-      "url": "https://www.datacenterdynamics.com/en/news/new-zealands-datacom-acquires-auckland-data-center-from-t4/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "Veteran ICT firm takes over former IBM facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ac0a39c2a5e538",
-      "title": "Ex-BP boss Bernard Looney takes over as CEO at Prometheus Hyperscale",
-      "url": "https://www.datacenterdynamics.com/en/news/ex-bp-boss-bernard-looney-takes-over-as-ceo-at-prometheus-hyperscale/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "Firm has plans for AI data center campuses in Wyoming and beyond",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Wyoming"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "624c514d41e385",
-      "title": "OpenAI closes funding round, raises $122bn at $852bn valuation",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-closes-funding-round-raises-122bn-at-852bn-valuation/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-01",
-      "summary": "More money to pour into compute",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
