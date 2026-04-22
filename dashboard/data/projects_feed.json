@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-22T19:16:37.603302+00:00",
+  "last_updated": "2026-04-22T20:56:54.618899+00:00",
   "finding_count": 600,
   "new_project_count": 102,
   "cancellation_count": 29,
   "sec_filing_count": 0,
-  "high_confidence_count": 186,
+  "high_confidence_count": 183,
   "findings": [
     {
       "id": "25556727285ff0",
@@ -215,8 +215,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1 billion",
         "$1B",
+        "$1 billion",
         "$30B",
         "$30 billion"
       ],
@@ -354,6 +354,23 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "51706fa56c5b72",
+      "title": "Maximizing Gemini: Google Cloud makes its bid to build the operating system for enterprise AI",
+      "url": "https://siliconangle.com/2026/04/22/maximizing-gemini-google-cloud-makes-bid-build-operating-system-enterprise-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-22",
+      "summary": "Google LLC has emerged as the only cloud &#8220;hyperscaler&#8221; with a leading frontier artificial intelligence large language model – Gemini – and today it issued a raft of announcements designed to capitalize on that current advantage. The search giant’s cloud unit launched the Gemini Enterprise Agent Platform as its new hub for building AI agents. [&#8230;] \n The post  Maximizing Gemini: Google Cloud makes its bid to build the operating system for enterprise AI  appeared first on  SiliconA",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -718,6 +735,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "c48186fe5b101c",
+      "title": "AWS accelerates AI agent development in Amazon Bedrock AgentCore",
+      "url": "https://siliconangle.com/2026/04/22/aws-accelerates-ai-agent-development-amazon-bedrock-agentcore/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-22",
+      "summary": "Amazon Web Services Inc. said today it’s taking steps toward simplifying the creation of the underlying infrastructure for new autonomous artificial intelligence agents. With an update to its Amazon Bedrock AgentCore platform today, developers can access a new “managed agent harness” feature and command-line tools that eliminate the manually intensive backend work that slows down [&#8230;] \n The post  AWS accelerates AI agent development in Amazon Bedrock AgentCore  appeared first on  SiliconANG",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3daaf2fbe246b6",
+      "title": "The decisive layer in AI is still unclaimed: theCUBE’s Google Cloud Next day one keynote analysis",
+      "url": "https://siliconangle.com/2026/04/22/agent-control-plane-race-hits-overdrive-next-2026-googlecloudnext/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-22",
+      "summary": "The fight for the agent control plane is underway — and it might determine who controls enterprise artificial intelligence for the next decade. Google LLC came into Google Cloud Next 2026 with a clearer positioning for Gemini: less as a standalone model and more as a connective layer. The emphasis is shifting toward how it ties [&#8230;] \n The post  The decisive layer in AI is still unclaimed: theCUBE’s Google Cloud Next day one keynote analysis  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "425d56bd9d3052",
       "title": "The DP World Tour tees off a new era of connectivity by tapping Amazon Leo",
       "url": "https://siliconangle.com/2026/04/22/dp-world-tour-tees-off-new-era-connectivity-tapping-amazon-leo/",
@@ -762,6 +813,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "71971ca2853eee",
+      "title": "Lawsuit: Nintendo is getting tariff refunds—its customers should get them instead",
+      "url": "https://arstechnica.com/tech-policy/2026/04/lawsuit-nintendo-is-getting-tariff-refunds-its-customers-should-get-them-instead/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-22",
+      "summary": "Lawsuit demands Nintendo pass Trump tariff refunds on to its customers.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "59d1ec9afe79e1",
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-22",
+      "summary": "When authentication fails, things can go very, very wrong.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "be8c27ffc91f08",
+      "title": "Anthropic tested removing Claude Code from the Pro plan",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-22",
+      "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1409,57 +1511,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7ebafc770c74b1",
-      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "Move highlights the difficulty of finding high-quality interactive training data.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "db2811f9e0f4e3",
-      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
-      "url": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6fb40e0bcfc051",
-      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1cbcf3b87a9cc0",
       "title": "Accelerating Frontier Transformation with Microsoft partners",
       "url": "https://blogs.microsoft.com/blog/2026/04/21/accelerating-frontier-transformation-with-microsoft-partners/",
@@ -1504,6 +1555,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7ebafc770c74b1",
+      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-21",
+      "summary": "Move highlights the difficulty of finding high-quality interactive training data.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "db2811f9e0f4e3",
+      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
+      "url": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-21",
+      "summary": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6fb40e0bcfc051",
+      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-21",
+      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -6435,6 +6537,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "17c082c0ed1c29",
+      "title": "Details of new $12 billion Amazon data center investment in Mississippi - The Clarion-Ledger",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3JTRV9rdXBsTEkyRlUzRGlRTkhaMzdDbFhaUkdpMWFCYXhRbG9ld2JQMHZGbmJPZGs3THdKNHlQaWJiQTl0dXFRb2lFcEZ0Z3lVZ0FheTBiLWVWMThtNnhtZzRfM0VNajZZVXN5TDdERlhhdVdtYjBtbFMzMDE2Z3VMdG40M2duWWV6UXdiaWxjcnFPTDZ3SEtoVDhPZVpkVjlKaUYtRWVybDhUQ2pxbmZYOTQ0ZmJtdmdmSld6UXdkZEt1MWVXZnV3MTJqYlZTYmljWXlhNU9SUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Details of new $12 billion Amazon data center investment in Mississippi &nbsp;&nbsp; The Clarion-Ledger",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$12 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "b005a5294393cd",
       "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
@@ -6477,32 +6600,11 @@
       "is_high_confidence": true
     },
     {
-      "id": "17c082c0ed1c29",
-      "title": "Details of new $12 billion Amazon data center investment in Mississippi - The Clarion-Ledger",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3JTRV9rdXBsTEkyRlUzRGlRTkhaMzdDbFhaUkdpMWFCYXhRbG9ld2JQMHZGbmJPZGs3THdKNHlQaWJiQTl0dXFRb2lFcEZ0Z3lVZ0FheTBiLWVWMThtNnhtZzRfM0VNajZZVXN5TDdERlhhdVdtYjBtbFMzMDE2Z3VMdG40M2duWWV6UXdiaWxjcnFPTDZ3SEtoVDhPZVpkVjlKaUYtRWVybDhUQ2pxbmZYOTQ0ZmJtdmdmSld6UXdkZEt1MWVXZnV3MTJqYlZTYmljWXlhNU9SUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Details of new $12 billion Amazon data center investment in Mississippi &nbsp;&nbsp; The Clarion-Ledger",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$12 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "d5ef497a0ce182",
       "title": "Amazon announces additional $12 billion for data centers in central Mississippi - Mississippi Public Broadcasting",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWwzUTFoQnJmay1VRHhYZGVyU1NfM2RvSmFpTklPY3h5YmloYldITGpBMkxiTDFCakJIRUpTYlZJZXZYcEgzTUZvUnhNSGd0TzlzUWM3dkpGdDVXLXROOHpUUi0wcHBwZVdfWl9sVEx3VHZUd3VjQ0pKcE9SZ0hNWWpJYjk0NHVkNGNsOU1HdllfQXMwak1mTm1OM0JhSHk5Y1dGVFBKenFnbl9qSEVZT1J4eGVybU0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-09",
       "summary": "Amazon announces additional $12 billion for data centers in central Mississippi &nbsp;&nbsp; Mississippi Public Broadcasting",
       "finding_type": "New Project",
@@ -6688,8 +6790,8 @@
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-04-09",
       "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
@@ -9648,23 +9750,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b22c750fb04030",
-      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-06",
-      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "33655d0ac54bae",
       "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0ZGNkxMclFrajIydXRYLUctdlFqSWVjMGpvX0VlWVBoTGpuUkZVTFctLUgwOUdqNVowVVBHMlRGLTN2bXM0UzcwbGFBYTItUzAyc00yVFlSQVhXVF9uT3pXd3F4emF1dF9qNDdTQUFma3E4WVJyM1U5NlpiM1Q2RXc0WEVyOWZtTU5Ic19RSjJGTzBJNm8yYUsxNDNoZ3A3RUZsRUpTd2Q2YllrZ2VR?oc=5",
@@ -9675,6 +9760,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b22c750fb04030",
+      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-06",
+      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10507,112 +10609,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "daefc28ec345f0",
-      "title": "Sponsored: Power is now the growth constraint: What data center executives must rethink in 2026",
-      "url": "https://www.datacenterdynamics.com/en/opinions/power-is-now-the-growth-constraint-what-data-center-executives-must-rethink-in-2026/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-03",
-      "summary": "Post-DCD&gt;Connect New York executive perspective",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "48a819c678ab94",
-      "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
-      "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-03",
-      "summary": "OpenAI says program will remain in Los Angeles and will be editorially independent.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1a8f4e39b3f2da",
-      "title": "Pausing data centers in US would be gift to China | Donald Kimball - news.lee.net",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZlhualN5NEp2T0U0SEZFSjlUMGQwdmFEYzhNb3dxTm1wMzRiRVhpOS1WNkpGUk1tMEdSS21fOUhvOTJwZXNON2JoN0k4NTlFWGxDblVuVFh1MHVBQ2EybjRRcDZ1MmppUTV5Nnd4ZWpCNTYzbGRHNHFnb1FQd0lQOU90UmFUbi02bC1TYWxtbEgyTkVCbmwyYi04WFpRZWIyVUZ3bUVZS3FBaHpjYjMtVmlFLW96Zk9mNVQ0NnRicjJJamV4NkdkX1I0S1dFeWpUa212XzZlRFZKU0txTVprRTZvbzg?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-03",
-      "summary": "Pausing data centers in US would be gift to China | Donald Kimball &nbsp;&nbsp; news.lee.net",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44d8b109c926af",
-      "title": "Amazon Web Services (AWS) New $1B Data Center in Marysville - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbi1ULUNEczlRSXBNUDI1NGkyTVlldVV5LWhhdHlCTUFsTFBYRFZTY2QtOHZxYlJGWEVVd2FNXy16WmtnVE5EbllRb1dYc3F5RkN0NXdkd0gzcTdLREpPNlM4T1p5aEFISjRUQXpuZTVDMHFjNE9pdXVGcXlOc2IxblRMaHdQZzhKOGxKOTUzQnl4anpLSVE5V1dWWnYxemRYYnVud3RVaXZtLVE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-02",
-      "summary": "Amazon Web Services (AWS) New $1B Data Center in Marysville &nbsp;&nbsp; Construction Review",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a2b9446374b21b",
-      "title": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment - Meyka",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcG5qUndnVnBrek1ZenJSTmZuaXh4Y3dYLXFXRERGWWhLYlJabklSWFBUU0VyWXB0a0xvN1ZyU2VOdFdsdEQzS3Zaa3RZWjZ4YXNHalVtMkRSQlpNVjFoQ1FlanVUdHRFNW5Kbkoyc1piVDlGMF9nNFM1S0ZSUURKWWZTc3ZlTHAtNFZ4QVdvNHlMeVdPUDQ4WW9R?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-02",
-      "summary": "MSFT Falls 0.216% as Microsoft Announces $1B Thailand AI Investment &nbsp;&nbsp; Meyka",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f0e73d017e9dc5",
-      "title": "OpenAI acquires tech industry podcast company TBPN",
-      "url": "https://siliconangle.com/2026/04/02/openai-acquires-tech-industry-podcast-tbpn/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-02",
-      "summary": "OpenAI Group PBC today announced that it has acquired the company behind TBPN, a popular tech industry podcast. The terms of the deal were not disclosed. According to The Wall Street Journal, TBPN expects to generate more than $30 million in advertising revenue this year. That suggests the buyout price was relatively small compared to [&#8230;] \n The post  OpenAI acquires tech industry podcast company TBPN  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$30 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
