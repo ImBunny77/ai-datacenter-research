@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-23T11:11:36.039847+00:00",
+  "last_updated": "2026-04-23T13:47:23.227037+00:00",
   "finding_count": 600,
-  "new_project_count": 105,
-  "cancellation_count": 27,
+  "new_project_count": 101,
+  "cancellation_count": 25,
   "sec_filing_count": 0,
-  "high_confidence_count": 182,
+  "high_confidence_count": 180,
   "findings": [
     {
       "id": "eb892b61047a9f",
@@ -23,6 +23,27 @@
       ],
       "amounts": [
         "$25 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0853336a23ca2c",
+      "title": "Microsoft expands AI footprint in Australia with $18 billion investment - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXdkUkRZVF9LblVKNGQ2cXpjeWFrQ19jNzNWNlRVQy1hc1NyZnphTHZjclJycWE5LU5LSm9OcE9FZVMtQm0wTDlZcXBzX2R0blJjWmtwRC0tV1hiSjNILTVrX1VWajF6eEowN3NuYjRKWFVYNVFOX1lIYUVMN2ltSVpjdFNEQXBKdzhMMzE1SmRoX3dYQy1ScGU0ZzYxd1RIQTlJdFJsVDdIN1nSAbABQVVfeXFMT2stNWM0ZTFOVW5sY1lEb3hObTBaRjFHOFhIMFh6d0xOQmN4X25QaGJlbF9LN05hbXkzSmpXTTktSEFxZHpCTXFzcnluaVJIOUpvY3ZISjFtZi01MXQ2emo2SnRtQlFCUF94REl5RDV6UThKc2pVU0ZXczRVUXFiZ29fbHpCVDF1SUJDczVNWGl6ZDFVRllJZ01uTkNfQjNYUGRGeFVTWWwxNTN6Q0ZnVDQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-23",
+      "summary": "Microsoft expands AI footprint in Australia with $18 billion investment &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "$18 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -112,19 +133,55 @@
       "is_high_confidence": true
     },
     {
-      "id": "7feb904ad05fe9",
-      "title": "Volt sets up joint venture in Dubai to deliver 29MW data center",
-      "url": "https://www.datacenterdynamics.com/en/news/volt-sets-up-joint-venture-in-dubai-to-deliver-29mw-data-center/",
+      "id": "5ca3cb28fc0bba",
+      "title": "Nscale partners with BT for more UK data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/nscale-partners-with-bt-for-more-uk-data-centers/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-04-23",
-      "summary": "Site could be expanded to 129MW",
+      "summary": "AI cloud firm targets 14MW across three BT sites",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [
+        "14MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "929345e6bc81fa",
+      "title": "Hyundai Heavy Industries inks 684MW natural gas turbine supply deal with Aperion to power US data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-inks-684mw-natural-gas-turbine-supply-deal-with-aperion-to-power-us-data-center-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Deal valued at $423.7m",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [
-        "29MW",
-        "129MW"
+        "684MW",
+        "$423.7m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "70080d336041d8",
+      "title": "Certarus secures 135MW onsite natural gas data center deal in US",
+      "url": "https://www.datacenterdynamics.com/en/news/certarus-secures-135mw-onsite-natural-gas-data-center-deal-in-us/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Operations at the site expected in mid-2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "135MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -147,6 +204,43 @@
       "is_high_confidence": true
     },
     {
+      "id": "7feb904ad05fe9",
+      "title": "Volt sets up joint venture in Dubai to deliver 29MW data center",
+      "url": "https://www.datacenterdynamics.com/en/news/volt-sets-up-joint-venture-in-dubai-to-deliver-29mw-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Site could be expanded to 129MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "29MW",
+        "129MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "492959e32c8615",
+      "title": "Microsoft expands plans for La Porte, Indiana, data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-expands-plans-for-la-porte-indiana-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Company seeks to rezone an adjacent property for future development",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "2ec2f412a46e01",
       "title": "Google Cloud inks AI infrastructure deal with Thinking Machines",
       "url": "https://siliconangle.com/2026/04/22/google-cloud-inks-ai-infrastructure-deal-thinking-machines/",
@@ -164,8 +258,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "d7e8b2a976c64f",
-      "title": "Microsoft pledges $18bn to expanding cloud and AI capacity in Australia",
+      "id": "0f84a8bd0e938a",
+      "title": "Microsoft pledges $18bn to expand cloud and AI capacity in Australia",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-18bn-to-expanding-cloud-and-ai-capacity-in-australia/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
@@ -195,6 +289,76 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ec536f5ec91248",
+      "title": "Braze launches agentic AI tools and Creative Studio, adds EU hosting for Decisioning Studio",
+      "url": "https://siliconangle.com/2026/04/23/braze-launches-agentic-ai-tools-creative-studio-adds-eu-hosting-decisioning-studio/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-23",
+      "summary": "Customer engagement platform company Braze Inc. today announced a new pair of agentic artificial intelligence tools for marketers and launched a new Creative Studio that links design software directly to live campaigns. The announcements include general availability of BrazeAI Operator and BrazeAI Agent Console, plus European Union hosting on Google Cloud for BrazeAI Decisioning Studio. [&#8230;] \n The post  Braze launches agentic AI tools and Creative Studio, adds EU hosting for Decisioning Stu",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d7e8b2a976c64f",
+      "title": "Microsoft pledges $18bn to expanding cloud and AI capacity in Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-18bn-to-expanding-cloud-and-ai-capacity-in-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Will be invested by end of 2029",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "011e2caf0a0fab",
+      "title": "Harford County, Maryland, could impose 90-day moratorium on data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/harford-county-maryland-could-impose-90-day-moratorium-on-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Bill was introduced yesterday",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maryland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7c974b4cb09da8",
+      "title": "Thor Equities looks to build 460,000 sq ft data center campus near Urbana, Ohio",
+      "url": "https://www.datacenterdynamics.com/en/news/thor-equities-looks-to-build-460000-sq-ft-data-center-campus-near-urbana-ohio/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "But a potential repeal of a zoning ordinance makes its fate uncertain",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -506,9 +670,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$30B",
         "$1B",
         "$1 billion",
+        "$30B",
         "$30 billion"
       ],
       "confidence": 5,
@@ -769,6 +933,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "3dd360dbfe0358",
+      "title": "Google Cloud Next ‘26",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-22",
+      "summary": "Here’s a look at what Google announced at Google Cloud Next ‘26.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "d0b18afd84cfde",
       "title": "CrowdStrike brings real-time Cloud Detection and Response to Google Cloud",
       "url": "https://siliconangle.com/2026/04/22/crowdstrike-brings-real-time-cloud-detection-response-google-cloud/",
@@ -815,23 +996,6 @@
       "companies": [
         "Google",
         "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3dd360dbfe0358",
-      "title": "Google Cloud Next ‘26",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-22",
-      "summary": "Here’s a look at what Google announced at Google Cloud Next ‘26.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -977,36 +1141,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4a4caa19818110",
-      "title": "ERCOT and MISO forecast huge increases in peak load, driven by data center demand",
-      "url": "https://www.datacenterdynamics.com/en/news/ercot-and-miso-forecast-huge-increases-in-peak-load-driven-by-data-center-demand/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-22",
-      "summary": "Both RTO's expect data centers to make up the bulk of electricity demand in the 2030s",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "45f32aec8f0ccf",
-      "title": "Rethinking location strategy: How long-term planning is reshaping Europe’s data center map",
-      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-location-strategy-how-long-term-planning-is-reshaping-europes-data-center-map/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-22",
-      "summary": "Why Tier II locations have become strategically significant",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b47b37aa14bc55",
       "title": "Google launches AI research agents powered by Gemini 3.1 Pro",
       "url": "https://siliconangle.com/2026/04/22/google-launches-ai-research-agents-powered-gemini-3-1-pro/",
@@ -1068,23 +1202,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "917966c2a4e12f",
-      "title": "Google delivers connective tissue for autonomous AI agents to access data without restrictions",
-      "url": "https://siliconangle.com/2026/04/22/google-delivers-connective-tissue-autonomous-ai-agents-access-data-without-restrictions/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-22",
-      "summary": "Google Cloud is turning the traditional enterprise data platform on its head, unveiling the Agentic Data Cloud infrastructure platform that aims to act as a kind of central nerve center for the era of artificial intelligence agents. In a blog post, Andi Gutmans, Google&#8217;s vice president and general manager of Data Cloud, explains that existing [&#8230;] \n The post  Google delivers connective tissue for autonomous AI agents to access data without restrictions  appeared first on  SiliconANGLE",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1238,6 +1355,53 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4a4caa19818110",
+      "title": "ERCOT and MISO forecast huge increases in peak load, driven by data center demand",
+      "url": "https://www.datacenterdynamics.com/en/news/ercot-and-miso-forecast-huge-increases-in-peak-load-driven-by-data-center-demand/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-22",
+      "summary": "Both RTO's expect data centers to make up the bulk of electricity demand in the 2030s",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "45f32aec8f0ccf",
+      "title": "Rethinking location strategy: How long-term planning is reshaping Europe’s data center map",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-location-strategy-how-long-term-planning-is-reshaping-europes-data-center-map/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-22",
+      "summary": "Why Tier II locations have become strategically significant",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "917966c2a4e12f",
+      "title": "Google delivers connective tissue for autonomous AI agents to access data without restrictions",
+      "url": "https://siliconangle.com/2026/04/22/google-delivers-connective-tissue-autonomous-ai-agents-access-data-without-restrictions/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-22",
+      "summary": "Google Cloud is turning the traditional enterprise data platform on its head, unveiling the Agentic Data Cloud infrastructure platform that aims to act as a kind of central nerve center for the era of artificial intelligence agents. In a blog post, Andi Gutmans, Google&#8217;s vice president and general manager of Data Cloud, explains that existing [&#8230;] \n The post  Google delivers connective tissue for autonomous AI agents to access data without restrictions  appeared first on  SiliconANGLE",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3253,23 +3417,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3acd294c80571d",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-17",
-      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1d880a5a29aa69",
       "title": "Maine Said No to New Data Centers. Other States Are Racing to Follow. - Mother Jones",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkFXUjRxZ1NtN3ZKaEFpS0JJdnIyTFB3S3FPeVNPTzJFSnlnb2o1RFc0X0RUMERyV3hFNkZYSFZLbUlMTVNmWE0wUV90ejhCdkNSaVluVDFGVDA5bUM1R0ZxTjBMNUdmYjY2S2xST09mc2h5bmJZQ29KV0xHQmZ2MGczX3M2MGZ4N3ZsdFpHNEp0ZFZEWGNyWnl1RXU?oc=5",
@@ -3282,6 +3429,23 @@
       "locations": [
         "Maine"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3acd294c80571d",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-17",
+      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9554,6 +9718,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7b7da94a440d3e",
+      "title": "OpenAI, WHOOP gains lift SuRo Capital as Magnetar joins adviser plan - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1RsWkhHTzNOckRPd0tGcEluN1F2bmN2VHZFU3MwT056aF9NWmd5YWFmQ216ZUowamVwRkNla0xVTGp6RS1pUVZqbTRKXzQwcXlRbnRYbjdybElSMnpfYzNqcVNOeFR0NlJtMjB5WEdSMDYxTFU1NUk5Vkp2eTlEVDdrU2lsZWZqWGtLeW5nWVd1OHFaNWFwd08zU1Z5WjBmWG5xQkZtRVZSdzlhbHZSUm40Ylp3NGM?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-04-07",
+      "summary": "OpenAI, WHOOP gains lift SuRo Capital as Magnetar joins adviser plan &nbsp;&nbsp; Stock Titan",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9d8066b504f47e",
       "title": "Launching S3 Files, making S3 buckets accessible as file systems",
       "url": "https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/",
@@ -9599,23 +9780,6 @@
       "summary": "Chris Koopman and Kevin Frazier: The problem with pausing data centers &nbsp;&nbsp; TribLIVE.com",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7b7da94a440d3e",
-      "title": "OpenAI, WHOOP gains lift SuRo Capital as Magnetar joins adviser plan - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1RsWkhHTzNOckRPd0tGcEluN1F2bmN2VHZFU3MwT056aF9NWmd5YWFmQ216ZUowamVwRkNla0xVTGp6RS1pUVZqbTRKXzQwcXlRbnRYbjdybElSMnpfYzNqcVNOeFR0NlJtMjB5WEdSMDYxTFU1NUk5Vkp2eTlEVDdrU2lsZWZqWGtLeW5nWVd1OHFaNWFwd08zU1Z5WjBmWG5xQkZtRVZSdzlhbHZSUm40Ylp3NGM?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-04-07",
-      "summary": "OpenAI, WHOOP gains lift SuRo Capital as Magnetar joins adviser plan &nbsp;&nbsp; Stock Titan",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10183,23 +10347,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b22c750fb04030",
-      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-06",
-      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "33655d0ac54bae",
       "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0ZGNkxMclFrajIydXRYLUctdlFqSWVjMGpvX0VlWVBoTGpuUkZVTFctLUgwOUdqNVowVVBHMlRGLTN2bXM0UzcwbGFBYTItUzAyc00yVFlSQVhXVF9uT3pXd3F4emF1dF9qNDdTQUFma3E4WVJyM1U5NlpiM1Q2RXc0WEVyOWZtTU5Ic19RSjJGTzBJNm8yYUsxNDNoZ3A3RUZsRUpTd2Q2YllrZ2VR?oc=5",
@@ -10210,6 +10357,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b22c750fb04030",
+      "title": "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-devops-agent-security-agent-ga-product-lifecycle-updates-and-more-april-6-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-06",
+      "summary": "Last week, I visited AWS Hong Kong User Group with my team. Hong Kong has a small but strong community, and their energy and passion are high. They recently started a new AI user group, and we hope more people will join. I was able to strengthen my bond with the community through great food […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10417,182 +10581,6 @@
       ],
       "amounts": [],
       "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "643962bbd249dd",
-      "title": "Microsoft to invest $10 bil for Japan AI data centers - japantoday.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjEyYnRLTnM3UFhicWJLbVpnb0RJSmMtcXNXV3J0OUpDYlhwNnpiZ2F5ZU9QdVRzWVVPWFhrci1CX2RacERVTkR1U042OXRnckI5bjlpTjJaYTd0TWdZcFFoc0x1VkFMbGlWTHB4OWpfaVVoSko3WTJLOElvM0RIMVNhcGJ0OUwxckVDTk01YzhjQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-04",
-      "summary": "Microsoft to invest $10 bil for Japan AI data centers &nbsp;&nbsp; japantoday.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e95af35f43a200",
-      "title": "Reaffirming our commitment to child safety in the face of European Union inaction",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-04",
-      "summary": "Image of Google, Meta, Microsoft and Snapchat logos",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Google",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d0e0a8148f51ab",
-      "title": "Maine Set to Become First State to Halt New AI Data Centers - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-04",
-      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; Broadband Breakfast",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Maine"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fe913271e79bfd",
-      "title": "Maine Set to Become First State to Halt New AI Data Centers - broadbandbreakfast.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnVhYVdLczBSUDhVbnlEQjdqcVVVOGtqT1BDVnBBSFpkVkc2bGhXTjF2aGE2WDFaMV9KaUkzZnl2akQ4ai1RUmdZeVJsOWlWaUFkTlh3OHdKT1EzTEEzcWNWdWp4ZFJTR014dFgyd2hvU3dXMVNZcm5hX2F5NWdJR1hIWkg5VTRPdXBpRjBTeVFNN2FLWkE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-04",
-      "summary": "Maine Set to Become First State to Halt New AI Data Centers &nbsp;&nbsp; broadbandbreakfast.com",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Maine"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3248d6243f6e02",
-      "title": "Microsoft invests $10 billion in AI data centers in Japan - Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNnVjRLUl9EUC03UmxBWllLaXNBZ0tZWnc2NXp2MjNxeHVUN2FBaHRPb2RpNmlFX3kxY0lJNEd3WjJJYTNjbHA5UzIxbWRDMVBLa2pJSk5rNFNZMmJCTUJJNENuaTgycXhndVBXdzNlRWlIdDFaM1ZScWNPdDBEcVNoejR4TEFEbU84bWR30gGMAUFVX3lxTE8tSnhKQTY4TzZOSHdzdFozbXVwSkdXWnB2U0wyN212X1E1M09lT0xDZW1lSnc1c2p5SmtHYnBKeDlGQURQSUd4UXpzRTllUDJNeUhiZGttT3VFV2VCd29mZUU0UFAxOG1xZnBzRnhEbzBjYUpoUDgyeXRaR1Y2RnVQbnRWcWxSanFCUWR2?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-03",
-      "summary": "Microsoft invests $10 billion in AI data centers in Japan &nbsp;&nbsp; Українські Національні Новини (УНН)",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c87a9ae6f6c206",
-      "title": "Microsoft invests $10 billion in AI data centers in Japan - unn.ua",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNnVjRLUl9EUC03UmxBWllLaXNBZ0tZWnc2NXp2MjNxeHVUN2FBaHRPb2RpNmlFX3kxY0lJNEd3WjJJYTNjbHA5UzIxbWRDMVBLa2pJSk5rNFNZMmJCTUJJNENuaTgycXhndVBXdzNlRWlIdDFaM1ZScWNPdDBEcVNoejR4TEFEbU84bWR30gGMAUFVX3lxTE8tSnhKQTY4TzZOSHdzdFozbXVwSkdXWnB2U0wyN212X1E1M09lT0xDZW1lSnc1c2p5SmtHYnBKeDlGQURQSUd4UXpzRTllUDJNeUhiZGttT3VFV2VCd29mZUU0UFAxOG1xZnBzRnhEbzBjYUpoUDgyeXRaR1Y2RnVQbnRWcWxSanFCUWR2?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-03",
-      "summary": "Microsoft invests $10 billion in AI data centers in Japan &nbsp;&nbsp; unn.ua",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3a164a2b1d8c9c",
-      "title": "Microsoft to invest $10 billion in Japan for data centers and artificial intelligence - Agenzia Nova",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3JMemFnSWxsb3JhQU8tMjlxLU9QM2FoQTBsU2pOQnNEOEd3eTJjZmhVQ2MwZUZJY2NYU1ZzSFpCSHhHZWVWenB3NFF2STh5UjMzSWpYbW80aHpSRy1TYTJIeEZTdk5hdGVUcnJLaUo3a1FjNTdFaHlIR25fSW5BVTdsUXpmcTMydkd1Nkp2dWd4b3RLdVRhQnlJOEpwRUJoSXpQcWMwTFJvSHJRSHBPUFJqdjdORWE5UDhPSE40OE43UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-03",
-      "summary": "Microsoft to invest $10 billion in Japan for data centers and artificial intelligence &nbsp;&nbsp; Agenzia Nova",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b38ae863fab691",
-      "title": "Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure, cybersecurity, and workforce - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSmJJc1MtaElhWjBueGJuanlHTXo1aS0wMzc4a3VlYnNpWkt6WWVzajltc0FyMl91aGRTS19teE1hM0VnS0JkdkVzN3N0ZDNXNi03SEVXN2xCTThQSEw0TlUzc1RYY0k1YVRKNGdldWFpXzFTMF9lN2FnU25sTzFkUW5sMWxKU2tEc3VmUVNQMVhVMGVNZWdmYjQ0TmJTV0FQTm1JQVJ1d3E3YW1McmtPMUM1UDh1aDJlWUNJMUltcW40ZG1WMXJyRm9TRWpaWkZpamVMU24yeG9QcnNCSF9TYnBtb2NUZTJ5UFFWR1dvSG1CTFM3OEI4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-03",
-      "summary": "Microsoft deepens its commitment to Japan with $10 billion investment in AI infrastructure, cybersecurity, and workforce &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6d8e880d93cb30",
-      "title": "SpaceX’s stratospheric IPO hopes, OpenAI’s ridiculous round and the agentic AI gap",
-      "url": "https://siliconangle.com/2026/04/03/spacexs-stratospheric-ipo-hopes-openais-ridiculous-round-agentic-ai-gap/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-03",
-      "summary": "Can Elon Musk pull off the mother of all IPOs? This week his SpaceX reportedly filed confidentially for a $75 billion initial public offering that could value it at $1.75T. It would be the largest IPO ever, and investors seem to be lining up. Given the state of the world and the economy, there&#8217;s a lot [&#8230;] \n The post  SpaceX&#8217;s stratospheric IPO hopes, OpenAI&#8217;s ridiculous round and the agentic AI gap  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$75 billion",
-        "$1.75T"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
