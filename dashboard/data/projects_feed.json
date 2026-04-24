@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-04-24T09:46:16.399568+00:00",
+  "last_updated": "2026-04-24T11:07:16.615352+00:00",
   "finding_count": 600,
   "new_project_count": 99,
   "cancellation_count": 26,
   "sec_filing_count": 0,
-  "high_confidence_count": 174,
+  "high_confidence_count": 176,
   "findings": [
+    {
+      "id": "7f4893b06e48ca",
+      "title": "AirTrunk completes installation of 1MW rooftop solar array at JHB1 data center in Johor, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-completes-installation-of-1mw-rooftop-solar-array-at-jhb1-data-center-in-johor-malaysia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "Will complement a 30MW vPPA signed in 2024",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [
+        "30MW",
+        "1MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "22f01add26ccc2",
+      "title": "Keppel starts work on floating data center in Singapore",
+      "url": "https://www.datacenterdynamics.com/en/news/keppel-starts-work-on-floating-data-center-in-singapore/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "~25MW project due live in 2028, already secured hyperscale customer",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "25MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "75a292a8a26e00",
+      "title": "Spain's NxN to opens its first data center in Madrid",
+      "url": "https://www.datacenterdynamics.com/en/news/nxn-unveils-its-first-operations-center-in-madrid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "Project is part of a plan to invest up to €500 million over the next five years in Spain and Portugal",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
     {
       "id": "ccc0bb7ef6b385",
       "title": "Sany International announces plans for data center in Timișoara, Romania",
@@ -19,6 +75,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34d6c6ea83b65d",
+      "title": "Oklo partners with Nvidia & Los Alamos on AI-driven advanced nuclear infrastructure development",
+      "url": "https://www.datacenterdynamics.com/en/news/oklo-partners-with-nvidia-los-alamos-on-ai-driven-advanced-nuclear-infrastructure-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "Research to be completed at the national lab in New Mexico",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "New Mexico"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "69c198b5a03892",
+      "title": "DCD>Talks: Integrated support across the power stack with David Burke, Rehlko's Clarke Energy",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-integrated-support-across-the-power-stack-with-david-burke-rehlkos-clarke-energy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "David Burke from Rehlko’s Clarke Energy explores integrated power support for reliable, high-performance data centers with DCD’s Zoe Turner.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -176,9 +266,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$120 million",
         "$120M",
-        "$1.5 billion"
+        "$1.5 billion",
+        "$120 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -245,6 +335,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "ef1fbb926850ca",
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-23",
+      "summary": "Aerial image of the data center",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "5ca3cb28fc0bba",
       "title": "Nscale partners with BT for more UK data centers",
       "url": "https://www.datacenterdynamics.com/en/news/nscale-partners-with-bt-for-more-uk-data-centers/",
@@ -260,23 +367,6 @@
       "amounts": [
         "14MW"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ef1fbb926850ca",
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-23",
-      "summary": "Aerial image of the data center",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -372,25 +462,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "492959e32c8615",
-      "title": "Microsoft expands plans for La Porte, Indiana, data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-expands-plans-for-la-porte-indiana-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-23",
-      "summary": "Company seeks to rezone an adjacent property for future development",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "2ec2f412a46e01",
       "title": "Google Cloud inks AI infrastructure deal with Thinking Machines",
       "url": "https://siliconangle.com/2026/04/22/google-cloud-inks-ai-infrastructure-deal-thinking-machines/",
@@ -423,6 +494,25 @@
         "OpenAI"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "492959e32c8615",
+      "title": "Microsoft expands plans for La Porte, Indiana, data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-expands-plans-for-la-porte-indiana-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Company seeks to rezone an adjacent property for future development",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Indiana"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -614,23 +704,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e46be6e93d7d3e",
-      "title": "Mayor of Mansfield, Ohio, says city will \"no longer pursue\" data center project",
-      "url": "https://www.datacenterdynamics.com/en/news/mayor-of-mansfield-ohio-says-city-will-no-longer-pursue-data-center-project/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-23",
-      "summary": "Comes as a blow to data center developer EnergiAcres",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3863920cbb8913",
       "title": "OpenAI releases GPT-5.5 with advanced math, coding capabilities",
       "url": "https://siliconangle.com/2026/04/23/openai-releases-gpt-5-5-advanced-math-coding-capabilities/",
@@ -778,6 +851,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e46be6e93d7d3e",
+      "title": "Mayor of Mansfield, Ohio, says city will \"no longer pursue\" data center project",
+      "url": "https://www.datacenterdynamics.com/en/news/mayor-of-mansfield-ohio-says-city-will-no-longer-pursue-data-center-project/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-23",
+      "summary": "Comes as a blow to data center developer EnergiAcres",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10486,83 +10576,6 @@
       "locations": [
         "Utah"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a331ddf9938d6d",
-      "title": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now - aol.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YQUNWWUZQNk1sUEVUQjJmU2lQYWRHQk5WeVhOTG9FNW5ycGZZN0p2Z09OajFxSXVqMGhmZjFNYXBNODR2THpTVmM0dTBiYldNNWpjVTg0T2J5V25odWwxZ2xXXzg3M3NuRFpVWm5aQQ?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-04-07",
-      "summary": "Got $1,000? Nvidia vs. Palantir — Only One Deserves Your Money Right Now &nbsp;&nbsp; aol.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4b0aba302a120a",
-      "title": "Choosing the right liquid cooling architecture to deploy accelerated compute AI in data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/choosing-the-right-liquid-cooling-architecture-to-deploy-accelerated-compute-ai-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "Unlock performance and sustainability benefits while enabling the move to rapidly increase kilowatts per rack",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5661739255f22a",
-      "title": "Construction worker rescued from roof of data center site after injury",
-      "url": "https://www.datacenterdynamics.com/en/news/construction-worker-rescued-from-roof-of-data-center-site-after-injury/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "Worker said to be in serious but stable condition",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3c78938338d02b",
-      "title": "Indianapolis city councilor’s home shot at least 13 times, “NO DATA CENTERS” sign found at doorstep",
-      "url": "https://www.datacenterdynamics.com/en/news/indianapolis-city-councilors-home-shot-at-least-13-times-no-data-centers-sign-found-at-doorstep/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "No one was harmed",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2659a3ad16f128",
-      "title": "Blackstone acquires 49 percent of data center firm Rowan - report",
-      "url": "https://www.datacenterdynamics.com/en/news/blackstone-acquires-49-percent-of-data-center-firm-rowan-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-07",
-      "summary": "Follows rumors of a deal last month",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
