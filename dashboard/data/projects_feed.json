@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-27T15:53:35.458913+00:00",
+  "last_updated": "2026-04-27T17:23:56.050808+00:00",
   "finding_count": 600,
-  "new_project_count": 109,
-  "cancellation_count": 23,
+  "new_project_count": 108,
+  "cancellation_count": 21,
   "sec_filing_count": 0,
-  "high_confidence_count": 183,
+  "high_confidence_count": 184,
   "findings": [
     {
       "id": "0cc918c21ec13c",
@@ -82,6 +82,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "2a0faea93e1a9c",
+      "title": "Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/microsoft-sovereign-private-cloud-scales-to-thousands-of-nodes-with-azure-local/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-27",
+      "summary": "Today, I am pleased to announce that Azure Local now scales to support deployments of up to thousands of servers within a single sovereign environment, allowing organizations to run much larger workloads locally across large-footprint datacenters, industrial environments and edge locations while maintaining control within their sovereign boundary. Organizations operating national infrastructure, regulated workloads or... \n The post  Microsoft Sovereign Private Cloud scales to thousands of nodes ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "300c1af80a8ea1",
       "title": "Oracle secures necessary funding for Michigan data center",
       "url": "https://www.datacenterdynamics.com/en/news/or/",
@@ -137,6 +154,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "d19c30acf816c8",
+      "title": "DCD Intelligence: Financing the Data Center Buildout",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcd-intelligence-financing-the-data-center-buildout/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "How investment decisions are evolving in the modern data center sector",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "6ae398e55493fe",
       "title": "Google plans to invest up to $40bn in Anthropic",
       "url": "https://www.datacenterdynamics.com/en/news/google-plans-to-invest-up-to-40bn-in-anthropic/",
@@ -152,6 +184,51 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "31ed65c98d9ff8",
+      "title": "DCD>Studio: Building the AI Edge across Europe, with Anwar Saliba, nLighten",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-the-ai-edge-across-europe-with-anwar-saliba-nlighten/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Seb Moss speaks with Anwar Saliba of nLighten on scaling European edge platforms, decentralizing infrastructure, and how AI inference, sustainability, and data sovereignty are reshaping data center design.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "935ae0c7d05e00",
+      "title": "Strategic framework proposed for data center applications in the state of Lower Austria",
+      "url": "https://www.datacenterdynamics.com/en/news/strategic-framework-proposed-for-data-center-applications-in-the-state-of-lower-austria/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Draft legislation intended to harness surging demand for data centers while preventing runaway power consumption by sector, says ruling party",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "63b7c5d45adc67",
+      "title": "Transforming global hyperscale data center efficiency with Octave Attune EAM",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/transforming-global-hyperscale-data-center-efficiency-with-octave-attune-eam/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Unify operations, boost uptime, and scale sustainable data center performance.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -327,8 +404,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -370,21 +447,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "fe28a8861952c3",
-      "title": "Sponsored: Data center dilemma: How hyperscalers can meet AI-driven timelines without limiting renewable energy options",
-      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-dilemma-how-hyperscalers-can-meet-ai-driven-timelines-without-limiting-renewable-energy-options/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-25",
-      "summary": "By treating the control and data architecture as a core component of the build, rather than an afterthought, operators can move quickly today without sacrificing flexibility tomorrow",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ea207c4ccca427",
       "title": "Google’s AI agent platform takes pole position but work remains",
       "url": "https://siliconangle.com/2026/04/25/googles-ai-agent-platform-takes-pole-position-work-remains/",
@@ -396,6 +458,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fe28a8861952c3",
+      "title": "Sponsored: Data center dilemma: How hyperscalers can meet AI-driven timelines without limiting renewable energy options",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-dilemma-how-hyperscalers-can-meet-ai-driven-timelines-without-limiting-renewable-energy-options/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-25",
+      "summary": "By treating the control and data architecture as a core component of the build, rather than an afterthought, operators can move quickly today without sacrificing flexibility tomorrow",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -772,18 +849,16 @@
       "is_high_confidence": false
     },
     {
-      "id": "4ba0cdfe63b3fd",
-      "title": "$4bn data center rejected by Nobles County, Minnesota",
-      "url": "https://www.datacenterdynamics.com/en/news/4bn-data-center-rejected-by-nobles-county-minnesota/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "2c96e9c41f14f5",
+      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-24",
-      "summary": "County officials prevent data centers from being added as a use category",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy &nbsp;&nbsp; U.S. News Money",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [
-        "Minnesota"
-      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -923,6 +998,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4ba0cdfe63b3fd",
+      "title": "$4bn data center rejected by Nobles County, Minnesota",
+      "url": "https://www.datacenterdynamics.com/en/news/4bn-data-center-rejected-by-nobles-county-minnesota/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-24",
+      "summary": "County officials prevent data centers from being added as a use category",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Minnesota"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9119,8 +9211,8 @@
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-09",
       "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
@@ -10510,110 +10602,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c7f5cf55239e9b",
-      "title": "TikTok to invest €1bn in second Finnish data center",
-      "url": "https://www.datacenterdynamics.com/en/news/tiktok-to-invest-1bn-in-second-finnish-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-08",
-      "summary": "Comes after the company pulled back on plans for its Ireland location",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3768cb4968c97c",
-      "title": "TikTok invests €1 billion in a data center in Finland - logos-pres.md",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2lzQlNqMThCd2tiMEdQdThMbmN0a2NCZGs5QWxORHdHd2pUYXhOWXBMcUp1dUQ5cEFzUlpUYjRmUS1HZDc3ekpvSHNsaHp2U3VuYlZyTlBsQ0pjbUxtLXZlcGR3aEhFc1N4SVpaTDNYRlZzTThDVjI1TmNmRXRwcDgteGs3blZuWDhjWQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-08",
-      "summary": "TikTok invests €1 billion in a data center in Finland &nbsp;&nbsp; logos-pres.md",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "02da72beb5f943",
-      "title": "TikTok will invest 1 billion in a data center in Finland to reinforce the security of European users - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVENfRWdod2VqWnd3RmpMbGhRZDA5SHlRakw1M0dka0dxMXNGQ2F2WVcyM1BXZzlUaVh5NWgyN2tfQnBsT3ZIbTRlazNBTTZuY1M2WGxjVnJORTdvbXZYdnBrYkRKNlZZNFhiZWIxRHVoQkdXSl94ajFBb05nZkJZcWd4dmE4ZXVfY3pLaEFZWW9jaXI0RWNYcS05ckY1ODZoTGJlRTMtcFlUZVlpejBpVlpnYWpXQ1I5U1pDQTQ2UU1TYlI1cldLY2syejhMa3lOekow0gHYAUFVX3lxTE4wOVJ1WG1TVk80SWllZUtPa292MF8zX2pWb09qd1R2dEk1Rl95cWY3RGduN2FVVmFJRE5oOUJuVnRwY3RkMElHSUdNcDJZNjg0LUJZS0NjbVlPU1p2RHo3eGFGTWo0TTk3QXhWZVRnZWdIWm5wZm1FUjA0dXhMWjE2SU4yTTdEdnIwdFotdVJhT3puZVlkdmEya2pqOXNCaTJGa1BzM0JGV1R1bkZOb21BYmxDX0VhZm1mMzJpV3pDSEg1a3NhSUw3dnRPRW8ycVoyZHVwTmVubg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-08",
-      "summary": "TikTok will invest 1 billion in a data center in Finland to reinforce the security of European users &nbsp;&nbsp; Demócrata",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2af4842d423d76",
-      "title": "Is another Amazon data center coming to Madison County? - clarionledger.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2VNMGVISlRsbkY2aFBjUnpOWENJZkpzVnAwY2x2bEJfT3hEQkE1Zm8yWk02SHQyLXlKeDZrSFBFWU13M2lRcEQxUGhFRjQ2YTRUQWVCejJFM0pRU20xMkJaOVR3Rm9lSC1STUxKYUJrX0xKNVZSN1lFSGNFUl9sTGwtOE9aNkRSdUhLblZwZjVidWh2Ym1oek9hUTJXZ3N0SjJvZzhablpPZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-08",
-      "summary": "Is another Amazon data center coming to Madison County? &nbsp;&nbsp; clarionledger.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fe218e3edbf011",
-      "title": "Gradiant to build water treatment facility for planned data center in Didcot, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/gradiant-to-build-water-treatment-facility-for-planned-data-center-in-didcot-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-08",
-      "summary": "Data center reportedly being developed by Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "54265d1034b2b1",
-      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-08",
-      "summary": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
