@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-28T14:19:22.339509+00:00",
+  "last_updated": "2026-04-28T17:47:58.851743+00:00",
   "finding_count": 600,
-  "new_project_count": 118,
-  "cancellation_count": 21,
+  "new_project_count": 119,
+  "cancellation_count": 20,
   "sec_filing_count": 0,
-  "high_confidence_count": 190,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "fbed741142a99c",
@@ -76,10 +76,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$5.1B",
         "$1.1B",
         "$5.1 billion",
-        "$1.1 billion"
+        "$1.1 billion",
+        "$5.1B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -101,6 +101,61 @@
         "$15 Billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "055f175f854188",
+      "title": "Utah Planning Commission delays decision on Kevin O’Leary-backed data center project",
+      "url": "https://www.datacenterdynamics.com/en/news/utah-planning-commission-delays-decision-on-kevin-oleary-backed-data-center-project/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Up to 9GW project has already secured backing from Utah's Military Installation Development Authority",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [
+        "9GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e4176a1139af5d",
+      "title": "Anan Data Center to provide 40MW AI infrastructure for Crusoe in Israel",
+      "url": "https://www.datacenterdynamics.com/en/news/anan-data-center-to-provide-40mw-ai-infrastructure-for-crusoe-in-israel/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Contract has an estimated value of \"hundreds of millions of dollars\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "40MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2047a0cd3def84",
+      "title": "Core Scientific secures 300MW capacity at Pecos data center in Texas, looks to behind-the-meter power",
+      "url": "https://www.datacenterdynamics.com/en/news/core-scientific-secures-300mw-capacity-at-pecos-data-center-in-texas-looks-to-behind-the-meter-power/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "First phase of HPC hosting capacity due live next year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "300MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -193,6 +248,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "78960e95a994cc",
+      "title": "Google breaks ground on $15bn data center project in India",
+      "url": "https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-15bn-data-center-project-in-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Groundbreaking ceremony took place on April 28",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "7a8a2d858cd3b0",
       "title": "Why Google-Adani, Reliance are turning to Vizag for building billion-dollar AI data centre hubs - Mint",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLTJ3QVlnMGdwY3ZrS1l3MGZubjd0OHV4QmdQb2ZUMGRuOGgzVjY0LWw5cENZSFo1OWlhSmdtc2YyWThad2c5dGhLTDM0ZzZJLU9DQzJ3T2hKem5PUWJXa3BhQ2hNQ2FZdm5vbTJOT3V2M3AzVUVhTUxNS1d0RHZmdnlKZGNUei1QWnNUWnllZC0zckNNZHRFenZJdG05YnpicFRwcXgyelRGTVAybV9CUXZOejlKbzNYdW5rcVhEeVNmamZTeWNFNkE4UFZtUTJ5RnVDcmszM3JUdHAwUE95VtIB5gFBVV95cUxNcmVWNGF0N2tlNVZueHBhbDFmNkNQUExqaVJsM1Y1YWVybzFXd1I3UXY0RUtfZW9rYWFuQkdNYTMyNVFtakJ5TlVLZC1XRVV2V3RQWGk2bll6MlNkQlJJMnVxRWpXTk1ZVDBXVEZLcUxyeUxYX2xDbjNBSU1IQURLa0REbVlBS1EwUTBBaXBCZy1oYjJsblFEN3dBWkJxblZEa2VyMWhwcXJlanNOSldWUEtkcUxiaTdTVzlQek5FamhxUFBnOWxnVTE2Mm5rZVFrQlo5VUpCMXpzU0lfdWJnLW5ZM0xRZw?oc=5",
@@ -203,6 +277,23 @@
       "finding_type": "New Project",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "85519ea6e15fac",
+      "title": "Nvidia introduces Nemotron 3 Nano Omni with vision and speech for powerful agentic AI use",
+      "url": "https://siliconangle.com/2026/04/28/nvidia-introduces-nemotron-3-nano-omni-vision-speech-powerful-agentic-ai-use/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "Nvidia Corp. today launched a powerful reasoning artificial intelligence model that unifies text, vision and speech, capable of acting as the “brains” of faster, smarter agentic AI applications.  Dubbed Nemotron 3 Nano Omni, and weighing in at about 30 billion parameters, the new state-of-the-art model uses mixture-of-experts architecture to deliver extremely low latency and provides high flexibility and control.  Nvidia combined vision and audio [&#8230;] \n The post  Nvidia introduces Nemotron ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -229,15 +320,98 @@
       "is_high_confidence": false
     },
     {
-      "id": "71d56e8a21a1f7",
-      "title": "DCD>Studio: Building a French data center company, with Arnaud de Bermingham, OpCore",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-a-french-data-center-company-with-arnaud-de-bermingham-opcore/",
+      "id": "9582926694a56a",
+      "title": "I Squared Capital acquires Brazilian data center firm Elea",
+      "url": "https://www.datacenterdynamics.com/en/news/i-squared-capital-acquires-brazilian-data-center-firm-elea/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-04-28",
-      "summary": "Seb Moss speaks with Arnaud de Bermingham of OpCore about geopolitical shifts driving European data sovereignty demand and AI reshaping data center power density requirements.",
+      "summary": "Terms not shared, joins likes of Kio, Exa, and nLighten under I Squared's ownership",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b4ead2dee75e5",
+      "title": "Welsh data center proposal rejected by local council",
+      "url": "https://www.datacenterdynamics.com/en/news/welsh-data-center-proposal-rejected-by-local-council/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Anglesey County Council rejected planning for the former Octel Factory in Amlwch",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c080b0fb39ff33",
+      "title": "Microsoft's Azure Local offering now scales up to 1,000s of servers",
+      "url": "https://www.datacenterdynamics.com/en/news/microsofts-azure-local-offering-now-scales-up-to-1000s-of-servers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Can now be a large-scale sovereign offering",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "77df7269587d38",
+      "title": "AWS accelerates enterprise agentic automation with expanded Amazon Connect portfolio",
+      "url": "https://siliconangle.com/2026/04/28/aws-accelerates-enterprise-agentic-automation-expanded-amazon-connect-portfolio/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "Amazon Web Services Inc. is moving agentic artificial intelligence up the software stack with the launch today of an expanded Amazon Connect portfolio, which has evolved into four distinct offerings that aim to automate complex, industry-specific workflows. The expansion effectively rebrands the original Amazon Connect cloud contact center service into Amazon Connect Customer AI, while [&#8230;] \n The post  AWS accelerates enterprise agentic automation with expanded Amazon Connect portfolio  app",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "414a45e22b187e",
+      "title": "Amazon revamps Quick as a proactive desktop app that gets work done",
+      "url": "https://siliconangle.com/2026/04/28/amazon-revamps-quick-proactive-desktop-app-gets-work-done/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "Amazon.com Inc. is digging further into the artificial intelligence assistant game today with a major update to Amazon Quick. Whereas other chatbots offer tons of promise but often result in more work for the user, the revamped Amazon Quick is billed as a deeply personalized and proactive assistant that lives within user’s desktops to get [&#8230;] \n The post  Amazon revamps Quick as a proactive desktop app that gets work done  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4df3d793c6dfe9",
+      "title": "Amazon Connect’s second act: From contact center to agentic AI suite",
+      "url": "https://siliconangle.com/2026/04/28/amazon-connects-second-act-contact-center-agentic-ai-suite/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "It has been just under a decade since Amazon Web Services Inc. launched Amazon Connect, taking its own internal contact center-as-a-service solution and commercialized it. At the time, there were many doubts about whether it could succeed in a mature market with several established vendors. The company loaded Connect up with artificial intelligence features long before AI [&#8230;] \n The post  Amazon Connect’s second act: From contact center to agentic AI suite  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -279,6 +453,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "62306fbf7f29c9",
+      "title": "The great American data center divide",
+      "url": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-28",
+      "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "863beebe2166af",
+      "title": "Unlocking human ambition to drive business growth with AI",
+      "url": "https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-28",
+      "summary": "As our customers progress toward becoming Frontier Firms, they are using AI not only to optimize how work gets done, but to reinvent their business on the promise of growth. Organizations can now unlock creativity, accelerate innovation and democratize intelligence by bringing Copilots and agents directly into the tools people love and use every day.... \n The post  Unlocking human ambition to drive business growth with AI  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3b119bbf88b4d3",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-28",
+      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "bc7dd9353eae58",
       "title": "We’re donating Agent Payments Protocol to the FIDO Alliance to support the future of secure, agentic payments.",
       "url": "https://blog.google/products-and-platforms/platforms/google-pay/agent-payments-protocol-fido-alliance/",
@@ -290,6 +513,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "71d56e8a21a1f7",
+      "title": "DCD>Studio: Building a French data center company, with Arnaud de Bermingham, OpCore",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-a-french-data-center-company-with-arnaud-de-bermingham-opcore/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-28",
+      "summary": "Seb Moss speaks with Arnaud de Bermingham of OpCore about geopolitical shifts driving European data sovereignty demand and AI reshaping data center power density requirements.",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -345,8 +583,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$2 billion",
-        "$3 billion"
+        "$3 billion",
+        "$2 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -538,21 +776,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d19c30acf816c8",
-      "title": "DCD Intelligence: Financing the Data Center Buildout",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcd-intelligence-financing-the-data-center-buildout/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-27",
-      "summary": "How investment decisions are evolving in the modern data center sector",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "d9c2cbcde9013f",
       "title": "The third leg of AI’s infrastructure race isn’t silicon or power. It’s capital",
       "url": "https://siliconangle.com/2026/04/27/third-leg-ais-infrastructure-race-isnt-silicon-power-capital/",
@@ -564,6 +787,21 @@
       "companies": [
         "NVIDIA"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d19c30acf816c8",
+      "title": "DCD Intelligence: Financing the Data Center Buildout",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcd-intelligence-financing-the-data-center-buildout/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "How investment decisions are evolving in the modern data center sector",
+      "finding_type": "New Project",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -588,68 +826,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "31ed65c98d9ff8",
-      "title": "DCD>Studio: Building the AI Edge across Europe, with Anwar Saliba, nLighten",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-the-ai-edge-across-europe-with-anwar-saliba-nlighten/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-27",
-      "summary": "Seb Moss speaks with Anwar Saliba of nLighten on scaling European edge platforms, decentralizing infrastructure, and how AI inference, sustainability, and data sovereignty are reshaping data center design.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "935ae0c7d05e00",
-      "title": "Strategic framework proposed for data center applications in the state of Lower Austria",
-      "url": "https://www.datacenterdynamics.com/en/news/strategic-framework-proposed-for-data-center-applications-in-the-state-of-lower-austria/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-27",
-      "summary": "Draft legislation intended to harness surging demand for data centers while preventing runaway power consumption by sector, says ruling party",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "63b7c5d45adc67",
-      "title": "Transforming global hyperscale data center efficiency with Octave Attune EAM",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/transforming-global-hyperscale-data-center-efficiency-with-octave-attune-eam/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-27",
-      "summary": "Unify operations, boost uptime, and scale sustainable data center performance.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0fd120c6b00fc4",
-      "title": "Singtel's RE:AI teams up with Mistral AI on sovereign offering in Singapore",
-      "url": "https://www.datacenterdynamics.com/en/news/singtels-reai-teams-up-with-mistral-ai-on-sovereign-offering-in-singapore/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-27",
-      "summary": "Will use RE:AI's GPUs and Nxera data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "04d07e28999968",
       "title": "Cloud cost optimization becomes an enterprise mandate as AI bills spiral",
       "url": "https://siliconangle.com/2026/04/27/cloud-cost-optimization-unlocks-ai-economics-googlecloudnext/",
@@ -660,23 +836,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "755ee1f4f89cbe",
-      "title": "Microsoft reveals how Accenture deployed Copilot to 700,000+ users at Accenture",
-      "url": "https://siliconangle.com/2026/04/27/microsoft-reveals-accenture-deployed-copilot-700000-users-accenture/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-27",
-      "summary": "Microsoft Corp. has partnered with Accenture Plc on the largest-ever deployment of its artificial intelligence tool Microsoft 365 Copilot, rolling it out to the consultancy’s global workforce of more than 743,000 people – roughly equivalent to the population of Denver. The sheer scale of the rollout is truly a show of force, for Microsoft claims [&#8230;] \n The post  Microsoft reveals how Accenture deployed Copilot to 700,000+ users at Accenture  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -827,6 +986,85 @@
       "is_high_confidence": false
     },
     {
+      "id": "31ed65c98d9ff8",
+      "title": "DCD>Studio: Building the AI Edge across Europe, with Anwar Saliba, nLighten",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-building-the-ai-edge-across-europe-with-anwar-saliba-nlighten/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Seb Moss speaks with Anwar Saliba of nLighten on scaling European edge platforms, decentralizing infrastructure, and how AI inference, sustainability, and data sovereignty are reshaping data center design.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "935ae0c7d05e00",
+      "title": "Strategic framework proposed for data center applications in the state of Lower Austria",
+      "url": "https://www.datacenterdynamics.com/en/news/strategic-framework-proposed-for-data-center-applications-in-the-state-of-lower-austria/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Draft legislation intended to harness surging demand for data centers while preventing runaway power consumption by sector, says ruling party",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "63b7c5d45adc67",
+      "title": "Transforming global hyperscale data center efficiency with Octave Attune EAM",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/transforming-global-hyperscale-data-center-efficiency-with-octave-attune-eam/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Unify operations, boost uptime, and scale sustainable data center performance.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0fd120c6b00fc4",
+      "title": "Singtel's RE:AI teams up with Mistral AI on sovereign offering in Singapore",
+      "url": "https://www.datacenterdynamics.com/en/news/singtels-reai-teams-up-with-mistral-ai-on-sovereign-offering-in-singapore/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-27",
+      "summary": "Will use RE:AI's GPUs and Nxera data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "755ee1f4f89cbe",
+      "title": "Microsoft reveals how Accenture deployed Copilot to 700,000+ users at Accenture",
+      "url": "https://siliconangle.com/2026/04/27/microsoft-reveals-accenture-deployed-copilot-700000-users-accenture/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-27",
+      "summary": "Microsoft Corp. has partnered with Accenture Plc on the largest-ever deployment of its artificial intelligence tool Microsoft 365 Copilot, rolling it out to the consultancy’s global workforce of more than 743,000 people – roughly equivalent to the population of Denver. The sheer scale of the rollout is truly a show of force, for Microsoft claims [&#8230;] \n The post  Microsoft reveals how Accenture deployed Copilot to 700,000+ users at Accenture  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2d93885bec8df0",
       "title": "Microsoft loses IP exclusivity rights and sees revenue payments capped in updated OpenAI deal",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-loses-ip-exclusivity-rights-and-sees-revenue-payments-capped-in-updated-openai-deal/",
@@ -894,6 +1132,28 @@
       "is_high_confidence": false
     },
     {
+      "id": "27a91669cd3699",
+      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxONUZLdGFHbE1OS1BTZ05JaHpiSlQwc0xUN19JanU5YllMWEc4Q3Vqa2RUUDJjZjNOb3kxQ0VKSGlzUFZvUFE5NVJaMEZhalpJWVBBRGpCVlo2Qm1MLXRTRTZhTUdOSHpkMHdpN1FlNjFmMlh4Nk5CQ3YzRGNpQlBONWI0Ukw5OFNMa21uS2tUUkZjS0FpcWFaUmhiNE5hN1pkR0pzZEk4WjA0NXhZLWZ0aUFtUWpSdDBKdXMtOE5EUW9tMlhyZUxrOVdPTkZobjZzZGVTLWF6dHMwdnp0Q2VmVlhSOXpTdUQzT3B5RGVxUHVWaXp2NUR3N2ZQYkZRSDlXR05LMVBic1l0YzF1cWhJNEx1b1JYVW5iUm5TeHRjTWhxWWxpeEJ1ei1UelZ0NHd4NFR4OFo0V0dnWmFtYzNjeDRoRjFxOUUwaEljdzhFRkh1R3ZQckRla1NZVmN3V1UtV3RHa0pSaDVBMTYzNUdyVk00WDFjazlNQmdN?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-26",
+      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "1GW",
+        "$10 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "a53be59efee8c5",
       "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - msn.com",
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxONUZLdGFHbE1OS1BTZ05JaHpiSlQwc0xUN19JanU5YllMWEc4Q3Vqa2RUUDJjZjNOb3kxQ0VKSGlzUFZvUFE5NVJaMEZhalpJWVBBRGpCVlo2Qm1MLXRTRTZhTUdOSHpkMHdpN1FlNjFmMlh4Nk5CQ3YzRGNpQlBONWI0Ukw5OFNMa21uS2tUUkZjS0FpcWFaUmhiNE5hN1pkR0pzZEk4WjA0NXhZLWZ0aUFtUWpSdDBKdXMtOE5EUW9tMlhyZUxrOVdPTkZobjZzZGVTLWF6dHMwdnp0Q2VmVlhSOXpTdUQzT3B5RGVxUHVWaXp2NUR3N2ZQYkZRSDlXR05LMVBic1l0YzF1cWhJNEx1b1JYVW5iUm5TeHRjTWhxWWxpeEJ1ei1UelZ0NHd4NFR4OFo0V0dnWmFtYzNjeDRoRjFxOUUwaEljdzhFRkh1R3ZQckRla1NZVmN3V1UtV3RHa0pSaDVBMTYzNUdyVk00WDFjazlNQmdN?oc=5",
@@ -949,28 +1209,6 @@
         "$16 Billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "27a91669cd3699",
-      "title": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxONUZLdGFHbE1OS1BTZ05JaHpiSlQwc0xUN19JanU5YllMWEc4Q3Vqa2RUUDJjZjNOb3kxQ0VKSGlzUFZvUFE5NVJaMEZhalpJWVBBRGpCVlo2Qm1MLXRTRTZhTUdOSHpkMHdpN1FlNjFmMlh4Nk5CQ3YzRGNpQlBONWI0Ukw5OFNMa21uS2tUUkZjS0FpcWFaUmhiNE5hN1pkR0pzZEk4WjA0NXhZLWZ0aUFtUWpSdDBKdXMtOE5EUW9tMlhyZUxrOVdPTkZobjZzZGVTLWF6dHMwdnp0Q2VmVlhSOXpTdUQzT3B5RGVxUHVWaXp2NUR3N2ZQYkZRSDlXR05LMVBic1l0YzF1cWhJNEx1b1JYVW5iUm5TeHRjTWhxWWxpeEJ1ei1UelZ0NHd4NFR4OFo0V0dnWmFtYzNjeDRoRjFxOUUwaEljdzhFRkh1R3ZQckRla1NZVmN3V1UtV3RHa0pSaDVBMTYzNUdyVk00WDFjazlNQmdN?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-25",
-      "summary": "Meta breaks ground on $10 billion, 1GW data center in Indiana to power AI growth &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Indiana"
-      ],
-      "amounts": [
-        "$10 billion",
-        "1GW"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -1417,6 +1655,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "2c96e9c41f14f5",
+      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-24",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy &nbsp;&nbsp; U.S. News Money",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e460b1a6db1485",
       "title": "7 highlights from Google Cloud Next ‘26",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
@@ -1446,21 +1699,6 @@
         "Amazon",
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2c96e9c41f14f5",
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy &nbsp;&nbsp; U.S. News Money",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2785,6 +3023,48 @@
       "is_high_confidence": false
     },
     {
+      "id": "9d1d457ba2f208",
+      "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSElERmhyOWd4T29YZjMyaHo1ZGY4V0lXb3dieUEtSi1QazV2cnVTcmg4QlVxUzhZTDZTd0ZndVlDOWNncXhVMUZ4Zk5EZG1FbDBtdHJUaTRjZGlvaW91N18zdGFiU3ZfeVN4SEN6NHZ4a1ZUeUdzWkYyVVltN0JQZF9KOHBvQUVHVWhxZVlnTGlYVDQ5Umt4cFU5RmJ6cE9Gb0l5LVNiTXNuRFhXM1g3OXBPeWszMUFvUUNRcGMzSlp3VGFER1JTZ3lTMFViQU3SAdYBQVVfeXFMUHdQUkx1aWxKZVlwMC1RSU0zd1g0WVdLYTVQNXB5Y2hWdVZURFd1YlF1QnQxc1NlTW5ESEg0dTZrZUo2UXdMbnVxbFFwMWNmSi1kZFU0bmExU0x2b1hYMllyNGg2a19CM3dWRE12NFlOVTIxSUE5Sk1hN1ptWlQ2cTZBTVQtVXNXcFZJdkF6cDBHb19Mc211eDZ3d29FSFY4LWJabERPa3ZXRlFSMHo1RVhqS0V2ZUtlNkJLelZLNTBPTHNGcXEzaFpoTzF5VTc1SkVJQ2hFUQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-22",
+      "summary": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa &nbsp;&nbsp; BusinessLine",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Oklahoma"
+      ],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "763780e942aa79",
+      "title": "Meta Breaks Ground On A $1 Billion Oklahoma AI Data Center - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWtPZ2J0eWdsWnJGSmhJWklReWVOenMyMGtSMlZJcElLdXExWFFfN3VCU0hiYWdQckY2d1RDQUtpVlFlQjM1djRGclRfYi1LRG5ZMm5hVGtXQ0ZtT2Z2aThQOElXcUVJRVd2czBWcDRMTzNBOXNpdGZ0LURaNmU3UnpMdDFzTHJSd29sUEJ0MA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-22",
+      "summary": "Meta Breaks Ground On A $1 Billion Oklahoma AI Data Center &nbsp;&nbsp; Finimize",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Oklahoma"
+      ],
+      "amounts": [
+        "$1 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "8215c997fa11b3",
       "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY3dmUnNyUWJtbU1jZWZFa1g3dm91ZUl2ZHk5SUZMYnZmU0xUTjJTdWxjV1NHRUcyZmhLR0RxOVdhLVBnekVoZzhnanhlVjJ2el9EdUEtQlVXSUFjc1dVSm1tS2UwaXBsay1ualM0LTBDQ1EwMnJEdGhHWjFhLUFGMjk3MGZud3Izd1pSYVBoTVdCV1ZuRUpITndiZzRQMzNrTE5URmJlTHlJcTRYNS16eHBZT2xvMjNNX0N3T1oxd3d5Ty13WWd3M1Ntc2w3WmxVRVVsS20xazLSAdgBQVVfeXFMTWN3ZlJzclFibW1NY2VmRWtYN3ZvdWVJdmR5OUlGTGJ2ZlNMVE4yU3VsY1dTR0VHMmZoS0dEcTlXYS1QZ3pFaGc4Z2p4ZVYydnpfRHVBLUJVV0lBY3NXVUptbUtlMGlwbGstbmpTNC0wQ0NRMDJyRHRoR1oxYS1BRjI5NzBmbndyM3daUmFQaE1XQldWbkVKSE53Ymc0UDMza0xOVEZiZUx5SXE0WDUtenhwWU9sbzIzTV9Dd09aMXd3eU8td1lndzNTbXNsN1psVUVVbEttMWsy?oc=5",
@@ -3468,23 +3748,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "87f8becb150fc6",
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-22",
-      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "deea0cda7e0f9e",
       "title": "Live Chats on Threads: Because Big Moments Are Better Together",
       "url": "https://about.fb.com/news/2026/04/threads-live-chats/",
@@ -3512,6 +3775,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "87f8becb150fc6",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-22",
+      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3918,27 +4198,6 @@
       ],
       "amounts": [
         "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "763780e942aa79",
-      "title": "Meta Breaks Ground On A $1 Billion Oklahoma AI Data Center - Finimize",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWtPZ2J0eWdsWnJGSmhJWklReWVOenMyMGtSMlZJcElLdXExWFFfN3VCU0hiYWdQckY2d1RDQUtpVlFlQjM1djRGclRfYi1LRG5ZMm5hVGtXQ0ZtT2Z2aThQOElXcUVJRVd2czBWcDRMTzNBOXNpdGZ0LURaNmU3UnpMdDFzTHJSd29sUEJ0MA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-21",
-      "summary": "Meta Breaks Ground On A $1 Billion Oklahoma AI Data Center &nbsp;&nbsp; Finimize",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "$1 Billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -5064,6 +5323,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ebb24886710eed",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-20",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "890aed2cf9f931",
       "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
@@ -5075,23 +5351,6 @@
       "companies": [
         "Amazon",
         "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ebb24886710eed",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-20",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -6752,8 +7011,8 @@
       "id": "0cbc6e3dd32bfb",
       "title": "Amazon details $11 billion Madison County data center expansion and water, power safeguards - Madison County Journal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGpMNmRURkl5c0lRbkVFWDFLUlJlUk1rc29BNmxkbFgxWEViTGJubVVlbkRzLVNEWjBiWlFfdm05ZDVyWWVmTjRPc29COEQ3NVd5dEhiOWlQTmdrcGRCcnlCTFFoUDROcDhGN3JsWnJKTllSWHdvQlVPWlZaNUpFSWtJdldFM1AyV2VNNDR4N1ZrZER2dUhQTHM1eUU0RkpYUEJyUGUyZVpfR2F4dUhRVXNMRmtXZU9RWDhFZXFyVWdKOGFQWDk5ZXhjb1g1UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-15",
       "summary": "Amazon details $11 billion Madison County data center expansion and water, power safeguards &nbsp;&nbsp; Madison County Journal",
       "finding_type": "Statement / Update",
@@ -9821,8 +10080,8 @@
       "id": "a7f8d2d0b0d588",
       "title": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State - Office of Governor Tate Reeves (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaFRQV2pSOWNmY29QSWE3d24yZUZLT1lxMVhxRUNUUVVWRXprRnRuQXJLT0tSMFJWZ0ZfYlFlZktBUWZMckZZMklHb2RZTlE2R2N3WkwtR2N1SWd6YXRHOVRmbHdNR1kybVlpRXJXRFYwTG9uakxBcXRsQWJlU3lGQ3JWVk16dXR5S1BYUGgzLUl0QXRUeU5maC1fTDh5YTFuUnVZdktTS0ZwYU1fSmtlaTM3bFZMWFZEaEEtYThNOUZYM0RUOGxtSmhxdVBvNnloY0toUE5CZUlvUEt4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-09",
       "summary": "Amazon continues Mississippi expansion, announcing plans to invest a total of $25 billion across the Magnolia State &nbsp;&nbsp; Office of Governor Tate Reeves (.gov)",
       "finding_type": "New Project",
@@ -10372,270 +10631,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a2464eef786783",
-      "title": "OpenAI pauses UK data centre deal over energy costs and regulation - bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeV9Vb3pTR2JiUi0zRHMtUC0tVzdEcktLUWMtc3J1aGo2S3dGN1A4bkxxYzNnYVZIN0dkUFhHT0lEVUpVM1dwMzRCV3BTT0RjakFSQ2JWbDh4UQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-09",
-      "summary": "OpenAI pauses UK data centre deal over energy costs and regulation &nbsp;&nbsp; bbc.com",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d3e7f62513ed5b",
-      "title": "Yobi teams with Microsoft to deliver predictive consumer intelligence on Azure",
-      "url": "https://siliconangle.com/2026/04/09/yobi-teams-microsoft-deliver-predictive-consumer-intelligence-azure/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-09",
-      "summary": "Behavioral artificial intelligence company Yobi Ventures Inc. today announced a strategic partnership with Microsoft Corp. to unlock predictive consumer intelligence for U.S. enterprises. The partnership with Microsoft sees Yobi integrate its behavioral intelligence models with Azure infrastructure to allow enterprises to deploy predictive AI capabilities at large scale. Founded in 2018, Yobi offers consented consumer [&#8230;] \n The post  Yobi teams with Microsoft to deliver predictive consumer",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f94180cfdad1a3",
-      "title": "Wasabi to acquire Seagate’s Lyve Cloud business",
-      "url": "https://siliconangle.com/2026/04/09/wasabi-acquire-seagates-lyve-cloud-business/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-09",
-      "summary": "Wasabi Technologies Inc. has agreed to acquire the Lyve Cloud business from Seagate Technology Inc., expanding its position in the market for object storage compatible with Amazon Web Services Inc.&#8217;s S3 as enterprises seek alternatives to hyperscale cloud providers. The companies disclosed the transaction in a statement released today. Financial terms were not announced, but [&#8230;] \n The post  Wasabi to acquire Seagate&#8217;s Lyve Cloud business  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "135ff059389419",
-      "title": "OpenAI pauses UK data centre deal over energy costs and regulation - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HQlZmUm5fd083SWtVZ01yT1o0dmNLT1pUVXVNeEFHQ0dPMHdFV3QyLXZJNC1wN1VOVDZhaUpwdG9wZHV2cm1keHJ1ZDVOZl9NXzF4dkRiVXpOLWQ5?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-09",
-      "summary": "OpenAI pauses UK data centre deal over energy costs and regulation &nbsp;&nbsp; BBC",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e0ede4081a4d4b",
-      "title": "Amazon’s central Mississippi investments reinforce local tech footprint - Vicksburg Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dqd1kxb0VDT3d3a1BRR3ZSazlKdnZiYjJ6YTFjUkxfVGVlaGhjMUZDMUdaZDZid1BoZnhzWkJCaVphZGhscVp5SGE1OVZnazRjMEVmRGJueW1qR201ODVYYVdYSWRKZUdCbVZIZ2h0TGpkM0p0MUxXSzBoN242N29vM2stUmlzQ1hIX3FOc1d5Nkh6eWlHVXZoTVA1SFBTREVYMXBtcl83cjQ5TjBlM2gzQW9lQ0FBeFJv?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon’s central Mississippi investments reinforce local tech footprint &nbsp;&nbsp; Vicksburg Post",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "90695cb2497315",
-      "title": "From 14.2 Billion to 21 Billion, Why Meta Continues to Bet on CoreWeave? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMi11S3NCMTJwdmRkcjF2NHd0NjlhMDl3NDFJMmV1TFZSTGl6VUJDbjloc1RFUWdQT19kTGttWUZvYWFUSWRxdmpEczZMTDF2MEtrazN3ZnpiOXpxLUdJdVhfMFdoc1hNd2p1akZvMkt1bzJTTnlKdUxuMG14ZDhzVGF3S0p4U0dsQkxaOXVhbjc4RFh3ZjFIVUdaX29mLVFoNXNoNHE1dlEzV2JuLVlDTjFmc095eUk4X1BfOGhpUHNUbTVoZWtiY0pEckc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "From 14.2 Billion to 21 Billion, Why Meta Continues to Bet on CoreWeave? &nbsp;&nbsp; TradingKey",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8ff0cc4a780124",
-      "title": "Google commits to multiyear Intel CPU deployments, will collaborate with chipmaker on custom IPU development",
-      "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-multiyear-intel-cpu-deployments-will-collaborate-with-chipmaker-on-custom-ipu-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-09",
-      "summary": "Financial terms of agreement have not been shared",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e5b6236a2e030c",
-      "title": "Amazon’s central Mississippi investments reinforce local tech footprin... - Vicksburg Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS0dqd1kxb0VDT3d3a1BRR3ZSazlKdnZiYjJ6YTFjUkxfVGVlaGhjMUZDMUdaZDZid1BoZnhzWkJCaVphZGhscVp5SGE1OVZnazRjMEVmRGJueW1qR201ODVYYVdYSWRKZUdCbVZIZ2h0TGpkM0p0MUxXSzBoN242N29vM2stUmlzQ1hIX3FOc1d5Nkh6eWlHVXZoTVA1SFBTREVYMXBtcl83cjQ5TjBlM2gzQW9lQ0FBeFJv?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon’s central Mississippi investments reinforce local tech footprin... &nbsp;&nbsp; Vicksburg Post",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "adafe012fb5c49",
-      "title": "Grain invests in owner of Prime Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/grain-invests-in-owner-of-prime-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-09",
-      "summary": "Companies say investment to fuel Prime’s next phase of growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0fa2cb8b599ba7",
-      "title": "Instagram Expands Teen Accounts Inspired by 13+ Content Ratings",
-      "url": "https://about.fb.com/news/2026/04/instagram-expands-teen-accounts-inspired-by-13-content-ratings-2/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-04-09",
-      "summary": "Today, we’re announcing the expansion of Instagram’s age-appropriate 13+ content rating and Limited Content setting to India. \n The post  Instagram Expands Teen Accounts Inspired by 13+ Content Ratings  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b8b7ee07fefec7",
-      "title": "CEO Andy Jassy’s 2025 Letter to Shareholders - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWFDWFp0cEY5ZUFqd01nYmlLVWg0cjBreFFXaFMxZGFOV085T3RNVDdsRTlwcFpPb3E3MnkwbjNjVlRaWjVDNjAtSkUzZGtKSHpiVWJZc1BjVXNsdlR6TEdhd1hKTlM0aVJWUHNKUEppSlh2OHhwYjVFTVhyVC1oZ2RSNnJzVHV1UkRna09wcVBwdlFoSWkwdTBVQQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-09",
-      "summary": "CEO Andy Jassy’s 2025 Letter to Shareholders &nbsp;&nbsp; About Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f424d0a892ac47",
-      "title": "Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter",
-      "url": "https://siliconangle.com/2026/04/09/amazon-ceo-andy-jassy-highlights-ai-growth-annual-shareholder-letter/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-09",
-      "summary": "Shares of Amazon.com Inc. rose more than 5% today after Chief Executive Andy Jassy published his latest shareholder letter. The memo is the fifth that Jassy has penned since taking the top post in 2021. Amazon’s first shareholder letter was written by founder Jeff Bezos in 1997, the year the company went public.  One potential [&#8230;] \n The post  Amazon CEO Andy Jassy highlights AI growth in annual shareholder letter  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "241841e5ad4f79",
-      "title": "AWS previews a cloud-agnostic registry for managing agentic fleets at scale",
-      "url": "https://siliconangle.com/2026/04/09/aws-previews-cloud-agnostic-registry-managing-agentic-fleets-scale/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-09",
-      "summary": "Amazon Web Services Inc. is trying to make sure enterprises that embrace artificial intelligent agents and automation aren’t getting lost in the curse of “agentic sprawl.” The cloud computing giant is trying to prevent that from happening with the launch of AWS Agent Registry in preview today. It’s a new capability that acts like a [&#8230;] \n The post  AWS previews a cloud-agnostic registry for managing agentic fleets at scale  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1fd03101bd08d0",
-      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
-      "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-09",
-      "summary": "Mythos is \"the most psychologically settled model we have trained to date.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7fe2d6b6a08a56",
-      "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
-      "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-09",
-      "summary": "Appeals court denies Anthropic's emergency motion for a stay.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
