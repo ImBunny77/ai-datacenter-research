@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-28T19:43:44.492091+00:00",
+  "last_updated": "2026-04-28T21:08:08.611752+00:00",
   "finding_count": 600,
-  "new_project_count": 118,
+  "new_project_count": 119,
   "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 195,
+  "high_confidence_count": 192,
   "findings": [
     {
       "id": "fbed741142a99c",
@@ -76,10 +76,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$5.1 billion",
-        "$1.1 billion",
+        "$1.1B",
         "$5.1B",
-        "$1.1B"
+        "$1.1 billion",
+        "$5.1 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -324,6 +324,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "2f008709c0ad34",
+      "title": "Enterprises are not running out of AI ambition — they are running out of time to act on it",
+      "url": "https://siliconangle.com/2026/04/28/enterprise-ai-transformation-now-boardroom-mandate-googlecloudnext/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "Enterprise AI transformation has a new home: the boardroom. Across financial services, CEOs are now demanding results, not more roadmaps. As Google Cloud Next 2026 packed Las Vegas with announcements — from the Gemini Enterprise Agent Platform to eighth-generation Tensor Processing Units — a clear theme emerged among systems integration partners: The era of tinkering is [&#8230;] \n The post  Enterprises are not running out of AI ambition — they are running out of time to act on it  appeared firs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "85519ea6e15fac",
       "title": "Nvidia introduces Nemotron 3 Nano Omni with vision and speech for powerful agentic AI use",
       "url": "https://siliconangle.com/2026/04/28/nvidia-introduces-nemotron-3-nano-omni-vision-speech-powerful-agentic-ai-use/",
@@ -435,6 +452,59 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3f1462dd55db07",
+      "title": "With agents on the rise, is the ‘modern’ data stack already legacy infrastructure?",
+      "url": "https://siliconangle.com/2026/04/28/google-reimagines-data-agentic-data-platform-googlecloudnext/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "The modern data stack might already be the new legacy. In response, Google Cloud is rebuilding for a world where AI agents — not humans — are the primary users of data infrastructure, unveiling an agentic data platform called Agentic Data Cloud designed for that new era. This is a fundamentally different architecture, according to [&#8230;] \n The post  With agents on the rise, is the &#8216;modern&#8217; data stack already legacy infrastructure?  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5c619f14231880",
+      "title": "Chip stocks drop on report OpenAI missed ChatGPT growth targets",
+      "url": "https://siliconangle.com/2026/04/28/chip-stocks-drop-report-openai-missed-chatgpt-growth-targets/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "Shares of Nvidia Corp. and other tech firms dropped today following a report that OpenAI Group PBC had missed its growth targets last year. The Wall Street Journal late Monday cited sources as saying that the company’s 2025 user base gains and revenue fell short of expectations. OpenAI pushed back against the report, calling it [&#8230;] \n The post  Chip stocks drop on report OpenAI missed ChatGPT growth targets  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a967522a391871",
+      "title": "Putting AI to work: AWS unveils agentic enhancements for Connect and Quick alongside new alliance with OpenAI",
+      "url": "https://siliconangle.com/2026/04/28/putting-ai-work-aws-unveils-agentic-enhancements-connect-quick-alongside-new-alliance-openai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-28",
+      "summary": "In an indication of how rapidly the world of artificial intelligence is evolving, Amazon Web Services Inc. today unveiled an expanded portfolio of offerings designed to move agentic AI up the software stack, while forging a new partnership with OpenAI Group PBC. The cloud giant released new customer support services for Amazon Connect that focused [&#8230;] \n The post  Putting AI to work: AWS unveils agentic enhancements for Connect and Quick alongside new alliance with OpenAI  appeared first on",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon",
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -901,23 +971,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "04d07e28999968",
-      "title": "Cloud cost optimization becomes an enterprise mandate as AI bills spiral",
-      "url": "https://siliconangle.com/2026/04/27/cloud-cost-optimization-unlocks-ai-economics-googlecloudnext/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-27",
-      "summary": "As AI rapidly rewrites enterprise economics, cloud cost optimization has become essential for preventing budgets from collapsing under AI workloads, enabling organizations to slash expenses and redirect engineering talent from reactive firefighting to higher-value innovation. Nordstrom Inc. learned that lesson firsthand after migrating its data warehouse to Google Cloud LLC&#8217;s BigQuery, a move that exposed [&#8230;] \n The post  Cloud cost optimization becomes an enterprise mandate as AI bil",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "26eaf903d82bbb",
       "title": "Musk and Altman face off in trial that will determine OpenAI's future",
       "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
@@ -1051,6 +1104,23 @@
       "source_cat": "Company IR",
       "date": "2026-04-27",
       "summary": "Supercharge performance across the shopper journey by connecting Albertsons data with Google’s AI and scale.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "04d07e28999968",
+      "title": "Cloud cost optimization becomes an enterprise mandate as AI bills spiral",
+      "url": "https://siliconangle.com/2026/04/27/cloud-cost-optimization-unlocks-ai-economics-googlecloudnext/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-27",
+      "summary": "As AI rapidly rewrites enterprise economics, cloud cost optimization has become essential for preventing budgets from collapsing under AI workloads, enabling organizations to slash expenses and redirect engineering talent from reactive firefighting to higher-value innovation. Nordstrom Inc. learned that lesson firsthand after migrating its data warehouse to Google Cloud LLC&#8217;s BigQuery, a move that exposed [&#8230;] \n The post  Cloud cost optimization becomes an enterprise mandate as AI bil",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1222,8 +1292,8 @@
         "Indiana"
       ],
       "amounts": [
-        "$10 billion",
-        "1GW"
+        "1GW",
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -3098,27 +3168,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9d1d457ba2f208",
-      "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSElERmhyOWd4T29YZjMyaHo1ZGY4V0lXb3dieUEtSi1QazV2cnVTcmg4QlVxUzhZTDZTd0ZndVlDOWNncXhVMUZ4Zk5EZG1FbDBtdHJUaTRjZGlvaW91N18zdGFiU3ZfeVN4SEN6NHZ4a1ZUeUdzWkYyVVltN0JQZF9KOHBvQUVHVWhxZVlnTGlYVDQ5Umt4cFU5RmJ6cE9Gb0l5LVNiTXNuRFhXM1g3OXBPeWszMUFvUUNRcGMzSlp3VGFER1JTZ3lTMFViQU3SAdYBQVVfeXFMUHdQUkx1aWxKZVlwMC1RSU0zd1g0WVdLYTVQNXB5Y2hWdVZURFd1YlF1QnQxc1NlTW5ESEg0dTZrZUo2UXdMbnVxbFFwMWNmSi1kZFU0bmExU0x2b1hYMllyNGg2a19CM3dWRE12NFlOVTIxSUE5Sk1hN1ptWlQ2cTZBTVQtVXNXcFZJdkF6cDBHb19Mc211eDZ3d29FSFY4LWJabERPa3ZXRlFSMHo1RVhqS0V2ZUtlNkJLelZLNTBPTHNGcXEzaFpoTzF5VTc1SkVJQ2hFUQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-22",
-      "summary": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa &nbsp;&nbsp; BusinessLine",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "763780e942aa79",
       "title": "Meta Breaks Ground On A $1 Billion Oklahoma AI Data Center - Finimize",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWtPZ2J0eWdsWnJGSmhJWklReWVOenMyMGtSMlZJcElLdXExWFFfN3VCU0hiYWdQckY2d1RDQUtpVlFlQjM1djRGclRfYi1LRG5ZMm5hVGtXQ0ZtT2Z2aThQOElXcUVJRVd2czBWcDRMTzNBOXNpdGZ0LURaNmU3UnpMdDFzTHJSd29sUEJ0MA?oc=5",
@@ -3135,6 +3184,27 @@
       ],
       "amounts": [
         "$1 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9d1d457ba2f208",
+      "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSElERmhyOWd4T29YZjMyaHo1ZGY4V0lXb3dieUEtSi1QazV2cnVTcmg4QlVxUzhZTDZTd0ZndVlDOWNncXhVMUZ4Zk5EZG1FbDBtdHJUaTRjZGlvaW91N18zdGFiU3ZfeVN4SEN6NHZ4a1ZUeUdzWkYyVVltN0JQZF9KOHBvQUVHVWhxZVlnTGlYVDQ5Umt4cFU5RmJ6cE9Gb0l5LVNiTXNuRFhXM1g3OXBPeWszMUFvUUNRcGMzSlp3VGFER1JTZ3lTMFViQU3SAdYBQVVfeXFMUHdQUkx1aWxKZVlwMC1RSU0zd1g0WVdLYTVQNXB5Y2hWdVZURFd1YlF1QnQxc1NlTW5ESEg0dTZrZUo2UXdMbnVxbFFwMWNmSi1kZFU0bmExU0x2b1hYMllyNGg2a19CM3dWRE12NFlOVTIxSUE5Sk1hN1ptWlQ2cTZBTVQtVXNXcFZJdkF6cDBHb19Mc211eDZ3d29FSFY4LWJabERPa3ZXRlFSMHo1RVhqS0V2ZUtlNkJLelZLNTBPTHNGcXEzaFpoTzF5VTc1SkVJQ2hFUQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-22",
+      "summary": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa &nbsp;&nbsp; BusinessLine",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Oklahoma"
+      ],
+      "amounts": [
+        "$1 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -9902,13 +9972,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "b005a5294393cd",
-      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
+      "id": "e8047d26a0ae15",
+      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - Amazon News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-09",
-      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
+      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; Amazon News",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -9960,6 +10030,27 @@
       ],
       "amounts": [
         "$12 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b005a5294393cd",
+      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-09",
+      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; About Amazon",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$25 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10023,27 +10114,6 @@
       ],
       "amounts": [
         "$12 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e8047d26a0ae15",
-      "title": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs - Amazon News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2RRZ1ZEUGdQQzVDSjRJenJPSGd2VEFaWWZCNVB0Yk5XRGozQUZYc1lRVlNvMEx4SHVVLUtfcmRfUFdCSHZ5emZKWUFQV1FwU3VKeGJKclE5VVJ2YldkVy10eERkMk5TY3gwTGtIanNuWEJXOURNNGtsdy1tRDBfS0QyU1hvZ0JRcjZsZ2FGSW95QQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "Amazon plans to invest $25 billion in Mississippi data centers, create 2,000 jobs &nbsp;&nbsp; Amazon News",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$25 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10562,76 +10632,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "e365b4feec1a76",
-      "title": "Australia's Viridis gets approval for 1MW Tasmania data center",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-viridis-gets-approval-for-1mw-tasmania-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-09",
-      "summary": "Expected to come online first half of 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "1MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2d9e6906b3daad",
-      "title": "Data4 launches second Polish data center outside Warsaw",
-      "url": "https://www.datacenterdynamics.com/en/news/data4-launches-second-polish-data-center-outside-warsaw/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-09",
-      "summary": "New facility adds 10MW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "10MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2fce1f11b3430e",
-      "title": "Global Power Solutions partners with NADCAP to develop decentralized power infrastructure for proposed 100MW data center",
-      "url": "https://www.datacenterdynamics.com/en/news/global-power-solutions-partners-with-nadcap-to-develop-decentralized-power-infrastructure-for-proposed-100mw-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-09",
-      "summary": "Will focus on deployment of modular energy systems",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "100MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a71665eaa4f18d",
-      "title": "TikTok announces €1 billion investment to build second data center in Finland - TechNode",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3huRVZWQ0FjREt6bS1IbFNnYm1WR0ZZUVpHVDA5QnVEbzMwc0dKZXBEUmpJMXFNamhEMzZ2UTdZdVZvckd6eWE3aE5PcjNBQlRUYnVRdHpWY01zNkNvSGNDWnpoVlNwNGgzY3B1MXR1MVlyV1lrXzR1RUxydkVjTGZ0YnMwdHZZZ1lLLU5kSm9TMTZwN1plWjFxUmIza0UwVk83eE1tWHZQRUxId3l3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-09",
-      "summary": "TikTok announces €1 billion investment to build second data center in Finland &nbsp;&nbsp; TechNode",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
