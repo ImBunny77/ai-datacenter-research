@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-04-30T17:23:00.215778+00:00",
+  "last_updated": "2026-04-30T19:24:53.879407+00:00",
   "finding_count": 600,
-  "new_project_count": 101,
+  "new_project_count": 102,
   "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 161,
+  "high_confidence_count": 162,
   "findings": [
     {
       "id": "ca42f9656eb2fc",
@@ -60,8 +60,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$150M",
-        "$150 million"
+        "$150 million",
+        "$150M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -381,6 +381,24 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5c86b802fdc508",
+      "title": "A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory",
+      "url": "https://siliconangle.com/2026/04/30/cybersecurity-harbinger-oracle-front-runs-ai-model-threat-new-customer-security-advisory/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-30",
+      "summary": "SiliconANGLE was able to review an Oracle Corp. security alert that went out to customers this week. We believe it was a direct response to Anthropic PBC&#8217;s new Mythos artificial intelligence model, and other frontier models, that significantly lower the cost for attackers to discover exploits. In this Breaking Analysis, we give you our initial [&#8230;] \n The post  A cybersecurity harbinger: Oracle front-runs AI model threat with new customer security advisory  appeared first on  SiliconAN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle",
+        "Anthropic"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -716,8 +734,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$20B",
-        "$20 billion"
+        "$20 billion",
+        "$20B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -3829,6 +3847,27 @@
       "source_cat": "Company",
       "date": "2026-04-23",
       "summary": "Microsoft expands AI footprint in Australia with $18 billion investment &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "$18 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7ab861958dd44e",
+      "title": "Microsoft to invest $18 billion to expand Australia’s AI capacity by 2029 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVS1kRXFGUUdqNEk1Yzg0X1FBMEVHNHlzUkw2VEVQdFptOUprSnJwdFk3OVZ4eVFCVGg0V1JSRHNhWV83NHc2TmlJNkFRLVd5cnpyZGNjdTlHTndSOWlndmlUdlVfM08zRmN6SjkxRkd3NjZqUU43eUNIaTM0dVJ6eUJaUjZBYm91UGlqNE1IcFozSFkyQW52WGVxRnAwcVNyS1BPM3MxR3dJeEdaS05wS1RORXFUTEhDb0ljZERUM0xuTWRhcVkwd0d4Y1FaVHkteWZIN1paNzFSX20xczE2a0xR?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-23",
+      "summary": "Microsoft to invest $18 billion to expand Australia’s AI capacity by 2029 &nbsp;&nbsp; MSN",
       "finding_type": "New Project",
       "companies": [
         "Microsoft"
@@ -7015,23 +7054,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ebb24886710eed",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-20",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "890aed2cf9f931",
       "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
@@ -7043,6 +7065,23 @@
       "companies": [
         "Amazon",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ebb24886710eed",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-20",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -8722,8 +8761,8 @@
       "id": "0cbc6e3dd32bfb",
       "title": "Amazon details $11 billion Madison County data center expansion and water, power safeguards - Madison County Journal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGpMNmRURkl5c0lRbkVFWDFLUlJlUk1rc29BNmxkbFgxWEViTGJubVVlbkRzLVNEWjBiWlFfdm05ZDVyWWVmTjRPc29COEQ3NVd5dEhiOWlQTmdrcGRCcnlCTFFoUDROcDhGN3JsWnJKTllSWHdvQlVPWlZaNUpFSWtJdldFM1AyV2VNNDR4N1ZrZER2dUhQTHM1eUU0RkpYUEJyUGUyZVpfR2F4dUhRVXNMRmtXZU9RWDhFZXFyVWdKOGFQWDk5ZXhjb1g1UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-04-15",
       "summary": "Amazon details $11 billion Madison County data center expansion and water, power safeguards &nbsp;&nbsp; Madison County Journal",
       "finding_type": "Statement / Update",
@@ -8921,6 +8960,23 @@
       "source_cat": "Cancellation",
       "date": "2026-04-15",
       "summary": "These 12 states tried to pause new data centers. Maine could be the first to succeed. &nbsp;&nbsp; Business Insider",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3b02e05342daa8",
+      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-15",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -10459,57 +10515,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "edeb7d973bad64",
-      "title": "Microsoft pauses all future carbon removal purchases - report",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-pauses-all-future-carbon-removal-purchases-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-13",
-      "summary": "The company has purchased more than 45 million tons of credits to date",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ee368832e187d",
-      "title": "AWS Weekly Roundup: Claude Mythos Preview in Amazon Bedrock, AWS Agent Registry, and more (April 13, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-mythos-preview-in-amazon-bedrock-aws-agent-registry-and-more-april-13-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-13",
-      "summary": "In my last Week in Review post, I mentioned how much time I’ve been spending on AI-Driven Development Lifecycle (AI-DLC) workshops with customers this year. A common theme in those sessions is the need for better cost visibility. Teams are moving fast with AI, but as they go from experimenting to full production, finance and […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71bf19fa499488",
-      "title": "From test prep to graduation, our latest AI tools support learners",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-tools-programs-educators/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-13",
-      "summary": "An abstract infographic on a dark background illustrating the interconnected Google ecosystem. At the center is a large, glowing Gemini icon within a white circle, acting as a central hub.  Connected to this hub via a network of multicolored lines are",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
