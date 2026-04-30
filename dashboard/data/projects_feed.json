@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-04-30T19:24:53.879407+00:00",
+  "last_updated": "2026-04-30T21:03:11.322242+00:00",
   "finding_count": 600,
-  "new_project_count": 102,
+  "new_project_count": 103,
   "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 162,
+  "high_confidence_count": 163,
   "findings": [
+    {
+      "id": "c05991000fe655",
+      "title": "SoftBank reportedly plans to spin off $100B data center construction venture",
+      "url": "https://siliconangle.com/2026/04/30/softbank-reportedly-plans-spin-off-100b-data-center-construction-venture/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-04-30",
+      "summary": "SoftBank Group Corp. reportedly plans to launch a publicly traded data center construction venture called Roze. The Wall Street Journal and the Financial Times broke the news late Thursday. They cited sources as saying that SoftBank hopes to take Roze public by year’s end at a valuation of about $100 billion. The stock listing is [&#8230;] \n The post  SoftBank reportedly plans to spin off $100B data center construction venture  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [
+        "$100 billion",
+        "$100B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "ca42f9656eb2fc",
       "title": "Microsoft beats expectations but its guidance comes up light, disappointing investors",
@@ -944,6 +964,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6c99f2a3fd5c56",
+      "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
+      "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-29",
+      "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "0314b1e2031348",
       "title": "‘The transformation is the product’: Google and PwC take aim at the enterprise AI scaling gap",
       "url": "https://siliconangle.com/2026/04/29/ai-scaling-challenges-persist-enterprises-googlecloudnext/",
@@ -955,21 +990,6 @@
       "companies": [
         "Google"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6c99f2a3fd5c56",
-      "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-      "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-29",
-      "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -1112,24 +1132,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a3486eb368ec2a",
-      "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
-      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-29",
-      "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "dd1f9cb993a11d",
       "title": "Q1 2026 earnings call: Remarks from our CEO",
       "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
@@ -1195,6 +1197,24 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a3486eb368ec2a",
+      "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
+      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-04-29",
+      "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1765,6 +1785,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a4655027587f37",
+      "title": "Infrastructure Explained: Data Centers",
+      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-04-28",
+      "summary": "We're explaining what data centers are and how they help you connect to your favorite digital experiences, from sharing a photo on Instagram to chatting with AI assistants. \n The post  Infrastructure Explained: Data Centers  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "6ff99cb431b79b",
       "title": "Amazon AI data centers may use reclaimed water in Mississippi - The Clarion-Ledger",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXk5aFAxTi1xRzc3eU5iM2gwUGlOaGppY1kzckZhazR1dkVqZTNSTFBPdnVxaHo5Y2tuQlRpSmRBQUNuZkp6RTlIM1JRUTNrLWhENjR6MllianpXamoxR1k2SWMta1NsWnczd01FV0dCYktNZ1NQME53V0V2aVNBVlZhOEFab0ZtVFpzal9hMnlab2tsamk3Y0wtdkNvX01iQmRNemtTbTA1OUtyQTJja3lIajVmNDFsVXpsZDRYWDlPNnNFbHhINHRR?oc=5",
@@ -1779,23 +1816,6 @@
       "locations": [
         "Mississippi"
       ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a4655027587f37",
-      "title": "Infrastructure Explained: Data Centers",
-      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-04-28",
-      "summary": "We're explaining what data centers are and how they help you connect to your favorite digital experiences, from sharing a photo on Instagram to chatting with AI assistants. \n The post  Infrastructure Explained: Data Centers  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -2915,8 +2935,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -7054,6 +7074,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ebb24886710eed",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-20",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "890aed2cf9f931",
       "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
@@ -7065,23 +7102,6 @@
       "companies": [
         "Amazon",
         "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ebb24886710eed",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-20",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10486,23 +10506,6 @@
     {
       "id": "9a88ba543cc1bb",
       "title": "DCD Intelligence: India’s Data Center Boom",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/report-indias-data-center-boom/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-13",
-      "summary": "The power behind India's data center investment supercycle",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4e89c7e19564e5",
-      "title": "Report: India’s Data Center Boom",
       "url": "https://www.datacenterdynamics.com/en/whitepapers/report-indias-data-center-boom/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
