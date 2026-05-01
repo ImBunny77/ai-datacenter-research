@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-05-01T11:07:33.952415+00:00",
+  "last_updated": "2026-05-01T13:21:41.418855+00:00",
   "finding_count": 600,
   "new_project_count": 102,
-  "cancellation_count": 18,
+  "cancellation_count": 19,
   "sec_filing_count": 0,
-  "high_confidence_count": 157,
+  "high_confidence_count": 158,
   "findings": [
+    {
+      "id": "6d966e78d22e89",
+      "title": "OpenAI claims to have secured 10GW of AI infrastructure capacity ahead of 2029 target",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-claims-to-have-secured-10gw-of-ai-infrastructure-capacity-ahead-of-2029-target/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "3GW added in last 90 days alone",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "3GW",
+        "10GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "21c0fb1c2da8ee",
+      "title": "Hyperscalers Hit $700 Billion in 2026 AI Spending Plans - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG92a1F1Rm1xOU9IZDBsZzJ0RUpYd0kxTnZRbmdDb1B1MXNuc1JBRUhpNkRoS0lxTDNubExDdmJnenpRSDN4OVdySGxleEI2bVM0QUhwZUZoSDJzLWFBY3hFNkJ3NDRIY3Z0SjlVS2RzS2g1MS1DcHhhNVhEU1FVOVZtdkpJU29vYm5CNDFIcV9DbkZJNF9tSVlZR213MGs?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-01",
+      "summary": "Hyperscalers Hit $700 Billion in 2026 AI Spending Plans &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$700 Billion"
+      ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
     {
       "id": "731d31d690210c",
       "title": "Who is going to foot the data center power bill?",
@@ -21,6 +58,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "011957cfc0aad4",
+      "title": "UK's Department for Work and Pensions plots data center exit",
+      "url": "https://www.datacenterdynamics.com/en/news/uks-department-for-work-and-pensions-plots-data-center-exit/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Awards Redesmere Ltd decommissioning and migration contract",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "855060d4e16008",
+      "title": "Invenergy, Nvidia, Emerald AI partner on 'flexible AI factories'",
+      "url": "https://www.datacenterdynamics.com/en/news/invenergy-nvidia-emerald-ai-partner-on-flexible-ai-factories/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Ranging from Edge to multi-gigawatt campuses",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -56,6 +127,71 @@
       "is_high_confidence": false
     },
     {
+      "id": "2da10968dbcf26",
+      "title": "Panthalassa unveils wave-powered floating data center platform",
+      "url": "https://www.datacenterdynamics.com/en/news/panthalassa-unveils-wave-powered-floating-data-center-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Looking to harness the ocean to power compute",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "158f7ce32a6cc9",
+      "title": "Why water will shape the next phase of UK AI data center growth",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-water-will-shape-the-next-phase-of-uk-ai-data-center-growth/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Water's role in the future of data centers is just as important as power",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dc9982005c3046",
+      "title": "AirTrunk completes installation of rooftop solar array at SYD1 data center in Sydney, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-completes-installation-of-rooftop-solar-array-at-syd1-data-center-in-sydney-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Second rooftop solar array to be commissioned this month",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "87bee52de0cc9c",
+      "title": "NTT Data inks carbon removal portfolio deal with Climeworks",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-inks-carbon-removal-portfolio-deal-with-climeworks/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Climeworks first portfolio agreement with a data center firm",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "06c6053ad708f6",
       "title": "Naver targets Saudi data center market, plans \"large scale\" projects",
       "url": "https://www.datacenterdynamics.com/en/news/naver-targets-saudi-data-center-market-plans-large-scale-projects/",
@@ -88,8 +224,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "2b16a832a76b74",
-      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss Climate Solutions",
+      "id": "8edc89e55513ac",
+      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss",
       "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-enhancing-data-center-efficiency-with-liquid-cooling-with-zachary-dominique-danfoss/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
@@ -110,6 +246,21 @@
       "source_cat": "DC Specialist",
       "date": "2026-05-01",
       "summary": "Building resilient, high-density infrastructure foundations that enable scalable cooling, integrated power pathways, and future-ready deployment strategies for AI era data centers.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2b16a832a76b74",
+      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss Climate Solutions",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-enhancing-data-center-efficiency-with-liquid-cooling-with-zachary-dominique-danfoss/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Zachary Dominique from Danfoss Climate Solutions explores core technologies for efficient liquid cooling systems with DCD’s Zoe Turner.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -483,23 +634,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a2a9effcc49d23",
-      "title": "Data center in Columbus, Ohio, sold to occupier",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-in-columbus-ohio-sold-to-occupier/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-30",
-      "summary": "Five 9s sells facility, likely to Expedient",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ab75a726c8273a",
       "title": "Agentic opportunity: OpenAI and Stripe build for rising tide of new entrepreneurial firms",
       "url": "https://siliconangle.com/2026/04/30/agentic-opportunity-openai-stripe-build-rising-tide-new-entrepreneurial-firms/",
@@ -741,6 +875,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a2a9effcc49d23",
+      "title": "Data center in Columbus, Ohio, sold to occupier",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-in-columbus-ohio-sold-to-occupier/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-30",
+      "summary": "Five 9s sells facility, likely to Expedient",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1e1b85e794e7bf",
       "title": "Inwit in talks to buy data center assets from Wind Tre for €100m - report",
       "url": "https://www.datacenterdynamics.com/en/news/inwit-in-talks-to-buy-data-center-assets-from-wind-tre-for-100m-report/",
@@ -950,6 +1101,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "ad71eb985189c2",
+      "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnZiWGg1U3NmMVlkSHotX3pQeGR1dWdDbTBzR1d4X0FMYlViYWpnUXFNTVdPNG1aY2JfYTVtaG4zN0pReWtLU1RvRDl0VjNycWZKMVFKTWpkSXRRbG0teElrZjBSOTlKUkZxc2thVG9UZFBYNW5zQ2h2ZjlwQklmUnZvSUJkWWF0dEU4OFJJTVZyREZjaHFrdjU0blkzcHVjdjh6R2ZobTJrRzJEdEJleE1NX2ljVG5P?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Kansas"
+      ],
+      "amounts": [
+        "$3 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "43089309ff7dda",
       "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - 01net",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUZRb01yMGs1ajA2cnBKWXZyNUtqOU9ITVNabEZwekJoaTNDSWQxZm9aMTRqWDlTak9vd1ZaOTQ4cy00Z3phOExfZFQyNVg0UmNOQ1NCbmpHMlZQSVV4WGpmMEFvYlFOMGV5QXRPWll1LVJkZXN1LTdwZE5vVDBMbG1LZ1FJTW0wZFV2eDRNU0toR0RPVC03U2ktOWxjamtybVY4dF8yUzcweTYxeWRqOWh2N1ZsVzV4cXBEdldVTGxMRmJrSjF2bTZ3X3NzOU83?oc=5",
@@ -1002,25 +1172,6 @@
       "locations": [],
       "amounts": [
         "2.295GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ad71eb985189c2",
-      "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnZiWGg1U3NmMVlkSHotX3pQeGR1dWdDbTBzR1d4X0FMYlViYWpnUXFNTVdPNG1aY2JfYTVtaG4zN0pReWtLU1RvRDl0VjNycWZKMVFKTWpkSXRRbG0teElrZjBSOTlKUkZxc2thVG9UZFBYNW5zQ2h2ZjlwQklmUnZvSUJkWWF0dEU4OFJJTVZyREZjaHFrdjU0blkzcHVjdjh6R2ZobTJrRzJEdEJleE1NX2ljVG5P?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
-      "amounts": [
-        "$3 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1764,6 +1915,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "fbed741142a99c",
+      "title": "Hut 8 Announces Pricing of $3.25 Billion of Investment-Grade Senior Secured Notes for River Bend Data Center Project - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdmVJRnBEaS1uWmtKUWprY3JJV2V5NHlFOUR6ZlBwMURfcndYZ2RrVUw1bE51UHZsWEpOUmNoWTVXaDNaLUYzNFQ2aHhTb1ptMjdwcktlWUxUOElWbWdpbGgwMnpxRVM2NGlzeENkZzdOT3dSTHd6a2lTMVZuTmstRzdoeGJIVk5PcDc2ZjVaSmp2MjN5c0JxUEp0Mkd5bVZXaXdRSWwzRnR2aTY0enlIUUl6Z2lvNERxbEJsQnhVZGVtbGhpZnpWYWdqdlljRWhMblAxd0Y0MGpMUkE2cldJT2hWbFNEaEJMc0ZqRktIcmEtX2t5T2gxWW9sZ0JQRHNO?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-28",
+      "summary": "Hut 8 Announces Pricing of $3.25 Billion of Investment-Grade Senior Secured Notes for River Bend Data Center Project &nbsp;&nbsp; PR Newswire",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$3.25 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "97f1eb9abbd43d",
       "title": "Hut 8 Announces Pricing of $3.25 Billion of Investment-Grade Senior Secured Notes for River Bend Data Center Project - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOb0owdEFaX0ZjLTBNUkVJZXgwVDBhRzBCeklobFpEMUh0VDNiOFBLMzNoTFpFM200UjV4b2M3RVVtNGw5ZFhjSEFLeF9kTEJ3eFMweUstWk9lY3RSM1RCMlhDRHg5d1MtZDJsd1haUF90N0RJaVpfMEFscktSdmZ1c19BMW5yWjcyazdiTncwbFJZeDR0R3dvRDZuclR2MUEzQzBHQVVaajRvbVNvYzZGd1VDSTNlY0FieWxpNlJhZzdNOVI2NU5tU1AyMzNzMS1nbW9laFVOdjdXMWhjbVJiTlByYUNtbU1VaFJNdTF6WmRHVlc4dXJ5OEE5anpxck1IMVJF?oc=5",
@@ -1837,23 +2005,6 @@
         "$1.1B",
         "$5.1 billion",
         "$1.1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fbed741142a99c",
-      "title": "Hut 8 Announces Pricing of $3.25 Billion of Investment-Grade Senior Secured Notes for River Bend Data Center Project - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdmVJRnBEaS1uWmtKUWprY3JJV2V5NHlFOUR6ZlBwMURfcndYZ2RrVUw1bE51UHZsWEpOUmNoWTVXaDNaLUYzNFQ2aHhTb1ptMjdwcktlWUxUOElWbWdpbGgwMnpxRVM2NGlzeENkZzdOT3dSTHd6a2lTMVZuTmstRzdoeGJIVk5PcDc2ZjVaSmp2MjN5c0JxUEp0Mkd5bVZXaXdRSWwzRnR2aTY0enlIUUl6Z2lvNERxbEJsQnhVZGVtbGhpZnpWYWdqdlljRWhMblAxd0Y0MGpMUkE2cldJT2hWbFNEaEJMc0ZqRktIcmEtX2t5T2gxWW9sZ0JQRHNO?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-28",
-      "summary": "Hut 8 Announces Pricing of $3.25 Billion of Investment-Grade Senior Secured Notes for River Bend Data Center Project &nbsp;&nbsp; PR Newswire",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3.25 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -3193,8 +3344,8 @@
         "Indiana"
       ],
       "amounts": [
-        "1GW",
-        "$10 billion"
+        "$10 billion",
+        "1GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -3253,26 +3404,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "7b0c67b15345e4",
-      "title": "Google, Alphabet to invest $40 billion in Anthropic AI: report - The News International",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXp5eE5mSWxtYk9ncktoRE5saXJoclpnRm9FUjlKYjJfZnlqUC1uY01uVU1nRFUyRUNweDZpUWJjTFh5Ykh4emNNOWJzUUtNVk5Kcjg4SFhvc0ZqZE9yNlBRSWxGLVhjcjBvX3ZPRTNSNzUxcnRCc0VWY215ZXU0QTRoOWZxLXBQc1hyUHUySDRKQ2xKM2NjekxyUjFkM0txRUNZ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "Google, Alphabet to invest $40 billion in Anthropic AI: report &nbsp;&nbsp; The News International",
-      "finding_type": "New Project",
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$40 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "2832df961b19bc",
       "title": "Microsoft: A$25 Billion Investment In Australia To Expand AI Infrastructure, Cybersecurity, And Workforce Skills - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUVCa0U1TFdJWHBCbGlxY0thS2EyNl9xTGtycVlpbXlaUnRNQTZ3RzNraVpzcW04VUJheGVtajg2aXMwWDh6S0o1X2M0cF9XRks1OVNpblhQZGNocEZQcnVGazE2WXVldzJ4WFViUk9ZSEhXU0N1ZlZrdENKOU1YNUZwNkJRUERQQ3hOVUFIRWJkb3dkWWo2dmxSb0pNQ2J1YlpMR0tLaHNtX19rbThCNVYwNWNUWkt0SEhzZE5uWnhBV2txQmVv0gHMAUFVX3lxTE1LYjFrZXFTbVh5UHF3WU1mbUN2Zjk3UnBQYVhsQnhxSWlUU20wb0hfTFNqbDM3Znh5VzV3OVNwY2FQUkZfQlFwUnF1QXNnR051dnFKOWFhRUxQclJOckJTUlJHaFRZVml4WHNwRXFOMzNBbXh1QVR3OEtmNFlMdld2VEZCc05NbGZiRy1HZmppY1VCTmt1RTVNYjRHZ3JGc01KSEhiNkNvSDVuTjVjT1RUM29rMmt2bk9XeFY2Z3lFWnU1MC1iRk5JZURySg?oc=5",
@@ -3309,6 +3440,26 @@
       "locations": [],
       "amounts": [
         "$40 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7b0c67b15345e4",
+      "title": "Google, Alphabet to invest $40 billion in Anthropic AI: report - The News International",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXp5eE5mSWxtYk9ncktoRE5saXJoclpnRm9FUjlKYjJfZnlqUC1uY01uVU1nRFUyRUNweDZpUWJjTFh5Ykh4emNNOWJzUUtNVk5Kcjg4SFhvc0ZqZE9yNlBRSWxGLVhjcjBvX3ZPRTNSNzUxcnRCc0VWY215ZXU0QTRoOWZxLXBQc1hyUHUySDRKQ2xKM2NjekxyUjFkM0txRUNZ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-04-24",
+      "summary": "Google, Alphabet to invest $40 billion in Anthropic AI: report &nbsp;&nbsp; The News International",
+      "finding_type": "New Project",
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$40 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -9265,13 +9416,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "18e63fc8136ecd",
-      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
+      "id": "3b02e05342daa8",
+      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -9282,13 +9433,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3b02e05342daa8",
-      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
+      "id": "18e63fc8136ecd",
+      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -10345,154 +10496,6 @@
       "companies": [],
       "locations": [
         "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e2cd25459faaea",
-      "title": "Karman Industries is bringing space age cooling to data centers",
-      "url": "https://www.datacenterdynamics.com/en/analysis/karman-industries-is-bringing-space-age-cooling-to-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Startup's heat processing unit could redefine thermal management",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9c3f366e8413ae",
-      "title": "Flexential to expand footprint with new data center in Atlanta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/flexential-to-expand-footprint-with-new-data-center-in-atlanta-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Company adding second facility to Norcross site",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Georgia",
-        "Atlanta"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "19f368af28d4e9",
-      "title": "Amazon to buy Globalstar for $11.57bn, will bolster LEO satellite network",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-to-buy-globalstar-for-1157bn-will-bolster-leo-satellite-network/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "The giant has also struck an agreement with Apple as part of the agreement",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eeec1aef20ec6a",
-      "title": "DCD>Studio: Navigating energy demand, reliability, and transition with Ron Gusek, Liberty Energy",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-navigating-energy-demand-reliability-and-transition-with-ron-gusek-liberty-energy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Kat Sullivan speaks with Ron Gusek of Liberty Energy on meeting data center energy demand, mobile power generation, natural gas, small modular reactors, and ensuring reliability through the energy transition",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5c100a5c9f8290",
-      "title": "AI satellite constellation startup Orbital gets funded by a16z to verify space-based data center concept",
-      "url": "https://siliconangle.com/2026/04/14/ai-satellite-constellation-startup-orbital-gets-funded-andreessen-horowitz-verify-space-based-data-center-concept/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-14",
-      "summary": "Orbital Inc., a startup that’s aiming to bring the artificial intelligence industry into low-Earth orbit ahead of Elon Musk, said today it has closed on a funding round of an undisclosed amount led by Andreessen Horowitz’s a16z Speedrun. The money will help to finance its first test mission, &#8220;Orbital-1,&#8221; aimed at demonstrating a proof-of-concept of [&#8230;] \n The post  AI satellite constellation startup Orbital gets funded by a16z to verify space-based data center concept  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "85cf9fdf1d451e",
-      "title": "Driving data center resiliency, speed and reliability with the right instrumentation",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/driving-data-center-resiliency-speed-and-reliability-with-the-right-instrumentation/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Scaling AI infrastructure through precision liquid cooling and industrial resiliency",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "53e91e49e563ba",
-      "title": "Nvidia launches open source Ising AI models to support quantum chip development",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-launches-open-source-ising-ai-models-to-support-quantum-chip-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "The Ising calibration and decoding tools aim to tackle quantum error correction",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ccdcedd3a4f32",
-      "title": "Pennsylvania House passes two data center related bills",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-house-passes-two-data-center-related-bills/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "One aimed at local zoning measures and the other at resource use reporting",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e582d3068ac118",
-      "title": "Cisco partners with e-waste recycling firm DEScycle to trial metal recovery platform",
-      "url": "https://www.datacenterdynamics.com/en/news/cisco-partners-with-e-waste-recycling-firm-descycle-to-trial-metal-recovery-platform/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Demonstration project to be conducted at plant in Wilton, UK",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "UK"
       ],
       "amounts": [],
       "confidence": 2,
