@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-01T20:55:07.135366+00:00",
+  "last_updated": "2026-05-01T22:52:37.516433+00:00",
   "finding_count": 600,
-  "new_project_count": 101,
-  "cancellation_count": 18,
+  "new_project_count": 102,
+  "cancellation_count": 17,
   "sec_filing_count": 0,
-  "high_confidence_count": 161,
+  "high_confidence_count": 162,
   "findings": [
+    {
+      "id": "d41f9830249c53",
+      "title": "Pentagon inks AI procurement deals with seven companies, leaves out Anthropic",
+      "url": "https://siliconangle.com/2026/05/01/pentagon-inks-ai-procurement-deals-seven-companies-leaves-anthropic/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "The U.S. Defense Department today announced that it has inked artificial intelligence procurement contracts with seven tech firms. The group includes Amazon Web Service Inc., Google LLC, Microsoft Corp., Nvidia Corp., OpenAI Group PBC and SpaceX Corp. They are joined by a startup called Reflection AI Inc. that raised $2 billion in funding last year. [&#8230;] \n The post  Pentagon inks AI procurement deals with seven companies, leaves out Anthropic  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "NVIDIA",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "a4ae2ea6e86165",
       "title": "Gulf firms Taranis and EEC partner to develop 50MW data centers in Saudi Arabia",
@@ -58,8 +82,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "3GW"
+        "3GW",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -329,6 +353,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "df1480bf318123",
+      "title": "Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB",
+      "url": "https://siliconangle.com/2026/05/01/ai-inference-live-media-workflows-thecuberesearch/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "Media and entertainment is undergoing a structural shift driven by fragmented audiences, new content formats and the growing role of AI in production workflows. The traditional broadcast model — built around scheduled programming and horizontal viewing — no longer reflects how audiences consume content. Platforms such as TikTok, Instagram Reels and YouTube Shorts have normalized [&#8230;] \n The post  Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a29cdce940abb4",
       "title": "AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court",
       "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
@@ -457,6 +498,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "93b30b3c8bb6e9",
+      "title": "Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWdTejI0M3JSNnQ1d3BGRVp0SDB6dkJSVEtZejF6OVpmRWdReFFfZjNEZXRvbUpjbnFaUVRsWlozOHlvYzQyS2NtUlFLVnBCNy04bm56N3RJRjNFdEtWZ3ZvbTVwVVV3RHlTMGx2N1ZLQjN4OE5NT2FHQzFmaTBpaFI0R29IaVhOLVF2c0hxVlpHOWZvSTVuYnZKX0xOcTB6VUZj?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-01",
+      "summary": "Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -7725,23 +7781,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ebb24886710eed",
-      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-04-20",
-      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "890aed2cf9f931",
       "title": "Amazon and Anthropic expand strategic collaboration - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1FlbU1kTVBFR2RLTlJrc0l5cVBoS3QydUJTSlNOSWk4ZUNSSUhySGV2RnJYRnRkajJQY1FVTUdET3QybFFpazcySWx1bm9ja25ielpISWhRenZ1Rk1Fbm5wN0JsbXd5ZUo5ZjcyNU5mNmRWblJLbXpPQk50UGdQbTk4WXZ5UXRVckhtOU10cElhcEZDQXZPeFpR?oc=5",
@@ -7753,6 +7792,23 @@
       "companies": [
         "Amazon",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ebb24886710eed",
+      "title": "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-opus-4-7-in-amazon-bedrock-aws-interconnect-ga-and-more-april-20-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-04-20",
+      "summary": "Claude Opus 4.7 arrives in Amazon Bedrock with improved agentic coding and a 1M token context window. AWS Interconnect reaches general availability with multicloud private connectivity and a new last-mile option. Plus, post-quantum TLS for Secrets Manager, new C8in/C8ib EC2 instances, and more.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -9641,13 +9697,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "18e63fc8136ecd",
-      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
+      "id": "3b02e05342daa8",
+      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -9658,13 +9714,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3b02e05342daa8",
-      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
+      "id": "18e63fc8136ecd",
+      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -10450,59 +10506,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "5115be2f13c63c",
-      "title": "OpenAI partners with Novo Nordisk to accelerate drug discovery and delivery",
-      "url": "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-14",
-      "summary": "Artificial intelligence powerhouse OpenAI Group PBC is lending its expertise to Novo Nordisk A/S in a new partnership announced today that aims to accelerate research in the pharmaceutical industry. The sweeping collaboration will see OpenAI’s intelligent agents embedded across the drug maker’s workflows in order to enhance everything from lab-based drug discovery to the complexities [&#8230;] \n The post  OpenAI partners with Novo Nordisk to accelerate drug discovery and delivery  appeared first",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "af8926c68a941a",
-      "title": "Amazon buys 44 acres in Prince William County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-buys-44-acres-in-prince-william-county-virginia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Company buys properties next to existing AWS data center",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6972316d34abbc",
-      "title": "OpenAI acquires AI financial planning startup Hiro Finance",
-      "url": "https://siliconangle.com/2026/04/14/openai-acquires-ai-financial-planning-startup-hiro-finance/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-14",
-      "summary": "OpenAI Group PBC has acquired Hiro Finance Inc., a low-profile startup with an artificial intelligence tool for creating financial plans. Hiro announced the deal on Monday without disclosing its financial terms. The company raised an unspecified amount of funding from Ribbit, General Catalyst and Restive prior to the acquisition. Hiro’s service speeds up the task [&#8230;] \n The post  OpenAI acquires AI financial planning startup Hiro Finance  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
