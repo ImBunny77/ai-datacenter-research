@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-01T09:47:31.808958+00:00",
+  "last_updated": "2026-05-01T11:07:33.952415+00:00",
   "finding_count": 600,
   "new_project_count": 102,
-  "cancellation_count": 19,
+  "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 158,
+  "high_confidence_count": 157,
   "findings": [
     {
       "id": "731d31d690210c",
@@ -21,6 +21,85 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5335f6944b6375",
+      "title": "Switch announces plans for data center campus outside Pittsburgh, Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/switch-announces-plans-for-data-center-campus-outside-pittsburgh-pennsylvania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Company expands into Keystone State",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "abb610f57964f1",
+      "title": "Pure DC not pausing Middle East investment, contrary to reports, despite data center shrapnel near miss",
+      "url": "https://www.datacenterdynamics.com/en/news/pure-dc-not-pausing-middle-east-investment-contrary-to-reports-despite-data-center-shrapnel-near-miss/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "The operator said it remained committed to the market, which was a key strategic pillar",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "06c6053ad708f6",
+      "title": "Naver targets Saudi data center market, plans \"large scale\" projects",
+      "url": "https://www.datacenterdynamics.com/en/news/naver-targets-saudi-data-center-market-plans-large-scale-projects/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Agreement with Hanmi Global responds to growing demand for digital infrastructure in the Middle East and emerging markets",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "95ca65131fc5e6",
+      "title": "Meta raises planned capex for 2026, plans layoffs for \"efficiency\" reasons",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-raises-planned-capex-for-2026-plans-layoffs-for-efficiency-reasons/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Social media giant also secures $25bn in bond sale",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2b16a832a76b74",
+      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss Climate Solutions",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-enhancing-data-center-efficiency-with-liquid-cooling-with-zachary-dominique-danfoss/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-01",
+      "summary": "Zachary Dominique from Danfoss Climate Solutions explores core technologies for efficient liquid cooling systems with DCD’s Zoe Turner.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -185,8 +264,8 @@
         "Ohio"
       ],
       "amounts": [
-        "505MW",
-        "200MW"
+        "200MW",
+        "505MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -416,21 +495,6 @@
       "locations": [
         "Ohio"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1e1b85e794e7bf",
-      "title": "Inwit in talks to buy data center assets from Wind Tre for €100m - report",
-      "url": "https://www.datacenterdynamics.com/en/news/inwit-in-talks-to-buy-data-center-assets-from-wind-tre-for-100m-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-30",
-      "summary": "Expected to make an offer by end of week",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -677,6 +741,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "1e1b85e794e7bf",
+      "title": "Inwit in talks to buy data center assets from Wind Tre for €100m - report",
+      "url": "https://www.datacenterdynamics.com/en/news/inwit-in-talks-to-buy-data-center-assets-from-wind-tre-for-100m-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-04-30",
+      "summary": "Expected to make an offer by end of week",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8b5f53365a9a0e",
       "title": "AVK launches modular power system for data center market",
       "url": "https://www.datacenterdynamics.com/en/news/avk-launches-modular-power-system-for-data-center-market/",
@@ -848,6 +927,21 @@
       "source_cat": "Earnings",
       "date": "2026-04-30",
       "summary": "Hyperscalers' Earnings Test AI-Driven U.S. Market &nbsp;&nbsp; Let's Data Science",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b93c85ca6c1849",
+      "title": "AI Capex Risk: Why AI Infrastructure Stocks Sold Off? - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iUEtBVzlNamE3c3E4ZzYwR2lrWGpzMGZDUnY1M0tmSWI5XzRpcFNMMGpzalU0TXUyS21GSlZLRG1SX0dUUmpsaTE0aTJOUkxwMWpWSG9mWS1GLU8wM1V0aEpBRnVZXzJ6V0hIUjc0LWFuUGZfZjhmWFRiSQ?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-04-30",
+      "summary": "AI Capex Risk: Why AI Infrastructure Stocks Sold Off? &nbsp;&nbsp; Gotrade",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1175,6 +1269,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0e209c578459c3",
+      "title": "Amazon tops cloud expectations on strong AI demand, shares rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUk9JdVVkT1VwYXNEM3Fqc1FXSHpRZ19neTZBTHZleG1jVFQ4ZVAtbTRGT0JGOXBKa3QtdmNvY3JDTGl5NEc0U2U0dHlUYWlBYjJIcmhvY1B2cjFEUDEweDJGbjJsbGVjbDRONkFCTjJ4SHN3MGFXcFJSa1JFTmhMZXdZb2VpR0ROR3JMR0tOY0RJZnFOUmNOcGRPNkVLa0pfQ3RQZHI5NXl2QQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-29",
+      "summary": "Amazon tops cloud expectations on strong AI demand, shares rise &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -2382,6 +2493,21 @@
       "source_cat": "Earnings",
       "date": "2026-04-28",
       "summary": "Tech's hyperscalers face Wall Street for first time since U.S. Iran war sent oil prices soaring &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44601f0e55b44e",
+      "title": "5 AI Infrastructure Stocks to Watch on Mag 7 Earnings - Gotrade",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUtkTTZvYkhpejFOamxPMXd6VHNwSDdqTHdGMDgxUkp2YnZGSHlVY3ZMQjdZM0dxS0w0Y2JJWERIVVJqWWNDVTRudXE2aFZMLTlVdUpYbzJtc2dpOFJWeHNYVEx3dkM1ZmRXSHF3NzZNWXRoSE9aMXdfNlZNT3pGcGdWSDhnaDdNclpWdVp6Yi1hdw?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-04-28",
+      "summary": "5 AI Infrastructure Stocks to Watch on Mag 7 Earnings &nbsp;&nbsp; Gotrade",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8525,6 +8651,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "157f470b6b1889",
+      "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-16",
+      "summary": "States Push Data Center Moratoriums as AI Growth Surges &nbsp;&nbsp; Built In",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "813fff99b02552",
       "title": "The First Statewide Ban on Data Centers Is on the Verge of Becoming Law - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdUdjalFRUFBMSU5EVExxQW96ZGhIN2p6YXZkQkZ6cy1UTWVleHgwcTB1cHlHVDdvenVRdVVFWnR4cC1WdDBTbDl6MjQwc01iYnVhTzVhb2JrNGttLWxMXzlEWTBOYWxqUzE0UFBJSDdxQnpwMy1MT3RLWDFCUQ?oc=5",
@@ -8554,21 +8695,6 @@
         "Amazon",
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "157f470b6b1889",
-      "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-16",
-      "summary": "States Push Data Center Moratoriums as AI Growth Surges &nbsp;&nbsp; Built In",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -9139,13 +9265,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3b02e05342daa8",
-      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
+      "id": "18e63fc8136ecd",
+      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -9156,13 +9282,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "18e63fc8136ecd",
-      "title": "US: Maine pushes for statewide pause on AI data centers - dw.com",
+      "id": "3b02e05342daa8",
+      "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-04-15",
-      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; dw.com",
+      "summary": "US: Maine pushes for statewide pause on AI data centers &nbsp;&nbsp; DW.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -10371,138 +10497,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "9c24593615ed11",
-      "title": "Alabama bill limiting data center tax breaks goes to Governor",
-      "url": "https://www.datacenterdynamics.com/en/news/alabama-bill-limiting-data-center-tax-breaks-goes-to-governor/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Its fate lies in the Governor's hands",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d600d06214fe4e",
-      "title": "Data centers could be built at three US Air Force bases in Alaska",
-      "url": "https://www.datacenterdynamics.com/en/news/data-centers-could-be-built-at-three-us-air-force-bases-in-alaska/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Developer sought to help bring projects to life",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alaska"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d8472b85d2e777",
-      "title": "Amazon debuts high-speed satellite internet antenna for commercial aircraft",
-      "url": "https://siliconangle.com/2026/04/13/amazon-debuts-high-speed-satellite-internet-antenna-commercial-aircraft/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-14",
-      "summary": "Amazon.com Inc. today debuted a ruggedized antenna that will enable commercial aircraft to access its internet satellites. The Amazon Leo Aviation Antenna can download up to 1 gigabit of data per second and upload 400 megabits. According to the company, those speeds make the device the fastest customer terminal currently in production. The Leo Aviation [&#8230;] \n The post  Amazon debuts high-speed satellite internet antenna for commercial aircraft  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "372e803522fa83",
-      "title": "Japanese tech giants launch joint venture targeting physical AI for robots and machines",
-      "url": "https://siliconangle.com/2026/04/13/japanese-tech-giants-launch-joint-venture-targeting-physical-ai-robots-machines/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-14",
-      "summary": "Japanese technology giants SoftBank Group Corp., Sony Corp. and NEC Corp. are teaming up with Honda Motor Co., Ltd. on a new artificial intelligence joint venture that has a single goal: to build a trillion-parameter model for autonomous machines. The companies are reportedly making a big bet on what has become known as “physical AI,” [&#8230;] \n The post  Japanese tech giants launch joint venture targeting physical AI for robots and machines  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6a98f9671dd0ee",
-      "title": "Bell Canada breaks ground on data center in Kamloops, British Columbia",
-      "url": "https://www.datacenterdynamics.com/en/news/bell-canada-breaks-ground-on-data-center-in-kamloops-british-columbia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Telco partners with Thompson Rivers University for one of three Kamloops facilities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9eb0ff41a76deb",
-      "title": "Sponsored: Serban redefines AI readiness: Scaling next-gen data centers through EPC+ and advanced commissioning",
-      "url": "https://www.datacenterdynamics.com/en/product-news/serban-redefines-ai-readiness-scaling-next-gen-data-centers-through-epc-and-advanced-commissioning/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "Through advanced MEP engineering capabilities, the company delivers highly efficient power, cooling, and automation systems tailored to AI-ready facilities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "abf69d8b51ec8e",
-      "title": "Sponsored: Best practices for deploying liquid-cooled servers in AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/best-practices-for-deploying-liquid-cooled-servers-in-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-14",
-      "summary": "By focusing on design, deployment, and proactive maintenance, operators can harness the full potential of liquid cooling systems and specialized components",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2e9fa5ca62111c",
-      "title": "How Foresight prevented $100M in delays and cut reporting overhead by 90% for a global data center portfolio",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/how-foresight-prevented-100m-in-delays-and-cut-reporting-overhead-by-90-for-a-global-data-center-portfolio/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-13",
-      "summary": "From blind spots to breakthroughs",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$100M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
