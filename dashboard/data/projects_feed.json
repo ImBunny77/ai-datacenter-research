@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-05T15:57:43.258363+00:00",
+  "last_updated": "2026-05-05T17:42:26.777683+00:00",
   "finding_count": 600,
-  "new_project_count": 105,
+  "new_project_count": 104,
   "cancellation_count": 12,
   "sec_filing_count": 0,
-  "high_confidence_count": 165,
+  "high_confidence_count": 161,
   "findings": [
     {
       "id": "bd81d5f9ec5c71",
@@ -41,11 +41,11 @@
       ],
       "locations": [],
       "amounts": [
-        "$15 billion",
         "$350 million",
+        "$950 million",
         "$15B",
         "$950M",
-        "$950 million"
+        "$15 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -63,6 +63,27 @@
       "locations": [],
       "amounts": [
         "$800 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a70052a7644240",
+      "title": "OpenAI President Greg Brockman grilled about his $30B personal stake and ‘duty to humanity’",
+      "url": "https://siliconangle.com/2026/05/04/openai-president-grilled-30b-personal-stake-duty-humanity/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-05",
+      "summary": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in his argument as proof the company sacrificed its original nonprofit mission. Musk’s civil lawsuit alleges that OpenAI Chief Executive Sam Altman [&#8230;] \n The post  OpenAI President Greg Brockman grilled about his $30B personal stake and ‘duty to humanity’  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$30 billion",
+        "$30B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -87,24 +108,43 @@
       "is_high_confidence": true
     },
     {
-      "id": "a70052a7644240",
-      "title": "OpenAI President Greg Brockman grilled about his $30B personal stake and ‘duty to humanity’",
-      "url": "https://siliconangle.com/2026/05/04/openai-president-grilled-30b-personal-stake-duty-humanity/",
+      "id": "cfb153a8d31ecf",
+      "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
+      "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-05-05",
-      "summary": "OpenAI Group PBC co-founder and President Greg Brockman today disclosed in an ongoing landmark trial that his stake in the company is worth close to $30 billion, a windfall Elon Musk has invoked in his argument as proof the company sacrificed its original nonprofit mission. Musk’s civil lawsuit alleges that OpenAI Chief Executive Sam Altman [&#8230;] \n The post  OpenAI President Greg Brockman grilled about his $30B personal stake and ‘duty to humanity’  appeared first on  SiliconANGLE .",
+      "summary": "Dedicated inference cloud startup Deepinfra Inc. is looking to expand its global capacity after raising $107 million in a Series B round of funding led by 500 Global and Georges Harik, who was one of Google LLC’s first cloud engineers. The round saw participation from a number of heavy hitters, including Nvidia Corp., Samsung Next, [&#8230;] \n The post  Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [
-        "Amazon",
-        "OpenAI"
+        "Google",
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [
-        "$30B",
-        "$30 billion"
+        "$107 million",
+        "$107M"
       ],
-      "confidence": 6,
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d539e18f27ebde",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-05-05",
+      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$3.5 million"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -121,27 +161,6 @@
       "amounts": [
         "$3 trillion",
         "230MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cfb153a8d31ecf",
-      "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
-      "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-05",
-      "summary": "Dedicated inference cloud startup Deepinfra Inc. is looking to expand its global capacity after raising $107 million in a Series B round of funding led by 500 Global and Georges Harik, who was one of Google LLC’s first cloud engineers. The round saw participation from a number of heavy hitters, including Nvidia Corp., Samsung Next, [&#8230;] \n The post  Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$107M",
-        "$107 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -238,6 +257,53 @@
       "is_high_confidence": false
     },
     {
+      "id": "d61ea1a57f6765",
+      "title": "QGroup launches data center in The Gambia, claims it is the country's first",
+      "url": "https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "While government data center gets inaugurated in Angola",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4612b771260db",
+      "title": "Malaysia's DPS Resources and Alibaba may develop data centers in Melaka, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysias-dps-resources-and-alibaba-may-develop-data-centers-in-melaka-malaysia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Pair have signed a MoU",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d3411de6069cb",
+      "title": "Haber-Bosch to hyperscale",
+      "url": "https://www.datacenterdynamics.com/en/analysis/haber-bosch-to-hyperscale/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Are ammonia-to-power systems poised to power the data center sector?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "731d6eb4d4a36b",
       "title": "Inside series guide 2026",
       "url": "https://www.datacenterdynamics.com/en/dcd-downloads/inside-series-guide-2026/",
@@ -304,55 +370,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1a64eabf1c69a3",
-      "title": "Deep Green taps Zendo Energy for Manchester data center renewable energy deal",
-      "url": "https://www.datacenterdynamics.com/en/news/deep-green-taps-zendo-energy-for-manchester-data-center-renewable-energy-deal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-05",
-      "summary": "Zendo procures renewable energy supply from Engie to power facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "75101ee7a238a7",
-      "title": "Lattice Semiconductor to acquire AMI in $1.65bn cash and stock deal",
-      "url": "https://www.datacenterdynamics.com/en/news/lattice-semiconductor-to-acquire-ami-in-165bn-cash-and-stock-deal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-05",
-      "summary": "Company says acquisition will boost its AI and data center product offerings",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "801a18b9825868",
-      "title": "Anthropic in discussions to buy inference chips from UK startup Fractile – report",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-in-discussions-to-by-inference-chips-from-uk-startup-fractile-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-05",
-      "summary": "Fractile’s hardware not expected to be available until 2027",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "fa2ddda22e8219",
       "title": "Anthropic and OpenAI establish joint ventures on Wall Street to accelerate enterprise AI adoption",
       "url": "https://siliconangle.com/2026/05/04/anthropic-openai-establish-joint-ventures-wall-street-accelerate-enterprise-ai-adoption/",
@@ -398,6 +415,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7fe08dd6739975",
+      "title": "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)",
+      "url": "https://aws.amazon.com/blogs/aws/modernize-your-workflows-amazon-workspaces-now-gives-ai-agents-their-own-desktop-preview/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-05-05",
+      "summary": "Amazon WorkSpaces now lets AI agents securely operate legacy desktop applications—without APIs or modernization—using IAM authentication, MCP support, and computer vision within existing security frameworks.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f26e7687400697",
+      "title": "Here’s what’s new with Google Home.",
+      "url": "https://blog.google/products-and-platforms/devices/google-nest/home-updates/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-05-05",
+      "summary": "From a complete camera overhaul to updated automations, there are several new updates coming to Google Home.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -451,6 +502,55 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1a64eabf1c69a3",
+      "title": "Deep Green taps Zendo Energy for Manchester data center renewable energy deal",
+      "url": "https://www.datacenterdynamics.com/en/news/deep-green-taps-zendo-energy-for-manchester-data-center-renewable-energy-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Zendo procures renewable energy supply from Engie to power facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "75101ee7a238a7",
+      "title": "Lattice Semiconductor to acquire AMI in $1.65bn cash and stock deal",
+      "url": "https://www.datacenterdynamics.com/en/news/lattice-semiconductor-to-acquire-ami-in-165bn-cash-and-stock-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Company says acquisition will boost its AI and data center product offerings",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "801a18b9825868",
+      "title": "Anthropic in discussions to buy inference chips from UK startup Fractile – report",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-in-discussions-to-by-inference-chips-from-uk-startup-fractile-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Fractile’s hardware not expected to be available until 2027",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "UK"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -812,8 +912,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$643 million",
-        "$643M"
+        "$643M",
+        "$643 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1011,23 +1111,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "df1480bf318123",
-      "title": "Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB",
-      "url": "https://siliconangle.com/2026/05/01/ai-inference-live-media-workflows-thecuberesearch/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-01",
-      "summary": "Media and entertainment is undergoing a structural shift driven by fragmented audiences, new content formats and the growing role of AI in production workflows. The traditional broadcast model — built around scheduled programming and horizontal viewing — no longer reflects how audiences consume content. Platforms such as TikTok, Instagram Reels and YouTube Shorts have normalized [&#8230;] \n The post  Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB  appeared first ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "965b89e888d759",
       "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
       "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
@@ -1038,6 +1121,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "df1480bf318123",
+      "title": "Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB",
+      "url": "https://siliconangle.com/2026/05/01/ai-inference-live-media-workflows-thecuberesearch/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "Media and entertainment is undergoing a structural shift driven by fragmented audiences, new content formats and the growing role of AI in production workflows. The traditional broadcast model — built around scheduled programming and horizontal viewing — no longer reflects how audiences consume content. Platforms such as TikTok, Instagram Reels and YouTube Shorts have normalized [&#8230;] \n The post  Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1789,23 +1889,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "62c98d973d0044",
-      "title": "Alphabet is one of TIME’s 100 most influential companies of 2026.",
-      "url": "https://blog.google/company-news/inside-google/time-100-companies/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-30",
-      "summary": "Sundar Pichai is on the cover of Time magazine for its 100 most influential companies issue for 2026.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "5db5681ace720a",
       "title": "How we’re protecting energy affordability in Oklahoma",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/oklahoma-energy-affordability-agreement/",
@@ -1820,6 +1903,23 @@
       "locations": [
         "Oklahoma"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "62c98d973d0044",
+      "title": "Alphabet is one of TIME’s 100 most influential companies of 2026.",
+      "url": "https://blog.google/company-news/inside-google/time-100-companies/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-04-30",
+      "summary": "Sundar Pichai is on the cover of Time magazine for its 100 most influential companies issue for 2026.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2546,6 +2646,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "96797b420fb6f7",
+      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
+      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-04-29",
+      "summary": "We're introducing the ability for people in India to complete prepaid mobile recharges directly within WhatsApp, making it easier to stay connected by getting an everyday essential done within the app they already use. \n The post  Bringing Prepaid Mobile Recharges to WhatsApp Users in India  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "dd1f9cb993a11d",
       "title": "Q1 2026 earnings call: Remarks from our CEO",
       "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
@@ -2592,25 +2711,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "96797b420fb6f7",
-      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
-      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-04-29",
-      "summary": "We're introducing the ability for people in India to complete prepaid mobile recharges directly within WhatsApp, making it easier to stay connected by getting an everyday essential done within the app they already use. \n The post  Bringing Prepaid Mobile Recharges to WhatsApp Users in India  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "India"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5438,8 +5538,8 @@
       "id": "eb892b61047a9f",
       "title": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDNidG0wbEhzRnM0dU9PRC0yUlBpbVpTcmFYYm9sTWkxN2lXMnJVUElKWGpRR2h5TWdqZ0Y4Tm5CWXZqWHU1RlZOWm96ZDV1UjVCR2pza3p1ZGEwY0o2X1pLTE9xUi1OVmVmUHBfNUpyNGZ6TURLM1BvOVVOcXdXMHFRVWlNRnBoM0E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
       "date": "2026-04-23",
       "summary": "Microsoft deepens commitment to Australia with A$25 billion investment in AI infrastructure, security, and skills &nbsp;&nbsp; Microsoft Source",
       "finding_type": "New Project",
@@ -10400,116 +10500,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "b947e5a875c28e",
-      "title": "InfraXmedia launches AI Cities Summit Series to support governments navigating AI infrastructure growth",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/infraxmedia-launches-ai-cities-summit-series-to-support-governments-navigating-ai-infrastructure-growth/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "New global initiative connects governments, energy providers, and digital infrastructure leaders to unlock economic growth in the AI era",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0cbc6e3dd32bfb",
-      "title": "Amazon details $11 billion Madison County data center expansion and water, power safeguards - Madison County Journal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGpMNmRURkl5c0lRbkVFWDFLUlJlUk1rc29BNmxkbFgxWEViTGJubVVlbkRzLVNEWjBiWlFfdm05ZDVyWWVmTjRPc29COEQ3NVd5dEhiOWlQTmdrcGRCcnlCTFFoUDROcDhGN3JsWnJKTllSWHdvQlVPWlZaNUpFSWtJdldFM1AyV2VNNDR4N1ZrZER2dUhQTHM1eUU0RkpYUEJyUGUyZVpfR2F4dUhRVXNMRmtXZU9RWDhFZXFyVWdKOGFQWDk5ZXhjb1g1UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-15",
-      "summary": "Amazon details $11 billion Madison County data center expansion and water, power safeguards &nbsp;&nbsp; Madison County Journal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$11 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "16176dc39180ee",
-      "title": "Amazon details $11 billion Madison County data center expansion and wa... - Madison County Journal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGpMNmRURkl5c0lRbkVFWDFLUlJlUk1rc29BNmxkbFgxWEViTGJubVVlbkRzLVNEWjBiWlFfdm05ZDVyWWVmTjRPc29COEQ3NVd5dEhiOWlQTmdrcGRCcnlCTFFoUDROcDhGN3JsWnJKTllSWHdvQlVPWlZaNUpFSWtJdldFM1AyV2VNNDR4N1ZrZER2dUhQTHM1eUU0RkpYUEJyUGUyZVpfR2F4dUhRVXNMRmtXZU9RWDhFZXFyVWdKOGFQWDk5ZXhjb1g1UQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-15",
-      "summary": "Amazon details $11 billion Madison County data center expansion and wa... &nbsp;&nbsp; Madison County Journal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$11 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c267ecf46e2dc5",
-      "title": "Amazon details $11 billion Madison County data center expansion and wa... - Madison County Journal",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzQycTN6TUd2Z3BhaUpfWDBwaFdLaDB6N3ZQT29BUjcxYmtwalRKUnZLYWdQcUxxZFl1WHQ0WGxoall0TEdCd2Z6UVRxSDlOX1ZmLXctWldudV9NY0VSNzFsOFJHZWVvU2VhOGV6OEpTZHNDMk9kWmtDWkNpZDFWQXY4MnE3OF9aUzFuQ0dVU0w0RzV3MmR1ZGpfTS1PSW5WZkRUSFl5am1BajN4V3diZ3hFS0V1MGExaVFJc256WDc2QUVxWGF1ZV9ITTFMbk0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-15",
-      "summary": "Amazon details $11 billion Madison County data center expansion and wa... &nbsp;&nbsp; Madison County Journal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$11 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "114e11c268097e",
-      "title": "Meta doubles down on partnership with Broadcom on custom AI processors",
-      "url": "https://siliconangle.com/2026/04/14/meta-doubles-partnership-broadcom-custom-ai-processors/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Meta Platforms Inc. today announced a new deal with Broadcom Inc., extending a partnership that already sees the two companies work together on the design of the social media giant’s in-house artificial intelligence accelerators. The company said in an announcement that it is committing to an initial deployment of 1 gigawatt&#8217;s worth of its Meta Training [&#8230;] \n The post  Meta doubles down on partnership with Broadcom on custom AI processors  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "1 gigawatt"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "77c9b814353ec0",
-      "title": "Meta, Entergy announce massive expansion at Louisiana AI data center - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPT2dTV1NnZDJmYnhCMWt1OGRiQTU2a0oxUGhSX1JCWGE5SlRybGVhNk5nLWNQSlBJM3o1UTB0OEV3VnhYaUJzUXBUTkU4WUxmZjlBM2EtSGd4UHBybjZDTkRVWHhTZC1UOFJLd0xZdzhrdkp2Nk5xRHlGb2x2azRkaXJOcFJpSkhRSzdaNUVhWnpQc1BNWkRibU1pcWl4bktZTlhNMERiWVdJejUwVkRmY0tQWXFoX0wxS1JwWnc5V1FIdS1qZjJjeS1LbXloc0Rqa1huZGlRdFRDYlRSWVFua3JrSmJKLVFqSkcxalcwVVBFUlNKdTZ1NGV2UnpGX2d4ZWk0SzExRU0yelJlWkdYeGRaMkVHVVFLSGtGNTNYUENyQS1UeVFCMndCNnUxSy12QXcwcy03Z09wR0VMajR2RkFZRldFbXpYS21ZY1gyaHBhTmht?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-15",
-      "summary": "Meta, Entergy announce massive expansion at Louisiana AI data center &nbsp;&nbsp; MSN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
