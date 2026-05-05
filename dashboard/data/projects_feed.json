@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-05-05T17:42:26.777683+00:00",
+  "last_updated": "2026-05-05T19:22:41.821184+00:00",
   "finding_count": 600,
-  "new_project_count": 104,
+  "new_project_count": 105,
   "cancellation_count": 12,
   "sec_filing_count": 0,
-  "high_confidence_count": 161,
+  "high_confidence_count": 164,
   "findings": [
+    {
+      "id": "170954d746d671",
+      "title": "Duke Energy announces nearly $1.6 billion in profit, courts new data center development in the Carolinas - WUNC News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeGtNbHFoNzZHRFYxOVh4eXFNZkNZYTJuQWpEaHlzOUFOcFlxODcwcEdwa1AxM0YyNlJfUEdoZVFnMnZDZndQRVQyS09TSVBFSWNmdWQzdXF5Qi0tSW5STjNVb1BhSHQtNm1VWWNPUXhVamRWZDFBTFIybmJnQ0NfVk9DekVKTjNieG1xcDdCeFJnaDJYdHZscERVcDRhNmdaa0F6bDZudjRXNy1zNUk3c2lNRjN6ZHhxZWFwdDBTZEJVY05MZTZOMW42cHVZcFU?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-05-05",
+      "summary": "Duke Energy announces nearly $1.6 billion in profit, courts new data center development in the Carolinas &nbsp;&nbsp; WUNC News",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.6 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "bd81d5f9ec5c71",
       "title": "Amazon buys office and data center site in Maryland from T. Rowe",
@@ -41,11 +58,11 @@
       ],
       "locations": [],
       "amounts": [
-        "$350 million",
-        "$950 million",
-        "$15B",
         "$950M",
-        "$15 billion"
+        "$950 million",
+        "$15 billion",
+        "$350 million",
+        "$15B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -82,8 +99,28 @@
       ],
       "locations": [],
       "amounts": [
-        "$30 billion",
-        "$30B"
+        "$30B",
+        "$30 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bb4bc5b65e630a",
+      "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-05",
+      "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$150 million",
+        "$1.5 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -108,6 +145,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "cf6cfd832a32b9",
+      "title": "$30m data center near Austin, Texas, fails to get recommendation for approval from P&Z Commission",
+      "url": "https://www.datacenterdynamics.com/en/news/30m-data-center-near-austin-texas-fails-to-get-recommendation-for-approval-from-pz-commission/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "But its fate lies in the hands of the City Council",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$30m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "cfb153a8d31ecf",
       "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
       "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
@@ -122,8 +178,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$107 million",
-        "$107M"
+        "$107M",
+        "$107 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -257,6 +313,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6bb2c99e7df27e",
+      "title": "Neos Networks to link ‘microscaler' workloads for StonesThro micro-Edge sites",
+      "url": "https://www.datacenterdynamics.com/en/news/neos-networks-to-link-microscaler-workloads-for-stonesthro-micro-edge-sites/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Cornerstone, StonesThro's tower-side mini data centers get a backbone partner familiar with existing infrastructure play",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d61ea1a57f6765",
       "title": "QGroup launches data center in The Gambia, claims it is the country's first",
       "url": "https://www.datacenterdynamics.com/en/news/qgroup-launches-data-center-in-the-gambia-claims-it-is-the-countrys-first/",
@@ -370,6 +441,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7c158447885595",
+      "title": "Google targets ‘agentic workforce’ with Gemini for government push",
+      "url": "https://siliconangle.com/2026/05/05/agentic-workforce-government-ai-gemini-thecuberesearch/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-05",
+      "summary": "As artificial intelligence moves from experimentation into production, government agencies are becoming an unexpected proving ground for large-scale workforce transformation. Faced with mounting operational demands, aging application environments and strict compliance requirements, public sector organizations are increasingly turning to AI not as a future capability, but as an immediate force multiplier — accelerating the shift [&#8230;] \n The post  Google targets ‘agentic workforce’ with Gemini",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "fa2ddda22e8219",
       "title": "Anthropic and OpenAI establish joint ventures on Wall Street to accelerate enterprise AI adoption",
       "url": "https://siliconangle.com/2026/05/04/anthropic-openai-establish-joint-ventures-wall-street-accelerate-enterprise-ai-adoption/",
@@ -381,6 +469,23 @@
       "companies": [
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cf86d53dc24376",
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-05",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2646,6 +2751,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7fa433d73aed14",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - thebridgechronicle.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; thebridgechronicle.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -2706,23 +2828,6 @@
       "source_cat": "Company IR",
       "date": "2026-04-29",
       "summary": "Image of a Google TV device displaying dynamic slideshows in a bright living room.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7fa433d73aed14",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - thebridgechronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; thebridgechronicle.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5577,6 +5682,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "683b4558f4ae43",
+      "title": "Microsoft Commits $18 Billion to Boost Australia's AI Capabilities - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNwTXZHY2lZOEJVNnd2ZVJoakV0akFLUDdQdzUwUGkwS1hMaTdKQ25TMGRLaDJEUmozLW9MRm1DSUVjaG9wcUhQektxY0ozaUJ1OVdLbUpzeFhjdXJRbkNPcVpyTjlfUmpCY2c3bjVwUkc0Y0xCZ3dxUVUtNjdQZlFONkxoRUw2dTdCYVpn?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-23",
+      "summary": "Microsoft Commits $18 Billion to Boost Australia's AI Capabilities &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "$18 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "b519f968cabac2",
       "title": "Microsoft expands AI footprint in Australia with $18 billion investment - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXdkUkRZVF9LblVKNGQ2cXpjeWFrQ19jNzNWNlRVQy1hc1NyZnphTHZjclJycWE5LU5LSm9OcE9FZVMtQm0wTDlZcXBzX2R0blJjWmtwRC0tV1hiSjNILTVrX1VWajF6eEowN3NuYjRKWFVYNVFOX1lIYUVMN2ltSVpjdFNEQXBKdzhMMzE1SmRoX3dYQy1ScGU0ZzYxd1RIQTlJdFJsVDdIN1k?oc=5",
@@ -5635,27 +5761,6 @@
       ],
       "amounts": [
         "$18 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "683b4558f4ae43",
-      "title": "Microsoft Commits $18 Billion to Boost Australia's AI Capabilities - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzNwTXZHY2lZOEJVNnd2ZVJoakV0akFLUDdQdzUwUGkwS1hMaTdKQ25TMGRLaDJEUmozLW9MRm1DSUVjaG9wcUhQektxY0ozaUJ1OVdLbUpzeFhjdXJRbkNPcVpyTjlfUmpCY2c3bjVwUkc0Y0xCZ3dxUVUtNjdQZlFONkxoRUw2dTdCYVpn?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-23",
-      "summary": "Microsoft Commits $18 Billion to Boost Australia's AI Capabilities &nbsp;&nbsp; MLQ.ai",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "$18 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10396,104 +10501,6 @@
       "source_cat": "DC Specialist",
       "date": "2026-04-16",
       "summary": "Kat Sullivan speaks with Michel Chartier of WSP about why specialized training is becoming essential as data center roles evolve with advanced cooling systems and emerging 800V DC infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "231d71b80e9509",
-      "title": "Modine launches data center segment, appoints Art Laszlo to lead unit",
-      "url": "https://www.datacenterdynamics.com/en/news/mondine-launches-data-center-segment-appoints-art-laszlo-to-lead-unit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "Company breaks out data centers from climate solutions business",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2d202edd344351",
-      "title": "Change of mayor prompts appeal against data center planned in Provence, France",
-      "url": "https://www.datacenterdynamics.com/en/news/change-of-mayor-prompts-appeal-against-data-center-planned-in-provence-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "Officials aim to revoke permission for planned Telehouse facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07281dcb3eff87",
-      "title": "NTT Global Data Centers Guide to India data center expansion",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/ntt-global-data-centers-guide-to-india-data-center-expansion/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "Deploying scalable digital infrastructure across India’s evolving regional data center markets",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9cace45121ca0c",
-      "title": "Real estate firm Provident linked to purchase of racetrack outside Pittsburgh, Pennsylvania, eyes possible data center",
-      "url": "https://www.datacenterdynamics.com/en/news/real-estate-firm-provident-linked-to-purchase-of-racetrack-outside-pittsburgh-pennsylvania-eyes-possible-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "Plans for closed raceway complex unclear",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "79c33310ba8dd1",
-      "title": "Google’s Gemini 3.1 Flash TTS model offers unparalleled control over AI voices",
-      "url": "https://siliconangle.com/2026/04/15/googles-gemini-3-1-flash-tts-offers-unparalleled-control-ai-voices/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-16",
-      "summary": "Google LLC’s DeepMind artificial intelligence unit today rolled out a new text-to-speech model called Gemini 3.1 Flash TTS. Unlike its earlier, robotic predecessors, it enables users to direct the vocal style, delivery and pace of chatbot responses through text-based commands, the company said in a blog post. A video posted on X shows that Gemini 3.1 [&#8230;] \n The post  Google&#8217;s Gemini 3.1 Flash TTS model offers unparalleled control over AI voices  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f7222a864a3b41",
-      "title": "Mondine launches data center segment, appoints Art Laszlo to lead unit",
-      "url": "https://www.datacenterdynamics.com/en/news/mondine-launches-data-center-segment-appoints-art-laszlo-to-lead-unit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-16",
-      "summary": "Company breaks out data centers from climate solutions business",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
