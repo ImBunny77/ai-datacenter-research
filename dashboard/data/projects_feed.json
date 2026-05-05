@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-05T10:04:10.558128+00:00",
+  "last_updated": "2026-05-05T13:58:25.938452+00:00",
   "finding_count": 600,
   "new_project_count": 105,
-  "cancellation_count": 16,
+  "cancellation_count": 15,
   "sec_filing_count": 0,
-  "high_confidence_count": 162,
+  "high_confidence_count": 165,
   "findings": [
     {
       "id": "c16858ae633cdc",
@@ -20,13 +20,49 @@
       ],
       "locations": [],
       "amounts": [
-        "$950 million",
-        "$950M",
-        "$15B",
         "$15 billion",
-        "$350 million"
+        "$350 million",
+        "$15B",
+        "$950 million",
+        "$950M"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c0e74c9bb34c8c",
+      "title": "AI Data Center Spending Rushes Toward $800 Billion - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INllMeXpWOVVNMWpKNjdXYkNDT3ptSmRDV1ZPWVE4WjVRRDVPRGk1Nl9Hb3F4d1NEWHlRRjlnbFRpYVBoWVZER0FITk43bVRUc3V3U3k0VmEzT1RFRk5Sc2ZfYmNJbjZqR0NnSzJZM1ZQWVlCdkNCRnFDd1lOTUE?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-05",
+      "summary": "AI Data Center Spending Rushes Toward $800 Billion &nbsp;&nbsp; AOL.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$800 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e5cfd8031fc9b4",
+      "title": "Coatue sets up data center venture, partners with Fluidstack for 430MW campus in Indiana",
+      "url": "https://www.datacenterdynamics.com/en/news/coatue-sets-up-data-center-venture-partners-with-fluidstack-for-430mw-campus-in-indiana/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Investment firm launches Next Frontier venture",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "430MW"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -51,6 +87,45 @@
       "is_high_confidence": true
     },
     {
+      "id": "96e5a6b5036dc7",
+      "title": "Fleet Data Centers closes $4.6bn in senior secured notes for 230MW Storey County campus",
+      "url": "https://www.datacenterdynamics.com/en/news/fleet-data-centers-closes-46bn-in-senior-secured-notes-for-230mw-storey-county-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Facility leased to an unnamed $3 trillion market cap company",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "230MW",
+        "$3 trillion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "590d3378c0825d",
+      "title": "Meta signs 250MW PPA with EDP Renewables NA in Arkansas",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-250mw-ppa-with-edp-renewables-na-in-arkansas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Project expected to be operational in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Arkansas"
+      ],
+      "amounts": [
+        "250MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "cfb153a8d31ecf",
       "title": "Deepinfra lands $107M in funding to build out its dedicated inference cloud for open-source models",
       "url": "https://siliconangle.com/2026/05/04/deepinfra-lands-107m-funding-build-dedicated-inference-cloud-open-source-models/",
@@ -65,8 +140,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$107 million",
-        "$107M"
+        "$107M",
+        "$107 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -86,6 +161,104 @@
         "$725 billion"
       ],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6dcd39756ee9c5",
+      "title": "Helix Digital Infrastructure: KKR plans $10bn AI data center firm headed by former AWS CEO - report",
+      "url": "https://www.datacenterdynamics.com/en/news/helix-digital-infrastructure-kkr-plans-10bn-ai-data-center-firm-headed-by-former-aws-ceo-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Will develop data centers and associated infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3fadb41945fd0b",
+      "title": "DCD>News: April review",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdnews-april-review/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "DCD's James Raddings, Sebastian Moss, Charlotte Trueman, and Paul Lipscombe break down and examine the most significant developments in the data center sector over the past month.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1a64eabf1c69a3",
+      "title": "Deep Green taps Zendo Energy for Manchester data center renewable energy deal",
+      "url": "https://www.datacenterdynamics.com/en/news/deep-green-taps-zendo-energy-for-manchester-data-center-renewable-energy-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Zendo procures renewable energy supply from Engie to power facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "75101ee7a238a7",
+      "title": "Lattice Semiconductor to acquire AMI in $1.65bn cash and stock deal",
+      "url": "https://www.datacenterdynamics.com/en/news/lattice-semiconductor-to-acquire-ami-in-165bn-cash-and-stock-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Company says acquisition will boost its AI and data center product offerings",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8729e219ff42f1",
+      "title": "Anthropic in discussions to by inference chips from UK startup Fractile – report",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-in-discussions-to-by-inference-chips-from-uk-startup-fractile-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Fractile’s hardware not expected to be available until 2027",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b72dc32420106",
+      "title": "Nscale to deploy 66,000+ Rubin GPUs for Microsoft in Portugal",
+      "url": "https://www.datacenterdynamics.com/en/news/nscale-to-deploy-66000-rubin-gpus-for-microsoft-in-portugal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-05",
+      "summary": "Two companies scale up agreement for Sines Data Campus",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -124,6 +297,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e4a79de57b1756",
+      "title": "Turn your data into decisions: 3 things your business needs for growth in the AI era",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-2026-turn-your-data-into-decisions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-05-05",
+      "summary": "The Road To Google Marketing Live",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4080c15c838edf",
       "title": "Putting educators at the center of AI learning",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/putting-educators-at-the-center-of-ai-learning/",
@@ -141,21 +331,21 @@
       "is_high_confidence": false
     },
     {
-      "id": "c0e74c9bb34c8c",
-      "title": "AI Data Center Spending Rushes Toward $800 Billion - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INllMeXpWOVVNMWpKNjdXYkNDT3ptSmRDV1ZPWVE4WjVRRDVPRGk1Nl9Hb3F4d1NEWHlRRjlnbFRpYVBoWVZER0FITk43bVRUc3V3U3k0VmEzT1RFRk5Sc2ZfYmNJbjZqR0NnSzJZM1ZQWVlCdkNCRnFDd1lOTUE?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-04",
-      "summary": "AI Data Center Spending Rushes Toward $800 Billion &nbsp;&nbsp; AOL.com",
+      "id": "6c3c1c79b5783d",
+      "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
+      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-05-05",
+      "summary": "We’re strengthening our underage enforcement measures with AI to ensure young people have safe experiences online. \n The post  New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences  appeared first on  Meta Newsroom .",
       "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$800 Billion"
+      "companies": [
+        "Meta"
       ],
-      "confidence": 6,
-      "is_high_confidence": true
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "45a3633020b877",
@@ -240,6 +430,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34ed513456a920",
+      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-04",
+      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -364,21 +569,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "34ed513456a920",
-      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-04",
-      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c6fad622bbab87",
       "title": "OpenAI missed revenue and user targets, faces internal concern over meeting data center spend commitments - report",
       "url": "https://www.datacenterdynamics.com/en/news/openai-missed-revenue-and-user-targets-faces-internal-concern-over-meeting-data-center-spend-commitments-report/",
@@ -467,6 +657,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "7a818c675daf48",
+      "title": "Nebius acquires AI model optimization startup Eigen AI for $643M",
+      "url": "https://siliconangle.com/2026/05/01/nebius-acquires-ai-model-optimization-startup-eigen-ai-643m/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "Nebius Group NV, a Dutch operator of artificial intelligence data centers, today announced plans to buy software maker Eigen AI Inc. for $643 million. The company will finance the acquisition with cash and stock. It expects to close the deal in a few weeks. Nebius provides access to graphics card unit clusters that developers can [&#8230;] \n The post  Nebius acquires AI model optimization startup Eigen AI for $643M  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$643 million",
+        "$643M"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "a4ae2ea6e86165",
       "title": "Gulf firms Taranis and EEC partner to develop 50MW data centers in Saudi Arabia",
       "url": "https://www.datacenterdynamics.com/en/news/gulf-firms-taranis-and-eec-partner-to-develop-50mw-data-centers-in-saudi-arabia/",
@@ -481,24 +689,6 @@
       ],
       "amounts": [
         "50MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7a818c675daf48",
-      "title": "Nebius acquires AI model optimization startup Eigen AI for $643M",
-      "url": "https://siliconangle.com/2026/05/01/nebius-acquires-ai-model-optimization-startup-eigen-ai-643m/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-01",
-      "summary": "Nebius Group NV, a Dutch operator of artificial intelligence data centers, today announced plans to buy software maker Eigen AI Inc. for $643 million. The company will finance the acquisition with cash and stock. It expects to close the deal in a few weeks. Nebius provides access to graphics card unit clusters that developers can [&#8230;] \n The post  Nebius acquires AI model optimization startup Eigen AI for $643M  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$643 million",
-        "$643M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -677,6 +867,60 @@
       "is_high_confidence": false
     },
     {
+      "id": "df1480bf318123",
+      "title": "Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB",
+      "url": "https://siliconangle.com/2026/05/01/ai-inference-live-media-workflows-thecuberesearch/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "Media and entertainment is undergoing a structural shift driven by fragmented audiences, new content formats and the growing role of AI in production workflows. The traditional broadcast model — built around scheduled programming and horizontal viewing — no longer reflects how audiences consume content. Platforms such as TikTok, Instagram Reels and YouTube Shorts have normalized [&#8230;] \n The post  Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a29cdce940abb4",
+      "title": "AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court",
+      "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-01",
+      "summary": "If anyone thought artificial intelligence was running into a slow patch, let alone running into any fundamental technical or financial hurdles, this week quieted the doubters &#8212; at least for now. In a blockbuster week of Big Tech earnings, Alphabet, Amazon, Microsoft and Meta all reported results massively boosted by AI spending by its customers, [&#8230;] \n The post  AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "965b89e888d759",
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
+      "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-01",
+      "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2586eea14714cf",
       "title": "OCP members tout DC power in the data center to meet growing AI energy demands",
       "url": "https://www.datacenterdynamics.com/en/news/ocp-members-tout-dc-power-in-the-data-center-to-meet-growing-ai-power-demands/",
@@ -736,60 +980,6 @@
       "summary": "Initial shipments of the chips expected in December",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "df1480bf318123",
-      "title": "Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB",
-      "url": "https://siliconangle.com/2026/05/01/ai-inference-live-media-workflows-thecuberesearch/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-01",
-      "summary": "Media and entertainment is undergoing a structural shift driven by fragmented audiences, new content formats and the growing role of AI in production workflows. The traditional broadcast model — built around scheduled programming and horizontal viewing — no longer reflects how audiences consume content. Platforms such as TikTok, Instagram Reels and YouTube Shorts have normalized [&#8230;] \n The post  Bringing real-time AI into live video workflows: AWS Elemental Inference at NAB  appeared first ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a29cdce940abb4",
-      "title": "AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court",
-      "url": "https://siliconangle.com/2026/05/01/ai-lifts-clouds-even-higher-aws-moves-stack-elon-sam-battle-court/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-01",
-      "summary": "If anyone thought artificial intelligence was running into a slow patch, let alone running into any fundamental technical or financial hurdles, this week quieted the doubters &#8212; at least for now. In a blockbuster week of Big Tech earnings, Alphabet, Amazon, Microsoft and Meta all reported results massively boosted by AI spending by its customers, [&#8230;] \n The post  AI lifts clouds even higher, AWS moves up the stack, and Elon and Sam battle in court  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Google",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "965b89e888d759",
-      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS",
-      "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-01",
-      "summary": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2212,23 +2402,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7fa433d73aed14",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - thebridgechronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; thebridgechronicle.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "dd1f9cb993a11d",
       "title": "Q1 2026 earnings call: Remarks from our CEO",
       "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q1-2026/",
@@ -2294,6 +2467,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7fa433d73aed14",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - thebridgechronicle.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; thebridgechronicle.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7233,6 +7423,26 @@
       "is_high_confidence": false
     },
     {
+      "id": "29355ed0bf54c2",
+      "title": "Amazon, Anthropic Strengthen AI Ties With $5B Investment - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1FObFk4S2FrV2ZrdUgxMHRQaXBpN2Z0MUNMaEVEdFBtZ3RKZDJMSGRyTTUtYXo0dndrTHoyUjZEeDdsN1VidzNuazRYdWFfUmQzQ1VXekUxS2JmT1ZndHA4cW1rdVpUQVFYaFF2TUFOdUtxVUpzS2Zsd0tIMlhkbjY3YlZCbHpMLUZaRXFtRGRfQzRpTkVOYnVUdmE4VUxHN0hMWDY5LWh5bkRLakE?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-21",
+      "summary": "Amazon, Anthropic Strengthen AI Ties With $5B Investment &nbsp;&nbsp; Data Center Knowledge",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "79fb605f915171",
       "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNckl5QmRGeEZNM2c0LWZneTZhR1dZQ3MzTXJVUFo4dVVTek5DeFRoZU1fWklvc01ZWWZMNE5wWllsWnJxeXp2MjJMSnNPWFVKN3h4ZER0VmZrd0hSVGR4TnZybXd5dHNmSUh0dTRQV24ybVMxWHpuTFNkSVFHeXk4Z1VoLVNLenpCYjNHZmVjbzNuWW5VbnJsbGlCRHpHbHdCSzRRbXl2UjVrNjdJ?oc=5",
@@ -7290,26 +7500,6 @@
       ],
       "amounts": [
         "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "29355ed0bf54c2",
-      "title": "Amazon, Anthropic Strengthen AI Ties With $5B Investment - Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1FObFk4S2FrV2ZrdUgxMHRQaXBpN2Z0MUNMaEVEdFBtZ3RKZDJMSGRyTTUtYXo0dndrTHoyUjZEeDdsN1VidzNuazRYdWFfUmQzQ1VXekUxS2JmT1ZndHA4cW1rdVpUQVFYaFF2TUFOdUtxVUpzS2Zsd0tIMlhkbjY3YlZCbHpMLUZaRXFtRGRfQzRpTkVOYnVUdmE4VUxHN0hMWDY5LWh5bkRLakE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-21",
-      "summary": "Amazon, Anthropic Strengthen AI Ties With $5B Investment &nbsp;&nbsp; Data Center Knowledge",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$5B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10326,195 +10516,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "de047dbf1bac77",
-      "title": "Microsoft denies that it has completely paused carbon removal purchases",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-denies-that-it-has-completely-paused-carbon-removal-purchases/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-15",
-      "summary": "Chief sustainability officer claims the perceived pause was an adjustment to pace of carbon removal procurement",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71b8e6515b88cd",
-      "title": "Louisiana AI data centers to use large quantities of water, energy, land - Shreveport Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWUZMTDVfejliZ2ljOHN3NkZVVklFR2hfd0xRYkVWWkhhVTY1V1MwMTBKanE2bTJEUnRsZ0dUWER5MFJ0c05Uc3dkSl9GQS1WNlhoMm1TY3ZkVVBLUnFjbkNPUmF5U2JFbEVza3B6OXpqS3BFcnpWcW1YM1ZMckdSenlmdDlmdTlkVVNtZkJNRWwtZXNJTER5UUxNWjh4Wlc0b1VqaGs0SkJ0UW1lSjF5VTUyelN2T1ZmRFR1dmtiMnpuMjNoUHQzUjZkbnl3YllGN2plU1hQQ05GQlloN20tT2wxdTg4eW40Znpsc3J0TVVudlhveldN?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-04-15",
-      "summary": "Louisiana AI data centers to use large quantities of water, energy, land &nbsp;&nbsp; Shreveport Times",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f10b39607eb292",
-      "title": "ISSCC 2026: NVIDIA & Broadcom CPO, HBM4 & LPDDR6, TSMC Active LSI, Logic-Based SRAM, UCIe-S and More",
-      "url": "https://newsletter.semianalysis.com/p/isscc-2026-nvidia-and-broadcom-cpo",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-04-15",
-      "summary": "ISSCC 2026 Round-Up",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8717b2e8b62b27",
-      "title": "We’re upgrading Dynamic Search Ads to AI Max",
-      "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-15",
-      "summary": "A conceptual graphic illustrating the transition from Google Ads legacy features to AI Max.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "db38580eac4394",
-      "title": "Google releases new apps for Windows and MacOS",
-      "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-15",
-      "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d48c52ce265611",
-      "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google's AI",
-      "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-15",
-      "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Boston"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7fa54ba3cfb38c",
-      "title": "What to expect during Google Cloud Next: Join theCUBE April 22-24",
-      "url": "https://siliconangle.com/2026/04/15/google-cloud-next-2026-thecube-cloud-infrastructure-googlecloudnext/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Among the three companies that dominate the global cloud infrastructure market, Google Cloud remains in third place &#8212; behind Amazon Web Services Inc. and Microsoft Corp. &#8212; with 12% to 14% market share. That story may be about to change. Google parent Alphabet Inc. reported 48% revenue growth year-over-year for its cloud operations in the fourth [&#8230;] \n The post  What to expect during Google Cloud Next: Join theCUBE April 22-24  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f693a23e94cd04",
-      "title": "Oracle says the agentic AI bottleneck isn’t the model — it’s the database",
-      "url": "https://siliconangle.com/2026/04/15/oracle-makes-database-key-agentic-ai-development-oracledatadeepdivenyc/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "Enterprise AI deployments are stalling not because agents are hard to build, but because organizations lack the data infrastructure to run them reliably at scale. The shift from chatbots to autonomous, multi-step agents has exposed a structural gap in agentic AI development. Oracle Corp. is positioning the database as the center of gravity for enterprise [&#8230;] \n The post  Oracle says the agentic AI bottleneck isn’t the model — it’s the database  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9fe825242b6c54",
-      "title": "‘You better have a lot of trust’: Oracle’s urgent case for rebuilding AI from the data up",
-      "url": "https://siliconangle.com/2026/04/15/oracle-bets-ai-database-convergence-agentic-ai-oracledatadeepdivenyc/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-15",
-      "summary": "AI can now generate thousands of lines of working code in minutes — but the question of whether enterprises can trust what those systems build has become the defining challenge of the current moment. Now, Oracle Corp. is betting on AI database convergence as a solution. As agentic AI reshapes enterprise data architecture, the pressure [&#8230;] \n The post  &#8216;You better have a lot of trust&#8217;: Oracle&#8217;s urgent case for rebuilding AI from the data up  appeared first on  SiliconANGLE ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8fa23824956258",
-      "title": "US’ first state-wide data center moratorium passes Maine legislature",
-      "url": "https://www.datacenterdynamics.com/en/news/us-first-state-wide-data-center-moratorium-passes-maine-legislature/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-15",
-      "summary": "But still requires governor approval",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Maine"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7917fe285313b7",
-      "title": "AI uncertainty: More adoption, more caution",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-uncertainty-more-adoption-more-caution/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-15",
-      "summary": "As IT organizations embrace AI, data center facilities and colocation providers need to plan to deploy the supporting infrastructure, despite many uncertainties",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
