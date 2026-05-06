@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-06T19:48:01.109909+00:00",
+  "last_updated": "2026-05-06T21:12:50.162642+00:00",
   "finding_count": 600,
-  "new_project_count": 106,
+  "new_project_count": 107,
   "cancellation_count": 12,
   "sec_filing_count": 0,
-  "high_confidence_count": 176,
+  "high_confidence_count": 177,
   "findings": [
     {
       "id": "623ad549a1567e",
@@ -190,6 +190,26 @@
       "amounts": [
         "2GW"
       ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f846294f7c8ed3",
+      "title": "Nvidia partners with Corning to boost the supply of optical network components",
+      "url": "https://siliconangle.com/2026/05/06/nvidia-partners-corning-boost-supply-optical-network-components/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-06",
+      "summary": "Nvidia Corp. will help publicly traded glass maker Corning Inc. boost the rate at which it produces parts for optical data center networks. The partnership, which the companies announced today, will see Corning build three new factories in North Carolina and Texas. The facilities will boost the manufacturer&#8217;s optical hardware production capacity in the U.S. [&#8230;] \n The post  Nvidia partners with Corning to boost the supply of optical network components  appeared first on  SiliconANGLE ",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "North Carolina",
+        "Texas"
+      ],
+      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -434,6 +454,21 @@
       "locations": [
         "North Carolina"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eaa243e305187c",
+      "title": "Dell and Intel advance secure AI factories with trust-first infrastructure",
+      "url": "https://siliconangle.com/2026/05/06/dell-intel-governance-ai-factory-deployments-securingtheaifactory/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-06",
+      "summary": "The general-purpose data center computing environment is taking on a new role as the AI factory, transforming data into intelligence at industrial scale. The rise of the AI factory has captured the attention of leading enterprise players, yet there is another aspect of this new dynamic that is perhaps underappreciated – security. There is a [&#8230;] \n The post  Dell and Intel advance secure AI factories with trust-first infrastructure  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -765,8 +800,8 @@
       "amounts": [
         "$200M",
         "$1.4 billion",
-        "$1.4B",
-        "$200 million"
+        "$200 million",
+        "$1.4B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -785,9 +820,9 @@
         "New York"
       ],
       "amounts": [
+        "$625 million",
         "$220 million",
-        "$625M",
-        "$625 million"
+        "$625M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -806,8 +841,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.5 million",
-        "$150 million"
+        "$150 million",
+        "$1.5 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -870,26 +905,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "639e963d596df2",
-      "title": "Nvidia, AMD back $100M round for AI tooling startup RadixArk",
-      "url": "https://siliconangle.com/2026/05/05/nvidia-amd-back-100m-round-ai-tooling-startup-radixark/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-05",
-      "summary": "RadixArk Inc., a startup that provides tools for artificial intelligence developers, has raised $100 million from a group of high-profile backers. Accel led the seed round with Spark Capital. They were joined by Nvidia Corp.’s NVentures fund, Advanced Micro Devices Inc., Databricks Inc., Broadcom Inc. Chief Executive Hock Tan and others. The Wall Street Journal reported [&#8230;] \n The post  Nvidia, AMD back $100M round for AI tooling startup RadixArk  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$100M",
-        "$100 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "3270a57131ff19",
       "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
       "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
@@ -921,6 +936,26 @@
       "locations": [],
       "amounts": [
         "$3.5 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "639e963d596df2",
+      "title": "Nvidia, AMD back $100M round for AI tooling startup RadixArk",
+      "url": "https://siliconangle.com/2026/05/05/nvidia-amd-back-100m-round-ai-tooling-startup-radixark/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-05",
+      "summary": "RadixArk Inc., a startup that provides tools for artificial intelligence developers, has raised $100 million from a group of high-profile backers. Accel led the seed round with Spark Capital. They were joined by Nvidia Corp.’s NVentures fund, Advanced Micro Devices Inc., Databricks Inc., Broadcom Inc. Chief Executive Hock Tan and others. The Wall Street Journal reported [&#8230;] \n The post  Nvidia, AMD back $100M round for AI tooling startup RadixArk  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$100M",
+        "$100 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1111,21 +1146,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9903f5c5f8e4c6",
-      "title": "Astera Labs debuts new Scorpio smart fabric data center switch to scale up AI compute clusters",
-      "url": "https://siliconangle.com/2026/05/05/astera-labs-debuts-new-scorpio-smart-fabric-data-center-switch-scale-ai-compute-clusters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-05",
-      "summary": "Networking chip company Astera Labs Inc. is trying to ease the traffic congestion in artificial intelligence data centers with the launch of the latest generation of its Scorpio smart data fabric switch family, the X-series. According to the company, it’s the largest open and “memory-semantic” fabric switch in the industry, designed to help hyperscale data [&#8230;] \n The post  Astera Labs debuts new Scorpio smart fabric data center switch to scale up AI compute clusters  appeared first on  Sili",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "cf86d53dc24376",
       "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
       "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
@@ -1239,6 +1259,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9903f5c5f8e4c6",
+      "title": "Astera Labs debuts new Scorpio smart fabric data center switch to scale up AI compute clusters",
+      "url": "https://siliconangle.com/2026/05/05/astera-labs-debuts-new-scorpio-smart-fabric-data-center-switch-scale-ai-compute-clusters/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-05",
+      "summary": "Networking chip company Astera Labs Inc. is trying to ease the traffic congestion in artificial intelligence data centers with the launch of the latest generation of its Scorpio smart data fabric switch family, the X-series. According to the company, it’s the largest open and “memory-semantic” fabric switch in the industry, designed to help hyperscale data [&#8230;] \n The post  Astera Labs debuts new Scorpio smart fabric data center switch to scale up AI compute clusters  appeared first on  Sili",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -3579,23 +3614,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "85e274c510a9ed",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -3610,6 +3628,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "85e274c510a9ed",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5643,6 +5678,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "44dfd495d3d17b",
+      "title": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGxxRGpicldRM1ROVW5GTEhYR09zZ25XRWdXYjFWZTJJYWNIS1Q3WWpvTTFLRkgyWFBQZ2hwRVpyc0RTaHRjc2tXQlhreEQ2WGMtSVpneWRZT0hzSHc1dG14bWgtb0J0bmlFSjhkVWtZT0JWM2pONlJZdWdaSjNFWnlJa3JqR05ueG9wN2d4WDNjNTNRcjk3SlpTbVpwX3dIYUtlLVlB?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-04-24",
+      "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$40 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "2832df961b19bc",
       "title": "Microsoft: A$25 Billion Investment In Australia To Expand AI Infrastructure, Cybersecurity, And Workforce Skills - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUVCa0U1TFdJWHBCbGlxY0thS2EyNl9xTGtycVlpbXlaUnRNQTZ3RzNraVpzcW04VUJheGVtajg2aXMwWDh6S0o1X2M0cF9XRks1OVNpblhQZGNocEZQcnVGazE2WXVldzJ4WFViUk9ZSEhXU0N1ZlZrdENKOU1YNUZwNkJRUERQQ3hOVUFIRWJkb3dkWWo2dmxSb0pNQ2J1YlpMR0tLaHNtX19rbThCNVYwNWNUWkt0SEhzZE5uWnhBV2txQmVv0gHMAUFVX3lxTE1LYjFrZXFTbVh5UHF3WU1mbUN2Zjk3UnBQYVhsQnhxSWlUU20wb0hfTFNqbDM3Znh5VzV3OVNwY2FQUkZfQlFwUnF1QXNnR051dnFKOWFhRUxQclJOckJTUlJHaFRZVml4WHNwRXFOMzNBbXh1QVR3OEtmNFlMdld2VEZCc05NbGZiRy1HZmppY1VCTmt1RTVNYjRHZ3JGc01KSEhiNkNvSDVuTjVjT1RUM29rMmt2bk9XeFY2Z3lFWnU1MC1iRk5JZURySg?oc=5",
@@ -5679,26 +5734,6 @@
       "locations": [],
       "amounts": [
         "$40 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "44dfd495d3d17b",
-      "title": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGxxRGpicldRM1ROVW5GTEhYR09zZ25XRWdXYjFWZTJJYWNIS1Q3WWpvTTFLRkgyWFBQZ2hwRVpyc0RTaHRjc2tXQlhreEQ2WGMtSVpneWRZT0hzSHc1dG14bWgtb0J0bmlFSjhkVWtZT0JWM2pONlJZdWdaSjNFWnlJa3JqR05ueG9wN2d4WDNjNTNRcjk3SlpTbVpwX3dIYUtlLVlB?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$40 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10493,42 +10528,6 @@
       "summary": "Data centers face construction delays and energy bottleneck as resistance grows.",
       "finding_type": "Cancellation / Pause",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "093309215017e6",
-      "title": "AI + quantum, Amazon vs. Starlink and the wide-open US-China internet battle",
-      "url": "https://siliconangle.com/2026/04/17/ai-quantum-amazon-vs-starlink-wide-open-us-china-internet-battle/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-17",
-      "summary": "Quantum computing keeps gaining momentum even though practically it&#8217;s years away from wide commercialization, and World Quantum Day April 14 provided an excuse for a lot of announcements. Among them: Nvidia unveiled AI models for quantum error correction. Dave Vellante and Paul Gillin concluded at Hewlett Packard Enterprise&#8217;s quantum day event on theCUBE that artificial [&#8230;] \n The post  AI + quantum, Amazon vs. Starlink and the wide-open US-China internet battle  appeared first ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4492b63908ccc9",
-      "title": "OpenAI ratchets up Codex’s agentic capabilities to rival Claude Code",
-      "url": "https://siliconangle.com/2026/04/16/openai-ratchets-codexs-agentic-capabilities-rival-claude-code/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-17",
-      "summary": "OpenAI Group PBC today announced a major revamp of its artificial intelligence coding tool Codex, giving it a number of new “agentic” capabilities that enable more complex task automation. The ChatGPT maker is engaged in a fierce battle for AI coding supremacy with its rival Anthropic PBC, and is widely perceived to be in danger [&#8230;] \n The post  OpenAI ratchets up Codex&#8217;s agentic capabilities to rival Claude Code  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
