@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-07T06:36:03.694244+00:00",
+  "last_updated": "2026-05-07T10:25:33.692789+00:00",
   "finding_count": 600,
-  "new_project_count": 106,
+  "new_project_count": 105,
   "cancellation_count": 11,
   "sec_filing_count": 0,
   "high_confidence_count": 173,
@@ -21,6 +21,36 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d824a8fadd0500",
+      "title": "DCD>Studio: Developing in Southern Europe, with Olivier Labbe, Via DC",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-developing-in-southern-europe-with-olivier-labbe-via-dc/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-07",
+      "summary": "DCD's Seb Moss speaks with Olivier Labbe of Via DC about enabling data center growth across Southern Europe through site assessment and commercialization expertise.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eb9dfa18042a7e",
+      "title": "Transforming colocation facilities to meet demand for AI compute",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/transforming-colocation-facilities-to-meet-demand-for-ai-compute/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-07",
+      "summary": "Transforming colocation infrastructure to support high density AI workloads with scalable power, liquid cooling, and resilient deployment strategies.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -411,24 +441,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f26060b8d36dab",
-      "title": "xAI Leases Compute Power to Anthropic: Musk’s Compute Empire Begins to Leak - 深潮TechFlow",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mblgtZm5FZ3R3N2prVTlfTmxUeEtweHBQeHR6UDZxNTJKeFRJU2xTajgzNHFlY2N2bzlWVGlqS09hZ2NqM0wtT2lRTUdXS3hwQlNkMnEtajNWQTAz?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-06",
-      "summary": "xAI Leases Compute Power to Anthropic: Musk’s Compute Empire Begins to Leak &nbsp;&nbsp; 深潮TechFlow",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e2c2c87dad8849",
       "title": "Developer may build data center instead of warehouse in Perry County, Pennsylvania",
       "url": "https://www.datacenterdynamics.com/en/news/developer-may-build-data-center-instead-of-warehouse-in-perry-county-pennsylvania/",
@@ -506,23 +518,6 @@
       "companies": [],
       "locations": [
         "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1406ee8323f32b",
-      "title": "Data center developer sues North Carolina county after it passes one-year moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Seeks to either overturn or exempt itself from moratorium",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Carolina"
       ],
       "amounts": [],
       "confidence": 2,
@@ -626,6 +621,41 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f26060b8d36dab",
+      "title": "xAI Leases Compute Power to Anthropic: Musk’s Compute Empire Begins to Leak - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mblgtZm5FZ3R3N2prVTlfTmxUeEtweHBQeHR6UDZxNTJKeFRJU2xTajgzNHFlY2N2bzlWVGlqS09hZ2NqM0wtT2lRTUdXS3hwQlNkMnEtajNWQTAz?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-05-06",
+      "summary": "xAI Leases Compute Power to Anthropic: Musk’s Compute Empire Begins to Leak &nbsp;&nbsp; 深潮TechFlow",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1406ee8323f32b",
+      "title": "Data center developer sues North Carolina county after it passes one-year moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-developer-sues-north-carolina-county-after-it-passes-one-year-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-06",
+      "summary": "Seeks to either overturn or exempt itself from moratorium",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "North Carolina"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3718,6 +3748,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "85e274c510a9ed",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -3732,23 +3779,6 @@
       "locations": [
         "India"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "85e274c510a9ed",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5925,6 +5955,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "7fad389d32e875",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUhlZ245NGgwTjlnbWdOUzI3Ry1LNnJlU3h2VXBUV2VjREptdDdXSGJwcEhNcFlBa0JTdkpaS1F0RXcwcmttN1ZYT0VGVlN0REpNNHRocnFCaXdEcUU1bFVpcXRnOW5mU3JEc0tMTzlSRFhzVDNfRDhxRldEcm9rbkhucUdFcGlxaDNIYkRtM0ZsbVc0VnU5UkJR?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-04-24",
+      "summary": "Google to invest up to $40B in Anthropic in cash and compute &nbsp;&nbsp; TechCrunch",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$40B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "2a24c71ae8c6a7",
       "title": "QumulusAI secures $45m in convertible notes for AI cloud expansion",
       "url": "https://www.datacenterdynamics.com/en/news/qumulusai-secures-45m-in-convertible-notes-for-ai-cloud-expansion/",
@@ -6172,21 +6222,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2c96e9c41f14f5",
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy &nbsp;&nbsp; U.S. News Money",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ecd70499f89e4a",
       "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
       "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/",
@@ -6199,6 +6234,21 @@
         "Amazon",
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2c96e9c41f14f5",
+      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-04-24",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy &nbsp;&nbsp; U.S. News Money",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -6664,6 +6714,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "b519f968cabac2",
+      "title": "Microsoft expands AI footprint in Australia with $18 billion investment - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXdkUkRZVF9LblVKNGQ2cXpjeWFrQ19jNzNWNlRVQy1hc1NyZnphTHZjclJycWE5LU5LSm9OcE9FZVMtQm0wTDlZcXBzX2R0blJjWmtwRC0tV1hiSjNILTVrX1VWajF6eEowN3NuYjRKWFVYNVFOX1lIYUVMN2ltSVpjdFNEQXBKdzhMMzE1SmRoX3dYQy1ScGU0ZzYxd1RIQTlJdFJsVDdIN1k?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-04-23",
+      "summary": "Microsoft expands AI footprint in Australia with $18 billion investment &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "$18 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "0853336a23ca2c",
       "title": "Microsoft expands AI footprint in Australia with $18 billion investment - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXdkUkRZVF9LblVKNGQ2cXpjeWFrQ19jNzNWNlRVQy1hc1NyZnphTHZjclJycWE5LU5LSm9OcE9FZVMtQm0wTDlZcXBzX2R0blJjWmtwRC0tV1hiSjNILTVrX1VWajF6eEowN3NuYjRKWFVYNVFOX1lIYUVMN2ltSVpjdFNEQXBKdzhMMzE1SmRoX3dYQy1ScGU0ZzYxd1RIQTlJdFJsVDdIN1nSAbABQVVfeXFMT2stNWM0ZTFOVW5sY1lEb3hObTBaRjFHOFhIMFh6d0xOQmN4X25QaGJlbF9LN05hbXkzSmpXTTktSEFxZHpCTXFzcnluaVJIOUpvY3ZISjFtZi01MXQ2emo2SnRtQlFCUF94REl5RDV6UThKc2pVU0ZXczRVUXFiZ29fbHpCVDF1SUJDczVNWGl6ZDFVRllJZ01uTkNfQjNYUGRGeFVTWWwxNTN6Q0ZnVDQ?oc=5",
@@ -6701,27 +6772,6 @@
       ],
       "amounts": [
         "$18 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b519f968cabac2",
-      "title": "Microsoft expands AI footprint in Australia with $18 billion investment - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXdkUkRZVF9LblVKNGQ2cXpjeWFrQ19jNzNWNlRVQy1hc1NyZnphTHZjclJycWE5LU5LSm9OcE9FZVMtQm0wTDlZcXBzX2R0blJjWmtwRC0tV1hiSjNILTVrX1VWajF6eEowN3NuYjRKWFVYNVFOX1lIYUVMN2ltSVpjdFNEQXBKdzhMMzE1SmRoX3dYQy1ScGU0ZzYxd1RIQTlJdFJsVDdIN1k?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-23",
-      "summary": "Microsoft expands AI footprint in Australia with $18 billion investment &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "$18 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -8796,6 +8846,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "e1d44d713f0613",
+      "title": "Meta breaks ground on new $1 billion data center in Tulsa - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVVqV1V4bk40SUdpYjBWb3RvY2R4ZFphZEhVdUQxY0xMYmFrcHQ1VWFER29GSVNXbTlZajUwWTlRWWZRRnZaY1ZqMXk2V1lXX0lpRXUtQ1Q1VlMyM3B3UHp0MDBoTHBCR2pYOG80aE44dnZKUmZ0UXlQNEtYMVl0WnVDbkFSSDNDUnFBTHhZRUFGSXdadVljVUFodFpTeUwyTE1qYUVTbjh2RXpWSnc?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-21",
+      "summary": "Meta breaks ground on new $1 billion data center in Tulsa &nbsp;&nbsp; marketscreener.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "29355ed0bf54c2",
       "title": "Amazon, Anthropic Strengthen AI Ties With $5B Investment - Data Center Knowledge",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1FObFk4S2FrV2ZrdUgxMHRQaXBpN2Z0MUNMaEVEdFBtZ3RKZDJMSGRyTTUtYXo0dndrTHoyUjZEeDdsN1VidzNuazRYdWFfUmQzQ1VXekUxS2JmT1ZndHA4cW1rdVpUQVFYaFF2TUFOdUtxVUpzS2Zsd0tIMlhkbjY3YlZCbHpMLUZaRXFtRGRfQzRpTkVOYnVUdmE4VUxHN0hMWDY5LWh5bkRLakE?oc=5",
@@ -8850,25 +8919,6 @@
       "locations": [
         "Oklahoma"
       ],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e1d44d713f0613",
-      "title": "Meta breaks ground on new $1 billion data center in Tulsa - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVVqV1V4bk40SUdpYjBWb3RvY2R4ZFphZEhVdUQxY0xMYmFrcHQ1VWFER29GSVNXbTlZajUwWTlRWWZRRnZaY1ZqMXk2V1lXX0lpRXUtQ1Q1VlMyM3B3UHp0MDBoTHBCR2pYOG80aE44dnZKUmZ0UXlQNEtYMVl0WnVDbkFSSDNDUnFBTHhZRUFGSXdadVljVUFodFpTeUwyTE1qYUVTbjh2RXpWSnc?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-21",
-      "summary": "Meta breaks ground on new $1 billion data center in Tulsa &nbsp;&nbsp; marketscreener.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [
         "$1 billion"
       ],
@@ -10476,60 +10526,6 @@
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
-    },
-    {
-      "id": "da9edd69a4a7cc",
-      "title": "'We're going to have major issues.' Kenilworth residents push back against AI data center under construction - News12 | New Jersey",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWUhiT09ZWklYZVdwQS1NZWZ6UW5wUlFjWnpVYlVDLUw1aTI1V0tDcFFwNHNRNm9ER3E1dWFvNVRxS29OZjJBaWJWc0FiQmhTZjlGSkRMRzVzakxnUHpyNUFUdnE0RlNLb2NKYVdMdDFKSGtiWnpjMkEtOGlsZzVUbXJsQ3RSSTY1ZWRPUE5UYVZGOWhoa2FyS1pfRkNBVWQ4Yno3bGo0ajV3N0o3cFo3QjhJUQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-18",
-      "summary": "'We're going to have major issues.' Kenilworth residents push back against AI data center under construction &nbsp;&nbsp; News12 | New Jersey",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New Jersey",
-        "Kenilworth"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d151afe38177e7",
-      "title": "Sponsored: Building AI factories: Why integrated power and liquid cooling systems are critical for high‑density AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/building-ai-factories-why-integrated-power-and-liquid-cooling-systems-are-critical-for-highdensity-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-18",
-      "summary": "AI factories are pushing data center power and cooling requirements beyond traditional limits, making integrated AI data center infrastructure essential",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2ca45e55ab0a17",
-      "title": "Amazon to Invest $12 Billion in Mississippi Data Centers - Tippah News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXRKR0g2MFhuV0MxQkpneDlnVDhxcFlJeFJuMG9aRXM4MGdabHhTWmxvRVJTSktJMHc2NVZPQ1pmRkpicVpzNWJBazZfMlUxdGRHbGJYWV92MEpyYlNRQjZDVWR1THNIdk82TDNjaGk3cE4xVUtYM2FkS0pXOGk1RXpUSFQ0NVhYVkVIMjBiaUJsOGlsTXpCcDQ2Rko?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-17",
-      "summary": "Amazon to Invest $12 Billion in Mississippi Data Centers &nbsp;&nbsp; Tippah News",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Mississippi"
-      ],
-      "amounts": [
-        "$12 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
     }
   ]
 }
