@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-08T09:23:44.121147+00:00",
+  "last_updated": "2026-05-08T11:17:49.859028+00:00",
   "finding_count": 600,
-  "new_project_count": 111,
+  "new_project_count": 112,
   "cancellation_count": 8,
   "sec_filing_count": 0,
-  "high_confidence_count": 181,
+  "high_confidence_count": 182,
   "findings": [
     {
       "id": "54bc8a64db22a8",
@@ -54,10 +54,30 @@
       ],
       "locations": [],
       "amounts": [
-        "$2.1 billion",
-        "$2.1B"
+        "$2.1B",
+        "$2.1 billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "306d0420df541c",
+      "title": "CoreWeave surpasses 1GW of data center capacity, pushes more into self builds",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-surpasses-1gw-of-data-center-capacity-pushes-more-into-self-builds/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Company is \"firmly on track\" for 1.7GW by end of 2026",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [
+        "1.7GW",
+        "1GW"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -78,6 +98,109 @@
       "is_high_confidence": true
     },
     {
+      "id": "b2e6a871bc4eae",
+      "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWUlUT1F5eFJRbjBvYVA2bzhUV3NUSExnMTNFVDVHZWlISzR2SV9mcXQzN2ZmRzJPcE84Z2xXVjVRTzhzd21ubkFuX0UxdHhPeG96dE5McTJJcklMR2VWWnNYV0FlZHRsUkZwNlg2NERiaTRGbFQ3WWs4V1dPbjdzdVNBcmlXWVVyczNuS2hwcTRSZEJnS0hVYXp5amZ3R0habHc3bktzeW9aMC1hY3RKUnBibVZlS2JaZTNnQmVjT3lkbnNjUlB0SnE4SGtaRm9Bd1I3REY1SnRMRGNmLTV4bWtn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-08",
+      "summary": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure &nbsp;&nbsp; NVIDIA Newsroom",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9c2533d1539ea5",
+      "title": "AWS experiences power issues at Northern Virginia cloud region",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-experiences-power-issues-at-northern-virginia-cloud-region/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Caused by thermal event",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "51f1a4a49e5b68",
+      "title": "Yondr launches latest data center in Slough, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/yondr-launches-latest-data-center-in-slough-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Third facility at London campus goes live",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "423dc4cb610b08",
+      "title": "Municipal data center to be built for northwest Romania",
+      "url": "https://www.datacenterdynamics.com/en/news/municipal-data-center-to-be-built-for-northwest-romania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Move will accelerate the digitization of government in Cluj-Napoca region",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44fff664e8a368",
+      "title": "Samsung and new firm M3 to develop floating data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/samsung-and-new-firm-m3-to-develop-floating-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Startup founded by engineers with floating server experience",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fae74586d639ef",
+      "title": "TotalEnergies inks deal with Nvidia and Dell to build supercomputer in Pau, France",
+      "url": "https://www.datacenterdynamics.com/en/news/totalenergies-inks-deal-with-nvidia-and-dell-to-build-supercomputer-in-pau-france/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Will be used to advance seismic imaging for hydrocarbon exploration",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cec943f622604f",
       "title": "AWS adds agentic payment features to Amazon Bedrock AgentCore",
       "url": "https://siliconangle.com/2026/05/07/aws-adds-agentic-payment-features-amazon-bedrock-agentcore/",
@@ -92,6 +215,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0ef0d55de5b60f",
+      "title": "Riot Platforms inks MoU with Terrestrial Energy to explore SMR colocation opportunities",
+      "url": "https://www.datacenterdynamics.com/en/news/riot-platforms-inks-mou-with-terrestrial-energy-to-explore-smr-colocation-opportunities/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Assessing potential sites in the US",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -175,6 +313,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "0deb2dda66cc81",
+      "title": "Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates",
+      "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-07",
+      "summary": "Shares in Akamai Technologies Inc. surged more than 26% in late trading today after the cybersecurity and cloud computing company reported in-line first-quarter results and disclosed a $1.8 billion, seven-year commitment from a leading U.S.-based frontier model provider for its cloud infrastructure services. For its fiscal 2026 first quarter that ended on March 31, Akamai [&#8230;] \n The post  Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates  appeared first on  ",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.8B",
+        "$1.8 billion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "9294d50626b5a4",
       "title": "Microsoft and G42 data center in Kenya stalled due to lack of power capacity",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/",
@@ -240,24 +396,6 @@
       ],
       "amounts": [
         "1.2GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0deb2dda66cc81",
-      "title": "Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates",
-      "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "Shares in Akamai Technologies Inc. surged more than 26% in late trading today after the cybersecurity and cloud computing company reported in-line first-quarter results and disclosed a $1.8 billion, seven-year commitment from a leading U.S.-based frontier model provider for its cloud infrastructure services. For its fiscal 2026 first quarter that ended on March 31, Akamai [&#8230;] \n The post  Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates  appeared first on  ",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1.8 billion",
-        "$1.8B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -435,36 +573,6 @@
       "locations": [
         "Brazil"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "493aa1d1b6bcfc",
-      "title": "Indus Cloud, Indus DC REIT, and UBL sign agreement to establish data centers and cloud platform in Pakistan",
-      "url": "https://www.datacenterdynamics.com/en/news/manufacturer-flex-plans-to-spin-out-cloud-and-infrastructure-business/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "Indus DC REIT will provide data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6bab37bec63086",
-      "title": "NorthC data center outside Amsterdam suffers fire",
-      "url": "https://www.datacenterdynamics.com/en/news/northc-data-center-outside-amsterdam-suffers-fire/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "Firefighters still fighting blaze",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -669,6 +777,36 @@
         "Google",
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "493aa1d1b6bcfc",
+      "title": "Indus Cloud, Indus DC REIT, and UBL sign agreement to establish data centers and cloud platform in Pakistan",
+      "url": "https://www.datacenterdynamics.com/en/news/manufacturer-flex-plans-to-spin-out-cloud-and-infrastructure-business/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-07",
+      "summary": "Indus DC REIT will provide data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6bab37bec63086",
+      "title": "NorthC data center outside Amsterdam suffers fire",
+      "url": "https://www.datacenterdynamics.com/en/news/northc-data-center-outside-amsterdam-suffers-fire/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-07",
+      "summary": "Firefighters still fighting blaze",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2647,21 +2785,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "34ed513456a920",
-      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-04",
-      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c82c2d6bed015f",
       "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
@@ -2674,6 +2797,21 @@
         "Amazon",
         "OpenAI"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34ed513456a920",
+      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-04",
+      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -4616,23 +4754,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "85e274c510a9ed",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -4647,6 +4768,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "85e274c510a9ed",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7123,6 +7261,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7172d367088f5c",
+      "title": "McIver Introduces Bill to Stop Surprise AI Data Center Development - Insider NJ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDFFVTIxT0paTjBFVVJkemlNcnNBdkwzeURkenQ1V0hFZ0tYLXhzTGVaUW9ZTE0zWUl1M2ZELXJ6T184Sjl1eFc3aklaWmkyZm1CdzhqS09aS291SDdqMEt0Q1h2OTVpM0pxZzdEdTFoV1BMd3BUanNuYmEwVmZQT0hIT1laOGxUWUxNakk3NmNHbGhlMnJNVQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-24",
+      "summary": "McIver Introduces Bill to Stop Surprise AI Data Center Development &nbsp;&nbsp; Insider NJ",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -10380,156 +10533,6 @@
         "Microsoft"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6fb40e0bcfc051",
-      "title": "Internal emails show how Amazon raises prices across the Internet, lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/04/internal-emails-show-how-amazon-raises-prices-across-the-internet-lawsuit-says/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "“It’s working!“: Amazon emails with vendors show pattern of disappearing deals.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9553f292f61b0b",
-      "title": "Boomi builds a role for agents and guardrails in the data-connected enterprise",
-      "url": "https://siliconangle.com/2026/04/21/boomi-builds-data-activation-agents-guardrails-boomiworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-21",
-      "summary": "Artificial intelligence and machine learning have been a central focus for Boomi LP over much of its 26 years as a data activation company. The organization began storing anonymized metadata from customer integrations when it launched its multi-tenant platform for the cloud in 2005. In 2010, Boomi added a wizard to its platform that relied [&#8230;] \n The post  Boomi builds a role for agents and guardrails in the data-connected enterprise  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee07adfc9d2109",
-      "title": "Uravu's salty solution to the data center cooling conundrum",
-      "url": "https://www.datacenterdynamics.com/en/analysis/uravus-salty-solution-to-the-data-center-cooling-conundrum/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "System can chill racks and harvest heat",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "de1429d98acf21",
-      "title": "Plans to build 1,300-acre data center in Fort Meade, Florida, gets go-ahead from officials",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-to-build-1300-acre-data-center-in-fort-meade-florida-gets-go-ahead-from-officials/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "But still needs final approval from water utility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Florida"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7915c4674c940f",
-      "title": "NTT decommissions data center outside London",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-decommissions-data-center-outside-london/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "Facility inherited from Gyron in Hemel Hempstead retired, environmental permit surrendered",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "54d107a8434c2b",
-      "title": "Mythos remains a mystery as security world faces rising threats, agentic attacks and concerns about AI integrity",
-      "url": "https://siliconangle.com/2026/04/20/mythos-remains-mystery-security-world-faces-rising-threats-agentic-attacks-concerns-ai-integrity/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-21",
-      "summary": "Anthropic PBC’s Claude Mythos model has emerged as the most widely discussed artificial intelligence solution without being fully released. Information about the model, which reportedly has the ability to analyze software at large scale, find bugs in hardened software ecosystems, and identify vulnerabilities, has been tightly controlled by Anthropic. That situation did not change much on Monday [&#8230;] \n The post  Mythos remains a mystery as security world faces rising threats, agentic attacks",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "83faf35979a0fb",
-      "title": "Australia’s Viridis secures Sydney site for data center",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-viridis-secures-sydney-site-for-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "Construction estimated to begin this year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia",
-        "Sydney"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8f7f73525ead7a",
-      "title": "Helium supply disruptions linked to Middle East conflict could impact semiconductor, AI, and data center supply chains",
-      "url": "https://www.datacenterdynamics.com/en/news/helium-supply-disruptions-linked-to-middle-east-conflict-could-impact-semiconductor-ai-and-data-center-supply-chains/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "Qatar accounts for around 30 percent of world’s high-purity helium production",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee6a854d24cd45",
-      "title": "EdgeCore secures $1.5 bn financing for Virginia data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/edgecore-secures-15-bn-financing-for-virginia-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-21",
-      "summary": "Secures funds to finish build of two facilities, due live this year and next",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
