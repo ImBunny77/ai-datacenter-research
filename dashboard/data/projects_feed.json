@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-08T11:17:49.859028+00:00",
+  "last_updated": "2026-05-08T13:51:53.727973+00:00",
   "finding_count": 600,
-  "new_project_count": 112,
+  "new_project_count": 115,
   "cancellation_count": 8,
   "sec_filing_count": 0,
-  "high_confidence_count": 182,
+  "high_confidence_count": 185,
   "findings": [
     {
       "id": "54bc8a64db22a8",
@@ -29,6 +29,25 @@
       "source_cat": "Announcement",
       "date": "2026-05-08",
       "summary": "A $2.1 billion investment in IREN to expand the data center 'circle of friends,' as NVIDIA continues its 'AI flywheel.' &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2.1 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "462f7cde37ae58",
+      "title": "Nvidia invests up to $2.1 billion in IREN AI data center deal - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xMF9lM1Jud3g3VGxDVl9QVmtYMXRsNm53c2J1ZVVraWZUNEVrdXZXQU9HbzlHTUhsS3BXcG5meUpQVFFWZ0JZeFdoX0JRVW90NFhDWnk5Vk9fajNheW1pOW1Yc2hZaXBNLW9SOFdKS0J2dXgydjFyNF9Scw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-08",
+      "summary": "Nvidia invests up to $2.1 billion in IREN AI data center deal &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
       "companies": [
         "NVIDIA"
@@ -74,10 +93,48 @@
       ],
       "locations": [],
       "amounts": [
-        "1.7GW",
-        "1GW"
+        "1GW",
+        "1.7GW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "965baac00e4754",
+      "title": "Nvidia to invest up to $2.1bn in neocloud Iren, funding deployment of up to 5GW of Nvidia DSX-aligned compute",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-to-invest-up-to-21bn-in-neocloud-iren-funding-deployment-of-up-to-5gw-of-nvidia-dsx-aligned-compute/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "As Iren energizes Sweetwater and buys Mirantis",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "5GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a0ad7b06c6fd0f",
+      "title": "Prime breaks ground on latest data center in Sacramento, California",
+      "url": "https://www.datacenterdynamics.com/en/news/prime-breaks-ground-on-latest-data-center-in-sacramento-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Work begins on 18MW building",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [
+        "18MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -115,6 +172,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "07e782d0dba6b9",
+      "title": "AWS experiences power issues at Northern Virginia cloud region, causing limited outage",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-experiences-power-issues-at-northern-virginia-cloud-region/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Caused by thermal event",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "9c2533d1539ea5",
       "title": "AWS experiences power issues at Northern Virginia cloud region",
       "url": "https://www.datacenterdynamics.com/en/news/aws-experiences-power-issues-at-northern-virginia-cloud-region/",
@@ -131,6 +207,39 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d89390a8fdb29a",
+      "title": "OpenAI and Broadcom in discussions over financing of $18bn custom chip project – report",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-and-broadcom-in-discussions-over-financing-of-18bn-custom-chip-project-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-08",
+      "summary": "Broadcom’s investment in initial project phase reportedly tied to Microsoft purchase commitments",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c20dcef770c93e",
+      "title": "Conservatives should embrace data centers - The Natchez Democrat",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUZFYjNpTWV1Tnh4Nk9EbzA0Yk40NWdFWGhJOEZ0dkZ1V0hZQkVZU29aV3NUb3hFS1REMU5xWHllMmd5UDY1c0JGU2Vkd3Y3VU5FUW1vbjJLVTJDbnI5REdrNDRxQjd2eHcyYU9BdVNoZnNQT3BQeDM2Sm5mVXY0YkJYX1JONDFVSnQzeE9vUFdFTEJ6bDZvXy1YeGJ0MllMdHRpUjdtbDNhYngxeWgxS2hpclFqa1NaZFQzWjRTY0o1YWFKdkpTdGRJUEdDVnM?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-08",
+      "summary": "Conservatives should embrace data centers &nbsp;&nbsp; The Natchez Democrat",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -293,6 +402,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "0deb2dda66cc81",
+      "title": "Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates",
+      "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-07",
+      "summary": "Shares in Akamai Technologies Inc. surged more than 26% in late trading today after the cybersecurity and cloud computing company reported in-line first-quarter results and disclosed a $1.8 billion, seven-year commitment from a leading U.S.-based frontier model provider for its cloud infrastructure services. For its fiscal 2026 first quarter that ended on March 31, Akamai [&#8230;] \n The post  Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates  appeared first on  ",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.8 billion",
+        "$1.8B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "65c19204f77f6b",
       "title": "365 Data Centers and Carter Funds to develop 200MW of data centers in the US",
       "url": "https://www.datacenterdynamics.com/en/news/365-data-centers-and-carter-funds-to-develop-200mw-of-data-centers-in-the-us/",
@@ -308,24 +435,6 @@
       ],
       "amounts": [
         "200MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0deb2dda66cc81",
-      "title": "Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates",
-      "url": "https://siliconangle.com/2026/05/07/akamai-shares-surge-26-1-8b-ai-infrastructure-deal-q1-results-meet-estimates/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "Shares in Akamai Technologies Inc. surged more than 26% in late trading today after the cybersecurity and cloud computing company reported in-line first-quarter results and disclosed a $1.8 billion, seven-year commitment from a leading U.S.-based frontier model provider for its cloud infrastructure services. For its fiscal 2026 first quarter that ended on March 31, Akamai [&#8230;] \n The post  Akamai shares surge 26% on $1.8B AI infrastructure deal as earnings meet estimates  appeared first on  ",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1.8B",
-        "$1.8 billion"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -561,23 +670,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "715a7cc28a3dd6",
-      "title": "Brazil's Ascenty launches operations at its SPO05 data center in São Paulo",
-      "url": "https://www.datacenterdynamics.com/en/news/brazils-ascenty-launches-operations-at-its-spo05-data-center-in-s%C3%A3o-paulo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "The company has also begun construction of SPO06 on the same campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Brazil"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "bf7da2f7ff5679",
       "title": "AWS and Atlassian reframe AI as an organizational challenge, not an IT one",
       "url": "https://siliconangle.com/2026/05/07/ai-native-strategy-evolution-business-margins-atlassianteam/",
@@ -778,6 +870,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "715a7cc28a3dd6",
+      "title": "Brazil's Ascenty launches operations at its SPO05 data center in São Paulo",
+      "url": "https://www.datacenterdynamics.com/en/news/brazils-ascenty-launches-operations-at-its-spo05-data-center-in-s%C3%A3o-paulo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-07",
+      "summary": "The company has also begun construction of SPO06 on the same campus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Brazil"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4754,6 +4863,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "85e274c510a9ed",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -4768,23 +4894,6 @@
       "locations": [
         "India"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "85e274c510a9ed",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -6985,7 +7094,7 @@
       "id": "7fad389d32e875",
       "title": "Google to invest up to $40B in Anthropic in cash and compute - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRUhlZ245NGgwTjlnbWdOUzI3Ry1LNnJlU3h2VXBUV2VjREptdDdXSGJwcEhNcFlBa0JTdkpaS1F0RXcwcmttN1ZYT0VGVlN0REpNNHRocnFCaXdEcUU1bFVpcXRnOW5mU3JEc0tMTzlSRFhzVDNfRDhxRldEcm9rbkhucUdFcGlxaDNIYkRtM0ZsbVc0VnU5UkJR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
+      "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-04-24",
       "summary": "Google to invest up to $40B in Anthropic in cash and compute &nbsp;&nbsp; TechCrunch",
@@ -7264,21 +7373,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7172d367088f5c",
-      "title": "McIver Introduces Bill to Stop Surprise AI Data Center Development - Insider NJ",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDFFVTIxT0paTjBFVVJkemlNcnNBdkwzeURkenQ1V0hFZ0tYLXhzTGVaUW9ZTE0zWUl1M2ZELXJ6T184Sjl1eFc3aklaWmkyZm1CdzhqS09aS291SDdqMEt0Q1h2OTVpM0pxZzdEdTFoV1BMd3BUanNuYmEwVmZQT0hIT1laOGxUWUxNakk3NmNHbGhlMnJNVQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-04-24",
-      "summary": "McIver Introduces Bill to Stop Surprise AI Data Center Development &nbsp;&nbsp; Insider NJ",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ecd70499f89e4a",
       "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
       "url": "https://about.fb.com/news/2026/04/meta-partners-with-aws-on-graviton-chips-to-power-agentic-ai/",
@@ -7291,6 +7385,21 @@
         "Amazon",
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7172d367088f5c",
+      "title": "McIver Introduces Bill to Stop Surprise AI Data Center Development - Insider NJ",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWDFFVTIxT0paTjBFVVJkemlNcnNBdkwzeURkenQ1V0hFZ0tYLXhzTGVaUW9ZTE0zWUl1M2ZELXJ6T184Sjl1eFc3aklaWmkyZm1CdzhqS09aS291SDdqMEt0Q1h2OTVpM0pxZzdEdTFoV1BMd3BUanNuYmEwVmZQT0hIT1laOGxUWUxNakk3NmNHbGhlMnJNVQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-04-24",
+      "summary": "McIver Introduces Bill to Stop Surprise AI Data Center Development &nbsp;&nbsp; Insider NJ",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10429,108 +10538,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a1011946347407",
-      "title": "Google brings Pomelli in English to small businesses in Europe.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli-in-europe/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-04-21",
-      "summary": "A video illustrating how Pomelli works.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4f3fd38cc5cb27",
-      "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07e2efd3ede74a",
-      "title": "OpenAI launches ChatGPT Images 2.0, Codex Labs developer training service",
-      "url": "https://siliconangle.com/2026/04/21/openai-launches-chatgpt-images-2-0-codex-labs-developer-training-service/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-21",
-      "summary": "OpenAI Group PBC today launched ChatGPT Images 2.0, an upgraded version of the image generator built into its popular chatbot. The company also debuted a new technical training service called Codex Labs. It&#8217;s designed to help organizations adopt OpenAI’s Codex programming assistant. ChatGPT Images 2.0 can generate images with a maximum width of 2,000 pixels in [&#8230;] \n The post  OpenAI launches ChatGPT Images 2.0, Codex Labs developer training service  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "61f9f6fa641d56",
-      "title": "Three insights you may have missed from theCUBE’s coverage of the Oracle Data Deep Dive event",
-      "url": "https://siliconangle.com/2026/04/21/oracle-insights-database-architecture-data-deep-dive-oracledatadeepdivenyc/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-04-21",
-      "summary": "Database powerhouse Oracle Corp. is making its case that database architecture must serve as a trusted foundation for the AI that gets built on top. The company’s major step into the AI database as a foundational element has been accompanied by a redesigned Oracle Database and the unveiling of the AI Data Platform. Oracle’s releases [&#8230;] \n The post  Three insights you may have missed from theCUBE’s coverage of the Oracle Data Deep Dive event  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7ebafc770c74b1",
-      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "Move highlights the difficulty of finding high-quality interactive training data.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "db2811f9e0f4e3",
-      "title": "Microsoft removes Call of Duty from Game Pass, lowers subscription pricing",
-      "url": "https://arstechnica.com/gaming/2026/04/microsofts-game-pass-gets-cheaper-loses-launch-day-call-of-duty-access/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-04-21",
-      "summary": "New Xbox CEO says subscription \"has become too expensive for too many players.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
