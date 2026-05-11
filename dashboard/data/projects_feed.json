@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-10T22:50:46.312805+00:00",
+  "last_updated": "2026-05-11T03:39:31.924124+00:00",
   "finding_count": 600,
-  "new_project_count": 110,
+  "new_project_count": 109,
   "cancellation_count": 8,
   "sec_filing_count": 0,
-  "high_confidence_count": 176,
+  "high_confidence_count": 175,
   "findings": [
     {
       "id": "b8ca7b0bbf3607",
@@ -97,10 +97,29 @@
       "id": "462f7cde37ae58",
       "title": "Nvidia invests up to $2.1 billion in IREN AI data center deal - qz.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xMF9lM1Jud3g3VGxDVl9QVmtYMXRsNm53c2J1ZVVraWZUNEVrdXZXQU9HbzlHTUhsS3BXcG5meUpQVFFWZ0JZeFdoX0JRVW90NFhDWnk5Vk9fajNheW1pOW1Yc2hZaXBNLW9SOFdKS0J2dXgydjFyNF9Scw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-08",
       "summary": "Nvidia invests up to $2.1 billion in IREN AI data center deal &nbsp;&nbsp; qz.com",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2.1 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e3e4d3b5f375b7",
+      "title": "A $2.1 billion investment in IREN to expand the data center 'circle of friends,' as NVIDIA continues its 'AI flywheel.' - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUVSbUFMUkxpcWFRUkJyMGk2RGw1ZFhkdmFhS2NmM29QR0s5MWZxNDV6ekhlMFFONnhrM2p2SWhjY1FRT0JtZ0d5UEYxRWlOVHd3SF9FQWsxcEZFSG9tWEh0NGJjbjUwT3JCV2h4QmRPZTBLNDczdFlsb1ZyNzdGTnhoQk40dUlGazFSVE9ZQXI?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-08",
+      "summary": "A $2.1 billion investment in IREN to expand the data center 'circle of friends,' as NVIDIA continues its 'AI flywheel.' &nbsp;&nbsp; 富途牛牛",
       "finding_type": "New Project",
       "companies": [
         "NVIDIA"
@@ -127,25 +146,6 @@
       "locations": [],
       "amounts": [
         "$2.1B",
-        "$2.1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e3e4d3b5f375b7",
-      "title": "A $2.1 billion investment in IREN to expand the data center 'circle of friends,' as NVIDIA continues its 'AI flywheel.' - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUVSbUFMUkxpcWFRUkJyMGk2RGw1ZFhkdmFhS2NmM29QR0s5MWZxNDV6ekhlMFFONnhrM2p2SWhjY1FRT0JtZ0d5UEYxRWlOVHd3SF9FQWsxcEZFSG9tWEh0NGJjbjUwT3JCV2h4QmRPZTBLNDczdFlsb1ZyNzdGTnhoQk40dUlGazFSVE9ZQXI?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-08",
-      "summary": "A $2.1 billion investment in IREN to expand the data center 'circle of friends,' as NVIDIA continues its 'AI flywheel.' &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
         "$2.1 billion"
       ],
       "confidence": 9,
@@ -4901,6 +4901,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a12d81941861be",
+      "title": "What I Learned about Hyperscalers’ AI Spend - On my Om",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VSVpxQ2RGMXZsQUhwdnF3TUwzcmlaWG1lSnd1YlA2VlhIbDVmb0d1Qk9jb3A2NE85cVdja1NaT1FfcFFlLVJDZ1pCU18tcThyOEVBNkxENzFRMlk3WHRvbUxnd3hWWjEwdHdLUDNLbDhRclctWDBz?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-04-30",
+      "summary": "What I Learned about Hyperscalers’ AI Spend &nbsp;&nbsp; On my Om",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -10461,27 +10476,6 @@
       "source_cat": "Announcement",
       "date": "2026-04-21",
       "summary": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b07736871f4c86",
-      "title": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVDNJQlQ3VWl1X3drY0FpdHB2dk9NdldVYWNack52UG1ic0w4d2J6enBxV3lVOUNkek1lcUh1Y3U1VXR0MFYtS0V6Wkw3VXFpVVlFcFZ4SHRxR1ZlODU1NWswaXdjc3M4bFFWY3NoYjNUQ0xkdEtzWmJJOXNOaDZyckpCLXBZXzU3cFVVU2hhOUlUcUlZWnQtOVpTR1o3ZG9kWXBFcFlkU1hjb2dKRDczdUR5WXgyWmFmd1ZQd2c3Zy1oYXk4T0RPM1FMeEpqN2lDNnduUg?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-21",
-      "summary": "Meta breaks ground on over $1 billion data center in Oklahoma's Tulsa &nbsp;&nbsp; TradingView",
       "finding_type": "New Project",
       "companies": [
         "Meta"
