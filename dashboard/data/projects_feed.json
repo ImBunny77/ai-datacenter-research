@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-13T21:26:19.090838+00:00",
+  "last_updated": "2026-05-13T23:05:54.397856+00:00",
   "finding_count": 600,
-  "new_project_count": 96,
+  "new_project_count": 95,
   "cancellation_count": 12,
   "sec_filing_count": 0,
   "high_confidence_count": 175,
@@ -271,6 +271,24 @@
       "summary": "Exploring how high density workloads and AI are shifting enterprise priorities in the data center industry",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dd86bd8e6a5352",
+      "title": "Microsoft’s agentic security system MDASH uncovers four critical Windows RCE flaws",
+      "url": "https://siliconangle.com/2026/05/13/microsofts-agentic-security-system-mdash-uncovers-four-critical-windows-rce-flaws/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-13",
+      "summary": "Microsoft Corp. today detailed a new artificial intelligence-powered vulnerability discovery system that uncovered 16 previously unknown flaws in Windows networking and authentication components, including four critical remote code execution bugs patched in this month&#8217;s Patch Tuesday release. The system, codenamed MDASH for multi-model agentic scanning harness, was built by Microsoft&#8217;s Autonomous Code Security team in [&#8230;] \n The post  Microsoft&#8217;s agentic security system MD",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -826,57 +844,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f2f4c33c825703",
-      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-12",
-      "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bbbc9c21ebf0d0",
-      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
-      "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-12",
-      "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f859b1fb076832",
-      "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
-      "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-12",
-      "summary": "Google has revealed its vision for the AI laptop of tomorrow.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "de06987e9d90dd",
       "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
       "url": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/",
@@ -921,6 +888,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f2f4c33c825703",
+      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-12",
+      "summary": "Teen trusted ChatGPT to help him “safely” experiment with drugs, logs show.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bbbc9c21ebf0d0",
+      "title": "Microsoft will lean on your CPU to speed up Windows 11's apps and animations",
+      "url": "https://arstechnica.com/gadgets/2026/05/speed-boosting-low-latency-profile-is-one-of-the-improvements-coming-to-windows-11/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-12",
+      "summary": "\"All modern operating systems do this, including macOS and Linux.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f859b1fb076832",
+      "title": "Google's Android-powered laptops are called Googlebooks, and they're coming this year",
+      "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-12",
+      "summary": "Google has revealed its vision for the AI laptop of tomorrow.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -6980,6 +6998,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "85e274c510a9ed",
+      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-04-29",
+      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "96797b420fb6f7",
       "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
       "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
@@ -6994,23 +7029,6 @@
       "locations": [
         "India"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "85e274c510a9ed",
-      "title": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration - The Bridge Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1VfeHhua3lfUm9VNmpLaGRwTDB2c2NYWHlicVh0S0t5WDlFWVBPb183d3RUWkRxVFRlUGYwS2dhS0I4clh3dHlTVVUwWFBQcUpLYjVycndmM3AwVUlkdklhVV9McjQ1TUZvQjd1WDNmc0Q0amFua1BrTEotMTA0dmxiQzRKLUpyWUx3c2lfbExqVUMyM0pFSU4yTnkwYzZtVEHSAa8BQVVfeXFMT0Q2TWRnOVh3aGt3RGJIVkowTFEzSEhGeHBjNGxycjBqTTRrTnJMSEh2X2ltTlJ6WXJFZnpiYnpkRTdYNDNvR3BTOEtnY2ZiU3ZHZnE5VV9kMEdlbko2VGRUdmF5NWtILThzd1VYSU16Nmw1c1NrVS1KRGx1UnZ3ckU2WlExdkIxNG5HUzViVW5ZNnBEbVRXSkkwWFh6Z3pwLVlsdkZlQWVpYlYybVljOA?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Google Breaks Ground on AI Data Centre in Andhra Pradesh with AdaniConneX and Airtel Collaboration &nbsp;&nbsp; The Bridge Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10432,23 +10450,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "ff03af6a35820f",
-      "title": "Applied Digital Announces New U.S. Based High Investment-Grade Hyperscaler Tenant at Delta Forge 1, a 430 MW AI Factory Campus - Applied Digital Corporation (APLD)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0xkeS01eTBSNFhkd2J2Ync5WktZNEo4a0RhZG8wTGw1SVJmU2JkcGhobk4wSWY0UVJXWVVhVmdLTnRoNWxVcGZoTE02ZWlXRjBuNTNSaW5LQ3J6Uy1tZGc0ZEIwS1V2M2czSC1HcjZMbXZGZ0kwLW1uOG1EWlR0NlN1ZkNaeDJabmFpNEN5TDk1Ui1wVHB6WV9hQVNQTkpEV2l6aEZWQ3FtZUFKRGFsRVZ3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-23",
-      "summary": "Applied Digital Announces New U.S. Based High Investment-Grade Hyperscaler Tenant at Delta Forge 1, a 430 MW AI Factory Campus &nbsp;&nbsp; Applied Digital Corporation (APLD)",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "430 MW"
-      ],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
