@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-14T14:16:17.681434+00:00",
+  "last_updated": "2026-05-14T17:52:17.145269+00:00",
   "finding_count": 600,
-  "new_project_count": 85,
+  "new_project_count": 88,
   "cancellation_count": 13,
   "sec_filing_count": 0,
-  "high_confidence_count": 161,
+  "high_confidence_count": 162,
   "findings": [
     {
       "id": "9b0feaec71bd39",
@@ -23,6 +23,25 @@
         "1.2GW"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "86f645ac157da6",
+      "title": "Certarus to provide natural gas supply for 60MW data center in Salt Lake City, Utah",
+      "url": "https://www.datacenterdynamics.com/en/news/certarus-to-provide-natural-gas-supply-for-60mw-data-center-in-salt-lake-city-utah/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "Will act as a bridge until permanent infrastructure is installed",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [
+        "60MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -106,6 +125,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "e4ac7522f06a05",
+      "title": "Data center cooling tech startup Iceotope aims to scale after raising $26M",
+      "url": "https://siliconangle.com/2026/05/14/data-center-cooling-tech-startup-icetope-aims-scale-raising-26m/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-14",
+      "summary": "Liquid cooling system startup Iceotope Technologies Ltd. said today it has closed on a $26 million Series B round of funding as it strives to accelerate the adoption of its data center-focused hardware. Two Seas Capital and Barclays Climate Ventures co-led the round, with participation from existing backers such as Edinv, ABC Impact, Northern Gritstone [&#8230;] \n The post  Data center cooling tech startup Iceotope aims to scale after raising $26M  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$26M",
+        "$26 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "1d0236ccf78466",
       "title": "Meta signs PPAs with Desri for 850MW of power across three US states",
       "url": "https://www.datacenterdynamics.com/en/news/meta-signs-ppas-with-desri-for-850mw-of-power-across-three-us-states/",
@@ -129,22 +166,23 @@
       "is_high_confidence": true
     },
     {
-      "id": "e4ac7522f06a05",
-      "title": "Data center cooling tech startup Iceotope aims to scale after raising $26M",
-      "url": "https://siliconangle.com/2026/05/14/data-center-cooling-tech-startup-icetope-aims-scale-raising-26m/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "44c2b5dfbd376f",
+      "title": "Google files for data center campus outside Richmond, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/google-files-for-data-center-campus-outside-richmond-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-05-14",
-      "summary": "Liquid cooling system startup Iceotope Technologies Ltd. said today it has closed on a $26 million Series B round of funding as it strives to accelerate the adoption of its data center-focused hardware. Two Seas Capital and Barclays Climate Ventures co-led the round, with participation from existing backers such as Edinv, ABC Impact, Northern Gritstone [&#8230;] \n The post  Data center cooling tech startup Iceotope aims to scale after raising $26M  appeared first on  SiliconANGLE .",
+      "summary": "Project Loch to see three buildings developed",
       "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$26M",
-        "$26 million"
+      "companies": [
+        "Google"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "c0ade371ce903e",
@@ -166,6 +204,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "c442a8f50fccae",
+      "title": "Plans announced for municipal data center in Reșița, Romania",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-announced-for-municipal-data-center-in-re%C8%99i%C8%9Ba-romania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "Construction permits have yet to be issued",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7379e413b484b5",
+      "title": "Anthropic announces ‘programmatic credit pool’ as agentic tool use rises",
+      "url": "https://siliconangle.com/2026/05/14/anthropic-announces-programmatic-credit-pool-agentic-tool-use-rises/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-14",
+      "summary": "Anthropic PBC, the developer and provider of the Claude artificial intelligence model family, said it&#8217;s offering a special credit pool for users who want to use agentic tools with its large language models.  The move Wednesday comes as centralized AI vendors come to terms with how they want to handle agentic AI for coding and personal use as [&#8230;] \n The post  Anthropic announces ‘programmatic credit pool’ as agentic tool use rises  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "afee4d75969ae2",
+      "title": "How the WNBA-AWS data play can turn engagement into fans",
+      "url": "https://siliconangle.com/2026/05/14/wnba-aws-data-play-can-turn-engagement-fans/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-14",
+      "summary": "The world of professional sports has seen many tech vendors cut sponsorship agreements with leagues and teams. The Women&#8217;s National Basketball Association and Amazon Web Services Inc. recently announced a partnership that appears to be more than a traditional sponsorship. AWS will provide a data platform that can turn casual viewers into committed fans by [&#8230;] \n The post  How the WNBA-AWS data play can turn engagement into fans  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "4474dfa8cf5160",
       "title": "Microsoft and Red Hat are turning a decade-old alliance into enterprise IT’s unified future",
       "url": "https://siliconangle.com/2026/05/14/open-enterprise-hybrid-cloud-microsoft-rhsummit/",
@@ -180,6 +267,56 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e267b8d91cbbf6",
+      "title": "Digital Realty breaks ground on latest data center in Paris, France",
+      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-latest-data-center-in-paris-france/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "Company starts work at first building of new Dugny campus",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "France",
+        "Paris"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1047b50f9fcef9",
+      "title": "Sponsored: Building bankable, resilient data centers: From site to operation",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-bankable-resilient-data-centers-from-site-to-operation/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "With significant capital on the line, facilities demand a new lifecycle approach to risk that strengthens bankability, protects schedules and delivers operational resilience from day one",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "61a3dc5c6ad09c",
+      "title": "Powered land company Cloverleaf proposing 633-acre data center in Canadian County, Oklahoma",
+      "url": "https://www.datacenterdynamics.com/en/news/powered-land-company-cloverleaf-proposing-633-acre-data-center-in-canadian-county-oklahoma/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "Open meeting for project to be held tonight",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Oklahoma"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -210,38 +347,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "27e79aa9e2ce0e",
-      "title": "LTA deployment field guide",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/lta-deployment-field-guide/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-14",
-      "summary": "A practical guide to integrating high-density liquid cooling within existing air cooled data center environments.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "df6152e2aa220f",
-      "title": "DCD>Studio: Operating European data centers, with Emmanuel Becker, Mediterra",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-operating-european-data-centers-with-emmanuel-becker-mediterra/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-14",
-      "summary": "At DCN Paris, Seb Moss speaks with Mediterra's Emmanuel Becker about operating European data centers, expanding into tier-two markets, and building resilient, modular infrastructure to support sovereignty and regional growth.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Paris"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -317,6 +422,53 @@
       "is_high_confidence": false
     },
     {
+      "id": "27e79aa9e2ce0e",
+      "title": "LTA deployment field guide",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/lta-deployment-field-guide/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "A practical guide to integrating high-density liquid cooling within existing air cooled data center environments.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "df6152e2aa220f",
+      "title": "DCD>Studio: Operating European data centers, with Emmanuel Becker, Mediterra",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-operating-european-data-centers-with-emmanuel-becker-mediterra/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "At DCN Paris, Seb Moss speaks with Mediterra's Emmanuel Becker about operating European data centers, expanding into tier-two markets, and building resilient, modular infrastructure to support sovereignty and regional growth.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Paris"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44742332645644",
+      "title": "Alibaba Cloud needs 10x its 2022 compute capacity, says CEO Eddie Wu",
+      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-needs-10x-its-2022-compute-capacity-says-ceo-eddie-wu/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-14",
+      "summary": "While Tencent Cloud struggles to generate an ROI from GPUs",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "60b2c90f6ca6b3",
       "title": "Moody’s: Hyperscaler capex forecasts marked up by $85bn, to close in on $1trn by 2027",
       "url": "https://www.datacenterdynamics.com/en/news/moodys-hyperscaler-capex-forecasts-marked-up-by-85bn-to-close-in-on-1trn-by-2027/",
@@ -338,7 +490,7 @@
       "source": "Ars Technica",
       "source_cat": "Tech News",
       "date": "2026-05-14",
-      "summary": "Xi meeting may force Trump to pivot on semiconductor tariffs and Taiwan.",
+      "summary": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -361,8 +513,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$4.65 billion",
         "$650 million",
+        "$4.65 billion",
         "$650M"
       ],
       "confidence": 7,
@@ -547,21 +699,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "131ba989496bce",
-      "title": "IT/OT convergence is behind a revolution in data center operations",
-      "url": "https://www.datacenterdynamics.com/en/opinions/itot-convergence-is-behind-a-revolution-in-data-center-operations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-13",
-      "summary": "Why change is necessary to meet the requirements of the AI age",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c655607556a967",
       "title": "Microsoft’s new agentic security system MDASH uncovers four critical Windows RCE flaws",
       "url": "https://siliconangle.com/2026/05/13/microsofts-agentic-security-system-mdash-uncovers-four-critical-windows-rce-flaws/",
@@ -573,23 +710,6 @@
       "companies": [
         "Microsoft",
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "16806c26e8a264",
-      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
-      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-13",
-      "summary": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into [&#8230;] \n The post  Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -709,6 +829,38 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "131ba989496bce",
+      "title": "IT/OT convergence is behind a revolution in data center operations",
+      "url": "https://www.datacenterdynamics.com/en/opinions/itot-convergence-is-behind-a-revolution-in-data-center-operations/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-13",
+      "summary": "Why change is necessary to meet the requirements of the AI age",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "16806c26e8a264",
+      "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
+      "url": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-13",
+      "summary": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and its leaders, alleging that Altman and OpenAI president Greg Brockman betrayed the founding mission to serve humanity by turning a nonprofit into [&#8230;] \n The post  Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -1175,21 +1327,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ec84cce5021ad7",
-      "title": "The newest AI boom pitch: Host a mini data center at your home",
-      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-12",
-      "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "de06987e9d90dd",
       "title": "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine",
       "url": "https://aws.amazon.com/blogs/aws/amazon-redshift-introduces-aws-graviton-based-rg-instances-with-an-integrated-data-lake-query-engine/",
@@ -1235,6 +1372,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ec84cce5021ad7",
+      "title": "The newest AI boom pitch: Host a mini data center at your home",
+      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-12",
+      "summary": "The plan aims to speed up AI compute deployment while compensating residents.",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -5395,21 +5547,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "34ed513456a920",
-      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-04",
-      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c82c2d6bed015f",
       "title": "AWS Weekly Roundup: What’s Next with AWS 2026, Amazon Quick, OpenAI partnership, and more (May 4, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-next-with-aws-2026-amazon-quick-openai-partnership-and-more-may-4-2026/",
@@ -5422,6 +5559,21 @@
         "Amazon",
         "OpenAI"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34ed513456a920",
+      "title": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzJRemhzRktoQVB4MzBrZ1JjUW9KY0ZjVVNNc0pYMUQzcUw2RVBrRlFGcWlrMk9YeUVTaWpPOF9VMXRKVWpfekhqYlF1LXYtczZpZGtVY0JBeWlJck9WVWw1NlAzMDFTQ0R4Y3NuT0YzZDdVUTNDck9fOGNkQjdSUV93bTctakRPa2Y5cXBJQ2dEblotTmt0eU81V2JiQm5Yc0lCeUNfNUpnc2tsNGNqVUxjTk1nUkdLbXVfdlhxVF8zdDBzQm5LQklHLWRCdjdv0gHWAUFVX3lxTE41NVNxZWhWeGJ1ZEIyLVNEenpaeDFqVl9uaXUweExHeWVQZnRsYzljUGFSdGl3ekVmTldtalktRGZWd29lNHlDWkRBaUJ5bmhralpJZS1DNEV0V0U4THFWV2dhamRXNHFQWExfTzBmb3N4V0FaVkNVdHZJUF91QURuYmFYSWh6QXhNRGt6THk4UFlpSVdGdnZ1Wm40RDZsdm9NNnJmRUxLcHJEc2poU1RWWEkzbm9NNWNMel9TMTk0bklCUTcxU1RMNTVEUm94ODl4UVZkX1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-04",
+      "summary": "nVent Electric (NVT) Is Up 12.1% After Raising 2026 Outlook On Record Data Center Demand – Has The Bull Case Changed? &nbsp;&nbsp; simplywall.st",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -8192,13 +8344,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a49f236cc7d4b6",
-      "title": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWoxb2VSMkxBa0RZX05GclJ6TEpFYUJWeFdJM1VnVmZyaEx5Wkl0Umc1ZTJHYnJxOU0xSVBhMVRxd0dodTJKOXVsalJocmd1azYyMExGYzBwMTg0TXRESVhnMzY0NW5XbENvNTFQYWZQSi1Rb3ZsZ1pmTTlIaXdZekZvR1p1NklEM0lIQW1uU2syNk1EYWRuWmlTOUhMQThCNTB3bjZyakdWdmdWU0JXVllR?oc=5",
+      "id": "ee46a72fb4c8fe",
+      "title": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPQ2dqUWFaeHRmemdzVXp0Q2p4THRPZS1kdS1TY1BZY1FNQW1QbmJhUXhPckNmdEdGMEt1eXdYOTZEaHAtczNFLXdmWnJtNnpSbGVJeW5SVXFkY1VxWVVoUjZmMTlUTXBwZXF1YThMN1FXRWJIWTZFXzJLbzljb2k4VEdDamJqNFU3V2ZrVzdGNGFYX29aVkV2UE1QcTJZNlY0SXNqRm95aEFNNDVCRGpxMkliZFM0QkpXa3lZaWpOcUhVMHc0X09FcE1hN0xxSXdLckVWazdpcEtrUWVpcncydFBfdWVIbUhfcG1ha0N1NGtlSHpfNTAzY3lIMzlaM2lDOWtHek9IbUlsWnEzYWhHSkxxTlRuM3F4Q2kzenM1cjJYc0FRRWtjTWQwalRBRU5ISmExVmpMaUNnUHBndDdSbEVjMEZwbG5JSkpEOXBEZTNtNlh3ZkxiWWlnV1RZenlLQWxhM0tOZ0Vocmc0M05PY3ZWNW5EcWNmWTVET0F3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-04-28",
-      "summary": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe &nbsp;&nbsp; Business Wire",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -8226,6 +8378,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "a49f236cc7d4b6",
+      "title": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWoxb2VSMkxBa0RZX05GclJ6TEpFYUJWeFdJM1VnVmZyaEx5Wkl0Umc1ZTJHYnJxOU0xSVBhMVRxd0dodTJKOXVsalJocmd1azYyMExGYzBwMTg0TXRESVhnMzY0NW5XbENvNTFQYWZQSi1Rb3ZsZ1pmTTlIaXdZekZvR1p1NklEM0lIQW1uU2syNk1EYWRuWmlTOUhMQThCNTB3bjZyakdWdmdWU0JXVllR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-04-28",
+      "summary": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "a4655027587f37",
       "title": "Infrastructure Explained: Data Centers",
       "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
@@ -8237,21 +8404,6 @@
       "companies": [
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee46a72fb4c8fe",
-      "title": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPQ2dqUWFaeHRmemdzVXp0Q2p4THRPZS1kdS1TY1BZY1FNQW1QbmJhUXhPckNmdEdGMEt1eXdYOTZEaHAtczNFLXdmWnJtNnpSbGVJeW5SVXFkY1VxWVVoUjZmMTlUTXBwZXF1YThMN1FXRWJIWTZFXzJLbzljb2k4VEdDamJqNFU3V2ZrVzdGNGFYX29aVkV2UE1QcTJZNlY0SXNqRm95aEFNNDVCRGpxMkliZFM0QkpXa3lZaWpOcUhVMHc0X09FcE1hN0xxSXdLckVWazdpcEtrUWVpcncydFBfdWVIbUhfcG1ha0N1NGtlSHpfNTAzY3lIMzlaM2lDOWtHek9IbUlsWnEzYWhHSkxxTlRuM3F4Q2kzenM1cjJYc0FRRWtjTWQwalRBRU5ISmExVmpMaUNnUHBndDdSbEVjMEZwbG5JSkpEOXBEZTNtNlh3ZkxiWWlnV1RZenlLQWxhM0tOZ0Vocmc0M05PY3ZWNW5EcWNmWTVET0F3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-28",
-      "summary": "Transatlantic Investment Group Announces €50 Billion AI Data Center and Innovation Campus in Croatia — the Largest Investment in Croatian History and Among the Largest Private U.S. Investments in Europe &nbsp;&nbsp; Business Wire",
-      "finding_type": "New Project",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 4,
@@ -10262,149 +10414,6 @@
       "locations": [
         "Finland"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "908d53fc5d117d",
-      "title": "Why network diversity is the strongest defense against data center connectivity failure",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-network-diversity-is-the-strongest-defense-against-data-center-connectivity-failure/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "While outages can still happen, network resiliency limits the impact",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d215d0b9fa5308",
-      "title": "Digi Power X secures customer for AI data center capacity",
-      "url": "https://www.datacenterdynamics.com/en/news/digi-power-x-secures-customer-for-ai-data-center-capacity/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "SubQ AI signs on for 24-month AI capacity agreement",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "66952884651c0b",
-      "title": "Strong data center growth helps Intel post Q1 revenue of $13.6bn",
-      "url": "https://www.datacenterdynamics.com/en/news/strong-data-center-growth-helps-intel-post-q1-revenue-of-136bn/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "Shares in the company rose 20 percent after results were published",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fbaa874eda66f3",
-      "title": "Amazon-backed SMR firm X-energy raises more than $1bn in IPO",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-backed-smr-firm-x-energy-raises-more-than-1bn-in-ipo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "Sold a total of 44.3 million shares as part of upsized offering",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "30e2c101562ac9",
-      "title": "SpaceX takes aim at Amazon over satellite deployment requirements",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-takes-aim-at-amazon-over-satellite-deployment-requirements/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "Amazon's request for an extension has irritated SpaceX",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d5019936593e97",
-      "title": "PDG exploring potential minority stake sale - report",
-      "url": "https://www.datacenterdynamics.com/en/news/pdg-exploring-potential-minority-stake-sale-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "APAC data center firm working on a strategic review, according to Bloomberg",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "34d6c6ea83b65d",
-      "title": "Oklo partners with Nvidia & Los Alamos on AI-driven advanced nuclear infrastructure development",
-      "url": "https://www.datacenterdynamics.com/en/news/oklo-partners-with-nvidia-los-alamos-on-ai-driven-advanced-nuclear-infrastructure-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "Research to be completed at the national lab in New Mexico",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "New Mexico"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "69c198b5a03892",
-      "title": "DCD>Talks: Integrated support across the power stack with David Burke, Rehlko's Clarke Energy",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-integrated-support-across-the-power-stack-with-david-burke-rehlkos-clarke-energy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "David Burke from Rehlko’s Clarke Energy explores integrated power support for reliable, high-performance data centers with DCD’s Zoe Turner.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "854f20c2bae44e",
-      "title": "Sponsored: How does the data center industry move closer to net zero? Charting a practical path towards responsible data center growth",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-does-the-data-center-industry-move-closer-to-net-zero-charting-a-practical-path-towards-responsible-data-center-growth/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-24",
-      "summary": "Net zero in the age of AI: How sustainable innovation is powering progress",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
