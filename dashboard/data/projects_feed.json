@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-05-15T21:03:09.211493+00:00",
+  "last_updated": "2026-05-15T22:55:46.085633+00:00",
   "finding_count": 600,
-  "new_project_count": 82,
-  "cancellation_count": 14,
+  "new_project_count": 81,
+  "cancellation_count": 15,
   "sec_filing_count": 0,
-  "high_confidence_count": 157,
+  "high_confidence_count": 156,
   "findings": [
+    {
+      "id": "b223ff2d988af2",
+      "title": "GridCare raises $64M to speed up AI data center projects",
+      "url": "https://siliconangle.com/2026/05/15/gridcare-raises-64m-speed-ai-data-center-projects/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-15",
+      "summary": "GridCare Inc., a startup that helps data center operators more quickly connect their facilities to the electrical grid, has raised $64 million in funding. Early Nvidia Corp. backer Sutter Hill Ventures led the Series A round. GridCare stated in its announcement of the deal on Thursday that billionaire tech investor John Doerr, power utility National [&#8230;] \n The post  GridCare raises $64M to speed up AI data center projects  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$64M",
+        "$64 million"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
     {
       "id": "e872a53d88e35c",
       "title": "CoreWeave signs on as eStruxture tenant for data center in Calgary, Canada",
@@ -46,6 +66,26 @@
         "90MW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d1edba0e1a9ddd",
+      "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-15",
+      "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.5B",
+        "$320 million"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -9174,6 +9214,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "c935161f731f7e",
+      "title": "Poolside AI’s 4B Texas Bet Collapses: CoreWeave Walks, B Round Fails [2026] - tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGFxTUx5SWpGak1VWkhySzN0Z1Y0Xy15Z2FERjBrUk95NnBnM2NoME8yWFM2OEZGWFltUl9EZ0tKMlFjU3g4bUYyVGRHc0tBMEpLQk9lQVBFR2E4T243ZVVQMENPTnB1YVpZeGczZENVMG5ZNWtlMl9YcVdnNlZaeDRlZGpwZXZORnBkbUtmVVY?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-04-28",
+      "summary": "Poolside AI’s 4B Texas Bet Collapses: CoreWeave Walks, B Round Fails [2026] &nbsp;&nbsp; tech-insider.org",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "327fe7cea9c4ea",
       "title": "TexAmericas Center moving forward with potential data center site - KSLA",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR05XNlVNZF9OeHpxVW81Ul9sMFV4SWxRRHNwRVdJRG05YmY5MXo5UGVwdFVySVBDMS1DU3M2TTFpYlhJaW14NWE2c3RTWWJGajBUS3V2QzFCcTVxMnZ2STdyUHhtaWliQkRacFlKOTZaMDNNWDNPWDZ2OGpMYXhjTUhKMFhXVlI0Y3FxbmNCWlZqek5NNHV4Q09B?oc=5",
@@ -9633,8 +9692,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1B",
-        "$30B"
+        "$30B",
+        "$1B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10329,68 +10388,6 @@
         "$16 Billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2832df961b19bc",
-      "title": "Microsoft: A$25 Billion Investment In Australia To Expand AI Infrastructure, Cybersecurity, And Workforce Skills - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTUVCa0U1TFdJWHBCbGlxY0thS2EyNl9xTGtycVlpbXlaUnRNQTZ3RzNraVpzcW04VUJheGVtajg2aXMwWDh6S0o1X2M0cF9XRks1OVNpblhQZGNocEZQcnVGazE2WXVldzJ4WFViUk9ZSEhXU0N1ZlZrdENKOU1YNUZwNkJRUERQQ3hOVUFIRWJkb3dkWWo2dmxSb0pNQ2J1YlpMR0tLaHNtX19rbThCNVYwNWNUWkt0SEhzZE5uWnhBV2txQmVv0gHMAUFVX3lxTE1LYjFrZXFTbVh5UHF3WU1mbUN2Zjk3UnBQYVhsQnhxSWlUU20wb0hfTFNqbDM3Znh5VzV3OVNwY2FQUkZfQlFwUnF1QXNnR051dnFKOWFhRUxQclJOckJTUlJHaFRZVml4WHNwRXFOMzNBbXh1QVR3OEtmNFlMdld2VEZCc05NbGZiRy1HZmppY1VCTmt1RTVNYjRHZ3JGc01KSEhiNkNvSDVuTjVjT1RUM29rMmt2bk9XeFY2Z3lFWnU1MC1iRk5JZURySg?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "Microsoft: A$25 Billion Investment In Australia To Expand AI Infrastructure, Cybersecurity, And Workforce Skills &nbsp;&nbsp; Pulse 2.0",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "$25 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "44dfd495d3d17b",
-      "title": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGxxRGpicldRM1ROVW5GTEhYR09zZ25XRWdXYjFWZTJJYWNIS1Q3WWpvTTFLRkgyWFBQZ2hwRVpyc0RTaHRjc2tXQlhreEQ2WGMtSVpneWRZT0hzSHc1dG14bWgtb0J0bmlFSjhkVWtZT0JWM2pONlJZdWdaSjNFWnlJa3JqR05ueG9wN2d4WDNjNTNRcjk3SlpTbVpwX3dIYUtlLVlB?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "Google Plans to Invest Up to $40 Billion in Anthropic &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$40 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2e252f489ed1e0",
-      "title": "Google Pours $9B Into Oklahoma Cloud Data Center To Boost America's AI Edge - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZXlOcURWcjZqWnYwcGJXdEJ2U01pUUZtWGtETFBubVRlRGVOSWVMZXJCNDBFck1lQkNsdjlNNzFvOHIyWlZWb1lhTXJWaVNxZmUzd05LTFJYLWhrR2VONy1LSGlWalA3LU0ydEYyWmVqc0RucHZmbUNSME95U1J2NGQteXlnMHA2UktGMWJzMG1ZOFJvY0lQZERtWVJRZDdUTktSV0hadDBXeExYWUw5b1BrcmtZR0JhbVhEVnBiaXhnUVdrZzlRVWJTbHFxSktnWWdrb2o4eGFPOFR6eFl0NXBjbk9XRG41cVE0eVB6QUI0X2J6bTdzSGFJR0o2QTdUUUR1SXhqSGdISWR5b3U3NTNxTkljcF80MmV2emVocHE0X3VhQzFfUERBWjBlWi1NNkdueV84emNsc3I1aFZaYTVwWlBpbGtjOGJ2d2ZEUzRkNEVVQmhpd18xMVRObWd4STZoNndXRW92QnBjeHBhdnJ3VUwtMTVnWjQw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-04-24",
-      "summary": "Google Pours $9B Into Oklahoma Cloud Data Center To Boost America's AI Edge &nbsp;&nbsp; MSN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "$9B"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
