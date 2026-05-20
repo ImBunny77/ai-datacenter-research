@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-20T07:44:57.442397+00:00",
+  "last_updated": "2026-05-20T10:51:58.938533+00:00",
   "finding_count": 600,
-  "new_project_count": 65,
+  "new_project_count": 67,
   "cancellation_count": 16,
   "sec_filing_count": 0,
-  "high_confidence_count": 141,
+  "high_confidence_count": 143,
   "findings": [
     {
       "id": "79e1aa1d4b6533",
@@ -18,13 +18,71 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$2B",
         "$230M",
-        "$2 billion",
         "$230 million",
-        "$2B"
+        "$2 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
+    },
+    {
+      "id": "ac5234238c8bc5",
+      "title": "Stak Energy proposes 3GW natural gas-powered data center in Alaska's North Slope",
+      "url": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Set to lease 715.4 acres of land in Umiat Meridian",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Alaska"
+      ],
+      "amounts": [
+        "3GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "905737cba9bf15",
+      "title": "Meta expands clean energy partnership with Enbridge, inks solar + storage deal in Wyoming",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-expands-clean-energy-partnership-with-enbridge-inks-solar-storage-deal-in-wyoming/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Adds to 600MW PPA signed last year in Texas",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Wyoming",
+        "Texas"
+      ],
+      "amounts": [
+        "600MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e8babc9f8eb254",
+      "title": "Stack commits $73.5bn investment into data center campus in Berry Hill, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/stack-commits-735bn-investment-into-data-center-campus-in-berry-hill-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Company secures local performance agreement with Danville-Pittsylvania Regional Industrial Facility Authority",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "11865baa63fd68",
@@ -51,6 +109,70 @@
       "source_cat": "Announcement",
       "date": "2026-05-20",
       "summary": "Fleet Data Centers breaks ground on two new facilities along USA Parkway &nbsp;&nbsp; mynews4.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "32cc4378d97ba4",
+      "title": "Microsoft signs 650,000 ton carbon removal deal with BioCirc in Denmark",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-650000-ton-carbon-removal-deal-with-biocirc-in-denmark/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "First since reports surfaced that the company was 'pausing' carbon removal purchases",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Denmark"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9de08e2264abe9",
+      "title": "DCD>Survey Report: Mission Critical Power",
+      "url": "https://www.datacenterdynamics.com/en/research/dcdsurvey-report-mission-critical-power/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Understanding how evolving power demands, operational resilience, and infrastructure modernization are reshaping enterprise data center strategies",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "079542a1b345db",
+      "title": "DCD>Survey Report: Mission Critical Power",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcdsurvey-report-mission-critical-power/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Understanding how evolving power demands, operational resilience, and infrastructure modernization are reshaping enterprise data center strategies",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d0c9ad89607d0f",
+      "title": "Sponsored: Huawei unveils its grid-interactive AIDC strategy, shaping the future of the industry",
+      "url": "https://www.datacenterdynamics.com/en/product-news/huawei-unveils-its-grid-interactive-aidc-strategy-shaping-the-future-of-the-industry/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "In the AI era, data centers are no longer just server rooms. They are super factories that produce tokens",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -108,27 +230,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "af65c4a60ff68a",
-      "title": "Google, Blackstone announce $5 billion TPU cloud venture to meet AI data centre demand - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQWVvajNyaHM4NHpud0o4Y3RHbFlHLWxES01YRGpkTlI2eVpCbDNSMGRoUjU2Ti1Uck1jc3pzYmtydVc2TVY1M3ZBaVZvckJsaERodzVuZDNRVnZJSUY4QjRvMVRCeWlCdEJVY084RVFYVlJNMlY2M0JpQ1h6WGI2S1ZsYXQzbE1sc3VXT1NaNWttY0RtdlM2SU54bW5oczg2MGZaU0w0VUk4bVA1NTdXbmVRQzNwYmRkVmhrNjhsc1EtX1FhbkVxUkNKQk1uWklnQkoxSG55N05RUHBJWU1PdUtVUHZQYU1ZOWx1c1ZONUxrUERieWp3SWl1b9IBgAJBVV95cUxPeGVMcnozRHFNNVhjcUR1aXZhM1ZEcElUU0cxX2N0YVlYU3VkRkprRjFIbGViQ2Y0eEpWcEhvcWxoNnpVU1l3ZDhUNC1UT0RUQUZjdnRGUVZHejdXaHV4OG5IX3ZCaFJYS21MRDhiYkN3eC04Z0pkY1hER2x1UEhkLXp0RVYtT044Vl9HQmhJaUQzazAyOWRSTDVUcUtQWmx3MDNHbUdJenVBek1yNTlBWkRVM2FjRkQ3Z0FXNkU5ZUpoYTM4OFU5Z3ViX0FCYkIzRmFJUWgyZ2NWMTNPRWMxUXNibmlyNElTaDVIcExGTGFabnFlWWJ0eVhCWE81Q1dH?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-19",
-      "summary": "Google, Blackstone announce $5 billion TPU cloud venture to meet AI data centre demand &nbsp;&nbsp; The Times of India",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$5 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "e6dc701814ccc0",
       "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmkwMjBZRGZfSVp2clVGYVZDaEdvX09yX09DQXhJZ3BjUFRRTFpTUE5Hc09jODk0ZHJJOThHMFI5d25vUUI3Ym5GcllNTy0xeko4NjU3SURaVG9XWGY3aVNMdG11bzZsSWtZS3h4dTZCZzdtVm5BeW5DdFo1MUpfclRpU1p0TlZtbm1IMEFZRE3SAZYBQVVfeXFMTnNLUVp5ekxNN01XUEZEY0ZTUmp5Y0c3Q0JWWEFfdm1Za1B3WE1uSkZ5OXowNDhUbWpueThhV2NrbW5YUktDUjcxTEZWbldMeUdRRGlLSjZkMENzV3VaSk04WHhsdUMwXzlqUkR5S0o5dVMtTWtVRjMxTjBDQlhCTFdsM2NFVmZNN2d0ZVBtN3RyS1FxZzFn?oc=5",
@@ -181,9 +282,30 @@
       ],
       "locations": [],
       "amounts": [
-        "$300M",
         "$300 million",
+        "$300M",
         "$4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "af65c4a60ff68a",
+      "title": "Google, Blackstone announce $5 billion TPU cloud venture to meet AI data centre demand - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQWVvajNyaHM4NHpud0o4Y3RHbFlHLWxES01YRGpkTlI2eVpCbDNSMGRoUjU2Ti1Uck1jc3pzYmtydVc2TVY1M3ZBaVZvckJsaERodzVuZDNRVnZJSUY4QjRvMVRCeWlCdEJVY084RVFYVlJNMlY2M0JpQ1h6WGI2S1ZsYXQzbE1sc3VXT1NaNWttY0RtdlM2SU54bW5oczg2MGZaU0w0VUk4bVA1NTdXbmVRQzNwYmRkVmhrNjhsc1EtX1FhbkVxUkNKQk1uWklnQkoxSG55N05RUHBJWU1PdUtVUHZQYU1ZOWx1c1ZONUxrUERieWp3SWl1b9IBgAJBVV95cUxPeGVMcnozRHFNNVhjcUR1aXZhM1ZEcElUU0cxX2N0YVlYU3VkRkprRjFIbGViQ2Y0eEpWcEhvcWxoNnpVU1l3ZDhUNC1UT0RUQUZjdnRGUVZHejdXaHV4OG5IX3ZCaFJYS21MRDhiYkN3eC04Z0pkY1hER2x1UEhkLXp0RVYtT044Vl9HQmhJaUQzazAyOWRSTDVUcUtQWmx3MDNHbUdJenVBek1yNTlBWkRVM2FjRkQ3Z0FXNkU5ZUpoYTM4OFU5Z3ViX0FCYkIzRmFJUWgyZ2NWMTNPRWMxUXNibmlyNElTaDVIcExGTGFabnFlWWJ0eVhCWE81Q1dH?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-19",
+      "summary": "Google, Blackstone announce $5 billion TPU cloud venture to meet AI data centre demand &nbsp;&nbsp; The Times of India",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "$5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -523,85 +645,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "5f097b07290f59",
-      "title": "From 20 days to 2: A blueprint for ultra-fast data center layout",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/from-20-days-to-2-a-blueprint-for-ultra-fast-data-center-layout/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "How automation solved the challenge of floor flatness and layout in a single, high-speed workflow.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e9d9282132d224",
-      "title": "Eco Wave Power joins Nvidia's Inception Program to support intergration of AI in its operations",
-      "url": "https://www.datacenterdynamics.com/en/news/eco-wave-power-joins-nvidias-inception-program-to-support-intergration-of-ai-in-its-operations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Also advancing discussions on R&amp;D collaborations",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b1060da2571e59",
-      "title": "Gradiant closes Series E funding round, company valued at $2bn",
-      "url": "https://www.datacenterdynamics.com/en/news/gradiant-closes-series-e-funding-round-company-valued-at-2bn/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Will use proceeds to support expansion within data center market",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3619715dcdc167",
-      "title": "Vultr launches cloud region in Milan, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/vultr-launches-cloud-region-in-milan-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Marks the company's 33rd region globally",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aad1f3efb79bc4",
-      "title": "Blackstone and Google team up for new TPU-based cloud platform",
-      "url": "https://www.datacenterdynamics.com/en/news/blackstone-and-google-team-up-for-new-tpu-based-cloud-platform/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Will enable customers to access TPUs via a different platform from Google Cloud",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c63b60f3160c20",
       "title": "Google to embed AI shopping features in multiple services with Universal Cart",
       "url": "https://siliconangle.com/2026/05/19/google-embed-ai-shopping-features-multiple-services-universal-cart/",
@@ -848,6 +891,85 @@
       "source_cat": "Company IR",
       "date": "2026-05-19",
       "summary": "The image shows colorful icons. The copy reads: More magic in one plan. More power, more perks, same price.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5f097b07290f59",
+      "title": "From 20 days to 2: A blueprint for ultra-fast data center layout",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/from-20-days-to-2-a-blueprint-for-ultra-fast-data-center-layout/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-19",
+      "summary": "How automation solved the challenge of floor flatness and layout in a single, high-speed workflow.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e9d9282132d224",
+      "title": "Eco Wave Power joins Nvidia's Inception Program to support intergration of AI in its operations",
+      "url": "https://www.datacenterdynamics.com/en/news/eco-wave-power-joins-nvidias-inception-program-to-support-intergration-of-ai-in-its-operations/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-19",
+      "summary": "Also advancing discussions on R&amp;D collaborations",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b1060da2571e59",
+      "title": "Gradiant closes Series E funding round, company valued at $2bn",
+      "url": "https://www.datacenterdynamics.com/en/news/gradiant-closes-series-e-funding-round-company-valued-at-2bn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-19",
+      "summary": "Will use proceeds to support expansion within data center market",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3619715dcdc167",
+      "title": "Vultr launches cloud region in Milan, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/vultr-launches-cloud-region-in-milan-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-19",
+      "summary": "Marks the company's 33rd region globally",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aad1f3efb79bc4",
+      "title": "Blackstone and Google team up for new TPU-based cloud platform",
+      "url": "https://www.datacenterdynamics.com/en/news/blackstone-and-google-team-up-for-new-tpu-based-cloud-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-19",
+      "summary": "Will enable customers to access TPUs via a different platform from Google Cloud",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1123,23 +1245,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "13e9c01925e086",
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-18",
-      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "212176a11bf681",
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
@@ -1167,6 +1272,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13e9c01925e086",
+      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-18",
+      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -10197,117 +10319,6 @@
       "summary": "Lead time for new facilities increases by 23 percent on average",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "27ff42150e8ba5",
-      "title": "Bill proposed in North Carolina seeks to mandate large load data centers to cover cost of energy and water infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/bill-proposed-in-north-carolina-seeks-to-mandate-large-load-data-centers-to-cover-cost-of-energy-and-water-infrastructure/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Proposed by Democrat Lindsey Prather",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3e43b41f4695ad",
-      "title": "Rethinking data center energy delivery",
-      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-data-center-energy-delivery/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "How behind-the-meter biomethane generation can turn grid uncertainty into a controllable delivery variable",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a0124eecc9ebb5",
-      "title": "Zoning board of Sharon, PA, approves planned expansion of Keel Infrastructure’s existing data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/zoning-board-of-sharon-pa-approves-planned-expansion-of-keel-infrastructures-existing-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Project overseen by company formerly known as Bitfarms now heads to Mercer County Regional Planning Commission for approval",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "62709f829c8923",
-      "title": "Polish city of Gliwice to build its own data center",
-      "url": "https://www.datacenterdynamics.com/en/news/polish-city-of-gliwice-to-build-its-own-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Project in southern Poland will provide greater digital resiliency for municipality",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Poland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "63fd7ad3440f72",
-      "title": "AtTokyo, elleThermo complete demonstration project testing waste heat-to-power technology at Japanese data center",
-      "url": "https://www.datacenterdynamics.com/en/news/at-tokyo-ellethermo-complete-demostration-project-testing-waste-heat-to-power-technology-at-japanese-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Pilot tested the feasibility of ellaThermo's Semiconductor-sensitized Thermal Cell technology",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "064140fbbd6805",
-      "title": "A software-defined modular power architecture for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/a-software-defined-modular-power-architecture-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Enabling simultaneous AC and 800 VDC delivery through software defined multi port power orchestration for next generation AI data center infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1a76f656c857b3",
-      "title": "Meta's head of energy leaves social network giant",
-      "url": "https://www.datacenterdynamics.com/en/news/metas-head-of-energy-leaves-social-network-giant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-04-29",
-      "summary": "Urvi Parekh departs after 10 years at the company",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
