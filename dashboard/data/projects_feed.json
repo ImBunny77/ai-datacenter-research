@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-20T21:55:51.945455+00:00",
+  "last_updated": "2026-05-20T23:15:37.843420+00:00",
   "finding_count": 600,
-  "new_project_count": 66,
+  "new_project_count": 63,
   "cancellation_count": 16,
   "sec_filing_count": 1,
-  "high_confidence_count": 142,
+  "high_confidence_count": 139,
   "findings": [
     {
       "id": "79e1aa1d4b6533",
@@ -56,9 +56,9 @@
       "locations": [],
       "amounts": [
         "$2.2B",
+        "$250 million",
         "$250M",
-        "$85 million",
-        "$250 million"
+        "$85 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -211,6 +211,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c0ab975e69ee98",
+      "title": "Meta begins laying off 8,000 workers, including data center staff",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-begins-laying-off-8000-workers-including-data-center-staff/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-20",
+      "summary": "Even as the job cuts look to help fund more AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "0418d3ff1908e3",
       "title": "Nvidia posts record quarterly revenue of $81.6bn as company splits reporting framework into data center and Edge computing segments",
       "url": "https://www.datacenterdynamics.com/en/news/nvidia-posts-record-quarterly-revenue-of-816bn-as-company-splits-reporting-framework-into-data-center-and-edge-computing-segments/",
@@ -331,6 +348,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c054a5fac0a75b",
+      "title": "Nvidia Q1 2027 Earnings Preview: Hyperscaler Capex Surge and AI Chip Dominance - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjRqVkZ1VC0xU1lwRDJwaEowTWUtVHItVHRsYzBpNlB4T2VRUWxJVzVrX1haSnp0V0MxYUV3ZjZDT3pCRjNXWmpCUjdZN1hERlAyc2xGRkF0TDA5bENaNUNSR0N0MjZOOFZURl8zVE1qckNaT0tJVjQyajVvVDg4TGRXWUI0SmVPZWJKSzBoVXRKWXlnZEgycWJURE1GdFUtcXo0T011WGN4Zw?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-20",
+      "summary": "Nvidia Q1 2027 Earnings Preview: Hyperscaler Capex Surge and AI Chip Dominance - News and Statistics &nbsp;&nbsp; IndexBox",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "47613a0164f7a3",
       "title": "Fleet Data Centers breaks ground on two new facilities along USA Parkway - mynews4.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFN5UUhhMFNkWmtWUGV0TFo4NkhkRDhjaWlyM3REZ2JKaFB4aWF0M2ZvT0RlSG14SGZrVkZuNHJRZlZLbjhwRVdNRU1jbThyZ0dNX3JqcnU4N3NtTUpUZG5TYU9mYU9OdE84VktxaEV2UWppZW1XSWNmVVFzMGRNR0xjbkplejlUMEUwamZUTEM2ZVdQVndna2tkYy16cHFBOEg3LW13?oc=5",
@@ -437,6 +471,23 @@
       "locations": [
         "Denmark"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "46d65802f95023",
+      "title": "GitHub confirms breach of 3,800 internal repos after employee installs poisoned VS Code extension",
+      "url": "https://siliconangle.com/2026/05/20/github-confirms-breach-3800-internal-repos-employee-installs-poisoned-vs-code-extension/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-20",
+      "summary": "GitHub Inc. has confirmed that hackers exfiltrated roughly 3,800 of its internal code repositories after one of its employees installed a poisoned Visual Studio Code extension, the Microsoft Corp.-owned developer platform disclosed late Tuesday. The breach was detected on May 19 and traced to a malicious extension that GitHub&#8217;s security team found on the employee&#8217;s [&#8230;] \n The post  GitHub confirms breach of 3,800 internal repos after employee installs poisoned VS Code extension ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -803,8 +854,8 @@
       "id": "e6dc701814ccc0",
       "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmkwMjBZRGZfSVp2clVGYVZDaEdvX09yX09DQXhJZ3BjUFRRTFpTUE5Hc09jODk0ZHJJOThHMFI5d25vUUI3Ym5GcllNTy0xeko4NjU3SURaVG9XWGY3aVNMdG11bzZsSWtZS3h4dTZCZzdtVm5BeW5DdFo1MUpfclRpU1p0TlZtbm1IMEFZRE3SAZYBQVVfeXFMTnNLUVp5ekxNN01XUEZEY0ZTUmp5Y0c3Q0JWWEFfdm1Za1B3WE1uSkZ5OXowNDhUbWpueThhV2NrbW5YUktDUjcxTEZWbldMeUdRRGlLSjZkMENzV3VaSk04WHhsdUMwXzlqUkR5S0o5dVMtTWtVRjMxTjBDQlhCTFdsM2NFVmZNN2d0ZVBtN3RyS1FxZzFn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-05-19",
       "summary": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips &nbsp;&nbsp; CNBC",
       "finding_type": "New Project",
@@ -8040,6 +8091,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "139edf3e4e858d",
+      "title": "New Data Center Developments: May 2026 - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFNVHdsNG93MU0zSzR3SmZWX0RxX3JqbVA4ZFNSSnI5b0VWNHZzMVZURm1tZVctLVZpRTlvRzdNN0JSLU9vYjlaMktSS043am1Jd05EZGE2TlhaTWxIQmp0eHRuUmx2bzRjWVZWS1dVR1lYN255OF9OLXR6SlozU3U4VTdiR2s2Z3NyNXJuSjh5aXdTS2VxS3dvVjVfc2s?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-05",
+      "summary": "New Data Center Developments: May 2026 &nbsp;&nbsp; Data Center Knowledge",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2e8d8fc1d34f2c",
       "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
       "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
@@ -8068,21 +8134,6 @@
       "companies": [
         "Amazon"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "139edf3e4e858d",
-      "title": "New Data Center Developments: May 2026 - Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFNVHdsNG93MU0zSzR3SmZWX0RxX3JqbVA4ZFNSSnI5b0VWNHZzMVZURm1tZVctLVZpRTlvRzdNN0JSLU9vYjlaMktSS043am1Jd05EZGE2TlhaTWxIQmp0eHRuUmx2bzRjWVZWS1dVR1lYN255OF9OLXR6SlozU3U4VTdiR2s2Z3NyNXJuSjh5aXdTS2VxS3dvVjVfc2s?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-05",
-      "summary": "New Data Center Developments: May 2026 &nbsp;&nbsp; Data Center Knowledge",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10243,63 +10294,6 @@
         "$1 billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "eb7602a5689ab5",
-      "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNVpBS1BQVXlRdUlBbHBpczBkWkZPUEVodjJ4VzI2Rmw2MHBGOWc4WUVfRElZVEY1WE1jMVNOQnhyYnlsT1hNeWVHMEZGMTRhZThqTWJ4a2pxaGVCck1Ea2JPT2Rybk1GYTcxeXBRSThJUjdfQ09tOExSMUgwSWRZLTNWYks5Vk9UNzlYRnVsQXFLZUlvVWxFSWd2OTRxSGw0dV9tdjZ3MHdUS0tYbVprcm1lLWRObjN0M1ZSVEZhZ196R0ZnNGdqV2RDTUpJdU5JVmVaUmJ0TVNYa1c2dzRlYy1HeTJwUVdjRG1OMldldVByUnNxeGx1TjU1M002bGp0RWo0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment &nbsp;&nbsp; Business Wire",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
-      "amounts": [
-        "$3 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ad71eb985189c2",
-      "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnZiWGg1U3NmMVlkSHotX3pQeGR1dWdDbTBzR1d4X0FMYlViYWpnUXFNTVdPNG1aY2JfYTVtaG4zN0pReWtLU1RvRDl0VjNycWZKMVFKTWpkSXRRbG0teElrZjBSOTlKUkZxc2thVG9UZFBYNW5zQ2h2ZjlwQklmUnZvSUJkWWF0dEU4OFJJTVZyREZjaHFrdjU0blkzcHVjdjh6R2ZobTJrRzJEdEJleE1NX2ljVG5P?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
-      "amounts": [
-        "$3 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "43089309ff7dda",
-      "title": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment - 01net",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUZRb01yMGs1ajA2cnBKWXZyNUtqOU9ITVNabEZwekJoaTNDSWQxZm9aMTRqWDlTak9vd1ZaOTQ4cy00Z3phOExfZFQyNVg0UmNOQ1NCbmpHMlZQSVV4WGpmMEFvYlFOMGV5QXRPWll1LVJkZXN1LTdwZE5vVDBMbG1LZ1FJTW0wZFV2eDRNU0toR0RPVC03U2ktOWxjamtybVY4dF8yUzcweTYxeWRqOWh2N1ZsVzV4cXBEdldVTGxMRmJrSjF2bTZ3X3NzOU83?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-04-29",
-      "summary": "Beale Infrastructure Announces Hyperscale Kansas Data Center Campus, Advancing $3 Billion Infrastructure Investment &nbsp;&nbsp; 01net",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
-      "amounts": [
-        "$3 Billion"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
