@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-21T20:06:41.083056+00:00",
+  "last_updated": "2026-05-21T23:04:33.976287+00:00",
   "finding_count": 600,
-  "new_project_count": 70,
-  "cancellation_count": 18,
+  "new_project_count": 72,
+  "cancellation_count": 19,
   "sec_filing_count": 1,
-  "high_confidence_count": 150,
+  "high_confidence_count": 153,
   "findings": [
     {
       "id": "046680e5be6ef2",
@@ -23,6 +23,28 @@
       ],
       "amounts": [
         "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1b12aa8f086683",
+      "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc25ZWVJZNU1Fd3c5aTQ4aWp4Z3p6SmFBRDBhS1NSenI5OFFSVWdsanJ1cUJ6aHd3LUdwaEIyc0tHMGRyNU9RRHdWelFXaUpVSkNJSndEQW0yN1FWQVZSd2JRZXV0NjBZMVcySFB2eV9SelVMN3ZWYURuTDBlQ3JyZGJiWUtoYS1scFBnNk1scWZ4NVA5cngwT1gwMmowZjVhcmtXYnhhendjZVBBckpUTkdVd0FMc0JsLW1lbkpVTFViOGRyMEZ3SkJZUThVS0k?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; STLPR",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -151,27 +173,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "ae7a4e49e32d87",
-      "title": "Google building $15 billion data center in mid-Missouri - KY3",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc05xVU1XV0xWdTFvdjlISG1xcFA4ZXY2d09yX0NxVUFhVzdSS2VKSDRKWG82X0o1blU1OWMzS05oSTF1Y1F4RmdCWFNNRjF5UTZWVk9DVjVtUjBHZDQ1TVFOUVhkYXNSWU02ZU5VZ19HNlNUczJOX0drMkExM1NOSjFJVWliRG04UmZv0gGfAUFVX3lxTE1NRUlpZ213X0Q3M1U0UFhGdVVLdDZPTjQ5UGV3Znc2U09mUGR5WEV4dDcxaFpUQzlXQ2lmbUplMW5ob0ZpTHF2YVRldXo1bVlfYTBXSTNoVjNUTmk1bkt2cnphNGV2UFhrT09nS3pMbWNFeHVzWVVJM2pRUEEyMTlmS0lNRG1uclBCMklHUWZWWFM2SE9xRlRxSFJwRkwzNA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google building $15 billion data center in mid-Missouri &nbsp;&nbsp; KY3",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "5e54cb7abe67c4",
       "title": "Google announces $15B New Florence AI data center - Let's Data Science",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0R6YjJPZlo5TF8zMVo5aXM4WWx2aEQ5T0dUdzJDMzNSY09aamhUV1NTUFNxcWNLMS14Qkk4aEYyNWt1X2l2U3d0bVVjUGh5RDNqRXQwZl95VTlRZ1h4UHkwRkJYU3ktV1drX1luZGlIaFR6bjVwckRoOTlmUXRsNHN5Ylp6X3BBTWpvQjB1STNuTjVl?oc=5",
@@ -207,6 +208,27 @@
       ],
       "amounts": [
         "$15 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ae7a4e49e32d87",
+      "title": "Google building $15 billion data center in mid-Missouri - KY3",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc05xVU1XV0xWdTFvdjlISG1xcFA4ZXY2d09yX0NxVUFhVzdSS2VKSDRKWG82X0o1blU1OWMzS05oSTF1Y1F4RmdCWFNNRjF5UTZWVk9DVjVtUjBHZDQ1TVFOUVhkYXNSWU02ZU5VZ19HNlNUczJOX0drMkExM1NOSjFJVWliRG04UmZv0gGfAUFVX3lxTE1NRUlpZ213X0Q3M1U0UFhGdVVLdDZPTjQ5UGV3Znc2U09mUGR5WEV4dDcxaFpUQzlXQ2lmbUplMW5ob0ZpTHF2YVRldXo1bVlfYTBXSTNoVjNUTmk1bkt2cnphNGV2UFhrT09nS3pMbWNFeHVzWVVJM2pRUEEyMTlmS0lNRG1uclBCMklHUWZWWFM2SE9xRlRxSFJwRkwzNA?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Google building $15 billion data center in mid-Missouri &nbsp;&nbsp; KY3",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -502,6 +524,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "75acaf074a567e",
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-21",
+      "summary": "SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "1db31739ce67d5",
       "title": "Google promises rural Missouri economic growth with new data center, locals have concerns - KBTX News 3",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0o4NzlHLXB3MHNxZ3lxTnpIb01uMjNLNFFaa3ZhSWpSdUd1STZyeFhROThUR3F0aWhPNi1tcExSb3RXTzdqQVE4YWlFZEZ3UUZlLU5Db1RIcVBreUcxQlc5d1ZER3BWSmF3TVR3bERSWFhLY19vb0t3ZkxncUtHZ0ZoREpGN2JjU2JpR2lyV2UtYWZSbUwtN0J0dEpaQktnUk5FU1BVcF9lSEhqS0hiS1U3dmpIS3RaYWNtTDRfTEpJQktSR3c?oc=5",
@@ -567,6 +606,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d22dfe996fdec6",
+      "title": "Here's what developers can do with the latest Google Play updates.",
+      "url": "https://blog.google/feed/google-play-updates-google-io-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-05-21",
+      "summary": "At Google I/O, we introduced new ways for developers to expand their reach and scale their business with less complexity.We’re expanding their reach by meeting users whe…",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -738,6 +794,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "e7d7e994ce8175",
+      "title": "Google announces $15 billion data center in mid-Missouri - First Alert 4",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjI4QVRqak0yWVNZd2UwNEZLUnBlRXNGYThiajRGRWxEZVBUQlJ4S2lwQVJ6NmFJNmluemxXMmJqbWNCRU1hYzQ2MkRpSnpnTmcxejdDd1FCbzYwb1MwbWhTVTdiZkh0RnczSmlFaU9UbEtrZ1hWWS1aQzdSYklWYVBzVEc2LTJwaUp2RHhMOFZxaGVTLWJn0gGrAUFVX3lxTE5leFVTeC1SblZucFc1akFRMTItYWRBM09nMy04QnhsNm5uLTdWTVRFT3ZEbElOZi0xdG5jbEk1X1E5aENmemFvWGc2ZmlXdFlnRlNESlg4VHd5S183R3RzbGI3RVJUSFJDal83VUw4UDFfODZKNUlfS3p1cDZIWjQxRWk3NnYwYms5Ni1wOGtCb3dkbF8xT3N2RlBJZ2pCOGZSNHVrNmNjLUxFWQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-20",
+      "summary": "Google announces $15 billion data center in mid-Missouri &nbsp;&nbsp; First Alert 4",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "c50927a6b755b4",
       "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnZvMEZJN0s2WjJ0UFJ1ZjliaE1GemtWU09vU3hMOGtSZmVpSnlIX1hMSUhvSDNsamhySXYyb3JKbnNuU0EzY2RtYk13NnNRWkM0a0M1aXhtLVNvdEtoNkRrc2VkNnFyNjJIZjdLMXVrYk5ueUdnZjVHRWg1c2RoODhhWHlQalFXX2VjYmNuMDVEQjJQa2dwY1BhTU1uU05fSHhUZmJTeWxab3NoMmtyempwNVRzcXFtc3FOQmJ2MHRrdjVoNWkzVFkyZFl5RzZGLTZWb3d5MnFVQUs1RXVzVlVoaU9hSEJtRzlQUF9kZDAzcDhpOHZUVms0dkwzMU50dlZv0gGIAkFVX3lxTFBDUFZOOF9vMjR6WEtUNWhjRVVsMWdVeTEyZlV6NWxleGhZUmR3QlJhVTRGNVI0MFhia0VWYjRWeEZjaVBZczk0Mjh0ZlhWQ1lMWW1Qb0pzZ0I5N2hLMGZIMmRoNFk5RjBteWpNTVZURzFDQ0NmQW42cmRsZVdCNFIya29JSXRrVG4xVVdROUhoalVkZmhWNFhwazFHTW9JSE1xN3V4WTl5Z1QzWkpNc0VTbTl3dXFSYXZLeHZ4dlhyTWR1dnowbWgxd2phaWpyZmZTelE3OVpHejRxcDNFSUJ4N2VyY0FlZ01HdjZkU1lNNVRSdnV4UXJLNl8wRDB0Y1hZdlctUFJzdw?oc=5",
@@ -778,6 +855,27 @@
         "$15 billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "60350a43360424",
+      "title": "Google secures $15B data center project in mid-Missouri - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkwwNmlCN3ZLbi1vdUdEa2tIVV8zUU1OSVdBVEJqTWJLdFVSMDVXQVJwU01ubGhIa1h2Y1hCRzMxRjBoU216eVMxNTdyOFE0S1RramNUV2UzLTFTWk9xOUMwT0RzdlBWOTJTT0RoS0pJN1hsTmNZUlE4Uy1Iam4wVHFFTG9sZDJsSmZidjc1a0ZISlHSAZgBQVVfeXFMTlVtWXVtSXp3b1YwbEcyMGEtYzRuSG5SVzNwWGszZUxrSC00czZqXzFUeTZwY3kyblI1cHU4bExOUXo2OU81V2g1QW0wQzFkaDVMSTFQOXB0ZjJkLVZpdWYzUktBd3YtdllIUE10MmVMdW0ya1Y5WVAxSG1EcEUzRjg0VERfU25FTHhWdW1IVWVkRzMxZ1BpT0s?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-20",
+      "summary": "Google secures $15B data center project in mid-Missouri &nbsp;&nbsp; FOX 2",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15B"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -829,10 +927,10 @@
       ],
       "locations": [],
       "amounts": [
+        "$2.2B",
         "$250M",
         "$85 million",
-        "$250 million",
-        "$2.2B"
+        "$250 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1209,30 +1307,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9a0efbe57958ed",
-      "title": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPc1JCSUR2YkswbkxJMzE4ZHZiZmhQTjluZlloTHBBbHI5aUNqV1FzNXhJTnJYRS05V2tWdDhMX1pfNmR6dEZfMk12NkhTaHhTaFdqOU5YYVU3UWZfYW1qdVJJWGYydWVUVV9nTnFFNF9fZnU5Q256OGNtX1VZNWVmdzAzaXltamdFb3NWTDl5anlzZW56ZXdObHh1ZnlEdTk0bm93NkJkMk5EeEFWUEE2V0FLZ2lmYzFOR1g2Y29SNFdBOTBWVk8yaDRlSEEyWldQbExPSTJiYTZiUS1YQS1OVW1hQ0lvbFRaaTFzLXdDWHJqdV9Bd3djVF9KdjRPTlN1b3V3TWpnUjZzSVh3NTBRbW1ad3B3Y2NmRDZFOUsweGtxc21ocnc?oc=5",
+      "id": "b48f042a7dbb27",
+      "title": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUFpmelBKX3JNM1BVQjhWU1cyVWI1WUswNk1TTzdlaHFLY3VHeUJ1UlVscDE2ZDd0SU1ERmFTSklKanFzcFNlZzMtd2Y3bEdaTktYOTJDTTdaVlVPMUluUVlOVUFmT3JhTm5uMGktSU1EblVEc1BpTU9WUDJzUVBMMF9DMkF2d1FBVHc5S3d6T2JmVFowYkF1T0N6MksyYVREU2NtMC1XWWxhMGdSeHo5QW9FaVZPd1hKRFVMVFdPTXZpTzdoNjdZUFlOcDZmZG5fRUNUSUNzdmtqeV9FeksycWg1ODk0MXdRTTQtcER0SElBZTF5ZzZFcnRIb0xDWTk2akJ2YzVHcw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-05-20",
-      "summary": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2dba388a93f4ff",
-      "title": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObVllWW5Gb2pMQ2JtN2lXY2Z6dUhFLWQ2VXlHUHZxUFFacURhM2d5OFhvNkVIellDVmtMdnNrd29XdUUzajV4U296VHBoMXI2SUNERTFzZWVpdUUtM3pXY2JCSUVWeUo5SjBVelhmVzlDMU9QdjVtcGNlU2pqVnY5SVRkQk10VnJKVnZpekJod1l3V0JMbFZIRUdzZWJPOERnbFJVaVdJNGI4Wm9XVEJtb3BYRUptZHNzLWtIdVNSMUJQTjRCYmZEZEZFQTlOSThoVDk4MHpidng5R3h2NGs2T0xlR3Y3SkI1WC1vTDA5NnZIOFdkZFZpcG5fVnhwWEVERkVzUGl0LTU?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings &nbsp;&nbsp; 24/7 Wall St.",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -1299,23 +1380,6 @@
       "source_cat": "Tech News",
       "date": "2026-05-20",
       "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1c2839a777165d",
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-20",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1459,6 +1523,57 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9a0efbe57958ed",
+      "title": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPc1JCSUR2YkswbkxJMzE4ZHZiZmhQTjluZlloTHBBbHI5aUNqV1FzNXhJTnJYRS05V2tWdDhMX1pfNmR6dEZfMk12NkhTaHhTaFdqOU5YYVU3UWZfYW1qdVJJWGYydWVUVV9nTnFFNF9fZnU5Q256OGNtX1VZNWVmdzAzaXltamdFb3NWTDl5anlzZW56ZXdObHh1ZnlEdTk0bm93NkJkMk5EeEFWUEE2V0FLZ2lmYzFOR1g2Y29SNFdBOTBWVk8yaDRlSEEyWldQbExPSTJiYTZiUS1YQS1OVW1hQ0lvbFRaaTFzLXdDWHJqdV9Bd3djVF9KdjRPTlN1b3V3TWpnUjZzSVh3NTBRbW1ad3B3Y2NmRDZFOUsweGtxc21ocnc?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-20",
+      "summary": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2dba388a93f4ff",
+      "title": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObVllWW5Gb2pMQ2JtN2lXY2Z6dUhFLWQ2VXlHUHZxUFFacURhM2d5OFhvNkVIellDVmtMdnNrd29XdUUzajV4U296VHBoMXI2SUNERTFzZWVpdUUtM3pXY2JCSUVWeUo5SjBVelhmVzlDMU9QdjVtcGNlU2pqVnY5SVRkQk10VnJKVnZpekJod1l3V0JMbFZIRUdzZWJPOERnbFJVaVdJNGI4Wm9XVEJtb3BYRUptZHNzLWtIdVNSMUJQTjRCYmZEZEZFQTlOSThoVDk4MHpidng5R3h2NGs2T0xlR3Y3SkI1WC1vTDA5NnZIOFdkZFZpcG5fVnhwWEVERkVzUGl0LTU?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-20",
+      "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1c2839a777165d",
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-20",
+      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1752,13 +1867,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d67e29a2bee4f0",
-      "title": "IBM Z’s decade of growth finds new footing as hybrid AI infrastructure becomes cornerstone",
-      "url": "https://siliconangle.com/2026/05/20/hybrid-ai-infrastructure-ibm-new-era-ibmthink/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "28cdf61fe4b203",
+      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+      "url": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-05-20",
-      "summary": "As AI accelerates across every layer of the enterprise, the mainframe is undergoing its most consequential redesign in decades — and hybrid AI infrastructure has found itself decidedly at the center of conversations. IBM Corp. has spent years embedding AI directly into its hardware platforms, positioning IBM Z —its flagship line of mainframe computers — [&#8230;] \n The post  IBM Z&#8217;s decade of growth finds new footing as hybrid AI infrastructure becomes cornerstone  appeared first on  Silic",
+      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1767,13 +1882,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "28cdf61fe4b203",
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "url": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
+      "id": "d67e29a2bee4f0",
+      "title": "IBM Z’s decade of growth finds new footing as hybrid AI infrastructure becomes cornerstone",
+      "url": "https://siliconangle.com/2026/05/20/hybrid-ai-infrastructure-ibm-new-era-ibmthink/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-05-20",
-      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
+      "summary": "As AI accelerates across every layer of the enterprise, the mainframe is undergoing its most consequential redesign in decades — and hybrid AI infrastructure has found itself decidedly at the center of conversations. IBM Corp. has spent years embedding AI directly into its hardware platforms, positioning IBM Z —its flagship line of mainframe computers — [&#8230;] \n The post  IBM Z&#8217;s decade of growth finds new footing as hybrid AI infrastructure becomes cornerstone  appeared first on  Silic",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -4195,23 +4310,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "95ca3b90fb87fe",
-      "title": "NVIDIA Robs All of Big Tech. Except Apple - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTBzQ2FwOV9OcDRvVUxNZ3RROUZDOU9fMXZIVzJjU1ZidURxOWg1cnhEYzFKQzhja3BNend1SEtTeW1Ld3g1WUlaS0J4RVlBN3I0VUFMMkFkV3RDWDcyTVRyWTdCcEIza000TGFwb292WnBGVm9oVVdyWXY3c1NnOGlUUjNrTDdBSzNVbg?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-14",
-      "summary": "NVIDIA Robs All of Big Tech. Except Apple &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b5159e68399db8",
       "title": "Amazon Bedrock introduces new advanced prompt optimization and migration tool",
       "url": "https://aws.amazon.com/blogs/aws/amazon-bedrock-introduces-new-advanced-prompt-optimization-and-migration-tool/",
@@ -4243,6 +4341,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "95ca3b90fb87fe",
+      "title": "NVIDIA Robs All of Big Tech. Except Apple - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaTBzQ2FwOV9OcDRvVUxNZ3RROUZDOU9fMXZIVzJjU1ZidURxOWg1cnhEYzFKQzhja3BNend1SEtTeW1Ld3g1WUlaS0J4RVlBN3I0VUFMMkFkV3RDWDcyTVRyWTdCcEIza000TGFwb292WnBGVm9oVVdyWXY3c1NnOGlUUjNrTDdBSzNVbg?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-14",
+      "summary": "NVIDIA Robs All of Big Tech. Except Apple &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9037,21 +9152,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "139edf3e4e858d",
-      "title": "New Data Center Developments: May 2026 - Data Center Knowledge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFNVHdsNG93MU0zSzR3SmZWX0RxX3JqbVA4ZFNSSnI5b0VWNHZzMVZURm1tZVctLVZpRTlvRzdNN0JSLU9vYjlaMktSS043am1Jd05EZGE2TlhaTWxIQmp0eHRuUmx2bzRjWVZWS1dVR1lYN255OF9OLXR6SlozU3U4VTdiR2s2Z3NyNXJuSjh5aXdTS2VxS3dvVjVfc2s?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-05",
-      "summary": "New Data Center Developments: May 2026 &nbsp;&nbsp; Data Center Knowledge",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "2e8d8fc1d34f2c",
       "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
       "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
@@ -9080,6 +9180,21 @@
       "companies": [
         "Amazon"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "139edf3e4e858d",
+      "title": "New Data Center Developments: May 2026 - Data Center Knowledge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXFNVHdsNG93MU0zSzR3SmZWX0RxX3JqbVA4ZFNSSnI5b0VWNHZzMVZURm1tZVctLVZpRTlvRzdNN0JSLU9vYjlaMktSS043am1Jd05EZGE2TlhaTWxIQmp0eHRuUmx2bzRjWVZWS1dVR1lYN255OF9OLXR6SlozU3U4VTdiR2s2Z3NyNXJuSjh5aXdTS2VxS3dvVjVfc2s?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-05",
+      "summary": "New Data Center Developments: May 2026 &nbsp;&nbsp; Data Center Knowledge",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10262,98 +10377,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "06c6053ad708f6",
-      "title": "Naver targets Saudi data center market, plans \"large scale\" projects",
-      "url": "https://www.datacenterdynamics.com/en/news/naver-targets-saudi-data-center-market-plans-large-scale-projects/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-01",
-      "summary": "Agreement with Hanmi Global responds to growing demand for digital infrastructure in the Middle East and emerging markets",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "95ca65131fc5e6",
-      "title": "Meta raises planned capex for 2026, plans layoffs for \"efficiency\" reasons",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-raises-planned-capex-for-2026-plans-layoffs-for-efficiency-reasons/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-01",
-      "summary": "Social media giant also secures $25bn in bond sale",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8edc89e55513ac",
-      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-enhancing-data-center-efficiency-with-liquid-cooling-with-zachary-dominique-danfoss/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-01",
-      "summary": "Zachary Dominique from Danfoss Climate Solutions explores core technologies for efficient liquid cooling systems with DCD’s Zoe Turner.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5c0a97c8cbc330",
-      "title": "We do cool stuff",
-      "url": "https://www.datacenterdynamics.com/en/magazines/we-do-cool-stuff/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-01",
-      "summary": "Building resilient, high-density infrastructure foundations that enable scalable cooling, integrated power pathways, and future-ready deployment strategies for AI era data centers.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2b16a832a76b74",
-      "title": "DCD>Talks: Enhancing data center efficiency with liquid cooling with Zachary Dominique, Danfoss Climate Solutions",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-enhancing-data-center-efficiency-with-liquid-cooling-with-zachary-dominique-danfoss/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-01",
-      "summary": "Zachary Dominique from Danfoss Climate Solutions explores core technologies for efficient liquid cooling systems with DCD’s Zoe Turner.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "93b30b3c8bb6e9",
-      "title": "Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWdTejI0M3JSNnQ1d3BGRVp0SDB6dkJSVEtZejF6OVpmRWdReFFfZjNEZXRvbUpjbnFaUVRsWlozOHlvYzQyS2NtUlFLVnBCNy04bm56N3RJRjNFdEtWZ3ZvbTVwVVV3RHlTMGx2N1ZLQjN4OE5NT2FHQzFmaTBpaFI0R29IaVhOLVF2c0hxVlpHOWZvSTVuYnZKX0xOcTB6VUZj?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-01",
-      "summary": "Mag 7 Capex Explosion: AI Infrastructure Stocks Could Win Big &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
       "is_high_confidence": false
     }
   ]
