@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-27T12:53:15.730465+00:00",
+  "last_updated": "2026-05-27T17:19:51.226457+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
-  "cancellation_count": 18,
+  "new_project_count": 93,
+  "cancellation_count": 17,
   "sec_filing_count": 1,
-  "high_confidence_count": 165,
+  "high_confidence_count": 159,
   "findings": [
     {
       "id": "41383c0d873c2c",
@@ -39,10 +39,85 @@
       ],
       "locations": [],
       "amounts": [
-        "$8.2 million",
-        "$8.2M"
+        "$8.2M",
+        "$8.2 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "63252283be9cc1",
+      "title": "Guofu, CEWA to explore hydrogen power deployment across Southeast Asia data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/guofu-cewa-to-explore-hydrogen-power-deployment-across-southeast-asia-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Partner on 3MW demonstration project in Thailand",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "3MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "afe9888adc855a",
+      "title": "25MW AI data center to be built in McMinnville, Tennessee",
+      "url": "https://www.datacenterdynamics.com/en/news/25mw-ai-data-center-to-be-built-in-mcminnville-tennessee/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Project to be completed in Q1 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Tennessee"
+      ],
+      "amounts": [
+        "25MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4645a78981573f",
+      "title": "Soluna acquires remaining equity interest in 25MW Project Dorothy 1B for $8.8m",
+      "url": "https://www.datacenterdynamics.com/en/news/soluna-acquires-remaining-equity-interest-in-25mw-project-dorothy-1b-for-88m/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Now owns the entirety of its Project Dorothy data center project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$8.8m",
+        "25MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e12cc5998aba1d",
+      "title": "Google signs 200MW solar PPA with Enlight in Oklahoma",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-200mw-solar-ppa-with-enlight-in-oklahoma/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "15-year deal",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Oklahoma"
+      ],
+      "amounts": [
+        "200MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -86,13 +161,33 @@
       "is_high_confidence": true
     },
     {
+      "id": "9582b9e592ccc6",
+      "title": "Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems",
+      "url": "https://siliconangle.com/2026/05/27/tensormesh-taps-nvidia-amd-coreweave-funding-fix-llm-memory-problems/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Tensormesh Inc. has hit upon a way to make artificial intelligence inference more efficient by eliminating the need for redundant computations, and its technology is so convincing that several of AI infrastructure giants are backing it with $20 million in funding. Today&#8217;s round saw the participation of Nvidia Corp., Advanced Micro Devices Inc. and CoreWeave [&#8230;] \n The post  Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems  appeared first on  Silico",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$20 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "ca53098ddc3708",
       "title": "RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats",
       "url": "https://siliconangle.com/2026/05/27/reveng-ai-raises-15m-reverse-engineer-software-binaries-hunt-malicious-threats/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-05-27",
-      "summary": "British software supply chain security startup RevEng.AI says it has raised $15 million in early-stage funding after developing technology similar to Anthropic PBC’s Mythos model and working out a way to put it to good use. The startup, officially known as Binary AI Ltd., wants to help organizations use its technology to analyze software at [&#8230;] \n The post  RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats  appeared first on  SiliconANGLE .",
+      "summary": "British software supply chain security startup RevEng.AI today said has raised $15 million in early-stage funding after developing technology similar to Anthropic PBC’s Mythos model and working out a way to put it to good use. The startup, officially known as Binary AI Ltd., wants to help organizations use its technology to analyze software at [&#8230;] \n The post  RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [
         "Anthropic"
@@ -104,6 +199,83 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "594e4c75a107d6",
+      "title": "DigitalBridge to acquire energy investor ArcLight Capital for $1bn",
+      "url": "https://www.datacenterdynamics.com/en/news/digitalbridge-to-acquire-energy-investor-arclight-capital-for-1bn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Data center investors takes over multi-gigawatt power portfolio",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c52f341669ed4f",
+      "title": "XM Cyber rolls out tools to identify and revoke unused permissions across hybrid environments",
+      "url": "https://siliconangle.com/2026/05/27/xm-cyber-rolls-tools-identify-revoke-unused-permissions-across-hybrid-environments/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Continuous exposure management company XM Cyber Inc. today announced an expansion of its platform with new capabilities aimed at helping enterprises enforce least-privilege access across Active Directory, Microsoft Entra and multicloud environments. The company is targeting one of the most exploited weaknesses in modern enterprise security: excessive permissions. Overprovisioned identities give attackers ready-made paths for [&#8230;] \n The post  XM Cyber rolls out tools to identify and revoke u",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2c819f3c6052ab",
+      "title": "England data center planning applications doubled in 2025, FOI requests reveal",
+      "url": "https://www.datacenterdynamics.com/en/news/england-data-center-planning-applications-doubled-in-2025-foi-requests-reveal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Rose from 13 applications in 2024 to 26 in 2025",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "239a23ca7c95ee",
+      "title": "The stability gap: How data centers can secure their power future",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-stability-gap-how-data-centers-can-secure-their-power-future/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Do synchronous condensers hold the answer?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aac44d527ead3e",
+      "title": "2G Energy secures multi-year containerized power systems deal for North American data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/2g-energy-secures-multi-year-containerized-power-systems-deal-for-north-american-data-center-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Deliveries to commence later this year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "8fc9cdecd970ec",
@@ -118,6 +290,92 @@
       "locations": [
         "Minnesota"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a9c69d931f257c",
+      "title": "For the critical middle market, Microsoft and Dell want to make AI adoption less daunting",
+      "url": "https://siliconangle.com/2026/05/27/ai-culture-shift-microsoft-dell-copilot-pcs-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "AI adoption has become a culture shift for enterprises, moving beyond technical implementation to fundamentally reordering how organizations work, compete and grow. Few partnerships are better positioned to guide that shift than the one between the companies that have long defined the enterprise stack. Specifically, the partnership between Dell Technologies Inc. and Microsoft Corp. spans [&#8230;] \n The post  For the critical middle market, Microsoft and Dell want to make AI adoption less daunti",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "017efc935e2b88",
+      "title": "Exclusive: Unravel Data launches autonomous optimization engine for Databricks, Snowflake and BigQuery",
+      "url": "https://siliconangle.com/2026/05/27/exclusive-unravel-data-launches-autonomous-optimization-engine-databricks-snowflake-bigquery/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Unravel Data Systems Inc. is expanding beyond observability and FinOps software with a new autonomous optimization engine designed to automatically tune and remediate enterprise data platforms running on Databricks Inc., Snowflake Inc. and Google LLC BigQuery platforms. The Palo Alto-based company today unveiled Arvix AI, an agentic artificial intelligence system embedded within the Unravel platform [&#8230;] \n The post  Exclusive: Unravel Data launches autonomous optimization engine for Databri",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e8c3daf6a943a0",
+      "title": "Anthropic Growth and Bedrock Mix Drive AWS Margins Higher While Peers Lag",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-growth-and-bedrock-mix",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-05-27",
+      "summary": "Amazon&#8217;s Bedrock Mix and Anthropic Deal Terms Combine to Show Greater Operating Leverage",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3c75eb39ad0389",
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-27",
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e981b04a1d4b2b",
+      "title": "Meet Our Newest AWS Heroes – May 2026",
+      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-05-27",
+      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -155,6 +413,51 @@
       "is_high_confidence": false
     },
     {
+      "id": "eff475e3a6b8ed",
+      "title": "FuriosaAI partners with Broadcom for development of AI inference chips",
+      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-partners-with-broadcom-for-development-of-ai-inference-chips/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "South Korean startup’s third-generation accelerators will have a multi-die system architecture",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e0528cedf2ff0e",
+      "title": "The AI GPU market has belonged to hyperscalers, but AMD’s MI350P is coming for the enterprise",
+      "url": "https://siliconangle.com/2026/05/27/enterprise-gpu-access-mainstream-data-centers-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Enterprise GPU access is expanding as Advanced Micro Devices Inc. lowers barriers with the air-cooled Instinct MI350P GPU and a ready-to-run software stack designed for standard enterprise servers. The next wave of enterprise GPU adoption hinges not just on raw silicon performance, but on dramatically lowering the barrier to deployment. AMD is betting that pairing [&#8230;] \n The post  The AI GPU market has belonged to hyperscalers, but AMD&#8217;s MI350P is coming for the enterprise  appeared f",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b0e6c78d5b9a84",
+      "title": "Broadcom debuts new Wi-Fi 8 chips, optical network processor",
+      "url": "https://siliconangle.com/2026/05/27/broadcom-debuts-new-wi-fi-8-chips-optical-network-processor/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Broadcom Inc. today debuted three new chips designed to power multi-gigabit Wi-Fi 8 routers. Wi-Fi 8 is an upcoming version of the eponymous networking standard that is set to be finalized in 2028. Chipmakers have already started implementing key components of the specification in their products. One of Wi-Fi 8’s flagship features is SMD roaming, [&#8230;] \n The post  Broadcom debuts new Wi-Fi 8 chips, optical network processor  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "98bd824971457a",
       "title": "Louisiana announces $3.6 billion AI data center campus planned for Rapides Parish - Louisiana Illuminator",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
@@ -171,6 +474,25 @@
         "$3.6 billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "99eac05368a292",
+      "title": "$3.6 billion AI data center campus planned for Rapides Parish - Louisiana Illuminator",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-05-26",
+      "summary": "$3.6 billion AI data center campus planned for Rapides Parish &nbsp;&nbsp; Louisiana Illuminator",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$3.6 billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -432,40 +754,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "662db9d9a2f71f",
-      "title": "Equinix opens MD5 data center in Madrid, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-opens-md5-data-center-in-alcobendas-waterless-cooling-to-drive-ai-in-southern-europe/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-26",
-      "summary": "New IBX facility adds 4,400 sqm of colocation space",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "41756ca8ef0d2b",
-      "title": "Detectify debuts MCP server to let AI agents find and fix vulnerabilities in real time",
-      "url": "https://siliconangle.com/2026/05/26/detectify-debuts-mcp-server-let-ai-agents-find-fix-vulnerabilities-real-time/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-26",
-      "summary": "Application security platform company Detectify AB today launched the Detectify MCP Server, a new integration layer that plugs the company&#8217;s security testing engines into artificial intelligence-driven coding workflows so that agents can find, validate and remediate exploitable vulnerabilities in real time. Detectify&#8217;s MCP Server is built on the Model Context Protocol, the open standard Anthropic [&#8230;] \n The post  Detectify debuts MCP server to let AI agents find and fix vulnerab",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "52b95d1005a445",
       "title": "Google Display Ads has a new home in Demand Gen.",
       "url": "https://blog.google/products/ads-commerce/google-display-ads-demand-gen/",
@@ -493,6 +781,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "662db9d9a2f71f",
+      "title": "Equinix opens MD5 data center in Madrid, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-opens-md5-data-center-in-alcobendas-waterless-cooling-to-drive-ai-in-southern-europe/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-26",
+      "summary": "New IBX facility adds 4,400 sqm of colocation space",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "41756ca8ef0d2b",
+      "title": "Detectify debuts MCP server to let AI agents find and fix vulnerabilities in real time",
+      "url": "https://siliconangle.com/2026/05/26/detectify-debuts-mcp-server-let-ai-agents-find-fix-vulnerabilities-real-time/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-26",
+      "summary": "Application security platform company Detectify AB today launched the Detectify MCP Server, a new integration layer that plugs the company&#8217;s security testing engines into artificial intelligence-driven coding workflows so that agents can find, validate and remediate exploitable vulnerabilities in real time. Detectify&#8217;s MCP Server is built on the Model Context Protocol, the open standard Anthropic [&#8230;] \n The post  Detectify debuts MCP server to let AI agents find and fix vulnerab",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -726,6 +1048,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "6f1987e9ab62a9",
+      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-05-25",
+      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving their business model requires not just technical depth but […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b2cfeb7bbdaaab",
       "title": "EU reportedly plans to fine Google over search practices",
       "url": "https://siliconangle.com/2026/05/25/eu-reportedly-plans-fine-google-search-practices/",
@@ -770,23 +1109,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6f1987e9ab62a9",
-      "title": "AWS Weekly Roundup: AWS Local Zones in Istanbul, open-source ExtendDB, Kiro Web, and more (May 25, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-local-zones-in-istanbul-open-source-extenddb-kiro-web-and-more-may-25-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-05-25",
-      "summary": "There’s something genuinely energizing about working with startups — something I’ve been doing intensely for more than two years now. Startups operate at a different frequency: the urgency is real, the constraints are tight, and the stakes are personal. Helping them navigate the challenge of proving their business model requires not just technical depth but […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1600,27 +1922,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "f2d15fd08a9cdd",
-      "title": "Google unveils $15 billion Missouri data center investment - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUThybXA4TVZzRVF2a212ZFNXNGpCR3VZZmJfdWhfemtyUWhiNmVvamM0UXU2bUo0b1U3cE5Pd0FvTklUYWo5MndvZXdHTVFzNVVaNUFobnhSN3IyTnBzQmRSajZfRHUzT3lLVzE4azlzLXd4M0tpdWZ4WDUzNDFBbnJKTUZsbDNCdURrVkxBZS1mMEVLTC13ZWl1c1N2UWFfUmg0TmV5NGJ0RzFDTGFXZnpwRndtX25wOHFtSE1OUTZFblRnclNWdWQ4TGFXVDBGNm9FdHZWc0ppeUIxRkpHQzRpaTJQQ2o4TjNiZVMtVk1XelVNYVdBN21HNHo5RjkzVFI5cXE2M3JabHFOWmpCM01YQnd3Y1pTTVJxbVhrSE1aLUVya1UydE1jUk9Fak5XVldiTkNjZTRhVVY3S2FWVDhQWUZZVTQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google unveils $15 billion Missouri data center investment &nbsp;&nbsp; MSN",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "5ceb89fb6338a2",
       "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
@@ -1634,6 +1935,27 @@
       ],
       "locations": [
         "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f2d15fd08a9cdd",
+      "title": "Google unveils $15 billion Missouri data center investment - MSN",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPUThybXA4TVZzRVF2a212ZFNXNGpCR3VZZmJfdWhfemtyUWhiNmVvamM0UXU2bUo0b1U3cE5Pd0FvTklUYWo5MndvZXdHTVFzNVVaNUFobnhSN3IyTnBzQmRSajZfRHUzT3lLVzE4azlzLXd4M0tpdWZ4WDUzNDFBbnJKTUZsbDNCdURrVkxBZS1mMEVLTC13ZWl1c1N2UWFfUmg0TmV5NGJ0RzFDTGFXZnpwRndtX25wOHFtSE1OUTZFblRnclNWdWQ4TGFXVDBGNm9FdHZWc0ppeUIxRkpHQzRpaTJQQ2o4TjNiZVMtVk1XelVNYVdBN21HNHo5RjkzVFI5cXE2M3JabHFOWmpCM01YQnd3Y1pTTVJxbVhrSE1aLUVya1UydE1jUk9Fak5XVldiTkNjZTRhVVY3S2FWVDhQWUZZVTQ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Google unveils $15 billion Missouri data center investment &nbsp;&nbsp; MSN",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
       ],
       "amounts": [
         "$15 billion"
@@ -2055,8 +2377,8 @@
         "Arizona"
       ],
       "amounts": [
-        "$3 Billion",
-        "240MW"
+        "240MW",
+        "$3 Billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3284,13 +3606,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e1a578f8fc1608",
-      "title": "Fuel your next wave of growth on YouTube with Demand Gen",
-      "url": "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/",
+      "id": "739f9cecf7c9e3",
+      "title": "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
+      "url": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-05-20",
-      "summary": "Google Marketing Live logo next to the YouTube and Google G icons",
+      "summary": "Text \"Google Marketing Live\" surrounded by the YouTube logo, Google G, and a 3-D sparkle",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -3318,13 +3640,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "739f9cecf7c9e3",
-      "title": "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
-      "url": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
+      "id": "310ec5113d8b3a",
+      "title": "A new generation of ads for the AI era of Search",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-05-20",
-      "summary": "Text \"Google Marketing Live\" surrounded by the YouTube logo, Google G, and a 3-D sparkle",
+      "summary": "\"Google Marketing Live\" text with the YouTube logo, Google G, and a 3-D sparkle",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -3335,13 +3657,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "310ec5113d8b3a",
-      "title": "A new generation of ads for the AI era of Search",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "id": "e1a578f8fc1608",
+      "title": "Fuel your next wave of growth on YouTube with Demand Gen",
+      "url": "https://blog.google/products-and-platforms/products/youtube/youtube-demand-gen-updates/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-05-20",
-      "summary": "\"Google Marketing Live\" text with the YouTube logo, Google G, and a 3-D sparkle",
+      "summary": "Google Marketing Live logo next to the YouTube and Google G icons",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -7120,23 +7442,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e08ed005f6aa51",
-      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-13",
-      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "32f2525778416b",
       "title": "Introducing Instants: A New Way to Share in the Moment",
       "url": "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
@@ -7164,6 +7469,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e08ed005f6aa51",
+      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-05-13",
+      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -10113,337 +10435,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "d824a8fadd0500",
-      "title": "DCD>Studio: Developing in Southern Europe, with Olivier Labbe, Via DC",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-developing-in-southern-europe-with-olivier-labbe-via-dc/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "DCD's Seb Moss speaks with Olivier Labbe of Via DC about enabling data center growth across Southern Europe through site assessment and commercialization expertise.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "15d6586629185e",
-      "title": "AI factories are forcing enterprises to reimagine security from the ground up",
-      "url": "https://siliconangle.com/2026/05/07/ai-infrastructure-security-becomes-key-ai-factories-scale-securingtheaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "The rise of the AI factory is reshaping how organizations build and scale intelligence — and it&#8217;s putting AI infrastructure security squarely at the center of the conversation. The current overhaul is fundamental, with AI factories being built as end-to-end solutions requiring a redesign in power, thermals and racks. At the same time, the data [&#8230;] \n The post  AI factories are forcing enterprises to reimagine security from the ground up  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "29142041022343",
-      "title": "As agentic AI moves on-prem, Intel puts hardware trust at the center of enterprise security",
-      "url": "https://siliconangle.com/2026/05/07/ai-factory-security-starts-hardware-level-securingtheaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "AI factory security begins at the hardware layer — a fact that is taking on new urgency as enterprises scramble to secure the infrastructure powering the next computing era. The rise of agentic AI and on-premises AI deployments is forcing enterprises to think harder about where trust actually begins in a compute stack. Every software security [&#8230;] \n The post  As agentic AI moves on-prem, Intel puts hardware trust at the center of enterprise security  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "323e5ca8b8409f",
-      "title": "Enterprise AI deployment is creating a security blind spot traditional architectures can’t handle",
-      "url": "https://siliconangle.com/2026/05/07/enterprise-ai-deployment-rewriting-security-rulebook-securingtheaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "Enterprise AI deployment has fundamentally expanded the cybersecurity attack surface, turning data pipelines, model training environments, identity management systems and supply chains into prime targets that traditional security architectures were never designed to defend. The shift from conventional applications to AI factory infrastructure introduces a new class of exposure that organizations are only beginning to [&#8230;] \n The post  Enterprise AI deployment is creating a security blind spo",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b4ff6e1dc9b71",
-      "title": "The Neocloud Supplement",
-      "url": "https://www.datacenterdynamics.com/en/magazines/the-neocloud-supplement/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "Exploring how Neocloud providers are reshaping AI infrastructure, from GPU scale and deployment speed to power, cooling, and the future of cloud competition",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a3112473659986",
-      "title": "Arm posts recording-breaking revenue for full-year and Q4 ‘26, with its share of hyperscaler CPU compute hitting 50%",
-      "url": "https://www.datacenterdynamics.com/en/news/arm-posts-recording-breaking-revenue-for-full-year-and-q4-26-with-its-share-of-hyperscaler-cpu-compute-hitting-50/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "Chip giant also said customer demand for its new Arm AGI CPU has hit $2bn",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eb9dfa18042a7e",
-      "title": "Transforming colocation facilities to meet demand for AI compute",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/transforming-colocation-facilities-to-meet-demand-for-ai-compute/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-07",
-      "summary": "Transforming colocation infrastructure to support high density AI workloads with scalable power, liquid cooling, and resilient deployment strategies.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5f17ce0605e1db",
-      "title": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDJQc25TbUZNY2JMUmg4MjRheTV4TVQ3bWJtMkcyblFDMVdwWEE3M3FtOVVyT0xaV2cwSzFXQmk0U0l6MHp6UFMwYi1sYzdheTVadlhMMUJzVGtMeXhQa0Y5Y2dVem1EUTYzaVp0eGpoWTJSNkhFekdkb2Z5ZDNocENuMjFSWTcw0gGOAUFVX3lxTFBHZW01bV8tRUNsVEFWVno1WklTNmRVZTFueGxiM241MWRVTFFsN0JFS0Jxb3VxLTRMQkk5RWVxYXd1U2xTS1JTQy03T1c2b1VIUm9icllPWEhXVDk5SlBkZk1DWk95aF9nVG92SGVtODBrQm1SMDdHTlJxZWtWaXplU3JZdU1raldIZmpBVEE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-06",
-      "summary": "Nvidia to invest up to $3.2 billion in Corning as part of massive optical fiber deal with 3 new factories focused on AI &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$3.2 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "623ad549a1567e",
-      "title": "Kenya suspends $1 billion Microsoft data centre as energy shortfall raises doubts over Africa’s AI ambitions - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXBPNnFvc2xhYWRMZTFyYWhTOUpKamxrRVNLaXpvZUlqWnFqUnNIQXNORzFldHpkZER5UWFDNktUdU82a3ZjRDBtdXZtbUNyeW5EY3lQYWV2cFdDTDZ6UnN3Y3lDVUtlNnNaMHM2cVJDREhsWEFRNml6bUpUa2NRRDBxSTJxQnVCZ2pnTVdFTG1WQzdxVElvMmFhVW8yMmttZTFXM1UyclJsWXRSeE9pZnFvRGdwZUdaU3hhbFU1aEU5blAwZ0VIYUpkOTF4LWdPNFE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-06",
-      "summary": "Kenya suspends $1 billion Microsoft data centre as energy shortfall raises doubts over Africa’s AI ambitions &nbsp;&nbsp; Business Insider Africa",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2134109c1f0673",
-      "title": "AWS took NZ$45m hit over dropped data center in Auckland, New Zealand - report",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-took-nz45m-hit-over-dropped-data-center-in-auckland-new-zealand-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Cloud giant quietly walked away from project in early 2024",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$45m"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "01f26495fa631a",
-      "title": "Google DeepMind partners with EVE Online for AI model testing",
-      "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-06",
-      "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$120M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f846294f7c8ed3",
-      "title": "Nvidia partners with Corning to boost the supply of optical network components",
-      "url": "https://siliconangle.com/2026/05/06/nvidia-partners-corning-boost-supply-optical-network-components/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-06",
-      "summary": "Nvidia Corp. will help publicly traded glass maker Corning Inc. boost the rate at which it produces parts for optical data center networks. The partnership, which the companies announced today, will see Corning build three new factories in North Carolina and Texas. The facilities will boost the manufacturer&#8217;s optical hardware production capacity in the U.S. [&#8230;] \n The post  Nvidia partners with Corning to boost the supply of optical network components  appeared first on  SiliconANGLE ",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "North Carolina",
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a0e29b063836a4",
-      "title": "Anthropic to use all of SpaceX-xAI's Colossus 1 data center compute",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-to-use-all-of-spacex-xais-colossus-1-data-center-compute/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "And \"expresses interest\" in multiple gigawatts of orbital AI compute capacity",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ad5ad3ba09fc70",
-      "title": "Cryptominer Mawson rebrands as Big Digital Energy, signs 75MW colo deal with Endeavor",
-      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-mawson-rebrands-as-big-digital-energy-signs-75mw-colo-deal-with-endeavor/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Companies settle months-long disputes with new deal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "75MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b80db7b7e171e5",
-      "title": "OneQode signs 15-year 110MW lease at Bitzero data center in Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/oneqode-signs-15-year-110mw-lease-at-bitzero-data-center-in-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Will support the deployment of AI infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [
-        "110MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "faef450d3f9846",
-      "title": "T-Rex to acquire 3MW crypto data center in Roberta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/t-rex-to-acquire-3mw-crypto-data-center-in-roberta-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Company buys second cryptomine",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [
-        "3MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ce194289c927c2",
-      "title": "Core Scientific acquires cryptomine in Muskogee to expand AI data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/core-scientific-acquires-cryptomine-in-muskogee-to-expand-ai-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Buys Polaris Technologies, takes over 440MW grid connection",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "440MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ea831f52a48b22",
-      "title": "Castleforge and Galaxy Data Centers secure planning permission to redevelop Redhill data center campus outside London",
-      "url": "https://www.datacenterdynamics.com/en/news/castleforge-and-galaxy-data-centers-secure-planning-permission-to-redevelop-redhill-data-center-campus-outside-london/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Companies set to demolish two buildings for one 15MW facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "London"
-      ],
-      "amounts": [
-        "15MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "43f2d2570a6442",
-      "title": "Cerebras signs on for 40MW of capacity at Digi Power X data center in Alabama",
-      "url": "https://www.datacenterdynamics.com/en/news/cerebras-signs-on-for-40mw-of-capacity-at-digi-power-x-data-center-in-alabama/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-06",
-      "summary": "Initial 10-year contract valued at $1.1bn",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "40MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
