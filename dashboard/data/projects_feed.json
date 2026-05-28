@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-28T20:25:23.955016+00:00",
+  "last_updated": "2026-05-28T23:18:30.434177+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
+  "new_project_count": 93,
   "cancellation_count": 17,
   "sec_filing_count": 1,
-  "high_confidence_count": 159,
+  "high_confidence_count": 160,
   "findings": [
     {
       "id": "bb067824c8d206",
@@ -62,8 +62,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$40 million",
         "$60.3 million",
+        "$40 million",
         "$40M"
       ],
       "confidence": 7,
@@ -158,6 +158,25 @@
       ],
       "amounts": [
         "70MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f3404bec2985ef",
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-28",
+      "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.2M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -401,6 +420,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e2038e364b2dbd",
+      "title": "Amazon turns to Jeff Bezos' other company to do some heavy lifting",
+      "url": "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-28",
+      "summary": "Amazon is turning a corner with its launch providers, but ULA's Vulcan remains grounded.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ee5b14cded2e58",
       "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
       "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
@@ -533,6 +569,36 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c846c1ae6356de",
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-28",
+      "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c4e3d77253d902",
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-28",
+      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -816,23 +882,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c52f341669ed4f",
-      "title": "XM Cyber rolls out tools to identify and revoke unused permissions across hybrid environments",
-      "url": "https://siliconangle.com/2026/05/27/xm-cyber-rolls-tools-identify-revoke-unused-permissions-across-hybrid-environments/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Continuous exposure management company XM Cyber Inc. today announced an expansion of its platform with new capabilities aimed at helping enterprises enforce least-privilege access across Active Directory, Microsoft Entra and multicloud environments. The company is targeting one of the most exploited weaknesses in modern enterprise security: excessive permissions. Overprovisioned identities give attackers ready-made paths for [&#8230;] \n The post  XM Cyber rolls out tools to identify and revoke u",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "31bdc7c15c2ede",
       "title": "Dive deeper into I/O 2026 with NotebookLM.",
       "url": "https://blog.google/innovation-and-ai/products/notebooklm/notebooklm-google-io-2026/",
@@ -843,6 +892,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c52f341669ed4f",
+      "title": "XM Cyber rolls out tools to identify and revoke unused permissions across hybrid environments",
+      "url": "https://siliconangle.com/2026/05/27/xm-cyber-rolls-tools-identify-revoke-unused-permissions-across-hybrid-environments/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Continuous exposure management company XM Cyber Inc. today announced an expansion of its platform with new capabilities aimed at helping enterprises enforce least-privilege access across Active Directory, Microsoft Entra and multicloud environments. The company is targeting one of the most exploited weaknesses in modern enterprise security: excessive permissions. Overprovisioned identities give attackers ready-made paths for [&#8230;] \n The post  XM Cyber rolls out tools to identify and revoke u",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -877,40 +943,6 @@
       "finding_type": "New Project",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5f41e1bd23534a",
-      "title": "Microsoft and Dell believe the answer to rising cloud token costs sits on every employee’s desk",
-      "url": "https://siliconangle.com/2026/05/27/agentic-ai-pc-strategy-dell-microsoft-delltechworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Enterprises are adopting an agentic AI PC strategy as Copilot+ PCs shift AI workloads from expensive cloud inference to secure, high-performance on-device processing. As agentic AI moves from experimentation into production, enterprises are confronting a new economic reality: Cloud token costs are rising faster than budgets can absorb them, and the device on every employee&#8217;s [&#8230;] \n The post  Microsoft and Dell believe the answer to rising cloud token costs sits on every employee&#8217",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a9c69d931f257c",
-      "title": "For the critical middle market, Microsoft and Dell want to make AI adoption less daunting",
-      "url": "https://siliconangle.com/2026/05/27/ai-culture-shift-microsoft-dell-copilot-pcs-delltechworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "AI adoption has become a culture shift for enterprises, moving beyond technical implementation to fundamentally reordering how organizations work, compete and grow. Few partnerships are better positioned to guide that shift than the one between the companies that have long defined the enterprise stack. Specifically, the partnership between Dell Technologies Inc. and Microsoft Corp. spans [&#8230;] \n The post  For the critical middle market, Microsoft and Dell want to make AI adoption less daunti",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -955,23 +987,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3c75eb39ad0389",
-      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
-      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-27",
-      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e981b04a1d4b2b",
       "title": "Meet Our Newest AWS Heroes – May 2026",
       "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
@@ -982,6 +997,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5f41e1bd23534a",
+      "title": "Microsoft and Dell believe the answer to rising cloud token costs sits on every employee’s desk",
+      "url": "https://siliconangle.com/2026/05/27/agentic-ai-pc-strategy-dell-microsoft-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Enterprises are adopting an agentic AI PC strategy as Copilot+ PCs shift AI workloads from expensive cloud inference to secure, high-performance on-device processing. As agentic AI moves from experimentation into production, enterprises are confronting a new economic reality: Cloud token costs are rising faster than budgets can absorb them, and the device on every employee&#8217;s [&#8230;] \n The post  Microsoft and Dell believe the answer to rising cloud token costs sits on every employee&#8217",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a9c69d931f257c",
+      "title": "For the critical middle market, Microsoft and Dell want to make AI adoption less daunting",
+      "url": "https://siliconangle.com/2026/05/27/ai-culture-shift-microsoft-dell-copilot-pcs-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "AI adoption has become a culture shift for enterprises, moving beyond technical implementation to fundamentally reordering how organizations work, compete and grow. Few partnerships are better positioned to guide that shift than the one between the companies that have long defined the enterprise stack. Specifically, the partnership between Dell Technologies Inc. and Microsoft Corp. spans [&#8230;] \n The post  For the critical middle market, Microsoft and Dell want to make AI adoption less daunti",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3c75eb39ad0389",
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-27",
+      "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1689,8 +1755,8 @@
       "id": "af98c6e1ff90f6",
       "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-05-25",
       "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
       "finding_type": "New Project",
@@ -2581,8 +2647,8 @@
       "id": "5ceb89fb6338a2",
       "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
       "date": "2026-05-21",
       "summary": "Google announces $15 billion investment in Montgomery County data center project &nbsp;&nbsp; kbsi23.com",
       "finding_type": "New Project",
@@ -3052,8 +3118,8 @@
         "Arizona"
       ],
       "amounts": [
-        "240MW",
-        "$3 Billion"
+        "$3 Billion",
+        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10382,70 +10448,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44fff664e8a368",
-      "title": "Samsung and new firm M3 to develop floating data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-and-new-firm-m3-to-develop-floating-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Startup founded by engineers with floating server experience",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fae74586d639ef",
-      "title": "TotalEnergies inks deal with Nvidia and Dell to build supercomputer in Pau, France",
-      "url": "https://www.datacenterdynamics.com/en/news/totalenergies-inks-deal-with-nvidia-and-dell-to-build-supercomputer-in-pau-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Will be used to advance seismic imaging for hydrocarbon exploration",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ac4421182ec24d",
-      "title": "Grand Falls gets 400 Gbps fiber as HIVE builds AI campus - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmM5ZjByOGw5N0pNUUwwTmJsSldWY1h2dVFvaFEyVzZQT1dsVG0yRjdQc19vS0R0eWZDM3BCblBHU2ZJZWNBUzhiRm55M0RGVFQzYzVSTjhaV3VoZFI4Tm1lWDBDN0lTRld5R2FmZzdwbjlqOXdlRXFoQnVhS0Zfb1Fsc2d1a01JUXpEaG5QQzhBM21WN052TG9FNG9oQzNLcWtROVZJbl9vemp1Ql9VUFE5RjhQczNWQUZKcQ?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-05-08",
-      "summary": "Grand Falls gets 400 Gbps fiber as HIVE builds AI campus &nbsp;&nbsp; Stock Titan",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9780776fb17dce",
-      "title": "Intel shares jump on reported chip production deal with Apple",
-      "url": "https://siliconangle.com/2026/05/08/intel-shares-jump-reported-chip-production-deal-apple/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-08",
-      "summary": "Intel Corp. has reportedly inked a preliminary deal with Apple Inc. to produce chips for some of its devices. The Wall Street Journal today cited sources as saying that the contract was signed in recent months. The companies reportedly spent more than a year working out the terms. Shares of Intel closed 13.9% higher on [&#8230;] \n The post  Intel shares jump on reported chip production deal with Apple  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
       "is_high_confidence": false
     }
   ]
