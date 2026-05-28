@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-05-28T08:01:27.597277+00:00",
+  "last_updated": "2026-05-28T11:48:58.828410+00:00",
   "finding_count": 600,
-  "new_project_count": 97,
-  "cancellation_count": 17,
+  "new_project_count": 98,
+  "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 162,
+  "high_confidence_count": 167,
   "findings": [
+    {
+      "id": "bb067824c8d206",
+      "title": "Google will invest $15 billion in Montgomery County data center - The Labor Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcS11SEJvMlBxMDhBbHpBVXdHYzVfU2dvNWhGVDBTVllKUG53Mkp5N2l3OWhNNkZpYUU4bHlqLXdJS1FSYmRBZVJwVC01ZGcycVFuTUp3Mkxtd1pDb2xNdDl1LVNsMnJNQmVrb0xTLTRTMFFrWUxjUlFnbG9hdW0ybl9ORU9SVlNMOFktbVNrLXRmdw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-28",
+      "summary": "Google will invest $15 billion in Montgomery County data center &nbsp;&nbsp; The Labor Tribune",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8c9a5663fcf72f",
+      "title": "Swiss-backed GreenSquareDC withdraws application for 120MW data center in Perth, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/swiss-backed-greensquaredc-withdraws-application-for-120mw-data-center-in-perth-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Proposal faced backlash related to noise and proximity to school",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "120MW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "01d186cab6af86",
       "title": "Amazon will acquire Apple’s 20% stake in satellite firm Globalstar",
@@ -24,6 +66,96 @@
       ],
       "confidence": 7,
       "is_high_confidence": true
+    },
+    {
+      "id": "a49b864908949d",
+      "title": "Applied Digital signs 430MW data center lease with unnamed hyperscaler",
+      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-430mw-data-center-lease-with-unnamed-hyperscaler/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Applied also completes spin-out of cloud business",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "430MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e343d078f27019",
+      "title": "DartPoints acquires data center in Lexington, Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/dartpoints-acquires-data-center-in-lexington-kentucky/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Colo company plans large-scale expansion, potentially up to 70MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "70MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "21d7d07a3078a1",
+      "title": "TeraWulf acquires site in Kentucky for 1GW data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Company buys second site in Kentucky",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ac39b4b379fe96",
+      "title": "Elemental Impact launches intitiative with major hyperscalers to accelerate energy and materials technology development",
+      "url": "https://www.datacenterdynamics.com/en/news/elemental-impact-launches-intitiative-with-major-hyperscalers-to-accelerate-energy-and-materials-technology-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Partner companies include Amazon, Google, Meta, and Microsoft",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e23366956c11e5",
+      "title": "Cisco plans to bring SONiC foundation to customers beyond just hyperscalers",
+      "url": "https://www.datacenterdynamics.com/en/news/cisco-plans-to-bring-sonic-foundation-to-customers-beyond-just-hyperscalers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Blog post inadvertently reveals SONiC support for data center switches will extend to enterprises, neoclouds",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "9e263d80279dae",
@@ -120,8 +252,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$150B",
-        "$150 billion"
+        "$150 billion",
+        "$150B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -159,8 +291,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$8.2M",
-        "$8.2 million"
+        "$8.2 million",
+        "$8.2M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -197,6 +329,46 @@
       ],
       "amounts": [
         "25MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9582b9e592ccc6",
+      "title": "Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems",
+      "url": "https://siliconangle.com/2026/05/27/tensormesh-taps-nvidia-amd-coreweave-funding-fix-llm-memory-problems/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "Tensormesh Inc. has hit upon a way to make artificial intelligence inference more efficient by eliminating the need for redundant computations, and its technology is so convincing that several of AI infrastructure giants are backing it with $20 million in funding. Today&#8217;s round saw the participation of Nvidia Corp., Advanced Micro Devices Inc. and CoreWeave [&#8230;] \n The post  Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems  appeared first on  Silico",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$20 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ca53098ddc3708",
+      "title": "RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats",
+      "url": "https://siliconangle.com/2026/05/27/reveng-ai-raises-15m-reverse-engineer-software-binaries-hunt-malicious-threats/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-05-27",
+      "summary": "British software supply chain security startup RevEng.AI today said has raised $15 million in early-stage funding after developing technology similar to Anthropic PBC’s Mythos model and working out a way to put it to good use. The startup, officially known as Binary AI Ltd., wants to help organizations use its technology to analyze software at [&#8230;] \n The post  RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15M",
+        "$15 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -253,46 +425,6 @@
       "locations": [],
       "amounts": [
         "250MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9582b9e592ccc6",
-      "title": "Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems",
-      "url": "https://siliconangle.com/2026/05/27/tensormesh-taps-nvidia-amd-coreweave-funding-fix-llm-memory-problems/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Tensormesh Inc. has hit upon a way to make artificial intelligence inference more efficient by eliminating the need for redundant computations, and its technology is so convincing that several of AI infrastructure giants are backing it with $20 million in funding. Today&#8217;s round saw the participation of Nvidia Corp., Advanced Micro Devices Inc. and CoreWeave [&#8230;] \n The post  Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems  appeared first on  Silico",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$20 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ca53098ddc3708",
-      "title": "RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats",
-      "url": "https://siliconangle.com/2026/05/27/reveng-ai-raises-15m-reverse-engineer-software-binaries-hunt-malicious-threats/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "British software supply chain security startup RevEng.AI today said has raised $15 million in early-stage funding after developing technology similar to Anthropic PBC’s Mythos model and working out a way to put it to good use. The startup, officially known as Binary AI Ltd., wants to help organizations use its technology to analyze software at [&#8230;] \n The post  RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15 million",
-        "$15M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -419,8 +551,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "2c819f3c6052ab",
-      "title": "England data center planning applications doubled in 2025, FOI requests reveal",
+      "id": "8dff3f6d3f8d6f",
+      "title": "English data center planning applications doubled in 2025, FOI requests reveal",
       "url": "https://www.datacenterdynamics.com/en/news/england-data-center-planning-applications-doubled-in-2025-foi-requests-reveal/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
@@ -444,38 +576,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aac44d527ead3e",
-      "title": "2G Energy secures multi-year containerized power systems deal for North American data center market",
-      "url": "https://www.datacenterdynamics.com/en/news/2g-energy-secures-multi-year-containerized-power-systems-deal-for-north-american-data-center-market/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "Deliveries to commence later this year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8fc9cdecd970ec",
-      "title": "Minneapolis City Council approves six-month moratorium for data centers larger than 350,000 sq ft",
-      "url": "https://www.datacenterdynamics.com/en/news/minneapolis-city-council-approves-six-month-moratorium-for-data-centers-larger-than-350000-sq-ft/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "Latest in series of moratoria approved in Minnesota",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Minnesota"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -620,6 +720,53 @@
       "is_high_confidence": false
     },
     {
+      "id": "2c819f3c6052ab",
+      "title": "England data center planning applications doubled in 2025, FOI requests reveal",
+      "url": "https://www.datacenterdynamics.com/en/news/england-data-center-planning-applications-doubled-in-2025-foi-requests-reveal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Rose from 13 applications in 2024 to 26 in 2025",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aac44d527ead3e",
+      "title": "2G Energy secures multi-year containerized power systems deal for North American data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/2g-energy-secures-multi-year-containerized-power-systems-deal-for-north-american-data-center-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Deliveries to commence later this year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8fc9cdecd970ec",
+      "title": "Minneapolis City Council approves six-month moratorium for data centers larger than 350,000 sq ft",
+      "url": "https://www.datacenterdynamics.com/en/news/minneapolis-city-council-approves-six-month-moratorium-for-data-centers-larger-than-350000-sq-ft/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "Latest in series of moratoria approved in Minnesota",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Minnesota"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "aaf320279ace29",
       "title": "Mapletree sells data center in Philadelphia, Pennsylvania",
       "url": "https://www.datacenterdynamics.com/en/news/mapletree-sells-data-center-in-philadelphia-pennsylvania/",
@@ -652,21 +799,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "eff475e3a6b8ed",
-      "title": "FuriosaAI partners with Broadcom for development of AI inference chips",
-      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-partners-with-broadcom-for-development-of-ai-inference-chips/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "South Korean startup’s third-generation accelerators will have a multi-die system architecture",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "e0528cedf2ff0e",
       "title": "The AI GPU market has belonged to hyperscalers, but AMD’s MI350P is coming for the enterprise",
       "url": "https://siliconangle.com/2026/05/27/enterprise-gpu-access-mainstream-data-centers-delltechworld/",
@@ -689,6 +821,21 @@
       "source_cat": "Tech Analysis",
       "date": "2026-05-27",
       "summary": "Broadcom Inc. today debuted three new chips designed to power multi-gigabit Wi-Fi 8 routers. Wi-Fi 8 is an upcoming version of the eponymous networking standard that is set to be finalized in 2028. Chipmakers have already started implementing key components of the specification in their products. One of Wi-Fi 8’s flagship features is SMD roaming, [&#8230;] \n The post  Broadcom debuts new Wi-Fi 8 chips, optical network processor  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eff475e3a6b8ed",
+      "title": "FuriosaAI partners with Broadcom for development of AI inference chips",
+      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-partners-with-broadcom-for-development-of-ai-inference-chips/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-27",
+      "summary": "South Korean startup’s third-generation accelerators will have a multi-die system architecture",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2534,6 +2681,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "cb5531af23c714",
+      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$33 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "48c15b13ad30fb",
       "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
@@ -2551,27 +2719,6 @@
       ],
       "amounts": [
         "$15B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -2631,8 +2778,8 @@
         "Arizona"
       ],
       "amounts": [
-        "240MW",
-        "$3 Billion"
+        "$3 Billion",
+        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -7696,23 +7843,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e08ed005f6aa51",
-      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-13",
-      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "32f2525778416b",
       "title": "Introducing Instants: A New Way to Share in the Moment",
       "url": "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
@@ -7740,6 +7870,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e08ed005f6aa51",
+      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-05-13",
+      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -10305,143 +10452,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c88926e2b1578e",
-      "title": "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives.",
-      "url": "https://blog.google/products-and-platforms/products/education/teacher-appreciation-week-videos/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "To celebrate Teacher Appreciation Week, Googlers thanked the educators who inspired them to try new things.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "03a6eaf64c9dc8",
-      "title": "New AI-powered bidding and budgeting innovations in Search and Shopping",
-      "url": "https://blog.google/products/ads-commerce/bidding-budgeting-google-marketing-live-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "The Road To Google Marketing Live",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "89522328593af5",
-      "title": "A new era for your health and wellness",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-fitbit/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "Introducing the lightweight, screenless Fitbit Air, and the brand-new Google Health app.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f914d77a227392",
-      "title": "A new era for your wellness: Introducing the Google Health app",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-app/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "Google Health logo",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "95df63a7e3bc23",
-      "title": "Introducing the all-new Fitbit Air",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-air/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "A woman dressed in pink does yoga while wearing Google Fitbit Air Performance Loop band in Lavender. Next to that image you see, from top to bottom: Google Fitbit Air Performance Loop band in Fog, Obsidian, Lavender and Berry colorways.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3048e9a2d19675",
-      "title": "Google Health Coach is becoming globally available",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-coach/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "Google Health Coach onboarding screens displayed on a phone.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3cb15a25ca85cb",
-      "title": "Here’s how we're celebrating Asian American, Native Hawaiian and Pacific Islander Heritage Month",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/honoring-asian-and-pasifika-ancestry-month-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-07",
-      "summary": "The image features the word \"GOOGLE\" rendered in a stylized, colorful, three-dimensional font with a glossy, metallic texture. The letters display a gradient of vibrant colors, including pink, purple, yellow, and blue. A heart-shaped graphic is perched on",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bf7da2f7ff5679",
-      "title": "AWS and Atlassian reframe AI as an organizational challenge, not an IT one",
-      "url": "https://siliconangle.com/2026/05/07/ai-native-strategy-evolution-business-margins-atlassianteam/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-07",
-      "summary": "Enterprises racing to achieve true AI-native status are discovering that the technology gap is often the smaller obstacle. Instead, the harder challenge is reshaping the people, processes and organizational structures that AI must ultimately run on. As AI-driven workflows transform how enterprise teams plan, build and deliver, the pressure on large organizations to modernize their [&#8230;] \n The post  AWS and Atlassian reframe AI as an organizational challenge, not an IT one  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
