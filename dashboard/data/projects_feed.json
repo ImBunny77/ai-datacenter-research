@@ -1,11 +1,88 @@
 {
-  "last_updated": "2026-05-29T07:58:07.009445+00:00",
+  "last_updated": "2026-05-29T11:36:40.020008+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
+  "new_project_count": 96,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 161,
+  "high_confidence_count": 164,
   "findings": [
+    {
+      "id": "0db1d20b12009e",
+      "title": "LVL Energy announces plans to build 50MW data center in Dąbrowa Górnicza, Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/lvl-energy-announces-plans-to-build-50mw-data-center-in-d%C4%85browa-g%C3%B3rnicza-poland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Call for foreign investors in the project made by its Polish developer",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
+      "amounts": [
+        "50MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d4dbad6b801434",
+      "title": "Edged secures ~$2bn financing to fuel US data center build-out",
+      "url": "https://www.datacenterdynamics.com/en/news/edged-secures-2bn-financing-to-fuel-us-data-center-build-out/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Includes $1.3 billion Senior Secured Notes offering and a construction loan",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.3 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "86e700722ff866",
+      "title": "Microsoft signs 140MW solar PPA with Avangrid in Washington",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-140mw-solar-ppa-with-avangrid-in-washington/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "PPA set to come into effect in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Washington"
+      ],
+      "amounts": [
+        "140MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a302d9180b70e1",
+      "title": "Plans revealed for AWS data center in Maintal, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-revealed-for-aws-data-center-in-maintal-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Facility will expand the cloud computing giant’s Frankfurt region",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Germany",
+        "Frankfurt"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
     {
       "id": "f21f9a95af7d2a",
       "title": "AWS details new RNG data center network design that boosts throughput and reliability",
@@ -38,6 +115,122 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d91b0b3689f88",
+      "title": "France's TDF adds 300 sqm of server room space to Aix-Marseille data center",
+      "url": "https://www.datacenterdynamics.com/en/news/frances-tdf-adds-300-sqm-of-server-room-space-to-aix-marseille-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Another expansion scheduled for completion 2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bacf2675a88795",
+      "title": "NOV, TerraFlow partner on fiberglass solutions for AI data center energy storage",
+      "url": "https://www.datacenterdynamics.com/en/news/nov-terraflow-partner-on-fiberglass-solutions-for-ai-data-center-energy-storage/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Will combine TerraFlow’s long-duration energy storage technology with NOV’s fiberglass expertise",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9c394bbab39ddc",
+      "title": "Memory chip shortage makes bare metal cloud cheaper than on prem, says Nutanix's Rajiv Ramaswami",
+      "url": "https://www.datacenterdynamics.com/en/news/memory-chip-shortage-makes-bare-metal-cloud-cheaper-than-on-prem-says-nutanix-rajiv-ramaswami/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "CEO says it is driving more customers to the cloud",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1e8cf1c6243447",
+      "title": "Edged files to develop data center in Fort Worth, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/edged-files-to-develop-data-center-in-fort-worth-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Company set to launch latest Texas facility next year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "38ef0ecc012318",
+      "title": "Goodman eyes new data center development outside Tokyo, Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Company plans project in Sagamihara, few details available",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Japan",
+        "Tokyo"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a51bd1a72276ca",
+      "title": "Telefónica and Google Cloud partner for Spanish sovereign cloud",
+      "url": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-and-google-cloud-partner-for-spanish-sovereign-cloud/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "And other sovereign cloud news",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c5affd8eac1754",
+      "title": "DCD>Talk: Defending modern data centers with Ettiene Van Der Watt, Axis Communications",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalk-defending-modern-data-centers-with-ettiene-van-der-watt-axis-communications/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Axis Communications Vice President  Ettiene Van Der Watt joins Emma Strutton to discuss defending modern data centers and the procedures operators should implement to strengthen physical security.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -111,9 +304,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$65 billion",
+        "$965 billion",
         "$65B",
-        "$965 billion"
+        "$65 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -132,9 +325,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$40M",
         "$40 million",
-        "$60.3 million"
+        "$60.3 million",
+        "$40M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -178,6 +371,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "f3404bec2985ef",
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-05-28",
+      "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.2M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "62023d1731420b",
       "title": "T5 Data Centers looking to deploy fuel cells for primary power at planned data center in Dulles, Virginia - report",
       "url": "https://www.datacenterdynamics.com/en/news/t5-data-centers-looking-to-deploy-fuel-cells-for-primary-power-at-planned-data-center-in-dulles-virginia-report/",
@@ -209,25 +421,6 @@
       "locations": [],
       "amounts": [
         "430MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f3404bec2985ef",
-      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
-      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-28",
-      "summary": "FBI: Googler who knew outcome of bets in advance made $1.2M profit on Polymarket.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.2M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -354,88 +547,6 @@
       "locations": [
         "Pennsylvania"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "afd7419e545803",
-      "title": "Meta toys with offering cloud computing services",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-toys-with-offering-cloud-computing-services/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "CEO Mark Zuckerberg says it's \"definitely on the table\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "765f4632eb06cb",
-      "title": "Pure DC launches carbon removal platform with subsidiary A Healthier Earth",
-      "url": "https://www.datacenterdynamics.com/en/news/pure-dc-launches-carbon-removal-platform-with-subsidiary-a-healthier-earth/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "Company claims initiative is first in the data center market",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad505cbb3b4bf6",
-      "title": "Dutch police arrest pair accused of violating Russia sanctions, raids two data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/dutch-police-arrest-pair-accused-of-violating-russia-sanctions-raids-two-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "The two men allegedly provided hosting services for Russian cybercriminals",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ac39b4b379fe96",
-      "title": "Elemental Impact launches intitiative with major hyperscalers to accelerate energy and materials technology development",
-      "url": "https://www.datacenterdynamics.com/en/news/elemental-impact-launches-intitiative-with-major-hyperscalers-to-accelerate-energy-and-materials-technology-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "Partner companies include Amazon, Google, Meta, and Microsoft",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Google",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e23366956c11e5",
-      "title": "Cisco plans to bring SONiC foundation to customers beyond just hyperscalers",
-      "url": "https://www.datacenterdynamics.com/en/news/cisco-plans-to-bring-sonic-foundation-to-customers-beyond-just-hyperscalers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "Blog post inadvertently reveals SONiC support for data center switches will extend to enterprises, neoclouds",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -589,6 +700,88 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "afd7419e545803",
+      "title": "Meta toys with offering cloud computing services",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-toys-with-offering-cloud-computing-services/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "CEO Mark Zuckerberg says it's \"definitely on the table\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "765f4632eb06cb",
+      "title": "Pure DC launches carbon removal platform with subsidiary A Healthier Earth",
+      "url": "https://www.datacenterdynamics.com/en/news/pure-dc-launches-carbon-removal-platform-with-subsidiary-a-healthier-earth/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Company claims initiative is first in the data center market",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad505cbb3b4bf6",
+      "title": "Dutch police arrest pair accused of violating Russia sanctions, raids two data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/dutch-police-arrest-pair-accused-of-violating-russia-sanctions-raids-two-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "The two men allegedly provided hosting services for Russian cybercriminals",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ac39b4b379fe96",
+      "title": "Elemental Impact launches intitiative with major hyperscalers to accelerate energy and materials technology development",
+      "url": "https://www.datacenterdynamics.com/en/news/elemental-impact-launches-intitiative-with-major-hyperscalers-to-accelerate-energy-and-materials-technology-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Partner companies include Amazon, Google, Meta, and Microsoft",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e23366956c11e5",
+      "title": "Cisco plans to bring SONiC foundation to customers beyond just hyperscalers",
+      "url": "https://www.datacenterdynamics.com/en/news/cisco-plans-to-bring-sonic-foundation-to-customers-beyond-just-hyperscalers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Blog post inadvertently reveals SONiC support for data center switches will extend to enterprises, neoclouds",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1822,6 +2015,28 @@
       "is_high_confidence": false
     },
     {
+      "id": "af98c6e1ff90f6",
+      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-25",
+      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "d3390418971b2a",
       "title": "Google to invest $15 billion in a data center in Missouri - Inspenet",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1pvZDhMcllfd2J2MUlfMFhrSTVIUF9qMEFtdGVxNklJSzlSamgycmZpWk1PUjZFTXo2dTFMRkhST19MR2JJbzdYUVVuTnMyc0JGa001bjNmaXZyUXFiXzQyUkZNS3J5QjZtc2s4aVFISndGdWsydW95a2JFOEJYTkFaZnhEQnpFM2c0bC0tdw?oc=5",
@@ -1838,28 +2053,6 @@
       ],
       "amounts": [
         "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "af98c6e1ff90f6",
-      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-25",
-      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -3011,25 +3204,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "923c02f3d2ffc5",
-      "title": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence - KRCG",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRubE1mV1VyY3hzSERkTVE4cFFaVmxDclhvbTFGX25SODc3a1gzXzB3UGFWS3V5WXNwdExybzZsbEZQdmlUY0Q2SW5Db1l2dlBtSDVKb1RjTnplVlYxQWMtSjZHUjQxVDlicFZTM1ozTFJ5S2pSblczQ1RUcXJkNmZBUHhacEpBYnJYTGhzbU9nMWJLX2JHZkZvaWdGWklveDQ2Q0s0OVJDNjFvcVJReFhR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence &nbsp;&nbsp; KRCG",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15b"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "5c2bfb6595720d",
       "title": "Google’s $15 Billion Missouri Data Center Signals a New Economic Era for Mid-Missouri - stl.news",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX0RwY2xGUUFNNmhvZWtmbnRwTkF4dVpqZVZkekgzNEpGb182UVZLVmlUY1ZQWFl3eWZOTVJOelROcDhxZExWd09LbzR3TGpfWUE1WHA3X2Z0ZzBQWDVzSTV2VDFWVWRlOElEbG9PQTJYbFlndTh1bWpDa0t2ZGc?oc=5",
@@ -3091,27 +3265,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "48c15b13ad30fb",
       "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
@@ -3129,6 +3282,27 @@
       ],
       "amounts": [
         "$15B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cb5531af23c714",
+      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$33 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -3188,8 +3362,8 @@
         "Arizona"
       ],
       "amounts": [
-        "$3 Billion",
-        "240MW"
+        "240MW",
+        "$3 Billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3923,6 +4097,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "923c02f3d2ffc5",
+      "title": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence - KRCG",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRubE1mV1VyY3hzSERkTVE4cFFaVmxDclhvbTFGX25SODc3a1gzXzB3UGFWS3V5WXNwdExybzZsbEZQdmlUY0Q2SW5Db1l2dlBtSDVKb1RjTnplVlYxQWMtSjZHUjQxVDlicFZTM1ozTFJ5S2pSblczQ1RUcXJkNmZBUHhacEpBYnJYTGhzbU9nMWJLX2JHZkZvaWdGWklveDQ2Q0s0OVJDNjFvcVJReFhR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-20",
+      "summary": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence &nbsp;&nbsp; KRCG",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15b"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "ae7a4e49e32d87",
       "title": "Google building $15 billion data center in mid-Missouri - KY3",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc05xVU1XV0xWdTFvdjlISG1xcFA4ZXY2d09yX0NxVUFhVzdSS2VKSDRKWG82X0o1blU1OWMzS05oSTF1Y1F4RmdCWFNNRjF5UTZWVk9DVjVtUjBHZDQ1TVFOUVhkYXNSWU02ZU5VZ19HNlNUczJOX0drMkExM1NOSjFJVWliRG04UmZv0gGfAUFVX3lxTE1NRUlpZ213X0Q3M1U0UFhGdVVLdDZPTjQ5UGV3Znc2U09mUGR5WEV4dDcxaFpUQzlXQ2lmbUplMW5ob0ZpTHF2YVRldXo1bVlfYTBXSTNoVjNUTmk1bkt2cnphNGV2UFhrT09nS3pMbWNFeHVzWVVJM2pRUEEyMTlmS0lNRG1uclBCMklHUWZWWFM2SE9xRlRxSFJwRkwzNA?oc=5",
@@ -4358,6 +4551,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f67a110d07ef8a",
+      "title": "Cox's Gigawatt Summit at Deer Valley East Village puts MIDA at the center of Utah's nuclear and AI data center push - TownLift, Park City News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjkxcjBKS3ZsaFotcmJvNHc5bjJGOTJ5a3VlcVlmVEc0b0lCd0NvZHluVW1hVGVoN0dWS2l1OE1xYjZ0Wm5qZjdubTJpSkhDM2xZRzJUVW5kNlQxQ1piRmlhQ2JLNFVnREFKMjVab0plTFlGV3pQeXpaQzlPOW96MW1PcWRWZ2NNOGtjbkNfQmNjOUNXaG9pRklvbHJmcjNLWGtSSURfOW1tS19JM3AwNDBfMk84V0dmWWEyYm9wNWM0NHQ0VFlUVg?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-05-20",
+      "summary": "Cox's Gigawatt Summit at Deer Valley East Village puts MIDA at the center of Utah's nuclear and AI data center push &nbsp;&nbsp; TownLift, Park City News",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -10253,200 +10463,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f6440b96269483",
-      "title": "Which AI Glasses Are Right For You?",
-      "url": "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-05-08",
-      "summary": "From capturing hands-free content to tracking workouts and staying connected on the go, find the AI glasses that fit your lifestyle. \n The post  Which AI Glasses Are Right For You?  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1d64e463bdcb81",
-      "title": "Hyperscaler CapEx Impact on Data Center Growth - Enverus",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TElSVlRmRXVjZXJyVHpqeFNHbV9UeHhHMVNOaVBlLUh0cHdPRUhnZUdaaHR2WkZ1TTE5RG5HWmxWM1BKUWJYMV9Fb0R4MGNsQ25aOWlFY24xdm5faUZ5WXRkZEVmMGxVTHQ1Vl9TYTNpbFl4?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-08",
-      "summary": "Hyperscaler CapEx Impact on Data Center Growth &nbsp;&nbsp; Enverus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e378783d6d9c77",
-      "title": "OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research",
-      "url": "https://siliconangle.com/2026/05/08/openai-introduces-gpt%e2%80%915-5%e2%80%91cyber-high-impact-cybersecurity-research/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-08",
-      "summary": "OpenAI Group PBC has developed a version of GPT-5.5 that is specifically optimized for cybersecurity research. GPT‑5.5‑Cyber, as the model is called, made its debut on Thursday. It’s available in limited preview through a program called Trusted Access for Cyber, or TAC, that OpenAI launched in February. The initiative gives cybersecurity researchers expanded access to [&#8230;] \n The post  OpenAI introduces GPT‑5.5‑Cyber for high-impact cybersecurity research  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2254b8743ab280",
-      "title": "What to expect at the AWS Financial Services Symposium: Watch theCUBE’s exclusive on-demand coverage starting May 11",
-      "url": "https://siliconangle.com/2026/05/08/ai-trust-financial-services-awsfinserv/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-08",
-      "summary": "Financial services are becoming more personal, more automated and increasingly AI-driven. However, a big hurdle remains: AI trust. In an industry that handles sensitive financial data, there is little room for error, and studies show that 67% of enterprises don’t trust their underlying revenue data when it comes to AI. “Agentic AI in financial services [&#8230;] \n The post  What to expect at the AWS Financial Services Symposium: Watch theCUBE’s exclusive on-demand coverage starting May 11  appea",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cec943f622604f",
-      "title": "AWS adds agentic payment features to Amazon Bedrock AgentCore",
-      "url": "https://siliconangle.com/2026/05/07/aws-adds-agentic-payment-features-amazon-bedrock-agentcore/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-08",
-      "summary": "Amazon Web Services Inc. today debuted a set of features that artificial intelligence agents can use to make purchases. The capabilities are available in preview through the cloud giant’s Amazon Bedrock AgentCore service. It’s a suite of tools that companies can use to build and maintain AI agents. Bedrock AgentCore also eases certain related tasks, such [&#8230;] \n The post  AWS adds agentic payment features to Amazon Bedrock AgentCore  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "672c39f6458b52",
-      "title": "Course correction: Google to link more sources in AI Overviews",
-      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-08",
-      "summary": "Google's AI search will start citing its sources in several new ways.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5265a4fb1ece3a",
-      "title": "Developers file application for $1.6bn data center in Cleveland, Ohio",
-      "url": "https://www.datacenterdynamics.com/en/news/developers-file-application-for-16bn-data-center-in-cleveland-ohio/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "But a potential moratorium could stop it in its tracks",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "61a28c5671bf26",
-      "title": "Algeria and Oman gov'ts partner to establish data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/algeria-and-oman-govts-partner-to-establish-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "The agreement was part of an official visit by an Omani delegation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "73d8f126320fb2",
-      "title": "Iren acquires Spanish data center developer Nostrum",
-      "url": "https://www.datacenterdynamics.com/en/news/iren-acquires-spanish-data-center-developer-nostrum/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Busy week for the former crypto company",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1c2ac5d90d5370",
-      "title": "Mitsubishi Heavy Industries to revamp gas turbine production process to meet growing demand from AI data center sector",
-      "url": "https://www.datacenterdynamics.com/en/news/mitsubishi-heavy-industries-to-revamp-gas-turbine-production-process-to-meet-growing-demand-from-ai-data-center-sector/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Seeking to boost production by 30 percent",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c20dcef770c93e",
-      "title": "Conservatives should embrace data centers - The Natchez Democrat",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQUZFYjNpTWV1Tnh4Nk9EbzA0Yk40NWdFWGhJOEZ0dkZ1V0hZQkVZU29aV3NUb3hFS1REMU5xWHllMmd5UDY1c0JGU2Vkd3Y3VU5FUW1vbjJLVTJDbnI5REdrNDRxQjd2eHcyYU9BdVNoZnNQT3BQeDM2Sm5mVXY0YkJYX1JONDFVSnQzeE9vUFdFTEJ6bDZvXy1YeGJ0MllMdHRpUjdtbDNhYngxeWgxS2hpclFqa1NaZFQzWjRTY0o1YWFKdkpTdGRJUEdDVnM?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-08",
-      "summary": "Conservatives should embrace data centers &nbsp;&nbsp; The Natchez Democrat",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ae4462b3756ace",
-      "title": "Zerra DC files for six-building data center campus in Melbourne, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/zerra-dc-files-to-build-six-building-data-center-campus-in-melbourne-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Company looks to develop on former Ford automotive plant",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
