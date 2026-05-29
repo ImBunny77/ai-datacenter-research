@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-29T15:36:28.633690+00:00",
+  "last_updated": "2026-05-29T18:34:54.769861+00:00",
   "finding_count": 600,
   "new_project_count": 94,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 166,
+  "high_confidence_count": 165,
   "findings": [
     {
       "id": "557349c38f6294",
@@ -140,6 +140,24 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "531bf4aa0697c2",
+      "title": "Meta's Andrew Rudersdorf joins Anthropic's data center energy team",
+      "url": "https://www.datacenterdynamics.com/en/news/the-build-out-of-anthropics-data-center-team-comes-as-it-expanded-its-compute-portfolio-primarily-through-cloud-contracts-the-company-has-major-microsoft-aws-and-google-contracts-with-all-three-hyperscalers-anthropic-investors-in-october-google/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "As Anthropic expands, and Meta contracts",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "f21f9a95af7d2a",
@@ -450,9 +468,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$65 billion",
         "$965 billion",
-        "$65B",
-        "$65 billion"
+        "$65B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -471,9 +489,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$40M",
         "$40 million",
-        "$60.3 million",
-        "$40M"
+        "$60.3 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1375,6 +1393,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e981b04a1d4b2b",
+      "title": "Meet Our Newest AWS Heroes – May 2026",
+      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-05-27",
+      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "41f58d718977ba",
       "title": "California defeats Tesla's attempt to throw out racial discrimination lawsuit",
       "url": "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
@@ -1389,23 +1424,6 @@
       "locations": [
         "California"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e981b04a1d4b2b",
-      "title": "Meet Our Newest AWS Heroes – May 2026",
-      "url": "https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-may-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-05-27",
-      "summary": "We’re excited to welcome four outstanding community leaders as our newest AWS Heroes. These individuals embody the spirit of collaboration and knowledge sharing that makes the AWS community thrive. From building AI-powered tools that help fellow builders navigate AWS re:Invent, to leading some of the largest AWS communities in Latin America, to sharing deep cloud […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3049,6 +3067,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "52832958f84d36",
+      "title": "Kehoe, Google tout $15 billion investment to accompany data center - ABC17NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmtXdUlrVFFFNlhOemdPT0VfUGYwWnpPYUpvRndJb1dnZVItcVVJQjFOT1ItTnNPcHotLWJJVmVQNG82U3F0M20yLXZkcTY2ck9Rdk1HMWIyYzA2SGtzU2t6cldsazVmcU9iTkNrYjh3aEM4TGJORXFsNjgzNHkzZERyUFVwTlRydXRSYUZtdW5uaWwxVkFmTHJsQkdSLUh2SU1MZDR6LW9yUC1v?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; ABC17NEWS",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "2652d0be88eab0",
       "title": "News | Google plans $15 billion data center investment in Missouri - CoStar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhKN0NsMHYwRW4xNVJ3RWJUVkc5MXdnMWN1SHNSaHI4elBhZW9OY2pYS1VHaElqel94QXZSX0FKdXA5cWlWM0NicmExOW5XM3pvUGNpMnlkclJkV01pTTlRQnNadjAwVGp3dGtUdHJTTUV6SHpKMHZaSHFYNjEtTnlYbm1jLTBlOTFfR1ZGY3M0MG1MbjFBNlBWbDd5WUdMc1NOdlJacm80cjFUYjAzX0NtSmhabUE?oc=5",
@@ -3103,25 +3140,6 @@
       "locations": [
         "Montgomery"
       ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "52832958f84d36",
-      "title": "Kehoe, Google tout $15 billion investment to accompany data center - ABC17NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmtXdUlrVFFFNlhOemdPT0VfUGYwWnpPYUpvRndJb1dnZVItcVVJQjFOT1ItTnNPcHotLWJJVmVQNG82U3F0M20yLXZkcTY2ck9Rdk1HMWIyYzA2SGtzU2t6cldsazVmcU9iTkNrYjh3aEM4TGJORXFsNjgzNHkzZERyUFVwTlRydXRSYUZtdW5uaWwxVkFmTHJsQkdSLUh2SU1MZDR6LW9yUC1v?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; ABC17NEWS",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [
         "$15 billion"
       ],
@@ -3426,27 +3444,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "48c15b13ad30fb",
       "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
@@ -3464,6 +3461,27 @@
       ],
       "amounts": [
         "$15B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cb5531af23c714",
+      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$33 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -4173,27 +4191,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "046680e5be6ef2",
-      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-20",
-      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c50927a6b755b4",
       "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnZvMEZJN0s2WjJ0UFJ1ZjliaE1GemtWU09vU3hMOGtSZmVpSnlIX1hMSUhvSDNsamhySXYyb3JKbnNuU0EzY2RtYk13NnNRWkM0a0M1aXhtLVNvdEtoNkRrc2VkNnFyNjJIZjdLMXVrYk5ueUdnZjVHRWg1c2RoODhhWHlQalFXX2VjYmNuMDVEQjJQa2dwY1BhTU1uU05fSHhUZmJTeWxab3NoMmtyempwNVRzcXFtc3FOQmJ2MHRrdjVoNWkzVFkyZFl5RzZGLTZWb3d5MnFVQUs1RXVzVlVoaU9hSEJtRzlQUF9kZDAzcDhpOHZUVms0dkwzMU50dlZv0gGIAkFVX3lxTFBDUFZOOF9vMjR6WEtUNWhjRVVsMWdVeTEyZlV6NWxleGhZUmR3QlJhVTRGNVI0MFhia0VWYjRWeEZjaVBZczk0Mjh0ZlhWQ1lMWW1Qb0pzZ0I5N2hLMGZIMmRoNFk5RjBteWpNTVZURzFDQ0NmQW42cmRsZVdCNFIya29JSXRrVG4xVVdROUhoalVkZmhWNFhwazFHTW9JSE1xN3V4WTl5Z1QzWkpNc0VTbTl3dXFSYXZLeHZ4dlhyTWR1dnowbWgxd2phaWpyZmZTelE3OVpHejRxcDNFSUJ4N2VyY0FlZ01HdjZkU1lNNVRSdnV4UXJLNl8wRDB0Y1hZdlctUFJzdw?oc=5",
@@ -4211,6 +4208,27 @@
       ],
       "amounts": [
         "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "046680e5be6ef2",
+      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-20",
+      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -6754,6 +6772,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b757b118ce714e",
+      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-18",
+      "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "212176a11bf681",
       "title": "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-at-1-year-claude-platform-on-aws-ec2-m3-ultra-mac-instances-and-more-may-18-2026/",
@@ -6781,23 +6816,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b757b118ce714e",
-      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-18",
-      "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -8683,6 +8701,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e08ed005f6aa51",
+      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-05-13",
+      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "32f2525778416b",
       "title": "Introducing Instants: A New Way to Share in the Moment",
       "url": "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
@@ -8710,23 +8745,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e08ed005f6aa51",
-      "title": "Anthropic turns to SpaceX for Claude capacity - TechInformed",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVHlLVVVxM3A4UFJmbk0yYTd4dFA4WGpCWERRVGgtV3Z3aDhTc1dsZzlxVThkR1BVZEpYdWV3cVFyWjZFRF9WYnBRRkoxc1d4MTUxOHZlbU9tdUNFMmhDUWRHd1YyVVJUYWNLVnQ1NHVGWnk5R29BM2ZRcw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-13",
-      "summary": "Anthropic turns to SpaceX for Claude capacity &nbsp;&nbsp; TechInformed",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -10440,25 +10458,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0c0cf83b60bb9a",
-      "title": "Stockland files to develop 250MW data center campus in Melbourne, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/stockland-files-to-develop-250mw-data-center-campus-in-melbourne-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "Aussie real estate firm targeting several sites across Melbourne",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "250MW"
-      ],
       "confidence": 5,
       "is_high_confidence": true
     }
