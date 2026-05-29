@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T03:45:45.910379+00:00",
+  "last_updated": "2026-05-29T07:58:07.009445+00:00",
   "finding_count": 600,
   "new_project_count": 94,
   "cancellation_count": 18,
@@ -38,6 +38,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "400c24c71c6149",
+      "title": "Sponsored: Rethinking standardization in the race to scale data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/rethinking-standardization-in-the-race-to-scale-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-29",
+      "summary": "Those who succeed will be the ones who treat standardization not as a document to follow, but as an operating discipline to internalize",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -96,9 +111,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$965 billion",
         "$65 billion",
-        "$65B"
+        "$65B",
+        "$965 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -117,9 +132,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$60.3 million",
+        "$40M",
         "$40 million",
-        "$40M"
+        "$60.3 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -199,25 +214,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "e343d078f27019",
-      "title": "DartPoints acquires data center in Lexington, Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/dartpoints-acquires-data-center-in-lexington-kentucky/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-28",
-      "summary": "Colo company plans large-scale expansion, potentially up to 70MW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "70MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "f3404bec2985ef",
       "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
       "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
@@ -232,6 +228,25 @@
       "locations": [],
       "amounts": [
         "$1.2M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e343d078f27019",
+      "title": "DartPoints acquires data center in Lexington, Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/dartpoints-acquires-data-center-in-lexington-kentucky/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-05-28",
+      "summary": "Colo company plans large-scale expansion, potentially up to 70MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "70MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1807,28 +1822,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "af98c6e1ff90f6",
-      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-25",
-      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "d3390418971b2a",
       "title": "Google to invest $15 billion in a data center in Missouri - Inspenet",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1pvZDhMcllfd2J2MUlfMFhrSTVIUF9qMEFtdGVxNklJSzlSamgycmZpWk1PUjZFTXo2dTFMRkhST19MR2JJbzdYUVVuTnMyc0JGa001bjNmaXZyUXFiXzQyUkZNS3J5QjZtc2s4aVFISndGdWsydW95a2JFOEJYTkFaZnhEQnpFM2c0bC0tdw?oc=5",
@@ -1845,6 +1838,28 @@
       ],
       "amounts": [
         "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "af98c6e1ff90f6",
+      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-05-25",
+      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -2680,6 +2695,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "52832958f84d36",
+      "title": "Kehoe, Google tout $15 billion investment to accompany data center - ABC17NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmtXdUlrVFFFNlhOemdPT0VfUGYwWnpPYUpvRndJb1dnZVItcVVJQjFOT1ItTnNPcHotLWJJVmVQNG82U3F0M20yLXZkcTY2ck9Rdk1HMWIyYzA2SGtzU2t6cldsazVmcU9iTkNrYjh3aEM4TGJORXFsNjgzNHkzZERyUFVwTlRydXRSYUZtdW5uaWwxVkFmTHJsQkdSLUh2SU1MZDR6LW9yUC1v?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; ABC17NEWS",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "2652d0be88eab0",
       "title": "News | Google plans $15 billion data center investment in Missouri - CoStar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhKN0NsMHYwRW4xNVJ3RWJUVkc5MXdnMWN1SHNSaHI4elBhZW9OY2pYS1VHaElqel94QXZSX0FKdXA5cWlWM0NicmExOW5XM3pvUGNpMnlkclJkV01pTTlRQnNadjAwVGp3dGtUdHJTTUV6SHpKMHZaSHFYNjEtTnlYbm1jLTBlOTFfR1ZGY3M0MG1MbjFBNlBWbDd5WUdMc1NOdlJacm80cjFUYjAzX0NtSmhabUE?oc=5",
@@ -2715,25 +2749,6 @@
       "locations": [
         "Montgomery"
       ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "52832958f84d36",
-      "title": "Kehoe, Google tout $15 billion investment to accompany data center - ABC17NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmtXdUlrVFFFNlhOemdPT0VfUGYwWnpPYUpvRndJb1dnZVItcVVJQjFOT1ItTnNPcHotLWJJVmVQNG82U3F0M20yLXZkcTY2ck9Rdk1HMWIyYzA2SGtzU2t6cldsazVmcU9iTkNrYjh3aEM4TGJORXFsNjgzNHkzZERyUFVwTlRydXRSYUZtdW5uaWwxVkFmTHJsQkdSLUh2SU1MZDR6LW9yUC1v?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; ABC17NEWS",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [
         "$15 billion"
       ],
@@ -3076,6 +3091,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "cb5531af23c714",
+      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$33 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "48c15b13ad30fb",
       "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
@@ -3093,27 +3129,6 @@
       ],
       "amounts": [
         "$15B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -3173,8 +3188,8 @@
         "Arizona"
       ],
       "amounts": [
-        "240MW",
-        "$3 Billion"
+        "$3 Billion",
+        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3823,27 +3838,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "046680e5be6ef2",
-      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-20",
-      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c50927a6b755b4",
       "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnZvMEZJN0s2WjJ0UFJ1ZjliaE1GemtWU09vU3hMOGtSZmVpSnlIX1hMSUhvSDNsamhySXYyb3JKbnNuU0EzY2RtYk13NnNRWkM0a0M1aXhtLVNvdEtoNkRrc2VkNnFyNjJIZjdLMXVrYk5ueUdnZjVHRWg1c2RoODhhWHlQalFXX2VjYmNuMDVEQjJQa2dwY1BhTU1uU05fSHhUZmJTeWxab3NoMmtyempwNVRzcXFtc3FOQmJ2MHRrdjVoNWkzVFkyZFl5RzZGLTZWb3d5MnFVQUs1RXVzVlVoaU9hSEJtRzlQUF9kZDAzcDhpOHZUVms0dkwzMU50dlZv0gGIAkFVX3lxTFBDUFZOOF9vMjR6WEtUNWhjRVVsMWdVeTEyZlV6NWxleGhZUmR3QlJhVTRGNVI0MFhia0VWYjRWeEZjaVBZczk0Mjh0ZlhWQ1lMWW1Qb0pzZ0I5N2hLMGZIMmRoNFk5RjBteWpNTVZURzFDQ0NmQW42cmRsZVdCNFIya29JSXRrVG4xVVdROUhoalVkZmhWNFhwazFHTW9JSE1xN3V4WTl5Z1QzWkpNc0VTbTl3dXFSYXZLeHZ4dlhyTWR1dnowbWgxd2phaWpyZmZTelE3OVpHejRxcDNFSUJ4N2VyY0FlZ01HdjZkU1lNNVRSdnV4UXJLNl8wRDB0Y1hZdlctUFJzdw?oc=5",
@@ -3861,6 +3855,27 @@
       ],
       "amounts": [
         "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "046680e5be6ef2",
+      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-20",
+      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -5759,23 +5774,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b757b118ce714e",
-      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-19",
-      "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "33e7ad147ec4cb",
       "title": "Exclusive | Google and Blackstone to Create New AI Cloud Company - WSJ",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanVETXBuREY3VEdSekgyX1h4WmltRlVSNGpsdXh3cnIyVUVGN3k4Ylg5bzl4UXBLb1NJQzNPZFpNZ0pQVE9MejBFWE9oNWtRcE4wS1hqMURRbzZoTFFEX0J2UGlfZWx0d1JMcFdsMHpyR0NHWFcyTHAzbDZnTWdFRVpRakdkdGNhV1BRUDlzNkY0S00?oc=5",
@@ -6365,6 +6363,23 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b757b118ce714e",
+      "title": "Google, Blackstone to launch AI cloud venture to meet data centre demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-18",
+      "summary": "Google, Blackstone to launch AI cloud venture to meet data centre demand &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -10429,25 +10444,6 @@
       "companies": [],
       "locations": [
         "Australia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "47b93010f2c042",
-      "title": "Google buys land in Santander, Spain, for cable landing station",
-      "url": "https://www.datacenterdynamics.com/en/news/google-buys-land-in-santander-spain-for-cable-landing-station/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-08",
-      "summary": "New CLS to support Sol cable",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Spain"
       ],
       "amounts": [],
       "confidence": 2,
