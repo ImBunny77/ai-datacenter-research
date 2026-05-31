@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-30T22:58:37.349334+00:00",
+  "last_updated": "2026-05-31T03:59:29.382261+00:00",
   "finding_count": 600,
-  "new_project_count": 97,
+  "new_project_count": 98,
   "cancellation_count": 18,
   "sec_filing_count": 1,
-  "high_confidence_count": 161,
+  "high_confidence_count": 162,
   "findings": [
     {
       "id": "1d7e4dbbefe6ba",
@@ -25,6 +25,23 @@
         "5GW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c6d9211dc2a681",
+      "title": "Van Wert announces $10 billion QTS data center campus investment - Hometown Stations",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVRzc05NWTk5SU14c1ZUVEc2SDVQajZ3VjZJcXk1d1dTWnA0dUFfVXBoLVhnRFpob2ZwRm9yNzRfVUJsYzRsSnlpVy1odkFIV2ZsLVluMVlWYUJMRUlfa0JQV3k4bG85OTE0cm92c2RWbm12QVhHTnBNYlh5Y1JkVl9EbjVfUHJ1c2pKOEFkQXE2RXZURnNXZEVNX1dvRDZvcXhLeXozSDFBUGFHN2RWVmJDT2gwaEhaVERKV3R5R2ZjekJGc011RVRhd3pLejVOM0N5NElxbE5hVlhR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-30",
+      "summary": "Van Wert announces $10 billion QTS data center campus investment &nbsp;&nbsp; Hometown Stations",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -128,8 +145,8 @@
         "Brazil"
       ],
       "amounts": [
-        "150MW",
-        "1MW"
+        "1MW",
+        "150MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -553,27 +570,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "bb067824c8d206",
-      "title": "Google will invest $15 billion in Montgomery County data center - The Labor Tribune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcS11SEJvMlBxMDhBbHpBVXdHYzVfU2dvNWhGVDBTVllKUG53Mkp5N2l3OWhNNkZpYUU4bHlqLXdJS1FSYmRBZVJwVC01ZGcycVFuTUp3Mkxtd1pDb2xNdDl1LVNsMnJNQmVrb0xTLTRTMFFrWUxjUlFnbG9hdW0ybl9ORU9SVlNMOFktbVNrLXRmdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-28",
-      "summary": "Google will invest $15 billion in Montgomery County data center &nbsp;&nbsp; The Labor Tribune",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "dc17069e805d15",
       "title": "'It's jarring': Google's $40 billion data center investment to transform Texas town - KTXS",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWdVc2NkbG5GT2NSNWdsbk9IcERsdXFCd01qeEJhT2kyaVRQT0RiWEJrLVpMOEVsQ1oyWWFLazc2VjNTZ0gyT01RVno2OTdoNm1nVzVNdE02ZU12QkdfRlJwaGdjSHBlVnNQbDF6RjNSTVhDVVBubjVrcmUyeGs1LWh2LTI1a1NoTWQtcFJ1RWZ2dE1yWl80SWViLXZ4R0ZrRHlZSWk1TE4?oc=5",
@@ -590,6 +586,27 @@
       ],
       "amounts": [
         "$40 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bb067824c8d206",
+      "title": "Google will invest $15 billion in Montgomery County data center - The Labor Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcS11SEJvMlBxMDhBbHpBVXdHYzVfU2dvNWhGVDBTVllKUG53Mkp5N2l3OWhNNkZpYUU4bHlqLXdJS1FSYmRBZVJwVC01ZGcycVFuTUp3Mkxtd1pDb2xNdDl1LVNsMnJNQmVrb0xTLTRTMFFrWUxjUlFnbG9hdW0ybl9ORU9SVlNMOFktbVNrLXRmdw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-28",
+      "summary": "Google will invest $15 billion in Montgomery County data center &nbsp;&nbsp; The Labor Tribune",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -629,8 +646,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$965 billion",
         "$65 billion",
+        "$965 billion",
         "$65B"
       ],
       "confidence": 7,
@@ -650,9 +667,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$40 million",
         "$60.3 million",
-        "$40M"
+        "$40M",
+        "$40 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -808,6 +825,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "0a735e55adea1e",
+      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-28",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; U.S. News Money",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "cf9a4f2c71bc0f",
       "title": "CoreWeave introduces autonomous improvement capabilities for AI agents",
       "url": "https://siliconangle.com/2026/05/28/coreweave-introduces-autonomous-improvement-capabilities-ai-agents/",
@@ -836,21 +868,6 @@
       "companies": [
         "Google"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a735e55adea1e",
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-28",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; U.S. News Money",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -3296,6 +3313,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "4474221f0b0325",
+      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "2652d0be88eab0",
       "title": "News | Google plans $15 billion data center investment in Missouri - CoStar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhKN0NsMHYwRW4xNVJ3RWJUVkc5MXdnMWN1SHNSaHI4elBhZW9OY2pYS1VHaElqel94QXZSX0FKdXA5cWlWM0NicmExOW5XM3pvUGNpMnlkclJkV01pTTlRQnNadjAwVGp3dGtUdHJTTUV6SHpKMHZaSHFYNjEtTnlYbm1jLTBlOTFfR1ZGY3M0MG1MbjFBNlBWbDd5WUdMc1NOdlJacm80cjFUYjAzX0NtSmhabUE?oc=5",
@@ -3339,6 +3377,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "8d7e6d1818d28a",
+      "title": "Kehoe, Google tout $15 billion investment to accompany data center - KQ2",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3RkTjNmVm16Nm5tSXRYYno1bGktZTV5WFp3T1paYzJuckpUWXlIRGQ1anNNVG9rbUlRT2tDUDMzRHh5X2tPdk5QTDB4eWFxelFQNHZYcHJqWFEyQ05wbGkzWE1qYUZFMS1URDlSZUxmTGwxLUtqajBPUm9LRUZ3Q0pHSExsUTY3Z2tOdVRvbmNfVTlBSExmZU1IVGZ2d29ZOF9temkxcW5UZGNycHhKMnJIbDByU3lYZU1V?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; KQ2",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "5ceb89fb6338a2",
       "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
@@ -3353,25 +3410,6 @@
       "locations": [
         "Montgomery"
       ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8d7e6d1818d28a",
-      "title": "Kehoe, Google tout $15 billion investment to accompany data center - KQ2",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3RkTjNmVm16Nm5tSXRYYno1bGktZTV5WFp3T1paYzJuckpUWXlIRGQ1anNNVG9rbUlRT2tDUDMzRHh5X2tPdk5QTDB4eWFxelFQNHZYcHJqWFEyQ05wbGkzWE1qYUZFMS1URDlSZUxmTGwxLUtqajBPUm9LRUZ3Q0pHSExsUTY3Z2tOdVRvbmNfVTlBSExmZU1IVGZ2d29ZOF9temkxcW5UZGNycHhKMnJIbDByU3lYZU1V?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; KQ2",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [
         "$15 billion"
       ],
@@ -3417,27 +3455,6 @@
       ],
       "amounts": [
         "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4474221f0b0325",
-      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -3718,6 +3735,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "165c0558f77a77",
+      "title": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjMtS3AyaE8wOWhCOVhpSWdGcUJ3ZGZvbWhOS2VKSHpveXpNTVNuVlB5djdtNXg2cWstQTE0c1EtYTVSRi00dGYyNmJxSUxoYjA2UkZ3Q25Nd3V6b2JKVXNnWTItSXd6VjMzN3pPUjZjdlM0VWtPUDMzT01URlZVdEZSZlM4ZUVOVk1mVGVNSjEwaEZPUHRWR045RGoyQ25scUVDNGZWYVBkdw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona &nbsp;&nbsp; Construction Review",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Arizona"
+      ],
+      "amounts": [
+        "240MW",
+        "$3 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "e800471b9d40ce",
       "title": "Anthropic rents Colossus 1 for $1.25 billion/month on an xAI park capped at 11% capacity - Actu IA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSElPVFFaMVlvU2U1TFpNRFQ0WklhZFZXdUxhNS1GYzJOWlZ2a3BuNFZFOGw0bzM1c0wyT01NWTNBLUpoZ05kdGd1aHpxazhGN0ZyTHllMWNyWDVvMTNJTDl0ZDhZX1pZQlU5SUdOQWFkTGlHWFBsXzBnYk1MVGxIdjBFZi1qS1NlYjRrdC1pbFA4cGlYV2o3dkVTcmRyeWdNV0ZzdGk2dnY4WFhZcVhERjlBMzJ3amc?oc=5",
@@ -3733,26 +3770,6 @@
       "locations": [],
       "amounts": [
         "$1.25 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "165c0558f77a77",
-      "title": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjMtS3AyaE8wOWhCOVhpSWdGcUJ3ZGZvbWhOS2VKSHpveXpNTVNuVlB5djdtNXg2cWstQTE0c1EtYTVSRi00dGYyNmJxSUxoYjA2UkZ3Q25Nd3V6b2JKVXNnWTItSXd6VjMzN3pPUjZjdlM0VWtPUDMzT01URlZVdEZSZlM4ZUVOVk1mVGVNSjEwaEZPUHRWR045RGoyQ25scUVDNGZWYVBkdw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona &nbsp;&nbsp; Construction Review",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Arizona"
-      ],
-      "amounts": [
-        "$3 Billion",
-        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -7669,9 +7686,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "fae79399e7ac46",
+      "id": "5e8168257d31ce",
       "title": "Musk backs criticism of Sanders, AOC AI data center halt - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQkNua1Z0aXIwQUprbFJJSFd0WlFTdjJkUjRkVXRMMW85bjE3QzhMOC1vN2ZUbjdjR2NyaGlROTlHQjJKdEF0Zm9VNWFSbHNGNDNrOXpoRzF0NXF5cUpkRlJrTU1OWm9uNXpJcVNoZ1pFbFBNLVF3OS1DVHRDVi1XTzA5MW5venlMcmNUNXZDNW9tYUFpbWFpUkVmRks0TzdHYVFYNWdmSTliLVlQU3p0M1hETVBkU2hvUWpOakdFc1gzTE8wOGRRdEFfYTdjeGxOMFl0UVR4aWpmczY5MFAxdEs5VU1yc1E0ejRITXV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFZWM3BBR20wNm5DTGs5N1FUcHpHaHBqeGtudEgxZlJBMy0xQlhyWXVUU09ZWDZ3czlBbF9aLTJnZURfbF91RUhDX3RDZVFrYkVzRVRBWkxFRXlPMGtYZlc4UHQxbkZ3MGx4dmNNaHhXTDhPVlJHQmc3Wk5jcGt6QkNfR3JUeWZ2djFuNG9jRUZQMnhQNXlRVHpudUJvQ0dDdjMwQjJseXdXdEYtQWJ3R1Y0ckpVOENNQXdjdFpCaFduQUFncFJMOUNwVUhvVGhSQkN5VFhLeWYtX2MwSVE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-05-15",
@@ -7684,9 +7701,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "5e8168257d31ce",
+      "id": "fae79399e7ac46",
       "title": "Musk backs criticism of Sanders, AOC AI data center halt - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMFZWM3BBR20wNm5DTGs5N1FUcHpHaHBqeGtudEgxZlJBMy0xQlhyWXVUU09ZWDZ3czlBbF9aLTJnZURfbF91RUhDX3RDZVFrYkVzRVRBWkxFRXlPMGtYZlc4UHQxbkZ3MGx4dmNNaHhXTDhPVlJHQmc3Wk5jcGt6QkNfR3JUeWZ2djFuNG9jRUZQMnhQNXlRVHpudUJvQ0dDdjMwQjJseXdXdEYtQWJ3R1Y0ckpVOENNQXdjdFpCaFduQUFncFJMOUNwVUhvVGhSQkN5VFhLeWYtX2MwSVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQkNua1Z0aXIwQUprbFJJSFd0WlFTdjJkUjRkVXRMMW85bjE3QzhMOC1vN2ZUbjdjR2NyaGlROTlHQjJKdEF0Zm9VNWFSbHNGNDNrOXpoRzF0NXF5cUpkRlJrTU1OWm9uNXpJcVNoZ1pFbFBNLVF3OS1DVHRDVi1XTzA5MW5venlMcmNUNXZDNW9tYUFpbWFpUkVmRks0TzdHYVFYNWdmSTliLVlQU3p0M1hETVBkU2hvUWpOakdFc1gzTE8wOGRRdEFfYTdjeGxOMFl0UVR4aWpmczY5MFAxdEs5VU1yc1E0ejRITXV3?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-05-15",
@@ -10437,23 +10454,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "e106a9ffa424be",
-      "title": "Nvidia, AI factories and the transition to accelerated computing",
-      "url": "https://siliconangle.com/2026/05/10/nvidia-ai-factories-transition-accelerated-computing/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-10",
-      "summary": "The market is trying to price a transition it hasn’t fully internalized. It sees Nvidia Corp.’s market cap with a five-handle and assumes the valuation is too high to grow further. We believe that’s the wrong mental model and it underestimates the market potential. Though the shift underway resembles the RISC-to-x86 transition, it is far [&#8230;] \n The post  Nvidia, AI factories and the transition to accelerated computing  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
