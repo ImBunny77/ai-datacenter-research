@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-06-04T12:48:02.252471+00:00",
+  "last_updated": "2026-06-04T16:55:26.539281+00:00",
   "finding_count": 600,
-  "new_project_count": 128,
-  "cancellation_count": 8,
+  "new_project_count": 130,
+  "cancellation_count": 9,
   "sec_filing_count": 1,
-  "high_confidence_count": 189,
+  "high_confidence_count": 185,
   "findings": [
+    {
+      "id": "f6be0c2453a91c",
+      "title": "Is the data center industry ready to change for the coming of the 1MW rack?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/does-the-data-center-industry-have-the-appetite-to-change-for-the-coming-of-the-1mw-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-04",
+      "summary": "1MW racks and 800V DC topologies on the way, because Nvidia said so",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "1MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "7cab0bb2fb3cc1",
       "title": "Startup Kodesage secures seed funding to accelerate on-premises app modernization with AI",
@@ -23,6 +42,23 @@
         "$6.6 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f13ba0c9031eed",
+      "title": "Walbridge breaks ground on $16B Stargate data center - Construction Dive",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHowejQyVkFUWG0zeW5HMkVDWkZweDRBU2diZ3RkU3ZmOFpCUDF4aUE5OEw3ZTBFNWdKbFp6dGNpQjdsdXNjWFpHdkk1R2ZtWHZ0T3hLSzBESEN6RzAtRFUzOEs3Y3liYTZLcnU4LWRnbGRVWEJyUkcyTzllN3FVczNaSXpZZFBBLUlVcnFqZnltek0teE5fZ3lObVc2TF9NYlZRTng3cw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-04",
+      "summary": "Walbridge breaks ground on $16B Stargate data center &nbsp;&nbsp; Construction Dive",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$16B"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -100,6 +136,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "5a71efea51720f",
+      "title": "We’re announcing a new data center and energy investments in Gray and Roberts Counties, Texas.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/meitner-energy-center/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-04",
+      "summary": "Google and Intersect are announcing construction of the Meitner Energy Center, a new data center and new energy generation in Texas.",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "e61be9e2b1e224",
       "title": "Asprofin Bank unveils $12bn proposal for data centers in UAE",
       "url": "https://www.datacenterdynamics.com/en/news/asprofin-bank-unveils-12bn-proposal-for-data-centers-in-uae/",
@@ -155,6 +210,53 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "91fc119db60f75",
+      "title": "Plans for 10,000 acre data center scrapped in Socorro, New Mexico",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-10000-acre-data-center-scrapped-in-socorro-new-mexico/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-04",
+      "summary": "Insufficient continguous acreage, says President of New Mexico Institute of Mining and Technology",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "New Mexico"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0bbed36f29afc1",
+      "title": "Scaling up data center siting in the power-first era",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/scaling-up-data-center-siting-in-the-power-first-era/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-04",
+      "summary": "Accelerate siting, de-Risk power, and outpace the competition",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e439dfe6d80667",
+      "title": "Sponsored: How liquid cooling is redefining data center efficiency beyond PUE",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-liquid-cooling-is-redefining-data-center-efficiency-beyond-pue/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-04",
+      "summary": "With AI operations, efficiency isn’t just about how much energy you consume. Rather, it’s about how much compute you produce from it, making output a more meaningful measure of performance",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -247,6 +349,72 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "acd0e85f723208",
+      "title": "How some data center operators are tackling their water use problems",
+      "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-04",
+      "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "062bbaed3a3bc3",
+      "title": "A new profile to help publishers and creators highlight their work on Search",
+      "url": "https://blog.google/products-and-platforms/products/search/a-new-profile-to-help-publishers-and-creators-highlight-their-work-on-search/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-04",
+      "summary": "An illustration of a hand tapping a mobile phone screen showing a tropical scene and UX of Google Search.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a1e6800ecbbcfa",
+      "title": "Meet Kameirah, this year’s Doodle for Google winner!",
+      "url": "https://blog.google/company-news/inside-google/doodles/2026-winner/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-04",
+      "summary": "Winning Doodle: 3 girls whose hair make the word \"Google\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1c67bc5d12ec82",
+      "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
+      "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-04",
+      "summary": "Creator assistant understands each creator's unique presence and helps them take action to grow.  \n The post  Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -463,23 +631,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "711f773820d71d",
-      "title": "Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours",
-      "url": "https://siliconangle.com/2026/06/03/broadcom-revenue-miss-stuns-wall-street-stock-sinks-hours/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "Shares of the chipmaker Broadcom Inc. came crashing down to Earth in late trading today after it reported weaker-than-expected second-quarter revenue. The stock fell a bit initially, and then much more after Chief Executive Hock Tan declined to raise the company’s full-year guidance for artificial intelligence chip sales beyond the current $100 billion forecast range. [&#8230;] \n The post  Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$100 billion"
-      ],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "c0a7c731e923ca",
       "title": "Amazon plans nine-building data center campus in Wheatfield, Indiana",
       "url": "https://www.datacenterdynamics.com/en/news/amazon-plans-nine-building-data-center-campus-in-wheatfield-indiana/",
@@ -536,24 +687,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "389d7deebccdf0",
-      "title": "CoreWeave’s Vera Rubin milestone sets stage for theCUBE’s agentic AI coverage",
-      "url": "https://siliconangle.com/2026/06/02/agentic-ai-infrastructure-coreweave-vera-rubin-coreweaveverarubin/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "The agentic AI era is putting new pressure on the infrastructure stack, and CoreWeave Inc.’s latest milestone gives the conversation a sharper edge. This week, the company announced that it has completed what it describes as the industry’s first bring-up and validation of Nvidia Vera Rubin NVL72 on CoreWeave Cloud. “Vera Rubin is the most [&#8230;] \n The post  CoreWeave’s Vera Rubin milestone sets stage for theCUBE’s agentic AI coverage  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "eeb7909da9ab88",
       "title": "Alphabet investor presentation: June 2026",
       "url": "https://blog.google/alphabet/investor-presentation-june-2026/",
@@ -581,6 +714,24 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "389d7deebccdf0",
+      "title": "CoreWeave’s Vera Rubin milestone sets stage for theCUBE’s agentic AI coverage",
+      "url": "https://siliconangle.com/2026/06/02/agentic-ai-infrastructure-coreweave-vera-rubin-coreweaveverarubin/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-03",
+      "summary": "The agentic AI era is putting new pressure on the infrastructure stack, and CoreWeave Inc.’s latest milestone gives the conversation a sharper edge. This week, the company announced that it has completed what it describes as the industry’s first bring-up and validation of Nvidia Vera Rubin NVL72 on CoreWeave Cloud. “Vera Rubin is the most [&#8230;] \n The post  CoreWeave’s Vera Rubin milestone sets stage for theCUBE’s agentic AI coverage  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -636,40 +787,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a88f37ceba99e7",
-      "title": "Controversial Michigan data center breaks ground, and 4 other major stories - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXVQODZnV1NxbWpPWVVxd0FIMWZHbHJlemItVHN2ekVONDlXRFBmVkMzMjNKZVE1bzM2azUzczVKOXQ2Rk0xVExPS05PbWJ3UC1OOVJKc2tVZ0R5c281R2RjcFRWMURVZ1dMMkpIbjJEOEkzUXZOM2lpQXY3VEpsSjZiTHQ5V1hvR3dDWDZRNnk0ZjAwdktyYkUyTkRxS1FBdmFYZThwd0RHV1dEVVk4ZzN1TmfSAcgBQVVfeXFMTVE3YW5ydnMxV1RYYThhSko5X1ZuSDNOTFMySFA2OXR0bUVTX1lSWEtWbGZ5NXRsNzQ0cW4tOHBvX1ZPSk8tNFNCR0RIYWd3QUZyTm9tZUQxM2M0ZHBBLWZ6Z0ZVbm4wVFFMbkJXaTlDS2V5eVh4eHBwU3h2aDhvbkNfaVNYUmhIOUd1dDhXMHlHanZTc3JkWWxkUVhzQ2xfNkoxNkcwMUI3SmpUeEQ0bkZNLWlVVE9tQjlnWGs5NldoaXNWUlk2U0U?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-03",
-      "summary": "Controversial Michigan data center breaks ground, and 4 other major stories &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9f51b06973d98c",
-      "title": "EdgeConneX files to build two 730,000 sq ft data centers in Bastrop County, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/edgeconnex-files-to-build-two-730000-sq-ft-data-centers-in-bastrop-county-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Will be built on land parcel acquired by the company in November",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -862,6 +979,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "9f51b06973d98c",
+      "title": "EdgeConneX files to build two 730,000 sq ft data centers in Bastrop County, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/edgeconnex-files-to-build-two-730000-sq-ft-data-centers-in-bastrop-county-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-03",
+      "summary": "Will be built on land parcel acquired by the company in November",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "48c5574ba4b158",
       "title": "India’s data center opportunity will be defined by execution, not incentives",
       "url": "https://www.datacenterdynamics.com/en/opinions/indias-data-center-opportunity-will-be-defined-by-execution-not-incentives/",
@@ -1041,6 +1175,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "711f773820d71d",
+      "title": "Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours",
+      "url": "https://siliconangle.com/2026/06/03/broadcom-revenue-miss-stuns-wall-street-stock-sinks-hours/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-03",
+      "summary": "Updated with Thursday stock price: Shares of the chipmaker Broadcom Inc. came crashing down to Earth in late trading today after it reported weaker-than-expected second-quarter revenue. The stock fell a bit initially, and then much more after Chief Executive Hock Tan declined to raise the company’s full-year guidance for artificial intelligence chip sales beyond the [&#8230;] \n The post  Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "732e980ed0a04d",
       "title": "CoolIT designs 15kW coldplate to future-proof liquid cooling for GPUs",
       "url": "https://www.datacenterdynamics.com/en/news/coolit-designs-15kw-coldplate-to-future-proof-liquid-cooling-for-gpus/",
@@ -1096,13 +1245,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a33b53cc672f13",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
+      "id": "d8593cd04d662f",
+      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEFVT1pEUGs4N2RfS0JNVGlWaEpSbUZxNzdPdFZqeHBuZWxxZVJLNE9OTlFhaldIVnhvbE1KdzNaQVl6QkVqSlVGcnhWVlVhMFdZU0FodUxOcXk2ODdGZUpxLVZ5SjhkY1RHWlU1Mk4tX2hRYlNud3RkM0RMSURFQVZCLVZWRDZQcXZ1bFFzVjR3WlNudUg4Z2dwV2VrZVBiT1ZONmZCekZWRDdzT0k0T3lTN2tVc1U?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
+      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; BeBeez International",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -1129,6 +1278,25 @@
       "locations": [],
       "amounts": [
         "$84.75 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a33b53cc672f13",
+      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$10 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1173,25 +1341,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d8593cd04d662f",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEFVT1pEUGs4N2RfS0JNVGlWaEpSbUZxNzdPdFZqeHBuZWxxZVJLNE9OTlFhaldIVnhvbE1KdzNaQVl6QkVqSlVGcnhWVlVhMFdZU0FodUxOcXk2ODdGZUpxLVZ5SjhkY1RHWlU1Mk4tX2hRYlNud3RkM0RMSURFQVZCLVZWRDZQcXZ1bFFzVjR3WlNudUg4Z2dwV2VrZVBiT1ZONmZCekZWRDdzT0k0T3lTN2tVc1U?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; BeBeez International",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "6dd692aeb885d7",
       "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
@@ -1211,23 +1360,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "f1ae2b993f672e",
-      "title": "$150 billion Independence AI data center breaks ground, barricades protesters - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHZLdWxuQXBmemd5Ym9QUVZMREVaMmxOb2R3QXMtNHNGWWxzLW9LSnN1YUduYlRhbXU3VGQtVG1GQ3NCTTNXaGdObDNqOVJqZ0pXdEVNdXdQbHd1S1NBU0x1UE9RS3ZkWHRuMS1CMzRIQTlrcjBtMzl6eGkwb2luZHBR?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "$150 billion Independence AI data center breaks ground, barricades protesters &nbsp;&nbsp; AOL.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$150 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "bde77e2371d0fa",
       "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
@@ -1240,6 +1372,23 @@
       "locations": [],
       "amounts": [
         "$16 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f1ae2b993f672e",
+      "title": "$150 billion Independence AI data center breaks ground, barricades protesters - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHZLdWxuQXBmemd5Ym9QUVZMREVaMmxOb2R3QXMtNHNGWWxzLW9LSnN1YUduYlRhbXU3VGQtVG1GQ3NCTTNXaGdObDNqOVJqZ0pXdEVNdXdQbHd1S1NBU0x1UE9RS3ZkWHRuMS1CMzRIQTlrcjBtMzl6eGkwb2luZHBR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "$150 billion Independence AI data center breaks ground, barricades protesters &nbsp;&nbsp; AOL.com",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$150 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1324,25 +1473,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "3d02f134c06eba",
-      "title": "Broadcom stock surges 6.8% on $80B Alphabet AI plan and strong chip demand - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa25jUWpEN2FvajFDU2gtWmxtb0l3aEE1X0c2bTAta05QYlg5ZFFxQ3JoVGEwR0dOUm1TM0tJLVFZT29lNzBmMDNTblFWQTNGLXpSdGwxdE82NkxscG5uSVNfbER4WkFxNzRRZkZzbkdmT0ZObU5DRDM2aFBIWHV6SWVYS0JjSnNYd3hnb0VaeXdBRHY2MWFMUGdQdk80Zlp5aXdZ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-02",
-      "summary": "Broadcom stock surges 6.8% on $80B Alphabet AI plan and strong chip demand &nbsp;&nbsp; eciks.org",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$80B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "d0404b150413c4",
       "title": "Blue, yellow and green: Google invests in its new data center in Sweden.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/blue-yellow-and-green-google-invests-in-its-first-data-center-in-sweden/",
@@ -1358,6 +1488,25 @@
         "Sweden"
       ],
       "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3d02f134c06eba",
+      "title": "Broadcom stock surges 6.8% on $80B Alphabet AI plan and strong chip demand - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa25jUWpEN2FvajFDU2gtWmxtb0l3aEE1X0c2bTAta05QYlg5ZFFxQ3JoVGEwR0dOUm1TM0tJLVFZT29lNzBmMDNTblFWQTNGLXpSdGwxdE82NkxscG5uSVNfbER4WkFxNzRRZkZzbkdmT0ZObU5DRDM2aFBIWHV6SWVYS0JjSnNYd3hnb0VaeXdBRHY2MWFMUGdQdk80Zlp5aXdZ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-06-02",
+      "summary": "Broadcom stock surges 6.8% on $80B Alphabet AI plan and strong chip demand &nbsp;&nbsp; eciks.org",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$80B"
+      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -1426,6 +1575,23 @@
       "summary": "Brookfield ups French data center investment by €10 billion &nbsp;&nbsp; Data Center Dynamics",
       "finding_type": "New Project",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9a7d8209cf65b4",
+      "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance &nbsp;&nbsp; WJR-AM",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 4,
@@ -1596,23 +1762,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "bc8bda4b878c95",
-      "title": "Microsoft launches Rayfin to let developers and agents build app back ends on Fabric",
-      "url": "https://siliconangle.com/2026/06/02/microsoft-launches-rayfin-let-developers-agents-build-app-backends-fabric/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Microsoft Corp. today introduced Rayfin, an open-source software development kit and command-line interface that lets developers and coding agents define an entire application back end in code and deploy it onto Microsoft Fabric. Announced at Microsoft Build 2026, Rayfin targets a gap that has widened as artificial intelligence has made it trivial to spin up [&#8230;] \n The post  Microsoft launches Rayfin to let developers and agents build app back ends on Fabric  appeared first on  SiliconANGLE",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "424cc9bfcd315b",
       "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
       "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
@@ -1640,6 +1789,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bc8bda4b878c95",
+      "title": "Microsoft launches Rayfin to let developers and agents build app back ends on Fabric",
+      "url": "https://siliconangle.com/2026/06/02/microsoft-launches-rayfin-let-developers-agents-build-app-backends-fabric/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-02",
+      "summary": "Microsoft Corp. today introduced Rayfin, an open-source software development kit and command-line interface that lets developers and coding agents define an entire application back end in code and deploy it onto Microsoft Fabric. Announced at Microsoft Build 2026, Rayfin targets a gap that has widened as artificial intelligence has made it trivial to spin up [&#8230;] \n The post  Microsoft launches Rayfin to let developers and agents build app back ends on Fabric  appeared first on  SiliconANGLE",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -1840,6 +2006,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a88f37ceba99e7",
+      "title": "Controversial Michigan data center breaks ground, and 4 other major stories - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXVQODZnV1NxbWpPWVVxd0FIMWZHbHJlemItVHN2ekVONDlXRFBmVkMzMjNKZVE1bzM2azUzczVKOXQ2Rk0xVExPS05PbWJ3UC1OOVJKc2tVZ0R5c281R2RjcFRWMURVZ1dMMkpIbjJEOEkzUXZOM2lpQXY3VEpsSjZiTHQ5V1hvR3dDWDZRNnk0ZjAwdktyYkUyTkRxS1FBdmFYZThwd0RHV1dEVVk4ZzN1TmfSAcgBQVVfeXFMTVE3YW5ydnMxV1RYYThhSko5X1ZuSDNOTFMySFA2OXR0bUVTX1lSWEtWbGZ5NXRsNzQ0cW4tOHBvX1ZPSk8tNFNCR0RIYWd3QUZyTm9tZUQxM2M0ZHBBLWZ6Z0ZVbm4wVFFMbkJXaTlDS2V5eVh4eHBwU3h2aDhvbkNfaVNYUmhIOUd1dDhXMHlHanZTc3JkWWxkUVhzQ2xfNkoxNkcwMUI3SmpUeEQ0bkZNLWlVVE9tQjlnWGs5NldoaXNWUlk2U0U?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Controversial Michigan data center breaks ground, and 4 other major stories &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ce416574fa50c2",
       "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
       "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
@@ -1867,23 +2050,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bb9fc9deabb789",
-      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-02",
-      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1952,6 +2118,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bb9fc9deabb789",
+      "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-02",
+      "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3506,8 +3689,8 @@
       "id": "17de8720dec676",
       "title": "Van Wert announces $10 billion QTS data center campus investment - Hometown Stations",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZG01bzUxZTJjUnZHVFhlRDZXNmlGNTRFZzN4RUxsQlYtTWdSZlZrY3lRMWZDa1hIUlh2VGVlclVLOUxhY2JaTlE3MzBWanpNZ2lmQXJZZ0RfM0NzMkJreU5Qa0wyNHJ2anFzaG0xWEhGVzlIaGpCZ0dHWDBRN1daXzZvcGNSbGRYa252UjZVcWk2Q0pyX1EwakRDS1hTenVjc1N1cHdpX3dGQ0NxdF9nWnBVZjZwOWdxQ3JFcW9CWE1keUhoNEd0QWthYUlOQ3lPV2JCV3VnaVVwSnR3RkFPSWR6cHhaSUdlODg5ZzNWUzNpazROVW9ndVM1WQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-29",
       "summary": "Van Wert announces $10 billion QTS data center campus investment &nbsp;&nbsp; Hometown Stations",
       "finding_type": "New Project",
@@ -4368,23 +4551,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b759ab389933c8",
-      "title": "Travel the world like Dua Lipa with Google Maps",
-      "url": "https://blog.google/products-and-platforms/products/maps/dua-lipa/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-28",
-      "summary": "Header image shows Dua Lipa with a magazine, announcing new lists on Google Maps",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f25eff4345d575",
       "title": "Protecting Players and Fans during FIFA World Cup 2026™",
       "url": "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
@@ -4395,6 +4561,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b759ab389933c8",
+      "title": "Travel the world like Dua Lipa with Google Maps",
+      "url": "https://blog.google/products-and-platforms/products/maps/dua-lipa/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-05-28",
+      "summary": "Header image shows Dua Lipa with a magazine, announcing new lists on Google Maps",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -5940,28 +6123,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "af98c6e1ff90f6",
-      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-25",
-      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "86ce06c6c71e48",
       "title": "Boxminer plans 20MW crypto data center in La Pine, Oregon",
       "url": "https://www.datacenterdynamics.com/en/news/boxminer-plans-20mw-crypto-data-center-in-la-pine-oregon/",
@@ -6129,6 +6290,28 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "af98c6e1ff90f6",
+      "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-24",
+      "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "48701c7dfdcc88",
@@ -6792,6 +6975,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "8d7e6d1818d28a",
+      "title": "Kehoe, Google tout $15 billion investment to accompany data center - KQ2",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3RkTjNmVm16Nm5tSXRYYno1bGktZTV5WFp3T1paYzJuckpUWXlIRGQ1anNNVG9rbUlRT2tDUDMzRHh5X2tPdk5QTDB4eWFxelFQNHZYcHJqWFEyQ05wbGkzWE1qYUZFMS1URDlSZUxmTGwxLUtqajBPUm9LRUZ3Q0pHSExsUTY3Z2tOdVRvbmNfVTlBSExmZU1IVGZ2d29ZOF9temkxcW5UZGNycHhKMnJIbDByU3lYZU1V?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; KQ2",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "5ceb89fb6338a2",
       "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
@@ -6829,25 +7031,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8d7e6d1818d28a",
-      "title": "Kehoe, Google tout $15 billion investment to accompany data center - KQ2",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3RkTjNmVm16Nm5tSXRYYno1bGktZTV5WFp3T1paYzJuckpUWXlIRGQ1anNNVG9rbUlRT2tDUDMzRHh5X2tPdk5QTDB4eWFxelFQNHZYcHJqWFEyQ05wbGkzWE1qYUZFMS1URDlSZUxmTGwxLUtqajBPUm9LRUZ3Q0pHSExsUTY3Z2tOdVRvbmNfVTlBSExmZU1IVGZ2d29ZOF9temkxcW5UZGNycHhKMnJIbDByU3lYZU1V?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Kehoe, Google tout $15 billion investment to accompany data center &nbsp;&nbsp; KQ2",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -7293,25 +7476,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "26e64f8c518dd1",
-      "title": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus - BriefGlance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2VleGNKZXFhUWk4N1prdUs3dUhDVWc1eUN4VUVsVHJCLTZ5YUhNUXJQbEZDTkZVOFRTM2lyYTUyamlhYzRuNnBpcGR2Q0JSTkNtV1RlY0VZZlBPdGk5eFlMYlZJemw0c2RialFKei1PbkIwaFlDVG41X1Y1ZUJ6MFMzU2FIOXlZMGdmekFWRlZiMG9OSDZSY0YtV3l6OFF2ZEE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus &nbsp;&nbsp; BriefGlance",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Phoenix"
-      ],
-      "amounts": [
-        "$3B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "d34c979ac83df4",
       "title": "Google Deepens Missouri Roots With New Data Center, Energy, and Community Investments - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2w2TEp6YTlpZTJzeE92allacjZCMHh6UnVldXNqb0tNMU5MUG02ay1FLTNDS1VUNzJGYlAySVhxNVgtM3Q0ckYxSldoMjJ4WUZXSFBzdVBOaFp2aHJGX25EemNvV2RLN2lHdmlfRlI5OEFMZWstbjV0VVpOQjFtY0w1QlVqeUM3NFZ4Mjk2WHZxMW5FSUo4MldydTF6RDEyS2c0UlVR?oc=5",
@@ -7327,6 +7491,25 @@
         "Missouri"
       ],
       "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "26e64f8c518dd1",
+      "title": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus - BriefGlance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2VleGNKZXFhUWk4N1prdUs3dUhDVWc1eUN4VUVsVHJCLTZ5YUhNUXJQbEZDTkZVOFRTM2lyYTUyamlhYzRuNnBpcGR2Q0JSTkNtV1RlY0VZZlBPdGk5eFlMYlZJemw0c2RialFKei1PbkIwaFlDVG41X1Y1ZUJ6MFMzU2FIOXlZMGdmekFWRlZiMG9OSDZSY0YtV3l6OFF2ZEE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus &nbsp;&nbsp; BriefGlance",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Phoenix"
+      ],
+      "amounts": [
+        "$3B"
+      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -7899,8 +8082,8 @@
       "id": "c50927a6b755b4",
       "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVnZvMEZJN0s2WjJ0UFJ1ZjliaE1GemtWU09vU3hMOGtSZmVpSnlIX1hMSUhvSDNsamhySXYyb3JKbnNuU0EzY2RtYk13NnNRWkM0a0M1aXhtLVNvdEtoNkRrc2VkNnFyNjJIZjdLMXVrYk5ueUdnZjVHRWg1c2RoODhhWHlQalFXX2VjYmNuMDVEQjJQa2dwY1BhTU1uU05fSHhUZmJTeWxab3NoMmtyempwNVRzcXFtc3FOQmJ2MHRrdjVoNWkzVFkyZFl5RzZGLTZWb3d5MnFVQUs1RXVzVlVoaU9hSEJtRzlQUF9kZDAzcDhpOHZUVms0dkwzMU50dlZv0gGIAkFVX3lxTFBDUFZOOF9vMjR6WEtUNWhjRVVsMWdVeTEyZlV6NWxleGhZUmR3QlJhVTRGNVI0MFhia0VWYjRWeEZjaVBZczk0Mjh0ZlhWQ1lMWW1Qb0pzZ0I5N2hLMGZIMmRoNFk5RjBteWpNTVZURzFDQ0NmQW42cmRsZVdCNFIya29JSXRrVG4xVVdROUhoalVkZmhWNFhwazFHTW9JSE1xN3V4WTl5Z1QzWkpNc0VTbTl3dXFSYXZLeHZ4dlhyTWR1dnowbWgxd2phaWpyZmZTelE3OVpHejRxcDNFSUJ4N2VyY0FlZ01HdjZkU1lNNVRSdnV4UXJLNl8wRDB0Y1hZdlctUFJzdw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-20",
       "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; KOMU 8",
       "finding_type": "New Project",
@@ -7913,6 +8096,27 @@
       ],
       "amounts": [
         "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "47a3263d7f1888",
+      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUR3cF9FeGRkYXVwOWoxZUJTSU5kcEw5TmlubWlWbE14eFZVcUc5bDNETEdYOFBXRUdnX25XYUhpaFBWdHE5VzVBNno1N2gtTjQzMXNxLU9iUmpucExlNjhtd1dBQS1DcVItZVNOQ1VLTnhjYlYtQUpBbzNMeE9IdW9VSkp3ZExGQzRQSW5hOS1aLVZmME5BV3lFNm3SAaIBQVVfeXFMUDRzTWQxOUctWWNSRk9YUkF0S3lFQ1MzZ3RJRGdsUXBibUprMVotYk0wTGNlUVZuSVE1cEE2emxNblUtV1AxNXZReTh6MUwwZXIwd0FfbFFoVk0tVTF4ZTluN0FuRi1xaS1WQVdJU3RDdGtXYnkxMHRZTE9ZM3ZSQjZZeDBYWFYtRlBvMnNpUVpYM09LaDRRX2NPeTRRSXIzVzJ3?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-20",
+      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -7960,27 +8164,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "47a3263d7f1888",
-      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUR3cF9FeGRkYXVwOWoxZUJTSU5kcEw5TmlubWlWbE14eFZVcUc5bDNETEdYOFBXRUdnX25XYUhpaFBWdHE5VzVBNno1N2gtTjQzMXNxLU9iUmpucExlNjhtd1dBQS1DcVItZVNOQ1VLTnhjYlYtQUpBbzNMeE9IdW9VSkp3ZExGQzRQSW5hOS1aLVZmME5BV3lFNm3SAaIBQVVfeXFMUDRzTWQxOUctWWNSRk9YUkF0S3lFQ1MzZ3RJRGdsUXBibUprMVotYk0wTGNlUVZuSVE1cEE2emxNblUtV1AxNXZReTh6MUwwZXIwd0FfbFFoVk0tVTF4ZTluN0FuRi1xaS1WQVdJU3RDdGtXYnkxMHRZTE9ZM3ZSQjZZeDBYWFYtRlBvMnNpUVpYM09LaDRRX2NPeTRRSXIzVzJ3?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-20",
-      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c5390ada22edeb",
       "title": "Google announces $15 billion data center in mid-Missouri - KMOV",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjI4QVRqak0yWVNZd2UwNEZLUnBlRXNGYThiajRGRWxEZVBUQlJ4S2lwQVJ6NmFJNmluemxXMmJqbWNCRU1hYzQ2MkRpSnpnTmcxejdDd1FCbzYwb1MwbWhTVTdiZkh0RnczSmlFaU9UbEtrZ1hWWS1aQzdSYklWYVBzVEc2LTJwaUp2RHhMOFZxaGVTLWJn0gGrAUFVX3lxTE5leFVTeC1SblZucFc1akFRMTItYWRBM09nMy04QnhsNm5uLTdWTVRFT3ZEbElOZi0xdG5jbEk1X1E5aENmemFvWGc2ZmlXdFlnRlNESlg4VHd5S183R3RzbGI3RVJUSFJDal83VUw4UDFfODZKNUlfS3p1cDZIWjQxRWk3NnYwYms5Ni1wOGtCb3dkbF8xT3N2RlBJZ2pCOGZSNHVrNmNjLUxFWQ?oc=5",
@@ -8020,6 +8203,25 @@
         "$15 billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "923c02f3d2ffc5",
+      "title": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence - KRCG",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRubE1mV1VyY3hzSERkTVE4cFFaVmxDclhvbTFGX25SODc3a1gzXzB3UGFWS3V5WXNwdExybzZsbEZQdmlUY0Q2SW5Db1l2dlBtSDVKb1RjTnplVlYxQWMtSjZHUjQxVDlicFZTM1ozTFJ5S2pSblczQ1RUcXJkNmZBUHhacEpBYnJYTGhzbU9nMWJLX2JHZkZvaWdGWklveDQ2Q0s0OVJDNjFvcVJReFhR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-20",
+      "summary": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence &nbsp;&nbsp; KRCG",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15b"
+      ],
+      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -8065,40 +8267,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "923c02f3d2ffc5",
-      "title": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence - KRCG",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnRubE1mV1VyY3hzSERkTVE4cFFaVmxDclhvbTFGX25SODc3a1gzXzB3UGFWS3V5WXNwdExybzZsbEZQdmlUY0Q2SW5Db1l2dlBtSDVKb1RjTnplVlYxQWMtSjZHUjQxVDlicFZTM1ozTFJ5S2pSblczQ1RUcXJkNmZBUHhacEpBYnJYTGhzbU9nMWJLX2JHZkZvaWdGWklveDQ2Q0s0OVJDNjFvcVJReFhR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-20",
-      "summary": "Google, Gov. Mike Kehoe announce $15b investment to bring data center to New Florence &nbsp;&nbsp; KRCG",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15b"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3a374b04af08ee",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-05-20",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "60350a43360424",
       "title": "Google secures $15B data center project in mid-Missouri - FOX 2",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYkwwNmlCN3ZLbi1vdUdEa2tIVV8zUU1OSVdBVEJqTWJLdFVSMDVXQVJwU01ubGhIa1h2Y1hCRzMxRjBoU216eVMxNTdyOFE0S1RramNUV2UzLTFTWk9xOUMwT0RzdlBWOTJTT0RoS0pJN1hsTmNZUlE4Uy1Iam4wVHFFTG9sZDJsSmZidjc1a0ZISlHSAZgBQVVfeXFMTlVtWXVtSXp3b1YwbEcyMGEtYzRuSG5SVzNwWGszZUxrSC00czZqXzFUeTZwY3kyblI1cHU4bExOUXo2OU81V2g1QW0wQzFkaDVMSTFQOXB0ZjJkLVZpdWYzUktBd3YtdllIUE10MmVMdW0ya1Y5WVAxSG1EcEUzRjg0VERfU25FTHhWdW1IVWVkRzMxZ1BpT0s?oc=5",
@@ -8116,6 +8284,21 @@
       "amounts": [
         "$15B"
       ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3a374b04af08ee",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-05-20",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -9604,7 +9787,7 @@
       "id": "e6dc701814ccc0",
       "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmkwMjBZRGZfSVp2clVGYVZDaEdvX09yX09DQXhJZ3BjUFRRTFpTUE5Hc09jODk0ZHJJOThHMFI5d25vUUI3Ym5GcllNTy0xeko4NjU3SURaVG9XWGY3aVNMdG11bzZsSWtZS3h4dTZCZzdtVm5BeW5DdFo1MUpfclRpU1p0TlZtbm1IMEFZRE3SAZYBQVVfeXFMTnNLUVp5ekxNN01XUEZEY0ZTUmp5Y0c3Q0JWWEFfdm1Za1B3WE1uSkZ5OXowNDhUbWpueThhV2NrbW5YUktDUjcxTEZWbldMeUdRRGlLSjZkMENzV3VaSk04WHhsdUMwXzlqUkR5S0o5dVMtTWtVRjMxTjBDQlhCTFdsM2NFVmZNN2d0ZVBtN3RyS1FxZzFn?oc=5",
-      "source": "GNews: Google Alphabet data center",
+      "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-05-19",
       "summary": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips &nbsp;&nbsp; CNBC",
@@ -10380,199 +10563,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a87c81a7728a35",
-      "title": "Enterprise AI is ready — Michael Dell says executives need to be, too",
-      "url": "https://siliconangle.com/2026/05/19/ai-infrastructure-data-courage-inform-dells-next-move-delltechworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-19",
-      "summary": "AI infrastructure is no longer just about faster computing. It is becoming the foundation for a new enterprise operating model where data comes alive, digital workers reshape workflows and leadership courage determines who keeps up. That inflection point has arrived even as infrastructure investment surrounding AI still seems to be in its opening act. Few companies [&#8230;] \n The post  Enterprise AI is ready — Michael Dell says executives need to be, too  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6677468fe19320",
-      "title": "Dell’s CFO sees the enterprise AI buildout as a generational opportunity still in its opening act",
-      "url": "https://siliconangle.com/2026/05/18/ai-factory-momentum-dell-reaches-inflection-point-delltechworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-19",
-      "summary": "AI factory momentum has reached a critical inflection point as capital joins silicon and energy as key constraints in the race to build enterprise AI infrastructure. That dynamic is playing out in real time for Dell Technologies Inc., which has surpassed more than 5,000 Dell AI Factory deployments across its ecosystem. The company&#8217;s supply chain precision, [&#8230;] \n The post  Dell&#8217;s CFO sees the enterprise AI buildout as a generational opportunity still in its opening act  appeared",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0da6d1db20066f",
-      "title": "NextEra's $67 billion Dominion takeover creates world's largest utility—just in time to win the AI data center power surge - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlBuZGtXdXpRbzE5Vm53LWI2X0JXMkphVnVCTklWejVZdDg4eGtmaEI0eXM5RWJIa3RhZ2JVLVFxZXdpVGJYN2hfRW5PUWJOcUdrd05LQkNZVUoxa2xiS0d5M1p2VndaSVJvSmZyWjY5aG5VcDY0dnFnWVpCbXhWT3hVSzJLcFozQTQ0ajFRcUxPbU9VejdTb0dvNEpRRWlfRW5fNVRB?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-05-18",
-      "summary": "NextEra's $67 billion Dominion takeover creates world's largest utility—just in time to win the AI data center power surge &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$67 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9c5a51df736e75",
-      "title": "$1.6bn data center plan rejected in Cleveland, Ohio",
-      "url": "https://www.datacenterdynamics.com/en/news/16bn-data-center-plan-rejected-in-cleveland-ohio/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Would have spanned 35 acres and offered 150MW of IT capacity",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "150MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0ffdd96bf99b87",
-      "title": "Fisk University looks to build data center in Nashville, Tennessee",
-      "url": "https://www.datacenterdynamics.com/en/news/fisk-university-looks-to-build-data-center-in-nashville-tennessee/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Uni looking for partner on 30MW project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Tennessee"
-      ],
-      "amounts": [
-        "30MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1b6f1e366d3ba9",
-      "title": "NextEra Energy to acquire Dominion Energy, creating world's largest regulated electrical utility",
-      "url": "https://www.datacenterdynamics.com/en/news/nextera-energy-to-acquire-dominion-energy-creating-worlds-largest-regulated-electrical-utility/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Collectively, the firms have more than 130GW of large-load opportunities in their pipeline, most tied to data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "130GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "545bd619cf2f73",
-      "title": "Sharon AI signs $950m cloud deal with unnamed global tech company",
-      "url": "https://www.datacenterdynamics.com/en/news/sharon-ai-signs-950m-cloud-deal-with-unnamed-global-tech-compay/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Will see cloud capacity deployed at multiple NextDC data centers in Australia",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "$950m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "aae4746bc91230",
-      "title": "Sharon AI signs $950m cloud deal with unnamed global tech compay",
-      "url": "https://www.datacenterdynamics.com/en/news/sharon-ai-signs-950m-cloud-deal-with-unnamed-global-tech-compay/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Will see cloud capacity deployed at multiple NextDC data centers in Australia",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "$950m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "223ebfb983ea55",
-      "title": "Hive's Buzz HPC plans 320MW AI data center in Toronto, Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/hives-buzz-hpc-plans-320mw-ai-data-center-in-toronto-canada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Will host more than 100,000 GPUs at full buildout",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "320MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3eccfc247b8000",
-      "title": "Ban on data centers being considered in Andover Township, New Jersey, after town meeting gets violent",
-      "url": "https://www.datacenterdynamics.com/en/news/ban-on-data-centers-being-considered-in-andover-township-new-jersey-after-town-meeting-gets-violent/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Police officers tackled man to ground during the May 7 township committee meeting",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8801b31b08195d",
-      "title": "Digital Realty expands in Spain, launches data center in Barcelona",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-expands-in-spain-launches-data-center-in-barcelona/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-18",
-      "summary": "Facility first announced in 2022",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
