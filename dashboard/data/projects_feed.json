@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-04T16:55:26.539281+00:00",
+  "last_updated": "2026-06-04T20:07:13.973853+00:00",
   "finding_count": 600,
-  "new_project_count": 130,
+  "new_project_count": 131,
   "cancellation_count": 9,
   "sec_filing_count": 1,
-  "high_confidence_count": 185,
+  "high_confidence_count": 186,
   "findings": [
     {
       "id": "f6be0c2453a91c",
@@ -21,6 +21,28 @@
       "locations": [],
       "amounts": [
         "1MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7ac98c9dce6412",
+      "title": "Generalist AI raises $400M at $2B valuation to build general intelligence for robotics",
+      "url": "https://siliconangle.com/2026/06/04/generalist-ai-raises-400m-2b-valuation-build-general-intelligence-real-world/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-04",
+      "summary": "Artificial intelligence startup Generalist AI Inc., a startup building embodied robotics intelligence, said today it has raised $400 million in new funding, bringing the company’s valuation to $2 billion. Radical Ventures led the round. Additional investors included 8VC, Union Square Ventures and Hanabi Capital, with existing supporters Nvidia Corp.&#8217;s NVentures and Bezos Expeditions joining the round as [&#8230;] \n The post  Generalist AI raises $400M at $2B valuation to build general inte",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$400M",
+        "$400 million",
+        "$2 billion",
+        "$2B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -670,23 +692,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "44ba3b4db38687",
-      "title": "With new Majorana 2 quantum chip, Microsoft claims dramatic breakthrough in qubit stability",
-      "url": "https://siliconangle.com/2026/06/02/microsofts-new-majorana-2-quantum-chip-claims-dramatic-breakthrough-qubit-stability/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "Microsoft Corp. today announced an updated chip for quantum computing called Majorana 2 that it says is 1,000 times more reliable in terms of qubit stability. According to the company, it opens the door to a much faster path toward building commercially viable quantum computers. Intriguingly, Microsoft said it developed the new chip with the assistance [&#8230;] \n The post  With new Majorana 2 quantum chip, Microsoft claims dramatic breakthrough in qubit stability  appeared first on  SiliconANGL",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "eeb7909da9ab88",
       "title": "Alphabet investor presentation: June 2026",
       "url": "https://blog.google/alphabet/investor-presentation-june-2026/",
@@ -714,6 +719,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44ba3b4db38687",
+      "title": "With new Majorana 2 quantum chip, Microsoft claims dramatic breakthrough in qubit stability",
+      "url": "https://siliconangle.com/2026/06/02/microsofts-new-majorana-2-quantum-chip-claims-dramatic-breakthrough-qubit-stability/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-03",
+      "summary": "Microsoft Corp. today announced an updated chip for quantum computing called Majorana 2 that it says is 1,000 times more reliable in terms of qubit stability. According to the company, it opens the door to a much faster path toward building commercially viable quantum computers. Intriguingly, Microsoft said it developed the new chip with the assistance [&#8230;] \n The post  With new Majorana 2 quantum chip, Microsoft claims dramatic breakthrough in qubit stability  appeared first on  SiliconANGL",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -792,6 +814,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "3142558e995820",
+      "title": "Gov. Whitmer addresses data centers day after Saline groundbreaking - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVJPZHVTdGVqUDFlRnZRc1BPRGd3aU1zYWtrRkZSeWVBbzJKemtESE56WEE4RWFwN2J3emtQZFlNYnJGSEY3SkkyTWRabXI4VmdhdmZBSy13b2M1dllhYWFHNXhUQW4zR01HLWF2RThDQ2FwellwbzR1aE1LYWQ4aXhEZGdIMHFFSGZYX3hMSDlhb0o4T0hGYTByY3NyTGI4cFJBVmxDd3RZUlBMSDZELUlWSWQyNHk5aWhOZnk2U3dkQUxrZGVyT1ZB?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-03",
+      "summary": "Gov. Whitmer addresses data centers day after Saline groundbreaking &nbsp;&nbsp; Detroit Free Press",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6e88dcd23579d8",
       "title": "Google launches Dreambeans, an AI app that curates daily stories from Google data",
       "url": "https://siliconangle.com/2026/06/03/google-launches-dreambeans-ai-app-curates-daily-stories-google-data/",
@@ -824,8 +861,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "3a7b42fb22f74f",
-      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "id": "64f52d459c266b",
+      "title": "Microsoft, Atom Computing update their quantum computing progress",
       "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
       "source": "Ars Technica",
       "source_cat": "Tech News",
@@ -972,6 +1009,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3a7b42fb22f74f",
+      "title": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+      "url": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-03",
+      "summary": "Some quantum computing companies we've covered have done recent progress updates.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -1762,23 +1816,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "424cc9bfcd315b",
-      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-02",
-      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "d73343e139912f",
       "title": "June Android Drop: New personalization and safety features are here",
       "url": "https://blog.google/products-and-platforms/platforms/android/android-drop-june-2026/",
@@ -1789,6 +1826,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "424cc9bfcd315b",
+      "title": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-02",
+      "summary": "One hardware announcement and several software highlights from Microsoft Build.",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -2023,40 +2077,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ce416574fa50c2",
-      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-02",
-      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "10cdbb89f85d8c",
-      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-02",
-      "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4b56f46a140e25",
       "title": "AI alone won’t change your business. The system running it will.",
       "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
@@ -2118,6 +2138,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ce416574fa50c2",
+      "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-02",
+      "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "10cdbb89f85d8c",
+      "title": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-02",
+      "summary": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -6954,6 +7008,48 @@
       "is_high_confidence": false
     },
     {
+      "id": "4474221f0b0325",
+      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5ceb89fb6338a2",
+      "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Google announces $15 billion investment in Montgomery County data center project &nbsp;&nbsp; kbsi23.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "2652d0be88eab0",
       "title": "News | Google plans $15 billion data center investment in Missouri - CoStar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhKN0NsMHYwRW4xNVJ3RWJUVkc5MXdnMWN1SHNSaHI4elBhZW9OY2pYS1VHaElqel94QXZSX0FKdXA5cWlWM0NicmExOW5XM3pvUGNpMnlkclJkV01pTTlRQnNadjAwVGp3dGtUdHJTTUV6SHpKMHZaSHFYNjEtTnlYbm1jLTBlOTFfR1ZGY3M0MG1MbjFBNlBWbDd5WUdMc1NOdlJacm80cjFUYjAzX0NtSmhabUE?oc=5",
@@ -6989,48 +7085,6 @@
       "locations": [],
       "amounts": [
         "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5ceb89fb6338a2",
-      "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-21",
-      "summary": "Google announces $15 billion investment in Montgomery County data center project &nbsp;&nbsp; kbsi23.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4474221f0b0325",
-      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -8101,6 +8155,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "e7d7e994ce8175",
+      "title": "Google announces $15 billion data center in mid-Missouri - First Alert 4",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjI4QVRqak0yWVNZd2UwNEZLUnBlRXNGYThiajRGRWxEZVBUQlJ4S2lwQVJ6NmFJNmluemxXMmJqbWNCRU1hYzQ2MkRpSnpnTmcxejdDd1FCbzYwb1MwbWhTVTdiZkh0RnczSmlFaU9UbEtrZ1hWWS1aQzdSYklWYVBzVEc2LTJwaUp2RHhMOFZxaGVTLWJn0gGrAUFVX3lxTE5leFVTeC1SblZucFc1akFRMTItYWRBM09nMy04QnhsNm5uLTdWTVRFT3ZEbElOZi0xdG5jbEk1X1E5aENmemFvWGc2ZmlXdFlnRlNESlg4VHd5S183R3RzbGI3RVJUSFJDal83VUw4UDFfODZKNUlfS3p1cDZIWjQxRWk3NnYwYms5Ni1wOGtCb3dkbF8xT3N2RlBJZ2pCOGZSNHVrNmNjLUxFWQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-20",
+      "summary": "Google announces $15 billion data center in mid-Missouri &nbsp;&nbsp; First Alert 4",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "47a3263d7f1888",
       "title": "Google Unveils $15 Billion Missouri Data Center Investment - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUR3cF9FeGRkYXVwOWoxZUJTSU5kcEw5TmlubWlWbE14eFZVcUc5bDNETEdYOFBXRUdnX25XYUhpaFBWdHE5VzVBNno1N2gtTjQzMXNxLU9iUmpucExlNjhtd1dBQS1DcVItZVNOQ1VLTnhjYlYtQUpBbzNMeE9IdW9VSkp3ZExGQzRQSW5hOS1aLVZmME5BV3lFNm3SAaIBQVVfeXFMUDRzTWQxOUctWWNSRk9YUkF0S3lFQ1MzZ3RJRGdsUXBibUprMVotYk0wTGNlUVZuSVE1cEE2emxNblUtV1AxNXZReTh6MUwwZXIwd0FfbFFoVk0tVTF4ZTluN0FuRi1xaS1WQVdJU3RDdGtXYnkxMHRZTE9ZM3ZSQjZZeDBYWFYtRlBvMnNpUVpYM09LaDRRX2NPeTRRSXIzVzJ3?oc=5",
@@ -8138,27 +8213,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e7d7e994ce8175",
-      "title": "Google announces $15 billion data center in mid-Missouri - First Alert 4",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjI4QVRqak0yWVNZd2UwNEZLUnBlRXNGYThiajRGRWxEZVBUQlJ4S2lwQVJ6NmFJNmluemxXMmJqbWNCRU1hYzQ2MkRpSnpnTmcxejdDd1FCbzYwb1MwbWhTVTdiZkh0RnczSmlFaU9UbEtrZ1hWWS1aQzdSYklWYVBzVEc2LTJwaUp2RHhMOFZxaGVTLWJn0gGrAUFVX3lxTE5leFVTeC1SblZucFc1akFRMTItYWRBM09nMy04QnhsNm5uLTdWTVRFT3ZEbElOZi0xdG5jbEk1X1E5aENmemFvWGc2ZmlXdFlnRlNESlg4VHd5S183R3RzbGI3RVJUSFJDal83VUw4UDFfODZKNUlfS3p1cDZIWjQxRWk3NnYwYms5Ni1wOGtCb3dkbF8xT3N2RlBJZ2pCOGZSNHVrNmNjLUxFWQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-20",
-      "summary": "Google announces $15 billion data center in mid-Missouri &nbsp;&nbsp; First Alert 4",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -9787,7 +9841,7 @@
       "id": "e6dc701814ccc0",
       "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmkwMjBZRGZfSVp2clVGYVZDaEdvX09yX09DQXhJZ3BjUFRRTFpTUE5Hc09jODk0ZHJJOThHMFI5d25vUUI3Ym5GcllNTy0xeko4NjU3SURaVG9XWGY3aVNMdG11bzZsSWtZS3h4dTZCZzdtVm5BeW5DdFo1MUpfclRpU1p0TlZtbm1IMEFZRE3SAZYBQVVfeXFMTnNLUVp5ekxNN01XUEZEY0ZTUmp5Y0c3Q0JWWEFfdm1Za1B3WE1uSkZ5OXowNDhUbWpueThhV2NrbW5YUktDUjcxTEZWbldMeUdRRGlLSjZkMENzV3VaSk04WHhsdUMwXzlqUkR5S0o5dVMtTWtVRjMxTjBDQlhCTFdsM2NFVmZNN2d0ZVBtN3RyS1FxZzFn?oc=5",
-      "source": "GNews: Amazon AWS data center",
+      "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-05-19",
       "summary": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips &nbsp;&nbsp; CNBC",
@@ -10509,57 +10563,6 @@
       "summary": "Marks the company's 33rd region globally",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aad1f3efb79bc4",
-      "title": "Blackstone and Google team up for new TPU-based cloud platform",
-      "url": "https://www.datacenterdynamics.com/en/news/blackstone-and-google-team-up-for-new-tpu-based-cloud-platform/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Will enable customers to access TPUs via a different platform from Google Cloud",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c1951e659417b5",
-      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-19",
-      "summary": "Collage of Google Gemini interface tiles, icons, and feature cards showcasing the logo, Gemini Flash, Omni, and Spark.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "713da9708661a5",
-      "title": "New agents, mobile apps and Gemini Omni for Google Flow and Google Flow Music",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-05-19",
-      "summary": "Image with the words: Amplify your vision and unlock your best work.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
