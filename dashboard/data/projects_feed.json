@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-06-04T23:10:21.087287+00:00",
+  "last_updated": "2026-06-05T03:55:40.771865+00:00",
   "finding_count": 600,
-  "new_project_count": 132,
-  "cancellation_count": 9,
+  "new_project_count": 133,
+  "cancellation_count": 10,
   "sec_filing_count": 1,
-  "high_confidence_count": 187,
+  "high_confidence_count": 188,
   "findings": [
+    {
+      "id": "44547d0a2934ac",
+      "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-05",
+      "summary": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project &nbsp;&nbsp; PR Newswire",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4.25 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "f6be0c2453a91c",
       "title": "Is the data center industry ready to change for the coming of the 1MW rack?",
@@ -40,9 +57,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$2.5 billion",
         "$500 million",
-        "$500M",
-        "$2.5 billion"
+        "$500M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -269,6 +286,23 @@
       "locations": [
         "New Mexico"
       ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "15d00c7a6d2b5f",
+      "title": "Anthropic calls for global pause in AI development before humans lose control",
+      "url": "https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-04",
+      "summary": "Anthropic PBC has sounded the alarm on the rapid pace of artificial intelligence development and is calling on the world’s top AI laboratories to consider slamming on the brakes. In a blog post today, the company warned that AI systems are getting close to the point where they may soon be able to improve themselves [&#8230;] \n The post  Anthropic calls for global pause in AI development before humans lose control  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -727,25 +761,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0b3ecd753e1e33",
-      "title": "UK orders Google to provide AI Overviews opt-out option for publishers",
-      "url": "https://siliconangle.com/2026/06/03/uk-orders-google-provide-ai-overviews-opt-option-publishers/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "The U.K.’s antitrust regulator has ordered Google LLC to give publishers more control over how their content appears in search results. The Competition and Markets Authority, or CMA, announced the move today. The order focuses on Google Search’s artificial intelligence features, particularly the AI Overviews panel that often appears above search results. The panel displays an [&#8230;] \n The post  UK orders Google to provide AI Overviews opt-out option for publishers  appeared first on  SiliconA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "eeb7909da9ab88",
       "title": "Alphabet investor presentation: June 2026",
       "url": "https://blog.google/alphabet/investor-presentation-june-2026/",
@@ -775,6 +790,25 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b3ecd753e1e33",
+      "title": "UK orders Google to provide AI Overviews opt-out option for publishers",
+      "url": "https://siliconangle.com/2026/06/03/uk-orders-google-provide-ai-overviews-opt-option-publishers/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-03",
+      "summary": "The U.K.’s antitrust regulator has ordered Google LLC to give publishers more control over how their content appears in search results. The Competition and Markets Authority, or CMA, announced the move today. The order focuses on Google Search’s artificial intelligence features, particularly the AI Overviews panel that often appears above search results. The panel displays an [&#8230;] \n The post  UK orders Google to provide AI Overviews opt-out option for publishers  appeared first on  SiliconA",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "UK"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -877,23 +911,6 @@
       "summary": "Gov. Whitmer addresses data centers day after Saline groundbreaking &nbsp;&nbsp; Detroit Free Press",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6e88dcd23579d8",
-      "title": "Google launches Dreambeans, an AI app that curates daily stories from Google data",
-      "url": "https://siliconangle.com/2026/06/03/google-launches-dreambeans-ai-app-curates-daily-stories-google-data/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "Google LLC today launched Dreambeans, an experimental app from its Google Labs division that uses artificial intelligence to assemble a finite set of personalized daily stories drawn from a user&#8217;s own Google data. The app is pitched as an alternative to the bottomless feed. Rather than serving an endless stream of content, Dreambeans curates a [&#8230;] \n The post  Google launches Dreambeans, an AI app that curates daily stories from Google data  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1046,6 +1063,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6e88dcd23579d8",
+      "title": "Google launches Dreambeans, an AI app that curates daily stories from Google data",
+      "url": "https://siliconangle.com/2026/06/03/google-launches-dreambeans-ai-app-curates-daily-stories-google-data/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-03",
+      "summary": "Google LLC today launched Dreambeans, an experimental app from its Google Labs division that uses artificial intelligence to assemble a finite set of personalized daily stories drawn from a user&#8217;s own Google data. The app is pitched as an alternative to the bottomless feed. Rather than serving an endless stream of content, Dreambeans curates a [&#8230;] \n The post  Google launches Dreambeans, an AI app that curates daily stories from Google data  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1353,13 +1387,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d8593cd04d662f",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEFVT1pEUGs4N2RfS0JNVGlWaEpSbUZxNzdPdFZqeHBuZWxxZVJLNE9OTlFhaldIVnhvbE1KdzNaQVl6QkVqSlVGcnhWVlVhMFdZU0FodUxOcXk2ODdGZUpxLVZ5SjhkY1RHWlU1Mk4tX2hRYlNud3RkM0RMSURFQVZCLVZWRDZQcXZ1bFFzVjR3WlNudUg4Z2dwV2VrZVBiT1ZONmZCekZWRDdzT0k0T3lTN2tVc1U?oc=5",
+      "id": "a33b53cc672f13",
+      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; BeBeez International",
+      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -1391,13 +1425,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a33b53cc672f13",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
+      "id": "d8593cd04d662f",
+      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - BeBeez International",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEFVT1pEUGs4N2RfS0JNVGlWaEpSbUZxNzdPdFZqeHBuZWxxZVJLNE9OTlFhaldIVnhvbE1KdzNaQVl6QkVqSlVGcnhWVlVhMFdZU0FodUxOcXk2ODdGZUpxLVZ5SjhkY1RHWlU1Mk4tX2hRYlNud3RkM0RMSURFQVZCLVZWRDZQcXZ1bFFzVjR3WlNudUg4Z2dwV2VrZVBiT1ZONmZCekZWRDdzT0k0T3lTN2tVc1U?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
+      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; BeBeez International",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -4306,27 +4340,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "dc17069e805d15",
-      "title": "'It's jarring': Google's $40 billion data center investment to transform Texas town - KTXS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWdVc2NkbG5GT2NSNWdsbk9IcERsdXFCd01qeEJhT2kyaVRQT0RiWEJrLVpMOEVsQ1oyWWFLazc2VjNTZ0gyT01RVno2OTdoNm1nVzVNdE02ZU12QkdfRlJwaGdjSHBlVnNQbDF6RjNSTVhDVVBubjVrcmUyeGs1LWh2LTI1a1NoTWQtcFJ1RWZ2dE1yWl80SWViLXZ4R0ZrRHlZSWk1TE4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-28",
-      "summary": "'It's jarring': Google's $40 billion data center investment to transform Texas town &nbsp;&nbsp; KTXS",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$40 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "c6e38f696cf4a9",
       "title": "Amazon planning $7 billion data center near NIPSCO plant - Inside INdiana Business",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXl4RmRSdXg3ckF2cXdrWDAzSHNCWlVSc1NLelExMzJ2NWRmaTZPamY5RmtzS2tNT2tlSnlHOUVyS1ZvRDY0ekNKWlBONFBNd1ZTOTBldWJoSWdiWmo3dk4tNTdmd19oN1p2bGdwcldNLTViRVBDS1ZEc3hpSUZVQXdicXljY3Z3Vll3VDVnQlV3OXMzWU1GbGtsaGZxNzJHTEVwYw?oc=5",
@@ -4971,6 +4984,27 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "dc17069e805d15",
+      "title": "'It's jarring': Google's $40 billion data center investment to transform Texas town - KTXS",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWdVc2NkbG5GT2NSNWdsbk9IcERsdXFCd01qeEJhT2kyaVRQT0RiWEJrLVpMOEVsQ1oyWWFLazc2VjNTZ0gyT01RVno2OTdoNm1nVzVNdE02ZU12QkdfRlJwaGdjSHBlVnNQbDF6RjNSTVhDVVBubjVrcmUyeGs1LWh2LTI1a1NoTWQtcFJ1RWZ2dE1yWl80SWViLXZ4R0ZrRHlZSWk1TE4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-27",
+      "summary": "'It's jarring': Google's $40 billion data center investment to transform Texas town &nbsp;&nbsp; KTXS",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$40 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "54cbeb17b91808",
@@ -7062,70 +7096,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4474221f0b0325",
-      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5ceb89fb6338a2",
-      "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google announces $15 billion investment in Montgomery County data center project &nbsp;&nbsp; kbsi23.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5502816097c11b",
-      "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbVpjZUdEa1R4SnFkakN0by1xQnBBUVpfazZZdWVJU3dyM2JlR0UyOXRMQThJNlRINnpiM2o2RzA0eG1nYUFsMWFTOXB4TnFqNjQ2SlVGZExWMWRTNFZKbWg5Znp0ZlBOZmZzQUVaYVdENGNhSHJMYm84UWpnbTVzdVBlZ1B4V1VVZGtTbGttSDlrWTNxR0ZjRmVubXBkUGxIMmFlREdtLXlfUkt1VFp0dFdlYnBZNXVZWTBGYnh3SUgwZmVyRGNuV1BtVWpPM3VwaWdIV3ltMzYyYXZJaTltVWRPQnNFMzNiQ2tr0gHwAUFVX3lxTE9IYWJzcllOeVNuUlBHQWk2eC0zNGFJajdnSm9XUzVkWUZrZ0x0UzhocXMzTHVqRGdqMWJrZjNCNWVtRE9SYk5oRy1EYm5jVFdFbXFXdG0yemtSRl9FRHZQd1NyRlhGUUVBa2xPWXlfa0tqd0sxQkRNVjAwRHR0dHl4SEhwb3FOV0NMX0lMODN1cHAycFlZRkNCdHhTSFd3UFprOGlIWFpxalgzbFlvNHRvcUdUUkZBWk1GUTNRWFdlRU5Ha1U4cDRYV1BmRGp4b2Vjb182N1RkdkNKNVh1MllJZ2c3MFBtb043ZDhQR3F6Sg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; KOMU 8",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "2652d0be88eab0",
       "title": "News | Google plans $15 billion data center investment in Missouri - CoStar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkhKN0NsMHYwRW4xNVJ3RWJUVkc5MXdnMWN1SHNSaHI4elBhZW9OY2pYS1VHaElqel94QXZSX0FKdXA5cWlWM0NicmExOW5XM3pvUGNpMnlkclJkV01pTTlRQnNadjAwVGp3dGtUdHJTTUV6SHpKMHZaSHFYNjEtTnlYbm1jLTBlOTFfR1ZGY3M0MG1MbjFBNlBWbDd5WUdMc1NOdlJacm80cjFUYjAzX0NtSmhabUE?oc=5",
@@ -7159,6 +7129,70 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5ceb89fb6338a2",
+      "title": "Google announces $15 billion investment in Montgomery County data center project - kbsi23.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW0wbnBMZkltY05MLU9TVl9tTzA4SFFiWjJlUFJCQl9scmRDZ1JvcEp2SDg3dkE3YWpUVk4xX2IzeHRCbjhCX3hLRHNiX25HQ3BmU1hCQWRBaVpLN1VtQ0ZtWG5CV3dwOExwdE05d002SUpVMHF3Y0lGSkJYVW9GZkk5dy0xUUg4SWFzMmYyY1VJWW14LTBtYzhoYWpZYWp1THVqRV9GOU9JVXBD?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-05-21",
+      "summary": "Google announces $15 billion investment in Montgomery County data center project &nbsp;&nbsp; kbsi23.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Montgomery"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4474221f0b0325",
+      "title": "Google announces historic $15 Billion data center to be built in eastern Missouri - Missourinet",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWxSLXIwRTdHSG5sODJ6b1JPQ1d0ZDJNRlNrSm1FSUx5dUVaZ2FKc1pGRVhNdEtMLTR5eDRHSWtmUkRJUXltMUJJWUZISzBQWHlJVWJSX3M3MnRsdlRpc21lR25Yczhod1FKc0pIUnBYTXdtV3Z0TWJqSVJNNDJ0SFoyT3lEMlRLMzJZUWg4RXJuR3dmTDFMWlpfYllXMFF6cUQ5ZG1KWlB1RTZ1d3NjX3B2b3BjYVFCQWwwaQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Google announces historic $15 Billion data center to be built in eastern Missouri &nbsp;&nbsp; Missourinet",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5502816097c11b",
+      "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbVpjZUdEa1R4SnFkakN0by1xQnBBUVpfazZZdWVJU3dyM2JlR0UyOXRMQThJNlRINnpiM2o2RzA0eG1nYUFsMWFTOXB4TnFqNjQ2SlVGZExWMWRTNFZKbWg5Znp0ZlBOZmZzQUVaYVdENGNhSHJMYm84UWpnbTVzdVBlZ1B4V1VVZGtTbGttSDlrWTNxR0ZjRmVubXBkUGxIMmFlREdtLXlfUkt1VFp0dFdlYnBZNXVZWTBGYnh3SUgwZmVyRGNuV1BtVWpPM3VwaWdIV3ltMzYyYXZJaTltVWRPQnNFMzNiQ2tr0gHwAUFVX3lxTE9IYWJzcllOeVNuUlBHQWk2eC0zNGFJajdnSm9XUzVkWUZrZ0x0UzhocXMzTHVqRGdqMWJrZjNCNWVtRE9SYk5oRy1EYm5jVFdFbXFXdG0yemtSRl9FRHZQd1NyRlhGUUVBa2xPWXlfa0tqd0sxQkRNVjAwRHR0dHl4SEhwb3FOV0NMX0lMODN1cHAycFlZRkNCdHhTSFd3UFprOGlIWFpxalgzbFlvNHRvcUdUUkZBWk1GUTNRWFdlRU5Ha1U4cDRYV1BmRGp4b2Vjb182N1RkdkNKNVh1MllJZ2c3MFBtb043ZDhQR3F6Sg?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-05-21",
+      "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; KOMU 8",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
       "amounts": [
         "$15 billion"
       ],
@@ -7536,8 +7570,8 @@
         "Arizona"
       ],
       "amounts": [
-        "240MW",
-        "$3 Billion"
+        "$3 Billion",
+        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -9895,7 +9929,7 @@
       "id": "e6dc701814ccc0",
       "title": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSmkwMjBZRGZfSVp2clVGYVZDaEdvX09yX09DQXhJZ3BjUFRRTFpTUE5Hc09jODk0ZHJJOThHMFI5d25vUUI3Ym5GcllNTy0xeko4NjU3SURaVG9XWGY3aVNMdG11bzZsSWtZS3h4dTZCZzdtVm5BeW5DdFo1MUpfclRpU1p0TlZtbm1IMEFZRE3SAZYBQVVfeXFMTnNLUVp5ekxNN01XUEZEY0ZTUmp5Y0c3Q0JWWEFfdm1Za1B3WE1uSkZ5OXowNDhUbWpueThhV2NrbW5YUktDUjcxTEZWbldMeUdRRGlLSjZkMENzV3VaSk04WHhsdUMwXzlqUkR5S0o5dVMtTWtVRjMxTjBDQlhCTFdsM2NFVmZNN2d0ZVBtN3RyS1FxZzFn?oc=5",
-      "source": "GNews: Google Alphabet data center",
+      "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-05-19",
       "summary": "Blackstone to invest $5 billion in AI infrastructure venture with Google, powered by TPU chips &nbsp;&nbsp; CNBC",
@@ -10539,38 +10573,6 @@
       "locations": [
         "Germany"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5f097b07290f59",
-      "title": "From 20 days to 2: A blueprint for ultra-fast data center layout",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/from-20-days-to-2-a-blueprint-for-ultra-fast-data-center-layout/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "How automation solved the challenge of floor flatness and layout in a single, high-speed workflow.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e9d9282132d224",
-      "title": "Eco Wave Power joins Nvidia's Inception Program to support intergration of AI in its operations",
-      "url": "https://www.datacenterdynamics.com/en/news/eco-wave-power-joins-nvidias-inception-program-to-support-intergration-of-ai-in-its-operations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-19",
-      "summary": "Also advancing discussions on R&amp;D collaborations",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
