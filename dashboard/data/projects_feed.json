@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-06T21:06:25.742241+00:00",
+  "last_updated": "2026-06-06T23:05:24.247468+00:00",
   "finding_count": 600,
   "new_project_count": 133,
-  "cancellation_count": 10,
+  "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 197,
+  "high_confidence_count": 199,
   "findings": [
     {
       "id": "d0870c4bf886e5",
@@ -59,6 +59,55 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c1cf5ae82c20b0",
+      "title": "N.Y. Lawmakers Move to Pause Data Centers and Curb Surveillance Pricing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xdi0zRVdmeXV2Y2NabzFnYzczUkZlSkZPZ3prUzllRjhoSU9WOXpfNVZzNl83NTBoMklzUWtXeWJ3Mm9DSXFVNEh5blQyUl8zUk9hcHI5WUdXXzdKNEl5cnhfVHpIaWpkOTN5cEhYLWxPOWhabkE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-06",
+      "summary": "N.Y. Lawmakers Move to Pause Data Centers and Curb Surveillance Pricing &nbsp;&nbsp; The New York Times",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fca614c6e1e096",
+      "title": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQy0yNlpPSDZ3R2RQRVJjV2NUNm1hczVOaG5JRmZaNjZhWE9vTHNKR0Z2ZC1SVlhVM0xMdmFUUU5USzlJQTBfZ1N0Mm1NcXF0UGFUdU1kNTRYOTdlOXIyQVA4UVVHZWo0NmQ4Y1VNVHo1UFNGNGpuWXJzNEJXSFp2dDBtSE5MVUJm?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-06",
+      "summary": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters &nbsp;&nbsp; The Guardian",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a1548df8f33815",
+      "title": "Moratorium for AI Data Centers now in Hochul’s hands - WIVB News 4",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9GQUdpcUZuQm9YbGk2M09hZTgxTm1YZE1rQnlvaE1WVmpKSWVjbDRUNzI0Z0NEdjhRejRPM0JiOGpBOExwMHdMdlhOdC1EUl8zVGpxbmdQWlpLb1FxNGt1NldmTTdRdmU5ejZjNDZ5RlZ2aXh2WDdzTUlub21Pc2NEdGRCS2pwMlQ0SVU0V194MnM?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-06",
+      "summary": "Moratorium for AI Data Centers now in Hochul’s hands &nbsp;&nbsp; WIVB News 4",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -145,6 +194,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "2de5bb74474f1a",
+      "title": "‘Big Tech is desperate’: Amazon engineers are calling out the tech giant for its $200 billion in data center spending after slashing 30,000 workers - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGhhYkRlM25pM0haZUZrVEV1bUxxelgtR1JEYzRJa3FZTEZJY3UzdEZ6eWZDNEQ3YmEtTXY1QUFRdlk0U2hsS1Juek55MnBNVHlBVFFNMkFDd0JrY2VGRXZGWHdHNEplMWs0dGlYZnJibjVTam12NGpSdDA3Q2dxcUFTODBieEU0bnpqQkVQcE1TNkNleVcwa2g4ZkE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-05",
+      "summary": "‘Big Tech is desperate’: Amazon engineers are calling out the tech giant for its $200 billion in data center spending after slashing 30,000 workers &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$200 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "9602cf7509b469",
       "title": "Google commits to replenish more water than it consumes at its data center sites by 2030",
       "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-replenish-more-water-than-it-consumes-at-its-data-center-sites-by-2030/",
@@ -200,6 +268,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "79ed9b75e447bd",
+      "title": "Texas county rescinds its data center moratorium after $100 million lawsuit from developer - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkhEdm9kb1JRUFFEVkZNUkNtcXF6YWhET2U0dmNnMHlJQ0lKaHdSbnM1b0pOZUZDZ2pCbTYxZW02TWRzdHVoalJSSWhMNUJWZm5IZDNwUXIzY1RYeU0wYXlNcXZNVk8wUTdaYjJCYzE2cVlneENqS3REandlS0JkU0psZ1NSZXkyd0RXRl9ZcW90TUI3LXI4?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-05",
+      "summary": "Texas county rescinds its data center moratorium after $100 million lawsuit from developer &nbsp;&nbsp; The Texas Tribune",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$100 million"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "7818104c7a4b39",
       "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
@@ -233,10 +322,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$15.5 billion",
+        "$15.5B",
         "$465 million",
         "$465M",
-        "$15.5B"
+        "$15.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -435,6 +524,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "6d649f99c97436",
+      "title": "Illinois Gov. JB Pritzker to suspend tax breaks offered to data centers - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcmR4M053Z1RzN0N6V3k2aWZHcVc2b0UyYWpOWG5oSGtvQ2w0TFdYeHN5QW93RDdCQWxsaEpOakZnUVczeVJyVmgxNnU0NVQzc0l5aHRDeE14VVNCUE9zd1lKOW9LbVRsNGN0SU81bVR0QWVLeDFtRWZjMlNRQU95bEE2X0lkNnZaT1VKcGQtMmVSOUxrUk9iOG1EMjNMdjZyT2RyVUxUcXVjWFgwLWQtSjBkSnl5Ujh5VWNzbVV5UQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-05",
+      "summary": "Illinois Gov. JB Pritzker to suspend tax breaks offered to data centers &nbsp;&nbsp; NBC News",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Illinois"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fe0bcc9f8bc50a",
+      "title": "Pritzker hits pause on data center subsidies in Illinois - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPek1KcG4tMFFvMjBzXzdoRDUyTDdEOWdVRm5xd0hnMmg1TlZYTHZ5QU5sZHFRbFBaZEhLblZxTHpHLTZsRFIyS1ljSFBnSkhVWGZxTlZvN3hESkhqUkRUMGhDNlBaRFJVamxyUWxndVQzRUkyWDFYQjRndktFbjJydjRYdkFEaUE?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-05",
+      "summary": "Pritzker hits pause on data center subsidies in Illinois &nbsp;&nbsp; Politico",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Illinois"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "a169a4612fbfbe",
       "title": "Alphabet is seeking fresh capital as stock's 4-week losing streak tests investor appetite - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uUEpZQmxEOGJ2M0c0TlBNZnpfb1lIclQzN2JZNTAzcUZkSFdUbnJ5WldqOGR6YUtiU3U0cWZ6amI1RzRMYU1rbjNxTXRsWE5lWHhYaEIyQU5zTXJzZXktX0FHUFBYU210VGFSNWJoeWM3UnNKNlM3OThn0gF_QVVfeXFMUE1oSnV0eTJiTUZyS1BMUTRDYXJQNGczbUVjVGJXZl84R2Y0Sjk5WS00M29TZ3N1dGdfSk9BM0ZkLWUwVUZxdE1nWjdMcEttak9ENDM2VzJxallFMnNoNHNoQnVydEdBVy1iX25OaWd2U2Zsb2MyNjZsaUlQeUNpTQ?oc=5",
@@ -449,6 +572,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9dd2501224e70e",
+      "title": "Voters just did something no U.S. city has ever done to stop AI data centers - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZUpJcGNOT0ZfN3pLTTZJdXpvQU5uQkFyREVSSkZYUjN6YjZuQmo0MnFuclg5TnhlWEJvdUxpUGg5TEd4SF9SY2RHMU1TSjQtaFpqR3BVSmhIQS1YNGQ3cjQtWF95T3RZcUx6TThtelZUR2pwalRVV183X0FpdnlHRU44WHRpTHFmN3pmZU9FQWdLbDZ2ZzRBMTByem9VX3pSWXd0VnhJMTlRY2lLX3d0WEN3?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-05",
+      "summary": "Voters just did something no U.S. city has ever done to stop AI data centers &nbsp;&nbsp; Fast Company",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -939,9 +1077,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$500 million",
         "$500M",
-        "$2.5 billion"
+        "$2.5 billion",
+        "$500 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -960,10 +1098,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$400M",
         "$2B",
-        "$2 billion",
-        "$400 million"
+        "$400 million",
+        "$400M",
+        "$2 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1175,6 +1313,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6c71254c403415",
+      "title": "AI Data Center Freeze Could Halt NYC Expansion - Patch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUJLdGRQM2llVHZubFpZNHk4aXkzcC1zaS1HQ0w0Q1VjTTVEWm5sbFQ0SDQ3RUNBQ0UyZ1ZITmNCa0ptbnVCaG9fUm54b3NQamdrODFIaGl2RTZZaVpHOTRINUZYaTUxSl90TC1jLVN6RUZQX0t1NkFLUjd3Yk9rWnRNb1dldVQ5eGJETndSRFZxX3hQVkREVmNHSWM0N1XSAaIBQVVfeXFMTm0ta0ptSUFDT05JcHRPM1kzcmg5dDVuZGVadXV0UTJENm44dVFCaDJadHJXMEd3VUttLXpqT21QNVY5YVA5S2xXYURmbndBSGxkNzNUZ3lDek1uSXNEdzh6c3lXX0s4ZF9meWtjUzJHQjd6ZVNySXJEVzhWbFNhWmV2ZHJ3bHVDSVJ4em9IV0U4VVZ6aFFDNGxVeWVUX1lfNG1R?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-04",
+      "summary": "AI Data Center Freeze Could Halt NYC Expansion &nbsp;&nbsp; Patch",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "15d00c7a6d2b5f",
       "title": "Anthropic calls for global pause in AI development before humans lose control",
       "url": "https://siliconangle.com/2026/06/04/anthropic-calls-global-pause-ai-development-humans-lose-control/",
@@ -1206,6 +1359,21 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c23041235bdc02",
+      "title": "They're noisy. They're unpopular. Should data centers be banned? - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVFrek9BVVpPNHZyb0I5Sldwb3VTa0x3Vi1JUVczYkh6QkhzcWNoVXQyWEttLU85TzhuYnJBdjR4LWROSkNkdVFQMEZaTjNkdVRvVXItX0NVZ2Nmd1FjLUhTdWtNOER0LVVZbmhwd3JnbTBFbTltVmdQS1U0b1lXVWdvR1JjOGZUc21fVDdjOVVDMzZXWFl4UmxwOVYxdw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-04",
+      "summary": "They're noisy. They're unpopular. Should data centers be banned? &nbsp;&nbsp; USA Today",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -5317,8 +5485,8 @@
       "id": "bb067824c8d206",
       "title": "Google will invest $15 billion in Montgomery County data center - The Labor Tribune",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcS11SEJvMlBxMDhBbHpBVXdHYzVfU2dvNWhGVDBTVllKUG53Mkp5N2l3OWhNNkZpYUU4bHlqLXdJS1FSYmRBZVJwVC01ZGcycVFuTUp3Mkxtd1pDb2xNdDl1LVNsMnJNQmVrb0xTLTRTMFFrWUxjUlFnbG9hdW0ybl9ORU9SVlNMOFktbVNrLXRmdw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-28",
       "summary": "Google will invest $15 billion in Montgomery County data center &nbsp;&nbsp; The Labor Tribune",
       "finding_type": "New Project",
@@ -5569,13 +5737,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8c24705547e0f6",
-      "title": "Gov. Shapiro announces plan to attract ‘responsible’ data center development - WHYY",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnRBSjk0ci1jRU5tNjYwc1VLOXJYbE9UemdxaU94QU5BdkpyRElOTnBCV1E2NDEwaFNMZGxPMy1SYWJRYmdzdTRralFwaUUxT1c5UDI2aXZhWF9MVlZJcEI4TS0tcll6WXY2QUZ0RjJsblFyb1NVa01mSHZQUzRic1Z4bF9XTlJZa0JWRi0xSVJJOHcx?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "2c8b03a7dbc196",
+      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - U.S. News - Money",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-05-28",
-      "summary": "Gov. Shapiro announces plan to attract ‘responsible’ data center development &nbsp;&nbsp; WHYY",
+      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; U.S. News - Money",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -5584,13 +5752,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2c8b03a7dbc196",
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "id": "8c24705547e0f6",
+      "title": "Gov. Shapiro announces plan to attract ‘responsible’ data center development - WHYY",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnRBSjk0ci1jRU5tNjYwc1VLOXJYbE9UemdxaU94QU5BdkpyRElOTnBCV1E2NDEwaFNMZGxPMy1SYWJRYmdzdTRralFwaUUxT1c5UDI2aXZhWF9MVlZJcEI4TS0tcll6WXY2QUZ0RjJsblFyb1NVa01mSHZQUzRic1Z4bF9XTlJZa0JWRi0xSVJJOHcx?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-28",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; U.S. News - Money",
+      "summary": "Gov. Shapiro announces plan to attract ‘responsible’ data center development &nbsp;&nbsp; WHYY",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7432,8 +7600,8 @@
       "id": "af98c6e1ff90f6",
       "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-24",
       "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
       "finding_type": "New Project",
@@ -8468,27 +8636,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "48c15b13ad30fb",
       "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
@@ -8506,6 +8653,27 @@
       ],
       "amounts": [
         "$15B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cb5531af23c714",
+      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-05-21",
+      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [
+        "$33 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -8545,8 +8713,8 @@
         "Arizona"
       ],
       "amounts": [
-        "240MW",
-        "$3 Billion"
+        "$3 Billion",
+        "240MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10445,176 +10613,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "87fa6f51413e53",
-      "title": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQakVGaFN5czNpM1p3ellFc3NfdGt0VXFQTXE0cFU3bTJQdVBVUUozZGJjX0lCelIxY2ZFUS1RWE05ZnlJRjdqWGFmTlpRVmNkR3l5UkJGc3RoMnRtbG95eE9tZHZaNWlyZ2JKa2RDaEVWaUNmUEJNbl9za2xEWnVFUFlFMm1NTW9ZRktQd1YwZDFHWDM5ZHZVX3NfX0djM1NTRERBbXptRXlERVltX0poVHhfeXpNdFBWYlJjRmZrc2tJbEVvUjNHRzB2SGFxVnI2REN0YmM2YzRHRmlWbnFyWHpQaTRIQW1rb0o4ZE5LZjRiU0FvSWxSdGlWZDEtR0NodFVsLVlpQTZVN0RGSDB6bTVFV3poc0dGU3piT3lkNW04d28?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "613ac9393e3a4e",
-      "title": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQcklMZXZGLUE2VU1oemtUVERQSm42Y0dELWFDYl9IMktPcHpfcWotcE0yanJ6WkJ5THBXM203YXR2NGZLSjloVTVwX3JHdnh6ekZibWc0U2hMdjFSaEowT1I3dDF2T082bDFncjQxR2NoTTh1M3BiM3lHeEhxT1RSVTdLOXY1REcwLU1COVpPQ1ZqdkgyYzR4RlFfN0dRZS1QWlR3R214OTV2bm1ReTE3X2pjSl9ocENkVFY3UG1FWGVfbVFzYmhSR2hkRDdRNHp0Z2lPN01oOTJVQ0lFRmtabklMcHFIbXRJaUJZc0ozNnRpSU9IWXdFb2NDczJ4R3dtREprZ2N6VFluT1VnUXp1UGZzeUhMUlFTaWVYa0xGX3VnR0NM?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8ca7cfac8b4dde",
-      "title": "NVIDIA Reports Its Hyperscaler Revenue For the First Time Ever - 46% of Revenue Comes from Hyperscalers - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPV2VIVEN6cE9KVmZhSEkyVldENVZvZFMtNXRQYVgxb1pKY2lzTWx5cVVSY2ZrSXFUdUxEZWdzNmU4N0pGX2FnSTVvVUliMFZSNUUwT0RqaXVvOG5nTzBDWDJ1QnFoRTZGUTZITzB4QTNvM2VrdHloaFd0c09URkRGZFlRUWdpcFlPa2NLNWRmU2tVY0R0c0ZiNDhJaHdrQWpKd1RoM19TTzdfV2NVMDNWcnV0VDljLXZFb2FDdmJaTWZtWlhBYUp2VDJKdmRQWDllc1E2X0ZaNGVSRW5OVlRlMmdzZzQzOTZ1c0JQMGpyeGhSUlZwM19GZkpvd196TjRjanhRWTNGVWhoTkR0RGRKcDhxQXpGNDlVNjhqU2lidlZsNDNOY2c?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "NVIDIA Reports Its Hyperscaler Revenue For the First Time Ever - 46% of Revenue Comes from Hyperscalers &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2c398b00b0a25d",
-      "title": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPanpueks4UFdBcVhBNlFzUk5YQ3hoRVNvdHNJZHVMaEl4UDQ1U19TMmozWkpteHZ5SzFqeUdLZXI0dDVwbkwyN0I2SlJHbUNHYS1Vay1GSDFLaGlJSnpXNEkwU0doZ01lVUZ4UUwxWUZXcjZFbHBUMTdmb2VqS2R0Uy1ZSHRaX1YzVXZqMEdhVUdGaDNQTEp6ZnVWd1ZMUV9SeVNkUXMtTGRJUDFJeGZKQ3pyLTNPWG9YZ2dxdWpFLUk2WFZWZVRVcXYzcEpxd0t1ci16OURGd250bHdVM3dQQkExMkU0RndkanhEd3pZMlFITEQzb0ZUZHFOemIweFBDOFBqWHJPZw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "13d4712cb5880e",
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-20",
-      "summary": "Google publishes exploit code before patch, reported 42 months earlier, is fixed.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9efaaff9610229",
-      "title": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX21sRkcwOTJSRzJESF9OdFJiOXlMUFcwU0lCdDlPSk8xVDNBc0FybGxNanJ6Q0Z4MVExUTVkYV92TW1YS24xVjhFZ0R1MEJMSXVkRVZlSVMzU3BpZGtpZ0YwTk5ZdWZ3MkgzUW4zWG9JTDdDUzh0dmhvRUVRWGhJeVUzVlZsdWdWSmdndkpnR2hTdHZHM0E1NWJJeldtaHJJeC1HTTVfci16andrNVFNWnhlcHYyUWtpaHliNEdBdUt2b2JsRFNFZ2lmbm1KMXgySGRDMmtubkJEcTJNZW9BbGJhMlotZXFwSDhJZ01hbXNkU29uUUpzcTJrUFB2bWhVN2NhQXZZOTk?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "46d65802f95023",
-      "title": "GitHub confirms breach of 3,800 internal repos after employee installs poisoned VS Code extension",
-      "url": "https://siliconangle.com/2026/05/20/github-confirms-breach-3800-internal-repos-employee-installs-poisoned-vs-code-extension/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-20",
-      "summary": "Hackers exfiltrated roughly 3,800 of GitHub Inc.&#8217;s internal code repositories after one of its employees installed a poisoned Visual Studio Code extension, the Microsoft Corp.-owned developer platform disclosed late Tuesday. The breach was detected Tuesday and traced to a malicious extension that GitHub&#8217;s security team found on the employee&#8217;s device. GitHub said the compromise has [&#8230;] \n The post  GitHub confirms breach of 3,800 internal repos after employee installs poiso",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9a0efbe57958ed",
-      "title": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPc1JCSUR2YkswbkxJMzE4ZHZiZmhQTjluZlloTHBBbHI5aUNqV1FzNXhJTnJYRS05V2tWdDhMX1pfNmR6dEZfMk12NkhTaHhTaFdqOU5YYVU3UWZfYW1qdVJJWGYydWVUVV9nTnFFNF9fZnU5Q256OGNtX1VZNWVmdzAzaXltamdFb3NWTDl5anlzZW56ZXdObHh1ZnlEdTk0bm93NkJkMk5EeEFWUEE2V0FLZ2lmYzFOR1g2Y29SNFdBOTBWVk8yaDRlSEEyWldQbExPSTJiYTZiUS1YQS1OVW1hQ0lvbFRaaTFzLXdDWHJqdV9Bd3djVF9KdjRPTlN1b3V3TWpnUjZzSVh3NTBRbW1ad3B3Y2NmRDZFOUsweGtxc21ocnc?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2dba388a93f4ff",
-      "title": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObVllWW5Gb2pMQ2JtN2lXY2Z6dUhFLWQ2VXlHUHZxUFFacURhM2d5OFhvNkVIellDVmtMdnNrd29XdUUzajV4U296VHBoMXI2SUNERTFzZWVpdUUtM3pXY2JCSUVWeUo5SjBVelhmVzlDMU9QdjVtcGNlU2pqVnY5SVRkQk10VnJKVnZpekJod1l3V0JMbFZIRUdzZWJPOERnbFJVaVdJNGI4Wm9XVEJtb3BYRUptZHNzLWtIdVNSMUJQTjRCYmZEZEZFQTlOSThoVDk4MHpidng5R3h2NGs2T0xlR3Y3SkI1WC1vTDA5NnZIOFdkZFZpcG5fVnhwWEVERkVzUGl0LTU?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1c2839a777165d",
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-20",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
