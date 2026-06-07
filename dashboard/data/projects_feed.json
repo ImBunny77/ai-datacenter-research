@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-06-07T13:55:32.852999+00:00",
+  "last_updated": "2026-06-07T15:25:05.559901+00:00",
   "finding_count": 600,
   "new_project_count": 133,
   "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 201,
+  "high_confidence_count": 202,
   "findings": [
+    {
+      "id": "33b9a0b86a4c0a",
+      "title": "SpaceX Signs $920M-Per-Month Deal to Lease 110,000 Nvidia GPUs to Google Ahead of IPO - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFlpTVN0dFZSc3NFM01rOW1YZ0V4VUk3NUZWbTBSbDl0NGNvc0lQTkhxVXN2aVd3UmZ6VXVjVExfTDg0amtmMnNHRzc4cHJmUnF6RXhFck5wZ1UtSFlnV0U5UFJCSDRPdTBMX2x0Uno1SWdaczVqSjJac1JtakQ2a0Jtb1RNM1d1OXQwOWhDQ210aFpKQWpPOFRVT3diVWJ5c2RaQzdQWQ?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-06-07",
+      "summary": "SpaceX Signs $920M-Per-Month Deal to Lease 110,000 Nvidia GPUs to Google Ahead of IPO &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$920M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "d0870c4bf886e5",
       "title": "AirTrunk to Invest $30 Billion in AI Data Centers in India - ForkLog",
@@ -303,8 +323,8 @@
       "amounts": [
         "$465 million",
         "$15.5 billion",
-        "$465M",
-        "$15.5B"
+        "$15.5B",
+        "$465M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1077,9 +1097,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$500 million",
         "$500M",
-        "$2.5 billion"
+        "$2.5 billion",
+        "$500 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1098,10 +1118,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$2B",
-        "$400M",
         "$400 million",
-        "$2 billion"
+        "$400M",
+        "$2 billion",
+        "$2B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -3771,6 +3791,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "75c556c94461e2",
+      "title": "SoftBank to invest up to €75 billion in French AI data centers - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SaEZZRGFXNkxyNlBmWExHVGMxaWU3c0Y5dmFMdkVibXMyV0tBNlV0NFZBVldfVjFNa0E3QjJZTloyNXRYOGNNZHZwLUZncnlGQk5HSGxNVTVYdTdQeU5CTDNPcEc2aFp2ZEttbHZUNzJfUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-01",
+      "summary": "SoftBank to invest up to €75 billion in French AI data centers &nbsp;&nbsp; qz.com",
+      "finding_type": "New Project",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "71a9ca15735c65",
       "title": "Choose France 2026: SoftBank announces up to €75 billion investment in data centers - africa-news-agency.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDhXXzFidG50d3ppUWRKaWVxT3gxY3VaQWszTWZ2aDc0c1R4bVBLSW5YLUVzSUJ6VVVRS1FKSUpJYzdUZGZuU1NoczJJeS1Bd0phd3hMU05tVGlNSXZFODNPTk1hOEFFeC1wdEJGSmNoSXlhc3UzR1F5dlVDUFd3bkw3cUZPUUppSkhzRTc2eTZlMmlQWXU1WWtBcGJvSmV6bVhwYkxuOFRZQVhkVFBsaWZVWnQ?oc=5",
@@ -3803,26 +3840,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$80 Billion",
-        "$10 Billion"
+        "$10 Billion",
+        "$80 Billion"
       ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "75c556c94461e2",
-      "title": "SoftBank to invest up to €75 billion in French AI data centers - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SaEZZRGFXNkxyNlBmWExHVGMxaWU3c0Y5dmFMdkVibXMyV0tBNlV0NFZBVldfVjFNa0E3QjJZTloyNXRYOGNNZHZwLUZncnlGQk5HSGxNVTVYdTdQeU5CTDNPcEc2aFp2ZEttbHZUNzJfUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "SoftBank to invest up to €75 billion in French AI data centers &nbsp;&nbsp; qz.com",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -4175,7 +4195,7 @@
       "id": "c9f5b6476265f4",
       "title": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? - Bridge Michigan",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXpHRVZJZ3E5RlpZd0MxS0ZST3VtN09ZZzdvRGZIMFZrYXVucVV0S053RG04RzAtWHNVRzdyQnZLeXlseGVzSl9sR2dOTlRGbTAxQWd3b0xYRzRhTGMtaXV4LTRYQ012NHZZckoyY1ZBdDdINjN0LVpiTTNWWk94RWVRRzhKTXhtNzhGNUJaUG9JQkhmMmNVNENXcHg3QVlhRXI5VXJneWNmMERuOVl0aw?oc=5",
-      "source": "GNews: data center announce invest",
+      "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-01",
       "summary": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? &nbsp;&nbsp; Bridge Michigan",
@@ -7634,8 +7654,8 @@
       "id": "af98c6e1ff90f6",
       "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2026-05-24",
       "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
       "finding_type": "New Project",
@@ -10593,23 +10613,6 @@
       "source_cat": "Earnings",
       "date": "2026-05-20",
       "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7039fa1b3dfd18",
-      "title": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMk9jRllMb09BbEJxcW80eWRSdHFtUGppaFF3WDk4NHFwRTMwTmg0OW5WdlR6R2M3dkhvVHVHOHNOTWZUMzBBcFlZcU5NMjlhdm4zOURGMElLX1JnSXJBYzVCOGNyUnRpUHZrZ2dFQVphTlY3cFIwd3U3YzdSdS1zUkFoSGpyX3RWSncxR2Q3b1JJV0hRa0toWVhyTmxnM1pwMWRYSkU4Sk1PY2xGcTVMUWF6VlRLNmNWRW5LRE1TemZIbV9sTHBKWkR3UG1RTlI5LUhYdHA2SjAtZVc1Rk5mck1UVGxKVlNEVThCVW93cWFxMEZOTHcxTmg4ZG00eEItTGFNSWlzcGhpZU5KVExaMkxjOVp6YVFRRko3YXlnMEhVN3dG?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Top 5 Analyst Questions Ahead of Nvidia’s Q1 Earnings &nbsp;&nbsp; 24/7 Wall St.",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
