@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-07T17:17:51.591756+00:00",
+  "last_updated": "2026-06-07T19:24:37.899307+00:00",
   "finding_count": 600,
   "new_project_count": 134,
   "cancellation_count": 14,
   "sec_filing_count": 1,
-  "high_confidence_count": 202,
+  "high_confidence_count": 203,
   "findings": [
     {
       "id": "33b9a0b86a4c0a",
@@ -321,10 +321,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$465 million",
         "$15.5 billion",
         "$465M",
-        "$15.5B"
+        "$15.5B",
+        "$465 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1097,9 +1097,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$500 million",
         "$500M",
-        "$2.5 billion",
-        "$500 million"
+        "$2.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1118,10 +1118,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$400M",
-        "$2 billion",
         "$2B",
-        "$400 million"
+        "$400M",
+        "$400 million",
+        "$2 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1702,6 +1702,28 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "a3c856576a857c",
+      "title": "Digi Power X commits $35M for NVIDIA AI chips and 40MW Alabama campus - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXZ4VmlFd2NZczVrLWJoS1pqZEFQcmI2dXlBaVNVX0ZFd3J3Y3VwcldKWnF0RUtGS25BZ1lQMF9FeXB3OXhNQnplRjJYallzMU1HNGZtX1k0N2dTZ1BOeGpfX01aRGM5NllwTGRvQ1Q4QTE2dHNadUpYWENidkdhbGU5MUxzNFNCajRBM1lMZ3U4MFRRM1c2SFVPaTZTUnlFUGJIZEFLZlRiSUU0eDBwNy1iMFpYeThOaFE?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-06-03",
+      "summary": "Digi Power X commits $35M for NVIDIA AI chips and 40MW Alabama campus &nbsp;&nbsp; Stock Titan",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "40MW",
+        "$35M"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
     },
     {
       "id": "c80af77699ccdf",
@@ -4214,7 +4236,7 @@
       "id": "c9f5b6476265f4",
       "title": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? - Bridge Michigan",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXpHRVZJZ3E5RlpZd0MxS0ZST3VtN09ZZzdvRGZIMFZrYXVucVV0S053RG04RzAtWHNVRzdyQnZLeXlseGVzSl9sR2dOTlRGbTAxQWd3b0xYRzRhTGMtaXV4LTRYQ012NHZZckoyY1ZBdDdINjN0LVpiTTNWWk94RWVRRzhKTXhtNzhGNUJaUG9JQkhmMmNVNENXcHg3QVlhRXI5VXJneWNmMERuOVl0aw?oc=5",
-      "source": "GNews: data center announce invest",
+      "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-01",
       "summary": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? &nbsp;&nbsp; Bridge Michigan",
@@ -6555,23 +6577,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "840e36243dc9cd",
-      "title": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVlHOGY3cFVjbW0xaGN3U0tLeVBaQUNndmFuOXVtcU1zbWZxOV9Sb3ZsT1BBZzM1Y3Y2NUlxV1lMcjRYRkx5WExLa3VxR2NmY2R0STNSal9BQ1NaSTFWbjBUNWpRcjhrMjU2MUZIMXZjSXRhbUZUNU5zcGxuV1JqZEdSNW1OYmFlTnY2RlNNSVcyOHdPX1E?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-27",
-      "summary": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e8c3daf6a943a0",
       "title": "Anthropic Growth and Bedrock Mix Drive AWS Margins Higher While Peers Lag",
       "url": "https://newsletter.semianalysis.com/p/anthropic-growth-and-bedrock-mix",
@@ -6600,6 +6605,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "840e36243dc9cd",
+      "title": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVlHOGY3cFVjbW0xaGN3U0tLeVBaQUNndmFuOXVtcU1zbWZxOV9Sb3ZsT1BBZzM1Y3Y2NUlxV1lMcjRYRkx5WExLa3VxR2NmY2R0STNSal9BQ1NaSTFWbjBUNWpRcjhrMjU2MUZIMXZjSXRhbUZUNU5zcGxuV1JqZEdSNW1OYmFlTnY2RlNNSVcyOHdPX1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-27",
+      "summary": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -6960,23 +6982,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "485ce84dcd14bd",
-      "title": "Ten Cogent data centers in 10 cities set for $225M sale - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXpLVll4Zl9hOEdKU1hXaFRCVURQY2tkM3ExR3ZVQjdGN3BuVjl6ZnZ6bkpINURMVUtMSTd3V3ZlMEVUZWV3T0N4T3BJTFNpVzNzUWJjNG8tcDVUMHJYR1BfS0tRU0Zva0NjaEs2eW5KRXppWHZNOTdtUXFzM3lqdDlQMDhhWVY5S3NVVWRPQkVxSUh1RjV1SzEtenZTUFMtbmRjaTZISnhwOXhzdnAxOGJ5RHFuR2VxUzl0dEVQV0g?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-05-26",
-      "summary": "Ten Cogent data centers in 10 cities set for $225M sale &nbsp;&nbsp; Stock Titan",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$225M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "6e63d906060d6d",
       "title": "Prime Data Centers Breaks Ground on Three Buildings at $3B Metro Phoenix Campus - REBusinessOnline",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVFjaEsta0tWS0JkRWQtVGJoRFVqX3ZzcFo5ajlKOExMVjZyLVdrM091SHQtdFB2czg1SUVWZUtwZEVlMnRYQWM1cmwtdnZ4QWplVXpOdFpJVEFpdVBQTFE0enlLYTFkY05fRkRQeHl4bmZrbkljQi1oS0IwNGx0MmtTYjd6bnd5QWprWkV3ZlVuWDFPYWlQcmpzYzZWR1JPd09NRUNTUm90dnZx?oc=5",
@@ -6991,6 +6996,23 @@
       ],
       "amounts": [
         "$3B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "485ce84dcd14bd",
+      "title": "Ten Cogent data centers in 10 cities set for $225M sale - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWXpLVll4Zl9hOEdKU1hXaFRCVURQY2tkM3ExR3ZVQjdGN3BuVjl6ZnZ6bkpINURMVUtMSTd3V3ZlMEVUZWV3T0N4T3BJTFNpVzNzUWJjNG8tcDVUMHJYR1BfS0tRU0Zva0NjaEs2eW5KRXppWHZNOTdtUXFzM3lqdDlQMDhhWVY5S3NVVWRPQkVxSUh1RjV1SzEtenZTUFMtbmRjaTZISnhwOXhzdnAxOGJ5RHFuR2VxUzl0dEVQV0g?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-05-26",
+      "summary": "Ten Cogent data centers in 10 cities set for $225M sale &nbsp;&nbsp; Stock Titan",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$225M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -9479,6 +9501,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "046680e5be6ef2",
+      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-05-20",
+      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$15 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "47a3263d7f1888",
       "title": "Google Unveils $15 Billion Missouri Data Center Investment - Crude Oil Prices Today | OilPrice.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUR3cF9FeGRkYXVwOWoxZUJTSU5kcEw5TmlubWlWbE14eFZVcUc5bDNETEdYOFBXRUdnX25XYUhpaFBWdHE5VzVBNno1N2gtTjQzMXNxLU9iUmpucExlNjhtd1dBQS1DcVItZVNOQ1VLTnhjYlYtQUpBbzNMeE9IdW9VSkp3ZExGQzRQSW5hOS1aLVZmME5BV3lFNm3SAaIBQVVfeXFMUDRzTWQxOUctWWNSRk9YUkF0S3lFQ1MzZ3RJRGdsUXBibUprMVotYk0wTGNlUVZuSVE1cEE2emxNblUtV1AxNXZReTh6MUwwZXIwd0FfbFFoVk0tVTF4ZTluN0FuRi1xaS1WQVdJU3RDdGtXYnkxMHRZTE9ZM3ZSQjZZeDBYWFYtRlBvMnNpUVpYM09LaDRRX2NPeTRRSXIzVzJ3?oc=5",
@@ -9516,27 +9559,6 @@
       ],
       "amounts": [
         "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "046680e5be6ef2",
-      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQU1XNk96UEJrX3NwN1NtbDBBaklzeEU5MTd6cGxrYTFqRDdIdGRTTkR0X3oxcEtGYnRabkhnZkM0RUVVNDc2NzgteWZYaWJSRi1DSGlRUDJCTU8wSjFvdlc5V190Z1MtQ3V0VEt6R2ZMWGxyT0xTNTRpM1VtOVdjS2RNM1pYbUpDVU5IaTB6S0F5Q1p1QUd4MmtvR081UWp6d2xuWXhHQnhNUmdBaml4bEVKZW5SWlZiY0d4cXVxVGlFcExa?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-20",
-      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10598,23 +10620,6 @@
       "source_cat": "Earnings",
       "date": "2026-05-20",
       "summary": "Nvidia’s Monster Q1 Results Just Raised the Stakes for the Entire AI Trade &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "43d600079d93c4",
-      "title": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNazVzY0pLVmNEcVI0S01jcWNERVpiWnRtY0RPVnMySlRRY0xQMC1OMXBWV2kxR0cxeWFDWTJGODN1a2xuYU5JT1p2SVZ2VGtfTVFLSmVWMjZDVmtHcVl5THRxNGY4SDFQNXdKUkx0UTZlcElFcjFmclEtdmgtZmhNS01EbnR1LWF3Z2dNNnllWGVBNGMwUE1PSUNWcW4wdnpYc1FvN3R6enBUaTZNelRKcmQyZzMwd1RpZXhsQVlVdkFrcXl4bWlnNV9SZzA3Mml4RjZmZE5GTVE4cmNvbTZtT2VsODJFNHVtc082MmZHNnFTSC1zX1lJN0NsZUJ2NzNVandqYWNCTE8?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-20",
-      "summary": "Nvidia’s Guidance Tonight Will Matter More Than Quarterly Results &nbsp;&nbsp; 24/7 Wall St.",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
