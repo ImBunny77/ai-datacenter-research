@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T14:54:06.404419+00:00",
+  "last_updated": "2026-06-09T18:07:15.312425+00:00",
   "finding_count": 600,
-  "new_project_count": 128,
+  "new_project_count": 124,
   "cancellation_count": 13,
   "sec_filing_count": 0,
-  "high_confidence_count": 209,
+  "high_confidence_count": 192,
   "findings": [
     {
       "id": "f41f864b3a2591",
@@ -44,6 +44,43 @@
         "$852 billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "489d31bbdfe816",
+      "title": "Broadcom, Apollo, and Blackstone launch 20GW XPU platform",
+      "url": "https://www.datacenterdynamics.com/en/news/broadcom-apollo-and-blackstone-launch-20gw-xpu-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Initial $35 billion to serve Anthropic, via Fluidstack",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$35 billion",
+        "20GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8b6f4fc64ce9a9",
+      "title": "Applied Digital secures customer for new 210MW data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-secures-customer-for-new-210mw-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Company now working on fifth AI campus, three leased to single unnamed hyperscaler",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "210MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -172,8 +209,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$60 million",
-        "$60M"
+        "$60M",
+        "$60 million"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -198,17 +235,15 @@
       "is_high_confidence": false
     },
     {
-      "id": "5645df6514bcfb",
-      "title": "SK Telecom plots \"gigawatt scale\" AI cloud in South Korea with Nvidia",
-      "url": "https://www.datacenterdynamics.com/en/news/sk-telecom-plots-gigawatt-scale-ai-cloud-in-south-korea-with-nvidia/",
+      "id": "4e961ca0141f6f",
+      "title": "Malaysian township developer unveils new data center-focused investment fund",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysian-township-developer-unveils-new-data-center-focused-investment-fund/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-06-09",
-      "summary": "Will be based on the Nvidia DSX platform",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
+      "summary": "Developer to invest in build-to-suit-to-lease data centers in the pursuit of recurring revenue",
+      "finding_type": "New Project",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -232,6 +267,56 @@
       "is_high_confidence": false
     },
     {
+      "id": "1d54090f6c6380",
+      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
+      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5645df6514bcfb",
+      "title": "SK Telecom plots \"gigawatt scale\" AI cloud in South Korea with Nvidia",
+      "url": "https://www.datacenterdynamics.com/en/news/sk-telecom-plots-gigawatt-scale-ai-cloud-in-south-korea-with-nvidia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Will be based on the Nvidia DSX platform",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "643a575bb048b0",
+      "title": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. - The Allegheny Front",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTRXMmdNQXNzZjA4MlJXQkpDV19ubEJJSEJWd0FGcHV1WGYxdjVjOENaQ0g3ZXBrN0NWUGNoNTFWNHJOWGtzSU9hYzJ1aXM4aW00TGZuWjNaaWs5Nm9vOGJOanRlUENDU1Rjc1F3Y0FKNVdQbHR4MHFJYmFuYmtSZTd1MA?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-09",
+      "summary": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. &nbsp;&nbsp; The Allegheny Front",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "df0048df5e5e65",
       "title": "Soluna Holdings (NASDAQ: SLNH) sets Kati 2 JV terms and advances data center pipeline - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1ZYTXdpaXlPWnFxUVpfd1NiNmxRb0pfWlNYaXVfZFp1aloySnFzUUZUUTlweUVHV3FxT2QwY2Y0SnltM3ZaYTlwdlRJMHBDYVBxVUcxbnMtanROV2lPS3g2eUxHZ2dDdDMtcFZ4WjlGUjhLNXlfVFpSLUVyS0V1bEZPa21QYXRmd3ZsdG01Rml1d1BRTFNSbzRrcnZ6TEcycFRZbUZBaWpzWGgw?oc=5",
@@ -241,6 +326,340 @@
       "summary": "Soluna Holdings (NASDAQ: SLNH) sets Kati 2 JV terms and advances data center pipeline &nbsp;&nbsp; Stock Titan",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13cb951b7823b3",
+      "title": "SpaceX details AI1 satellite 'data center,' claims 150kW peak compute",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-details-ai1-satellite-data-center-claims-150kw-peak-compute/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Shows a draft version of its space array, ahead of Friday IPO",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9aadfeb5561373",
+      "title": "Developer Panattoni seeks to claw back cash from town of Turtle, Wisconsin, for 430-acre data center",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-panattoni-seeks-to-claw-back-cash-from-town-of-turtle-wisconsin-for-430-acre-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Panattoni wants to have its cake and eat it",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Wisconsin"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c43af676ef42f5",
+      "title": "Railway taps Claude to design a data center",
+      "url": "https://www.datacenterdynamics.com/en/news/railway-taps-claude-to-design-a-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Assists with company's \"Gen 2\" sites roll out",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a708309c18c162",
+      "title": "OpenAI's custom chip program lead Clive Chan joins Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/openais-custom-chip-program-lead-clive-chan-joins-anthropic/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Had been working on Broadcom AI chip, expected later this year",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ea361167e8dd79",
+      "title": "DDSP secures financing for Taiwan data center project alongside Keppel",
+      "url": "https://www.datacenterdynamics.com/en/news/ddsp-secures-financing-for-taiwan-data-center-project-alongside-keppel/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Company secures financing from Nomura",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "064d4097103b5d",
+      "title": "Civo and Era4 launch Sovereign AI cloud offering in the UK",
+      "url": "https://www.datacenterdynamics.com/en/news/civo-and-era4-launch-sovereign-ai-cloud-offering-in-the-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Housed in Era4 data centers, using Civo cloud platform",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ed35826af6ce61",
+      "title": "Solidion launches battery platform for LEO-based AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/solidion-launches-battery-platform-for-leo-based-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Claims can operate in extreme temperatures",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "610b0948f64c4f",
+      "title": "Real estate firm Trevian partners with Glesys for a data center in Oulu, Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/real-estate-firm-trevian-partners-with-glesys-for-a-data-center-in-oulu-finland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Companies developing on former Nokia site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fa26c2cb09a2b0",
+      "title": "Ark DC to add new building to Longcross data center campus outside London, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/ark-dc-to-add-new-building-to-longcross-data-center-campus-outside-london-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Nebius expands lease at site as part of UK expansion drive",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f70e70eccbd909",
+      "title": "Connecting the cloud, part II: The network",
+      "url": "https://www.datacenterdynamics.com/en/analysis/connecting-the-cloud-part-ii-the-network/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-09",
+      "summary": "Outside the data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4cd61ba37c1a75",
+      "title": "AWS debuts AWS FinOps Agent to help customers optimize their cloud spending",
+      "url": "https://siliconangle.com/2026/06/09/aws-debuts-aws-finops-agent-help-customers-optimize-cloud-spending/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-09",
+      "summary": "Amazon Web Services Inc. today introduced an artificial intelligence tool designed to help organizations lower their cloud bills. AWS FinOps Agent is initially available in public preview. It’s the latest in a series of AI tools that the Amazon.com Inc. unit has released over the past year to ease cloud administrators&#8217; work.  AWS provides several [&#8230;] \n The post  AWS debuts AWS FinOps Agent to help customers optimize their cloud spending  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0ab8f8025cf398",
+      "title": "Google upgrades NotebookLM to Gemini 3.5, adds more coding features",
+      "url": "https://siliconangle.com/2026/06/08/google-upgrades-notebooklm-gemini-3-5-adds-coding-features/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-09",
+      "summary": "Google LLC today updated its NotebookLM service with a set of online research and coding features designed to save time for users. NotebookLM is part note-taking app, part data analysis tool. Workers can upload a collection of business documents and have the application summarize their contents. Students can use it to collect information for homework [&#8230;] \n The post  Google upgrades NotebookLM to Gemini 3.5, adds more coding features  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d0af3e67a77d74",
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "Meta won't say why or whether it's coming back.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad9991b664d6c5",
+      "title": "Apple says its AI is still private, even when it's running on Google's servers",
+      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4915f54fa7a739",
+      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+      "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1e3283ec74830d",
+      "title": "Get travel-ready with Google Fi Wireless",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Text \"Great travel plans need a great phone plan\" surrounded by photos of people on their phones and wifi symbols",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f342238f9cde78",
+      "title": "Paris Hilton is Android’s first icon in residence",
+      "url": "https://blog.google/products-and-platforms/platforms/android/paris-hilton/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Paris Hilton holding a dog in front of a Google building",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "53e8f3f2f2ec1b",
+      "title": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "341c413ec45b42",
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Google Deep mind startup partner logos",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d09f416190c826",
+      "title": "Better Personalization and Changes to Controls for Your Activity From Other Businesses",
+      "url": "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "We're updating how we use information that other businesses already share with Meta.  \n The post  Better Personalization and Changes to Controls for Your Activity From Other Businesses  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -331,91 +750,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0ab8f8025cf398",
-      "title": "Google upgrades NotebookLM to Gemini 3.5, adds more coding features",
-      "url": "https://siliconangle.com/2026/06/08/google-upgrades-notebooklm-gemini-3-5-adds-coding-features/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-09",
-      "summary": "Google LLC today updated its NotebookLM service with a set of online research and coding features designed to save time for users. NotebookLM is part note-taking app, part data analysis tool. Workers can upload a collection of business documents and have the application summarize their contents. Students can use it to collect information for homework [&#8230;] \n The post  Google upgrades NotebookLM to Gemini 3.5, adds more coding features  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad9991b664d6c5",
-      "title": "Apple says its AI is still private, even when it's running on Google's servers",
-      "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-09",
-      "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4915f54fa7a739",
-      "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
-      "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-09",
-      "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "53e8f3f2f2ec1b",
-      "title": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-09",
-      "summary": "Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "341c413ec45b42",
-      "title": "Powering the future of robotics in Europe",
-      "url": "https://blog.google/topics/google-europe/powering-the-future-of-robotics-in-europe/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-09",
-      "summary": "Google Deep mind startup partner logos",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a689e470e641d6",
       "title": "FOCUS specification eyes AI token economics as AI billing complexity hits a new frontier",
       "url": "https://siliconangle.com/2026/06/08/ai-token-economics-focus-specification-updates-finopsx/",
@@ -428,6 +762,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9cb8bb3ad5a061",
+      "title": "Infrastructure reality check: Broadcom makes the private cloud case for AI",
+      "url": "https://siliconangle.com/2026/06/09/broadcom-production-ai-modernprivatecloud/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-09",
+      "summary": "Production AI is pushing private cloud back into the center of enterprise infrastructure. The shift is not just about where workloads run. It is about cost control, security, governance and the need to bring AI closer to enterprise data. Broadcom Inc.’s VMware Cloud Foundation strategy reflects that reality, as organizations weigh cloud economics against the [&#8230;] \n The post  Infrastructure reality check: Broadcom makes the private cloud case for AI  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -780,6 +1129,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "4b207d8a9da98e",
+      "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-08",
+      "summary": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "c654390c426d86",
       "title": "1,000 jobs coming to Charlotte area and NC in new Corning, Amazon data center deal - Charlotte Observer",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTHdlOTdua2tyVmxnRjNqUGtjcFUwYkJiRmp5dlpDUG0tV0VzQ1pZMnNUTFhwMVYwalAzbzZ2TU9hV250ak9idHpYdVJ2VzgxNVg1YXdoMUNCc0tuQVFqNkV1T2M4aFFmeVd1MnFMS0J1R0t1NkZIRtIBeEFVX3lxTFBNYTJUdTdTQmtqVXB3MnVZVmZkby1HZXBDTTFDTkhiYzZvdVpLeEdzbEFfSTE3NU1jUjRsVXE1dDdLaEQxUzJyTnhTX1oxMjY0SS1mZjB1aFRJTlRUMHJJS1JaaDBIeGZ1WHRvTXM0SnB5RDVxUkhnNw?oc=5",
@@ -805,23 +1171,6 @@
       "date": "2026-06-08",
       "summary": "Amazon and Corning announce multi-billion-dollar deal for fiber supply &nbsp;&nbsp; Fierce Network",
       "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4b207d8a9da98e",
-      "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVXBRUVluS0xHOXVKSEF6M1RZVHVVcWlJb3huc1hCZnZsUVhfeE5oc3NtUzhyQWREeDB6OTlPTnZuMnVYdEVPLWUwV1VHelc0a0h0YVZpbm9HTHZ4ZDR0ZjQxTEJVSjZHcEd2STVQN0rSAXZBVV95cUxNNkU4MlBPZmRVMUtnTTZBMkkyMzFHMGVBQ3Z6VERFTUgtSXU3QndFSlJCUnUyc2VnVl9NdjZ2WTFUTjltazZQZ0I0YzhGenhkVVU4UTBEbnNEbE1MTm1uYnNWVk1KVm53VTl5eFlTSFhfenp2dHpn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-08",
-      "summary": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S. &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
@@ -1056,23 +1405,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d09fa36c9fc3cb",
-      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8bce5b0ee62b6b",
       "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
@@ -1151,6 +1483,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d09fa36c9fc3cb",
+      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-08",
+      "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -1668,6 +2017,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "44547d0a2934ac",
+      "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-05",
+      "summary": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project &nbsp;&nbsp; PR Newswire",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4.25 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "7818104c7a4b39",
       "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
@@ -1705,23 +2071,6 @@
         "$15.5 billion",
         "$465 million",
         "$465M"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "44547d0a2934ac",
-      "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-05",
-      "summary": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project &nbsp;&nbsp; PR Newswire",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4.25 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -4026,25 +4375,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "a2af536b6bf3f5",
-      "title": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2t4SFFBV3FLRXk0bUtBUW1XNk5RVHNPMFEzM0kyeU4xODhydWUtdVJsQjRXQ1N5X3FYWm4yakxEcjVjVFo1U2JNTktiSjhSaXVlVVpzZ01Lek53MTcxVjB4T2ExZFExNGViMENNdEV1TTFpeDVCaUJoSEM5RGhUUnVLeV9yOUZha21MNGVjZW0wbl9QMmVBMTNsdFdYcWlJQkVkTllnUkxWTXdhWXFoSUZXMA?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-02",
-      "summary": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion &nbsp;&nbsp; Investor's Business Daily",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$84.75 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "a33b53cc672f13",
       "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
@@ -4059,6 +4389,25 @@
       ],
       "amounts": [
         "$10 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a2af536b6bf3f5",
+      "title": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2t4SFFBV3FLRXk0bUtBUW1XNk5RVHNPMFEzM0kyeU4xODhydWUtdVJsQjRXQ1N5X3FYWm4yakxEcjVjVFo1U2JNTktiSjhSaXVlVVpzZ01Lek53MTcxVjB4T2ExZFExNGViMENNdEV1TTFpeDVCaUJoSEM5RGhUUnVLeV9yOUZha21MNGVjZW0wbl9QMmVBMTNsdFdYcWlJQkVkTllnUkxWTXdhWXFoSUZXMA?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-06-02",
+      "summary": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion &nbsp;&nbsp; Investor's Business Daily",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$84.75 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -4122,23 +4471,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "bde77e2371d0fa",
-      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$16 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "6dd692aeb885d7",
       "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
@@ -4153,6 +4485,23 @@
       "locations": [],
       "amounts": [
         "$190 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bde77e2371d0fa",
+      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$16 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4347,6 +4696,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "ccc453137100c4",
+      "title": "Brookfield ups French data center investment by €10 billion - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURCN3hsX3hXYXYwVEduT3JEelhRWllqTzJPTG9tWXQ5Yl9aeFhlcDNkenVPQ0FKVFF3SHZlWG5mYTFnaWozODZGRWdkU2J2UzdNUXE1bGY2aWpFbHV1QlgxcTdoOXNkOWNjdktNT1ZZTExnWExnOS1wRXVmeFNxVDMxXzZFMGxwTnJxc1JqWTlYdEhmNTBOak9QMmJrSTIwT3dVNA?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Brookfield ups French data center investment by €10 billion &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "9a7d8209cf65b4",
       "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
@@ -4364,13 +4728,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9ec812e08d6bae",
-      "title": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9IUTB4YlZKc2xxS3NzVzVHZUluVWs4bEVfQ0lhMzdXSk5PMlFwa01ILW9mYVp1V2s3Qk1kT2JBRThkNXhzc0k5dnl2Q2JIbDlCZVE3a09JS0NmZE5HNEhSbF92b3ZKeWprZDM2Z3p3X3BISi1BVlZyTTBfN000bWhBWmxRNC1NdWxnWm1IVFFxNzVfd0FjQlp5eEhLdVdnVTlwSFNnbk1YMUQ1SVhXQ09RTWVnWDdzTWIyQktDQTg1NXRNWGNz?oc=5",
+      "id": "bbc53b468dd318",
+      "title": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder - The Michigan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmhGQVFaSGtNX0RlTGQwMUlYMXFOeGZ6NXA1ckpGaDh0bENIanY0QUgxZjBfckZIenRnWWhrSFptczg0aFJwZ1RJaGVBdHNOcmNLQ2pCUTlFRjl5NUgwa0RBbVhPRVl0RjNJWlpGeDE4VTZ6MFI0SmhHTVlVbUpycTZaaExNMDFOcnBqZUp3QjdNQjhIWkFXMVoxSU5jMTQ4cXYwaktn?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire &nbsp;&nbsp; MLive.com",
+      "summary": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder &nbsp;&nbsp; The Michigan Chronicle",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -4383,28 +4747,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ccc453137100c4",
-      "title": "Brookfield ups French data center investment by €10 billion - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURCN3hsX3hXYXYwVEduT3JEelhRWllqTzJPTG9tWXQ5Yl9aeFhlcDNkenVPQ0FKVFF3SHZlWG5mYTFnaWozODZGRWdkU2J2UzdNUXE1bGY2aWpFbHV1QlgxcTdoOXNkOWNjdktNT1ZZTExnWExnOS1wRXVmeFNxVDMxXzZFMGxwTnJxc1JqWTlYdEhmNTBOak9QMmJrSTIwT3dVNA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "Brookfield ups French data center investment by €10 billion &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bbc53b468dd318",
-      "title": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder - The Michigan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmhGQVFaSGtNX0RlTGQwMUlYMXFOeGZ6NXA1ckpGaDh0bENIanY0QUgxZjBfckZIenRnWWhrSFptczg0aFJwZ1RJaGVBdHNOcmNLQ2pCUTlFRjl5NUgwa0RBbVhPRVl0RjNJWlpGeDE4VTZ6MFI0SmhHTVlVbUpycTZaaExNMDFOcnBqZUp3QjdNQjhIWkFXMVoxSU5jMTQ4cXYwaktn?oc=5",
+      "id": "9ec812e08d6bae",
+      "title": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9IUTB4YlZKc2xxS3NzVzVHZUluVWs4bEVfQ0lhMzdXSk5PMlFwa01ILW9mYVp1V2s3Qk1kT2JBRThkNXhzc0k5dnl2Q2JIbDlCZVE3a09JS0NmZE5HNEhSbF92b3ZKeWprZDM2Z3p3X3BISi1BVlZyTTBfN000bWhBWmxRNC1NdWxnWm1IVFFxNzVfd0FjQlp5eEhLdVdnVTlwSFNnbk1YMUQ1SVhXQ09RTWVnWDdzTWIyQktDQTg1NXRNWGNz?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder &nbsp;&nbsp; The Michigan Chronicle",
+      "summary": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire &nbsp;&nbsp; MLive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -4806,6 +5155,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e812ff1a7cf747",
+      "title": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center - Truthout",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1FleXJ5R3NvQ3l4Q3FhY0RSWjJ1MVU1dWF4SXk3bkpJMERuOHZYcDVCd3gwcVlPb3VJOERTODVHUjNUZlRnSXQ4MFJpTUhBb3oxbExoWmlSa0U2ek1lV1l1R0VCUDlkaFZYd055cjVQY2RBNExsbWg3MEVHZzRteU02Q2kyMFdLWGFzWEZIZDlTYmpxNEt3dnpNazljaEhhZUxNaDdaTQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center &nbsp;&nbsp; Truthout",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a88f37ceba99e7",
       "title": "Controversial Michigan data center breaks ground, and 4 other major stories - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXVQODZnV1NxbWpPWVVxd0FIMWZHbHJlemItVHN2ekVONDlXRFBmVkMzMjNKZVE1bzM2azUzczVKOXQ2Rk0xVExPS05PbWJ3UC1OOVJKc2tVZ0R5c281R2RjcFRWMURVZ1dMMkpIbjJEOEkzUXZOM2lpQXY3VEpsSjZiTHQ5V1hvR3dDWDZRNnk0ZjAwdktyYkUyTkRxS1FBdmFYZThwd0RHV1dEVVk4ZzN1TmfSAcgBQVVfeXFMTVE3YW5ydnMxV1RYYThhSko5X1ZuSDNOTFMySFA2OXR0bUVTX1lSWEtWbGZ5NXRsNzQ0cW4tOHBvX1ZPSk8tNFNCR0RIYWd3QUZyTm9tZUQxM2M0ZHBBLWZ6Z0ZVbm4wVFFMbkJXaTlDS2V5eVh4eHBwU3h2aDhvbkNfaVNYUmhIOUd1dDhXMHlHanZTc3JkWWxkUVhzQ2xfNkoxNkcwMUI3SmpUeEQ0bkZNLWlVVE9tQjlnWGs5NldoaXNWUlk2U0U?oc=5",
@@ -4869,23 +5235,6 @@
         "Meta"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e812ff1a7cf747",
-      "title": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center - Truthout",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1FleXJ5R3NvQ3l4Q3FhY0RSWjJ1MVU1dWF4SXk3bkpJMERuOHZYcDVCd3gwcVlPb3VJOERTODVHUjNUZlRnSXQ4MFJpTUhBb3oxbExoWmlSa0U2ek1lV1l1R0VCUDlkaFZYd055cjVQY2RBNExsbWg3MEVHZzRteU02Q2kyMFdLWGFzWEZIZDlTYmpxNEt3dnpNazljaEhhZUxNaDdaTQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center &nbsp;&nbsp; Truthout",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9180,8 +9529,8 @@
       "id": "af98c6e1ff90f6",
       "title": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjVYXzZXLXhrWkxYT2VkRjU4OHJFbHY2bnM2NDFPU21aUWZvUXVXN3VqWThZbnk4Wlh2RHd5a1Nzcm94a0NJVV9MSXR3Y2pKZzdtblcybnA1X2NzLXgwNWRFMndFR09mVmhobEdGMTQxR2d2eWtpWGNtOHFDSFBubFFvNHozajFiS1N3MG1MLXNWc3lCc0pHZWlDQmZuRnBjT21lYUh2R1NTRHlmYmtyem9qYVZmV0UwR2hZ0gHAAUFVX3lxTFBGRUJtbkRnbEQwSkdWUEQtV0lFcE0xdWF1bTJRTmZJLWhQbmg5S28yUXRBVU9nWURsLWdiUDRabUxGRE5jX3JnYlRJamlaS1k4Q0s3MDdMVHh0czlGWklWMURqT1g2WnRTbkdMOVF0NHgtQ3pfbWdlcVZlLVVwRk9QT0xvVVBTMGM4RW80cnJuYzZicnA1Nm5PX1hBdEdWc2lBVkRxdXFiVW5pWDNRbTdsQmVvOS00QmNUNXBaN1RiNg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-05-24",
       "summary": "Google: $15 Billion Investment Announced For Missouri Data Center Infrastructure In Montgomery County &nbsp;&nbsp; Pulse 2.0",
       "finding_type": "New Project",
@@ -10155,27 +10504,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "5383b761f8e3e5",
-      "title": "Google’s $15 billion data center - Oklahoma Energy Today",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12QWpSb0VEUkl2LUloeDBLSlduOFdCSTNNWC01N2Y4d1BXcG1keU01NVRBcE9qcFlicGptdnBCMGdOWlJRRjRKbzlGTjNpXzNoeGFMRThhWk5iMXVDTFg4VG10LWxUVHF5dzE3T1BQSUlISFk?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-21",
-      "summary": "Google’s $15 billion data center &nbsp;&nbsp; Oklahoma Energy Today",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "5c2bfb6595720d",
       "title": "Google’s $15 Billion Missouri Data Center Signals a New Economic Era for Mid-Missouri - stl.news",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX0RwY2xGUUFNNmhvZWtmbnRwTkF4dVpqZVZkekgzNEpGb182UVZLVmlUY1ZQWFl3eWZOTVJOelROcDhxZExWd09LbzR3TGpfWUE1WHA3X2Z0ZzBQWDVzSTV2VDFWVWRlOElEbG9PQTJYbFlndTh1bWpDa0t2ZGc?oc=5",
@@ -10195,396 +10523,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "5e54cb7abe67c4",
-      "title": "Google announces $15B New Florence AI data center - Let's Data Science",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR0R6YjJPZlo5TF8zMVo5aXM4WWx2aEQ5T0dUdzJDMzNSY09aamhUV1NTUFNxcWNLMS14Qkk4aEYyNWt1X2l2U3d0bVVjUGh5RDNqRXQwZl95VTlRZ1h4UHkwRkJYU3ktV1drX1luZGlIaFR6bjVwckRoOTlmUXRsNHN5Ylp6X3BBTWpvQjB1STNuTjVl?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google announces $15B New Florence AI data center &nbsp;&nbsp; Let's Data Science",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "045792b2c2507a",
-      "title": "Amazon's $35B Virginia Data Center Surge - StartupHub.ai",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX3NyUHhxa2MzN2gzZ053VHAyRUcwZEpjOVZaRzIzUXVHT2dKeGRWTlFfaHJXRVAtN0R3TWtsdFBEOHFBWVhIMjNtT1FBdXRBaGZQQXVicVRUMDRQVzI3QlBHdWdGNVhicnFnTE9pazJhbkxmV3lxM3FvcDBwVEVtLVlaYzZuWDNzTE5KdVNUakJsUTg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's $35B Virginia Data Center Surge &nbsp;&nbsp; StartupHub.ai",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [
-        "$35B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "48c15b13ad30fb",
-      "title": "Google To Build $15B Data Center Next To Amazon Center In Missouri - crn.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlp5TTVxZHFOY1BfU1NrYjBfWi1pajY4Mks2LWJ5Q1ZCbnBsekhHNHhlQVBLMThOc3NKUlRoODhBRW9rYWx4Zm5HUlRSUXlUb0tkMlZiRGloSEpVTEwzeHUxUEZsMTdNdWZaa2MxNExmQkZpaWd5WUdWRk11NDRkY2hTejlmU2ZHdmlON2lGMW45NGtMNE1EaDJCN0V3YW5jTFlkOEk1MGJHQ1E?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google To Build $15B Data Center Next To Amazon Center In Missouri &nbsp;&nbsp; crn.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cb5531af23c714",
-      "title": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 - About Amazon Singapore",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORi1HYVdXZ2JEQ1NwM3hHeENIUlp1UG4yQXkySUdYTTR5WTY5UmxRTTJkZ3h4UEx0aVBYUVNpd1dBVWRNc2NhQVBJOHFaYkZhaEVGZXpYbGNpZ0d0TlJvSDRIVlctQVpQakpPNm1UblZPZkRGbl9Oc1REYzNZUC1zU3Rka3E2dEpReWM2ZkdCUXpoMnVqZU95WEJ4djdTUnNjZ3hRSjZGeVRtbU1xcnhmVF9qU29ZWTNYeTZ2bjMzTGVIZWZxZXlxWlZxQlQ5VVJVTlA2TkpTM05QUUZHYXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Amazon's Planned Investments in Southeast Asia AI and Cloud Infrastructure to Reach Over US$33 billion by 2039 &nbsp;&nbsp; About Amazon Singapore",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [
-        "$33 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "165c0558f77a77",
-      "title": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona - Construction Review",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjMtS3AyaE8wOWhCOVhpSWdGcUJ3ZGZvbWhOS2VKSHpveXpNTVNuVlB5djdtNXg2cWstQTE0c1EtYTVSRi00dGYyNmJxSUxoYjA2UkZ3Q25Nd3V6b2JKVXNnWTItSXd6VjMzN3pPUjZjdlM0VWtPUDMzT01URlZVdEZSZlM4ZUVOVk1mVGVNSjEwaEZPUHRWR045RGoyQ25scUVDNGZWYVBkdw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "$3 Billion, 240MW Data Center Campus Breaks Ground in Avondale, Arizona &nbsp;&nbsp; Construction Review",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Arizona"
-      ],
-      "amounts": [
-        "240MW",
-        "$3 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0522f2ece82ff4",
-      "title": "Anthropic rents Colossus 1 for $1.25 billion/month on an xAI park capped at 11% capacity - ActuIA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSElPVFFaMVlvU2U1TFpNRFQ0WklhZFZXdUxhNS1GYzJOWlZ2a3BuNFZFOGw0bzM1c0wyT01NWTNBLUpoZ05kdGd1aHpxazhGN0ZyTHllMWNyWDVvMTNJTDl0ZDhZX1pZQlU5SUdOQWFkTGlHWFBsXzBnYk1MVGxIdjBFZi1qS1NlYjRrdC1pbFA4cGlYV2o3dkVTcmRyeWdNV0ZzdGk2dnY4WFhZcVhERjlBMzJ3amc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Anthropic rents Colossus 1 for $1.25 billion/month on an xAI park capped at 11% capacity &nbsp;&nbsp; ActuIA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.25 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e800471b9d40ce",
-      "title": "Anthropic rents Colossus 1 for $1.25 billion/month on an xAI park capped at 11% capacity - Actu IA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSElPVFFaMVlvU2U1TFpNRFQ0WklhZFZXdUxhNS1GYzJOWlZ2a3BuNFZFOGw0bzM1c0wyT01NWTNBLUpoZ05kdGd1aHpxazhGN0ZyTHllMWNyWDVvMTNJTDl0ZDhZX1pZQlU5SUdOQWFkTGlHWFBsXzBnYk1MVGxIdjBFZi1qS1NlYjRrdC1pbFA4cGlYV2o3dkVTcmRyeWdNV0ZzdGk2dnY4WFhZcVhERjlBMzJ3amc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Anthropic rents Colossus 1 for $1.25 billion/month on an xAI park capped at 11% capacity &nbsp;&nbsp; Actu IA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.25 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7233bae2f09920",
-      "title": "Alphabet (GOOGL) Stock: Google Drops $15 Billion on Missouri in Massive AI Infrastructure Push - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IM2IyNjg5UmhyNDJMRlhCeUNwdWVYYllWV3ZoSzk5Y3YzMHZXZGs3UzJxOFRlQVVWQWJfM1BUbVN1eW0yeUh0ZldRZV9uVWlQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Alphabet (GOOGL) Stock: Google Drops $15 Billion on Missouri in Massive AI Infrastructure Push &nbsp;&nbsp; MEXC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "738eb0753b86e6",
-      "title": "New Data Center: Gov. Kehoe, Missouri, Celebrate Google Investment As Major Economic Boost - RiverBender.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUkQtU1JHckZyVjRzemVYTkp4TWFLYVhLRDdpMVQ4bkMxakNkd0RWRGlSSV8xNGJyS29FMXJiaXNmOGMtR3puVF9Id24zVVJibFUtTUxfSUVONDhSOHl1M0VHMzh3SmtCM1J0QjFZTXBWV3lfYlNNMzBob1dzd2V2VkF3ZmYwRzlSX0dEazF1MnRNeUg1VW1KZ3J2SUVkZzRkcGYyYS1CR0dRTVQyU1hxQ3ozdWRUVnFMTF9EcEZ3?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "New Data Center: Gov. Kehoe, Missouri, Celebrate Google Investment As Major Economic Boost &nbsp;&nbsp; RiverBender.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "209572024c8f10",
-      "title": "AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure - AMD",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObG93VTdMNW1ObU5XSkxFR2xET2tJVTBVT1FIV3RDUU4zQ3R4Q0RldG8xTnlhN2xZRUlNZG1ENjAtai1pM0g0TGRWSGdhNk0ySEJqTmhLam9VSkhpUGh4bXVMMlBvamtYRjljb3Z5ZVVSNm53UEh0aDV0ZzMyeW0zam9xNkJQT0VEOER6cGg0RnAwZjQ4MTZfSVdPZURiWVphRnVSTXFHbS0xTm5JalZqeA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure &nbsp;&nbsp; AMD",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$10 Billion"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d34c979ac83df4",
-      "title": "Google Deepens Missouri Roots With New Data Center, Energy, and Community Investments - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2w2TEp6YTlpZTJzeE92allacjZCMHh6UnVldXNqb0tNMU5MUG02ay1FLTNDS1VUNzJGYlAySVhxNVgtM3Q0ckYxSldoMjJ4WUZXSFBzdVBOaFp2aHJGX25EemNvV2RLN2lHdmlfRlI5OEFMZWstbjV0VVpOQjFtY0w1QlVqeUM3NFZ4Mjk2WHZxMW5FSUo4MldydTF6RDEyS2c0UlVR?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google Deepens Missouri Roots With New Data Center, Energy, and Community Investments &nbsp;&nbsp; Moomoo",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "26e64f8c518dd1",
-      "title": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus - BriefGlance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2VleGNKZXFhUWk4N1prdUs3dUhDVWc1eUN4VUVsVHJCLTZ5YUhNUXJQbEZDTkZVOFRTM2lyYTUyamlhYzRuNnBpcGR2Q0JSTkNtV1RlY0VZZlBPdGk5eFlMYlZJemw0c2RialFKei1PbkIwaFlDVG41X1Y1ZUJ6MFMzU2FIOXlZMGdmekFWRlZiMG9OSDZSY0YtV3l6OFF2ZEE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Prime Data Centers Breaks Ground on $3B Phoenix AI Powerhouse Campus &nbsp;&nbsp; BriefGlance",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Phoenix"
-      ],
-      "amounts": [
-        "$3B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "abac519232b266",
-      "title": "Google Deepens Missouri Roots with New Data Center, Energy, and Community Investments - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXdoWlQteGItdHNWYXBGTjVZclZZQThZRi1GclZlcEs0Rk02a0YyNkU2TDNHN1hvQ3pUdy1ZMmlTLWVQWEM0bHhpSzFRMFZpRWpTTHVNVTN0UmZieTZfS2xjd2NSelBnZXJOR25OMDk3TExjaXYxNkgwdjdwRlNPUTdiT2c0bW9HS1lxUEF6dmxxb2F6Rmd3ekRuUk44S3Jn?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google Deepens Missouri Roots with New Data Center, Energy, and Community Investments &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9ee5f9e6a8ffff",
-      "title": "Global data center capacity under construction reached 31.7GW in 2025, more than double the year before - report",
-      "url": "https://www.datacenterdynamics.com/en/news/global-data-center-capacity-under-construction-reached-317gw-in-2025-more-than-double-the-year-before-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-21",
-      "summary": "Dallas, Texas, takes the number one spot for the first time in the firm's rankings",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas",
-        "Dallas"
-      ],
-      "amounts": [
-        "31.7GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "270f02f7282044",
-      "title": "Singapore's Sembcorp submits planning application for 280MW data center in Teesside, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/singapores-sembcorp-submits-planning-application-for-280mw-data-center-in-teesside-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-21",
-      "summary": "Application proposes building three data center buildings on 154,553 sqm land parcel",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore",
-        "UK"
-      ],
-      "amounts": [
-        "280MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "138d36ed276650",
-      "title": "Google pledges $15bn investment in New Florence, Missouri",
-      "url": "https://www.datacenterdynamics.com/en/news/google-pledges-15bn-investment-in-new-florence-missouri/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-21",
-      "summary": "Includes data center and energy infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "90ad94dd482fc2",
-      "title": "Fleet breaks ground on data center outside Reno, Nevada",
-      "url": "https://www.datacenterdynamics.com/en/news/fleet-breaks-ground-on-data-center-outside-reno-nevada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-21",
-      "summary": "Tract-owned firm starts work on 230MW development",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Nevada"
-      ],
-      "amounts": [
-        "230MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8e6a47ed022a23",
-      "title": "Nebius to deploy Bloom Energy fuel cells to power its US data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-to-deploy-bloom-energy-fuel-cells-to-power-its-us-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-21",
-      "summary": "First project will see the deployment of up to 328MW of capacity",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "328MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9d9b8b8d1eaf45",
-      "title": "Google promises rural Missouri economic growth with new data center, locals have concerns - WGEM",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXY3RXFWQUd4Ti1xTm9GSmdfWUFpRmh6UVFYdjVXbU9uOC1CN29fZHRTa0lwUVhaSFNCajhkTVlLU3c4V0d5TjB3Mk1VXzlVcTluUUpzN2tEWHg2V0lINnBkRElVTDhuVlltZk55OEJyZXZ6cDM4Vi1EanFxN2FxU05YdjZYd01WbDkxTmZHeGlsWHI2MjVHTHRHbVV1WnNfbml2R0V6eXVMQnVENEREaXl2NW9iWFRQa01vcW930gHSAUFVX3lxTE1qYVpYc1pvZWVmNFdET2dnYjZ6YkhSSFhBMlUyMXhpcFBNUWFoUU1PWloxLWdMMzFhbDZnUWtRWkk4RHN6amp2VzRvSTFkT19MdWNGU3dWbzQ4MVJfN2xXeWdzV0F4SzFDUE80RlByX3hsejliVXUyZG0zazdlbi14UWtTcVhXTUV0T3NQeFYxT3JCWTNpUjQtUkR0ZFdhMlRyQ01sa2xRdktWOGxEVzJKeEhvdEl1UEhIQk5aVnNJdC16RXVTYy1xZzVxRjQxWnFpdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google promises rural Missouri economic growth with new data center, locals have concerns &nbsp;&nbsp; WGEM",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "673dc8e89d11cf",
-      "title": "Google promises rural Missouri economic growth with new data center, locals have concerns - KCRG",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0x0WVdIWXZnZkhvb3RuNWR1VnYxU2hqVXNwOXdUcmUwTVF3OE0xWTVaTjQ5LVVlWGlrbm03TU5rOG5qSEk2OEZzaEN2YWZlUjNNRUVNNnJ2QUgzV0FuSUNMX0NwU0dsRTIyMHNDNC1PdlJEaXA1eTVobjB5MWpkeWdSb3B2ZVI5YncxWHBvT2MzVDhwLW83RGkyMlQ4YzFHU3JBb0hXZzZXSFdVOUlUVEthc2hpbHFtSkp0YWJGdzFvbTRFUVE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Google promises rural Missouri economic growth with new data center, locals have concerns &nbsp;&nbsp; KCRG",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
