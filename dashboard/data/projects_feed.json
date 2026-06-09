@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T21:47:51.301772+00:00",
+  "last_updated": "2026-06-09T23:17:22.285073+00:00",
   "finding_count": 600,
-  "new_project_count": 121,
+  "new_project_count": 119,
   "cancellation_count": 13,
   "sec_filing_count": 0,
-  "high_confidence_count": 188,
+  "high_confidence_count": 186,
   "findings": [
     {
       "id": "f41f864b3a2591",
@@ -60,8 +60,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$35 billion",
-        "20GW"
+        "20GW",
+        "$35 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -209,8 +209,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$60 million",
-        "$60M"
+        "$60M",
+        "$60 million"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -319,31 +319,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3d496c9dc3329a",
-      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-09",
-      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New York",
-        "Washington"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "643a575bb048b0",
-      "title": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. - The Allegheny Front",
+      "id": "1ae8f769a44c58",
+      "title": "Governor Shapiro courted new data centers. Then public opinion shifted. - The Allegheny Front",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTRXMmdNQXNzZjA4MlJXQkpDV19ubEJJSEJWd0FGcHV1WGYxdjVjOENaQ0g3ZXBrN0NWUGNoNTFWNHJOWGtzSU9hYzJ1aXM4aW00TGZuWjNaaWs5Nm9vOGJOanRlUENDU1Rjc1F3Y0FKNVdQbHR4MHFJYmFuYmtSZTd1MA?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-06-09",
-      "summary": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. &nbsp;&nbsp; The Allegheny Front",
+      "summary": "Governor Shapiro courted new data centers. Then public opinion shifted. &nbsp;&nbsp; The Allegheny Front",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -578,6 +560,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "203e748460d648",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "430c1757776289",
       "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
       "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
@@ -727,6 +726,39 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d496c9dc3329a",
+      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-09",
+      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York",
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "643a575bb048b0",
+      "title": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. - The Allegheny Front",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVTRXMmdNQXNzZjA4MlJXQkpDV19ubEJJSEJWd0FGcHV1WGYxdjVjOENaQ0g3ZXBrN0NWUGNoNTFWNHJOWGtzSU9hYzJ1aXM4aW00TGZuWjNaaWs5Nm9vOGJOanRlUENDU1Rjc1F3Y0FKNVdQbHR4MHFJYmFuYmtSZTd1MA?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-09",
+      "summary": "Inside Shapiro’s effort to court tech companies to build data centers in Pa. &nbsp;&nbsp; The Allegheny Front",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -893,8 +925,8 @@
       "locations": [],
       "amounts": [
         "$2.4 billion",
-        "$300 million",
-        "$300M"
+        "$300M",
+        "$300 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1387,23 +1419,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "84139390992208",
-      "title": "Silverfort brings runtime identity controls to Microsoft Copilot Studio agents",
-      "url": "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-08",
-      "summary": "Identity security company Silverfort Inc. today launched an integration that applies its identity and access controls to artificial intelligence agents built into Microsoft Corp.&#8217;s Copilot Studio, enforcing policy at the moment an agent tries to act rather than after the fact. The integration evaluates every access request a Copilot agent makes in real time and [&#8230;] \n The post  Silverfort brings runtime identity controls to Microsoft Copilot Studio agents  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6b3e156d53a626",
       "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
       "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
@@ -1414,40 +1429,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3c77a1d24a743d",
-      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "159fbb9951ddbb",
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1533,6 +1514,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "84139390992208",
+      "title": "Silverfort brings runtime identity controls to Microsoft Copilot Studio agents",
+      "url": "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-08",
+      "summary": "Identity security company Silverfort Inc. today launched an integration that applies its identity and access controls to artificial intelligence agents built into Microsoft Corp.&#8217;s Copilot Studio, enforcing policy at the moment an agent tries to act rather than after the fact. The integration evaluates every access request a Copilot agent makes in real time and [&#8230;] \n The post  Silverfort brings runtime identity controls to Microsoft Copilot Studio agents  appeared first on  SiliconAN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3c77a1d24a743d",
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-08",
+      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "159fbb9951ddbb",
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-08",
+      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -4538,23 +4570,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "bde77e2371d0fa",
-      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$16 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "6dd692aeb885d7",
       "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
@@ -4569,6 +4584,23 @@
       "locations": [],
       "amounts": [
         "$190 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bde77e2371d0fa",
+      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$16 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4778,23 +4810,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9a7d8209cf65b4",
-      "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance &nbsp;&nbsp; WJR-AM",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "bbc53b468dd318",
       "title": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder - The Michigan Chronicle",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmhGQVFaSGtNX0RlTGQwMUlYMXFOeGZ6NXA1ckpGaDh0bENIanY0QUgxZjBfckZIenRnWWhrSFptczg0aFJwZ1RJaGVBdHNOcmNLQ2pCUTlFRjl5NUgwa0RBbVhPRVl0RjNJWlpGeDE4VTZ6MFI0SmhHTVlVbUpycTZaaExNMDFOcnBqZUp3QjdNQjhIWkFXMVoxSU5jMTQ4cXYwaktn?oc=5",
@@ -4809,6 +4824,23 @@
       "locations": [
         "Michigan"
       ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9a7d8209cf65b4",
+      "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance &nbsp;&nbsp; WJR-AM",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -10459,49 +10491,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "664d829eeb17a8",
-      "title": "Google Announces Historic $15 Billion AI Data Center Investment in Missouri - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFBlZElmNmNzTzJ1dzFiS3hQX05FSlF0Z1pOdDJLMHVxdUlxYkNpZnh6NUVTRWxycFFySzU4X0dxRjFVSkhQRDAyZFJVSmIxajBpMmpSY2xRZy1VckV0clNmVWtIYmNvbk15X1F0NVZaVkx3NVNoQXllMXZxelpHWmpIWjNYUVhsVnc5S2xuaUpRblhCUXNzRE0zNk5LYmVZY1VPdUtuWEtIcmxtTlUwZ0Rn0gG_AUFVX3lxTE5oNHV1WGcxUHNEeGozZ2xZVV90dndLYXVsMk85YjVyemZDd3BIZ19HQzE2d2YxUFhtSUZ4bllOSzA3UFF0YXRlZ242eW5lLUZPbTY2dGNrSWU4RGh2SE9tNG50aWVDY1dHRWltYmxxWHBWNThpX1ZONllzOXlQN0QtLVZrd2EyVV9OTTlxNURXdjk3czRNdENMWEt5QnRaNW5GRW03ZzlFVVhkbk5Qay1NOUlrQWNWNFItRm15eHlR?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google Announces Historic $15 Billion AI Data Center Investment in Missouri &nbsp;&nbsp; Analytics Insight",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4d63006795d990",
-      "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - KOMU 8",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSGFic3JZTnlTblJQR0FpNngtMzRhSWo3Z0pvV1M1ZFlGa2dMdFM4aHFzM0x1akRnajFia2YzQjVlbURPUmJOaEctRGJuY1RXRW1xV3RtMnprUkZfRUR2UHdTckZYRlFFQWtsT1l5X2tLandLMUJETVYwMER0dHR5eEhIcG9xTldDTF9JTDgzdXBwMnBZWUZDQnR4U0hXd1BaazhpSFhacWpYM2xZbzR0b3FHVFJGQVpNRlEzUVhXZUVOR2tVOHA0WFdQZkRqeG9lY29fNjdUZHZDSjVYdTJZSWdnNzBQbW9ON2Q4UEdxekrSAfABQVVfeXFMT0hhYnNyWU55U25SUEdBaTZ4LTM0YUlqN2dKb1dTNWRZRmtnTHRTOGhxczNMdWpEZ2oxYmtmM0I1ZW1ET1JiTmhHLURibmNUV0VtcVd0bTJ6a1JGX0VEdlB3U3JGWEZRRUFrbE9ZeV9rS2p3SzFCRE1WMDBEdHR0eXhISHBvcU5XQ0xfSUw4M3VwcDJwWVlGQ0J0eFNIV3dQWms4aUhYWnFqWDNsWW80dG9xR1RSRkFaTUZRM1FYV2VFTkdrVThwNFhXUGZEanhvZWNvXzY3VGR2Q0o1WHUyWUlnZzcwUG1vTjdkOFBHcXpK?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; KOMU 8",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
