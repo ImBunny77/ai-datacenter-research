@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-09T18:07:15.312425+00:00",
+  "last_updated": "2026-06-09T21:47:51.301772+00:00",
   "finding_count": 600,
-  "new_project_count": 124,
+  "new_project_count": 121,
   "cancellation_count": 13,
   "sec_filing_count": 0,
-  "high_confidence_count": 192,
+  "high_confidence_count": 188,
   "findings": [
     {
       "id": "f41f864b3a2591",
@@ -209,8 +209,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$60M",
-        "$60 million"
+        "$60 million",
+        "$60M"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -267,6 +267,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "0881ad53d36946",
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "1d54090f6c6380",
       "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
       "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
@@ -299,6 +316,24 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d496c9dc3329a",
+      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-09",
+      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York",
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -494,6 +529,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "3d81a21916c7fe",
+      "title": "Data center modernization unlocks AI budget headroom as enterprises fund new AI workloads",
+      "url": "https://siliconangle.com/2026/06/09/data-center-modernization-unlocks-ai-budget-headroom-finopsx/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-09",
+      "summary": "As enterprise AI budgets hit their limits earlier each year, the pressure to fund new agentic and inference workloads without expanding total spend is forcing a fundamental rethink of infrastructure and data center modernization. The State of FinOps 2026 Report found that 98% of practitioners now manage AI spend, even as most organizations still overspend [&#8230;] \n The post  Data center modernization unlocks AI budget headroom as enterprises fund new AI workloads  appeared first on  SiliconANG",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4cd61ba37c1a75",
       "title": "AWS debuts AWS FinOps Agent to help customers optimize their cloud spending",
       "url": "https://siliconangle.com/2026/06/09/aws-debuts-aws-finops-agent-help-customers-optimize-cloud-spending/",
@@ -521,6 +571,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "430c1757776289",
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -825,9 +892,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$300M",
+        "$2.4 billion",
         "$300 million",
-        "$2.4 billion"
+        "$300M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1216,23 +1283,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "26d52bf944da4a",
-      "title": "Nvidia partners with South Korea’s SK hynix, Naver and Doosan to expand the country’s AI infrastructure",
-      "url": "https://siliconangle.com/2026/06/07/nvidia-partners-south-koreas-sk-hynix-naver-doosan-expand-countrys-ai-infrastructure/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-08",
-      "summary": "Artificial intelligence chipmaker Nvidia Corp. today announced a slate of new partnerships with some of South Korea’s biggest technology, including the memory chip supplier SK hynix Inc., internet giant Naver Corp. and the multinational conglomerate Doosan Group. The deals came during a high-profile trip by Nvidia Chief Executive Jensen Huang to the country. He arrived [&#8230;] \n The post  Nvidia partners with South Korea&#8217;s SK hynix, Naver and Doosan to expand the country&#8217;s AI infra",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "8347b6c5683237",
       "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
       "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
@@ -1243,6 +1293,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "26d52bf944da4a",
+      "title": "Nvidia partners with South Korea’s SK hynix, Naver and Doosan to expand the country’s AI infrastructure",
+      "url": "https://siliconangle.com/2026/06/07/nvidia-partners-south-koreas-sk-hynix-naver-doosan-expand-countrys-ai-infrastructure/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-08",
+      "summary": "Artificial intelligence chipmaker Nvidia Corp. today announced a slate of new partnerships with some of South Korea’s biggest technology, including the memory chip supplier SK hynix Inc., internet giant Naver Corp. and the multinational conglomerate Doosan Group. The deals came during a high-profile trip by Nvidia Chief Executive Jensen Huang to the country. He arrived [&#8230;] \n The post  Nvidia partners with South Korea&#8217;s SK hynix, Naver and Doosan to expand the country&#8217;s AI infra",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1388,23 +1455,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "990fa6b2c31e34",
-      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
-      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8bce5b0ee62b6b",
       "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
@@ -1483,6 +1533,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "990fa6b2c31e34",
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-08",
+      "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -3118,6 +3185,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6c71254c403415",
+      "title": "AI Data Center Freeze Could Halt NYC Expansion - Patch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUJLdGRQM2llVHZubFpZNHk4aXkzcC1zaS1HQ0w0Q1VjTTVEWm5sbFQ0SDQ3RUNBQ0UyZ1ZITmNCa0ptbnVCaG9fUm54b3NQamdrODFIaGl2RTZZaVpHOTRINUZYaTUxSl90TC1jLVN6RUZQX0t1NkFLUjd3Yk9rWnRNb1dldVQ5eGJETndSRFZxX3hQVkREVmNHSWM0N1XSAaIBQVVfeXFMTm0ta0ptSUFDT05JcHRPM1kzcmg5dDVuZGVadXV0UTJENm44dVFCaDJadHJXMEd3VUttLXpqT21QNVY5YVA5S2xXYURmbndBSGxkNzNUZ3lDek1uSXNEdzh6c3lXX0s4ZF9meWtjUzJHQjd6ZVNySXJEVzhWbFNhWmV2ZHJ3bHVDSVJ4em9IV0U4VVZ6aFFDNGxVeWVUX1lfNG1R?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-04",
+      "summary": "AI Data Center Freeze Could Halt NYC Expansion &nbsp;&nbsp; Patch",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "1fa79351801b28",
       "title": "AI Data Center Freeze Could Halt NYC Expansion - Patch",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUJLdGRQM2llVHZubFpZNHk4aXkzcC1zaS1HQ0w0Q1VjTTVEWm5sbFQ0SDQ3RUNBQ0UyZ1ZITmNCa0ptbnVCaG9fUm54b3NQamdrODFIaGl2RTZZaVpHOTRINUZYaTUxSl90TC1jLVN6RUZQX0t1NkFLUjd3Yk9rWnRNb1dldVQ5eGJETndSRFZxX3hQVkREVmNHSWM0N1U?oc=5",
@@ -3144,21 +3226,6 @@
       "companies": [
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6c71254c403415",
-      "title": "AI Data Center Freeze Could Halt NYC Expansion - Patch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLUJLdGRQM2llVHZubFpZNHk4aXkzcC1zaS1HQ0w0Q1VjTTVEWm5sbFQ0SDQ3RUNBQ0UyZ1ZITmNCa0ptbnVCaG9fUm54b3NQamdrODFIaGl2RTZZaVpHOTRINUZYaTUxSl90TC1jLVN6RUZQX0t1NkFLUjd3Yk9rWnRNb1dldVQ5eGJETndSRFZxX3hQVkREVmNHSWM0N1XSAaIBQVVfeXFMTm0ta0ptSUFDT05JcHRPM1kzcmg5dDVuZGVadXV0UTJENm44dVFCaDJadHJXMEd3VUttLXpqT21QNVY5YVA5S2xXYURmbndBSGxkNzNUZ3lDek1uSXNEdzh6c3lXX0s4ZF9meWtjUzJHQjd6ZVNySXJEVzhWbFNhWmV2ZHJ3bHVDSVJ4em9IV0U4VVZ6aFFDNGxVeWVUX1lfNG1R?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-04",
-      "summary": "AI Data Center Freeze Could Halt NYC Expansion &nbsp;&nbsp; Patch",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -3218,23 +3285,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a1e6800ecbbcfa",
-      "title": "Meet Kameirah, this year’s Doodle for Google winner!",
-      "url": "https://blog.google/company-news/inside-google/doodles/2026-winner/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-04",
-      "summary": "Winning Doodle: 3 girls whose hair make the word \"Google\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1c67bc5d12ec82",
       "title": "Introducing Creator Assistant, Plus More Languages For AI Translations on Facebook",
       "url": "https://about.fb.com/news/2026/06/creator-assistant-more-languages-for-ai-translations-on-facebook/",
@@ -3266,6 +3316,23 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a1e6800ecbbcfa",
+      "title": "Meet Kameirah, this year’s Doodle for Google winner!",
+      "url": "https://blog.google/company-news/inside-google/doodles/2026-winner/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-04",
+      "summary": "Winning Doodle: 3 girls whose hair make the word \"Google\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4471,6 +4538,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "bde77e2371d0fa",
+      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$16 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "6dd692aeb885d7",
       "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
@@ -4485,23 +4569,6 @@
       "locations": [],
       "amounts": [
         "$190 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bde77e2371d0fa",
-      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$16 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10437,91 +10504,6 @@
         "$15 billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8dd2d5c140f15b",
-      "title": "Google Unveils $15 Billion Missouri Data Center Investment - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWRJdGxqT3g3T1d5al9OYlQxakFVVS1yQTNLaENES2ZhMklWVTBJYjRVWnR6X2tjTWpEeE1yYnI0SVNDR2QtYVI0eVJ5SzJCVThXOXc5UTV2enBXa094X0NaeUVrcFZFTU1KQVVCQUhBNlBSS2czb1hROTIyY3RmU0ZUT2VyeVZxdGRMRmJ0Z3hzNWMyblI3M1FTMlBkYU5JOEJrSFBB?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google Unveils $15 Billion Missouri Data Center Investment &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "95eb209dd34394",
-      "title": "Google Announces Historic $15 Billion AI Data Center Investment in Missouri - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDR1dVhnMVBzRHhqM2dsWVVfdHZ3S2F1bDJPOWI1cnpmQ3dwSGdfR0MxNndmMVBYbUlGeG5ZTkswN1BRdGF0ZWduNnluZS1GT202NnRja0llOERodkhPbTRudGllQ2NXR0VpbWJscVhwVjU4aV9WTjZZczl5UDdELS1Wa3dhMlVfTk05cTVEV3Y5N3M0TXRDTFhLeUJ0WjVuRkVtN2c5RVVYZG5OUGstTTlJa0FjVjRSLUZteXh5UdIBvwFBVV95cUxOaDR1dVhnMVBzRHhqM2dsWVVfdHZ3S2F1bDJPOWI1cnpmQ3dwSGdfR0MxNndmMVBYbUlGeG5ZTkswN1BRdGF0ZWduNnluZS1GT202NnRja0llOERodkhPbTRudGllQ2NXR0VpbWJscVhwVjU4aV9WTjZZczl5UDdELS1Wa3dhMlVfTk05cTVEV3Y5N3M0TXRDTFhLeUJ0WjVuRkVtN2c5RVVYZG5OUGstTTlJa0FjVjRSLUZteXh5UQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-05-21",
-      "summary": "Google Announces Historic $15 Billion AI Data Center Investment in Missouri &nbsp;&nbsp; Analytics Insight",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1b12aa8f086683",
-      "title": "Missouri governor and Google announce $15 billion data center in Montgomery County - STLPR",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc25ZWVJZNU1Fd3c5aTQ4aWp4Z3p6SmFBRDBhS1NSenI5OFFSVWdsanJ1cUJ6aHd3LUdwaEIyc0tHMGRyNU9RRHdWelFXaUpVSkNJSndEQW0yN1FWQVZSd2JRZXV0NjBZMVcySFB2eV9SelVMN3ZWYURuTDBlQ3JyZGJiWUtoYS1scFBnNk1scWZ4NVA5cngwT1gwMmowZjVhcmtXYnhhendjZVBBckpUTkdVd0FMc0JsLW1lbkpVTFViOGRyMEZ3SkJZUThVS0k?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-21",
-      "summary": "Missouri governor and Google announce $15 billion data center in Montgomery County &nbsp;&nbsp; STLPR",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri",
-        "Montgomery"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5c2bfb6595720d",
-      "title": "Google’s $15 Billion Missouri Data Center Signals a New Economic Era for Mid-Missouri - stl.news",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX0RwY2xGUUFNNmhvZWtmbnRwTkF4dVpqZVZkekgzNEpGb182UVZLVmlUY1ZQWFl3eWZOTVJOelROcDhxZExWd09LbzR3TGpfWUE1WHA3X2Z0ZzBQWDVzSTV2VDFWVWRlOElEbG9PQTJYbFlndTh1bWpDa0t2ZGc?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-21",
-      "summary": "Google’s $15 Billion Missouri Data Center Signals a New Economic Era for Mid-Missouri &nbsp;&nbsp; stl.news",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     }
   ]
