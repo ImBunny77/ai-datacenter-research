@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-06-11T16:04:47.904667+00:00",
+  "last_updated": "2026-06-11T20:23:42.857155+00:00",
   "finding_count": 600,
   "new_project_count": 96,
   "cancellation_count": 15,
   "sec_filing_count": 1,
-  "high_confidence_count": 178,
+  "high_confidence_count": 179,
   "findings": [
+    {
+      "id": "7bb042bf4ff89d",
+      "title": "KKR, Nvidia, Kuwait Fund Launch $10 Billion AI Venture. Private Capital Pours Into Data Centers. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGJyZjAxNU9NNEh3Z1dDZnRaT1E3ME5VQ0d5OGFYdmdkTTE1VkdMa2JFbGwxRC1aUWx0cWhTTWEtTmxSNFF3VXI5WmZ1cGwxSko3Vzh1c2dCSjNlRE9sdjFHUDVQUURlbjRFR1kyNTBPVGcydldmdDhMalBTWHpzUHhYU0ZkMGJlZzJoM29ydEN1YjVpZDFyV3hxNEQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-11",
+      "summary": "KKR, Nvidia, Kuwait Fund Launch $10 Billion AI Venture. Private Capital Pours Into Data Centers. &nbsp;&nbsp; Barron's",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$10 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "f342a6c4a16890",
       "title": "Microsoft purchases 100 acres next to existing data center campus in Goodyear, Arizona",
@@ -41,8 +60,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$350M",
-        "$350 million"
+        "$350 million",
+        "$350M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -65,6 +84,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "ba1b81bc5b2cec",
+      "title": "DriverAI announces plans to build 80MW ‘quantum AI’ data center in Cluj, Romania",
+      "url": "https://www.datacenterdynamics.com/en/news/driverai-announces-plans-to-build-80mw-quantum-ai-data-center-in-cluj-romania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-11",
+      "summary": "Firm criticized by locally-born software entrepreneur for its seeming lack of qualifications to build facility",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "80MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "64e718189cacaf",
       "title": "Pakistan's Quantum Global Data Center announces data center in Karachi",
       "url": "https://www.datacenterdynamics.com/en/news/pakistans-quantum-global-data-center-announces-data-center-in-karachi/",
@@ -77,6 +113,46 @@
       "locations": [],
       "amounts": [
         "136MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a96bf8f03c4a43",
+      "title": "QumulusAI and the shift from GPU scarcity to GPU efficiency",
+      "url": "https://siliconangle.com/2026/06/11/qumulusai-shift-gpu-scarcity-gpu-efficiency/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-11",
+      "summary": "Neocloud provider QumulusAI announced today that it has secured more than $124 million in customer subscriptions for three-year terms with Hyperbolic and another leading artificial intelligence inference platform. These agreements cover deployments totaling 1,280 Nvidia Corp. Blackwell GPUs, delivered via 160 Lenovo and Supermicro bare-metal servers connected with Cisco Systems Inc. Nexus networking to form [&#8230;] \n The post  QumulusAI and the shift from GPU scarcity to GPU efficiency  appear",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$124 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5eca67e5ad85ec",
+      "title": "PhoenixAI raises $80M to drive the development of agentic AI-ready database technology",
+      "url": "https://siliconangle.com/2026/06/11/phoenixai-raises-80m-drive-development-agentic-ai-ready-database-technology/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-11",
+      "summary": "PhoenixAI Inc., formerly known as CelerData, today announced it has raised $80 million in new funding to fuel the development of the company’s artificial intelligence-native database and expand governance for regulated industries. Sky9 Capital led the Series B round, with participation from Atypical Ventures and Olive Technology Ventures, as well as previous investors. As agentic AI [&#8230;] \n The post  PhoenixAI raises $80M to drive the development of agentic AI-ready database technology  appe",
+      "finding_type": "New Project",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$80 million",
+        "$80M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -150,8 +226,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$445.4m",
-        "$458m"
+        "$458m",
+        "$445.4m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -310,38 +386,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2f18ad8c15cb4c",
-      "title": "Vertiv launches 'Extreme' rack for AI and HPC data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-extreme-rack-for-ai-and-hpc-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-11",
-      "summary": "Vendor takes extreme measures to meet demands of AI servers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1689334971d76c",
-      "title": "Oracle Cloud Infrastructure revenue up 93% as firm's capex keeps climbing",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-cloud-infrastructure-revenue-up-93-as-firms-capex-keeps-climbing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-11",
-      "summary": "Company expects spending of up to $95bn for FY2027",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "292ddbc5b0d7bc",
       "title": "Anthropic’s Dario Amodei wants governments to have the power to block ‘dangerous’ AI systems",
       "url": "https://siliconangle.com/2026/06/10/anthropics-dario-amodei-wants-governments-power-block-dangerous-ai-systems/",
@@ -437,6 +481,38 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2f18ad8c15cb4c",
+      "title": "Vertiv launches 'Extreme' rack for AI and HPC data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/vertiv-launches-extreme-rack-for-ai-and-hpc-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-11",
+      "summary": "Vendor takes extreme measures to meet demands of AI servers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1689334971d76c",
+      "title": "Oracle Cloud Infrastructure revenue up 93% as firm's capex keeps climbing",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-cloud-infrastructure-revenue-up-93-as-firms-capex-keeps-climbing/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-11",
+      "summary": "Company expects spending of up to $95bn for FY2027",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
       ],
       "locations": [],
       "amounts": [],
@@ -1038,13 +1114,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7845970377150d",
-      "title": "Save time and grow your business with new Gemini tools",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
+      "id": "455f93199caaae",
+      "title": "We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-latin-america/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-06-10",
-      "summary": "dashboard with a \"Connecting to Google Business Profile\" notification.",
+      "summary": "Google is rolling out many of Chrome's latest AI features in Latin America, Africa, the Middle East and more.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1055,13 +1131,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "455f93199caaae",
-      "title": "We’re expanding Gemini in Chrome to users in Latin America, Africa, the Middle East and more.",
-      "url": "https://blog.google/products-and-platforms/products/chrome/chrome-expands-latin-america/",
+      "id": "7845970377150d",
+      "title": "Save time and grow your business with new Gemini tools",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-06-10",
-      "summary": "Google is rolling out many of Chrome's latest AI features in Latin America, Africa, the Middle East and more.",
+      "summary": "dashboard with a \"Connecting to Google Business Profile\" notification.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1833,23 +1909,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "203e748460d648",
-      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
-      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-09",
-      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1e3283ec74830d",
       "title": "Get travel-ready with Google Fi Wireless",
       "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
@@ -1886,23 +1945,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "53e8f3f2f2ec1b",
-      "title": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-09",
-      "summary": "Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d09f416190c826",
       "title": "Better Personalization and Changes to Controls for Your Activity From Other Businesses",
       "url": "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/",
@@ -1913,6 +1955,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "203e748460d648",
+      "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+      "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-09",
+      "summary": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "53e8f3f2f2ec1b",
+      "title": "We've teamed up with American Airlines to reduce nearly 300,000 tons of CO2.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/american-airlines-sustainable-aviation-fuel/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Google and American Airlines signed a multi-year sustainable aviation fuel (SAF) agreement.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3715,23 +3791,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "44547d0a2934ac",
-      "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-05",
-      "summary": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project &nbsp;&nbsp; PR Newswire",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4.25 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "7818104c7a4b39",
       "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
@@ -3747,6 +3806,23 @@
       "locations": [],
       "amounts": [
         "$920 million"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "44547d0a2934ac",
+      "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-05",
+      "summary": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project &nbsp;&nbsp; PR Newswire",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4.25 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6073,25 +6149,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "a33b53cc672f13",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "a2af536b6bf3f5",
       "title": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2t4SFFBV3FLRXk0bUtBUW1XNk5RVHNPMFEzM0kyeU4xODhydWUtdVJsQjRXQ1N5X3FYWm4yakxEcjVjVFo1U2JNTktiSjhSaXVlVVpzZ01Lek53MTcxVjB4T2ExZFExNGViMENNdEV1TTFpeDVCaUJoSEM5RGhUUnVLeV9yOUZha21MNGVjZW0wbl9QMmVBMTNsdFdYcWlJQkVkTllnUkxWTXdhWXFoSUZXMA?oc=5",
@@ -6106,6 +6163,25 @@
       "locations": [],
       "amounts": [
         "$84.75 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a33b53cc672f13",
+      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$10 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6169,6 +6245,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "bde77e2371d0fa",
+      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$16 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "6dd692aeb885d7",
       "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
@@ -6183,23 +6276,6 @@
       "locations": [],
       "amounts": [
         "$190 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bde77e2371d0fa",
-      "title": "What Whitmer, Sam Altman said about $16 billion data center near Saline - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGxfTXd2S2thdTJHaEZzYmwyR0RfOERYbjNwSmdBblZTZi1iSXUyRDZMV2JfWXNZV3RIazljdmYxZWJna0FsU3ZGbXBXUlh0ZE1YS0NjSE56WC1VTjRmaDZRSjlJMU16ZTh6TTlhcU5WelY3QnhNQ1ZjMnEwWk9Ub3VsU3pkVnlLMklVR0ZQTXRFd3hkTmx4dHlERE1pME5DakFVMTRlTFRERWpsMk91OFpfLVdacGd0WUgw0gHPAUFVX3lxTE40TkFYRnl0QllHc1ZBY2xYb2NhNWl4MGEtX0pDNUI0dTdaMWpteEdSOFhjSzN3UXRCYWN0cDNBTndHM0xSenVSZG9pcWNGRWRmcDN4eVB2MERrbVlPaFBwdThLcnpNLTFmSE5XbHpteXNCTnUwOXo1OHJXbm1FTG5LY3RvME8tLUNPZldPX2VKZ3ZUYW0xTHJpRWZTc0diUTJ2c200aUZuSU0wR3FsMkdxelZ0QWFWYTAzNHppWVNJZE5tbTF6RWhHM0hHMWdZbw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "What Whitmer, Sam Altman said about $16 billion data center near Saline &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$16 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -6409,18 +6485,20 @@
       "is_high_confidence": false
     },
     {
-      "id": "9a7d8209cf65b4",
-      "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
+      "id": "9ec812e08d6bae",
+      "title": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9IUTB4YlZKc2xxS3NzVzVHZUluVWs4bEVfQ0lhMzdXSk5PMlFwa01ILW9mYVp1V2s3Qk1kT2JBRThkNXhzc0k5dnl2Q2JIbDlCZVE3a09JS0NmZE5HNEhSbF92b3ZKeWprZDM2Z3p3X3BISi1BVlZyTTBfN000bWhBWmxRNC1NdWxnWm1IVFFxNzVfd0FjQlp5eEhLdVdnVTlwSFNnbk1YMUQ1SVhXQ09RTWVnWDdzTWIyQktDQTg1NXRNWGNz?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance &nbsp;&nbsp; WJR-AM",
+      "summary": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire &nbsp;&nbsp; MLive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
       ],
-      "locations": [],
+      "locations": [
+        "Michigan"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -6445,20 +6523,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "9ec812e08d6bae",
-      "title": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9IUTB4YlZKc2xxS3NzVzVHZUluVWs4bEVfQ0lhMzdXSk5PMlFwa01ILW9mYVp1V2s3Qk1kT2JBRThkNXhzc0k5dnl2Q2JIbDlCZVE3a09JS0NmZE5HNEhSbF92b3ZKeWprZDM2Z3p3X3BISi1BVlZyTTBfN000bWhBWmxRNC1NdWxnWm1IVFFxNzVfd0FjQlp5eEhLdVdnVTlwSFNnbk1YMUQ1SVhXQ09RTWVnWDdzTWIyQktDQTg1NXRNWGNz?oc=5",
+      "id": "9a7d8209cf65b4",
+      "title": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance - WJR-AM",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEpIZUVYcUVvWDh0UEg4QnhzbTdkOVNSRzNPclphOVZLWUxxd2xTNlRWWW1Bcm1CekZvUEhCN29LRWpDLWNjUGY4eVRuVDdlRzFRX3VzdVpTR0RTWVVEbi1ubDlxM1hYa2VPQWxRMEZQVVdkZVRVNm44TW5nT05XZG85aWpndEQyWTZWMGl4UVl5NFNPRzRWeFZ5VmF0ZDRwb1Vid2p3T08?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-02",
-      "summary": "Whitmer poses next to OpenAI CEO for Michigan data center groundbreaking – drawing ire &nbsp;&nbsp; MLive.com",
+      "summary": "Saline Data Center Breaks Ground with OpenAI Ceo Sam Altman in Attendance &nbsp;&nbsp; WJR-AM",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
       ],
-      "locations": [
-        "Michigan"
-      ],
+      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -7349,23 +7425,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "75c556c94461e2",
-      "title": "SoftBank to invest up to €75 billion in French AI data centers - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SaEZZRGFXNkxyNlBmWExHVGMxaWU3c0Y5dmFMdkVibXMyV0tBNlV0NFZBVldfVjFNa0E3QjJZTloyNXRYOGNNZHZwLUZncnlGQk5HSGxNVTVYdTdQeU5CTDNPcEc2aFp2ZEttbHZUNzJfUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "SoftBank to invest up to €75 billion in French AI data centers &nbsp;&nbsp; qz.com",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "8c86561a9f8793",
       "title": "Choose France 2026: SoftBank announces up to €75 billion investment in data centers - Africa News Agency",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDhXXzFidG50d3ppUWRKaWVxT3gxY3VaQWszTWZ2aDc0c1R4bVBLSW5YLUVzSUJ6VVVRS1FKSUpJYzdUZGZuU1NoczJJeS1Bd0phd3hMU05tVGlNSXZFODNPTk1hOEFFeC1wdEJGSmNoSXlhc3UzR1F5dlVDUFd3bkw3cUZPUUppSkhzRTc2eTZlMmlQWXU1WWtBcGJvSmV6bVhwYkxuOFRZQVhkVFBsaWZVWnQ?oc=5",
@@ -7380,6 +7439,23 @@
       "locations": [
         "France"
       ],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "75c556c94461e2",
+      "title": "SoftBank to invest up to €75 billion in French AI data centers - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SaEZZRGFXNkxyNlBmWExHVGMxaWU3c0Y5dmFMdkVibXMyV0tBNlV0NFZBVldfVjFNa0E3QjJZTloyNXRYOGNNZHZwLUZncnlGQk5HSGxNVTVYdTdQeU5CTDNPcEc2aFp2ZEttbHZUNzJfUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-01",
+      "summary": "SoftBank to invest up to €75 billion in French AI data centers &nbsp;&nbsp; qz.com",
+      "finding_type": "New Project",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
@@ -10094,6 +10170,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "840e36243dc9cd",
+      "title": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVlHOGY3cFVjbW0xaGN3U0tLeVBaQUNndmFuOXVtcU1zbWZxOV9Sb3ZsT1BBZzM1Y3Y2NUlxV1lMcjRYRkx5WExLa3VxR2NmY2R0STNSal9BQ1NaSTFWbjBUNWpRcjhrMjU2MUZIMXZjSXRhbUZUNU5zcGxuV1JqZEdSNW1OYmFlTnY2RlNNSVcyOHdPX1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-05-27",
+      "summary": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e8c3daf6a943a0",
       "title": "Anthropic Growth and Bedrock Mix Drive AWS Margins Higher While Peers Lag",
       "url": "https://newsletter.semianalysis.com/p/anthropic-growth-and-bedrock-mix",
@@ -10122,23 +10215,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "840e36243dc9cd",
-      "title": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVlHOGY3cFVjbW0xaGN3U0tLeVBaQUNndmFuOXVtcU1zbWZxOV9Sb3ZsT1BBZzM1Y3Y2NUlxV1lMcjRYRkx5WExLa3VxR2NmY2R0STNSal9BQ1NaSTFWbjBUNWpRcjhrMjU2MUZIMXZjSXRhbUZUNU5zcGxuV1JqZEdSNW1OYmFlTnY2RlNNSVcyOHdPX1E?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-05-27",
-      "summary": "Five giant hyperscalers—and Nvidia—share a surprising trait: female CFOs &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -10387,78 +10463,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "eff475e3a6b8ed",
-      "title": "FuriosaAI partners with Broadcom for development of AI inference chips",
-      "url": "https://www.datacenterdynamics.com/en/news/furiosaai-partners-with-broadcom-for-development-of-ai-inference-chips/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "South Korean startup’s third-generation accelerators will have a multi-die system architecture",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "598456b485b333",
-      "title": "Construction on $1 billion data center for Meta in Beaver Dam, Wis. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUktMmlUSTdManltTWFMcmJkRUFzeEV1cVVVNEtzN1hXRkVRQ2VOMkZ0SDZ2cFZPWUVyajQ0dDlILVRUN0w3ZDNtTTBEc3kzeTQ4a00yMUdSOHF0cVlMME5rMFNWZExURElFRUpTeGJ5RGNveUlzNl9vNVpQQkp3R0I1WHMzVTAtTk5JbUVfeG9XWXJHeHJTN3pNOVh2ckJkLWtZNHBn?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-05-26",
-      "summary": "Construction on $1 billion data center for Meta in Beaver Dam, Wis. &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "98bd824971457a",
-      "title": "Louisiana announces $3.6 billion AI data center campus planned for Rapides Parish - Louisiana Illuminator",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-26",
-      "summary": "Louisiana announces $3.6 billion AI data center campus planned for Rapides Parish &nbsp;&nbsp; Louisiana Illuminator",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$3.6 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "99eac05368a292",
-      "title": "$3.6 billion AI data center campus planned for Rapides Parish - Louisiana Illuminator",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdUc3YmdBQzIxeTJtMVBjUHhoZHU4NWtCWHpJVHpiOU5fN21xaHJxZ0J1M0k2WEVtNVJQeGk5U09oRFRyQk8xV0lMNExSZElaZmZLVVlQU3MxODZQTnBRRk5INA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-05-26",
-      "summary": "$3.6 billion AI data center campus planned for Rapides Parish &nbsp;&nbsp; Louisiana Illuminator",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$3.6 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
