@@ -1,11 +1,31 @@
 {
-  "last_updated": "2026-06-12T15:17:29.197441+00:00",
+  "last_updated": "2026-06-12T18:07:58.783507+00:00",
   "finding_count": 600,
-  "new_project_count": 95,
+  "new_project_count": 93,
   "cancellation_count": 16,
   "sec_filing_count": 2,
-  "high_confidence_count": 183,
+  "high_confidence_count": 176,
   "findings": [
+    {
+      "id": "8220b366e6f88a",
+      "title": "SpaceX’s record IPO, Bezos’ Prometheus rising and Anthropic’s controversial call for AI limits",
+      "url": "https://siliconangle.com/2026/06/12/spacexs-record-ipo-bezos-prometheus-rising-anthropics-controversial-call-ai-limits/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-12",
+      "summary": "Blastoff! Elon Musk&#8217;s SpaceX went public Thursday evening and raised a stunning $75 billion, easily an all-time record. Investors bid the stock up 20% over the $135 asking price Friday morning, giving the company a valuation of almost $2 trillion. It&#8217;s likely to bode well for other AI-related offerings to come this year or next. The [&#8230;] \n The post  SpaceX&#8217;s record IPO, Bezos&#8217; Prometheus rising and Anthropic&#8217;s controversial call for AI limits  appeared first on",
+      "finding_type": "New Project",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2 trillion",
+        "$75 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "7111d93bdbdc68",
       "title": "Microsoft breaks ground on Alviso data center campus in San Jose, California",
@@ -28,24 +48,54 @@
       "is_high_confidence": true
     },
     {
-      "id": "8220b366e6f88a",
-      "title": "SpaceX’s record IPO, Bezos’ Prometheus rising and Anthropic’s controversial call for AI limits",
-      "url": "https://siliconangle.com/2026/06/12/spacexs-record-ipo-bezos-prometheus-rising-anthropics-controversial-call-ai-limits/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "25068438234b02",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-06-12",
-      "summary": "Blastoff! Elon Musk&#8217;s SpaceX went public Thursday evening and raised a stunning $75 billion, easily an all-time record. The IPO is just the first of the triumvirate of AI leaders &#8212; yes, SpaceX owns xAI, surely a large part of SpaceX&#8217;s valuation. OpenAI filed confidentially for its IPO as it promised its &#8220;superapp&#8221; is coming, following [&#8230;] \n The post  SpaceX&#8217;s record IPO, Bezos&#8217; Prometheus rising and Anthropic&#8217;s controversial call for AI limit",
+      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
       "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "OpenAI",
-        "Anthropic"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [
-        "$75 billion"
+        "$130 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "274e3d47241558",
+      "title": "Private equity firm acquires Croatia’s ‘Fort-Knox’ data center",
+      "url": "https://www.datacenterdynamics.com/en/news/private-equity-firm-acquires-croatias-fort-knox-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "The 4MW facility is located at the intersection of three redundant optical crossroads",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "4MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a39e873c090d5f",
+      "title": "Jinko Power plots 1GW solar powered AI data center in western China - report",
+      "url": "https://www.datacenterdynamics.com/en/news/jinko-power-plots-1gw-solar-powered-ai-data-center-in-western-china-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "Data in the desert",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -87,6 +137,40 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "5c762cf9bcb931",
+      "title": "Amazon data centers used 2.5bn gallons of water in 2025",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-data-centers-used-25bn-gallons-of-water-in-2025/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "AWS shares the small number, as anti-data center protests focus on water usage",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad0693ddc50662",
+      "title": "QumulusAI secures $124m in AI infrastructure agreements",
+      "url": "https://www.datacenterdynamics.com/en/news/qumulusai-secures-124m-in-ai-infrastructure-agreements/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "Hyperbolic and unnamed AI inference platform sign three year commitments",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$124m"
+      ],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "db4373b59c08a5",
@@ -137,6 +221,38 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2dd523e549a964",
+      "title": "Sentinel DC backs off paper mill data center project in Maine",
+      "url": "https://www.datacenterdynamics.com/en/news/sentinel-dc-backs-off-paper-mill-data-center-project-in-maine/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "Company drops plans, even after state-wide moratorium was vetoed by the governor",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e61a6d63ed0ec1",
+      "title": "SpaceX IPO: Musk's firm set to launch first 'orbital data center' AI1 satellites in 2027, will put compute on Starlink craft",
+      "url": "https://www.datacenterdynamics.com/en/news/spacex-ipo-musks-firm-set-to-launch-first-orbital-data-center-ai1-satellites-in-2027-will-put-compute-on-starlink-craft/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-12",
+      "summary": "World's most valuable rocket company is now an infrastructure business, COO says",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -259,6 +375,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "e1c1eeb762432e",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-12",
+      "summary": "Even moderately sized data centers can have an outsized local impact.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b9c427562bab7",
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-12",
+      "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eebc82ff3d9f1a",
+      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
+      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-12",
+      "summary": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology. \n The post  The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "7fb6a9a1ab4592",
       "title": "Microsoft to purchase 36,920 tons of carbon removal credits from ERW firm Alt Carbon in Darjeeling, India",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-purchase-36920-tons-of-carbon-removal-credits-from-erw-firm-alt-carbon-in-darjeeling-india/",
@@ -327,20 +492,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "eebc82ff3d9f1a",
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
-      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
+      "id": "e3c17f98e3fd66",
+      "title": "GMI Cloud and Magna AI partner on global network of \"sovereign AI factories\"",
+      "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-and-magna-ai-partner-on-global-network-of-sovereign-ai-factories/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-06-12",
-      "summary": "We're donating Ray-Ban Meta glasses to every blind veteran in America, giving them transformative AI technology. \n The post  The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America  appeared first on  Meta Newsroom .",
+      "summary": "While Singtel and WEKA partner for sovereign AI infrastructure across ASEAN",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -372,8 +535,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$10 billion",
-        "$10B"
+        "$10B",
+        "$10 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -411,8 +574,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$350M",
-        "$350 million"
+        "$350 million",
+        "$350M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -469,8 +632,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$12B",
         "$41 billion",
+        "$12B",
         "$12 billion"
       ],
       "confidence": 6,
@@ -510,8 +673,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$80 million",
-        "$80M"
+        "$80M",
+        "$80 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -735,8 +898,8 @@
         "Seattle"
       ],
       "amounts": [
-        "$54 million",
-        "$54M"
+        "$54M",
+        "$54 million"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -1444,23 +1607,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "738a255a4d95bf",
-      "title": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] - Klover.ai",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW5QT0Z0STBmSzJsNDZJLWZhdlNlbktzRGxGZk9HcHhDR1Zjd1BwZVljWUpSb1pUQWhvenUzMWVLbVYzOERkbng1QXR4VVVtb3Roc21TWk90bllOUUhudWR6NVR0bjBJQkZTaFlDdWVESzROVGgtNl9LTmFyR0c4c1BFZVJEMy0zbFJodllYYVdXNnlrNm1IR1hqQl9YQ0l0WmZmS2E4SGlXZWxY?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-06-10",
-      "summary": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] &nbsp;&nbsp; Klover.ai",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4cde73fb17d1d7",
       "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
@@ -1470,41 +1616,6 @@
       "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6a99734450f1d7",
-      "title": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
-      "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-10",
-      "summary": "Microsoft Corp. has patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, as researchers say artificial intelligence bug-hunting is the reason the number keeps climbing. The previous record was 175 fixes, set last October. This month&#8217;s batch carried 38 critical flaws and Microsoft shipped several of them [&#8230;] \n The post  Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery  appeared first on  Silicon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4e789abd18c9d1",
-      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-10",
-      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1610,6 +1721,58 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "738a255a4d95bf",
+      "title": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW5QT0Z0STBmSzJsNDZJLWZhdlNlbktzRGxGZk9HcHhDR1Zjd1BwZVljWUpSb1pUQWhvenUzMWVLbVYzOERkbng1QXR4VVVtb3Roc21TWk90bllOUUhudWR6NVR0bjBJQkZTaFlDdWVESzROVGgtNl9LTmFyR0c4c1BFZVJEMy0zbFJodllYYVdXNnlrNm1IR1hqQl9YQ0l0WmZmS2E4SGlXZWxY?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-06-10",
+      "summary": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] &nbsp;&nbsp; Klover.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6a99734450f1d7",
+      "title": "Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery",
+      "url": "https://siliconangle.com/2026/06/10/microsoft-patches-record-200-plus-vulnerabilities-ai-accelerates-bug-discovery/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-10",
+      "summary": "Microsoft Corp. has patched more than 200 security vulnerabilities, the most the company has ever fixed in a single Patch Tuesday, as researchers say artificial intelligence bug-hunting is the reason the number keeps climbing. The previous record was 175 fixes, set last October. This month&#8217;s batch carried 38 critical flaws and Microsoft shipped several of them [&#8230;] \n The post  Microsoft patches record 200-plus vulnerabilities as AI accelerates bug discovery  appeared first on  Silicon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4e789abd18c9d1",
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-10",
+      "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -4275,6 +4438,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "7818104c7a4b39",
+      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-06-05",
+      "summary": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$920 million"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "44547d0a2934ac",
       "title": "Hut 8 Announces Pricing of $4.25 Billion of Investment-Grade Senior Secured Notes for Beacon Point Data Center Project - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNnNpcnpnNUx3VzVGSEJRWUtKamVZNmFFMmZiMUMycXZUclVOWXQtWGZLdlhSZDI5TVotWkxzcGJpby1TYm1rem9jR0JHdWpEZVIwSVBPMGk2dmtZVFNoXzYwRzZMbmI3OFlPMFpWX3ZvX0dHUm5faVlFZnVrUFRtTmJNQ0ZWbTNWdm5yV3hiOHBSZUJ5ZmhOZ0Q0TE5rRE4xTUljZFFUaDAta1o0VEVGeFFIbFdFNkE2V3VqNzNhUUcxb3NGWmpVZExCRWhPS1hWR3VzTllacDBRUzZIeFBrQkxuZ3pzYU4xRVlCaGg2WmQ0N0tKQ1I5R3JKRGNyaHNKc0M4?oc=5",
@@ -4287,26 +4470,6 @@
       "locations": [],
       "amounts": [
         "$4.25 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7818104c7a4b39",
-      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-05",
-      "summary": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "xAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$920 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -5355,6 +5518,23 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "f7a756314fc8c7",
+      "title": "Amazon invested a record €60+ billion in Europe in 2025 and now supports over 1.5 million jobs across the region - About Amazon Europe",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONzE1YmUwUUgyeGpfR2NFT2p6eDhhWFFTMF9oRWVSY19mOVVmd1hCdEdJRDUzQTJGMkZveXREbVlOWEttLTczMTZGRTVHa0JaMHctR2xMTWFFQk5rMnpMaUE4dWdCejVVZkJEby1BWnExeURBajN1a2JDVHBrN0NLNkc5Vk1wZGVFTXI3elRueERZQjhacS0ybXhScGNPRUFRaUozaHk1ZlhCQmJCM194anVhTlZnaEUtejI5TlN4akZLaWJSTDFrTGlESEdIcV90OUFVSm50SVVHenR0dks2OFRxcTdlRkRSYXBWY2I5ekRjYS0tRGZrblVYNzdrWVE?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-04",
+      "summary": "Amazon invested a record €60+ billion in Europe in 2025 and now supports over 1.5 million jobs across the region &nbsp;&nbsp; About Amazon Europe",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "d456e104697725",
@@ -6954,21 +7134,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "ccc453137100c4",
-      "title": "Brookfield ups French data center investment by €10 billion - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURCN3hsX3hXYXYwVEduT3JEelhRWllqTzJPTG9tWXQ5Yl9aeFhlcDNkenVPQ0FKVFF3SHZlWG5mYTFnaWozODZGRWdkU2J2UzdNUXE1bGY2aWpFbHV1QlgxcTdoOXNkOWNjdktNT1ZZTExnWExnOS1wRXVmeFNxVDMxXzZFMGxwTnJxc1JqWTlYdEhmNTBOak9QMmJrSTIwT3dVNA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "Brookfield ups French data center investment by €10 billion &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "bbc53b468dd318",
       "title": "Democrats Split on Saline Data Center Groundbreaking with OpenAI Founder - The Michigan Chronicle",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmhGQVFaSGtNX0RlTGQwMUlYMXFOeGZ6NXA1ckpGaDh0bENIanY0QUgxZjBfckZIenRnWWhrSFptczg0aFJwZ1RJaGVBdHNOcmNLQ2pCUTlFRjl5NUgwa0RBbVhPRVl0RjNJWlpGeDE4VTZ6MFI0SmhHTVlVbUpycTZaaExNMDFOcnBqZUp3QjdNQjhIWkFXMVoxSU5jMTQ4cXYwaktn?oc=5",
@@ -7036,6 +7201,21 @@
       "companies": [
         "OpenAI"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ccc453137100c4",
+      "title": "Brookfield ups French data center investment by €10 billion - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcURCN3hsX3hXYXYwVEduT3JEelhRWllqTzJPTG9tWXQ5Yl9aeFhlcDNkenVPQ0FKVFF3SHZlWG5mYTFnaWozODZGRWdkU2J2UzdNUXE1bGY2aWpFbHV1QlgxcTdoOXNkOWNjdktNT1ZZTExnWExnOS1wRXVmeFNxVDMxXzZFMGxwTnJxc1JqWTlYdEhmNTBOak9QMmJrSTIwT3dVNA?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Brookfield ups French data center investment by €10 billion &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "New Project",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 4,
@@ -7413,23 +7593,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e812ff1a7cf747",
-      "title": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center - Truthout",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1FleXJ5R3NvQ3l4Q3FhY0RSWjJ1MVU1dWF4SXk3bkpJMERuOHZYcDVCd3gwcVlPb3VJOERTODVHUjNUZlRnSXQ4MFJpTUhBb3oxbExoWmlSa0U2ek1lV1l1R0VCUDlkaFZYd055cjVQY2RBNExsbWg3MEVHZzRteU02Q2kyMFdLWGFzWEZIZDlTYmpxNEt3dnpNazljaEhhZUxNaDdaTQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center &nbsp;&nbsp; Truthout",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a88f37ceba99e7",
       "title": "Controversial Michigan data center breaks ground, and 4 other major stories - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXVQODZnV1NxbWpPWVVxd0FIMWZHbHJlemItVHN2ekVONDlXRFBmVkMzMjNKZVE1bzM2azUzczVKOXQ2Rk0xVExPS05PbWJ3UC1OOVJKc2tVZ0R5c281R2RjcFRWMURVZ1dMMkpIbjJEOEkzUXZOM2lpQXY3VEpsSjZiTHQ5V1hvR3dDWDZRNnk0ZjAwdktyYkUyTkRxS1FBdmFYZThwd0RHV1dEVVk4ZzN1TmfSAcgBQVVfeXFMTVE3YW5ydnMxV1RYYThhSko5X1ZuSDNOTFMySFA2OXR0bUVTX1lSWEtWbGZ5NXRsNzQ0cW4tOHBvX1ZPSk8tNFNCR0RIYWd3QUZyTm9tZUQxM2M0ZHBBLWZ6Z0ZVbm4wVFFMbkJXaTlDS2V5eVh4eHBwU3h2aDhvbkNfaVNYUmhIOUd1dDhXMHlHanZTc3JkWWxkUVhzQ2xfNkoxNkcwMUI3SmpUeEQ0bkZNLWlVVE9tQjlnWGs5NldoaXNWUlk2U0U?oc=5",
@@ -7476,6 +7639,23 @@
         "Microsoft"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e812ff1a7cf747",
+      "title": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center - Truthout",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX1FleXJ5R3NvQ3l4Q3FhY0RSWjJ1MVU1dWF4SXk3bkpJMERuOHZYcDVCd3gwcVlPb3VJOERTODVHUjNUZlRnSXQ4MFJpTUhBb3oxbExoWmlSa0U2ek1lV1l1R0VCUDlkaFZYd055cjVQY2RBNExsbWg3MEVHZzRteU02Q2kyMFdLWGFzWEZIZDlTYmpxNEt3dnpNazljaEhhZUxNaDdaTQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-02",
+      "summary": "Michigan Governor Joins AI CEOs at Ceremony for Controversial Data Center &nbsp;&nbsp; Truthout",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10285,214 +10465,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "c4e3d77253d902",
-      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
-      "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-28",
-      "summary": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dc17069e805d15",
-      "title": "'It's jarring': Google's $40 billion data center investment to transform Texas town - KTXS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWdVc2NkbG5GT2NSNWdsbk9IcERsdXFCd01qeEJhT2kyaVRQT0RiWEJrLVpMOEVsQ1oyWWFLazc2VjNTZ0gyT01RVno2OTdoNm1nVzVNdE02ZU12QkdfRlJwaGdjSHBlVnNQbDF6RjNSTVhDVVBubjVrcmUyeGs1LWh2LTI1a1NoTWQtcFJ1RWZ2dE1yWl80SWViLXZ4R0ZrRHlZSWk1TE4?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-05-27",
-      "summary": "'It's jarring': Google's $40 billion data center investment to transform Texas town &nbsp;&nbsp; KTXS",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$40 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "54cbeb17b91808",
-      "title": "Snowflake’s stock surges after-hours on solid earnings beat and multibillion-dollar AWS cloud deal",
-      "url": "https://siliconangle.com/2026/05/27/snowflakes-stock-surges-hours-solid-earnings-beat-multibillion-dollar-aws-cloud-deal/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Snowflake Inc.’s shares jumped in late trading today after it announced a $6 billion spending commitment on Amazon Web Services Inc.’s cloud infrastructure, including a deal to use the company’s custom artificial intelligence chips. The cloud data platform giant also reported stellar first-quarter earnings results, powering past Wall Street’s targets in a sign that the [&#8230;] \n The post  Snowflake&#8217;s stock surges after-hours on solid earnings beat and multibillion-dollar AWS cloud deal  ",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$6 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "757e4994a9fd89",
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-05-27",
-      "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI “epicenter.”",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$150 billion",
-        "$150B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "41383c0d873c2c",
-      "title": "Sponsored: Modine announces landmark $4 billion long-term capacity agreement through 2029 with strategic data center customer for Airedale by Modine cooling solutions",
-      "url": "https://www.datacenterdynamics.com/en/product-news/modine-announces-landmark-4-billion-long-term-capacity-agreement-through-2029-with-strategic-data-center-customer-for-airedale-by-modine-cooling-solutions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "The agreement solidifies the company’s position as a premier provider of advanced cooling technologies for the rapidly expanding data center market",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "58bfdf08433b82",
-      "title": "AI training data provider Human Archive raises $8.2M",
-      "url": "https://siliconangle.com/2026/05/26/ai-training-data-provider-human-archive-raises-8-2m/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Artificial intelligence training data provider Human Archive Inc. today announced that it has raised $8.2 million in funding. Wing Venture Capital, NVP Capital, Y Combinator headlined the consortium that provided the capital. The funds were joined by employees at Nvidia Corp., OpenAI Group PBC, Google LLC and other major players in the AI market. AI [&#8230;] \n The post  AI training data provider Human Archive raises $8.2M  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$8.2 million",
-        "$8.2M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9582b9e592ccc6",
-      "title": "Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems",
-      "url": "https://siliconangle.com/2026/05/27/tensormesh-taps-nvidia-amd-coreweave-funding-fix-llm-memory-problems/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "Tensormesh Inc. has hit upon a way to make artificial intelligence inference more efficient by eliminating the need for redundant computations, and its technology is so convincing that several of AI infrastructure giants are backing it with $20 million in funding. Today&#8217;s round saw the participation of Nvidia Corp., Advanced Micro Devices Inc. and CoreWeave [&#8230;] \n The post  Tensormesh taps Nvidia, AMD and CoreWeave for funding to fix AI model memory problems  appeared first on  Silico",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$20 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "63252283be9cc1",
-      "title": "Guofu, CEWA to explore hydrogen power deployment across Southeast Asia data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/guofu-cewa-to-explore-hydrogen-power-deployment-across-southeast-asia-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "Partner on 3MW demonstration project in Thailand",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "3MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "afe9888adc855a",
-      "title": "25MW AI data center to be built in McMinnville, Tennessee",
-      "url": "https://www.datacenterdynamics.com/en/news/25mw-ai-data-center-to-be-built-in-mcminnville-tennessee/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "Project to be completed in Q1 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Tennessee"
-      ],
-      "amounts": [
-        "25MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ca53098ddc3708",
-      "title": "RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats",
-      "url": "https://siliconangle.com/2026/05/27/reveng-ai-raises-15m-reverse-engineer-software-binaries-hunt-malicious-threats/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-05-27",
-      "summary": "British software supply chain security startup RevEng.AI today said has raised $15 million in early-stage funding after developing technology similar to Anthropic PBC’s Mythos model and working out a way to put it to good use. The startup, officially known as Binary AI Ltd., wants to help organizations use its technology to analyze software at [&#8230;] \n The post  RevEng.AI raises $15M to reverse-engineer software binaries and hunt down malicious threats  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15M",
-        "$15 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4645a78981573f",
-      "title": "Soluna acquires remaining equity interest in 25MW Project Dorothy 1B for $8.8m",
-      "url": "https://www.datacenterdynamics.com/en/news/soluna-acquires-remaining-equity-interest-in-25mw-project-dorothy-1b-for-88m/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-05-27",
-      "summary": "Now owns the entirety of its Project Dorothy data center project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$8.8m",
-        "25MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
