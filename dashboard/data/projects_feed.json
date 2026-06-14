@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-14T04:13:22.941491+00:00",
+  "last_updated": "2026-06-14T09:36:36.294551+00:00",
   "finding_count": 600,
-  "new_project_count": 95,
+  "new_project_count": 96,
   "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 184,
+  "high_confidence_count": 185,
   "findings": [
     {
       "id": "ad31be0355e0a4",
@@ -84,8 +84,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$75 billion",
-        "$2.1 trillion"
+        "$2.1 trillion",
+        "$75 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -783,9 +783,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$12 billion",
         "$41 billion",
-        "$12B"
+        "$12B",
+        "$12 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -824,8 +824,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$80 million",
-        "$80M"
+        "$80M",
+        "$80 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1410,6 +1410,25 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "225d90e444199b",
+      "title": "AWS marks $1 billion data center investment in Clinton - Magnolia Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXpFTXF3X1E1V3c3UTNWNkpSNGtSaHRIclVwRkgzTVFYd295cDJTV01WdDM3bXNWaHROdzh3UVM5cGlVTE1KVk9CdTdPRW96eVFmVWlwOTl6Z3FTbFgxd3Nha3lzMU5yRlJrTnBHMlYzZ3FqanhOODhDS2NZUURoblFhc0JjamNZZTZ6NTN6d3lnZHY0ekxvNg?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-10",
+      "summary": "AWS marks $1 billion data center investment in Clinton &nbsp;&nbsp; Magnolia Tribune",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "f20e231ae338e3",
@@ -4932,8 +4951,8 @@
         "India"
       ],
       "amounts": [
-        "$30B",
-        "5GW"
+        "5GW",
+        "$30B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -8811,6 +8830,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c9f5b6476265f4",
+      "title": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? - Bridge Michigan",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXpHRVZJZ3E5RlpZd0MxS0ZST3VtN09ZZzdvRGZIMFZrYXVucVV0S053RG04RzAtWHNVRzdyQnZLeXlseGVzSl9sR2dOTlRGbTAxQWd3b0xYRzRhTGMtaXV4LTRYQ012NHZZckoyY1ZBdDdINjN0LVpiTTNWWk94RWVRRzhKTXhtNzhGNUJaUG9JQkhmMmNVNENXcHg3QVlhRXI5VXJneWNmMERuOVl0aw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-01",
+      "summary": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? &nbsp;&nbsp; Bridge Michigan",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "dc2b3f14c41945",
       "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
@@ -8841,23 +8877,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c9f5b6476265f4",
-      "title": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? - Bridge Michigan",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXpHRVZJZ3E5RlpZd0MxS0ZST3VtN09ZZzdvRGZIMFZrYXVucVV0S053RG04RzAtWHNVRzdyQnZLeXlseGVzSl9sR2dOTlRGbTAxQWd3b0xYRzRhTGMtaXV4LTRYQ012NHZZckoyY1ZBdDdINjN0LVpiTTNWWk94RWVRRzhKTXhtNzhGNUJaUG9JQkhmMmNVNENXcHg3QVlhRXI5VXJneWNmMERuOVl0aw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "Saline data center brings out bigwigs. Big day for Michigan or big betrayal? &nbsp;&nbsp; Bridge Michigan",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10455,21 +10474,6 @@
       "companies": [
         "Google"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a735e55adea1e",
-      "title": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing - U.S. News Money",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQVlEtUGdBN0dkZkI1N0d0djdKN0xzVE10N0xBemhGQ2lJRHVfSjY3ZGQwMDhxZGRCb1B0b21kR1RNTFJxbHV1d3c5WFcyVF85ME5NRjRwX3hZblNZelFrN3lmT0hVdWIyVnM5MnhBNG5vS2h6b3c?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-05-28",
-      "summary": "7 Best Data Center Stocks, ETFs and REITs to Buy | Investing &nbsp;&nbsp; U.S. News Money",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
