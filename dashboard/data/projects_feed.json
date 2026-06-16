@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-16T16:54:23.811718+00:00",
+  "last_updated": "2026-06-16T20:52:53.651758+00:00",
   "finding_count": 600,
-  "new_project_count": 93,
-  "cancellation_count": 17,
+  "new_project_count": 94,
+  "cancellation_count": 18,
   "sec_filing_count": 2,
-  "high_confidence_count": 201,
+  "high_confidence_count": 199,
   "findings": [
     {
       "id": "d9e9b2f5bda0b9",
@@ -42,6 +42,27 @@
       ],
       "amounts": [
         "$10 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6bf87b63295b9f",
+      "title": "Google plans to invest $1.5 billion to expand its data center in Alabama. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUI5cWFjRk5VNmE4SkRJdXBzSGZnWmk5MjVzTGh6S2ZhUDdEQnJDZEdkOEZFU1JkaUlXS2lMMl9VY2JDbVZKdXJ0b3d2T1c4U192X3ZVTXdNcUdIRXBxamZ2ZDQtQXBpUmRfSzg3Y3RnVWFVV3pqNUNxTXBfY1ZHUjdDejVoaFJxNV9Wc0lWeGZuTU0?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-16",
+      "summary": "Google plans to invest $1.5 billion to expand its data center in Alabama. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "$1.5 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -186,8 +207,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -361,6 +382,91 @@
       "is_high_confidence": false
     },
     {
+      "id": "a8e3c48807e19c",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-16",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d4a0c769c333f",
+      "title": "New expanded Android parental controls to support families around the world",
+      "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "Video paused on a screen of a sitting, smiling woman surrounded by colorful, Google-themed items. Onscreen text says: Google Safety Updates, Android Parental Controls",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7ef4e1f0a246e1",
+      "title": "DataBank secures $1.45bn for data center build-out",
+      "url": "https://www.datacenterdynamics.com/en/news/databank-secures-145bn-for-data-center-build-out/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-16",
+      "summary": "Part of financing to fuel construction of Red Oak campus in Texas",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ab7878400322c6",
+      "title": "AWS to host QuEra's next generation quantum computer",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-to-host-queras-next-generation-quantum-computer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-16",
+      "summary": "QuEra's Libra system due on AWS Braket from 2028",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8c13fbfa8bb6d4",
+      "title": "Tensordyne tapes out new inferencing chip",
+      "url": "https://www.datacenterdynamics.com/en/news/tensordyne-tapes-out-new-inferencing-chip/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-16",
+      "summary": "Company aims to take on Nvidia with new chip",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1f1ac602eaa13b",
       "title": "AI lab Ineffable Intelligence taps Google Cloud for compute",
       "url": "https://www.datacenterdynamics.com/en/news/ai-lab-ineffable-intelligence-taps-google-cloud-for-compute/",
@@ -428,15 +534,17 @@
       "is_high_confidence": false
     },
     {
-      "id": "5d81a0418f3890",
-      "title": "Philippine telco PLDT looks to launch data center REIT",
-      "url": "https://www.datacenterdynamics.com/en/news/philippine-telco-pldt-looks-to-launch-data-center-reit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "a42ecc699bf3ec",
+      "title": "Xreal unveils Aura, its lightweight smart glasses powered by Android XR",
+      "url": "https://siliconangle.com/2026/06/16/xreal-unveils-aura-lightweight-smart-glasses-powered-android-xr/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-06-16",
-      "summary": "Telco to seed REIT with Vitro facilities",
+      "summary": "Lightweight augmented reality glasses maker Xreal Inc. officially unveiled its Aura smart glasses today, powered by Android XR and built with Qualcomm Inc.’s Snapdragon. Formerly known as Project Aura, these new smart glasses will launch this Fall, combining lightweight, see-through wired extended reality capability and deep integration with Google LLC’s Gemini artificial intelligence. “The new [&#8230;] \n The post  Xreal unveils Aura, its lightweight smart glasses powered by Android XR  appeare",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -528,6 +636,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "59f2d3f1064d73",
+      "title": "Reservations are open for XREAL AURA — plus, see more news from AWE 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "Reservations are now open for XREAL AURA, XREAL's first tethered XR glasses built with Google for Android XR.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5fd0a1c60f59fd",
       "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
       "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
@@ -539,6 +664,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5d81a0418f3890",
+      "title": "Philippine telco PLDT looks to launch data center REIT",
+      "url": "https://www.datacenterdynamics.com/en/news/philippine-telco-pldt-looks-to-launch-data-center-reit/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-16",
+      "summary": "Telco to seed REIT with Vitro facilities",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -712,20 +852,23 @@
       "is_high_confidence": true
     },
     {
-      "id": "9659a4355c6903",
-      "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
+      "id": "437756a610a0ba",
+      "title": "Amazon, Missouri officials announce $10B Montgomery County data center plan - KOMU 8",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbG1oM2U1d3NTdm4zQS1fejVDU1pKMTQ3b1ZHMjJTUGN5VndDVWh4TWQweVZkdDRFb0Fab1lEV3h5Q1dYWjd0SmdIdDRsNTNfUDE3am1BM1pZWS1FRGRSZHVlZE5BREJhMFkyc0ZpVHhHMHVOQjMxLU54VzRvbVZkZnlqdEIxRFRyUkdlS0E3RGpSd1RmbVdxV2xqN3NmT0czcmdJV3IwMjlWMUFFTHN1UXZ1d2FOd29LWXhjeUhRQlVCQ0Y5ZmRLMEZqcWYyT2l3RUZfWDVTMDBfdFVjaUtlREkyQ0JSSm9EcDZ2Rm5pQWNXRVF3RGNqWg?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-15",
-      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; Spectrum News",
-      "finding_type": "New Project",
+      "summary": "Amazon, Missouri officials announce $10B Montgomery County data center plan &nbsp;&nbsp; KOMU 8",
+      "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
-      "locations": [],
+      "locations": [
+        "Missouri",
+        "Montgomery"
+      ],
       "amounts": [
-        "$10 billion"
+        "$10B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -747,6 +890,25 @@
       ],
       "amounts": [
         "$1.5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9659a4355c6903",
+      "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; Spectrum News",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -790,6 +952,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "ceaf4c25474edf",
+      "title": "Google announces $1.5B investment in Jackson County data center expansion - WHNT.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHBzMDBsdm9wei1PRXNmcm5Ra1dyX21SQ0pxc0VqMlRTcVhEN3VyZm5pQ29ENUl5aFFqMXFYc2p5Wk5hRGY1Mm02SXlxaVNnVW1NbkVGblFHU19oTVlWeENsdkdLRXIySWhPWC16WmxTTUNiRkZWV2NEMG1tTlJjMElXY1d4cDBLSFUzRWljaklCZDVETzZleHRKTzZMdzQybHFfLWo4aFA5cmY3VlZ2VGpQMNIBuAFBVV95cUxPOExJajViTlBhNHdQRURfMjhXeWJlc09nLUJUNVRVMjc4TFA1V0FrV0dMRGx3ZnNOcEppbTBoY3NTSzlFMDdlcnpydjRIbkFoQkhILTBYSmxBRGs5cUhwSTlpaXlpVVl1d2p3TXJQanplNXZuaEdhdkV0ejJKaFJPWXNUalB2b2h4bFBEUE92eXBiZVpTMkotTHMwMEpHZDI5OHBXX3pBajZISktDMVhwRVkzN0ZkOW9m?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Google announces $1.5B investment in Jackson County data center expansion &nbsp;&nbsp; WHNT.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "4e90a65bc8a2bd",
       "title": "Amazon raises Missouri data center investment to $10B - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlk4SFpSOHpZNUdFTjJnTjJRbnVuNjNIY01IcnJVeHpRc0tSaVdiQm0xWVJhSmNkUU5TQUVzeVJ2RGxBM3NwSWNyNFdEOWFYNThKUUQtQVE5dGs1Sng0ZURDbXBZSVNhaG5wU0lhRHNETHBKQU1NdmVtd1BnYmFLOG9PY3NuUUJFZHg5ZkpGZENrOHNwaGo5Tl9OY3VxQQ?oc=5",
@@ -806,25 +987,6 @@
       ],
       "amounts": [
         "$10B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ceaf4c25474edf",
-      "title": "Google announces $1.5B investment in Jackson County data center expansion - WHNT.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHBzMDBsdm9wei1PRXNmcm5Ra1dyX21SQ0pxc0VqMlRTcVhEN3VyZm5pQ29ENUl5aFFqMXFYc2p5Wk5hRGY1Mm02SXlxaVNnVW1NbkVGblFHU19oTVlWeENsdkdLRXIySWhPWC16WmxTTUNiRkZWV2NEMG1tTlJjMElXY1d4cDBLSFUzRWljaklCZDVETzZleHRKTzZMdzQybHFfLWo4aFA5cmY3VlZ2VGpQMNIBuAFBVV95cUxPOExJajViTlBhNHdQRURfMjhXeWJlc09nLUJUNVRVMjc4TFA1V0FrV0dMRGx3ZnNOcEppbTBoY3NTSzlFMDdlcnpydjRIbkFoQkhILTBYSmxBRGs5cUhwSTlpaXlpVVl1d2p3TXJQanplNXZuaEdhdkV0ejJKaFJPWXNUalB2b2h4bFBEUE92eXBiZVpTMkotTHMwMEpHZDI5OHBXX3pBajZISktDMVhwRVkzN0ZkOW9m?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google announces $1.5B investment in Jackson County data center expansion &nbsp;&nbsp; WHNT.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -1314,40 +1476,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "461b48fe883202",
-      "title": "Gigamon-Zscaler integration adds application visibility to zero-trust access",
-      "url": "https://siliconangle.com/2026/06/15/gigamon-zscaler-integration-adds-application-visibility-zero-trust-access/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-15",
-      "summary": "Gigamon Inc. today said it has integrated its network telemetry with Zscaler Inc.&#8217;s zero-trust access service, a move meant to show security teams what users do once they&#8217;re inside a private application rather than just who let them in. The tie-up connects Zscaler Private Access with Gigamon Application Metadata Intelligence, part of the Gigamon Deep [&#8230;] \n The post  Gigamon-Zscaler integration adds application visibility to zero-trust access  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e451db6d2bc05",
-      "title": "AWS and QuEra lay out roadmap to fault-tolerant quantum computing in next two years",
-      "url": "https://siliconangle.com/2026/06/15/aws-quera-lay-roadmap-fault-tolerant-quantum-computing-next-two-years/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-15",
-      "summary": "Amazon Web Services Inc. has long been at the forefront of a host of companies racing to transform quantum computing from a theory to reality, and it believes it’s finally on course to make that happen thanks to a newly established partnership with QuEra Computing Inc. The partners are working together to bring the world’s [&#8230;] \n The post  AWS and QuEra lay out roadmap to fault-tolerant quantum computing in next two years  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c1008a50e8b551",
       "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
       "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
@@ -1392,6 +1520,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "461b48fe883202",
+      "title": "Gigamon-Zscaler integration adds application visibility to zero-trust access",
+      "url": "https://siliconangle.com/2026/06/15/gigamon-zscaler-integration-adds-application-visibility-zero-trust-access/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-15",
+      "summary": "Gigamon Inc. today said it has integrated its network telemetry with Zscaler Inc.&#8217;s zero-trust access service, a move meant to show security teams what users do once they&#8217;re inside a private application rather than just who let them in. The tie-up connects Zscaler Private Access with Gigamon Application Metadata Intelligence, part of the Gigamon Deep [&#8230;] \n The post  Gigamon-Zscaler integration adds application visibility to zero-trust access  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e451db6d2bc05",
+      "title": "AWS and QuEra lay out roadmap to fault-tolerant quantum computing in next two years",
+      "url": "https://siliconangle.com/2026/06/15/aws-quera-lay-roadmap-fault-tolerant-quantum-computing-next-two-years/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-15",
+      "summary": "Amazon Web Services Inc. has long been at the forefront of a host of companies racing to transform quantum computing from a theory to reality, and it believes it’s finally on course to make that happen thanks to a newly established partnership with QuEra Computing Inc. The partners are working together to bring the world’s [&#8230;] \n The post  AWS and QuEra lay out roadmap to fault-tolerant quantum computing in next two years  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -3538,6 +3700,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "738a255a4d95bf",
+      "title": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW5QT0Z0STBmSzJsNDZJLWZhdlNlbktzRGxGZk9HcHhDR1Zjd1BwZVljWUpSb1pUQWhvenUzMWVLbVYzOERkbng1QXR4VVVtb3Roc21TWk90bllOUUhudWR6NVR0bjBJQkZTaFlDdWVESzROVGgtNl9LTmFyR0c4c1BFZVJEMy0zbFJodllYYVdXNnlrNm1IR1hqQl9YQ0l0WmZmS2E4SGlXZWxY?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-06-10",
+      "summary": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] &nbsp;&nbsp; Klover.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "347fae2d8986a2",
       "title": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push - Sherwood News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS0xuVEdDY1ZNZWxyWXJJRnhCdHRGNGtDZFRzRWh6THh1dUJOemZFTzg3bjV3bDNzYmsyRXBlZEZEYzJpcXQ2VWNocXBFMTRpMGZ2YVgySk1qQ3RGcEVpVWtMNmR3N3hCV0NVSkUxODltc0RndTRqcWJ6aTI?oc=5",
@@ -3621,6 +3800,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "d701b33d7a2a9a",
+      "title": "Infrastructure Explained: Compute Power",
+      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-10",
+      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs.  \n The post  Infrastructure Explained: Compute Power  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1b9450a0bbe065",
       "title": "Our 2026 UK Future Report",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/future-report-uk-teen-research/",
@@ -3654,40 +3850,6 @@
       "locations": [
         "Brazil"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d701b33d7a2a9a",
-      "title": "Infrastructure Explained: Compute Power",
-      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-10",
-      "summary": "We're explaining what compute power is and how GPUs, CPUs, and MTIA custom silicon help us meet our AI innovation and computing needs.  \n The post  Infrastructure Explained: Compute Power  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "738a255a4d95bf",
-      "title": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] - Klover.ai",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW5QT0Z0STBmSzJsNDZJLWZhdlNlbktzRGxGZk9HcHhDR1Zjd1BwZVljWUpSb1pUQWhvenUzMWVLbVYzOERkbng1QXR4VVVtb3Roc21TWk90bllOUUhudWR6NVR0bjBJQkZTaFlDdWVESzROVGgtNl9LTmFyR0c4c1BFZVJEMy0zbFJodllYYVdXNnlrNm1IR1hqQl9YQ0l0WmZmS2E4SGlXZWxY?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-06-10",
-      "summary": "xAI / SpaceX IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] &nbsp;&nbsp; Klover.ai",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4534,23 +4696,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1e3283ec74830d",
-      "title": "Get travel-ready with Google Fi Wireless",
-      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-09",
-      "summary": "Text \"Great travel plans need a great phone plan\" surrounded by photos of people on their phones and wifi symbols",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d09f416190c826",
       "title": "Better Personalization and Changes to Controls for Your Activity From Other Businesses",
       "url": "https://about.fb.com/news/2026/06/better-personalization-and-changes-to-controls-for-your-activity-from-other-businesses/",
@@ -4561,6 +4706,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1e3283ec74830d",
+      "title": "Get travel-ready with Google Fi Wireless",
+      "url": "https://blog.google/products-and-platforms/products/google-fi-wireless/international-travel-features-5g-coverage/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-09",
+      "summary": "Text \"Great travel plans need a great phone plan\" surrounded by photos of people on their phones and wifi symbols",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -5646,24 +5808,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3d496c9dc3329a",
-      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-08",
-      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New York",
-        "Washington"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8bce5b0ee62b6b",
       "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
@@ -5710,6 +5854,24 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d496c9dc3329a",
+      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-08",
+      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York",
+        "Washington"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10371,169 +10533,6 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "d9c3dd206fb62f",
-      "title": "Oracle, OpenAI 'Barn' data center breaks ground in Saline Township, additional community investments announced - WXYZ Channel 7",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcVZndGxKeXlFNDJBa0stbWllcVBkZzRKNTR2aGVmSEhfZFdFUlgwXy0xMk0tWkVycDNRM3dtUFptRnphOC1oWW40ZlBkakJJa1pfSl9sMjdMMExyTGhmMml4LXB2bnhtNmZoRDhtMG14a0Y5TXRPSGc1NlVKTmVCZ2RGZnJqcHpvZ1NyRFA5UG1ILXpBMkg5aXVoOHdlMzJ5Z2F4YmZQM3d5WWpMVGdsUzhwV3JNZ2pSaWxHWW5qaEZKMGVRVm96SGc3Q3NUZEZUZGFoUlB3cEVKN0N1Z2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "Oracle, OpenAI 'Barn' data center breaks ground in Saline Township, additional community investments announced &nbsp;&nbsp; WXYZ Channel 7",
-      "finding_type": "New Project",
-      "companies": [
-        "Oracle",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "002b9d20a5dc26",
-      "title": "BW Group signs deal to build 250MW data center in Telemark County, Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/bw-group-signs-deal-to-build-250mw-data-center-in-telemark-county-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Company partners to build facility at new Frier Vest industrial park",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [
-        "250MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0992362e511eb1",
-      "title": "Arcem buys land in Joroinen, Finland, for 500MW data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/arcem-buys-land-in-joroinen-finland-for-500mw-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "One of several projects the company is planning in the country",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "500MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4b3da71b8c9938",
-      "title": "Ardian & Verne target 500MW data center campus in France",
-      "url": "https://www.datacenterdynamics.com/en/news/ardian-verne-target-500mw-data-center-campus-in-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Project outside Paris to support AION consortium's EU AI gigafactory bid",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France",
-        "Paris"
-      ],
-      "amounts": [
-        "500MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "148f392264f106",
-      "title": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote",
-      "url": "https://siliconangle.com/2026/06/01/five-thoughts-nvidia-ceo-jensen-huangs-gtc-taipei-2026-keynote/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-01",
-      "summary": "Useful artificial intelligence has arrived, and if Nvidia Chief Executive Jensen Huang is right, it is about to reshape not only data centers but also the structure of the global economy and the tech labor market. In his GTC Taipei 2026 keynote, Huang laid out his vision for the “age of agents,” agentic AI systems that [&#8230;] \n The post  Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d37bc5b8ac2642",
-      "title": "With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor",
-      "url": "https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-01",
-      "summary": "Nvidia Corp. says it’s uprooting supercomputers from the vast, sprawling data center complexes they normally live inside and squeezing them into compact, desktop-sized workstations that can sit on or aside the desks of individual developers, researchers and data scientists. That’s the idea behind the new Nvidia DGX Station for Windows, which is said to be [&#8230;] \n The post  With DGX Station for Windows, Nvidia squeezes 1 trillion-parameter AI supercomputer into a deskside form factor  appeare",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "14de206a67e535",
-      "title": "Environmental activist Erin Brockovich launches US data center tracking website",
-      "url": "https://www.datacenterdynamics.com/en/news/environmental-activist-erin-brockovich-launches-us-data-center-tracking-website/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Activist behind PG&amp;E Hinkley lawsuit turns her ire towards data centers",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "01d1144e0f31d0",
-      "title": "Siemens, Nvidia, and Fluence develop reference electrical and power architecture for data centers running Vera Rubin NVL72 platform",
-      "url": "https://www.datacenterdynamics.com/en/news/siemens-nvidia-and-fluence-develop-reference-electrical-and-power-architecture-for-data-centers-running-vera-rubin-nvl72-platform/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Will cover the full electrical path of the data center",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dc4afdc236a998",
-      "title": "Learn about AWS's long-term commitment to the UK - About Amazon UK",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzRhUW9vWHBfaVQyV2xSTERfZk5FZVhEN1ljemY5U19QRWlmb09na3NlbHc1aHhoUm0yaUxkVThUV2xKd0RTS3pidzlvcll5dTNXMnFjeFFqZHBDLUdGZHdWMklLaTNHWTFhWUY1Y2wzS3ZYUDJpVm9iX192M2JWbnFZV0l4djBJMFRNcklnUFVkOEN5RExiR0NLeDZvVFJhYVFsdm9EODZPbjluS2Y4?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-01",
-      "summary": "Learn about AWS's long-term commitment to the UK &nbsp;&nbsp; About Amazon UK",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
