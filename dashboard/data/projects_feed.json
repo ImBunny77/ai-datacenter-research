@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-16T20:52:53.651758+00:00",
+  "last_updated": "2026-06-16T23:24:33.715265+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
-  "cancellation_count": 18,
+  "new_project_count": 91,
+  "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 199,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "d9e9b2f5bda0b9",
@@ -207,10 +207,31 @@
       ],
       "locations": [],
       "amounts": [
-        "$100M",
-        "$100 million"
+        "$100 million",
+        "$100M"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1bd0ad26b25a9b",
+      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - WGEM",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk9LdG1vTXNFZHNkTGNXQnR2YlJweFBmN1JCbU9Memo5dEs0UUdGQlk0d0FJenJEOEFZMXpsY3F1ZWh5Tl93eW9QUDBuc2taUzhtYkZHTU1PSFp1NU5ReGhlQTJYUEZONXdKQ3FIQUZWOVRzYjVGVF85VGVTeDhORTdUdWNmWnlMTGJmcjNzVi1yajVqRVNMX3RCRlBzbjdBdFE4cHBCcjUwaWJoMjM0eFZpUkZyVlduOGpSZWtxQ3piMkJmeEMtQWIxVdIB3wFBVV95cUxPTjlIVVBWdExZMWF0czlvT0Y0aWxDY0tiQ0x6ZklvSVVjRVFPbnpLZWtieEVRUTgxRWJXTW8yeWFYVUlWekRiWm9KcHU1aWZzblVfNERNcEZ5Q0toUFZKbmhYQ0lJWEhXUFBFaWhteG85MXNjSU1xVnMzejY0YTBPOGxZYWtmX2tESHJKX0toNTJhbXp3MEhpWkp5WXdqMWI0SnZpVjE3a2g5YmxGNGpfZjdhTGRTX1Y4MHZjR3hrcVcxZ0NxUGMxTlFwZjFBNHBoOHQ3LW9SQzFiSW1ycjZJ?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-06-16",
+      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center &nbsp;&nbsp; WGEM",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$7 million"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -382,6 +403,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a61b87f5c2c603",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-16",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "a8e3c48807e19c",
       "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
       "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
@@ -413,6 +451,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b52c0bf422e1f8",
+      "title": "DC Blox data center in eastern Indianapolis receives recommendation for approval",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-data-center-in-eastern-indianapolis-receives-recommendation-for-approval/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-16",
+      "summary": "Another data center could come to Indianapolis",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -619,6 +672,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ab0168af54e161",
+      "title": "Among the large new rockets Amazon was counting on, only Europe has delivered",
+      "url": "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-16",
+      "summary": "\"As for Arianespace, they have definitely stepped up.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5f3b99dc3e8a92",
       "title": "Achieving success with AI",
       "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
@@ -629,6 +699,24 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e2b43a47d01b23",
+      "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -789,27 +877,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "92be7958542b71",
-      "title": "Amazon announced a $10 billion investment to build a data center campus in Missouri, United States. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalhNTzk5RzNESTBOMkxVYkNtb2xuOTRZcmctM3JzaHVPNlV5dGtVWTdaMDkwMlRyY2taQlMySGNFOE8zclBhbF8wUktmczBCdEMtR2l1QmZSUGQwaWtIdXFlbFFfVUYyd0tXMGVBaUlUbXJGMWo5c3hYMVJHdVpGdmpDMF9MNDZObV9BTlFFWWFBRC16MnBRRnExQk42QQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon announced a $10 billion investment to build a data center campus in Missouri, United States. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "e04173cd50f548",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
@@ -826,6 +893,27 @@
       ],
       "amounts": [
         "$1.5 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "92be7958542b71",
+      "title": "Amazon announced a $10 billion investment to build a data center campus in Missouri, United States. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPalhNTzk5RzNESTBOMkxVYkNtb2xuOTRZcmctM3JzaHVPNlV5dGtVWTdaMDkwMlRyY2taQlMySGNFOE8zclBhbF8wUktmczBCdEMtR2l1QmZSUGQwaWtIdXFlbFFfVUYyd0tXMGVBaUlUbXJGMWo5c3hYMVJHdVpGdmpDMF9MNDZObV9BTlFFWWFBRC16MnBRRnExQk42QQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon announced a $10 billion investment to build a data center campus in Missouri, United States. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$10 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -874,6 +962,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "861b001a138c0c",
+      "title": "Amazon to build $10 billion data center west of St. Louis - NY State of Politics",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; NY State of Politics",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "aabd1169cb9f93",
       "title": "Google invests $1.5B to expand Alabama data center powered by TVA - Chattanooga Times Free Press",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFJBQUozc3BmQVA3VzBtMENzeG1raDMwcVJpUnlpYVpnWGpKNEpGNEl1b3NNa0g3UFdocE5USkNmS3FEbDRLWnRUQnFtNVB3WExWT0FOd1R3NldCZXFvOXRGcGJfclpqR0NPY3QyMU5WbU43WUhfVTh1QnNfMFZ6VXIxVkQ1T3ZQN0lncWVPcDJFTm90bmNrOEd1Ri0tQQ?oc=5",
@@ -890,25 +997,6 @@
       ],
       "amounts": [
         "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9659a4355c6903",
-      "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; Spectrum News",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -971,6 +1059,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "9659a4355c6903",
+      "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; Spectrum News",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "4e90a65bc8a2bd",
       "title": "Amazon raises Missouri data center investment to $10B - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZlk4SFpSOHpZNUdFTjJnTjJRbnVuNjNIY01IcnJVeHpRc0tSaVdiQm0xWVJhSmNkUU5TQUVzeVJ2RGxBM3NwSWNyNFdEOWFYNThKUUQtQVE5dGs1Sng0ZURDbXBZSVNhaG5wU0lhRHNETHBKQU1NdmVtd1BnYmFLOG9PY3NuUUJFZHg5ZkpGZENrOHNwaGo5Tl9OY3VxQQ?oc=5",
@@ -1008,25 +1115,6 @@
       ],
       "amounts": [
         "$1.5 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "861b001a138c0c",
-      "title": "Amazon to build $10 billion data center west of St. Louis - NY State of Politics",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; NY State of Politics",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -1442,6 +1530,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "b9cfbc808e2b59",
+      "title": "Company behind massive AI data center project launches training program with N.J. university - NJ.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVo4aE5XZWZhVVBCZVVuV1hZbkQ1eHE1YUgyLVlwMHlUSS1oZEUyckNXeUhyNy02RzJOb3hCdktfU1F4OXhYZUtjazdmakFoNFVyN3Rmd0c1TDFiN19KcUpuM1ZfU2ZWQmc1ZlFteEtvOFVNcmFDVmVEekN0QzdOUzhYeEI3a1dkT2pNcUNld1pJd2pkNndrSGJHZXpJUHBNQldKWXlDMzdRWVNXck15Z1RBbDV6RXBIeW53Q1VOaGg1NjV0enfSAdoBQVVfeXFMTkVWTHp5M0hvNlh6azFCQVhkbDVfTkdpaEQ5cE5BQVZUelI2RzlFS2h3TjBQWlBtcUdaRk9ZRnRfc1I3M1FtMmhKcjYtMEVKNXRBbk9vMmVDYzdWOV90UXBsdVZsV29uRjVpZEZHV3dvUWthdHJxZ3dIbktvSXhuYlZDMWFPUjY5bEN3Unl2TVR1b0c4WFlmU3Q3N2d3V3kycFFLR3pTc3pWeHY4ZlBjOFhRZ1NlQWdmMnNhc1hnaHNOU1JNU2ZUcGdsd3VHOURweWVBc3JCS2JURWc?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-06-15",
+      "summary": "Company behind massive AI data center project launches training program with N.J. university &nbsp;&nbsp; NJ.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5caf7a416df5bc",
       "title": "AMD buys data center memory optimization startup Mext",
       "url": "https://siliconangle.com/2026/06/15/amd-buys-data-center-memory-optimization-startup-mext/",
@@ -1452,25 +1555,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6ab02e1caf3172",
-      "title": "What to expect at AWS Summit NYC: Join theCUBE June 18",
-      "url": "https://siliconangle.com/2026/06/15/agentic-ai-thecube-analysis-aws-summit-nyc-awssummitnyc/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-15",
-      "summary": "Agentic artificial intelligence is moving beyond experimentation as enterprises look to deploy autonomous systems across business workflows. But data bottlenecks, legacy infrastructure and governance challenges continue to slow adoption — gaps Amazon Web Services Inc. aims to address and a topic sure to be discussed at AWS Summit NYC. “AWS Summit New York won’t be [&#8230;] \n The post  What to expect at AWS Summit NYC: Join theCUBE June 18  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "New York"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1522,6 +1606,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6ab02e1caf3172",
+      "title": "What to expect at AWS Summit NYC: Join theCUBE June 18",
+      "url": "https://siliconangle.com/2026/06/15/agentic-ai-thecube-analysis-aws-summit-nyc-awssummitnyc/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-15",
+      "summary": "Agentic artificial intelligence is moving beyond experimentation as enterprises look to deploy autonomous systems across business workflows. But data bottlenecks, legacy infrastructure and governance challenges continue to slow adoption — gaps Amazon Web Services Inc. aims to address and a topic sure to be discussed at AWS Summit NYC. “AWS Summit New York won’t be [&#8230;] \n The post  What to expect at AWS Summit NYC: Join theCUBE June 18  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5808,6 +5911,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "3d496c9dc3329a",
+      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-08",
+      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York",
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8bce5b0ee62b6b",
       "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
@@ -5854,24 +5975,6 @@
         "Meta"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d496c9dc3329a",
-      "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-08",
-      "summary": "Opinion | America needs more data centers. New York wants fewer. &nbsp;&nbsp; The Washington Post",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New York",
-        "Washington"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10419,118 +10522,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "57458c31efca88",
-      "title": "SoftBank commits €75 billion to French AI data centers in Europe's largest AI infrastructure deal - Cybernews",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3NtS3pocG9tc29rMThiQWFIQUllZFZvZGxZRUpMWllWbUlSNUJpeDBJcE9aVGsyXzJMRFUwWFJMQWNRTzI3SzF1bHQzY3JWYy1wN2FxaUpPc0ZuM2lDMjZNd2hwRHJsNDFMajl4bGNwOTdnT0JVMl9za1ZieWhIUDN3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "SoftBank commits €75 billion to French AI data centers in Europe's largest AI infrastructure deal &nbsp;&nbsp; Cybernews",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "576edd359dd6dd",
-      "title": "Alphabet unveils plan to sell $80B in shares to fund ongoing AI infrastructure buildout",
-      "url": "https://siliconangle.com/2026/06/01/alphabet-unveils-plan-sell-80b-shares-fund-ongoing-ai-infrastructure-buildout/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-01",
-      "summary": "Google LLC parent company Alphabet Inc. is seeking to raise a massive $80 billion in equity capital through a stock sale in an effort to bankroll the ballooning costs of its artificial intelligence infrastructure buildout. In a key endorsement of the plan, Warren Buffett’s Berkshire Hathaway Inc. has already agreed to throw in $10 billion [&#8230;] \n The post  Alphabet unveils plan to sell $80B in shares to fund ongoing AI infrastructure buildout  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$80 billion",
-        "$80B",
-        "$10 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6b448f627c48f5",
-      "title": "AI data center demand “larger than we’re prepared for” despite “existential investment” - report",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-demand-larger-than-were-prepared-for-despite-existential-investment-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Additional 250GW of capacity required under “aggressive but still plausible” scenario",
-      "finding_type": "Expansion",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "250GW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0aeacbe950af2f",
-      "title": "SoftBank is committing up to €75 billion to build AI data centers in France - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SaEZZRGFXNkxyNlBmWExHVGMxaWU3c0Y5dmFMdkVibXMyV0tBNlV0NFZBVldfVjFNa0E3QjJZTloyNXRYOGNNZHZwLUZncnlGQk5HSGxNVTVYdTdQeU5CTDNPcEc2aFp2ZEttbHZUNzJfUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "SoftBank is committing up to €75 billion to build AI data centers in France &nbsp;&nbsp; qz.com",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4725afad77a0c9",
-      "title": "SoftBank Group (SFTBY) Stock Surges After $52 Billion Data Cente - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzU1a0ZDbVVjSWNQSl96UE5MZ3pGOF9seS1sb08ySU9MOTVneVJ3bjB0WW1nbS1neWY1aXhtVkZndjY2TmJsaDJDY09Xdm83Um5nQms2X1RiQzUtcG1LWUFmc1NxV3R5TWtmdzZiVGtGYzhmcTBUeEU3a1BGREtocENDdGdNMTQ1QnVZTEI5RkxCQ19XSWZqTWFCMU1OU1daZC1kbTN0VmhZaWY5UTJwdmRCSE5fanFTNS1VQ05UcUZiWE0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-01",
-      "summary": "SoftBank Group (SFTBY) Stock Surges After $52 Billion Data Cente &nbsp;&nbsp; GuruFocus",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$52 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cd5bfd74457ab3",
-      "title": "Legacy Investing eyes 50MW data center outside San Antonio, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/legacy-investing-eyes-50mw-data-center-outside-san-antonio-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-01",
-      "summary": "Company developing on former karting complex",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "50MW"
-      ],
       "confidence": 6,
       "is_high_confidence": true
     }
