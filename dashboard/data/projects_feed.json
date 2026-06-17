@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-17T18:19:48.946694+00:00",
+  "last_updated": "2026-06-17T22:01:28.776714+00:00",
   "finding_count": 600,
-  "new_project_count": 89,
+  "new_project_count": 86,
   "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 196,
+  "high_confidence_count": 199,
   "findings": [
+    {
+      "id": "6a7bc2eb720879",
+      "title": "NWI Forum announces $7 billion Amazon data center coming to Jasper County - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXE5VWZTUXNyZDRCc0hEZjBSYXg3djgxMzN4NFNvemlaYzhYbjNGbVlWbERCYWdVSENtX3pkOFMwaTU2VVE3RjFNNGxaR0pNeVlsNkpXaGNGYnpTNmNKNExCSDM0NlFFTWh1NVdJWjQ0dDI5T3J4RlVlQmVYcTZWNmQ1Yy1wR2dNYzNZMW5R?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-17",
+      "summary": "NWI Forum announces $7 billion Amazon data center coming to Jasper County &nbsp;&nbsp; Chicago Tribune",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Chicago"
+      ],
+      "amounts": [
+        "$7 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
     {
       "id": "d4069bee080902",
       "title": "Google commits $1.5 billion to Alabama data center and digital skills expansion - EdTech Innovation Hub",
@@ -63,10 +84,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$310M",
         "$310 million",
         "$1.45B",
-        "$1.45 billion"
+        "$1.45 billion",
+        "$310M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -165,6 +186,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "4129fe51cd33c2",
+      "title": "AI material discovery startup CuspAI reportedly raising $400M round",
+      "url": "https://siliconangle.com/2026/06/17/ai-material-discovery-startup-cuspai-reportedly-raising-400m-round/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-17",
+      "summary": "CuspAI Ltd., a startup working to speed up material discovery, is reportedly in the process of raising a $400 million funding round. The Financial Times reported today that the term sheet has been signed but the transaction is still being finalized. According to the paper, Amazon.com Inc. founder Jeff Bezos’ Bezos Expeditions and Kleiner Perkins [&#8230;] \n The post  AI material discovery startup CuspAI reportedly raising $400M round  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$400M",
+        "$400 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "b9d111d17e2639",
       "title": "Rackspace to deploy 30MW of AMD AI chips in its data centers",
       "url": "https://www.datacenterdynamics.com/en/news/rackspace-to-deploy-30mw-of-amd-ai-chips-in-its-data-centers/",
@@ -217,6 +258,24 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "f2860c9d9d8226",
+      "title": "Oracle denies $3bn Microsoft data center deal collapsed over security and compliance concerns",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-denies-3bn-microsoft-data-center-deal-collapsed-over-security-and-compliance-concerns/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-17",
+      "summary": "The two were previously in discussion for a lease deal",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "6f2a5182e7729b",
@@ -424,6 +483,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "5507970a7e9ed7",
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-17",
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4e6b9e638ebc24",
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-17",
+      "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d2d392b0ac9b79",
       "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
       "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
@@ -585,6 +678,23 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7b6440c3fed2cf",
+      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-17",
+      "summary": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
@@ -1016,23 +1126,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a8e3c48807e19c",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-16",
-      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "0d4a0c769c333f",
       "title": "New expanded Android parental controls to support families around the world",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
@@ -1043,6 +1136,23 @@
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a8e3c48807e19c",
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-16",
+      "summary": "Audited accounting shows growing revenues being dwarfed by R&#038;D, other expenses.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -1085,13 +1195,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "b7bd7f352ec502",
-      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
+      "id": "a83a0a37978a25",
+      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-06-16",
-      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
+      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1161,23 +1271,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "66fbfffef3e452",
-      "title": "Okta expands Google Cloud partnership to secure AI agents and the browser",
-      "url": "https://siliconangle.com/2026/06/16/okta-expands-google-cloud-partnership-secure-ai-agents-browser/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-16",
-      "summary": "Okta Inc. today expanded its partnership with Google LLC&#8217;s Google Cloud with a set of integrations that bring identity governance to artificial intelligence agents and tighten security across the Chrome browser. The deal pairs Okta&#8217;s identity layer with Google Cloud&#8217;s Gemini Enterprise Agent Platform and Chrome Enterprise. Enterprises now manage swarms of AI agents the [&#8230;] \n The post  Okta expands Google Cloud partnership to secure AI agents and the browser  appeared firs",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1264,6 +1357,38 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b7bd7f352ec502",
+      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-16",
+      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "66fbfffef3e452",
+      "title": "Okta expands Google Cloud partnership to secure AI agents and the browser",
+      "url": "https://siliconangle.com/2026/06/16/okta-expands-google-cloud-partnership-secure-ai-agents-browser/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-16",
+      "summary": "Okta Inc. today expanded its partnership with Google LLC&#8217;s Google Cloud with a set of integrations that bring identity governance to artificial intelligence agents and tighten security across the Chrome browser. The deal pairs Okta&#8217;s identity layer with Google Cloud&#8217;s Gemini Enterprise Agent Platform and Chrome Enterprise. Enterprises now manage swarms of AI agents the [&#8230;] \n The post  Okta expands Google Cloud partnership to secure AI agents and the browser  appeared firs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1806,9 +1931,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "05c293bfb5713e",
+      "id": "c288d4361ded7a",
       "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - KFVS12",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlVHWEZEc0d4NXlaWTdRRk9ialhWVnRvUDRHTU5VdlQ1aDRCNEZpQXNKZWJNQ1NOaWRkR2tTUlU3czBQejN5NktSenZ6ZHpfZkVPMjdPYkNRZjFUV3lybmdleTNEaGdmOFdUTXpwcmNVbjdNdHQ5NjhYbTJqYlhnYXkyV0N6YmcyV1F4c2JGa3ItWlFpdEtjVVZlMndIaGxkVF9BeTBzTlZfTUYtVVF3XzBoTE9ZaVdBdEtaYVZjRXg0OHBQcS14ZmdzQkR3Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlVHWEZEc0d4NXlaWTdRRk9ialhWVnRvUDRHTU5VdlQ1aDRCNEZpQXNKZWJNQ1NOaWRkR2tTUlU3czBQejN5NktSenZ6ZHpfZkVPMjdPYkNRZjFUV3lybmdleTNEaGdmOFdUTXpwcmNVbjdNdHQ5NjhYbTJqYlhnYXkyV0N6YmcyV1F4c2JGa3ItWlFpdEtjVVZlMndIaGxkVF9BeTBzTlZfTUYtVVF3XzBoTE9ZaVdBdEtaYVZjRXg0OHBQcS14ZmdzQkR3Z9IB4gFBVV95cUxNcXdoMzU3aTdNek0yOWMycTNwa0ZISXdMSkNiQXRlWFlucVpVSEx3UF9GQi1DQURvdk9xUVdYcUtwcW9ZSWNadXc3VkI0NDNmaGdSbE9WaDhBcnAwSnhzVzlodEdKSWVlWGFfUjVyVXl2aHZzMkxTc1EzVXhNS1NZajNsUEZuTmh1NUowLWtwWGhGX1RXc3R0TGxSRmZoYVZpLWFBM3VvdE5sOFc0UjRYLUpZbk1aU0NKT3ZDN2NLVGJsRnV3cDFKU0tVTWtjQVRNZ2NFNGZRclBKbXhYVUFIWHpB?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-15",
@@ -1822,27 +1947,6 @@
       ],
       "amounts": [
         "$7 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "822daf62296a50",
-      "title": "Google to invest $1.5 billion in Jackson County - Business Alabama Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnZjcFVDUDVYS0RJbEdlY0V4b3FMZnhlTFpEaXk2TnFob2d0dDZvX2JmSFhhenhKajdzWEh0ZVN6RE9mRWtuVEdpSVQ4dFp1aDctTFdvNDhlUzB6RmY0Vl9RZGgyTEh3Mlk0bjV2ZldJYlItNHNtR1dsMTlQWGlNRQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google to invest $1.5 billion in Jackson County &nbsp;&nbsp; Business Alabama Magazine",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1885,6 +1989,48 @@
       ],
       "amounts": [
         "$10B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "05c293bfb5713e",
+      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - KFVS12",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlVHWEZEc0d4NXlaWTdRRk9ialhWVnRvUDRHTU5VdlQ1aDRCNEZpQXNKZWJNQ1NOaWRkR2tTUlU3czBQejN5NktSenZ6ZHpfZkVPMjdPYkNRZjFUV3lybmdleTNEaGdmOFdUTXpwcmNVbjdNdHQ5NjhYbTJqYlhnYXkyV0N6YmcyV1F4c2JGa3ItWlFpdEtjVVZlMndIaGxkVF9BeTBzTlZfTUYtVVF3XzBoTE9ZaVdBdEtaYVZjRXg0OHBQcS14ZmdzQkR3Zw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center &nbsp;&nbsp; KFVS12",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$7 million"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "822daf62296a50",
+      "title": "Google to invest $1.5 billion in Jackson County - Business Alabama Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnZjcFVDUDVYS0RJbEdlY0V4b3FMZnhlTFpEaXk2TnFob2d0dDZvX2JmSFhhenhKajdzWEh0ZVN6RE9mRWtuVEdpSVQ4dFp1aDctTFdvNDhlUzB6RmY0Vl9RZGgyTEh3Mlk0bjV2ZldJYlItNHNtR1dsMTlQWGlNRQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Google to invest $1.5 billion in Jackson County &nbsp;&nbsp; Business Alabama Magazine",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "$1.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -4464,6 +4610,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "347fae2d8986a2",
+      "title": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS0xuVEdDY1ZNZWxyWXJJRnhCdHRGNGtDZFRzRWh6THh1dUJOemZFTzg3bjV3bDNzYmsyRXBlZEZEYzJpcXQ2VWNocXBFMTRpMGZ2YVgySk1qQ3RGcEVpVWtMNmR3N3hCV0NVSkUxODltc0RndTRqcWJ6aTI?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-06-10",
+      "summary": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push &nbsp;&nbsp; Sherwood News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a4868832652ce7",
       "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
       "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
@@ -4491,23 +4654,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "347fae2d8986a2",
-      "title": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS0xuVEdDY1ZNZWxyWXJJRnhCdHRGNGtDZFRzRWh6THh1dUJOemZFTzg3bjV3bDNzYmsyRXBlZEZEYzJpcXQ2VWNocXBFMTRpMGZ2YVgySk1qQ3RGcEVpVWtMNmR3N3hCV0NVSkUxODltc0RndTRqcWJ6aTI?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-06-10",
-      "summary": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push &nbsp;&nbsp; Sherwood News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
       ],
       "locations": [],
       "amounts": [],
@@ -7522,8 +7668,8 @@
       "id": "524194ff537945",
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkYzR01DQjdaLXI1MzJqUkY0NEFWaGp3TEl6RGtTSW5ibE5Yemd1TEkwRmJGMXl5QjVlWEhoMDBRNkJ5Y0t6WU9URmNmdWRzQWJSelBTWWVWbl9YMU5mSm5CSTdJUUJVbWRxclhmb3QxNlBiQlZLVUpMUXdEMmlITThqLW1fUmVjb1ZPZ3RHN0o4b0o2ZHY5cFRIVEY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-06-05",
       "summary": "AirTrunk commits $30B to build 5GW of AI data centers in India &nbsp;&nbsp; TechCrunch",
       "finding_type": "New Project",
@@ -9286,21 +9432,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3142558e995820",
-      "title": "Gov. Whitmer addresses data centers day after Saline groundbreaking - Detroit Free Press",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVJPZHVTdGVqUDFlRnZRc1BPRGd3aU1zYWtrRkZSeWVBbzJKemtESE56WEE4RWFwN2J3emtQZFlNYnJGSEY3SkkyTWRabXI4VmdhdmZBSy13b2M1dllhYWFHNXhUQW4zR01HLWF2RThDQ2FwellwbzR1aE1LYWQ4aXhEZGdIMHFFSGZYX3hMSDlhb0o4T0hGYTByY3NyTGI4cFJBVmxDd3RZUlBMSDZELUlWSWQyNHk5aWhOZnk2U3dkQUxrZGVyT1ZB?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-06-03",
-      "summary": "Gov. Whitmer addresses data centers day after Saline groundbreaking &nbsp;&nbsp; Detroit Free Press",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "10fb01b561e33f",
       "title": "To Boldly Go: The Case for Space Datacenters",
       "url": "https://newsletter.semianalysis.com/p/to-boldly-go-the-case-for-space-datacenters",
@@ -9327,6 +9458,21 @@
       "companies": [
         "Amazon"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3142558e995820",
+      "title": "Gov. Whitmer addresses data centers day after Saline groundbreaking - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVJPZHVTdGVqUDFlRnZRc1BPRGd3aU1zYWtrRkZSeWVBbzJKemtESE56WEE4RWFwN2J3emtQZFlNYnJGSEY3SkkyTWRabXI4VmdhdmZBSy13b2M1dllhYWFHNXhUQW4zR01HLWF2RThDQ2FwellwbzR1aE1LYWQ4aXhEZGdIMHFFSGZYX3hMSDlhb0o4T0hGYTByY3NyTGI4cFJBVmxDd3RZUlBMSDZELUlWSWQyNHk5aWhOZnk2U3dkQUxrZGVyT1ZB?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-03",
+      "summary": "Gov. Whitmer addresses data centers day after Saline groundbreaking &nbsp;&nbsp; Detroit Free Press",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10389,148 +10535,6 @@
       "companies": [
         "Microsoft"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bc8bda4b878c95",
-      "title": "Microsoft launches Rayfin to let developers and agents build app back ends on Fabric",
-      "url": "https://siliconangle.com/2026/06/02/microsoft-launches-rayfin-let-developers-agents-build-app-backends-fabric/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Microsoft Corp. today introduced Rayfin, an open-source software development kit and command-line interface that lets developers and coding agents define an entire application back end in code and deploy it onto Microsoft Fabric. Announced at Microsoft Build 2026, Rayfin targets a gap that has widened as artificial intelligence has made it trivial to spin up [&#8230;] \n The post  Microsoft launches Rayfin to let developers and agents build app back ends on Fabric  appeared first on  SiliconANGLE",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3a2da1705f7740",
-      "title": "Anthropic expands Project Glasswing cybersecurity program to 150 more organizations",
-      "url": "https://siliconangle.com/2026/06/02/anthropic-expands-project-glasswing-cybersecurity-program-150-organizations/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Anthropic PBC is expanding a program that enables organizations to test their cybersecurity defenses using its Claude Mythos Preview model. The initiative, which is known as Project Glasswing, launched earlier this year with about 50 participants. The group included Microsoft Corp., Nvidia Corp., Google LLC and prominent tech firms. Anthropic announced today that it has [&#8230;] \n The post  Anthropic expands Project Glasswing cybersecurity program to 150 more organizations  appeared first on  S",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Google",
-        "NVIDIA",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "da8133d592c4ee",
-      "title": "Microsoft debuts an expansion of its model families and agentic AI intelligence for developers",
-      "url": "https://siliconangle.com/2026/06/02/microsoft-debuts-expansion-model-families-agentic-ai-intelligence-developers/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Microsoft Corp. announced an expansion to its artificial intelligence models and agentic AI infrastructure today that brings more data and context into the hands of developers and business users as they deploy. During the company’s Microsoft Build annual developer conference in San Francisco, the company made Microsoft IQ generally available. It is the company’s unified [&#8230;] \n The post  Microsoft debuts an expansion of its model families and agentic AI intelligence for developers  appeared ",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "345a721d6d1bb2",
-      "title": "Microsoft announces Surface RTX Spark AI supercomputer development box",
-      "url": "https://siliconangle.com/2026/06/02/microsoft-announces-surface-rtx-spark-ai-supercomputer-development-box/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Microsoft Corp. today announced it’s bringing agentic development capabilities into the hands of developers with a new desktop form factor supercomputer called the Surface RTX Spark Dev Box. Developed with Nvidia Corp.’s newly announced RTX Spark processor under the hood, it&#8217;s capable of delivering up to 1 petaflop of AI compute with 128 gigabytes of [&#8230;] \n The post  Microsoft announces Surface RTX Spark AI supercomputer development box  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "27693e797e2aaf",
-      "title": "AWS adds database features and license options aimed at simplifying agent deployment",
-      "url": "https://siliconangle.com/2026/06/02/aws-adds-database-features-license-options-aimed-simplifying-agent-deployment/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Amazon Web Services Inc. today enhanced its database services to simplify the process of building and operating agentic artificial intelligence applications while also lowering the barriers to cloud migration for users of Microsoft Corp.’s SQL Server. The announcements add built-in durability for Amazon ElastiCache for Valkey and a new bring-your-own-media option for Amazon RDS for [&#8230;] \n The post  AWS adds database features and license options aimed at simplifying agent deployment  appeare",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2984721b0d40e3",
-      "title": "Microsoft launches Rayfin to let developers and agents build app backends on Fabric",
-      "url": "https://siliconangle.com/2026/06/02/microsoft-launches-rayfin-let-developers-agents-build-app-backends-fabric/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Microsoft Corp. today introduced Rayfin, an open-source software development kit and command-line interface that lets developers and coding agents define an entire application backend in code and deploy it onto Microsoft Fabric. Announced at Microsoft Build 2026, Rayfin targets a gap that has widened as artificial intelligence has made it trivial to spin up an [&#8230;] \n The post  Microsoft launches Rayfin to let developers and agents build app backends on Fabric  appeared first on  SiliconANGL",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f0356483202c29",
-      "title": "Florida AG sues OpenAI and Sam Altman over claims the technology is dangerous and exploits its users",
-      "url": "https://siliconangle.com/2026/06/01/florida-ag-sues-openai-sam-altman-claims-technology-dangerous-exploits-users/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Florida today became the first U.S. state to sue OpenAI Group PBC and its chief executive, alleging that its product ChatGPT can be harmful to its users and that the company has failed to make clear these dangers to the public. “Today, we announced the first-in-the-nation state-led lawsuit against OpenAI and its CEO, Sam Altman,” [&#8230;] \n The post  Florida AG sues OpenAI and Sam Altman over claims the technology is dangerous and exploits its users  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [
-        "Florida"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c56dafd8a43318",
-      "title": "Intel introduces Xeon 6+ server processors, previews upcoming graphics cards",
-      "url": "https://siliconangle.com/2026/06/01/intel-introduces-xeon-6-server-processors-previews-upcoming-graphics-cards/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-02",
-      "summary": "Intel Corp. today debuted a line of central processing units based on its latest manufacturing process and shared new details about its next-generation graphics cards. Both product families are geared toward artificial intelligence data centers. Intel is also prioritizing the AI infrastructure market with a new series of Ethernet chips that it announced in conjunction. [&#8230;] \n The post  Intel introduces Xeon 6+ server processors, previews upcoming graphics cards  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
