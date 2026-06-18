@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-18T15:27:54.512778+00:00",
+  "last_updated": "2026-06-18T18:26:36.595357+00:00",
   "finding_count": 600,
-  "new_project_count": 82,
-  "cancellation_count": 19,
+  "new_project_count": 76,
+  "cancellation_count": 20,
   "sec_filing_count": 2,
-  "high_confidence_count": 194,
+  "high_confidence_count": 187,
   "findings": [
     {
       "id": "c96675c0c49f72",
@@ -99,6 +99,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "b57e8adce76ef7",
+      "title": "Microsoft breaks ground on La Porte data center - Inside INdiana Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTlCdmN4UkcwMFFQUDVHNUU0Y3ZjVmxxX1dlOWFOZS1SamtJOXRtREhQNlpJQ00wVTZqNzMweGpRQ0tKWXZNeWJyTnNZWVp3YXp4bEJPM2NHVzhYSGRzSUxVV25KOXBzMmVSMTNvbERQR3ZjOTJiUVVVbjhoT3RuY081V05kSzlJV0hZMmpYajlZMk9LTnRNbS1R?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-18",
+      "summary": "Microsoft breaks ground on La Porte data center &nbsp;&nbsp; Inside INdiana Business",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "INdiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "bb20dacb70a7b6",
       "title": "Microsoft breaks ground on data center campus in La Porte, Indiana",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-breaks-ground-on-data-center-campus-in-la-porte-indiana/",
@@ -135,6 +154,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "9133183310ceed",
+      "title": "Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+      "url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-06-18",
+      "summary": "Don't Believe The Vibecoded Estimates, Go Through Every Individual Filing Instead",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "dfc9bb93afd3d7",
       "title": "Strengthening Teen Accounts with New Safety Updates on Instagram and Facebook",
       "url": "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/",
@@ -149,6 +183,105 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b9aabd7cee10f8",
+      "title": "Colo provider MIRhosting sees equipment disconnected at Netherlands data center",
+      "url": "https://www.datacenterdynamics.com/en/news/colo-provider-mirhosting-sees-equipment-disconnected-at-netherlands-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Comes one week after 800 serves seized from customer of MIRhosting",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Netherlands"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "21539503d5e4b4",
+      "title": "Google unveils new open-source liquid-to-air cooling sidecar for air-cooled environments",
+      "url": "https://www.datacenterdynamics.com/en/news/google-unveils-new-open-source-liquid-to-air-cooling-sidecar-for-air-cooled-environments/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Dubbed Brazos, the new system furthers OCP development of sidecar designs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a0672fde4d62b9",
+      "title": "Firstcolo breaks ground on data center in Rosbach vor der Höhe, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/firstcolo-breaks-ground-on-data-center-in-rosbach-vor-der-h%C3%B6he-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Choice of location determined by lack of suitable grid connections in Frankfurt",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany",
+        "Frankfurt"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e5121b8eab4bdb",
+      "title": "A perfect storm: data centers and tornadoes",
+      "url": "https://www.datacenterdynamics.com/en/analysis/a-perfect-storm-data-centers-and-tornadoes/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "The cloud goes up against its older, tempestuous brother",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "549514fa93a253",
+      "title": "Homeland Security signs $2.6bn contract with AWS",
+      "url": "https://www.datacenterdynamics.com/en/news/homeland-security-signs-26bn-contract-with-aws/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Will run up to five years",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d82ada2d92de04",
+      "title": "Switch buys another site outside Las Vegas",
+      "url": "https://www.datacenterdynamics.com/en/news/switch-buys-another-site-outside-las-vegas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Data center firm grows its land bank again",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -203,6 +336,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e00acd00f1e331",
+      "title": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
+      "url": "https://blog.google/products/admanager/ask-ad-manager/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-18",
+      "summary": "An animated sequence on a white background introducing \"Agentic AI in Google Ad Manager\". The animation transitions to show a blue magnifying glass paired with a spark icon, accompanied by the black text \"Ask Ad Manager.”",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "df20a997cd75c3",
       "title": "DCD>Studio: Maintaining compliance and reliability in high-density environments with, Janne Paananen, Eaton",
       "url": "https://www.datacenterdynamics.com/en/videos/dcdstudio-maintaining-compliance-and-reliability-in-high-density-environments-with-janne-paananen-eaton-2026/",
@@ -243,23 +393,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e00acd00f1e331",
-      "title": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
-      "url": "https://blog.google/products/admanager/ask-ad-manager/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-18",
-      "summary": "An animated sequence on a white background introducing \"Agentic AI in Google Ad Manager\". The animation transitions to show a blue magnifying glass paired with a spark icon, accompanied by the black text \"Ask Ad Manager.”",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -472,8 +605,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$310M",
         "$310 million",
+        "$310M",
         "$1.45 billion",
         "$1.45B"
       ],
@@ -496,25 +629,6 @@
         "Missouri"
       ],
       "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6dd692aeb885d7",
-      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-06-17",
-      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$190 Billion"
-      ],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -803,6 +917,23 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "04568b228d452a",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ01nNkZ5alRYMzlhZUJQMm02Nk40MV9LUWNnd0pMT0wtRk9fdHJZS3U0VTNPNERsdmhFZ2YtcFFyalo2ajN2RzI2b01ZTl9yU0J4X3ZhMjl6dWQxWGhnUHplT0JpV1I4dERWZFVYQ1BpdDdwcnkzZkQ1LTNReHRkeTJkQm9mcExzV0U1WDRRQ3BsNkg3UWc3VVBFZG5Ga0RFNko0TnFsTV9Iank1b2pR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-17",
+      "summary": "Canadian pension giant joins race to fund India’s AI-fueled data center boom &nbsp;&nbsp; TechCrunch",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -1230,25 +1361,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "c5a5269e001fb2",
-      "title": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus - SValleyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEM2ZmxoOEszT1N1TjA2Y2x3TDV3R3d6N2NCLV8yYUVjY2ExYkdGVnNMYklqUkVfWjhNeWFEVG1oYWUwZmhTaEFqTE9MWWQtRWJxb1hfYVFXNjIwOHVlZGFMczFyV2tIOU5iSVpIRFQwZVFWVE1nOXE5aTU4U0Y4akwtakdjQlo5d3pnTmdmd3dYX2RVc1B0b19EbXBENS02bnNubTR5UEg3OW9OOEdZ0gG0AUFVX3lxTE0yOEdKSjFlTlpRTENCUG0zemNLRlFUTmZlMklqY29oVENHX0lGVE5NNlVRS2ZjMUUtR2cyRl9JZmZSaEhaM2VwQjF5blhVVnRGek13NlJOVnFBaTRCX3MwMXdibkZpVEswXzFTLXJ6MFhMUUdwTlRpRmtYUnNWcHBrUHNyODd5Mk45ZWpjMXFnSS1uTThNZ1dkbjF1eldIWnI3SkJOX2dCbGNJQWJBTVBqajd5RA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus &nbsp;&nbsp; SValleyNow.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "7265a2da5a46b6",
       "title": "Google to spend $1.5 billion on Alabama data center expansion By Investing.com - Investing.com Australia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2xFWDNwSVE4VE9GWmExNkhabDhDMXhZQ3had2ZLSFd2clNNR2dSOVNDZWl1UU54b1B4bkw0M1FoVUw0eE9KeTlzd0pzOXVZR2RjNXEtTUIxeVVwRmdkdVpuSk9RWTNIekdmX3pqNWs0S2xORTVXYXdvcUVzazJGYTZLLWxFSlRPQkRrRGlhaXA4a1NFS1NjOTlHeVhwRWU5QXNSNHYtWFd6eVFhMWVSTEFDUzdRUXpmbXFNVUZxMVBaSktGeGc?oc=5",
@@ -1266,6 +1378,25 @@
       ],
       "amounts": [
         "$1.5 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c5a5269e001fb2",
+      "title": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus - SValleyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEM2ZmxoOEszT1N1TjA2Y2x3TDV3R3d6N2NCLV8yYUVjY2ExYkdGVnNMYklqUkVfWjhNeWFEVG1oYWUwZmhTaEFqTE9MWWQtRWJxb1hfYVFXNjIwOHVlZGFMczFyV2tIOU5iSVpIRFQwZVFWVE1nOXE5aTU4U0Y4akwtakdjQlo5d3pnTmdmd3dYX2RVc1B0b19EbXBENS02bnNubTR5UEg3OW9OOEdZ0gG0AUFVX3lxTE0yOEdKSjFlTlpRTENCUG0zemNLRlFUTmZlMklqY29oVENHX0lGVE5NNlVRS2ZjMUUtR2cyRl9JZmZSaEhaM2VwQjF5blhVVnRGek13NlJOVnFBaTRCX3MwMXdibkZpVEswXzFTLXJ6MFhMUUdwTlRpRmtYUnNWcHBrUHNyODd5Mk45ZWpjMXFnSS1uTThNZ1dkbjF1eldIWnI3SkJOX2dCbGNJQWJBTVBqajd5RA?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-16",
+      "summary": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus &nbsp;&nbsp; SValleyNow.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.5 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -1590,23 +1721,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a61b87f5c2c603",
-      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-16",
-      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "0d4a0c769c333f",
       "title": "New expanded Android parental controls to support families around the world",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
@@ -1617,6 +1731,23 @@
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a61b87f5c2c603",
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-16",
+      "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -7203,6 +7334,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "8bce5b0ee62b6b",
+      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-08",
+      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS, tvOS, and Linux. I’m curious to see what you will build with it. […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3d496c9dc3329a",
       "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
@@ -7216,23 +7364,6 @@
         "New York",
         "Washington"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8bce5b0ee62b6b",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-08",
-      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS, tvOS, and Linux. I’m curious to see what you will build with it. […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8159,8 +8290,8 @@
         "India"
       ],
       "amounts": [
-        "$30B",
-        "5GW"
+        "5GW",
+        "$30B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10363,153 +10494,6 @@
       "amounts": [],
       "confidence": 1,
       "is_high_confidence": false
-    },
-    {
-      "id": "711f773820d71d",
-      "title": "Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours",
-      "url": "https://siliconangle.com/2026/06/03/broadcom-revenue-miss-stuns-wall-street-stock-sinks-hours/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-03",
-      "summary": "Updated with Thursday stock price: Shares of the chipmaker Broadcom Inc. came crashing down to Earth in late trading today after it reported weaker-than-expected second-quarter revenue. The stock fell a bit initially, and then much more after Chief Executive Hock Tan declined to raise the company’s full-year guidance for artificial intelligence chip sales beyond the [&#8230;] \n The post  Broadcom revenue miss stuns Wall Street, and its stock sinks after-hours  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "732e980ed0a04d",
-      "title": "CoolIT designs 15kW coldplate to future-proof liquid cooling for GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/coolit-designs-15kw-coldplate-to-future-proof-liquid-cooling-for-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Follows and improves on company’s 4kW coldplate design from last year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2a6674843bd262",
-      "title": "Photos: Google announces plans for $15 billion mid-Missouri data center - STLtoday.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0R6dE5aOTgyd3dGWFd3NFppYkdFdnJmX3Vwb29SbEkwcmpGbWZyX2wzaklYaHdaMlpkdDI4SUsyY2pQM1hnVk5BUGVIRXdwRjVCc0Y1QUhhbDBvcFNXZmhvbXhsNGhTRUk3M09TaTdOUVVWcGpUU0tiazl3VnU3a3JWc1hXOF83R29aUFZyMUp6eWk1VFpsVTUxWEZhb015U0lPMQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-02",
-      "summary": "Photos: Google announces plans for $15 billion mid-Missouri data center &nbsp;&nbsp; STLtoday.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8277013303f06b",
-      "title": "Google's parent company Alphabet seeks $80 billion for AI build out - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNlJfcFB6a0V4bVdGNEdRRkVXNUVkRWE4enpXWE5NLTlnaHNfRmtQcno0eks1VHVieGt0NGdKWXV6ZGZlelkyNUVSajFfc25KLXd3RVAzM3NjQ1o2WEJRX0NUUHN6UXRfTExVQnVEWjMtSzRuSWdHODgxTkpBdkxNdmgyY3NFNW5KX2V5VlZoaWY0eExoSzNaWnNtNWs1ZEVoNjZ5UjA0QWpEQXBWbGc?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-02",
-      "summary": "Google's parent company Alphabet seeks $80 billion for AI build out &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$80 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a33b53cc672f13",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjJtd01BV3dwOXgtX00ydzdxZFctWWRXRmJZVjFkZUk5OHB3dlJUUEhUU2dTRkxsUFhnUzhfeGNGNGM4eENVQlNNRnN2TUwtZFNxVTE5Wjd2emIyNjZaMlBvRnR4QXZMVU1WdVM5cVBUQ3htNER4bU1YbnlFMnB0aFEydHZYSU40bzEzZF84UmFrVmtFekFyNk5DTzlzNEdXRjdkVU5QT09YQ3RRRC12b25yS3R2Zlg0WHBMU2ZYYVhuVFVHcWZEeEpR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a2af536b6bf3f5",
-      "title": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2t4SFFBV3FLRXk0bUtBUW1XNk5RVHNPMFEzM0kyeU4xODhydWUtdVJsQjRXQ1N5X3FYWm4yakxEcjVjVFo1U2JNTktiSjhSaXVlVVpzZ01Lek53MTcxVjB4T2ExZFExNGViMENNdEV1TTFpeDVCaUJoSEM5RGhUUnVLeV9yOUZha21MNGVjZW0wbl9QMmVBMTNsdFdYcWlJQkVkTllnUkxWTXdhWXFoSUZXMA?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-02",
-      "summary": "Google Upsizes Equity Offering To Fund AI To $84.75 Billion &nbsp;&nbsp; Investor's Business Daily",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$84.75 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d8593cd04d662f",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus - BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEFVT1pEUGs4N2RfS0JNVGlWaEpSbUZxNzdPdFZqeHBuZWxxZVJLNE9OTlFhaldIVnhvbE1KdzNaQVl6QkVqSlVGcnhWVlVhMFdZU0FodUxOcXk2ODdGZUpxLVZ5SjhkY1RHWlU1Mk4tX2hRYlNud3RkM0RMSURFQVZCLVZWRDZQcXZ1bFFzVjR3WlNudUg4Z2dwV2VrZVBiT1ZONmZCekZWRDdzT0k0T3lTN2tVc1U?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-02",
-      "summary": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus &nbsp;&nbsp; BeBeez International",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9ad62331e8a349",
-      "title": "QTS behind Van Wert, Ohio, “mega site” acquisition, announces $10 billion data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/qts-behind-van-wert-ohio-mega-site-acquisition-announces-10-billion-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-02",
-      "summary": "Development could bring $200 million in tax revenue and create 1,500 construction jobs",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$200 million",
-        "$10 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
     }
   ]
 }
