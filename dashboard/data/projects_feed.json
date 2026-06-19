@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-19T15:20:47.863430+00:00",
+  "last_updated": "2026-06-19T17:59:37.952832+00:00",
   "finding_count": 600,
-  "new_project_count": 78,
+  "new_project_count": 79,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 198,
+  "high_confidence_count": 192,
   "findings": [
     {
       "id": "2003db0be989e0",
@@ -89,6 +89,23 @@
         "$24M"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5280870db793ab",
+      "title": "Nuclear physics research lab Jefferson Lab breaks ground on 30,000 sq ft data center",
+      "url": "https://www.datacenterdynamics.com/en/news/nuclear-physics-research-lab-jefferson-lab-breaks-ground-on-30000-sq-ft-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "Facility backed by $49m in funding",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$49m"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -177,13 +194,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4b6a3611577196",
-      "title": "True IDC Advances Continuous Investment with 6 Billion Baht in Its 7th Data Center in Northern Bangkok, Fueling Cloud and AI Growth to Drive Thailand's Evolution into a Full-Fledged AI Economy - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNYjduWkxXdEdNT1VnTC1pdU9rMHNjckQyY3hHbzB3Ml9mYjV1a3p3R1FoZjhELTBaQWhPNjcxa0xEaUhUUEhqNjhDWnI2M2pYRmhJWWNFa1B0MUF1SkppYTkxZVhlbUYya1dmNXVVX1lLcXZuZUs2UXVBSmx2ejZUZVowbTFZcXF6NnRiODA0bUJmV3dBRjRhWk5ueDdPWDVHWm1VMDFXV0R5N1hMa095M1owVW8yNWFETFhNN2pHY2UxZzRmU3Rpc0lkVUdNR3pGclhDWGZIS0pTUmJrdi1wbkFXNFV3QlRFck1SZ3Fvdm1wdmhBV044VHBXRkNDSDVELUkzTkRHN2EwS3lhZ0g3VExfMmU1SC1XLVVkUGo3M1RHa1JjcHN6czAtcjl3WWl2bHdvUzJCYmlDQnZKTTBCLTZGUk5GSE5EQm9SQklWWFZ4VjFfcklUdlRZNWFpSVViZ2xySDM1VnB0NTBRNnV6VTFDWWREcVJNZnhOYUkteFo?oc=5",
+      "id": "53186b1fa22191",
+      "title": "True IDC Continues Investing with 6 Billion Baht in Its 7th Data Center in Northern Bangkok - ANTARA News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR05TOHhrRkNpbFRkTzFEOTJVVFdNMjhDV3FZOHJFVDQ0RVBMX1dJUWVnOVVPS2VRcVdwcmF4OGZLS0lNbE43anNsZEU4bUdMZFkxTHQwNnh5MmJwWFdqcGNEcEFOTkllTzVRa3A2dUtlSkZ0VFFvNU05Zk5MajFmc3c0a1h2U1lfRnpzbXdqWU54NFA0MmJ4VUx6LVJqUlR3VWU4bDV1OUJKeENEaVp2Y29xOFJaMFFQeUI3WmhudXdRVHlTSVpoUFJwQllld9IBzgFBVV95cUxNR05TOHhrRkNpbFRkTzFEOTJVVFdNMjhDV3FZOHJFVDQ0RVBMX1dJUWVnOVVPS2VRcVdwcmF4OGZLS0lNbE43anNsZEU4bUdMZFkxTHQwNnh5MmJwWFdqcGNEcEFOTkllTzVRa3A2dUtlSkZ0VFFvNU05Zk5MajFmc3c0a1h2U1lfRnpzbXdqWU54NFA0MmJ4VUx6LVJqUlR3VWU4bDV1OUJKeENEaVp2Y29xOFJaMFFQeUI3WmhudXdRVHlTSVpoUFJwQllldw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-06-19",
-      "summary": "True IDC Advances Continuous Investment with 6 Billion Baht in Its 7th Data Center in Northern Bangkok, Fueling Cloud and AI Growth to Drive Thailand's Evolution into a Full-Fledged AI Economy &nbsp;&nbsp; TradingView",
+      "summary": "True IDC Continues Investing with 6 Billion Baht in Its 7th Data Center in Northern Bangkok &nbsp;&nbsp; ANTARA News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -229,15 +246,81 @@
       "is_high_confidence": false
     },
     {
-      "id": "13f7dad5738280",
-      "title": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOd2t3enV4SG1iREx0X2lkaEtaNWNRT29DelBuSFNXNURUVGFTUXRyMTFIWlBEVzJZQTlpVFV5TkJKUHdROHhmQ244TVZ2VGlIeFNmQmRJcVVIQ0ctc3YzdVJaV0NkS0k2a19Jal9xamxUcmZ1a1ZyTzduSFZJSk9oSzlXX1pjYkpqbmgxaGlMRXJWTmxxczN6Y2IyU3d3SVNDbXpTS1lwdGVXR1NXTVFOY0h3OVhQTWF1V2hJN2hUUmRaZmFydDdZYkRQOHlYSmo0NC1qX3BVTFBHQjdpUjhRTGcwUHZzOURJSmRnMnE4aWJ3RXdGT0hrRTR3Yi1QREg2N1RfcGd3SjQyLWNKQkMzQ1RIc2UzajZLTGhwSFZPelV1SGJSeHlCQXY4MjBaRzJOSWFMUHhXUi1RUQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
+      "id": "4b6a3611577196",
+      "title": "True IDC Advances Continuous Investment with 6 Billion Baht in Its 7th Data Center in Northern Bangkok, Fueling Cloud and AI Growth to Drive Thailand's Evolution into a Full-Fledged AI Economy - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNYjduWkxXdEdNT1VnTC1pdU9rMHNjckQyY3hHbzB3Ml9mYjV1a3p3R1FoZjhELTBaQWhPNjcxa0xEaUhUUEhqNjhDWnI2M2pYRmhJWWNFa1B0MUF1SkppYTkxZVhlbUYya1dmNXVVX1lLcXZuZUs2UXVBSmx2ejZUZVowbTFZcXF6NnRiODA0bUJmV3dBRjRhWk5ueDdPWDVHWm1VMDFXV0R5N1hMa095M1owVW8yNWFETFhNN2pHY2UxZzRmU3Rpc0lkVUdNR3pGclhDWGZIS0pTUmJrdi1wbkFXNFV3QlRFck1SZ3Fvdm1wdmhBV044VHBXRkNDSDVELUkzTkRHN2EwS3lhZ0g3VExfMmU1SC1XLVVkUGo3M1RHa1JjcHN6czAtcjl3WWl2bHdvUzJCYmlDQnZKTTBCLTZGUk5GSE5EQm9SQklWWFZ4VjFfcklUdlRZNWFpSVViZ2xySDM1VnB0NTBRNnV6VTFDWWREcVJNZnhOYUkteFo?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-06-19",
-      "summary": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand &nbsp;&nbsp; Tom's Hardware",
+      "summary": "True IDC Advances Continuous Investment with 6 Billion Baht in Its 7th Data Center in Northern Bangkok, Fueling Cloud and AI Growth to Drive Thailand's Evolution into a Full-Fledged AI Economy &nbsp;&nbsp; TradingView",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "07abe9e25cfa14",
+      "title": "Plans filed for three-building data center campus in Northumberland, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-three-building-data-center-campus-in-northumberland-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "Site to use natural gas-powered fuel cells for bridging power",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a910670fbb6d3c",
+      "title": "Building the data center workforce starts in the classroom",
+      "url": "https://www.datacenterdynamics.com/en/opinions/building-the-data-center-workforce-starts-in-the-classroom/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "The importance of talking to young people about the sector",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5adb4825db80e9",
+      "title": "DMG signs first prefab data center colocation contract at Christina Lake site in Canada",
+      "url": "https://www.datacenterdynamics.com/en/news/dmg-signs-first-prefab-data-center-colocation-contract-at-christina-lake-site-in-canada/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "Unnamed tenant to run AI compute workloads at site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "29c1bcc2ea7951",
+      "title": "AWS launches Local Zone cloud location in Hanoi, Vietnam",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-launches-local-zone-cloud-location-in-hanoi-vietnam/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "Athens Local Zone coming next month",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -309,21 +392,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "98d64c93e1ac26",
-      "title": "DCD>Talks: Rigging engineering for data center construction with Bill Tierney, ProLift Rigging",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-rigging-engineering-for-data-center-construction-with-bill-tierney-prolift-rigging/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-19",
-      "summary": "Bill Tierney, Director of Project Development at ProLift Rigging, talks to DCD’s Emma Strutton about the evolution of rigging engineering for data center construction.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "afc2d8b848be5d",
       "title": "Trump kneecaps Anthropic, SpaceX bags Cursor and Databricks debuts AI agent coworker",
       "url": "https://siliconangle.com/2026/06/19/trump-kneecaps-anthropic-spacex-bags-cursor-databricks-debuts-ai-agent-coworker/",
@@ -335,6 +403,36 @@
       "companies": [
         "Anthropic"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13f7dad5738280",
+      "title": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOd2t3enV4SG1iREx0X2lkaEtaNWNRT29DelBuSFNXNURUVGFTUXRyMTFIWlBEVzJZQTlpVFV5TkJKUHdROHhmQ244TVZ2VGlIeFNmQmRJcVVIQ0ctc3YzdVJaV0NkS0k2a19Jal9xamxUcmZ1a1ZyTzduSFZJSk9oSzlXX1pjYkpqbmgxaGlMRXJWTmxxczN6Y2IyU3d3SVNDbXpTS1lwdGVXR1NXTVFOY0h3OVhQTWF1V2hJN2hUUmRaZmFydDdZYkRQOHlYSmo0NC1qX3BVTFBHQjdpUjhRTGcwUHZzOURJSmRnMnE4aWJ3RXdGT0hrRTR3Yi1QREg2N1RfcGd3SjQyLWNKQkMzQ1RIc2UzajZLTGhwSFZPelV1SGJSeHlCQXY4MjBaRzJOSWFMUHhXUi1RUQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-19",
+      "summary": "US energy regulator to order grid operators to expedite AI data center applications — says projects should bring their own power or cut usage during high demand &nbsp;&nbsp; Tom's Hardware",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "98d64c93e1ac26",
+      "title": "DCD>Talks: Rigging engineering for data center construction with Bill Tierney, ProLift Rigging",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-rigging-engineering-for-data-center-construction-with-bill-tierney-prolift-rigging/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-19",
+      "summary": "Bill Tierney, Director of Project Development at ProLift Rigging, talks to DCD’s Emma Strutton about the evolution of rigging engineering for data center construction.",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -401,25 +499,6 @@
         "$1.5 Billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6dd692aeb885d7",
-      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-06-18",
-      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$190 Billion"
-      ],
-      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -551,6 +630,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "7b9693057145b4",
+      "title": "Microsoft breaks ground on La Porte data center - Northwest Indiana Business Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0huMDRMSjhFY2I5Y3N0TVpBNklSQ2J3c1A5WXRuRjNyYXJLQkc3R1Z3NWdpc2JIakZubWd6QlNxbnQwNnBrbnh5eGNxazg4Mm00TUF6c3lfcnBKTDNEZG5sMElrNXdJM0NHb2JTbTZOcVh0MkV1SE53SWZuT09HQ0hNckd3YUFkV3dYZmhsTG92UC1xeXNLZENIMjJ1OUwzTmxVdGFzTnQwLUx2Sm5WeFpad0tvTUhncmlYcHF0eklQSVdfUVQycDR5THVhczFwUl9Da2RNMA?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-06-18",
+      "summary": "Microsoft breaks ground on La Porte data center &nbsp;&nbsp; Northwest Indiana Business Magazine",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "bb20dacb70a7b6",
       "title": "Microsoft breaks ground on data center campus in La Porte, Indiana",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-breaks-ground-on-data-center-campus-in-la-porte-indiana/",
@@ -597,23 +695,6 @@
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bfbd052059cfc2",
-      "title": "Asbury Park Calls For Statewide Freeze On Data Center Construction - News12 | New Jersey",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObklUdmx2MDNxNnRFVjBWWno4SnVNQUdMOVJwTGVfNHF1WlN1MnV2aEU2OXZMNDNzd1lpMi00NUFZaWlwVWU3ME9zMWVqZjI1aW5iampZeXl0aXNoeXhBMkMwdmNUZjVhbnNGdUFtVjVSRXRSa1c5UHNBbnRNUUhlcnNKRnJMN0IzcGJIU0JRbXMzN1ltSUtLWE9faXl3Ykt3OTVRX01hd2N0c3NJcU9fdUsyWmZ4MlZfMGd0SHFYYmYzOURYd2NQRg?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-18",
-      "summary": "Asbury Park Calls For Statewide Freeze On Data Center Construction &nbsp;&nbsp; News12 | New Jersey",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -669,35 +750,20 @@
       "is_high_confidence": false
     },
     {
-      "id": "8b45324da97717",
-      "title": "AI data centers not welcome in Asbury Park. Council takes a stand - Asbury Park Press",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzNHWm9faWVpV21PZDlFWlRSS0hfazljZWZ3NktGNGYwR0lGQ0VTSE9kdjZjNjQzVjRWS0Nfc0QwUDVpX1RMZkpvRGZtMHNrTUJmRVZVcy1LZnJjT0sxUEtocXZVSDZJdVN3Ukk0OGNkNW5vZ3dqdzFjRV9VOG5yMmhtTExIc3ZZUm45TkdsZGx0cWtoSldWLV9TdGVTX0tFSGR4ZUpZTQ?oc=5",
+      "id": "bfbd052059cfc2",
+      "title": "Asbury Park Calls For Statewide Freeze On Data Center Construction - News12 | New Jersey",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObklUdmx2MDNxNnRFVjBWWno4SnVNQUdMOVJwTGVfNHF1WlN1MnV2aEU2OXZMNDNzd1lpMi00NUFZaWlwVWU3ME9zMWVqZjI1aW5iampZeXl0aXNoeXhBMkMwdmNUZjVhbnNGdUFtVjVSRXRSa1c5UHNBbnRNUUhlcnNKRnJMN0IzcGJIU0JRbXMzN1ltSUtLWE9faXl3Ykt3OTVRX01hd2N0c3NJcU9fdUsyWmZ4MlZfMGd0SHFYYmYzOURYd2NQRg?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-06-18",
-      "summary": "AI data centers not welcome in Asbury Park. Council takes a stand &nbsp;&nbsp; Asbury Park Press",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b9aabd7cee10f8",
-      "title": "Colo provider MIRhosting sees equipment disconnected at Netherlands data center",
-      "url": "https://www.datacenterdynamics.com/en/news/colo-provider-mirhosting-sees-equipment-disconnected-at-netherlands-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-18",
-      "summary": "Comes one week after 800 serves seized from customer of MIRhosting",
-      "finding_type": "Statement / Update",
+      "summary": "Asbury Park Calls For Statewide Freeze On Data Center Construction &nbsp;&nbsp; News12 | New Jersey",
+      "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
-        "Netherlands"
+        "New Jersey"
       ],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -797,6 +863,38 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8b45324da97717",
+      "title": "AI data centers not welcome in Asbury Park. Council takes a stand - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzNHWm9faWVpV21PZDlFWlRSS0hfazljZWZ3NktGNGYwR0lGQ0VTSE9kdjZjNjQzVjRWS0Nfc0QwUDVpX1RMZkpvRGZtMHNrTUJmRVZVcy1LZnJjT0sxUEtocXZVSDZJdVN3Ukk0OGNkNW5vZ3dqdzFjRV9VOG5yMmhtTExIc3ZZUm45TkdsZGx0cWtoSldWLV9TdGVTX0tFSGR4ZUpZTQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-18",
+      "summary": "AI data centers not welcome in Asbury Park. Council takes a stand &nbsp;&nbsp; Asbury Park Press",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b9aabd7cee10f8",
+      "title": "Colo provider MIRhosting sees equipment disconnected at Netherlands data center",
+      "url": "https://www.datacenterdynamics.com/en/news/colo-provider-mirhosting-sees-equipment-disconnected-at-netherlands-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-18",
+      "summary": "Comes one week after 800 serves seized from customer of MIRhosting",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Netherlands"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2485,21 +2583,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "620aadb9aca34c",
-      "title": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTdkZFN1c3ltc3ZUUjNEbHFwNFMwaHdRRDZhRWJudHBWSk1ncExXeXk1Zm5TQWVHekRvWkZFajM0SEcyWlNObFpIR3ZXaU9mdDBScVpENU9IMmRWSzN2cmg3Q1BlWm1JTTZxVUJDRzJCRXZfdEFMU2E4VlBRS1dFdTh6SlBHUUlCQnJBVnJXU1JTUW1MUGN5SVpn?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-16",
-      "summary": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’ &nbsp;&nbsp; The Guardian",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b7bd7f352ec502",
       "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
@@ -2578,6 +2661,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "620aadb9aca34c",
+      "title": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTdkZFN1c3ltc3ZUUjNEbHFwNFMwaHdRRDZhRWJudHBWSk1ncExXeXk1Zm5TQWVHekRvWkZFajM0SEcyWlNObFpIR3ZXaU9mdDBScVpENU9IMmRWSzN2cmg3Q1BlWm1JTTZxVUJDRzJCRXZfdEFMU2E4VlBRS1dFdTh6SlBHUUlCQnJBVnJXU1JTUW1MUGN5SVpn?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-16",
+      "summary": "How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’ &nbsp;&nbsp; The Guardian",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -3236,27 +3334,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "ddd5b5186477a5",
-      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - First Alert 4",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVdsbkVCcUN0ZEN0emNkYk9MRnNuZ1FmNjVBXzBNRjRXeVkyTVdnNWZ0SmM0NnVnQkYwWXNoZnhFSWU5Qk5wSjUzaDZzbXVENi1xNm9HX3A4ZHpOclNINTBqRUNhQ2R0Z24yOE5qQXdkTTVlZ2c3SzhFM2dtdEpnVWh1dHpmZTR6SUZKVVYtNFZjRl9nbWtPdElNV016UkpXY2Q4OU95aXJGQVJGclp3RVI5QllaVk8zdEHSAc4BQVVfeXFMTWJGeXNmb2t1bDZ6TjFJYkFWdV9HUkRxWVdUb0IyYUx4NmZnNm9OTklhdFFZd0ZfWkcwZllhNWl3elVvdy1HSGcwbDN4ZC1DaXJZNi16WWZqeEMtMFpNWTVVTkVveWhabHpfc2RmVzlnWWdQbDZvcjFmUWtPQjBPZHJjNng2TnRIZGlCTVRRVmthYnZORk9uTWY5WGZTUmRSUHF3SUVOSVp5eEJyZlY0dU9IdUROZkI1QlR5bnZOak9sb3Y4TGpQeGJ3bm81c1E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center &nbsp;&nbsp; First Alert 4",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$7 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "eabc98e9708f9c",
       "title": "Google announces $1.5 billion Jackson County expansion, one of Northeast Alabama's largest investments - Yellowhammer News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaUlxOU5JVWNxZ2FJSVExRUNSazNmNHJReERwNzJOcmNndDVLaUVYZGlfaGFmeE5oU0JoR0R1cHRPSlpmWTdBUzcybkdlcEJNd1RQanNzd2xMR3BXWVJYdVlWa0FKZHlTRzdUQ1JGbmRUVXV0WEVQdWhZMHdTQkowNG5wOHppbEdTaENHb2tneXdWUi1qYkZvdzlKQ0JyQ3FzeGlTQ0p2SmVKOU1ORkFBbnc0OGVZRFBGUWd2Z2t5dEJoV25Eendzcg?oc=5",
@@ -3273,6 +3350,27 @@
       ],
       "amounts": [
         "$1.5 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ddd5b5186477a5",
+      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - First Alert 4",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVdsbkVCcUN0ZEN0emNkYk9MRnNuZ1FmNjVBXzBNRjRXeVkyTVdnNWZ0SmM0NnVnQkYwWXNoZnhFSWU5Qk5wSjUzaDZzbXVENi1xNm9HX3A4ZHpOclNINTBqRUNhQ2R0Z24yOE5qQXdkTTVlZ2c3SzhFM2dtdEpnVWh1dHpmZTR6SUZKVVYtNFZjRl9nbWtPdElNV016UkpXY2Q4OU95aXJGQVJGclp3RVI5QllaVk8zdEHSAc4BQVVfeXFMTWJGeXNmb2t1bDZ6TjFJYkFWdV9HUkRxWVdUb0IyYUx4NmZnNm9OTklhdFFZd0ZfWkcwZllhNWl3elVvdy1HSGcwbDN4ZC1DaXJZNi16WWZqeEMtMFpNWTVVTkVveWhabHpfc2RmVzlnWWdQbDZvcjFmUWtPQjBPZHJjNng2TnRIZGlCTVRRVmthYnZORk9uTWY5WGZTUmRSUHF3SUVOSVp5eEJyZlY0dU9IdUROZkI1QlR5bnZOak9sb3Y4TGpQeGJ3bm81c1E?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center &nbsp;&nbsp; First Alert 4",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$7 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -5930,6 +6028,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "347fae2d8986a2",
+      "title": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push - Sherwood News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS0xuVEdDY1ZNZWxyWXJJRnhCdHRGNGtDZFRzRWh6THh1dUJOemZFTzg3bjV3bDNzYmsyRXBlZEZEYzJpcXQ2VWNocXBFMTRpMGZ2YVgySk1qQ3RGcEVpVWtMNmR3N3hCV0NVSkUxODltc0RndTRqcWJ6aTI?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-06-10",
+      "summary": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push &nbsp;&nbsp; Sherwood News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a4868832652ce7",
       "title": "Now available: Amazon EC2 M9g and M9gd instances powered by new AWS Graviton5 processors",
       "url": "https://aws.amazon.com/blogs/aws/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
@@ -5957,23 +6072,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "347fae2d8986a2",
-      "title": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push - Sherwood News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iS0xuVEdDY1ZNZWxyWXJJRnhCdHRGNGtDZFRzRWh6THh1dUJOemZFTzg3bjV3bDNzYmsyRXBlZEZEYzJpcXQ2VWNocXBFMTRpMGZ2YVgySk1qQ3RGcEVpVWtMNmR3N3hCV0NVSkUxODltc0RndTRqcWJ6aTI?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-06-10",
-      "summary": "Oracle Q4 earnings and revenue top estimates; hyperscaler plans more debt issuance to support massive capex push &nbsp;&nbsp; Sherwood News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
       ],
       "locations": [],
       "amounts": [],
@@ -8042,6 +8140,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "8bce5b0ee62b6b",
+      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-08",
+      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS, tvOS, and Linux. I’m curious to see what you will build with it. […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3d496c9dc3329a",
       "title": "Opinion | America needs more data centers. New York wants fewer. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJpS3NGNlpoMnQ0cmttOWlCcnNBSS1jMTVUTGw4RzJDcExwbzk1R2NoYjRsS3ZXYzQwNjdRM1ZKUTNlekhCN01zZURJUkdTX0pQaG9ENWxwM2RYX1RRSTJsVU55UGJYZVRmaVd0TDFTejlxS1RvZ3NkOVFOVkRuLVVmenRnNlVfTENKT3k3U3QtWlhrODJmMWlUUTUtVVFfWGZlVHg1ZDZnVnZuYXBuZlBHYkJJalRrdGln?oc=5",
@@ -8055,23 +8170,6 @@
         "New York",
         "Washington"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8bce5b0ee62b6b",
-      "title": "AWS Weekly Roundup: BYOM for Amazon RDS for SQL Server, AWS IoT Device SDK for Swift, and more (June 8, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-byom-for-amazon-rds-for-sql-server-aws-iot-device-sdk-for-swift-and-more-june-8-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-08",
-      "summary": "This week, the&nbsp;AWS IoT Device SDK for Swift&nbsp;reached general availability. As a member of the&nbsp;Swift Server Workgroup (SSWG), this one caught my attention. The SDK brings production-ready MQTT 5 connectivity, Device Shadow, Jobs, and fleet provisioning to Swift developers on macOS, iOS, tvOS, and Linux. I’m curious to see what you will build with it. […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10385,116 +10483,6 @@
         "$100M"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9f0f709c21f262",
-      "title": "AI data center build in North Carolina gets $20M bridge loan - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeWs0dTVyUG9Wc2pwc19XbE5CUWdXT0pSeEdqbGR6WVQzYWthcXA5WGN5RVRHMWV4ekFFM1RsNFhQb2pIaHZ3S09PaldOc1JXRTlndGsyZ0Y5SFIzNFlnTm8wT0NhSXJBZFA1cWpKWnQ4a3JQRXlMUUFEZ2lNM0lHZDFPTUlQNnd0VGgzVVh4Vy1iRlpmQy1mTnh6V1pwWHh2Rlh5di11R0pNbVNYTE02MC1RME9FZmhWT2hUUEZR?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-06-03",
-      "summary": "AI data center build in North Carolina gets $20M bridge loan &nbsp;&nbsp; Stock Titan",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [
-        "$20M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e78fd6aef90ca3",
-      "title": "Google launches water conservation commitments for data centers in Nebraska, Iowa - Omaha World-Herald",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFpkY0ZtZjN3d0trSlZNMk1NZWtMcDVFMmhDT3RuWHNqN1NTMzJfTlhwODFjVjhvQThxcExqMXhOUWs5TFBNY0JKRm1xX3R6SGlfV3BOVjBiX0NRU3ZHLVRZTnRlV2I4OW1mc1ZiYlJJNmczTmFrMlBjYldoVUZ0YkxHMnRxeXFwOTVFOVlpTTVfRndrdkRlNUpuNWljMXdh?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-03",
-      "summary": "Google launches water conservation commitments for data centers in Nebraska, Iowa &nbsp;&nbsp; Omaha World-Herald",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Nebraska",
-        "Iowa"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dd7bedc836ee77",
-      "title": "Iren targets Australia for 800MW data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/iren-targets-australia-for-800mw-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Company building outside Adelaide in Bundey",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "800MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1e128f272b5afc",
-      "title": "DXN secures contract with unnamed neocloud to supply modular data center",
-      "url": "https://www.datacenterdynamics.com/en/news/dxn-secures-contract-with-unnamed-neocloud-to-supply-modular-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Will see DXN delivering a 1.36MW data center module",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1.36MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "81814530a062f2",
-      "title": "ILI files to develop 600MW Stoic data center in Fife, Scotland",
-      "url": "https://www.datacenterdynamics.com/en/news/ili-files-to-develop-600mw-stoic-data-center-in-fife-scotland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Roxburghe Estate also files to host 225MW campus in Scottish Borders",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "225MW",
-        "600MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "169347cb35ff4d",
-      "title": "BDx Data Centers signs 1.2GW of power supply agreements with Indonesian utility PLN",
-      "url": "https://www.datacenterdynamics.com/en/news/bdx-data-centers-signs-12gw-of-power-supply-agreements-with-indonesian-utility-pln/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-03",
-      "summary": "Will support operations at three of the firm's data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1.2GW"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
