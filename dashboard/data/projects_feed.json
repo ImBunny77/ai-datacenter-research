@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:51:37.423539+00:00",
+  "last_updated": "2026-06-21T12:11:06.756753+00:00",
   "finding_count": 600,
   "new_project_count": 81,
   "cancellation_count": 22,
@@ -25,8 +25,8 @@
       "id": "d9e9b2f5bda0b9",
       "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-06-19",
       "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
@@ -96,8 +96,8 @@
         "California"
       ],
       "amounts": [
-        "$5m",
-        "10GW"
+        "10GW",
+        "$5m"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1775,23 +1775,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "5507970a7e9ed7",
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-17",
-      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "db9c0846d1f16c",
       "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
@@ -1904,6 +1887,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5507970a7e9ed7",
+      "title": "Massive breach spills credentials for thousands of sensitive networks",
+      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-17",
+      "summary": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
       ],
       "locations": [],
       "amounts": [],
