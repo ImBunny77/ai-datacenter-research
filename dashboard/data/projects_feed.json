@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-22T17:07:00.470776+00:00",
+  "last_updated": "2026-06-22T20:50:05.803454+00:00",
   "finding_count": 600,
-  "new_project_count": 78,
-  "cancellation_count": 18,
+  "new_project_count": 80,
+  "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 192,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "884ac2ed5cc5e1",
@@ -44,6 +44,27 @@
       ],
       "amounts": [
         "2GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "340b67346e1132",
+      "title": "Inference chip startup Groq raises $650M to grow its cloud platform",
+      "url": "https://siliconangle.com/2026/06/22/inference-chip-startup-groq-raises-650m-grow-cloud-platform/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-22",
+      "summary": "Seven months after inking a $20 billion chip licensing deal with Nvidia Corp., Groq Inc. today announced that it has raised $650 million in funding. Growth investment firm Disruptive and hedge fund Infinitum led the round. Groq has developed a chip design called the LPU that&#8217;s specifically optimized for artificial intelligence inference workloads. In December, [&#8230;] \n The post  Inference chip startup Groq raises $650M to grow its cloud platform  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$650 million",
+        "$650M",
+        "$20 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -96,8 +117,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$396m",
-        "24MW"
+        "24MW",
+        "$396m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -537,6 +558,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "06d69b1af3785b",
+      "title": "Explore Colonial Williamsburg with Google Arts & Culture",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-22",
+      "summary": "An aerial view shows the formal gardens and geometric hedgerows of the Governor's Palace in Williamsburg, Virginia, set against a large brick building under a cloudy sky.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c339d930781c20",
       "title": "NotebookLM is transforming student success at FSU",
       "url": "https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/",
@@ -603,6 +643,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "21ca8e83a2ea67",
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-22",
+      "summary": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
       "id": "eb9897fb70e708",
       "title": "Mantle DC launches GPUaaS with 144 Blackwell GPUs",
       "url": "https://www.datacenterdynamics.com/en/news/mantle-dc-launches-gpuaas-with-144-blackwell-gpus/",
@@ -631,6 +686,27 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "3481bc5b5541d4",
+      "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-19",
+      "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "d9e9b2f5bda0b9",
@@ -705,8 +781,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$24M",
-        "$24 million"
+        "$24 million",
+        "$24M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1156,27 +1232,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2e0edd5dcac56f",
-      "title": "Alphabet (GOOGL) Announces $1.5 Billion Investment Across 2026 And 2027 To Expand Its Alabama Data Center Campus - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGRLVlp5WTg2aV9oR3U5dDI0ZWt1djduYnFpNHVIbGtZbnB4b2VpR3FHR1BkZE5VMXhpQm13YlQ3dnBqa3BBQzN5NkQ3QjZHc1JJN18zbU9tMG9vRU9pdjZFRmI0U1BwcVJsQUpZeV9PMGVCVC1rV0RwT3NpZnNfNmp0SWZZcTN3bXpZRlRReDdVenc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-18",
-      "summary": "Alphabet (GOOGL) Announces $1.5 Billion Investment Across 2026 And 2027 To Expand Its Alabama Data Center Campus &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "0c5510568ee7ae",
       "title": "Amazon.com (AMZN) Gains 3% After Announcing $10 Billion Missouri Data Center Investment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYWhKVTV6Z09ORjZYSzE0ODdyenZNUnJtWnUyUzExM1lZZHZ1YnlDdTl6TmowVVdpSWI2clpvU2hfOXU3aVBZZ2JUQ3NoNnowa0VnRnp0dmNFQ1NpVjlIeENGRzFvQzFXcktZbHZtZU9lTHRVRnFCeFJJMXByR0tlT3hvNGZySXBkYm1GMg?oc=5",
@@ -1193,6 +1248,27 @@
       ],
       "amounts": [
         "$10 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2e0edd5dcac56f",
+      "title": "Alphabet (GOOGL) Announces $1.5 Billion Investment Across 2026 And 2027 To Expand Its Alabama Data Center Campus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGRLVlp5WTg2aV9oR3U5dDI0ZWt1djduYnFpNHVIbGtZbnB4b2VpR3FHR1BkZE5VMXhpQm13YlQ3dnBqa3BBQzN5NkQ3QjZHc1JJN18zbU9tMG9vRU9pdjZFRmI0U1BwcVJsQUpZeV9PMGVCVC1rV0RwT3NpZnNfNmp0SWZZcTN3bXpZRlRReDdVenc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-18",
+      "summary": "Alphabet (GOOGL) Announces $1.5 Billion Investment Across 2026 And 2027 To Expand Its Alabama Data Center Campus &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "$1.5 Billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -3210,6 +3286,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "9c3051d1359431",
+      "title": "Data center dissent is so high that construction delays this year have already exceeded 2025's total - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-16",
+      "summary": "Data center dissent is so high that construction delays this year have already exceeded 2025's total &nbsp;&nbsp; Fortune",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "0d4a0c769c333f",
       "title": "New expanded Android parental controls to support families around the world",
       "url": "https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/",
@@ -3296,21 +3387,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b7bd7f352ec502",
-      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-16",
-      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "5f3b99dc3e8a92",
       "title": "Achieving success with AI",
       "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
@@ -3346,23 +3422,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "59f2d3f1064d73",
-      "title": "Reservations are open for XREAL AURA — plus, see more news from AWE 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-16",
-      "summary": "Reservations are now open for XREAL AURA, XREAL's first tethered XR glasses built with Google for Android XR.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "5fd0a1c60f59fd",
       "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
       "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
@@ -3373,6 +3432,38 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b7bd7f352ec502",
+      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-16",
+      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "59f2d3f1064d73",
+      "title": "Reservations are open for XREAL AURA — plus, see more news from AWE 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/xr-ar/awe-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "Reservations are now open for XREAL AURA, XREAL's first tethered XR glasses built with Google for Android XR.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -6754,6 +6845,23 @@
       "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b03af7ca9393a0",
+      "title": "OpenAI IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTkyS1p0NlVyOHNjNGY1VWZSUjZMQ2NTbHFBU3I1RWJXcWZBU19LNkFjY1VnNy1DN0hleXZJbXk4RUo0dERFOHY3cVVuS0ZYbDRZVjhrVXJRejlEMGp2YllmMGt4c2RWR2V0dHpyOG9rN1owY0FPV3FKc1JQQkNjVkNLR2o2d3lfandwR3BOWEsyWW9nbmRYbFhsTVVaVkRNVEgyZGRtYw?oc=5",
+      "source": "GNews: SEC 8-K data center capital",
+      "source_cat": "SEC Filing",
+      "date": "2026-06-10",
+      "summary": "OpenAI IPO: Infrastructure Economics of Compute Supply Chain [In-Depth Analysis] [2026] &nbsp;&nbsp; Klover.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10394,102 +10502,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "87614b1f9fbb27",
-      "title": "AWS adopts random graph network architecture as default cloud fabric",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-adopts-random-graph-network-architecture-as-default-cloud-fabric/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "Could cut router counts by 69 percent while reducing network power consumption by 40 percent",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3652c5ccc88943",
-      "title": "UK's National Physical Laboratory seeks bids for new data center",
-      "url": "https://www.datacenterdynamics.com/en/news/uks-national-physical-laboratory-seeks-bids-for-new-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "NPL puts out pipeline notice for £9.6m project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dd3557d19468f8",
-      "title": "Portland General Electric moves to implement Oregon's new data center rate class",
-      "url": "https://www.datacenterdynamics.com/en/news/portland-general-electric-moves-to-implement-oregons-new-data-center-rate-class/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "Scheduled to take effect on June 10, 2026, pending approval",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Oregon"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fab08f7cd896d1",
-      "title": "Sponsored: As APAC data centers grow, tier-two markets take center stage",
-      "url": "https://www.datacenterdynamics.com/en/opinions/as-apac-data-centers-grow-tier-two-markets-take-center-stage/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "Operators are moving toward strategies centered on secondary and often untested markets. Local and federal governments are responding with new regulations",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "121285a2a3d1df",
-      "title": "Four insights you might have missed from theCUBE’s coverage of IBM Think",
-      "url": "https://siliconangle.com/2026/06/05/four-insights-enterprise-ai-ibmthink/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-05",
-      "summary": "IBM Corp. is positioning itself to be a foundational player in enterprise AI. The computing giant brings mainframe hardware, hybrid computing assets and a legacy of strong governance to the AI infrastructure conversation. Those strengths have put IBM near the center of enterprise AI discussions, according to theCUBE Research’s Dave Vellante. “In our opinion, IBM [&#8230;] \n The post  Four insights you might have missed from theCUBE’s coverage of IBM Think  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c2ebcfa14699cd",
-      "title": "Steve Jobs in Exile is a fine profile of Jobs' years at NeXT",
-      "url": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-05",
-      "summary": "“Why don’t we just frickin’ call Apple?”",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
       "is_high_confidence": false
     }
   ]
