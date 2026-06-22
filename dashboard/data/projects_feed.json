@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-06-22T20:50:05.803454+00:00",
+  "last_updated": "2026-06-22T23:20:47.977754+00:00",
   "finding_count": 600,
-  "new_project_count": 80,
+  "new_project_count": 81,
   "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 194,
+  "high_confidence_count": 195,
   "findings": [
+    {
+      "id": "9ae95c5bb5ce14",
+      "title": "AI networking provider Upscale AI raises $190M at $2B valuation",
+      "url": "https://siliconangle.com/2026/06/22/ai-networking-provider-upscale-ai-raises-190m-2b-valuation/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-22",
+      "summary": "Data center networking startup Upscale AI Inc. today announced that it has raised $190 million in fresh funding. The capital was provided as an extension to a $200 million Series A round that the company first closed in January. The new raise was led by Premji Invest with participation from Nvidia Corp., Salesforce Ventures, Seligman [&#8230;] \n The post  AI networking provider Upscale AI raises $190M at $2B valuation  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2B",
+        "$200 million",
+        "$190M",
+        "$190 million"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "884ac2ed5cc5e1",
       "title": "Amazon Expands Mississippi Data Center Investment To $25B Amid Aggressive AI Bet - Stocktwits",
@@ -63,8 +85,8 @@
       "locations": [],
       "amounts": [
         "$650 million",
-        "$650M",
-        "$20 billion"
+        "$20 billion",
+        "$650M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -117,8 +139,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "24MW",
-        "$396m"
+        "$396m",
+        "24MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -488,6 +510,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c1a6b1386cde5d",
+      "title": "OpenAI expands Daybreak with Patch the Planet and full GPT-5.5-Cyber release",
+      "url": "https://siliconangle.com/2026/06/22/openai-expands-daybreak-patch-planet-full-gpt-5-5-cyber-release/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-22",
+      "summary": "OpenAI Group PBC today expanded its Daybreak cybersecurity program with a new open-source patching initiative called Patch the Planet, an updated Codex Security plugin, a partner program and the full release of its most capable defensive artificial intelligence model, GPT-5.5-Cyber. The push marks a shift in how OpenAI talks about AI and security. The company [&#8230;] \n The post  OpenAI expands Daybreak with Patch the Planet and full GPT-5.5-Cyber release  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5bb1f1241636a3",
       "title": "HPE and Kamiwaza rethink AI infrastructure for the inference era",
       "url": "https://siliconangle.com/2026/06/22/hpe-kamiwaza-ai-computing-solutions-hpeaimomentum/",
@@ -531,6 +570,23 @@
       "companies": [
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4bb9cd9439bac0",
+      "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-22",
+      "summary": "AWS launches a new serverless compute primitive, AWS Lambda MicroVMs. VM-level, isolated sandboxes with no shared kernel or resources between sessions. Rapid launch and resume, full lifecycle control, state preservation up to 8 hours, no infrastructure to manage.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -781,8 +837,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$24 million",
-        "$24M"
+        "$24M",
+        "$24 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1592,23 +1648,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "dd03b96975dbfa",
-      "title": "Android verification is coming: Google confirms timeline and supported app stores",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-18",
-      "summary": "A new system service will roll out this month ahead of big changes starting in September.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "debd2775bab1a8",
       "title": "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs",
       "url": "https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
@@ -1651,6 +1690,23 @@
       "source_cat": "Company IR",
       "date": "2026-06-18",
       "summary": "An animated sequence on a white background introducing \"Agentic AI in Google Ad Manager\". The animation transitions to show a blue magnifying glass paired with a spark icon, accompanied by the black text \"Ask Ad Manager.”",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dd03b96975dbfa",
+      "title": "Android verification is coming: Google confirms timeline and supported app stores",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-18",
+      "summary": "A new system service will roll out this month ahead of big changes starting in September.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -9936,8 +9992,8 @@
         "India"
       ],
       "amounts": [
-        "5GW",
-        "$30B"
+        "$30B",
+        "5GW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10453,53 +10509,6 @@
       "locations": [
         "Japan"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dc5602009be30a",
-      "title": "Electric truck startup pitches containerized data center on wheels",
-      "url": "https://www.datacenterdynamics.com/en/news/electric-truck-startup-pitches-containerized-data-center-on-wheels/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "500kW module to come with 4MWh battery system for several hours of compute",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad171e7f9b0263",
-      "title": "Together AI taps Rumble for Nvidia Blackwell GPU capacity",
-      "url": "https://www.datacenterdynamics.com/en/news/together-ai-taps-rumble-for-nvidia-blackwell-gpu-capacity/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "Two companies enter multi-year GPU cloud agreement",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1b564064bf6a45",
-      "title": "DCD>Talks: The many layers of battery resilience with Eric Hill, CSB",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcdtalks-the-many-layers-of-battery-resilience-with-eric-hill-csb/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "CSB's Eric Hill talks with DCD's Alex Dickins about how we can leverage battery power for more resilient data centers.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
