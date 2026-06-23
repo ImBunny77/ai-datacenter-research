@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-06-23T20:13:04.643120+00:00",
+  "last_updated": "2026-06-23T23:09:07.485472+00:00",
   "finding_count": 600,
-  "new_project_count": 83,
+  "new_project_count": 81,
   "cancellation_count": 18,
   "sec_filing_count": 2,
-  "high_confidence_count": 194,
+  "high_confidence_count": 192,
   "findings": [
+    {
+      "id": "8228c39c604af5",
+      "title": "Amazon Plans $10 Billion Missouri Data Center Campus - EC&M",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFg5dDRDWnlib0hoTmUwLWh5Tm1vUTVPYmR6ZklNY0dsYUFoWFU4cThTNml2c0tuSXE2ZFlsbmUzdmMyd0pDcE1FU2dTSDZEWVB6VExuVGx2aUJJTHViNE83TUlVZjJ0aWk3S3Jtdm5LRmJ2UVFvVkk0dE5PazhXRi1mNUQ1MEQzQWlBMV94R3kyOC11aGRCNWlVRmlYc2JCZ05N?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-23",
+      "summary": "Amazon Plans $10 Billion Missouri Data Center Campus &nbsp;&nbsp; EC&amp;M",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
+      ],
+      "amounts": [
+        "$10 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "bf5a62d39f1648",
       "title": "Thor Equities files lawsuit against Ohio's Urbana after data center moratorium disrupts project",
@@ -44,6 +65,23 @@
         "$19.5 million",
         "$19.5M"
       ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f63a8352bb58e1",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-23",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+      "finding_type": "New Project",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -433,6 +471,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "0d76872168c01e",
+      "title": "9 ways AI is reshaping enterprise operations: Key insights from AWS Summit NYC",
+      "url": "https://siliconangle.com/2026/06/23/ai-evolution-9-ways-ai-moving-pilots-real-impact-awssummitnyc/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-23",
+      "summary": "The conversations at last week&#8217;s AWS Summit NYC 2026 showed that AI evolution is entering a new phase. From physical robots tackling labor shortages to agentic systems reshaping enterprise operations, the focus is shifting from experimentation to practical deployment. TheCUBE’s host, Gemma Allen, captured candid discussions with Amazon Web Services Inc. executives, partners and customers who are turning [&#8230;] \n The post  9 ways AI is reshaping enterprise operations: Key insights from A",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b91c13f5fa0466",
       "title": "Five thoughts from Swami Sivasubramanian’s keynote at AWS Summit and what it means for IT pros",
       "url": "https://siliconangle.com/2026/06/22/five-thoughts-swami-sivasubramanians-keynote-aws-summit-means-pros/",
@@ -550,6 +605,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6a43be4f252533",
+      "title": "Dell/AMD partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies World",
+      "url": "https://siliconangle.com/2026/06/23/dell-amd-partnership-hybrid-architecture-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-23",
+      "summary": "With the AI factory becoming a key focus in enterprise IT, hybrid architecture has become equally important as organizations seek to generate workloads on-premises, in the cloud and at the edge. This is why enterprises are increasingly looking toward major players such as Dell Technologies Inc. and Advanced Micro Devices Inc. for production-scale deployment in [&#8230;] \n The post  Dell/AMD partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies World  appear",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "9ae95c5bb5ce14",
       "title": "AI networking provider Upscale AI raises $190M at $2B valuation",
       "url": "https://siliconangle.com/2026/06/22/ai-networking-provider-upscale-ai-raises-190m-2b-valuation/",
@@ -563,10 +633,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$200 million",
         "$2B",
-        "$190 million",
-        "$190M"
+        "$200 million",
+        "$190M",
+        "$190 million"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -854,23 +924,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f96f467a48b215",
-      "title": "Nvidia introduces Halos for Robotics to bridge the physical AI safety gap",
-      "url": "https://siliconangle.com/2026/06/22/nvidia-introduces-halos-robotics-bridge-physical-ai-safety-gap/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-22",
-      "summary": "Nivida Corp. today announced Halos for Robotics, the industry’s first full framework for robotic safety systems that encompasses building, testing and managing complete artificial intelligence robotics applications. Automation has been part of industrial and manufacturing environments for decades, but for much of that time, robots have operated within rigid rules, rails and repeatable workflows. That [&#8230;] \n The post  Nvidia introduces Halos for Robotics to bridge the physical AI safety gap ",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "955f9fbcff0d05",
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/",
@@ -881,6 +934,23 @@
       "finding_type": "New Project",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f96f467a48b215",
+      "title": "Nvidia introduces Halos for Robotics to bridge the physical AI safety gap",
+      "url": "https://siliconangle.com/2026/06/22/nvidia-introduces-halos-robotics-bridge-physical-ai-safety-gap/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-22",
+      "summary": "Nivida Corp. today announced Halos for Robotics, the industry’s first full framework for robotic safety systems that encompasses building, testing and managing complete artificial intelligence robotics applications. Automation has been part of industrial and manufacturing environments for decades, but for much of that time, robots have operated within rigid rules, rails and repeatable workflows. That [&#8230;] \n The post  Nvidia introduces Halos for Robotics to bridge the physical AI safety gap ",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1005,41 +1075,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "45e3912a1d0992",
-      "title": "Intrinsic unveils next-gen accessible modular automated industrial AI robotic assembly",
-      "url": "https://siliconangle.com/2026/06/22/intrinsic-unveils-next-gen-accessible-automated-industrial-ai-robotic-assembly/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-22",
-      "summary": "Intrinsic, Google LLC’s artificial intelligence robot software company, unveiled today during Automate 2026 an AI robotic prototype that will help companies modularize factory floors with automated robotics. Automate is North America’s largest robotics and automation trade show, hosted by the Association for Advancing Automation. It&#8217;s possibly the best place to showcase something like what Intrinsic [&#8230;] \n The post  Intrinsic unveils next-gen accessible modular automated industrial AI",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fb28b11a97f691",
-      "title": "How Anthropic may have talked itself into an AI export ban",
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-22",
-      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4bb9cd9439bac0",
       "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
@@ -1125,6 +1160,41 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "45e3912a1d0992",
+      "title": "Intrinsic unveils next-gen accessible modular automated industrial AI robotic assembly",
+      "url": "https://siliconangle.com/2026/06/22/intrinsic-unveils-next-gen-accessible-automated-industrial-ai-robotic-assembly/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-22",
+      "summary": "Intrinsic, Google LLC’s artificial intelligence robot software company, unveiled today during Automate 2026 an AI robotic prototype that will help companies modularize factory floors with automated robotics. Automate is North America’s largest robotics and automation trade show, hosted by the Association for Advancing Automation. It&#8217;s possibly the best place to showcase something like what Intrinsic [&#8230;] \n The post  Intrinsic unveils next-gen accessible modular automated industrial AI",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fb28b11a97f691",
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-22",
+      "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1321,25 +1391,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "d9e9b2f5bda0b9",
-      "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-19",
-      "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
     },
     {
       "id": "2702045179d115",
@@ -3498,20 +3549,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "3481bc5b5541d4",
-      "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
+      "id": "d9e9b2f5bda0b9",
+      "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-06-16",
-      "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
+      "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
-      "locations": [
-        "Missouri"
-      ],
+      "locations": [],
       "amounts": [
         "$10 billion"
       ],
@@ -3532,6 +3581,27 @@
       ],
       "locations": [
         "Montgomery"
+      ],
+      "amounts": [
+        "$10 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3481bc5b5541d4",
+      "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-16",
+      "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
       ],
       "amounts": [
         "$10 billion"
@@ -10431,86 +10501,6 @@
         "$200 billion"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9602cf7509b469",
-      "title": "Google commits to replenish more water than it consumes at its data center sites by 2030",
-      "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-replenish-more-water-than-it-consumes-at-its-data-center-sites-by-2030/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-05",
-      "summary": "Announces $17m in investment into water sustainability efforts across seven US states",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$17m"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7818104c7a4b39",
-      "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTlsMnZmeWxoUk0yWmhKcGs0eVhkc1d1c1JVRm9qUWFMQWVuTy1YcmFyVDBGTDhkOGwyRlBhNWFJWTVBTHNOOUlsSVFzVlB3bXFjZWZYaEhWblQwSU5yc00wU241V3BoVFEtTndGcURrVXc2eFBLMlFuZkdUSzdkUEpZNXctWHVvUjZTczUzRE4tNHA3eUgtVVN4NVZKWnZUd2NKRNIBqgFBVV95cUxNRGdVeDExV2J4SUxteXpvQVJqMWl2NmstN3lpR3dqaHU1djhwNkozR0pyZG5wZlhiRU9zSVdod0xyZWYwbEljVEpMOXdIelJzZFV3SVV3UHBvOUZzS3VKWGlLV3RIemFaZTFMOEh2ZlBDNW9fLXVlWXZSVU5RTGkxcHZzc1VSWU05SWdkMGtrZWR0aFJwb3FfZEs5bl9SQjJYWUJOTGVqU05iZw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-05",
-      "summary": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "xAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$920 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "757b862c5434f0",
-      "title": "Fusion power startup Helion valued at $15.5B in $465M funding round",
-      "url": "https://siliconangle.com/2026/06/05/fusion-power-startup-helion-valued-15-5b-465m-funding-round/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-05",
-      "summary": "Fusion power startup Helion Energy Inc. has closed a $465 million funding round led by Thrive Capital. The Series G deal also included contributions from SoftBank Vision Fund 2, Lightspeed and more than a half-dozen others. Helion stated in its Thursday funding announcement that it’s now valued at $15.5 billion. That’s nearly three times what [&#8230;] \n The post  Fusion power startup Helion valued at $15.5B in $465M funding round  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15.5B",
-        "$15.5 billion",
-        "$465 million",
-        "$465M"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7273e3f1ef36ac",
-      "title": "AirTrunk announces $30 billion investment in India for data centers - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnVHbHZiY3FCdVB0Zlh2V1Nxel9CLVpZcnN3dmtuX0lGRm9NNEhOVTE0aV8yT0s1dm1PVEs1M1BZOFFoZl9ZNVd2cjdXQi1Wek9MMm1fRnJRbTN0eUw4Wi02QmtsQ0Y5ZFFRZ004MDdMa2xISWk1eFJleDE3aC1vamtDZ051MUQ3OFprT1I2cWdOd2U5V1M2TEUzQ2h2Uzh1WlZ0bE5fTlFXQTNmTFl1SlRMajdWS3ktZ3NXc3ptWUVObmFoaUZhbTlXNGc0V3pHMmtDWVJMTm1ucUxYR215cWljdHhZTmhMRWhN0gHwAUFVX3lxTE50TThGbVdGd2hlWkQ2VGEyVUpZd0s5Ty1Zc19SZWF6ckFndHVKYnVRSzZEMy1EQ0tUZXo5ZmtZQnFRUG5aQjdFcWVzNERPN01DZncyeWlRcThHbmdJZURUU1Z1aFROUllHVXdXODdLVnpmWXJMNnRYNWF4YkpaRnFLRllLSTZqYllJS2FoMmNETjdtX3NFbkszb0Y3QzdVVUVVaTZvc3FkdS1DNHp3RW1ObEhpOTVpSWlTOE4ySWgxS1VIRTlJdmpnYmRfdVYwX0ZObTM0SlptSHR0dkNSak5DazRMeXFMYVB1Z2RMbUViYg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-05",
-      "summary": "AirTrunk announces $30 billion investment in India for data centers &nbsp;&nbsp; The Economic Times",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$30 billion"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
