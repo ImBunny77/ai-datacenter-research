@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-06-24T14:33:12.914533+00:00",
+  "last_updated": "2026-06-24T17:55:02.797839+00:00",
   "finding_count": 600,
-  "new_project_count": 82,
+  "new_project_count": 83,
   "cancellation_count": 17,
   "sec_filing_count": 2,
-  "high_confidence_count": 196,
+  "high_confidence_count": 198,
   "findings": [
+    {
+      "id": "4f9f3bc55a979e",
+      "title": "Beyond the $7.8B in deals: Why Wall Street is suddenly watching Argentum AI",
+      "url": "https://siliconangle.com/2026/06/24/beyond-7-8b-deals-wall-street-suddenly-watching-argentum-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-24",
+      "summary": "Is Argentum AI building the financing layer for the AI infrastructure boom? Yesterday, Barron&#8217;s reported that Argentum AI, the infrastructure startup led by Andrew Sobko and backed by Supermicro, had signed about $7.8 billion in agreements tied to the deployment of roughly 47,000 Nvidia GB300 graphics processing units across a 300-megawatt artificial intelligence datacenter buildout. [&#8230;] \n The post  Beyond the $7.8B in deals: Why Wall Street is suddenly watching Argentum AI  appeared",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$7.8B",
+        "$7.8 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "af351e2fc9bc4f",
+      "title": "Hyperscale Data signs 20MW capacity agreement with neocloud customer at its Michigan data center",
+      "url": "https://www.datacenterdynamics.com/en/news/hyperscale-data-signs-20mw-capacity-agreement-with-neocloud-customer-at-its-michigan-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "Could scale up to 52MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [
+        "20MW",
+        "52MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "ffa7ba4300d80d",
       "title": "Sunrun, Renew Home, and Tesla to aggregate 16GW of home energy resources across US for data center offtakers",
@@ -79,6 +119,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "273c31ebb4071c",
+      "title": "Upbound open-sources Modelplane to optimize inference clusters",
+      "url": "https://siliconangle.com/2026/06/23/upbound-open-sources-modelplane-optimize-inference-clusters/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-24",
+      "summary": "Upbound Inc. today released Modelplane, a new open-source tool for managing artificial intelligence inference clusters. San Francisco-based Upbound is backed by $69 million from Alphabet Inc.’s GV fund, Intel Capital and others. It’s best known as the creator of Crossplane, an open-source infrastructure management engine. It’s an upgraded version of the Kubernetes control plane, a [&#8230;] \n The post  Upbound open-sources Modelplane to optimize inference clusters  appeared first on  SiliconANGL",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$69 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "4e7a81e64fda80",
       "title": "20MW data center proposed in Starbucks' Seattle HQ building in Washington",
       "url": "https://www.datacenterdynamics.com/en/news/20mw-data-center-proposed-in-starbucks-seattle-hq-building-in-washington/",
@@ -119,25 +178,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "273c31ebb4071c",
-      "title": "Upbound open-sources Modelplane to optimize inference clusters",
-      "url": "https://siliconangle.com/2026/06/23/upbound-open-sources-modelplane-optimize-inference-clusters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-24",
-      "summary": "Upbound Inc. today released Modelplane, a new open-source tool for managing artificial intelligence inference clusters. San Francisco-based Upbound is backed by $69 million from Alphabet Inc.’s GV fund, Intel Capital and others. It’s best known as the creator of Crossplane, an open-source infrastructure management engine. It’s an upgraded version of the Kubernetes control plane, a [&#8230;] \n The post  Upbound open-sources Modelplane to optimize inference clusters  appeared first on  SiliconANGL",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$69 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "136e4fe7052963",
       "title": "US lawmakers introduce bipartisan bill to shield ratepayers from data center energy costs",
       "url": "https://www.datacenterdynamics.com/en/news/us-lawmakers-introduce-bipartisan-bill-to-shield-ratepayers-from-data-center-energy-costs/",
@@ -170,6 +210,24 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "9ff57d2e837914",
+      "title": "Asad Malik named head of compute finance & strategy at Anthropic, joins from Google",
+      "url": "https://www.datacenterdynamics.com/en/news/asad-malik-named-head-of-compute-finance-strategy-at-anthropic-joins-from-google/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "As company ramps up cloud spend and its own data center infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "b46a86e0f4dd54",
@@ -259,6 +317,51 @@
       "is_high_confidence": false
     },
     {
+      "id": "1bc4f2f86048c7",
+      "title": "First Street: 79 percent of global data center capacity facing \"acute climate hazards\"",
+      "url": "https://www.datacenterdynamics.com/en/news/first-street-79-percent-of-global-data-center-capacity-facing-acute-climate-hazards/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "86 percent of data centers in the Americas facing these \"acute\" risks",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "311fea8888e046",
+      "title": "Polaroid ads attack data centers for water use",
+      "url": "https://www.datacenterdynamics.com/en/news/polaroid-ads-attack-data-centers-for-water-use/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "Slogan may be misleading, but taps into growing anti-data center movement",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5504d4875a6a7a",
+      "title": "Sponsored: AI factory cooling vs cloud data centers: Why liquid cooling is essential for high-density AI workloads",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-factory-cooling-vs-cloud-data-centers-why-liquid-cooling-is-essential-for-high-density-ai-workloads/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "The AI factory era has arrived",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "06517c62eb3b67",
       "title": "OpenAI and Broadcom unveil 'Jalapeño' Intelligence Processor for LLM inference",
       "url": "https://www.datacenterdynamics.com/en/news/openai-and-broadcom-unveil-jalape%C3%B1o-intelligence-processor-for-llm-inference/",
@@ -301,55 +404,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "46dc8ce8358286",
-      "title": "Real estate giant Prologis makes bid for UK’s Segro to capitalize on data center pipeline",
-      "url": "https://www.datacenterdynamics.com/en/news/real-estate-giant-prologis-makes-bid-for-uks-segro-to-capitalize-on-data-center-pipeline/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-24",
-      "summary": "Prologis says deal would unlock value of Segro’s data center biz in a way the firm couldn’t do alone",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a08fe5e98a7024",
-      "title": "Healthcare diagnotics firm looks to offer data center cooling fluid",
-      "url": "https://www.datacenterdynamics.com/en/news/healthcare-diagnotics-firm-looks-to-offer-data-center-cooling-fluid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-24",
-      "summary": "Trinity Biotech launches Trinovium",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c3ca5141fdf344",
-      "title": "Data centers planned at former quarry in Dauphin County, Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-24",
-      "summary": "Residents left feeling \"blindsided\" as warehousing scheme is altered",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -410,6 +464,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "62d99a42038647",
+      "title": "Google starts lowering Play Store fees, making good on Epic Games settlement",
+      "url": "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-24",
+      "summary": "A few additional markets will get the lower fees this year ahead of a global rollout in 2027.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fc9963ee95f5f9",
+      "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
+      "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-24",
+      "summary": "Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "281c30d286666c",
       "title": "Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
       "url": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
@@ -422,6 +510,55 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "46dc8ce8358286",
+      "title": "Real estate giant Prologis makes bid for UK’s Segro to capitalize on data center pipeline",
+      "url": "https://www.datacenterdynamics.com/en/news/real-estate-giant-prologis-makes-bid-for-uks-segro-to-capitalize-on-data-center-pipeline/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "Prologis says deal would unlock value of Segro’s data center biz in a way the firm couldn’t do alone",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a08fe5e98a7024",
+      "title": "Healthcare diagnotics firm looks to offer data center cooling fluid",
+      "url": "https://www.datacenterdynamics.com/en/news/healthcare-diagnotics-firm-looks-to-offer-data-center-cooling-fluid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "Trinity Biotech launches Trinovium",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c3ca5141fdf344",
+      "title": "Data centers planned at former quarry in Dauphin County, Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/data-centers-planned-at-former-quarry-in-dauphin-county-pennsylvania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-24",
+      "summary": "Residents left feeling \"blindsided\" as warehousing scheme is altered",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4678,6 +4815,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "b7bd7f352ec502",
+      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-16",
+      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5f3b99dc3e8a92",
       "title": "Achieving success with AI",
       "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
@@ -4724,21 +4876,6 @@
       "companies": [
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b7bd7f352ec502",
-      "title": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE5seTZLd1Q2dE5yQWphMVd3aDQ5cmhKdlNfQmNJczVSanBYWXd4bmV1eW1lbnhLNy03RXNFT01SNUJxY1BydWxlcm84b05EMDIzOXdXaHVkZkpBZF9hNnpDT1ZKTC0wc0VyeWRNcWRQVVhvcnNINDN1WEN4YnpIQzJJcm9NZ2tkV2pLWWlyTlZEQQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-16",
-      "summary": "Data center hate is snowballing, and construction setbacks in the first three months of 2026 have already exceeded last year’s, report finds &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -7760,6 +7897,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "81df10acde9c6c",
+      "title": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\" - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbE1GM29xaUVFMFRtWjM0U21CMFhmOGFMbkVMVk1pU0htTjlXM1hKS01MZlk3NHRRVVlUbGd6RUtQdlFCc3YwOUZxU2Zyc2Y4VmVHY3NjaWdJN25MX3BGcmdMMk9mVnNfWE4yYWJUVDByUFJWU00wSmstdXJkdVpTemZvY2kwVjB5T1pJZVpwZzZTY0hDZXdQT3hsNmpnVXdpc3FwR3ZaQ0FOQkZWQjBKTXZWakJCLXF3bDFSSGROM212NmhZd1drOUxn?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-10",
+      "summary": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\" &nbsp;&nbsp; Data Center Dynamics",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Wyoming"
+      ],
+      "amounts": [
+        "1.8GW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "543c04ca4fa5bd",
       "title": "Crusoe Pauses 1.8GW Cheyenne Data Center 'at the Request of Our Customer' - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaE9lNUNSRUMxX0g4YlhuMXhrMmI0aWQwS0FFNVRvb21TYlpuU3RReDdTMHJGX2RYdU5PN1BuNEhONkNhMGVvcnZhYjJ5UjFoZHh3ZXZzdU9aRjJzckdmTGFCcnZEb3FtbkMyUV8xTDRqcjBsVnN3d0Faa3p1Ykw1dHdmQkJuOUpEWTJIZmV0aG5CLWszQ2c?oc=5",
@@ -7811,25 +7967,6 @@
       "locations": [],
       "amounts": [
         "$115 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "81df10acde9c6c",
-      "title": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\" - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbE1GM29xaUVFMFRtWjM0U21CMFhmOGFMbkVMVk1pU0htTjlXM1hKS01MZlk3NHRRVVlUbGd6RUtQdlFCc3YwOUZxU2Zyc2Y4VmVHY3NjaWdJN25MX3BGcmdMMk9mVnNfWE4yYWJUVDByUFJWU00wSmstdXJkdVpTemZvY2kwVjB5T1pJZVpwZzZTY0hDZXdQT3hsNmpnVXdpc3FwR3ZaQ0FOQkZWQjBKTXZWakJCLXF3bDFSSGROM212NmhZd1drOUxn?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-10",
-      "summary": "Crusoe pauses work on 1.8GW Cheyenne, Wyoming, data center \"at the request of our customer\" &nbsp;&nbsp; Data Center Dynamics",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Wyoming"
-      ],
-      "amounts": [
-        "1.8GW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10390,142 +10527,6 @@
       "locations": [
         "North Carolina"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bcb3c2619fc9d4",
-      "title": "Bringing the latest Gemini models to Apple developers",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/bringing-gemini-models-to-apple-developers/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-08",
-      "summary": "A phone with text \"Planning itinerary for Hamburg...\". Next to the phone is text \"Giving Apple developers more seamless access to Google Gemini\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7ec4f698603433",
-      "title": "Amazon Corning fiber optic deal creates 1,000 jobs in North Carolina - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNXhiUU9obnBrVjFpeTZuc2ZvbFRxeUZnTW52VTBBNDZpb0FRdzZXQmhERHkxc2Jqa2dPejZINnpNVDFCbWZRVUR5SXRNVmhBbnJPM1RlWDJyS3R6Ni0zWXd3YkdweTVLTmRNUHpKbjRRUnFmNEdXQXlsS2xZUQ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-08",
-      "summary": "Amazon Corning fiber optic deal creates 1,000 jobs in North Carolina &nbsp;&nbsp; qz.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b3e156d53a626",
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
-      "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "You'll need an M1 or better to run the next release of macOS.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "17922220824bfa",
-      "title": "Our latest fraud and scams advisory",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fraud-scams-advisory-june-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-08",
-      "summary": "Shield with the Google G on it, all above the text \"Online Scams Advisory #4\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "da79eab22b2267",
-      "title": "Charlotte approves 150-day data center moratorium. A look inside an Uptown data center - WCNC",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnFvTlZsVktnanZ5eF9mRndTVllqS3NwcGRET3A1a2FjSEQ2a3pvYW95N0VvOUt4NFZsamYza0VSUi1xbXJfdVhHMHM3UTV3VnE1NEQwcXdpVU1RVmtMUXlGUjQxVmhacE9SNXFoa0NGUE1NRndpNnFGN1VsTEFFdVMyS0VKcGEtMHUwRTJ5STk0X29XQ2ZYelVLZHRNSG1ISG45eUtQUDZKUWVsV3d5c2tQUllfMWVfNDczLVZkY3c2T1B4OWFLYWdlWmY?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-08",
-      "summary": "Charlotte approves 150-day data center moratorium. A look inside an Uptown data center &nbsp;&nbsp; WCNC",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "84139390992208",
-      "title": "Silverfort brings runtime identity controls to Microsoft Copilot Studio agents",
-      "url": "https://siliconangle.com/2026/06/08/silverfort-brings-runtime-identity-controls-microsoft-copilot-studio-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-08",
-      "summary": "Identity security company Silverfort Inc. today launched an integration that applies its identity and access controls to artificial intelligence agents built into Microsoft Corp.&#8217;s Copilot Studio, enforcing policy at the moment an agent tries to act rather than after the fact. The integration evaluates every access request a Copilot agent makes in real time and [&#8230;] \n The post  Silverfort brings runtime identity controls to Microsoft Copilot Studio agents  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3c77a1d24a743d",
-      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "WhatsApp disrupted spear phishing attempts, asks court to hold NSO in contempt.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "159fbb9951ddbb",
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-08",
-      "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
