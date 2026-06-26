@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-06-26T21:19:49.811773+00:00",
+  "last_updated": "2026-06-26T23:07:31.222383+00:00",
   "finding_count": 600,
   "new_project_count": 98,
-  "cancellation_count": 22,
+  "cancellation_count": 23,
   "sec_filing_count": 2,
   "high_confidence_count": 204,
   "findings": [
+    {
+      "id": "eb0f9990dbf043",
+      "title": "Large data center campus planned in Pindamonhangaba, Brazil",
+      "url": "https://www.datacenterdynamics.com/en/news/riverhook-village-18-plans-the-largest-hyperscale-ai-campus-ever-built-in-brazil/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-26",
+      "summary": "First phase to offer 150MW, with an initial investment of R$5 billion",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Brazil"
+      ],
+      "amounts": [
+        "150MW",
+        "$5 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "836cd74800b924",
+      "title": "Analog chipmaker Onsemi buys Synaptics in $7B all-stock deal to push into physical AI",
+      "url": "https://siliconangle.com/2026/06/25/analog-chipmaker-onsemi-buys-synaptics-7b-stock-deal-push-physical-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-26",
+      "summary": "Arizona-based chipmaker Onsemi today announced plans to acquire the internet of things and computer interface technology firm Synaptics Inc. in a deal valued at around $7 billion. The deal will help Onsemi, officially known as Semiconductor Components Industries LLC, pursue its ambitions in “physical AI,” and bring artificial intelligence from massive cloud-based data centers into [&#8230;] \n The post  Analog chipmaker Onsemi buys Synaptics in $7B all-stock deal to push into physical AI  appeare",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Arizona"
+      ],
+      "amounts": [
+        "$7B",
+        "$7 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "b6a6772a7f17b9",
       "title": "Amazon to invest additional $13 billion in India for data centre expansion as AI race accelerates - The Indian Express",
@@ -44,46 +84,6 @@
       ],
       "amounts": [
         "$13 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "eb0f9990dbf043",
-      "title": "Large data center campus planned in Pindamonhangaba, Brazil",
-      "url": "https://www.datacenterdynamics.com/en/news/riverhook-village-18-plans-the-largest-hyperscale-ai-campus-ever-built-in-brazil/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-26",
-      "summary": "First phase to offer 150MW, with an initial investment of R$5 billion",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Brazil"
-      ],
-      "amounts": [
-        "$5 billion",
-        "150MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "836cd74800b924",
-      "title": "Analog chipmaker Onsemi buys Synaptics in $7B all-stock deal to push into physical AI",
-      "url": "https://siliconangle.com/2026/06/25/analog-chipmaker-onsemi-buys-synaptics-7b-stock-deal-push-physical-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-26",
-      "summary": "Arizona-based chipmaker Onsemi today announced plans to acquire the internet of things and computer interface technology firm Synaptics Inc. in a deal valued at around $7 billion. The deal will help Onsemi, officially known as Semiconductor Components Industries LLC, pursue its ambitions in “physical AI,” and bring artificial intelligence from massive cloud-based data centers into [&#8230;] \n The post  Analog chipmaker Onsemi buys Synaptics in $7B all-stock deal to push into physical AI  appeare",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Arizona"
-      ],
-      "amounts": [
-        "$7B",
-        "$7 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -300,6 +300,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "dd05eb83d94eb7",
+      "title": "Sanders, Ocasio-Cortez seek US freeze on new AI data centers from 'Big Tech oligarchs' - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTU1rOWtoci1BWDZDLVYybzMwRU56ZHRFVDJiNVRLNUZuWkltc3dQd1h2bC1XTUszdnpzdHR3djN3Y01pRUh6U2ZiWlU1RmlmNzVSUHlMdWhPMlQ3bjBTV3BqWU9taDJDaHF3YlBYandHNTM5d0xWbEZSX3ZmTlJqVEViUm40ZUZSRHBfanpXbTlUd1k?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-26",
+      "summary": "Sanders, Ocasio-Cortez seek US freeze on new AI data centers from 'Big Tech oligarchs' &nbsp;&nbsp; Yahoo",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "d83845bd67c116",
       "title": "Plans announced for hyperscale data center in Philippsburg, Germany",
       "url": "https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/",
@@ -363,6 +378,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fa2785a31ce9bf",
+      "title": "Lawmakers Push To Make Data Center Developers Pay For Grid Upgrades - Bisnow",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXVxVzBKX2hseHoteUt0NWQyQlpsNFRwZnZSOHVfcVpHdDlJUFRLYXJMdVpGZmNEVTZSTGlBV3d5eTZoWURuY1VCN0NaazNnU3JWRmU5NXFRbWdoNUNYR1Rpb3pNYTFQT2swLUlCelVGSUN5ODNtQWc1YnVmdXNWV3U5UnQwdGQ4d0ViNlJGQzluMm9TMFZQWkdvVnY4X3FRMUlkcXpIbGFnYWQ1dEl2aEttb04zdXVsRXZ6MEdHbU1aSmlYem5iaVJiZ2pJdGpUaUtEdA?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-26",
+      "summary": "Lawmakers Push To Make Data Center Developers Pay For Grid Upgrades &nbsp;&nbsp; Bisnow",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -719,8 +749,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1 billion",
         "$200M",
+        "$1 billion",
         "$200 million"
       ],
       "confidence": 7,
@@ -1274,6 +1304,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "737810b7f27a18",
+      "title": "Data center energy bill hits speed bump - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlg0elMwWnNIMUM0U080SFdtSlZrZDBKZlNqMHZHNjFOREZxdk1CLU1aLVhfd1lmWHlfWDYtaVhvRFhDX1p4Nnlxa0FleGRpVFhOODRySm5nbzQ5aGRJS1VkQi1wTE8xcER6bUFocENSR0NoMXZmOGYtZ0tsM05HdG5iOFdQeHlFT3ZzQmVhb2tHOEk?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-25",
+      "summary": "Data center energy bill hits speed bump &nbsp;&nbsp; Politico",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "de58815d2f4e35",
+      "title": "After massive data center upends city politics, Independence considers a ban - Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRXg3b08yUEdndTdSWHBUenNoVTh0RG9KNW9teFRMWGlaQngtTGZTNTFVa1RDZ0JlNVdTallBN2NidXFQcGlOd2ZqV2RRUkN1N210R29JY3pydzJvbmk0NVoyMmM4QWE0RTZNMTdmVmQwa01sal9HSzRmTjZtYWPSAX9BVV95cUxNYXc5amM4cnZmVDMyWkkza3JIcUJIS3lRNEh2aFhBSVNhaGZVcDNib3dZaHQ5dS1zR2hqcVBNVlV3Tnc0a0tydlVtamwzcHdTZFNzYXFGR05oWkZuZTZsT1ZUY2QtTTJOZTBuQ3JmZ1ZRSmpvRE1YcHJTcDZoZjUw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-25",
+      "summary": "After massive data center upends city politics, Independence considers a ban &nbsp;&nbsp; Kansas City Star",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kansas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "875793d813f02e",
       "title": "New MCP specification kills old risks but opens fresh attack surfaces, Akamai finds",
       "url": "https://siliconangle.com/2026/06/25/new-mcp-specification-kills-old-risks-opens-fresh-attack-surfaces-akamai-finds/",
@@ -1458,38 +1520,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "737810b7f27a18",
-      "title": "Data center energy bill hits speed bump - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlg0elMwWnNIMUM0U080SFdtSlZrZDBKZlNqMHZHNjFOREZxdk1CLU1aLVhfd1lmWHlfWDYtaVhvRFhDX1p4Nnlxa0FleGRpVFhOODRySm5nbzQ5aGRJS1VkQi1wTE8xcER6bUFocENSR0NoMXZmOGYtZ0tsM05HdG5iOFdQeHlFT3ZzQmVhb2tHOEk?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-25",
-      "summary": "Data center energy bill hits speed bump &nbsp;&nbsp; Politico",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "de58815d2f4e35",
-      "title": "After massive data center upends city politics, Independence considers a ban - Kansas City Star",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zRXg3b08yUEdndTdSWHBUenNoVTh0RG9KNW9teFRMWGlaQngtTGZTNTFVa1RDZ0JlNVdTallBN2NidXFQcGlOd2ZqV2RRUkN1N210R29JY3pydzJvbmk0NVoyMmM4QWE0RTZNMTdmVmQwa01sal9HSzRmTjZtYWPSAX9BVV95cUxNYXc5amM4cnZmVDMyWkkza3JIcUJIS3lRNEh2aFhBSVNhaGZVcDNib3dZaHQ5dS1zR2hqcVBNVlV3Tnc0a0tydlVtamwzcHdTZFNzYXFGR05oWkZuZTZsT1ZUY2QtTTJOZTBuQ3JmZ1ZRSmpvRE1YcHJTcDZoZjUw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-25",
-      "summary": "After massive data center upends city politics, Independence considers a ban &nbsp;&nbsp; Kansas City Star",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kansas"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2130,41 +2160,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "281c30d286666c",
-      "title": "Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-24",
-      "summary": "Illustration of a woman walking through an airport with a suitcase",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "70f4a22fafe1bc",
-      "title": "OpenAI, Broadcom debut custom Jalapeño chip for AI inference",
-      "url": "https://siliconangle.com/2026/06/24/openai-broadcom-debut-custom-jalapeno-chip-llm-inference/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-24",
-      "summary": "OpenAI Group PBC today revealed a custom chip called Jalapeño that it will use to power its large language models. The processor is the fruit of a collaboration with Broadcom Inc., which is no stranger to custom silicon design. The company helped Google LLC develop its TPU line of artificial intelligence accelerators. In April, the [&#8230;] \n The post  OpenAI, Broadcom debut custom Jalapeño chip for AI inference  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c0fc9564fb8f11",
       "title": "‘Common-sense protections’: Rep. André Carson introduces AI data center moratorium bill - Fox 59",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVi1SWjR0SnNLbVF2TG1wbnowNHJ4Njc2WlRPTTVicTkybUIwdzctTjZFaVVLcTJ4SC1aXzFWYmVuRFFOVFNhSlFYeHJ1S0NSV2dZNWVHdXNuMnRHZmlTa1hNT0s4Mjd3b1ZsVFZ6dGdEMWpsVWpGNkM4eFZqV3M0X3ZleXBjTGNOV1NNUWhBLWtPeWZNWk5fTVl6SUpTcUU4N0o2c1M0R20tTWE4eGVYTXB0N1ZSUGfSAbwBQVVfeXFMTjZrUEhPWlA0V0g1YmN4alkzdlh0RkpTZnlKNDFRMXM0SHpyQ2pEeENzZEVGRjZjbjNublotd29rUWF6VnJhb0Q0SjY2RFMwLTlQR2VoS0J6WTNUZ01Yck42WGlsc1RKaGV2RDIxY1ZVUy0wNndVUUtoLXlnUElHUDBJOEVnODU1Q1QwelVIVXlHaWRTcWd2ZWlyS2FNZW1VazJxSnJUcmJGTGx0ZHFOMFVNdjd0LWIwZ3kzTUs?oc=5",
@@ -2172,6 +2167,21 @@
       "source_cat": "Cancellation",
       "date": "2026-06-24",
       "summary": "‘Common-sense protections’: Rep. André Carson introduces AI data center moratorium bill &nbsp;&nbsp; Fox 59",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c8473061b7ddcb",
+      "title": "The 300-Plus Bans and Moratoriums Threatening the U.S. Data Center Boom - The Information",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejlJTzItQW5TYVNXUjJTRmhuUm52OUxCc2hHYVpOYTBITWJYM2ZsZVJUM1IySzBFVHJYenZOaURnNjBGSzlEV3g0MXRxZ3lBXy1xTF93YjFURWdHbUtFZzk0Zm8wV0w0bFU4bTJrX3JNYi1CaEJuNV9UQ25MdV9USG9DbldJX0d5bHZjVTB3VjR1enpDbXlWVFcwZ3BxZ2s?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-24",
+      "summary": "The 300-Plus Bans and Moratoriums Threatening the U.S. Data Center Boom &nbsp;&nbsp; The Information",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2204,6 +2214,41 @@
       "summary": "Pallone Supports National AI Data Center Moratorium &nbsp;&nbsp; Insider NJ",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "281c30d286666c",
+      "title": "Google Wallet makes TSA PreCheck Touchless ID available for more travelers",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-24",
+      "summary": "Illustration of a woman walking through an airport with a suitcase",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "70f4a22fafe1bc",
+      "title": "OpenAI, Broadcom debut custom Jalapeño chip for AI inference",
+      "url": "https://siliconangle.com/2026/06/24/openai-broadcom-debut-custom-jalapeno-chip-llm-inference/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-24",
+      "summary": "OpenAI Group PBC today revealed a custom chip called Jalapeño that it will use to power its large language models. The processor is the fruit of a collaboration with Broadcom Inc., which is no stranger to custom silicon design. The company helped Google LLC develop its TPU line of artificial intelligence accelerators. In April, the [&#8230;] \n The post  OpenAI, Broadcom debut custom Jalapeño chip for AI inference  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2274,21 +2319,6 @@
       "companies": [
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c8473061b7ddcb",
-      "title": "The 300-Plus Bans and Moratoriums Threatening the U.S. Data Center Boom - The Information",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNejlJTzItQW5TYVNXUjJTRmhuUm52OUxCc2hHYVpOYTBITWJYM2ZsZVJUM1IySzBFVHJYenZOaURnNjBGSzlEV3g0MXRxZ3lBXy1xTF93YjFURWdHbUtFZzk0Zm8wV0w0bFU4bTJrX3JNYi1CaEJuNV9UQ25MdV9USG9DbldJX0d5bHZjVTB3VjR1enpDbXlWVFcwZ3BxZ2s?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-24",
-      "summary": "The 300-Plus Bans and Moratoriums Threatening the U.S. Data Center Boom &nbsp;&nbsp; The Information",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10557,38 +10587,6 @@
         "Google",
         "xAI"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9ef71a537fd43f",
-      "title": "University of Bonn to get new HPC data center in Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/university-of-bonn-to-get-new-hpc-data-center-in-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-10",
-      "summary": "Henn Architekten wins architecture bid for facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7b792b147546a0",
-      "title": "The great realignment: Europe, data centers, and digital sovereignty",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-great-realignment-europe-data-centers-and-digital-sovereignty/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-10",
-      "summary": "Will President Trump's stance on Greenland and Iran spur the bloc into action?",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
