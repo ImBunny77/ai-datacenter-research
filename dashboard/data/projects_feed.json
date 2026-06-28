@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-06-28T21:02:38.753683+00:00",
+  "last_updated": "2026-06-28T23:03:10.943093+00:00",
   "finding_count": 600,
-  "new_project_count": 99,
+  "new_project_count": 98,
   "cancellation_count": 23,
   "sec_filing_count": 2,
-  "high_confidence_count": 206,
+  "high_confidence_count": 207,
   "findings": [
     {
       "id": "8f5289530445ff",
@@ -26,6 +26,21 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "2fc6b609fed391",
+      "title": "Elon Musk gets FTC nod to acquire data center optics business Mesh Optical",
+      "url": "https://www.datacenterdynamics.com/en/news/elon-musk-gets-ftc-nod-to-acquire-data-center-optics-business-mesh-optical/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-28",
+      "summary": "The transceiver company was founded by SpaceX employees",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "f22d77907eac80",
@@ -107,8 +122,8 @@
         "Brazil"
       ],
       "amounts": [
-        "150MW",
-        "$5 billion"
+        "$5 billion",
+        "150MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -269,8 +284,8 @@
         "Canada"
       ],
       "amounts": [
-        "4.4MW",
-        "120MW"
+        "120MW",
+        "4.4MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -621,25 +636,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d93d0c86f09979",
-      "title": "Nvidia and Samsung to power 6G-ready digital twin for Japan telecom giant",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-and-samsung-to-power-6g-ready-digital-twin-for-japan-telecom-giant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-26",
-      "summary": "KDDI gets the gang together for AI and RAN-driven venture",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "Japan"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "1d1a3e957fb94e",
       "title": "OpenAI introduces GPT-5.6 to challenge Claude Mythos 5",
       "url": "https://siliconangle.com/2026/06/26/openai-introduces-gpt-5-6-challenge-claude-mythos-5/",
@@ -670,6 +666,25 @@
         "OpenAI"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d93d0c86f09979",
+      "title": "Nvidia and Samsung to power 6G-ready digital twin for Japan telecom giant",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-and-samsung-to-power-6g-ready-digital-twin-for-japan-telecom-giant/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-06-26",
+      "summary": "KDDI gets the gang together for AI and RAN-driven venture",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Japan"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -853,8 +868,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$200 million",
         "$200M",
+        "$200 million",
         "$1 billion"
       ],
       "confidence": 7,
@@ -953,6 +968,27 @@
       "date": "2026-06-25",
       "summary": "Amazon ups India bet with fresh $13B AI infrastructure investment &nbsp;&nbsp; TechCrunch",
       "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "$13B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4ec202a0633f70",
+      "title": "Amazon to Invest Additional $13B to Expand AI, Cloud Infrastructure in India - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjhmTFdFUTRHNTZ5V1RjMnB1TGxrSjBxS3JiY2NybW5NN001TkVVOE9CMUE2aDNQMUg3NUFWeWZWa3FjODRRMGIwUVM2ZjZDM2RsWWRKcTlWX21OR2p2OGtTNTQzZzI3ZUVDNEFGOS1lOWlHUGlOSW1icHY3a1paRlB2X3RNUHlSOUFLYzRQNC1mTlhtQTRfVTF6bllSeldUNEhJZng1THdvTXJaeGhuSzJtWQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-25",
+      "summary": "Amazon to Invest Additional $13B to Expand AI, Cloud Infrastructure in India &nbsp;&nbsp; citybiz",
+      "finding_type": "Expansion",
       "companies": [
         "Amazon"
       ],
@@ -2146,23 +2182,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "26df26ba33ea5e",
-      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-24",
-      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "e59a4d8fb86e09",
       "title": "Google's Many Bets on a Cleaner Future for AI - Data Center Richness | Substack",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkh0RDNJdTJUNm82LUFZN1F1bmxjMXN6cFdzb18yaGZRUk10dHpzV0JMU3FzXzNZTUhGOVRFUG1IbEl3WmRxTFEya3NJNjhBRnZnOC14TkxXa29yaWRRTEo3VnpBN3FNUzR3dnZrTGVJX1RTVGxxWW5JNWdmMkRIb2tPVDNhUQ?oc=5",
@@ -2173,6 +2192,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "26df26ba33ea5e",
+      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
+      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-24",
+      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -8035,25 +8071,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "387946dbafc6e8",
-      "title": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dCUkFveXEzdTV2S2hlbmZ1UUdFOTIyQnU1a09ETnRjV2JqZlZXOVkzb2xfX25Bb0U1aEJJb0dxZ3ZQX2s5dm1HUXRjcVREaTV6S3N5Zm1kMVZnNzlZbHY5ZnRQUlcxN0xaTWxhaDR6dnVWRE1PeVp6cDF5MHpvNmFfTDJwRG5Ma1E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue &nbsp;&nbsp; About Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "1e5c263cdd589c",
       "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
@@ -8067,6 +8084,25 @@
       ],
       "locations": [
         "New York"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "387946dbafc6e8",
+      "title": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dCUkFveXEzdTV2S2hlbmZ1UUdFOTIyQnU1a09ETnRjV2JqZlZXOVkzb2xfX25Bb0U1aEJJb0dxZ3ZQX2s5dm1HUXRjcVREaTV6S3N5Zm1kMVZnNzlZbHY5ZnRQUlcxN0xaTWxhaDR6dnVWRE1PeVp6cDF5MHpvNmFfTDJwRG5Ma1E?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue &nbsp;&nbsp; About Amazon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Missouri"
       ],
       "amounts": [],
       "confidence": 3,
@@ -10558,41 +10594,6 @@
       ],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "62f67d09e5cb61",
-      "title": "'It doesn't benefit us': Seattle votes for year-long ban on new AI data centers - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTUJlX1JxaUVoOUhwUXRITEtTbkNiM2N5MXJNem1jSlQ4UE82SXZRS2dINFZRWlZiOXoyOWEwX25vZU16SkFaUzJnZGZGVzFtSGRYU094bmxsX0RENnkyaUhEYXF2UXItclFyb1pHRXNDTEp1RHI4YTliWkFLMVZpeHVHREtMcVVwN1FqS2ZmQlVZck83T0g0VGloSGNDT21ocWlMN2Vob00?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-10",
-      "summary": "'It doesn't benefit us': Seattle votes for year-long ban on new AI data centers &nbsp;&nbsp; TechRadar",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Seattle"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1d54090f6c6380",
-      "title": "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available",
-      "url": "https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-09",
-      "summary": "AWS announces the availability of Claude Fable 5 on Amazon Bedrock and Claude Platform on AWS. Claude Fable 5 delivers Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use.",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
