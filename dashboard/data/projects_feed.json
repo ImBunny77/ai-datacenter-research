@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-06-29T18:09:11.384252+00:00",
+  "last_updated": "2026-06-29T21:27:15.522855+00:00",
   "finding_count": 600,
   "new_project_count": 96,
   "cancellation_count": 19,
   "sec_filing_count": 2,
-  "high_confidence_count": 204,
+  "high_confidence_count": 203,
   "findings": [
+    {
+      "id": "cb6514be9f04bc",
+      "title": "South Korea launches $584B chip manufacturing initiative with Samsung, SK hynix",
+      "url": "https://siliconangle.com/2026/06/29/south-korea-launches-584b-chip-manufacturing-initiative-samsung-sk-hynix/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-06-29",
+      "summary": "The South Korean government today announced a 900 trillion won, or $584 billion, initiative to grow the country’s chip manufacturing capacity. Officials also plan to build about $357 billion worth of artificial intelligence data centers.  The chip manufacturing initiative will be led by Samsung Electronics Co. and SK hynix Inc., which intend to open two [&#8230;] \n The post  South Korea launches $584B chip manufacturing initiative with Samsung, SK hynix  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$357 billion",
+        "$584B",
+        "$584 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "65eb2e44cc8166",
       "title": "Crusoe to invest $10bn in data centers in Israel over next 10-15 years - report",
@@ -379,6 +398,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b5398ce07a5bdd",
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-29",
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a9818922f05537",
       "title": "AWS Weekly Roundup, Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
@@ -681,8 +717,8 @@
         "Arizona"
       ],
       "amounts": [
-        "$7 billion",
-        "$7B"
+        "$7B",
+        "$7 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1540,6 +1576,29 @@
       "is_high_confidence": true
     },
     {
+      "id": "02333ef0845832",
+      "title": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZGpLZmNmT2xvSjFoV1lOZGhJYXlpZWFTS1MzMnJwWWJCczNTYjMxTHlJeFl0VnY2U3dhQ2djRVpIRlpfUkVrLU5wMU12dTF2OGJNenVnblozT0QyenJBVnVkVDI1Mk9ObjRzUnNwME9MRmplT2JqX3VPYnJlQ2lObU16NjB0dnBqbzE4aS1NTnJUU3ljR05MbC1MZmFpVklMWWk3ejNhaHNobEVtbzlPMHhmQ1dhLTJwNzB0c3JzNVpBb1hOS241eFN1TTdWTW44WExKN1dNS1BlSnoxQkdjVHRvbkVPY2JPUDNpbVNGTWZkZ9IB9wFBVV95cUxOUFFlWmNQb3FtU1NlTkF4ZUY0TXdiWndkamhDYXdtYUVfRnRIVVh1MnIyRmFRVWNZN2oxOGFqSW4xZlZ5QV9zMk4yWm1lT1MyU1RzS2tndWhlRnVqR0k0dklGNlllVDVqVmk5TmxwdEJhY2tLT0laelNZMmQzSk9XR2hUVkU0WXM2bmo2QXRnUFpOazNQb1JuSkRvWnNZRFZPcUVsWngzU0NteVIxY3VTbGdqbVZKeVAwWXRsZ19GUmlFcVhQLWxqV1FpQ0pzdjdEcVoyU1ZQcXY5TWpfYXRHcEsxQjVkbi1vQnJvdEd0OWp2WnBaOS1N?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-06-25",
+      "summary": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India &nbsp;&nbsp; Moneycontrol.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "$57 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "34c8c1d5e59d81",
       "title": "Investing in Ukraine’s AI leadership and economic future",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/",
@@ -1596,29 +1655,6 @@
       ],
       "amounts": [
         "$13 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "02333ef0845832",
-      "title": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZGpLZmNmT2xvSjFoV1lOZGhJYXlpZWFTS1MzMnJwWWJCczNTYjMxTHlJeFl0VnY2U3dhQ2djRVpIRlpfUkVrLU5wMU12dTF2OGJNenVnblozT0QyenJBVnVkVDI1Mk9ObjRzUnNwME9MRmplT2JqX3VPYnJlQ2lObU16NjB0dnBqbzE4aS1NTnJUU3ljR05MbC1MZmFpVklMWWk3ejNhaHNobEVtbzlPMHhmQ1dhLTJwNzB0c3JzNVpBb1hOS241eFN1TTdWTW44WExKN1dNS1BlSnoxQkdjVHRvbkVPY2JPUDNpbVNGTWZkZ9IB9wFBVV95cUxOUFFlWmNQb3FtU1NlTkF4ZUY0TXdiWndkamhDYXdtYUVfRnRIVVh1MnIyRmFRVWNZN2oxOGFqSW4xZlZ5QV9zMk4yWm1lT1MyU1RzS2tndWhlRnVqR0k0dklGNlllVDVqVmk5TmxwdEJhY2tLT0laelNZMmQzSk9XR2hUVkU0WXM2bmo2QXRnUFpOazNQb1JuSkRvWnNZRFZPcUVsWngzU0NteVIxY3VTbGdqbVZKeVAwWXRsZ19GUmlFcVhQLWxqV1FpQ0pzdjdEcVoyU1ZQcXY5TWpfYXRHcEsxQjVkbi1vQnJvdEd0OWp2WnBaOS1N?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-25",
-      "summary": "Why Amazon, Microsoft, Google are pouring $57 billion to build AI infrastructure in India &nbsp;&nbsp; Moneycontrol.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$57 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4394,23 +4430,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "07581f90fb2b67",
-      "title": "SpaceX Rented Out Colossus 1 Over Its ‘Mish-Mash’ Of GPUs, But Now It’s Renting Out Colossus 2 Capacity As Well, Raising Doubts Over Grok AI’s Future - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNnE1WTBsS1djZHUxd3JBZVhNVFZlM1FMN0tYZTZGeWxNeDNobnVtb1ZPaVhjd01CeWhTZE9TOVZRVFp1Y05EVzFSb0xqcl9lQ0pMdUZkdGx5alFNUWpxdE1mbENMZEZNZXhBUjR6cXVCMVcwWHlwQk9YNlJyQmpENW9VdmZpejhLTU4ybWtJaHN1cTBob3Y3M1QxSlFNYmZ6R3lxNTNqeGkwSGVZUlVnS3ptM1JGR0F5OWotREN1RFZGOTRjQmhwalB6TGxuQ0FFZlh3X0h5ZlZFQmQyT05qTmxvN0xsQTRFQkpoTkVCamtYdEtHWE5PZ9IB_gFBVV95cUxNeEFwRkRoMzRZaVozTFF6eTN5VktLRzJkdXo2S3VldEtIcm8wN3JrelVXWUFBUXZkbTluN2tsSGJfeWFtSW9hZWx2Rko0VTJJT0JOSUVOUllqMGVqamJnSDNYZVM4OURYcXkxUnNoZkMyZFRYTHFXTkFXMFZ0VGZiY3hUeGpXM1V1RUw4ZFJJbm5jMDRta3ZxdEhYRThKYjNqQjdCaTNRbHNOZkl6WW9UZkpKQUduVnE5UE1CZUNPVFoxSWR4ak5jUlBxbE1YLXlSV1p4VTBpRGhtRm45SkwwbkpDd1dPSFBRNVA4Zjl5MUE0MnFFeVp0cUV0eThMQQ?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-06-22",
-      "summary": "SpaceX Rented Out Colossus 1 Over Its ‘Mish-Mash’ Of GPUs, But Now It’s Renting Out Colossus 2 Capacity As Well, Raising Doubts Over Grok AI’s Future &nbsp;&nbsp; Wccftech",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3c6dbc633b9aa4",
       "title": "Companies are demanding states cut red tape. Data center-wary voters may think differently - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0djQnpiVGJJdnBsRmNfYTVpbkpPR1dwRlludjZCVGZnLXNMYjRLdTdfTXd1ZXR2SmZuQ2R6eHB3SkRJY19GVEE5SGdEOUtibjA2RkNyTXhZSzgxUm5YMlRtdWJEVF9WX2ZCUi1YbzI3OFkxV2VvbTFuMU1qcjAyUFM1blZ4Qlc1QzRDYtIBkgFBVV95cUxNbDJ2eHJBaGZQeW9YeFI1WVc1a3ExVzQxZUh4amlCSHo3M3BMOURqSmNJUU1tSVcxY1Ezb1ZWQnZMb0JES1VRdjBLNVk1cW1IYUx4VnlpSUg4U3lvZmpjSzdOQ2lMMXlYVk1JSEppaEpyU1ctUnhYd2wyOUhZMk9wMUdRWXh3Zjg0MUZkRjE3dHVaZw?oc=5",
@@ -4473,6 +4492,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "07581f90fb2b67",
+      "title": "SpaceX Rented Out Colossus 1 Over Its ‘Mish-Mash’ Of GPUs, But Now It’s Renting Out Colossus 2 Capacity As Well, Raising Doubts Over Grok AI’s Future - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNnE1WTBsS1djZHUxd3JBZVhNVFZlM1FMN0tYZTZGeWxNeDNobnVtb1ZPaVhjd01CeWhTZE9TOVZRVFp1Y05EVzFSb0xqcl9lQ0pMdUZkdGx5alFNUWpxdE1mbENMZEZNZXhBUjR6cXVCMVcwWHlwQk9YNlJyQmpENW9VdmZpejhLTU4ybWtJaHN1cTBob3Y3M1QxSlFNYmZ6R3lxNTNqeGkwSGVZUlVnS3ptM1JGR0F5OWotREN1RFZGOTRjQmhwalB6TGxuQ0FFZlh3X0h5ZlZFQmQyT05qTmxvN0xsQTRFQkpoTkVCamtYdEtHWE5PZ9IB_gFBVV95cUxNeEFwRkRoMzRZaVozTFF6eTN5VktLRzJkdXo2S3VldEtIcm8wN3JrelVXWUFBUXZkbTluN2tsSGJfeWFtSW9hZWx2Rko0VTJJT0JOSUVOUllqMGVqamJnSDNYZVM4OURYcXkxUnNoZkMyZFRYTHFXTkFXMFZ0VGZiY3hUeGpXM1V1RUw4ZFJJbm5jMDRta3ZxdEhYRThKYjNqQjdCaTNRbHNOZkl6WW9UZkpKQUduVnE5UE1CZUNPVFoxSWR4ak5jUlBxbE1YLXlSV1p4VTBpRGhtRm45SkwwbkpDd1dPSFBRNVA4Zjl5MUE0MnFFeVp0cUV0eThMQQ?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-06-22",
+      "summary": "SpaceX Rented Out Colossus 1 Over Its ‘Mish-Mash’ Of GPUs, But Now It’s Renting Out Colossus 2 Capacity As Well, Raising Doubts Over Grok AI’s Future &nbsp;&nbsp; Wccftech",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
       ],
       "locations": [],
       "amounts": [],
@@ -8110,6 +8146,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "aabd1169cb9f93",
+      "title": "Google invests $1.5B to expand Alabama data center powered by TVA - Chattanooga Times Free Press",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFJBQUozc3BmQVA3VzBtMENzeG1raDMwcVJpUnlpYVpnWGpKNEpGNEl1b3NNa0g3UFdocE5USkNmS3FEbDRLWnRUQnFtNVB3WExWT0FOd1R3NldCZXFvOXRGcGJfclpqR0NPY3QyMU5WbU43WUhfVTh1QnNfMFZ6VXIxVkQ1T3ZQN0lncWVPcDJFTm90bmNrOEd1Ri0tQQ?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-06-15",
+      "summary": "Google invests $1.5B to expand Alabama data center powered by TVA &nbsp;&nbsp; Chattanooga Times Free Press",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "$1.5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "437756a610a0ba",
       "title": "Amazon, Missouri officials announce $10B Montgomery County data center plan - KOMU 8",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbG1oM2U1d3NTdm4zQS1fejVDU1pKMTQ3b1ZHMjJTUGN5VndDVWh4TWQweVZkdDRFb0Fab1lEV3h5Q1dYWjd0SmdIdDRsNTNfUDE3am1BM1pZWS1FRGRSZHVlZE5BREJhMFkyc0ZpVHhHMHVOQjMxLU54VzRvbVZkZnlqdEIxRFRyUkdlS0E3RGpSd1RmbVdxV2xqN3NmT0czcmdJV3IwMjlWMUFFTHN1UXZ1d2FOd29LWXhjeUhRQlVCQ0Y5ZmRLMEZqcWYyT2l3RUZfWDVTMDBfdFVjaUtlREkyQ0JSSm9EcDZ2Rm5pQWNXRVF3RGNqWg?oc=5",
@@ -8127,27 +8184,6 @@
       ],
       "amounts": [
         "$10B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "aabd1169cb9f93",
-      "title": "Google invests $1.5B to expand Alabama data center powered by TVA - Chattanooga Times Free Press",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFJBQUozc3BmQVA3VzBtMENzeG1raDMwcVJpUnlpYVpnWGpKNEpGNEl1b3NNa0g3UFdocE5USkNmS3FEbDRLWnRUQnFtNVB3WExWT0FOd1R3NldCZXFvOXRGcGJfclpqR0NPY3QyMU5WbU43WUhfVTh1QnNfMFZ6VXIxVkQ1T3ZQN0lncWVPcDJFTm90bmNrOEd1Ri0tQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-06-15",
-      "summary": "Google invests $1.5B to expand Alabama data center powered by TVA &nbsp;&nbsp; Chattanooga Times Free Press",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -8702,6 +8738,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "5cd6f36815f83c",
+      "title": "Stop thinking of AI data centers as compute systems - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU1HbmhLMzRGWExnQUZOeVNJeWNBN0c2Q0JVWE1GSnhCVlRGeWM3QURKWERlQXJzdXdmMU5TWDJDeFFaX3B6UVM4NndsVHhCX3JLTHVtN0U1RlVoRmFCbHJ3REVaVjRSckE4VXFrT0ZLNmx1bmVmNWRJWW5XNEZodmo3bVYzVmFQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-15",
+      "summary": "Stop thinking of AI data centers as compute systems &nbsp;&nbsp; TechRadar",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c1008a50e8b551",
       "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
       "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
@@ -8730,21 +8781,6 @@
       "companies": [
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5cd6f36815f83c",
-      "title": "Stop thinking of AI data centers as compute systems - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU1HbmhLMzRGWExnQUZOeVNJeWNBN0c2Q0JVWE1GSnhCVlRGeWM3QURKWERlQXJzdXdmMU5TWDJDeFFaX3B6UVM4NndsVHhCX3JLTHVtN0U1RlVoRmFCbHJ3REVaVjRSckE4VXFrT0ZLNmx1bmVmNWRJWW5XNEZodmo3bVYzVmFQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-15",
-      "summary": "Stop thinking of AI data centers as compute systems &nbsp;&nbsp; TechRadar",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10537,49 +10573,6 @@
         "$500 billion"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e8c982ee6c0c96",
-      "title": "Meta inks deal for 168MW of data center space at new Reliance Industries data center in Gujarat, India",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-inks-deal-for-168mw-of-data-center-space-at-new-reliance-industries-data-center-in-gujarat-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-10",
-      "summary": "Also announced 900MW clean energy purchases",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "168MW",
-        "900MW"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "261f5c6d0edf45",
-      "title": "Neura Robotics to raise up to $1.4B from Nvidia-backed consortium",
-      "url": "https://siliconangle.com/2026/06/10/neura-robotics-raise-1-4b-nvidia-backed-consortium/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-10",
-      "summary": "Automation startup Neura Robotics GmbH is raising a funding round worth up to $1.4 billion from a group of prominent investors. The company detailed today that the consortium includes Amazon.com Inc., Nvidia Corp., Qualcomm Technologies Inc. and cryptocurrency issuer Tether. The round is also expected to draw contributions from outside the tech sector. The European [&#8230;] \n The post  Neura Robotics to raise up to $1.4B from Nvidia-backed consortium  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.4B",
-        "$1.4 billion"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
