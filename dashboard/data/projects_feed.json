@@ -1,11 +1,45 @@
 {
-  "last_updated": "2026-07-01T23:16:47.891124+00:00",
+  "last_updated": "2026-07-02T03:41:39.883520+00:00",
   "finding_count": 600,
-  "new_project_count": 102,
+  "new_project_count": 103,
   "cancellation_count": 19,
   "sec_filing_count": 0,
-  "high_confidence_count": 199,
+  "high_confidence_count": 196,
   "findings": [
+    {
+      "id": "27fe8af02c2e31",
+      "title": "When Meta Starts Selling Computing Power - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVhKLTdZaENUTHJMWmMxRXVmRmdBNFV4elJmYzlaNEhHb2dCWF9zTGlWRzRCQnBXMlZ3WUc0aW52dUhiVTdjWEh2WmNnM29VOTJ0WWtxRE5hajR4c2NaakNNMzZsZXJ3ZVZZeHJ4d2VIZ1Z0aWI5S2NQbF90YUl5ZnRLdk1xdExaeXc?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-02",
+      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; Moomoo",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ac5f6358f23582",
+      "title": "Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry",
+      "url": "https://siliconangle.com/2026/07/01/palantir-ceo-alex-karp-doesnt-hold-back-interview-rails-ai-industry/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-02",
+      "summary": "Palantir Technologies Inc. Chief Executive Alex Karp appeared to go into meltdown mode during an interview with CNBC today where for 20-odd minutes he went off script after being asked to discuss his company’s ongoing deal with chip maker Nvidia Corp. The conversation turned to the AI industry where he lambasted the U.S. government’s relationship [&#8230;] \n The post  Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
     {
       "id": "f01a8c5b29010d",
       "title": "Cloud Capital Launches $6 Billion Data Center Joint Venture with Realty Income and Institutional Investor - Boston Real Estate Times",
@@ -113,8 +147,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -237,6 +271,23 @@
       "date": "2026-07-01",
       "summary": "Follows announcement last month that company was working with authorities to stop illegal shipments of AI servers",
       "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "94df02006f5b58",
+      "title": "Verkada takes Nvidia investment to expand its physical AI platform",
+      "url": "https://siliconangle.com/2026/07/01/verkada-takes-nvidia-investment-expand-physical-ai-platform/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-01",
+      "summary": "Physical security company Verkada Inc. has taken an investment from Nvidia Corp. and signed a technical partnership with the chipmaker, the two said today, in a deal meant to speed up the artificial intelligence running across Verkada&#8217;s 2.4 million connected devices. The size of the investment was not disclosed but comes seven months after Verkada [&#8230;] \n The post  Verkada takes Nvidia investment to expand its physical AI platform  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
       "companies": [
         "NVIDIA"
       ],
@@ -8276,18 +8327,20 @@
       "is_high_confidence": false
     },
     {
-      "id": "d9e9b2f5bda0b9",
-      "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
+      "id": "3481bc5b5541d4",
+      "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-16",
-      "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
+      "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
-      "locations": [],
+      "locations": [
+        "Missouri"
+      ],
       "amounts": [
         "$10 billion"
       ],
@@ -8316,20 +8369,18 @@
       "is_high_confidence": true
     },
     {
-      "id": "3481bc5b5541d4",
-      "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
+      "id": "d9e9b2f5bda0b9",
+      "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-16",
-      "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
+      "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
-      "locations": [
-        "Missouri"
-      ],
+      "locations": [],
       "amounts": [
         "$10 billion"
       ],
@@ -9388,25 +9439,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cd31894950da69",
-      "title": "Google investing $1.5B more in Jackson County data center campus, adds energy and education initiati - WAFF",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUpDVm9oT2NteDhUQkFweklJWjNNSVQ1X0VXaU9JY0FPMGNCcFNPOVI1ZEd3Um9ZbGEyUG42RmtDUFJPcElzRFF1cHRja1RKMWJmUFpkNUx2eTFfdUgtS3NWVi1OdGQyeTA4S0ZtWHJDYWtidDhiTi1wbk5RSExRSDh0NzRzY1NtZ0J1dU9NU3BwMVdqanBwcThNbXpOWWR2SmdsRmx5dDlUR3pIMnlBdVdoQXRuek5iUTBNSWVXaXVDamItRWd4eQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google investing $1.5B more in Jackson County data center campus, adds energy and education initiati &nbsp;&nbsp; WAFF",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "9659a4355c6903",
       "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
@@ -9440,6 +9472,25 @@
       "locations": [
         "Alabama"
       ],
+      "amounts": [
+        "$1.5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cd31894950da69",
+      "title": "Google investing $1.5B more in Jackson County data center campus, adds energy and education initiati - WAFF",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUpDVm9oT2NteDhUQkFweklJWjNNSVQ1X0VXaU9JY0FPMGNCcFNPOVI1ZEd3Um9ZbGEyUG42RmtDUFJPcElzRFF1cHRja1RKMWJmUFpkNUx2eTFfdUgtS3NWVi1OdGQyeTA4S0ZtWHJDYWtidDhiTi1wbk5RSExRSDh0NzRzY1NtZ0J1dU9NU3BwMVdqanBwcThNbXpOWWR2SmdsRmx5dDlUR3pIMnlBdVdoQXRuek5iUTBNSWVXaXVDamItRWd4eQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Google investing $1.5B more in Jackson County data center campus, adds energy and education initiati &nbsp;&nbsp; WAFF",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [
         "$1.5B"
       ],
@@ -9755,13 +9806,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "86cb0aeb3d99c8",
-      "title": "Amazon announces a multi-billion data center in Missouri: 'Biggest AI shift' details - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFEtRVA3WmotdEZkOHRqWFVfNVo0MHZKemNXMGlrV3NiRG5OM3U2WkFOOG5oR1hRaUpTM3BiYmRhUlNialV1NC1TV3h1NEcxbFRDM3RFNnlSVEFFNWtkcEo5QXR0Ul91RFllamt6QmlSSlMtYi1FbF90cDFuT1o1ZXh6d0pWOTdVV3VEOWZ4clc0VWRMLThFUW1Rb18yc0tLeTFWZVJIeTRMLUZCMDlTU1dwOENlRXVBVGFV?oc=5",
+      "id": "3b45c46d9fe526",
+      "title": "Amazon announces multibillion-dollar data center investment in Missouri - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dCUkFveXEzdTV2S2hlbmZ1UUdFOTIyQnU1a09ETnRjV2JqZlZXOVkzb2xfX25Bb0U1aEJJb0dxZ3ZQX2s5dm1HUXRjcVREaTV6S3N5Zm1kMVZnNzlZbHY5ZnRQUlcxN0xaTWxhaDR6dnVWRE1PeVp6cDF5MHpvNmFfTDJwRG5Ma1E?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-15",
-      "summary": "Amazon announces a multi-billion data center in Missouri: 'Biggest AI shift' details &nbsp;&nbsp; Seeking Alpha",
+      "summary": "Amazon announces multibillion-dollar data center investment in Missouri &nbsp;&nbsp; About Amazon",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -9774,13 +9825,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "3b45c46d9fe526",
-      "title": "Amazon announces multibillion-dollar data center investment in Missouri - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dCUkFveXEzdTV2S2hlbmZ1UUdFOTIyQnU1a09ETnRjV2JqZlZXOVkzb2xfX25Bb0U1aEJJb0dxZ3ZQX2s5dm1HUXRjcVREaTV6S3N5Zm1kMVZnNzlZbHY5ZnRQUlcxN0xaTWxhaDR6dnVWRE1PeVp6cDF5MHpvNmFfTDJwRG5Ma1E?oc=5",
+      "id": "86cb0aeb3d99c8",
+      "title": "Amazon announces a multi-billion data center in Missouri: 'Biggest AI shift' details - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFEtRVA3WmotdEZkOHRqWFVfNVo0MHZKemNXMGlrV3NiRG5OM3U2WkFOOG5oR1hRaUpTM3BiYmRhUlNialV1NC1TV3h1NEcxbFRDM3RFNnlSVEFFNWtkcEo5QXR0Ul91RFllamt6QmlSSlMtYi1FbF90cDFuT1o1ZXh6d0pWOTdVV3VEOWZ4clc0VWRMLThFUW1Rb18yc0tLeTFWZVJIeTRMLUZCMDlTU1dwOENlRXVBVGFV?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-06-15",
-      "summary": "Amazon announces multibillion-dollar data center investment in Missouri &nbsp;&nbsp; About Amazon",
+      "summary": "Amazon announces a multi-billion data center in Missouri: 'Biggest AI shift' details &nbsp;&nbsp; Seeking Alpha",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -10035,21 +10086,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "5cd6f36815f83c",
-      "title": "Stop thinking of AI data centers as compute systems - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU1HbmhLMzRGWExnQUZOeVNJeWNBN0c2Q0JVWE1GSnhCVlRGeWM3QURKWERlQXJzdXdmMU5TWDJDeFFaX3B6UVM4NndsVHhCX3JLTHVtN0U1RlVoRmFCbHJ3REVaVjRSckE4VXFrT0ZLNmx1bmVmNWRJWW5XNEZodmo3bVYzVmFQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-15",
-      "summary": "Stop thinking of AI data centers as compute systems &nbsp;&nbsp; TechRadar",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c1008a50e8b551",
       "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
       "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
@@ -10078,6 +10114,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5cd6f36815f83c",
+      "title": "Stop thinking of AI data centers as compute systems - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU1HbmhLMzRGWExnQUZOeVNJeWNBN0c2Q0JVWE1GSnhCVlRGeWM3QURKWERlQXJzdXdmMU5TWDJDeFFaX3B6UVM4NndsVHhCX3JLTHVtN0U1RlVoRmFCbHJ3REVaVjRSckE4VXFrT0ZLNmx1bmVmNWRJWW5XNEZodmo3bVYzVmFQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-06-15",
+      "summary": "Stop thinking of AI data centers as compute systems &nbsp;&nbsp; TechRadar",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10509,61 +10560,6 @@
         "$2.1 trillion"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7111d93bdbdc68",
-      "title": "Microsoft breaks ground on Alviso data center campus in San Jose, California",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-breaks-ground-on-alviso-data-center-campus-in-san-jose-california/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-12",
-      "summary": "First phase will offer 48MW of capacity",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "California"
-      ],
-      "amounts": [
-        "48MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "25068438234b02",
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-12",
-      "summary": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$130 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1dd95232c83269",
-      "title": "$130 billion in data center projects blocked by protests so far this year - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdGdNUWk0b1pkaFMteHZPV3ZUYlVVV2g1cHRDdl83RUxoYnVPYnRoTXM1M3llQjI3ZTZydjFwZ05jSGhpaDd2LTlhRTRVX0RwLW52T3FWTEV5TjBjU0Ywby1yRHJpTTVQdG11MWNYY0dpZ3NxaGxiU3gtZHJsT2JEVEVOeHdZQVdiS0lUV3lhQmRwYjg0NWlDamlkNjktbWRMS2JuM3EzSk9WLVRjT3ctZVVkdzc0MTFE?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-06-12",
-      "summary": "$130 billion in data center projects blocked by protests so far this year &nbsp;&nbsp; Ars Technica",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$130 billion"
-      ],
-      "confidence": 6,
       "is_high_confidence": true
     }
   ]
