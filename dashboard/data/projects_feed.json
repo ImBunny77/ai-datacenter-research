@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-02T14:03:16.343277+00:00",
+  "last_updated": "2026-07-02T17:49:19.291757+00:00",
   "finding_count": 600,
-  "new_project_count": 103,
-  "cancellation_count": 19,
+  "new_project_count": 100,
+  "cancellation_count": 20,
   "sec_filing_count": 0,
-  "high_confidence_count": 199,
+  "high_confidence_count": 192,
   "findings": [
     {
       "id": "48bebbd49d3097",
@@ -26,6 +26,44 @@
       "is_high_confidence": true
     },
     {
+      "id": "adfadc9220e6f1",
+      "title": "Twenty20 Energy announces two data centers for Pomeranian Voivodeship, Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/twenty20-energy-announces-two-data-centers-for-pomeranian-voivodeship-poland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "The facilities in Słupsk and Redzikowo will boast up to 790MW of compute power by 2030",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
+      "amounts": [
+        "790MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7ca1f3b321d145",
+      "title": "Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-02",
+      "summary": "The EU went after Google for the practice of bundling its search engine and browser with Android.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$4.7 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "757824dc874e02",
       "title": "Letsia to invest $13.32m in its planned data center in Riyadh, Saudi Arabia",
       "url": "https://www.datacenterdynamics.com/en/news/letsia-to-invest-1332m-in-its-planned-data-center-in-riyadh-saudi-arabia/",
@@ -42,6 +80,25 @@
         "$13.32m"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "43b8c86b3f35a3",
+      "title": "Karis withdraws rezoning request for data center in Hoffman Estates, Illinois",
+      "url": "https://www.datacenterdynamics.com/en/news/karis-withdraws-rezoning-request-for-data-center-in-hoffman-estates-illinois/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Opposition wins out",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Illinois"
+      ],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -80,6 +137,59 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "0573c4e32c97d8",
+      "title": "Pennsylvania's Appalachian appeal",
+      "url": "https://www.datacenterdynamics.com/en/analysis/pennsylvanias-appalachian-appeal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Why data center operators like Amazon and TierPoint are building in PA",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "411f749bfa1547",
+      "title": "AWS in-row heat exchanger to reduce water use by 9% over evaporative air-cooled data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Custom solution deployed for AI workloads",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "34fc51ec54840b",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-02",
+      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "e0815ef89d89a5",
@@ -139,20 +249,37 @@
       "is_high_confidence": false
     },
     {
-      "id": "34fc51ec54840b",
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
+      "id": "55cca0fdcc58a1",
+      "title": "Siemens Financial invests in UK data center operator Kao Data",
+      "url": "https://www.datacenterdynamics.com/en/news/siemens-financial-invests-in-uk-data-center-operator-kao-data/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-07-02",
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
+      "summary": "As the company renews its renewable electricity supply agreement with Shell",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "118980a9080295",
+      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
+      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-02",
+      "summary": "The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today... \n The post  Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence  appeared first on  ",
       "finding_type": "Statement / Update",
       "companies": [
-        "Google"
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 4,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -194,23 +321,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "118980a9080295",
-      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
-      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-02",
-      "summary": "The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today... \n The post  Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence  appeared first on  ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "81130e4f47af3a",
       "title": "Surge in data center, nuclear deals masks weak capex breadth: report - PRESS Insider",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0ZXNlR2dzJlZzFqdEtvZU5uOHlWUzlBUXdFRF9MX0ZWaVlqVjBNVFRhQm5rRkRQa1pmT2xGdF85Tm5PUkhJQW9jaktUYXhHOGViVFIyT2wxQURpRjZ6TThjZndrSjlrU1JMazZKSTVHOXlNdU04RjJZLTV3YzF1Y19QajNKUDJKTF9FaFlDaUJLVFdxYnVIcURvdjhZdw?oc=5",
@@ -226,13 +336,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a077f7318555de",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
+      "id": "74bdcfbbcb62ec",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -250,6 +360,211 @@
       "source_cat": "Company",
       "date": "2026-07-02",
       "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; Moomoo",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6994e1e9d8bf14",
+      "title": "Google plans \"connectivity hub\" in the Eastern Cape, South Africa",
+      "url": "https://www.datacenterdynamics.com/en/news/esds/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Will be the first of four hubs in Africa",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "54fd60278e0d55",
+      "title": "SoftBank establishes SB Neo to operate US neocloud business",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-establishes-sb-neo-to-operate-us-neocloud-business/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Will be established this month and jointly owned by SoftBank companies",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "100d59afc95967",
+      "title": "OpenAI considers giving five percent stake to US government, proposes other AI businesses join them - report",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-considers-giving-five-percent-stake-to-us-government-proposes-other-ai-businesses-join-them-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Land of the free equity",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0f7c1e042be599",
+      "title": "Nvidia acts as backstop for customer GPUs in return for cut of cloud revenue",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-acts-as-backstop-for-customer-gpus-in-return-for-cut-of-cloud-revenue/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Firmus and Sharon AI are first adopters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b0ed0cb57a4810",
+      "title": "Arcus acquires UK data center from Verne",
+      "url": "https://www.datacenterdynamics.com/en/news/arcus-acquires-uk-data-center-from-verne/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "Portus owner takes over Volta data center in London",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e0137b30a7b57",
+      "title": "Legrand delivers Nvidia-powered supercomputer to Armenia’s Yerevan State University",
+      "url": "https://www.datacenterdynamics.com/en/news/legrand-delivers-nvidia-powered-supercomputer-to-armenias-yerevan-state-university/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-02",
+      "summary": "System was installed in retrofitted university buildings",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "76c8ab64fa0d77",
+      "title": "Dell/Microsoft partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technologies World",
+      "url": "https://siliconangle.com/2026/07/02/dell-microsoft-partnership-hybrid-cloud-insights-delltechworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-02",
+      "summary": "For more than 35 years, Dell Technologies Inc. and Microsoft Corp. have collaborated on a wide range of enterprise technology offerings. From support for Azure hybrid cloud to server-based Windows solutions, Dell has a lengthy history of supplying co-developed and integrated products and services with Microsoft. This alliance has become even more important as organizations [&#8230;] \n The post  Dell/Microsoft partnership: Three insights you may have missed from theCUBE’s coverage of Dell Technol",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ac5f6358f23582",
+      "title": "Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry",
+      "url": "https://siliconangle.com/2026/07/01/palantir-ceo-alex-karp-doesnt-hold-back-interview-rails-ai-industry/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-02",
+      "summary": "Palantir Technologies Inc. Chief Executive Alex Karp appeared to go into meltdown mode during an interview with CNBC today where for 20-odd minutes he went off script after being asked to discuss his company’s ongoing deal with chip maker Nvidia Corp. The conversation turned to the AI industry where he lambasted the U.S. government’s relationship [&#8230;] \n The post  Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "43b59c6cb71b1e",
+      "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
+      "url": "https://newsletter.semianalysis.com/p/ectc2026",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-07-02",
+      "summary": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "502fd1df194465",
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-02",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8a7814bb702494",
+      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
+      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-02",
+      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a077f7318555de",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-02",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -373,23 +688,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ac5f6358f23582",
-      "title": "Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry",
-      "url": "https://siliconangle.com/2026/07/01/palantir-ceo-alex-karp-doesnt-hold-back-interview-rails-ai-industry/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-02",
-      "summary": "Palantir Technologies Inc. Chief Executive Alex Karp appeared to go into meltdown mode during an interview with CNBC today where for 20-odd minutes he went off script after being asked to discuss his company’s ongoing deal with chip maker Nvidia Corp. The conversation turned to the AI industry where he lambasted the U.S. government’s relationship [&#8230;] \n The post  Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "2848417b15402f",
       "title": "DXN sells Tasmanian data center, wins CLS contract in American Samoa",
       "url": "https://www.datacenterdynamics.com/en/news/dxn-sells-tasmanian-data-center-wins-cls-contract-in-american-samoa/",
@@ -402,6 +700,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "09a351a49a5e0a",
+      "title": "Tesla sales increase by 25% in Q2 2026",
+      "url": "https://arstechnica.com/cars/2026/07/tesla-sales-increase-by-25-in-q2-2026/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-02",
+      "summary": "Deliveries outstripped production, suggesting Tesla has cleared some inventory.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -678,6 +991,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "240dd548ad5a2c",
+      "title": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzQyVGtLNDZMeXU1ZlRRYmRzYkE4LTR5THdlVld2RHZXNlpGdDliclJ6c09KQlpIUEdaQm1GOUhSZTdhMlpvZGtKdFBtYzZfN3JHMFI4ZE9MSlpGdGlOYTU2UWw0RVB1cGhCNWkxYmJselZlN0lLSEs0RFdxZzRlaVZoVkpYWnhDMlRUejRZREFtVHU3UFhIY2FJM2dIZmJuVFg5ay1HOTVTZUZKSVVBeFZaUEFvbDNkVHRTdTl3bw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-01",
+      "summary": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater &nbsp;&nbsp; Tech Times",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a983ae84f6b016",
       "title": "Meta shares jump 9% on reported plan to offer AI infrastructure services",
       "url": "https://siliconangle.com/2026/07/01/meta-shares-jump-9-reported-plan-offer-ai-infrastructure-services/",
@@ -827,24 +1158,6 @@
       "locations": [
         "New York"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "240dd548ad5a2c",
-      "title": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzQyVGtLNDZMeXU1ZlRRYmRzYkE4LTR5THdlVld2RHZXNlpGdDliclJ6c09KQlpIUEdaQm1GOUhSZTdhMlpvZGtKdFBtYzZfN3JHMFI4ZE9MSlpGdGlOYTU2UWw0RVB1cGhCNWkxYmJselZlN0lLSEs0RFdxZzRlaVZoVkpYWnhDMlRUejRZREFtVHU3UFhIY2FJM2dIZmJuVFg5ay1HOTVTZUZKSVVBeFZaUEFvbDNkVHRTdTl3bw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-01",
-      "summary": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater &nbsp;&nbsp; Tech Times",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "CoreWeave"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1331,40 +1644,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1d1a24cd9c6637",
-      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-      "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-30",
-      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d2615e4d469fe",
-      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-30",
-      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "bab8f35e94273d",
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -1423,6 +1702,40 @@
       "source_cat": "Company IR",
       "date": "2026-06-30",
       "summary": "A collage of a landscape, a Google search for \"sustainability\", windmills, and Google Maps",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1d1a24cd9c6637",
+      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
+      "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-30",
+      "summary": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9d2615e4d469fe",
+      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-06-30",
+      "summary": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1824,23 +2137,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6d447ea8355e99",
-      "title": "Digital Realty Announces Purchase of Blackstone Interest in Three Northern Virginia Data Centers - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS3ExUjVsdWxJam9oZEFYM2hPMFo1YTc4QlBaNjNDcTFhX3gzZktQcDRvdVRZSkViN3BaekJ6aHlHM0dIaEp4Y1NFMnRmS3p4NHVDV1lCMzVSWFA5M2RsT0syT3kyeDB3SXJ3NEhlOUtTWkVHcmhWX0RTX1BRQk5uZGdOZFhfZmo5QXBPSXcyRjl0REF1dE1oczMxN3BTYUpJMlZLVmNzLXQ4STBFT3ZJb2IwbFFwTmlDZ0t3MzZ5b19FWWdKX1JRalRyZm9kN21vT1F5di11bnZ3TTFJWXdxTU5pOWNURnYzV05CY0RvUzBVbkJ1SnRxMDBXVk0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-29",
-      "summary": "Digital Realty Announces Purchase of Blackstone Interest in Three Northern Virginia Data Centers &nbsp;&nbsp; GlobeNewswire",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "dc4afdc236a998",
       "title": "Learn about AWS's long-term commitment to the UK - About Amazon UK",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzRhUW9vWHBfaVQyV2xSTERfZk5FZVhEN1ljemY5U19QRWlmb09na3NlbHc1aHhoUm0yaUxkVThUV2xKd0RTS3pidzlvcll5dTNXMnFjeFFqZHBDLUdGZHdWMklLaTNHWTFhWUY1Y2wzS3ZYUDJpVm9iX192M2JWbnFZV0l4djBJMFRNcklnUFVkOEN5RExiR0NLeDZvVFJhYVFsdm9EODZPbjluS2Y4?oc=5",
@@ -1854,6 +2150,23 @@
       ],
       "locations": [
         "UK"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6d447ea8355e99",
+      "title": "Digital Realty Announces Purchase of Blackstone Interest in Three Northern Virginia Data Centers - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS3ExUjVsdWxJam9oZEFYM2hPMFo1YTc4QlBaNjNDcTFhX3gzZktQcDRvdVRZSkViN3BaekJ6aHlHM0dIaEp4Y1NFMnRmS3p4NHVDV1lCMzVSWFA5M2RsT0syT3kyeDB3SXJ3NEhlOUtTWkVHcmhWX0RTX1BRQk5uZGdOZFhfZmo5QXBPSXcyRjl0REF1dE1oczMxN3BTYUpJMlZLVmNzLXQ4STBFT3ZJb2IwbFFwTmlDZ0t3MzZ5b19FWWdKX1JRalRyZm9kN21vT1F5di11bnZ3TTFJWXdxTU5pOWNURnYzV05CY0RvUzBVbkJ1SnRxMDBXVk0?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-29",
+      "summary": "Digital Realty Announces Purchase of Blackstone Interest in Three Northern Virginia Data Centers &nbsp;&nbsp; GlobeNewswire",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
       ],
       "amounts": [],
       "confidence": 3,
@@ -10262,329 +10575,6 @@
       "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "44e1385c164598",
-      "title": "AMZN Stock Jumps — Amazon Announces Multibillion-Dollar Data Center Expansion In Missouri - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2l3WU13SDAwOUxIem5BUHRZQkRkVi10TnU5UzJJVE0xMHhmSF83WXdST3NzWGg0Tlh1X2tzZE9fMzQtNkNrVmhMSlBwWlh3LVFzTExDSjQ5X19rSUxVa2Y0eWFHSGEtNmhGMjhFV0tHUXlfdG4yR0NhcVJ4V0YxcW5FTTRtaUctOTFTSE9pbjNlN1YzQXg0UjdpYUgtbWJobGZSdXVtam1ENDhEQzNCSDQzVnNvQkFHZ29uS09GaE1HUlc2a0VCTG5Rb0Q?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "AMZN Stock Jumps — Amazon Announces Multibillion-Dollar Data Center Expansion In Missouri &nbsp;&nbsp; Stocktwits",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b60e7b4d2587e7",
-      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-06-15",
-      "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$25B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a6d3812233eea2",
-      "title": "AMZN Stock Jumps — Amazon Announces Multibillion-Dollar Data Center Expansion In Missouri - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR0R0VWEwN0hfR21mbWtjZUhCLWxTT0lsMmtSMHdRSm9PeG5XWnhiT1lveXQwUWZfd2UyRUlLbjFSbVFsX0Znbm9UQ1FwUC1VVzZSbzM4TGJHd3FhWGdQWUM1cWY4Rkc0NFpOLU9NZGJYcW9RUUxtbUE1SFdmdTd6dnpnZXRFZUxjeGZZdzZ6ZktEZEF2V0R4ZDVZN19RRmpOdE16SzZKUzd3RnZveHpIMy1VMXJXSWZvQU8zSl9SUmFqMDNVVUE0YkFLTlBpaERxSldacWtheHZNX0VhaTVCUGJn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "AMZN Stock Jumps — Amazon Announces Multibillion-Dollar Data Center Expansion In Missouri &nbsp;&nbsp; TradingView",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7768f7ff88f45c",
-      "title": "Google announces massive data center expansion in Jackson County - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTBNQ2xsbTU5cHo2ODIwNzd0ZUFkbjZlUDZ1cUQ4SVV2TEpRbjlqV293UmdNTXBleS13dTJSMTVZUHFGdWhYbjFSbWN6RlRJMUVuRmlhNTZDUHhIVEdocWZ6Q2lxNGRPbDJmVVQ0TFZ3VDRYQVU3emxEMl9OcUE3ajNlU0h4SGQwcWM5aGxsajNvRmxKRXRIX01LbUdRcUNQX0VDZnhSTUM?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google announces massive data center expansion in Jackson County &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "610a23aee8afa2",
-      "title": "Google announces massive data center expansion in Jackson County - rocketcitynow.com",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEtLWmlFVTZKM2dKWUZ3N2l4S2tSWTNRR3pDcWUwRmZEX0c3bXdpQzNzeWRTUTViY3lJRjk1VFNxMUpjdERWMkxvN3hIWjExb3R1LTVxUEota0RkTnU0TkxqMkVhRXFwYjFlYmdrXzV2Ti0xZWtyX1lSRnVNS0pVM2tQcXMzWV9DT0U3MGl5emJDZ3h1a1ZvOVdMbG43YUw3OUdNcGdQWjViOHZjT25EeG56eW1LT3hsdUhaNVJVMC1JbWFXMk5CTldQZGFTeGhyZ2hzV2RCSnp1SFZTVHU2anNvZTUzT1VWdXc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google announces massive data center expansion in Jackson County &nbsp;&nbsp; rocketcitynow.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "edc7eb9d1539e5",
-      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to dat - First Alert 4",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV19EZ01ZcURzWUxqdkFTRkNnTjVlQnBQMW5NendpM1lZcjJlZzRmeVVKMUE0YWIwVHhINlNzQ3lFWmRaLVhjU0VxM0VBNllDM0xfaEFnSjk5cGtON0pQUE1qVERTaFJCRjVsNnpqUmpSTENjMlpFYTFtNDV6bGZPQ0V4NkhNMFczVS03MGZOWUpvSTI3QmFGZ1NsbnBtZEtyTWdIRWNrNjAtWkFTUF9nbDdOTS1BRjQtYUdsRG9xZGgtMTBUX21zYU43NFhSbUJwVUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to dat &nbsp;&nbsp; First Alert 4",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$7 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6a22836117b858",
-      "title": "50MW 'Project Taurus' data center gets go-ahead in Colorado",
-      "url": "https://www.datacenterdynamics.com/en/news/50mw-project-taurus-data-center-gets-go-ahead-in-colorado/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-15",
-      "summary": "Those opposed can file an appeal before 5pm on June 22",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Colorado"
-      ],
-      "amounts": [
-        "50MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "71121e0c5e24d2",
-      "title": "Bitdeer breaks ground on natural gas plant and data center in Alberta, Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/bitdeer-breaks-ground-on-natural-gas-plant-and-data-center-in-alberta-canada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-15",
-      "summary": "Company starts work on 100MW project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "100MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f2c0c3188316ad",
-      "title": "1.6MW data center on sale for $4m in Ames, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/16mw-data-center-on-sale-for-4m-in-ames-iowa/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-15",
-      "summary": "Facility put up for sale last Wednesday",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Iowa"
-      ],
-      "amounts": [
-        "$4m",
-        "1.6MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3c9b5c44f6aaf6",
-      "title": "Data4 confirms €5bn plan for 700MW AI data center in northern France",
-      "url": "https://www.datacenterdynamics.com/en/news/data4-confirms-5bn-plan-for-700mw-ai-data-center-in-northern-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-15",
-      "summary": "Former steelworks to become new campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [
-        "700MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1e5c263cdd589c",
-      "title": "AWS Weekly Roundup: AWS FinOps Agent in preview, Gemma 4 on Bedrock, Kiro Pro Max, and more (June 15, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-15",
-      "summary": "This week, New York City is hosting AWS Summit, bringing together builders, customers, and AWS teams for a full day of announcements, demos, and technical sessions at the Javits Center. I wrote blog posts for some of the Summit launches, so I am excited to see them go live this week. I just won’t be […]",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "387946dbafc6e8",
-      "title": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3dCUkFveXEzdTV2S2hlbmZ1UUdFOTIyQnU1a09ETnRjV2JqZlZXOVkzb2xfX25Bb0U1aEJJb0dxZ3ZQX2s5dm1HUXRjcVREaTV6S3N5Zm1kMVZnNzlZbHY5ZnRQUlcxN0xaTWxhaDR6dnVWRE1PeVp6cDF5MHpvNmFfTDJwRG5Ma1E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon strengthens its investment in Missouri to bring new community programs, new jobs, and hundreds of millions in tax revenue &nbsp;&nbsp; About Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f4078b964f1cfd",
-      "title": "Muon Space announces Condor-Ultra orbital platform for up to 100kW compute",
-      "url": "https://www.datacenterdynamics.com/en/news/muon-space-announces-condor-ultra-orbital-platform-for-up-to-100kw-compute/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-15",
-      "summary": "Startup announces new orbital data center satellite 100x more powerful than the one it announced last year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c1008a50e8b551",
-      "title": "AWS WAF adds AI traffic monetization capability to help content owners charge AI bots for content access",
-      "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-15",
-      "summary": "AWS WAF launches AI traffic monetization, a new Bot Control capability that enables content providers and publishers price, meter, and collect payment from AI bots and agents accessing their content and APIs. AWS WAF now lets you set a price for that access, accept payment through third-party providers, and grant scoped access directly at the edge.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "74350c51886ecf",
-      "title": "New AI Tools to Help You Make Things Happen on Facebook",
-      "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-15",
-      "summary": "We’re introducing new AI-powered Facebook features to help you connect, create, and find what you’re looking for. \n The post  New AI Tools to Help You Make Things Happen on Facebook  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5cd6f36815f83c",
-      "title": "Stop thinking of AI data centers as compute systems - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSU1HbmhLMzRGWExnQUZOeVNJeWNBN0c2Q0JVWE1GSnhCVlRGeWM3QURKWERlQXJzdXdmMU5TWDJDeFFaX3B6UVM4NndsVHhCX3JLTHVtN0U1RlVoRmFCbHJ3REVaVjRSckE4VXFrT0ZLNmx1bmVmNWRJWW5XNEZodmo3bVYzVmFQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-15",
-      "summary": "Stop thinking of AI data centers as compute systems &nbsp;&nbsp; TechRadar",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "66b7c5cf8ca992",
-      "title": "Google Fitbit Air is now HSA/FSA eligible in the U.S.",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/buy-fitbit-air-pre-tax-health-savings/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-15",
-      "summary": "U.S. customers can use pre-tax HSA and FSA funds to buy the Google Fitbit Air to monitor daily health and wellness routines.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b9cfbc808e2b59",
-      "title": "Company behind massive AI data center project launches training program with N.J. university - NJ.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUVo4aE5XZWZhVVBCZVVuV1hZbkQ1eHE1YUgyLVlwMHlUSS1oZEUyckNXeUhyNy02RzJOb3hCdktfU1F4OXhYZUtjazdmakFoNFVyN3Rmd0c1TDFiN19KcUpuM1ZfU2ZWQmc1ZlFteEtvOFVNcmFDVmVEekN0QzdOUzhYeEI3a1dkT2pNcUNld1pJd2pkNndrSGJHZXpJUHBNQldKWXlDMzdRWVNXck15Z1RBbDV6RXBIeW53Q1VOaGg1NjV0enfSAdoBQVVfeXFMTkVWTHp5M0hvNlh6azFCQVhkbDVfTkdpaEQ5cE5BQVZUelI2RzlFS2h3TjBQWlBtcUdaRk9ZRnRfc1I3M1FtMmhKcjYtMEVKNXRBbk9vMmVDYzdWOV90UXBsdVZsV29uRjVpZEZHV3dvUWthdHJxZ3dIbktvSXhuYlZDMWFPUjY5bEN3Unl2TVR1b0c4WFlmU3Q3N2d3V3kycFFLR3pTc3pWeHY4ZlBjOFhRZ1NlQWdmMnNhc1hnaHNOU1JNU2ZUcGdsd3VHOURweWVBc3JCS2JURWc?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-06-15",
-      "summary": "Company behind massive AI data center project launches training program with N.J. university &nbsp;&nbsp; NJ.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
