@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-03T03:23:05.488186+00:00",
+  "last_updated": "2026-07-03T07:21:30.806019+00:00",
   "finding_count": 600,
-  "new_project_count": 97,
+  "new_project_count": 95,
   "cancellation_count": 20,
   "sec_filing_count": 0,
-  "high_confidence_count": 181,
+  "high_confidence_count": 179,
   "findings": [
     {
       "id": "75bd46ee7fc061",
@@ -21,6 +21,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "81b4f6f8b9ff64",
+      "title": "Sponsored: Indonesia's next strategic AI and data center gateway",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/indonesias-next-strategic-ai-and-data-center-gateway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-03",
+      "summary": "NeutraDC Nxera on why Batam is packed with potential – plus what it’ll take to secure long-term growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indonesia"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -54,8 +71,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$2.5B",
-        "$2.5 billion"
+        "$2.5 billion",
+        "$2.5B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -407,13 +424,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "74bdcfbbcb62ec",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
+      "id": "a077f7318555de",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -540,23 +557,6 @@
         "UK",
         "London"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e0137b30a7b57",
-      "title": "Legrand delivers Nvidia-powered supercomputer to Armenia’s Yerevan State University",
-      "url": "https://www.datacenterdynamics.com/en/news/legrand-delivers-nvidia-powered-supercomputer-to-armenias-yerevan-state-university/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "System was installed in retrofitted university buildings",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -751,13 +751,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2904272602e3a1",
-      "title": "Meta Compute: Everyone Wants To Be A Cloud",
-      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "74bdcfbbcb62ec",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
       "date": "2026-07-02",
-      "summary": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -768,13 +768,30 @@
       "is_high_confidence": false
     },
     {
-      "id": "a077f7318555de",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
+      "id": "8e0137b30a7b57",
+      "title": "Legrand delivers Nvidia-powered supercomputer to Armenia’s Yerevan State University",
+      "url": "https://www.datacenterdynamics.com/en/news/legrand-delivers-nvidia-powered-supercomputer-to-armenias-yerevan-state-university/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
+      "summary": "System was installed in retrofitted university buildings",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2904272602e3a1",
+      "title": "Meta Compute: Everyone Wants To Be A Cloud",
+      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-07-02",
+      "summary": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -977,8 +994,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$800M",
-        "$800 million"
+        "$800 million",
+        "$800M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -997,8 +1014,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4295,6 +4312,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "e3ce1eff1dd123",
+      "title": "Teens, Parents, and Educators Navigate Online Safety Through Real Conversations in Singapore",
+      "url": "https://about.fb.com/news/2026/06/teens-parents-and-educators-navigate-online-safety-in-singapore/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-25",
+      "summary": "We're launching an interactive experience in Singapore that gives teens, parents, and educators practical tools to have open conversations about online safety and digital wellbeing. \n The post  Teens, Parents, and Educators Navigate Online Safety Through Real Conversations in Singapore  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8428773f547804",
       "title": "Google.org is funding three long-term partners on education and AI.",
       "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/",
@@ -4961,23 +4997,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "e59a4d8fb86e09",
-      "title": "Google's Many Bets on a Cleaner Future for AI - Data Center Richness | Substack",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkh0RDNJdTJUNm82LUFZN1F1bmxjMXN6cFdzb18yaGZRUk10dHpzV0JMU3FzXzNZTUhGOVRFUG1IbEl3WmRxTFEya3NJNjhBRnZnOC14TkxXa29yaWRRTEo3VnpBN3FNUzR3dnZrTGVJX1RTVGxxWW5JNWdmMkRIb2tPVDNhUQ?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-06-24",
-      "summary": "Google's Many Bets on a Cleaner Future for AI &nbsp;&nbsp; Data Center Richness | Substack",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "26df26ba33ea5e",
       "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
       "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
@@ -4988,6 +5007,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e59a4d8fb86e09",
+      "title": "Google's Many Bets on a Cleaner Future for AI - Data Center Richness | Substack",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkh0RDNJdTJUNm82LUFZN1F1bmxjMXN6cFdzb18yaGZRUk10dHpzV0JMU3FzXzNZTUhGOVRFUG1IbEl3WmRxTFEya3NJNjhBRnZnOC14TkxXa29yaWRRTEo3VnpBN3FNUzR3dnZrTGVJX1RTVGxxWW5JNWdmMkRIb2tPVDNhUQ?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-06-24",
+      "summary": "Google's Many Bets on a Cleaner Future for AI &nbsp;&nbsp; Data Center Richness | Substack",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -9253,8 +9289,8 @@
       "id": "3481bc5b5541d4",
       "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-06-16",
       "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
@@ -10363,25 +10399,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "9be9fd8f2ab5ee",
-      "title": "Google announces $1.5B investment for Jackson County data center - The Bama Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJVZ1BoV3oyUG1xWE5YUzE4c3ExaUg0ckVqT1NPcVFkaHRFNV9Cb3k3X0w3R1ZFNkRBaTE5enFEZmJ5ZmtITG96dVA0MWdFajFmM0Q0Y1ozaXV6S0JoOFhLMDFiM3hNZ25yU2NxTVNoekkzdXROTmE1WnM0bVdvXzFBMVB6OVJUakU1TW16RUdzUQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google announces $1.5B investment for Jackson County data center &nbsp;&nbsp; The Bama Buzz",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "9659a4355c6903",
       "title": "Amazon to build $10 billion data center west of St. Louis - Spectrum News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
@@ -10415,6 +10432,25 @@
       "locations": [
         "Alabama"
       ],
+      "amounts": [
+        "$1.5B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9be9fd8f2ab5ee",
+      "title": "Google announces $1.5B investment for Jackson County data center - The Bama Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDJVZ1BoV3oyUG1xWE5YUzE4c3ExaUg0ckVqT1NPcVFkaHRFNV9Cb3k3X0w3R1ZFNkRBaTE5enFEZmJ5ZmtITG96dVA0MWdFajFmM0Q0Y1ozaXV6S0JoOFhLMDFiM3hNZ25yU2NxTVNoekkzdXROTmE1WnM0bVdvXzFBMVB6OVJUakU1TW16RUdzUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-06-15",
+      "summary": "Google announces $1.5B investment for Jackson County data center &nbsp;&nbsp; The Bama Buzz",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [
         "$1.5B"
       ],
@@ -10498,44 +10534,6 @@
       "locations": [],
       "amounts": [
         "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ceaf4c25474edf",
-      "title": "Google announces $1.5B investment in Jackson County data center expansion - WHNT.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHBzMDBsdm9wei1PRXNmcm5Ra1dyX21SQ0pxc0VqMlRTcVhEN3VyZm5pQ29ENUl5aFFqMXFYc2p5Wk5hRGY1Mm02SXlxaVNnVW1NbkVGblFHU19oTVlWeENsdkdLRXIySWhPWC16WmxTTUNiRkZWV2NEMG1tTlJjMElXY1d4cDBLSFUzRWljaklCZDVETzZleHRKTzZMdzQybHFfLWo4aFA5cmY3VlZ2VGpQMNIBuAFBVV95cUxPOExJajViTlBhNHdQRURfMjhXeWJlc09nLUJUNVRVMjc4TFA1V0FrV0dMRGx3ZnNOcEppbTBoY3NTSzlFMDdlcnpydjRIbkFoQkhILTBYSmxBRGs5cUhwSTlpaXlpVVl1d2p3TXJQanplNXZuaEdhdkV0ejJKaFJPWXNUalB2b2h4bFBEUE92eXBiZVpTMkotTHMwMEpHZDI5OHBXX3pBajZISktDMVhwRVkzN0ZkOW9m?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Google announces $1.5B investment in Jackson County data center expansion &nbsp;&nbsp; WHNT.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "861b001a138c0c",
-      "title": "Amazon to build $10 billion data center west of St. Louis - NY State of Politics",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzdwZUJTSlNLY0JENVlGaE1ZUmp2RjVUbXBXWnBvYlh0dUE5a2Nmd1lUZzA0NU8wVnpGRE96MldILWdpRjZsNVhFZExZWVpENFdHY3lVNHRsdzZrMjdGRFQ1S256aVprb0YtWGtmdkJHQUNSdWwxOVFndG1xQ2hFZm5NeUVYUDl6X3dWZmlpUlY1cHJNUC1SdzNySWhPdThhRl9mNW1na1dTbndfZVg1aXJObG84UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-15",
-      "summary": "Amazon to build $10 billion data center west of St. Louis &nbsp;&nbsp; NY State of Politics",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
