@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:07:59.371938+00:00",
+  "last_updated": "2026-07-03T23:05:26.810500+00:00",
   "finding_count": 600,
   "new_project_count": 92,
   "cancellation_count": 20,
@@ -184,6 +184,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b32cf6ee6b3ddc",
+      "title": "Meta to release new AI model with advanced coding capabilities ‘soon’",
+      "url": "https://siliconangle.com/2026/07/03/meta-release-new-ai-model-advanced-coding-capabilities-soon/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-03",
+      "summary": "Meta Platforms Inc. is gearing up to release a new version of its flagship Muse Spark artificial intelligence model. Alexandr Wang, the company’s chief AI officer, wrote on X today that the update will roll out “soon.” The announcement came a few hours after Business Insider reported that the new algorithm is competitive with GPT-5.5 [&#8230;] \n The post  Meta to release new AI model with advanced coding capabilities ‘soon’  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -1515,8 +1532,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$800 million",
-        "$800M"
+        "$800M",
+        "$800 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1535,8 +1552,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1792,23 +1809,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ebfb2d213e2c21",
-      "title": "Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk",
-      "url": "https://siliconangle.com/2026/07/01/armadin-details-full-sandbox-escape-claude-cowork-anthropic-disputes-risk/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-01",
-      "summary": "Security researchers at Armadin Inc. today detailed an attack chain that runs arbitrary commands as root inside the sandbox behind Anthropic PBC&#8217;s Claude Cowork, escaping the isolation layer, with a second flaw stripping the network restrictions meant to contain it. Anthropic, however, does not consider it a security issue. Armadin reported the chain on March [&#8230;] \n The post  Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "488d138f893d45",
       "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
       "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
@@ -1816,23 +1816,6 @@
       "source_cat": "Tech News",
       "date": "2026-07-01",
       "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "30917d6edab60e",
-      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-07-01",
-      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -1857,6 +1840,40 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ebfb2d213e2c21",
+      "title": "Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk",
+      "url": "https://siliconangle.com/2026/07/01/armadin-details-full-sandbox-escape-claude-cowork-anthropic-disputes-risk/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-01",
+      "summary": "Security researchers at Armadin Inc. today detailed an attack chain that runs arbitrary commands as root inside the sandbox behind Anthropic PBC&#8217;s Claude Cowork, escaping the isolation layer, with a second flaw stripping the network restrictions meant to contain it. Anthropic, however, does not consider it a security issue. Armadin reported the chain on March [&#8230;] \n The post  Armadin details full sandbox escape in Claude Cowork but Anthropic disputes risk  appeared first on  SiliconAN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "30917d6edab60e",
+      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-07-01",
+      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2358,6 +2375,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ad00aeb011e124",
+      "title": "Read our 11th annual Environmental Report",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-30",
+      "summary": "A collage of a landscape, a Google search for \"sustainability\", windmills, and Google Maps",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "bab8f35e94273d",
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -2402,23 +2436,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad00aeb011e124",
-      "title": "Read our 11th annual Environmental Report",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-30",
-      "summary": "A collage of a landscape, a Google search for \"sustainability\", windmills, and Google Maps",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2968,25 +2985,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8805614776f82d",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-29",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "fa2c2df1552155",
       "title": "The Gemini app is bringing personalized image creation to more users.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
@@ -3033,6 +3031,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8805614776f82d",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-29",
+      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5518,23 +5535,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "26df26ba33ea5e",
-      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-24",
-      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "e59a4d8fb86e09",
       "title": "Google's Many Bets on a Cleaner Future for AI - Data Center Richness | Substack",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkh0RDNJdTJUNm82LUFZN1F1bmxjMXN6cFdzb18yaGZRUk10dHpzV0JMU3FzXzNZTUhGOVRFUG1IbEl3WmRxTFEya3NJNjhBRnZnOC14TkxXa29yaWRRTEo3VnpBN3FNUzR3dnZrTGVJX1RTVGxxWW5JNWdmMkRIb2tPVDNhUQ?oc=5",
@@ -5545,6 +5545,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "26df26ba33ea5e",
+      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
+      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-24",
+      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -7220,6 +7237,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7d6c450a72a6f6",
+      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
+      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-22",
+      "summary": "Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. \n The post  Instagram for TV Gets Bigger, With New Ways to Watch Together  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4bb9cd9439bac0",
       "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
@@ -7252,23 +7286,6 @@
       "locations": [
         "New York"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7d6c450a72a6f6",
-      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
-      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-22",
-      "summary": "Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. \n The post  Instagram for TV Gets Bigger, With New Ways to Watch Together  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9440,6 +9457,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "5ce6ba657991b6",
+      "title": "Threads Returns to Türkiye With New Features",
+      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-17",
+      "summary": "This is because of a recent decision taken by the Turkish Competition Authority \n The post  Threads Returns to Türkiye With New Features  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "db9c0846d1f16c",
       "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
@@ -9518,23 +9552,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ce6ba657991b6",
-      "title": "Threads Returns to Türkiye With New Features",
-      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-17",
-      "summary": "This is because of a recent decision taken by the Turkish Competition Authority \n The post  Threads Returns to Türkiye With New Features  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10404,6 +10421,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "5fd0a1c60f59fd",
+      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
+      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "We're launching new communities features on Threads to celebrate reaching 500 million monthly active users.  \n The post  New Features to Celebrate 500 Million Monthly Users on Threads  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e2b43a47d01b23",
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
@@ -10414,23 +10448,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5fd0a1c60f59fd",
-      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
-      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-16",
-      "summary": "We're launching new communities features on Threads to celebrate reaching 500 million monthly active users.  \n The post  New Features to Celebrate 500 Million Monthly Users on Threads  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
         "Meta"
       ],
       "locations": [],
@@ -10496,23 +10513,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a42ecc699bf3ec",
-      "title": "Xreal unveils Aura, its lightweight smart glasses powered by Android XR",
-      "url": "https://siliconangle.com/2026/06/16/xreal-unveils-aura-lightweight-smart-glasses-powered-android-xr/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-16",
-      "summary": "Lightweight augmented reality glasses maker Xreal Inc. officially unveiled its Aura smart glasses today, powered by Android XR and built with Qualcomm Inc.’s Snapdragon. Formerly known as Project Aura, these new smart glasses will launch this Fall, combining lightweight, see-through wired extended reality capability and deep integration with Google LLC’s Gemini artificial intelligence. “The new [&#8230;] \n The post  Xreal unveils Aura, its lightweight smart glasses powered by Android XR  appeare",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
