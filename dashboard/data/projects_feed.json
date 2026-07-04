@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T10:10:44.725104+00:00",
+  "last_updated": "2026-07-04T13:35:27.927012+00:00",
   "finding_count": 600,
   "new_project_count": 93,
   "cancellation_count": 20,
@@ -18,10 +18,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$3 billion",
         "$30B",
-        "$3B",
-        "$30 billion"
+        "$3 billion",
+        "$30 billion",
+        "$3B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1829,23 +1829,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "488d138f893d45",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-01",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "30917d6edab60e",
       "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
       "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
@@ -1877,6 +1860,23 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "488d138f893d45",
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-01",
+      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
