@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T19:15:17.606896+00:00",
+  "last_updated": "2026-07-04T20:58:54.044658+00:00",
   "finding_count": 600,
   "new_project_count": 93,
   "cancellation_count": 20,
@@ -18,10 +18,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$30 billion",
         "$30B",
-        "$3 billion",
-        "$3B"
+        "$3B",
+        "$30 billion",
+        "$3 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1829,23 +1829,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "30917d6edab60e",
-      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-07-01",
-      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9dc768609164a2",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
@@ -1860,6 +1843,23 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "30917d6edab60e",
+      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-07-01",
+      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2412,6 +2412,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ad00aeb011e124",
+      "title": "Read our 11th annual Environmental Report",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-30",
+      "summary": "A collage of a landscape, a Google search for \"sustainability\", windmills, and Google Maps",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "bab8f35e94273d",
       "title": "Accelerate your infrastructure deployments by up to 4x with AWS CloudFormation Express mode",
       "url": "https://aws.amazon.com/blogs/aws/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -2456,23 +2473,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad00aeb011e124",
-      "title": "Read our 11th annual Environmental Report",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/2026-environmental-report/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-30",
-      "summary": "A collage of a landscape, a Google search for \"sustainability\", windmills, and Google Maps",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3037,25 +3037,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8805614776f82d",
-      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-06-29",
-      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "fa2c2df1552155",
       "title": "The Gemini app is bringing personalized image creation to more users.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
@@ -3102,6 +3083,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8805614776f82d",
+      "title": "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-cx-designer-for-amazon-connect-customer-ec2-ami-watermarks-open-governance-for-mysql-and-more-june-29-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-06-29",
+      "summary": "It has been a busy stretch on the AWS Summit circuit. At the New York City Summit, I delivered a workshop called Building AI architectures with AWS Serverless, and it was a lot of fun watching builders wire up agents and serverless services to solve real problems in a single afternoon. This week I am […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5587,23 +5587,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "26df26ba33ea5e",
-      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-24",
-      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "e59a4d8fb86e09",
       "title": "Google's Many Bets on a Cleaner Future for AI - Data Center Richness | Substack",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkh0RDNJdTJUNm82LUFZN1F1bmxjMXN6cFdzb18yaGZRUk10dHpzV0JMU3FzXzNZTUhGOVRFUG1IbEl3WmRxTFEya3NJNjhBRnZnOC14TkxXa29yaWRRTEo3VnpBN3FNUzR3dnZrTGVJX1RTVGxxWW5JNWdmMkRIb2tPVDNhUQ?oc=5",
@@ -5614,6 +5597,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "26df26ba33ea5e",
+      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
+      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-24",
+      "summary": "As demand for cloud and AI services continues to grow, datacenters are becoming more essential than ever. Communities also want to better understand how this infrastructure affects local resources, particularly water. At Microsoft, water stewardship has been a priority since our first datacenter builds in the early 2000s and remains a core part of our... \n The post  Inside Microsoft’s two-decade push to cut water intensity while scaling for growth  appeared first on  The Official Microsoft Blog ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -7289,6 +7289,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "7d6c450a72a6f6",
+      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
+      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-22",
+      "summary": "Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. \n The post  Instagram for TV Gets Bigger, With New Ways to Watch Together  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4bb9cd9439bac0",
       "title": "Run isolated sandboxes with full lifecycle control: AWS Lambda introduces MicroVMs",
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
@@ -7321,23 +7338,6 @@
       "locations": [
         "New York"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7d6c450a72a6f6",
-      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
-      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-22",
-      "summary": "Instagram for TV will not be available on Samsung TV, plus we're testing new to make sharing and discovering even more fun. \n The post  Instagram for TV Gets Bigger, With New Ways to Watch Together  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9082,8 +9082,8 @@
       "id": "6a7bc2eb720879",
       "title": "NWI Forum announces $7 billion Amazon data center coming to Jasper County - Chicago Tribune",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXE5VWZTUXNyZDRCc0hEZjBSYXg3djgxMzN4NFNvemlaYzhYbjNGbVlWbERCYWdVSENtX3pkOFMwaTU2VVE3RjFNNGxaR0pNeVlsNkpXaGNGYnpTNmNKNExCSDM0NlFFTWh1NVdJWjQ0dDI5T3J4RlVlQmVYcTZWNmQ1Yy1wR2dNYzNZMW5R?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-06-17",
       "summary": "NWI Forum announces $7 billion Amazon data center coming to Jasper County &nbsp;&nbsp; Chicago Tribune",
       "finding_type": "New Project",
@@ -9492,6 +9492,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "5ce6ba657991b6",
+      "title": "Threads Returns to Türkiye With New Features",
+      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-17",
+      "summary": "This is because of a recent decision taken by the Turkish Competition Authority \n The post  Threads Returns to Türkiye With New Features  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "db9c0846d1f16c",
       "title": "Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications",
       "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
@@ -9570,23 +9587,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ce6ba657991b6",
-      "title": "Threads Returns to Türkiye With New Features",
-      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-17",
-      "summary": "This is because of a recent decision taken by the Turkish Competition Authority \n The post  Threads Returns to Türkiye With New Features  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -9896,8 +9896,8 @@
       "id": "3481bc5b5541d4",
       "title": "Amazon announces $10 billion Missouri data center campus - qz.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-06-16",
       "summary": "Amazon announces $10 billion Missouri data center campus &nbsp;&nbsp; qz.com",
       "finding_type": "New Project",
@@ -10473,6 +10473,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "5fd0a1c60f59fd",
+      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
+      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-06-16",
+      "summary": "We're launching new communities features on Threads to celebrate reaching 500 million monthly active users.  \n The post  New Features to Celebrate 500 Million Monthly Users on Threads  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e2b43a47d01b23",
       "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
@@ -10483,23 +10500,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5fd0a1c60f59fd",
-      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
-      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-06-16",
-      "summary": "We're launching new communities features on Threads to celebrate reaching 500 million monthly active users.  \n The post  New Features to Celebrate 500 Million Monthly Users on Threads  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
         "Meta"
       ],
       "locations": [],
