@@ -1,11 +1,50 @@
 {
-  "last_updated": "2026-07-06T13:45:49.597225+00:00",
+  "last_updated": "2026-07-06T16:52:04.607840+00:00",
   "finding_count": 600,
-  "new_project_count": 93,
-  "cancellation_count": 17,
+  "new_project_count": 88,
+  "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 175,
+  "high_confidence_count": 165,
   "findings": [
+    {
+      "id": "f6afffa54e6d69",
+      "title": "Big Digital Energy acquires land for 311MW data center campus outside Dallas-Fort Worth, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/big-digital-energy-acquires-land-for-311mw-data-center-campus-outside-dallas-fort-worth-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Company formerly known as Mawson expands beyond PJM into Texas",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Texas",
+        "Dallas"
+      ],
+      "amounts": [
+        "311MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "45e15a3e0d1b82",
+      "title": "SK Telecom plans $653 billion AI data center buildout in Korea - The Korea Economic Daily Global Edition",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS1ZVSUU0cGtzZjdsRzJBRk5LaWNUdWRxSE5lY2dOcnJXZG5KWE5fYlcxNFNqdFlxVW9aTktiejNMSmE2a2FUekJ6SkhnUkZqcEZQekc3djg3TGpoNnpvYVdvb2I1RnRGYk5OeVJiYkNWc0JNR2ZpdkF6SlBTbnc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-06",
+      "summary": "SK Telecom plans $653 billion AI data center buildout in Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$653 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "8d1f275d969d78",
       "title": "GS Group Breaks Ground on $19.6 Billion AI Data Center in Donghae, Aiming for Asia's Largest by 2028 - finance.biggo.com",
@@ -21,6 +60,25 @@
         "$19.6 Billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d3d2ba9371a99e",
+      "title": "99MW data center proposed in Kern County, California",
+      "url": "https://www.datacenterdynamics.com/en/news/99mw-data-center-proposed-in-kern-county-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Faces opposition from locals",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [
+        "99MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -64,6 +122,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "d1cadcd11329e2",
+      "title": "Anthropic signs $19bn, 20-year lease for Kentucky data center with TeraWulf",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-19bn-20-year-lease-for-kentucky-data-center-with-terawulf/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "TeraWulf also sells stake in joint venture with Fluidstack",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "e7077e153c9ec2",
       "title": "DCD News: June review",
       "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-june-review/",
@@ -100,6 +177,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "6f1aa8500f1d3c",
+      "title": "The fastest megawatt wins",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-fastest-megawatt-wins/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Why frictionless power is the new data center advantage",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "80bd11b6053758",
+      "title": "Nvidia pushes Kyber release to 2028 following manufacturing concerns – report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-pushes-kyber-release-to-2028-following-manufacturing-concerns-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Research firm SemiAnalysis claims 12 months delay is due to issues manufacturing the PCB midplane",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "d0c69424e1b08b",
       "title": "The latest in our company transformation",
       "url": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
@@ -114,6 +223,104 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3be533d72622fa",
+      "title": "Trends & Outlooks series sponsorship guide",
+      "url": "https://www.datacenterdynamics.com/en/dcd-downloads/trends-outlooks-series-sponsorship-guide/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Lead the conversation for the year ahead in the data center sector  November 30 - December 14, 2026",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c1759d4df6f568",
+      "title": "Meta rebuilds its AI storage stack from the ground up to stop GPUs sitting idle",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-rebuilds-its-ai-storage-stack-from-the-ground-up-to-stop-gpus-sitting-idle/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "An inside look at how the wannabe cloud provider cuts data wait times by up to 97 percent",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f0b9f704cff2b7",
+      "title": "Microsoft plans to cut 4,800 jobs",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-plans-to-cut-4800-jobs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Primarily impacts Xbox, but cloud workers also hit",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3415dfbc5dce7a",
+      "title": "Bleeding Edge launches AI Factory, claims to be first Nvidia Blackwell-based neocloud in Mexico and Latin America",
+      "url": "https://www.datacenterdynamics.com/en/news/bleeding-edge-launches-ai-factory-claims-to-be-first-nvidia-blackwell-based-neocloud-in-mexico-and-latin-america/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Located in Querétaro, Mexico",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "99b2cd557ad10e",
+      "title": "Sponsored: The new data center playbook",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-new-data-center-playbook/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Why a sophisticated approach to collaboration, governance, compliance, dispute resolution and risk allocation is key to navigating an ever-evolving data center landscape",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c727415920f74b",
+      "title": "Cryptominer Avax One acquires data center site in Alberta, Canada, amid AI pivot",
+      "url": "https://www.datacenterdynamics.com/en/news/cryptominer-avax-one-acquires-data-center-site-in-alberta-canada-amid-ai-pivot/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-06",
+      "summary": "Company using flared gas to mine crypto at other sites",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -144,6 +351,23 @@
       "locations": [
         "UK"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4a3ec5071738b0",
+      "title": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-07-06",
+      "summary": "A couple of editions ago I wrote about what I find so energizing about working with startups. Last week I got a fresh dose of it: I spent a few days with the AWS Startups team, listening to stories of founders talking about the problems they’re actually solving. One story that stayed with me came […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -197,21 +421,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4dee6434317bec",
-      "title": "The 20 percent problem: why data center sites fail before they’re built",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-05",
-      "summary": "Why the industry must continue to look beyond the grid",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8c884c0296ae62",
       "title": "Amazon’s Mechanical Turk service now on life support as it stops accepting new users",
       "url": "https://siliconangle.com/2026/07/05/amazons-mechanical-turk-service-now-life-support-stops-accepting-new-users/",
@@ -241,6 +450,21 @@
         "OpenAI",
         "Anthropic"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4dee6434317bec",
+      "title": "The 20 percent problem: why data center sites fail before they’re built",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-20-percent-problem-why-data-center-sites-fail-before-theyre-built/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-05",
+      "summary": "Why the industry must continue to look beyond the grid",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -279,10 +503,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$3 billion",
         "$3B",
-        "$30B",
-        "$30 billion"
+        "$3 billion",
+        "$30 billion",
+        "$30B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -573,6 +797,42 @@
       "is_high_confidence": false
     },
     {
+      "id": "399e7bc5f67ab2",
+      "title": "OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud",
+      "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-03",
+      "summary": "OpenAI reportedly has floated giving the U.S. government a 5% stake in the company, perhaps the start of a series of such stakes in other AI companies as well. This no doubt has traditional anti-industrial-policy Republicans, all apparently dead now, spinning in their graves, because it&#8217;s a dumb idea for all sorts of reasons &#8212; [&#8230;] \n The post  OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8035c6b2586497",
+      "title": "Anthropic reportedly in talks with Samsung to manufacture custom AI chip",
+      "url": "https://siliconangle.com/2026/07/02/anthropic-reportedly-talks-samsung-manufacture-custom-ai-chip/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-03",
+      "summary": "Anthropic PBC is reportedly in talks with Samsung Electronics Co. to produce a custom artificial intelligence chip. The Information today cited sources as saying that the discussions are in an early stage. According to the publication, Anthropic has not yet finalized key details such as what workloads the processor will run and its performance. Some [&#8230;] \n The post  Anthropic reportedly in talks with Samsung to manufacture custom AI chip  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "50e5493ce1a4cd",
       "title": "Equinix-occupied data center in Manchester, UK, sold to a new landlord - report",
       "url": "https://www.datacenterdynamics.com/en/news/equinix-occupied-data-center-in-manchester-uk-sold-to-a-new-landlord-report/",
@@ -651,42 +911,6 @@
       "locations": [
         "Texas"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "399e7bc5f67ab2",
-      "title": "OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud",
-      "url": "https://siliconangle.com/2026/07/03/openai-offers-feds-stake-anthropic-gets-ai-model-jail-meta-wants-neocloud/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-03",
-      "summary": "OpenAI reportedly has floated giving the U.S. government a 5% stake in the company, perhaps the start of a series of such stakes in other AI companies as well. This no doubt has traditional anti-industrial-policy Republicans, all apparently dead now, spinning in their graves, because it&#8217;s a dumb idea for all sorts of reasons &#8212; [&#8230;] \n The post  OpenAI offers feds a stake, Anthropic gets out of AI model jail and Meta wants to be a neocloud  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8035c6b2586497",
-      "title": "Anthropic reportedly in talks with Samsung to manufacture custom AI chip",
-      "url": "https://siliconangle.com/2026/07/02/anthropic-reportedly-talks-samsung-manufacture-custom-ai-chip/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-03",
-      "summary": "Anthropic PBC is reportedly in talks with Samsung Electronics Co. to produce a custom artificial intelligence chip. The Information today cited sources as saying that the discussions are in an early stage. According to the publication, Anthropic has not yet finalized key details such as what workloads the processor will run and its performance. Some [&#8230;] \n The post  Anthropic reportedly in talks with Samsung to manufacture custom AI chip  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -873,6 +1097,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "2c6efe420a90f2",
+      "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjQ1T2tsSDBKMzdJNTZMdGlVWkMtM3FvTVY0V0F3STl0OHY1SWc5Mi1na3RBU2hWdXZvUk1MLWNjQWdNVHFlcVpJaFNOQ3A0TXhYUGdjN3RnZ3IwNTB6WFNqaTh6LVBjaWNKLWhPT3puRktUM253cFR5eXE1UmI2OHhjX3F0aWF3a25ZMFlRcHRJLXcyT0JTMFdvRW5UWWJ2TE1ueWJjTS1HT3E00gGyAUFVX3lxTE1FZWVxdlpzOUdQeWhZYm11UEJoRUZHaUxQR0F6b3pqMElQX3pQcUhLcEIyMnRqTDljeTR4dS1icExSZlZFQ1lNbkxmekV0OTBjaW9PTmZ2TGVvbEoydG4wa1ZNcHA1bW1OZUhobDNPX3FMdGNvQTJ1dzNlTmpxMkJhTWNUU0NFQjZ6NWxWYzVIMFVPaUlyWlpkRjlSMTNfUl9Vay1SbjNDcjNTRVdjWFk4UGc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-02",
+      "summary": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2.5 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "dfa87aa390093d",
       "title": "Microsoft launches AI-focused professional services business with $2.5B investment",
       "url": "https://siliconangle.com/2026/07/02/microsoft-launches-ai-focused-professional-services-business-2-5b-investment/",
@@ -888,25 +1131,6 @@
       "amounts": [
         "$2.5 billion",
         "$2.5B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2c6efe420a90f2",
-      "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTjQ1T2tsSDBKMzdJNTZMdGlVWkMtM3FvTVY0V0F3STl0OHY1SWc5Mi1na3RBU2hWdXZvUk1MLWNjQWdNVHFlcVpJaFNOQ3A0TXhYUGdjN3RnZ3IwNTB6WFNqaTh6LVBjaWNKLWhPT3puRktUM253cFR5eXE1UmI2OHhjX3F0aWF3a25ZMFlRcHRJLXcyT0JTMFdvRW5UWWJ2TE1ueWJjTS1HT3E00gGyAUFVX3lxTE1FZWVxdlpzOUdQeWhZYm11UEJoRUZHaUxQR0F6b3pqMElQX3pQcUhLcEIyMnRqTDljeTR4dS1icExSZlZFQ1lNbkxmekV0OTBjaW9PTmZ2TGVvbEoydG4wa1ZNcHA1bW1OZUhobDNPX3FMdGNvQTJ1dzNlTmpxMkJhTWNUU0NFQjZ6NWxWYzVIMFVPaUlyWlpkRjlSMTNfUl9Vay1SbjNDcjNTRVdjWFk4UGc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-02",
-      "summary": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -2071,23 +2295,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8db0db940b3934",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUZfbVhkRXYzMGNzWC1Wc3FzeEpFLXNVMlhCcFFPTEdqSldHVWpySGJpYlh0TWRSdDRFeGZwejR5cTNqRXhfa3hHTW9tdkFHRU1HVlBqQ3F2WjZpR0VkZUdlNjdZUVZkOUpmQ0JtakVCbHNoV0RrVk54RmItbmhwQ0diT0ZnMUIwTTBYVmtqV3BHMmlHcEtLSg?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-07-01",
-      "summary": "Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "240dd548ad5a2c",
       "title": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzQyVGtLNDZMeXU1ZlRRYmRzYkE4LTR5THdlVld2RHZXNlpGdDliclJ6c09KQlpIUEdaQm1GOUhSZTdhMlpvZGtKdFBtYzZfN3JHMFI4ZE9MSlpGdGlOYTU2UWw0RVB1cGhCNWkxYmJselZlN0lLSEs0RFdxZzRlaVZoVkpYWnhDMlRUejRZREFtVHU3UFhIY2FJM2dIZmJuVFg5ay1HOTVTZUZKSVVBeFZaUEFvbDNkVHRTdTl3bw?oc=5",
@@ -2170,6 +2377,23 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8db0db940b3934",
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUZfbVhkRXYzMGNzWC1Wc3FzeEpFLXNVMlhCcFFPTEdqSldHVWpySGJpYlh0TWRSdDRFeGZwejR5cTNqRXhfa3hHTW9tdkFHRU1HVlBqQ3F2WjZpR0VkZUdlNjdZUVZkOUpmQ0JtakVCbHNoV0RrVk54RmItbmhwQ0diT0ZnMUIwTTBYVmtqV3BHMmlHcEtLSg?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-07-01",
+      "summary": "Meta, like SpaceX, looks to turn excess AI compute into cash &nbsp;&nbsp; TechCrunch",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4673,25 +4897,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "34c8c1d5e59d81",
-      "title": "Investing in Ukraine’s AI leadership and economic future",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-06-25",
-      "summary": "Google.org is providing a $5 million grant to scale Obrii, Ukraine’s national AI job platform. This contributes to Ukraine's AI adoption, following sustained investment …",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$5 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "5a075cf9744b84",
       "title": "Amazon ups India bet with fresh $13B AI infrastructure investment - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHNNSkExTlVLeEdpSXN3MVFxaDhORTd6blkweWhPVGExVXJEZWphWndIUUxNN1F1TkJVb1NxVjk2cE1GRU0xNnlFY05kUF9iQWhuSkU1TlJuOVhiVExidWFyNGViNGlpcGl5alJTWEtxSDdYY0lOTTA4SGkxU3RNcW80ajV3OVFzVXY5RXNEdTNQVWtlQzNmNDBVVUYyelhK?oc=5",
@@ -4708,6 +4913,25 @@
       ],
       "amounts": [
         "$13B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "34c8c1d5e59d81",
+      "title": "Investing in Ukraine’s AI leadership and economic future",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-06-25",
+      "summary": "Google.org is providing a $5 million grant to scale Obrii, Ukraine’s national AI job platform. This contributes to Ukraine's AI adoption, following sustained investment …",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$5 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10236,276 +10460,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "1d63750a844687",
-      "title": "Amazon announces $10 billion Montgomery County data center plan - KTTN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xVWTMtelExemlVcXViSW1aQkF3MDFNTnJqMDYyaEJ1VDVxWjY3YUpNTk5YNHUwS3QwbURUUjYxdWNlbGFYZ3lZZ3IzOFdlMU03NGphRU04bXYxTEE3V3EycVU4b3BTbkZoaEVFSzRLd0xYT2R6SVIxQ195ZDRKNTF1dTV1elhGYzlzaA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-06-16",
-      "summary": "Amazon announces $10 billion Montgomery County data center plan &nbsp;&nbsp; KTTN",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Montgomery"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d9e9b2f5bda0b9",
-      "title": "Amazon is investing $10 billion in a new data center campus - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iY0JHeF9LXzRrZ2xGdlNGYkktQWxURHFZbG9ZZGl1UFY3bUNPZjZGa19NbFR1NmphZVh3UTdOblR0X2liM01TQTJid1JvZi04TEI2MFBFOGFTWGp5enU5MmU0bmNoU25JV1lHdGtYTnRrMUdLRWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Amazon is investing $10 billion in a new data center campus &nbsp;&nbsp; qz.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7265a2da5a46b6",
-      "title": "Google to spend $1.5 billion on Alabama data center expansion By Investing.com - Investing.com Australia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2xFWDNwSVE4VE9GWmExNkhabDhDMXhZQ3had2ZLSFd2clNNR2dSOVNDZWl1UU54b1B4bkw0M1FoVUw0eE9KeTlzd0pzOXVZR2RjNXEtTUIxeVVwRmdkdVpuSk9RWTNIekdmX3pqNWs0S2xORTVXYXdvcUVzazJGYTZLLWxFSlRPQkRrRGlhaXA4a1NFS1NjOTlHeVhwRWU5QXNSNHYtWFd6eVFhMWVSTEFDUzdRUXpmbXFNVUZxMVBaSktGeGc?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-16",
-      "summary": "Google to spend $1.5 billion on Alabama data center expansion By Investing.com &nbsp;&nbsp; Investing.com Australia",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama",
-        "Australia"
-      ],
-      "amounts": [
-        "$1.5 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c5a5269e001fb2",
-      "title": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus - SValleyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEM2ZmxoOEszT1N1TjA2Y2x3TDV3R3d6N2NCLV8yYUVjY2ExYkdGVnNMYklqUkVfWjhNeWFEVG1oYWUwZmhTaEFqTE9MWWQtRWJxb1hfYVFXNjIwOHVlZGFMczFyV2tIOU5iSVpIRFQwZVFWVE1nOXE5aTU4U0Y4akwtakdjQlo5d3pnTmdmd3dYX2RVc1B0b19EbXBENS02bnNubTR5UEg3OW9OOEdZ0gG0AUFVX3lxTE0yOEdKSjFlTlpRTENCUG0zemNLRlFUTmZlMklqY29oVENHX0lGVE5NNlVRS2ZjMUUtR2cyRl9JZmZSaEhaM2VwQjF5blhVVnRGek13NlJOVnFBaTRCX3MwMXdibkZpVEswXzFTLXJ6MFhMUUdwTlRpRmtYUnNWcHBrUHNyODd5Mk45ZWpjMXFnSS1uTThNZ1dkbjF1eldIWnI3SkJOX2dCbGNJQWJBTVBqajd5RA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google Announces $1.5 Billion Expansion of Jackson County Data Center Campus &nbsp;&nbsp; SValleyNow.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.5 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e74949cbd67df2",
-      "title": "Google to spend $1.5 billion on Alabama data center expansion By Investing.com - Investing.com South Africa",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLTNtWm5fU3dwaUJMS2tlblkyR3RzZzVhMWZtb2tjWGdJTWJkSmF1eW1oZ0F3R2dzTUJzNHhzY0tPcnlCOUFWYkQtcWd4bXkzeGlHeEhRc05sNmJSZ1pxZnE5ZUw1NHRiNVpEUkRVdlFwV0pEaUFialNSUVEtWHhqSG5CZ2lXVWdSbkllNDE0OGFBa2VDdzQtV0NId1V4LVhaRXVrSElpWFVEYnk3VzFmWHIxRGVLOXZsdzNlOFhPTjZlak9UMnc?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-06-16",
-      "summary": "Google to spend $1.5 billion on Alabama data center expansion By Investing.com &nbsp;&nbsp; Investing.com South Africa",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ae3f0950abfda5",
-      "title": "Google to invest $1.5 billion in Alabama data center expansion, launches new community programs - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbDJLWm5EUFB3X2NISEFZNjVFRVFqVE1hQkE5NGZRSGVJdGRoNDZVSG5hbFo1SXNrdU5fU3dwcFU3YVlVWVl3UWRXNkE3QWtPWWU4MWlsS3hLMExxSzBhN1Zrcl9qaG1kVHBIcHlIaTg5bHY5cTN2eW5ZRGxfTnc5eXVXVjZGQ3RhUGNDVGNnaGRSWFNfYkJQY0p0VVk2R2xWTERyc0VsWG11U1lvR1ZmeDAzSzJJTUZ4alllMjNnMTRwQWNRdmdzZlVDVFFxLWh5OXdRMDR6aTk3dHpTZmJ0SW5rWmU0ZjJNalBscXp5V3dzMGwwRUpKdzQyUDExc2xyYWEzb1A5Y9IBjAJBVV95cUxPQmRiUDVkMFlyd2VJMWhILXgwUC1vWjJSQV9lNFJYMHlLVFpNSUR0WVk2cUFFb0x0eWxoZkpIWGF1TDlPX2dWNVJvRGQwLWJ1NlBEQUpHMGxSejEyeXlrZzk2ZU5sSDQ5YS1DUVVXaW5pbTVUVmc2dWpTNzJkMXNmeXRzbDhvSVlFX3BCYTV0R0NXQnZHalZBcXhRZV9kZzZ0WmxnQ3AxU0o2NXhVRi12YnNDdml0aFB0MWlJMTliVWx0ak5lejRzSHpULWxwT2gyMmxYWjRYb1VGbnZ0ODJFdklPcjYxaHB1ZlUwQTdEc0h6ZUZjOEpBOWlGVzhFaW9nSVpscHVHdmh6Nkp5?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google to invest $1.5 billion in Alabama data center expansion, launches new community programs &nbsp;&nbsp; The Times of India",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama",
-        "India"
-      ],
-      "amounts": [
-        "$1.5 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6bf87b63295b9f",
-      "title": "Google plans to invest $1.5 billion to expand its data center in Alabama. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUI5cWFjRk5VNmE4SkRJdXBzSGZnWmk5MjVzTGh6S2ZhUDdEQnJDZEdkOEZFU1JkaUlXS2lMMl9VY2JDbVZKdXJ0b3d2T1c4U192X3ZVTXdNcUdIRXBxamZ2ZDQtQXBpUmRfSzg3Y3RnVWFVV3pqNUNxTXBfY1ZHUjdDejVoaFJxNV9Wc0lWeGZuTU0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google plans to invest $1.5 billion to expand its data center in Alabama. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "990030365274a1",
-      "title": "Google invests $1.5B to expand Jackson County data center - Alabama Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQl9taE5BQTFsMzFobXlBYVNENlNsTmVFSEhPTkVCNUJFWklSSEJGTjVqNnV5eXJpSnRPNzJCVWVWSDRRQTVlSk1TMG9IOVlFcHRNSHhUZTJ6U2JwSGJXQlNqcWREbkN4SVB0NXVPTUFJcFZXcGJmdGVyX0RfTEs4X1JKQ2dGMUJY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google invests $1.5B to expand Jackson County data center &nbsp;&nbsp; Alabama Daily News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2ab2bd93c5f127",
-      "title": "What Amazon.com (AMZN)'s US$10 Billion Missouri Data Center Bet Means For Shareholders - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMVhpUTNmN0ZTa0VfOXBFSm91OHFoQlphcFZ5MGdQREpHWWRCNEJ1WklicGVwcDVJS0hmYW5falpHdjU4VlhVdUd2TUZYejhfRnJVSElIcWhWb2c1OFJKQ3lOSzc4cUgzejlrVjVwa1Y3VDJEMEp2UmJKNUQzN3d5SnRxV1FMZlVBM2xkOHgwemdZbDVYV0kwdDlseFdwcUlyMDVaRWRxbW9UWjMyME95LVRpbVFPcldDVkM5WFN1Z2xuSjZf0gHKAUFVX3lxTFBtdzlVY0RVQTZUd3ZKUGg5bVhBdWRZZGdoLTBlRTZuSEQ5VGtXVEthTndEWW9fNy1fWE5TOUZyelRZRVNmampzOHNRYWtzMHp1eU1ualVVUFA1b0RkelZJM3dnUnZzeWNGTnBZVzd3bENrNzlsOGp3NUNwdlBjMkY2TndSTHRNVi00c3lmSkNQNngwcDlMYTVtUGVHN09JcGZ1alM4a3o3cl9STlVsS1FXYkpvNkxLdzY0SURDejFTRnRPZThHUFg1VEE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-16",
-      "summary": "What Amazon.com (AMZN)'s US$10 Billion Missouri Data Center Bet Means For Shareholders &nbsp;&nbsp; simplywall.st",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$10 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a1fd8837e9bcab",
-      "title": "Google plans $1.5 billion Jackson County data center expansion - Alabama Political Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHVkMVFEN1g2d3RaQzhYTWY3X3JkcHFhS09jZktLYWVYaVU1a3ZRX0RnZUdDM0FZSlpOcGkxdUhnMnJSa2I2RjR5QmtjMk5BZmMzdWtyLWZJVER3OFpFN3VWaUpSb3VXd0hZaHJJYkYwNHBiX2Rnb05laHpnMG5tRlZMbmlBdGlNWnJGNDB0dHMtQkV3RTczSjRYOUljQW9taHc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-06-16",
-      "summary": "Google plans $1.5 billion Jackson County data center expansion &nbsp;&nbsp; Alabama Political Reporter",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1.5 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e2fef0c39cf36b",
-      "title": "GPU infrastructure management startup Hydra Host raises $100M",
-      "url": "https://siliconangle.com/2026/06/15/gpu-infrastructure-management-startup-hydra-host-raises-100m/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-16",
-      "summary": "Data center infrastructure startup Hydra Host Inc. said today it has bagged $100 million in a Series A round of funding led by Kindred Ventures. Investors piled into the round, with Nvidia Corp., Ark Invest, SPLY Capital, Era Funds, Comcast Ventures, Magnetar, Peak6, Founders Fund, 10x Founders, Sterling Road and Flume Ventures also participating. The [&#8230;] \n The post  GPU infrastructure management startup Hydra Host raises $100M  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$100 million",
-        "$100M"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "41d8c8cd717207",
-      "title": "Amazon Selects Missouri for $10B Data Center Campus - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTRUX0RFZDZRR254b3RUNDUySExtblZlMXBibkNnR0p3aks0M0tELURBeTVwYmlpbTZqcmIyclRCY3dXa2w3ckZWWVB5eDF4WXJoZ21uZkg0a2hQSGJYZEU4V2hnaUZZeXBlLURhMWxSX3JXWGJBTnFGcDBJZjJ4eVVVZkNscXZjdWVHU05PbnVKRTRKR0QyWg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-06-16",
-      "summary": "Amazon Selects Missouri for $10B Data Center Campus &nbsp;&nbsp; HPCwire",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$10B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1bd0ad26b25a9b",
-      "title": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center - WGEM",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk9LdG1vTXNFZHNkTGNXQnR2YlJweFBmN1JCbU9Memo5dEs0UUdGQlk0d0FJenJEOEFZMXpsY3F1ZWh5Tl93eW9QUDBuc2taUzhtYkZHTU1PSFp1NU5ReGhlQTJYUEZONXdKQ3FIQUZWOVRzYjVGVF85VGVTeDhORTdUdWNmWnlMTGJmcjNzVi1yajVqRVNMX3RCRlBzbjdBdFE4cHBCcjUwaWJoMjM0eFZpUkZyVlduOGpSZWtxQ3piMkJmeEMtQWIxVdIB3wFBVV95cUxPTjlIVVBWdExZMWF0czlvT0Y0aWxDY0tiQ0x6ZklvSVVjRVFPbnpLZWtieEVRUTgxRWJXTW8yeWFYVUlWekRiWm9KcHU1aWZzblVfNERNcEZ5Q0toUFZKbmhYQ0lJWEhXUFBFaWhteG85MXNjSU1xVnMzejY0YTBPOGxZYWtmX2tESHJKX0toNTJhbXp3MEhpWkp5WXdqMWI0SnZpVjE3a2g5YmxGNGpfZjdhTGRTX1Y4MHZjR3hrcVcxZ0NxUGMxTlFwZjFBNHBoOHQ3LW9SQzFiSW1ycjZJ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-06-16",
-      "summary": "Amazon promises $7 million in community contributions to rural Missouri amid local opposition to data center &nbsp;&nbsp; WGEM",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [
-        "$7 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
     }
   ]
 }
