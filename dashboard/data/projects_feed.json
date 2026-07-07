@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-07T21:25:23.809163+00:00",
+  "last_updated": "2026-07-07T23:02:33.582489+00:00",
   "finding_count": 600,
   "new_project_count": 88,
   "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 167,
+  "high_confidence_count": 166,
   "findings": [
     {
       "id": "982740836c30cb",
@@ -43,6 +43,26 @@
         "$15B"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cfb17cd0059b11",
+      "title": "Amazon launches $25B bond sale to fund AI infrastructure",
+      "url": "https://siliconangle.com/2026/07/07/amazon-launches-25b-bond-sale-fund-ai-infrastructure/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-07",
+      "summary": "Amazon.com Inc. is back in the bond market, this time to raise at least $25 billion for its artificial intelligence buildout, according to Bloomberg. The offering is split into eight parts, senior unsecured notes with maturities running anywhere from three years to 40. Most carry a fixed interest rate, though some float. Amazon has tagged [&#8230;] \n The post  Amazon launches $25B bond sale to fund AI infrastructure  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$25B",
+        "$25 billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -348,6 +368,21 @@
       "companies": [
         "Anthropic"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "32bb769ded5aa2",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-07",
+      "summary": "Squeeze on Rust Belt electricity bills threatens Trump’s manufacturing plan.",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1152,10 +1187,10 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$30B",
-        "$3B",
+        "$30 billion",
         "$3 billion",
-        "$30 billion"
+        "$3B",
+        "$30B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10420,45 +10455,6 @@
       ],
       "amounts": [],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3102c80be8f284",
-      "title": "Canada's CPP Investments forms joint venture with Indian data center firm CtrlS",
-      "url": "https://www.datacenterdynamics.com/en/news/canadas-cpp-investments-forms-joint-venture-with-indian-data-center-firm-ctrls/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-17",
-      "summary": "Investment firm investing up to $740.8 million into Indian data centers",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "$740.8 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4129fe51cd33c2",
-      "title": "AI material discovery startup CuspAI reportedly raising $400M round",
-      "url": "https://siliconangle.com/2026/06/17/ai-material-discovery-startup-cuspai-reportedly-raising-400m-round/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-17",
-      "summary": "CuspAI Ltd., a startup working to speed up material discovery, is reportedly in the process of raising a $400 million funding round. The Financial Times reported today that the term sheet has been signed but the transaction is still being finalized. According to the paper, Amazon.com Inc. founder Jeff Bezos’ Bezos Expeditions and Kleiner Perkins [&#8230;] \n The post  AI material discovery startup CuspAI reportedly raising $400M round  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$400M",
-        "$400 million"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
