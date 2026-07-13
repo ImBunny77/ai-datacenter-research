@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-13T19:24:13.200248+00:00",
+  "last_updated": "2026-07-13T20:57:12.801565+00:00",
   "finding_count": 600,
-  "new_project_count": 118,
+  "new_project_count": 119,
   "cancellation_count": 13,
   "sec_filing_count": 0,
-  "high_confidence_count": 205,
+  "high_confidence_count": 204,
   "findings": [
     {
       "id": "a6eab33b04ee4e",
@@ -41,6 +41,28 @@
       ],
       "locations": [
         "Louisiana"
+      ],
+      "amounts": [
+        "$50 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "217d4a8fae0fb6",
+      "title": "Meta reaches $50 billion investment in 10 million-square-foot Louisiana data center - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3RnNk5VLXFPNXZseFF4RXhNVGpMRTE1ZmY4VEM2LTNhUlpVSkt3WVI5MTMzXzJXWllTTWJvQTZoRkRUOHhPaUhZSjdReGhsejNQTjZXVWdBVFRjb0x2bjlicDFKSmRRVE5lVG1oai1IMVotTE0zbXV3YVZrOWtmT1ZqcXgxWWFwNnBTU2NJUW5CZjV3Z3VLVDhuclhZZEFhUWpEdmgtRGxmLXJQY3Jn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-13",
+      "summary": "Meta reaches $50 billion investment in 10 million-square-foot Louisiana data center &nbsp;&nbsp; Washington Examiner",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana",
+        "Washington"
       ],
       "amounts": [
         "$50 billion"
@@ -646,6 +668,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "82478c7b43e9e1",
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-13",
+      "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3c3dc01693c046",
       "title": "Amazon SQS turns 20: Two decades of reliable messaging at scale",
       "url": "https://aws.amazon.com/blogs/aws/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
@@ -1205,23 +1244,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2899fda63858dc",
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-10",
-      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "65dc5bc521b93c",
       "title": "Bryson DeChambeau partners with Google Health.",
       "url": "https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/",
@@ -1232,6 +1254,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2899fda63858dc",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-10",
+      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10543,46 +10582,6 @@
       ],
       "amounts": [
         "100MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4e7a81e64fda80",
-      "title": "20MW data center proposed in Starbucks' Seattle HQ building in Washington",
-      "url": "https://www.datacenterdynamics.com/en/news/20mw-data-center-proposed-in-starbucks-seattle-hq-building-in-washington/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-24",
-      "summary": "Building owners aiming to avoid Seattle's data center moratorium",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Washington",
-        "Seattle"
-      ],
-      "amounts": [
-        "20MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c0bd7b9df2605e",
-      "title": "Canada's Beacon DC targets 275MW data center campus on California oil field",
-      "url": "https://www.datacenterdynamics.com/en/news/canadas-beacon-dc-targets-275mw-data-center-campus-on-california-oil-field/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-24",
-      "summary": "Company partnering with oil and gas firm California Resources Corporation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "California",
-        "Canada"
-      ],
-      "amounts": [
-        "275MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
