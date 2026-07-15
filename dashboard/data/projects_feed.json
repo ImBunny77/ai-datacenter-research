@@ -1,31 +1,11 @@
 {
-  "last_updated": "2026-07-15T02:32:42.766828+00:00",
+  "last_updated": "2026-07-15T06:16:51.920012+00:00",
   "finding_count": 600,
   "new_project_count": 126,
   "cancellation_count": 9,
   "sec_filing_count": 0,
   "high_confidence_count": 220,
   "findings": [
-    {
-      "id": "faa53c8d037879",
-      "title": "Meta Expands Hyperion AI Data Center to 5GW With $50 Billion Investment - thelec.net",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kWkt5a0wtQVNCUUE3TXlzMlBfdnJVS29hWnZPQy1rcnZOMDZpVzN0RklFSGNSMy1aYTA5RWlibnNwaGdHOVJwSjF5ZHpLd1l6WkxTZzVoQXp6WWZPcS1GN2lYS1llX3c?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-14",
-      "summary": "Meta Expands Hyperion AI Data Center to 5GW With $50 Billion Investment &nbsp;&nbsp; thelec.net",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$50 Billion",
-        "5GW"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
     {
       "id": "731f5545e5501c",
       "title": "Meta boosts investment in Hyperion data center campus to $50B+",
@@ -42,8 +22,28 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50B",
-        "$10 billion"
+        "$10 billion",
+        "$50B"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "faa53c8d037879",
+      "title": "Meta Expands Hyperion AI Data Center to 5GW With $50 Billion Investment - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kWkt5a0wtQVNCUUE3TXlzMlBfdnJVS29hWnZPQy1rcnZOMDZpVzN0RklFSGNSMy1aYTA5RWlibnNwaGdHOVJwSjF5ZHpLd1l6WkxTZzVoQXp6WWZPcS1GN2lYS1llX3c?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-14",
+      "summary": "Meta Expands Hyperion AI Data Center to 5GW With $50 Billion Investment &nbsp;&nbsp; thelec.net",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$50 Billion",
+        "5GW"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -70,6 +70,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "0fa9680c991955",
+      "title": "Spain's Ferrovial to invest €1 billion in Madrid data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/fervial-to-invest-1000-millones-de-euros-in-a-data-center-campus-in-madrid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-14",
+      "summary": "The project will begin with the construction of a data center with a total capacity of 60MW, including 40MW of IT load",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "60MW",
+        "40MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "1c85d03f7c5118",
       "title": "Meta expands Louisiana AI data centre to 5 GW, investment tops $50 billion - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVl6U3hJS2pnY2t3NWhpNDlueExUbXJNWVMwejFQNFM2dVQ3Qko5TDlsLTBLSWVxQTBpOS1EYVZYTGo0LXo0UlNEYmJpdUZDVFNjdFpJSHBwN29kUUpYZDQ5UXpqTzNRYzdoRThWWVBxMWpMdW5kelFxNE50NzA1amlicXVRRWFhVTZqLTJ0ZFFKck83NTRNTm4yVVpsaGpoN09YX2RHbldqVmFUT2RXcmZiNHM2NGM2Tmt6Ml9tcEFmdlE?oc=5",
@@ -87,26 +107,6 @@
       "amounts": [
         "$50 billion",
         "5 GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0fa9680c991955",
-      "title": "Spain's Ferrovial to invest €1 billion in Madrid data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/fervial-to-invest-1000-millones-de-euros-in-a-data-center-campus-in-madrid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-14",
-      "summary": "The project will begin with the construction of a data center with a total capacity of 60MW, including 40MW of IT load",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "40MW",
-        "60MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -267,6 +267,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "d83dd3561f1ab0",
+      "title": "Sovereign AI infrastructure startup Valarian raises $50M to help nations secure their defense systems",
+      "url": "https://siliconangle.com/2026/07/14/sovereign-ai-infrastructure-startup-valarian-raises-50m-help-nations-secure-military-defense-systems/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-14",
+      "summary": "The defense-focused artificial intelligence systems infrastructure startup Valarian Technologies Ltd. said today it has closed on a hefty $50 million early-stage funding round as it looks to position itself as a critical player in the emerging “sovereign AI” market. The Series A round was led by new investor New Enterprise Associates, which is making its [&#8230;] \n The post  Sovereign AI infrastructure startup Valarian raises $50M to help nations secure their defense systems  appeared first on ",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$50M",
+        "$50 million"
+      ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "f5065932fdd8f5",
       "title": "Meta announces $13-billion Alberta data centre investment, creating thousands of jobs - play 103.7",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9tUkV2c1F0Y2k1QVFLYWlfWVVCb1Q5dlBYMGJfZklnOEFTQjB6ZlRqQmRWZkY4eEhiNEgySFJ6WjhkazFHN1BkbVk5SEVWLWpXc09uTDUtamk2ZDZuYlg5VElJblRyWENDV1UtdFpnNnFLanFTdFpqWUdIeEFxbE94Z3o4dWNjd052QkcwVHdrcFZsODViSVR5NVhiX2YwUWNRazAtX242UlpZNmJROS1odEk1Q09yaURN?oc=5",
@@ -280,24 +298,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d83dd3561f1ab0",
-      "title": "Sovereign AI infrastructure startup Valarian raises $50M to help nations secure their defense systems",
-      "url": "https://siliconangle.com/2026/07/14/sovereign-ai-infrastructure-startup-valarian-raises-50m-help-nations-secure-military-defense-systems/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-14",
-      "summary": "The defense-focused artificial intelligence systems infrastructure startup Valarian Technologies Ltd. said today it has closed on a hefty $50 million early-stage funding round as it looks to position itself as a critical player in the emerging “sovereign AI” market. The Series A round was led by new investor New Enterprise Associates, which is making its [&#8230;] \n The post  Sovereign AI infrastructure startup Valarian raises $50M to help nations secure their defense systems  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$50 million",
-        "$50M"
-      ],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -1135,6 +1135,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "fcf2ee31b14fb0",
+      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
+      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-07-13",
+      "summary": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students. \n The post  Teachers and Local Businesses Win as Meta Expands Louisiana Data Center  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "5GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "fc0d7f9717b6a6",
       "title": "Meta to spend an additional $40B to expand colossal Louisiana data center - Baton Rouge Business Report",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWU9ua3FVVW9RbkR4VXdGY2hWOFFtQU1JYS1pM3psYTV2a1lTM1UwcDYza281aW1VXzdLMVlzS2VEVjlST0x3VmFkMEc2T05QamdKUjFISW5BWFM5b0NLXzlxaGJSRUQ5WFZIWEZUSEhILUlqcWNNOTRfeGVjLXBwd2h3ekFJUG0tLWs1THoyY3R1bGJVRnhxcU8yTVVQakpvNnFCYkRDc2VIdDAtbHljYdIBuAFBVV95cUxPVG9sU2k5UWxsdzd1NnQxQXlLaGlqMi0yeFNhSjdBN3hRbUtTTzBMTWFzS0NpZkQ3eF9YR293cFFjdkVNdVdQQjNNbEN0Q3lReXM4QmJLLV9vU1MtVURELW9VdUZ2Y0dPSFNSY2NPWXR6SEM5NFV1TE5UeTBIaXBUWkUyaUtCRTgzTHVNSlBNVFV0ajZDVmpzcHFEaVdfUXZsTno5WFJ2SkhvVEp4VlV2VGYxbUlnWFRy?oc=5",
@@ -1172,27 +1193,6 @@
       ],
       "amounts": [
         "$27B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fcf2ee31b14fb0",
-      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
-      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-07-13",
-      "summary": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students. \n The post  Teachers and Local Businesses Win as Meta Expands Louisiana Data Center  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "5GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6938,6 +6938,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "1ed6228dd63173",
+      "title": "Meta Compute: Everyone Wants To Be A Neocloud",
+      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-07-02",
+      "summary": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "43b59c6cb71b1e",
+      "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
+      "url": "https://newsletter.semianalysis.com/p/ectc2026",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-07-02",
+      "summary": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "74bdcfbbcb62ec",
       "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
@@ -6983,40 +7017,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ed6228dd63173",
-      "title": "Meta Compute: Everyone Wants To Be A Neocloud",
-      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-07-02",
-      "summary": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "43b59c6cb71b1e",
-      "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
-      "url": "https://newsletter.semianalysis.com/p/ectc2026",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-07-02",
-      "summary": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -7762,6 +7762,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "30917d6edab60e",
+      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
+      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-07-01",
+      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "240dd548ad5a2c",
       "title": "Meta Enters AI Cloud Market: Neocloud Rivals CoreWeave and Nebius Crater - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNXzQyVGtLNDZMeXU1ZlRRYmRzYkE4LTR5THdlVld2RHZXNlpGdDliclJ6c09KQlpIUEdaQm1GOUhSZTdhMlpvZGtKdFBtYzZfN3JHMFI4ZE9MSlpGdGlOYTU2UWw0RVB1cGhCNWkxYmJselZlN0lLSEs0RFdxZzRlaVZoVkpYWnhDMlRUejRZREFtVHU3UFhIY2FJM2dIZmJuVFg5ay1HOTVTZUZKSVVBeFZaUEFvbDNkVHRTdTl3bw?oc=5",
@@ -7789,23 +7806,6 @@
       "summary": "U.S. Data Center Power Consumption Map by State (2026) &nbsp;&nbsp; ElectricChoice.com",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "30917d6edab60e",
-      "title": "Upgrade Amazon EKS clusters with confidence using Kubernetes version rollbacks",
-      "url": "https://aws.amazon.com/blogs/aws/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-07-01",
-      "summary": "Learn how Kubernetes version rollbacks for Amazon EKS let you reverse cluster upgrades within seven days. This new feature provides a safety net for upgrade failures—no cluster rebuilds required—turning Kubernetes version upgrades into a reversible, low-risk operation.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
