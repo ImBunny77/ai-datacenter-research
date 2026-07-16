@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-16T06:19:17.521113+00:00",
+  "last_updated": "2026-07-16T10:09:07.846696+00:00",
   "finding_count": 600,
-  "new_project_count": 114,
-  "cancellation_count": 12,
+  "new_project_count": 112,
+  "cancellation_count": 10,
   "sec_filing_count": 0,
-  "high_confidence_count": 209,
+  "high_confidence_count": 210,
   "findings": [
     {
       "id": "b3ace02fec2179",
@@ -36,6 +36,25 @@
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b829cfd395e9d4",
+      "title": "Foundation stone laid for AWS data center development in Telangana, India",
+      "url": "https://www.datacenterdynamics.com/en/news/foundation-stone-laid-for-aws-data-center-development-in-telangana-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-16",
+      "summary": "Project in Bharat Future City commences",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "India"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -76,6 +95,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "ebf68dee007114",
+      "title": "DCD Studio: Cooling the future - Selecting the right thermal strategy with Jerry Toth, Boyd Thermal",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-cooling-the-future-selecting-the-right-thermal-strategy-with-jerry-toth-eaton/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-16",
+      "summary": "Emma Strutton speaks with Jerry Toth about how liquid cooling is transforming data center infrastructure to support higher rack densities, greater efficiency, and sustainable AI growth.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "209c0047c389fe",
+      "title": "We’re partnering with Screwfix to help the nation's tradespeople nail admin and grow their businesses using AI.",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-16",
+      "summary": "Four men in workwear interact at a Google promotional booth outside a hardware store. The setup features a barista serving coffee, tall Gemini banners, and a digital screen showing the Gemini AI interface inside a partially constructed room.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f23f611870b4b1",
       "title": "Three insights you may have missed from theCUBE’s coverage of RAISE Summit",
       "url": "https://siliconangle.com/2026/07/15/agentic-inference-reshapes-ai-infrastructure-raise-summit-raisesummit/",
@@ -108,6 +159,23 @@
         "$19.2 billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0e819a36b2bae2",
+      "title": "KT Unveils $3.4 Billion AI Data Center Plan, Sparking 'Too Little, Too Late' Controversy After Government Briefing Omission - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wZjNxdzl3azJtcFJueHRULWZrQkF2a3VheUJmemc4NEwzSmU5aFRFd2cwdmZFcWFKa0RnTDY5aUxOSVhIZjI4UTY3UUZmVkE1M2hrU1J4eE12SFN4Vm9vZTFHZnliUzBHdTFUaklLMzR5SE8yZHc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-15",
+      "summary": "KT Unveils $3.4 Billion AI Data Center Plan, Sparking 'Too Little, Too Late' Controversy After Government Briefing Omission &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$3.4 Billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -278,8 +346,8 @@
       "id": "8b1f14df300a38",
       "title": "AWS to expand data centre operations in Hyderabad - About Amazon India",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTjJ2T1JUVlpmd3ZKVS1mN2FrVUo4NGVfaDRrajd4Q1I0bjFUNmw2a3NjbDNWdlR4d0VVMnhWMV9iNXVvTnJ6cTBQTWFmWWU4UW04MEFuSk5yZGNSODBLUFFLMi1za1pBanIyLTdB?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-07-15",
       "summary": "AWS to expand data centre operations in Hyderabad &nbsp;&nbsp; About Amazon India",
       "finding_type": "Statement / Update",
@@ -289,23 +357,6 @@
       "locations": [
         "India"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cf8014149d5704",
-      "title": "Nvidia AI Revenue Sharing Model With Cloud Partners Explained - Memeburn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1dyMG96M0N4b1Y1a0tOR2cyQWFRek1xV0hNd2VNMldJQzRnNTh5cFFMNl92cUwzaG1QY3RudDdNalJjOEJ4ai1GVVFEUlJ6MUw4S2V5MWhidlU4TEtLSmZnNUd0TVQ0WHhJV29SRVRTR21VX3ZoeGVubm1jdTBzY3RoOHhHdllJeWhj?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-15",
-      "summary": "Nvidia AI Revenue Sharing Model With Cloud Partners Explained &nbsp;&nbsp; Memeburn",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -392,38 +443,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c21d37377f80bb",
-      "title": "SLB partners with Liberty Energy on data center power infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/slb-partners-with-liberty-energy-on-data-center-power-infrastructure/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-15",
-      "summary": "Will focus on behind-the-meter power systems",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4ea0936975b8fb",
-      "title": "QTS to build 11 data centers on Lancium campus in Hall County, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/qts-to-build-11-data-centers-on-lancium-campus-in-hall-county-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-15",
-      "summary": "Lancium secures customer for second Clean Campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b8c9c65364b92e",
       "title": "OpenAI details GPT-Red, an AI that attacks its own models to find flaws",
       "url": "https://siliconangle.com/2026/07/15/openai-details-gpt-red-ai-attacks-models-find-flaws/",
@@ -503,6 +522,55 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cf8014149d5704",
+      "title": "Nvidia AI Revenue Sharing Model With Cloud Partners Explained - Memeburn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1dyMG96M0N4b1Y1a0tOR2cyQWFRek1xV0hNd2VNMldJQzRnNTh5cFFMNl92cUwzaG1QY3RudDdNalJjOEJ4ai1GVVFEUlJ6MUw4S2V5MWhidlU4TEtLSmZnNUd0TVQ0WHhJV29SRVRTR21VX3ZoeGVubm1jdTBzY3RoOHhHdllJeWhj?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-15",
+      "summary": "Nvidia AI Revenue Sharing Model With Cloud Partners Explained &nbsp;&nbsp; Memeburn",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c21d37377f80bb",
+      "title": "SLB partners with Liberty Energy on data center power infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/slb-partners-with-liberty-energy-on-data-center-power-infrastructure/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-15",
+      "summary": "Will focus on behind-the-meter power systems",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4ea0936975b8fb",
+      "title": "QTS to build 11 data centers on Lancium campus in Hall County, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/qts-to-build-11-data-centers-on-lancium-campus-in-hall-county-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-15",
+      "summary": "Lancium secures customer for second Clean Campus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -606,8 +674,8 @@
       ],
       "locations": [],
       "amounts": [
-        "5GW",
-        "$50 Billion"
+        "$50 Billion",
+        "5GW"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -970,6 +1038,23 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "67e8ece88545f5",
+      "title": "New York becomes the first state to impose a data center moratorium - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VqV09jX0hhZXQxRXpwaGRHbnY1SmdGT1RMYVEyM1pBaWtyNlBoaTBKYWpCRlMyWHQzMFVCUTFyakRMaDlhTkJpWUtMQThfeFlPQml2RHRUbVJTQmVWMjRvb2w5al9CeW1iQzJ5dkVLUlJHaWZMcXNRbUxZSGdIX2VrZkhKSWplczI1Rlc5d1puZng2Mkc3SXdYM2VYUER4Vnc?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-07-14",
+      "summary": "New York becomes the first state to impose a data center moratorium &nbsp;&nbsp; Reuters",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1359,6 +1444,48 @@
       "is_high_confidence": true
     },
     {
+      "id": "d5d86fa8617b77",
+      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Investment - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkR4VzBUalExWWU4M3FYQm5LM2JfZ0NlLW9tZW1CQ2x6UkhobjFMV2RMWDB6THZubWpDbzJ1UkVyY293Z2UwUFNpX0V4RVFhY1pzc0NfNzVtWXlJV3dHQjNIcElXQ1BRYTMxUktXN2JzZlNKMjFsQ0pXbGQ1TFNaUjNuSHlpWGQ1d3FQRlJTTW1WSlM2TjFIZUdQQzZ1M1hDQ1E?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-13",
+      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Investment &nbsp;&nbsp; citybiz",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$250 Billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b1b98a5743e869",
+      "title": "Meta expands Louisiana data center, investment to reach $50 billion - myarklamiss.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmNXOWV5TWtYend6QUZQaks2bTk3Mm9QaFUxUFBIXzBxTXdOLW96c2pobC1YQjMxcGZ5YktLTFZjOWpxcnVGcDdtWnloVEZvRVZkWHBOTVhJNTBOaWxzVjI3ZTd1aGhJZE1INGxaR0tPLWZkbU1RcXNSNk5OZnR1ckxibnpPdW5hMUNEN3JMNFBMakdjNjZoX1AtdlVsUzFqelhGVWhScWJ0eG53VjhaZkt2U05QZ9IBtgFBVV95cUxPNmNXOWV5TWtYend6QUZQaks2bTk3Mm9QaFUxUFBIXzBxTXdOLW96c2pobC1YQjMxcGZ5YktLTFZjOWpxcnVGcDdtWnloVEZvRVZkWHBOTVhJNTBOaWxzVjI3ZTd1aGhJZE1INGxaR0tPLWZkbU1RcXNSNk5OZnR1ckxibnpPdW5hMUNEN3JMNFBMakdjNjZoX1AtdlVsUzFqelhGVWhScWJ0eG53VjhaZkt2U05QZw?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-07-13",
+      "summary": "Meta expands Louisiana data center, investment to reach $50 billion &nbsp;&nbsp; myarklamiss.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$50 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "f5e811f087fdcb",
       "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
@@ -1402,27 +1529,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d5d86fa8617b77",
-      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Investment - citybiz",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkR4VzBUalExWWU4M3FYQm5LM2JfZ0NlLW9tZW1CQ2x6UkhobjFMV2RMWDB6THZubWpDbzJ1UkVyY293Z2UwUFNpX0V4RVFhY1pzc0NfNzVtWXlJV3dHQjNIcElXQ1BRYTMxUktXN2JzZlNKMjFsQ0pXbGQ1TFNaUjNuSHlpWGQ1d3FQRlJTTW1WSlM2TjFIZUdQQzZ1M1hDQ1E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Investment &nbsp;&nbsp; citybiz",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$250 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
       "id": "a03aba477afd67",
       "title": "Meta Has Been Looking to Expand Its AI Capabilities. It Has Now Announced Plans on Invest $50 Billion on a New Data Center. - International Business Times",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUNMN0cybmRHZ3FUaHlMZ2F1bEFYLWEzM2V5emhCSmlMTXFxOGdBTm5nVnphUUkyYll5T1hvd1dpY2ktVEE3d0FpNUVCeUVRQlgxWU1pTEY2a3VNUi1BcXdnUUZldWY0SlpRcnVTNjJwN3UtaGJXN0M5bkxDR00zVndLdDE1a2dzNm9acXZqTFlTNmpPcU9SWU5Fc3FoUC1HbkR6bERkb3BUeDBXNWxrTmRFOXNIR09mMC1HbElyRTF3T0E?oc=5",
@@ -1459,27 +1565,6 @@
       "amounts": [
         "5GW",
         "$50 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b1b98a5743e869",
-      "title": "Meta expands Louisiana data center, investment to reach $50 billion - myarklamiss.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmNXOWV5TWtYend6QUZQaks2bTk3Mm9QaFUxUFBIXzBxTXdOLW96c2pobC1YQjMxcGZ5YktLTFZjOWpxcnVGcDdtWnloVEZvRVZkWHBOTVhJNTBOaWxzVjI3ZTd1aGhJZE1INGxaR0tPLWZkbU1RcXNSNk5OZnR1ckxibnpPdW5hMUNEN3JMNFBMakdjNjZoX1AtdlVsUzFqelhGVWhScWJ0eG53VjhaZkt2U05QZ9IBtgFBVV95cUxPNmNXOWV5TWtYend6QUZQaks2bTk3Mm9QaFUxUFBIXzBxTXdOLW96c2pobC1YQjMxcGZ5YktLTFZjOWpxcnVGcDdtWnloVEZvRVZkWHBOTVhJNTBOaWxzVjI3ZTd1aGhJZE1INGxaR0tPLWZkbU1RcXNSNk5OZnR1ckxibnpPdW5hMUNEN3JMNFBMakdjNjZoX1AtdlVsUzFqelhGVWhScWJ0eG53VjhaZkt2U05QZw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-13",
-      "summary": "Meta expands Louisiana data center, investment to reach $50 billion &nbsp;&nbsp; myarklamiss.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$50 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -1590,25 +1675,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "6e254e2e33cd26",
-      "title": "Meta to expand scope of Richland Parish data center with $40B investment boost - 10/12 Industry Report",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS1lM25aWHBkZFdWejZFd2JqMUdkaFlQZVVmSlhpM2NRX0YxTndmMkRXTk5ibTdaNUpzVm9sQjhwR0tEYzJ3Z0ktcHEtMmlZZ0dBcU12WHhfMXktLXBYeDNpLW0xeGd1UWhQZlEtOEluWmt6TWp6YTlQT0wzbnhqYW5QUTV3N2IwQnFPWlRhYmdSRHFyazRMaFNxWHdLMUxqVTBZR3AtN0FWSHhmajJyUU9fYzJlam1SSnNsYzk1T0w0WEtlbEE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta to expand scope of Richland Parish data center with $40B investment boost &nbsp;&nbsp; 10/12 Industry Report",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$40B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "4eb9811235871d",
       "title": "Meta's $50 billion Louisiana data center aims to power AI research and development - eciks.org",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiQnJEYjB1ajc4M3pSdjI5NHRHWW1PMEpiWXZPVzBBeTd5M01XWlpnaktTVnF0RXBDa01LazhDbUxNMi1FVFRVVTVTNXdkZ2FNVHY0c2plekgtUkg5aHlhRTlSbHlzZV85VnJ1S1R3Y3pFa3p5VVE?oc=5",
@@ -1643,8 +1709,8 @@
       ],
       "locations": [],
       "amounts": [
-        "5GW",
-        "$40 Billion"
+        "$40 Billion",
+        "5GW"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -1666,6 +1732,25 @@
       ],
       "amounts": [
         "$50 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6e254e2e33cd26",
+      "title": "Meta to expand scope of Richland Parish data center with $40B investment boost - 10/12 Industry Report",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMS1lM25aWHBkZFdWejZFd2JqMUdkaFlQZVVmSlhpM2NRX0YxTndmMkRXTk5ibTdaNUpzVm9sQjhwR0tEYzJ3Z0ktcHEtMmlZZ0dBcU12WHhfMXktLXBYeDNpLW0xeGd1UWhQZlEtOEluWmt6TWp6YTlQT0wzbnhqYW5QUTV3N2IwQnFPWlRhYmdSRHFyazRMaFNxWHdLMUxqVTBZR3AtN0FWSHhmajJyUU9fYzJlam1SSnNsYzk1T0w0WEtlbEE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-13",
+      "summary": "Meta to expand scope of Richland Parish data center with $40B investment boost &nbsp;&nbsp; 10/12 Industry Report",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$40B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -5512,23 +5597,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4c1b4e090e4b27",
-      "title": "Three new satellites join the fight against wildfires.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-07",
-      "summary": "Three new FireSat satellites have launched, expanding a network that uses Google AI to help fire agencies detect early-stage wildfires.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "717492cfc91d6c",
       "title": "Meta’s AI Glasses: Your Questions Answered",
       "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
@@ -5556,6 +5624,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4c1b4e090e4b27",
+      "title": "Three new satellites join the fight against wildfires.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-07",
+      "summary": "Three new FireSat satellites have launched, expanding a network that uses Google AI to help fire agencies detect early-stage wildfires.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -7596,13 +7681,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a077f7318555de",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
+      "id": "74bdcfbbcb62ec",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -7664,13 +7749,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "74bdcfbbcb62ec",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
+      "id": "a077f7318555de",
+      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
+      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -10509,89 +10594,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "112c693c145243",
-      "title": "Microsoft claims water positivity across data center operations",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-claims-water-positivity-across-data-center-operations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-26",
-      "summary": "Did not disclose water consumption levels",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d83845bd67c116",
-      "title": "Plans announced for hyperscale data center in Philippsburg, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-26",
-      "summary": "Developed by the Wirth Group, the project is currently seeking German co-investors",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dd05eb83d94eb7",
-      "title": "Sanders, Ocasio-Cortez seek US freeze on new AI data centers from 'Big Tech oligarchs' - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTU1rOWtoci1BWDZDLVYybzMwRU56ZHRFVDJiNVRLNUZuWkltc3dQd1h2bC1XTUszdnpzdHR3djN3Y01pRUh6U2ZiWlU1RmlmNzVSUHlMdWhPMlQ3bjBTV3BqWU9taDJDaHF3YlBYandHNTM5d0xWbEZSX3ZmTlJqVEViUm40ZUZSRHBfanpXbTlUd1k?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-26",
-      "summary": "Sanders, Ocasio-Cortez seek US freeze on new AI data centers from 'Big Tech oligarchs' &nbsp;&nbsp; Yahoo",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d7f67534ec4435",
-      "title": "Rep. Frank Pallone is latest to join federal push to halt AI data centers - Central New Jersey News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWtPYmRBajJSTjdvOWN4ZmZraDJrczIzTFViOUlzeDllUzJHa0JzYWRKS053bjNmQ2J3REhpcWtHeUtBUUVocnJ1a2Z2TXg1Vzl4bVdQdkVoRU54bExFazJOR3o1dVY2UlE2UkpyN3UzeVc0REdWd1AxOFFjVWViTWYteFZ5TXBhbU9nN05KMVp1VVhVSmc3VTVPR0RIb01kWDVHNGtzZ1JPYnI5emNpYWYydTJMWWZsY2xwSzlvM1M3REU0SzJnU3kyeGRMLXMt?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-06-26",
-      "summary": "Rep. Frank Pallone is latest to join federal push to halt AI data centers &nbsp;&nbsp; Central New Jersey News",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8dbfffd3e5882a",
-      "title": "Ada Infrastructure breaks ground on data center campus in São Paulo, Brazil",
-      "url": "https://www.datacenterdynamics.com/en/news/ada-infrastructure-breaks-ground-on-data-center-campus-in-s%C3%A3o-paulo-brazil/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-26",
-      "summary": "Announcement marks the company's entry into the Latin American market",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Brazil"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
