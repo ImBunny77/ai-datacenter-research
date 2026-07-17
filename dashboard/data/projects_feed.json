@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-17T11:25:42.840525+00:00",
+  "last_updated": "2026-07-17T13:39:38.216905+00:00",
   "finding_count": 600,
-  "new_project_count": 111,
+  "new_project_count": 110,
   "cancellation_count": 10,
   "sec_filing_count": 0,
-  "high_confidence_count": 204,
+  "high_confidence_count": 201,
   "findings": [
     {
       "id": "2c58e455af72be",
@@ -108,6 +108,56 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c931dc95d49b73",
+      "title": "Colocation data center proposed in Birmingham, Alabama",
+      "url": "https://www.datacenterdynamics.com/en/news/colocation-data-center-proposed-in-birmingham-alabama/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "Few details known about facility being planned for Fairfield",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0a13f32e5f4546",
+      "title": "Israeli data center operator MedOne promotes former CEO Ronnie Sadeh to President",
+      "url": "https://www.datacenterdynamics.com/en/news/israeli-data-center-operator-medone-promotes-former-ceo-ronnie-sadeh-to-president/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "Sadeh was CEO from 2009",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2d8630fbec44b4",
+      "title": "AWS cloud lead Dave Brown heads to Meta - report",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-cloud-lead-dave-brown-heads-to-meta-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "After Meta reveals plans for its own cloud business",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -226,9 +276,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$17.5B",
+        "$1.5 billion",
         "$1.5B",
-        "$1.5 billion"
+        "$17.5B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -419,21 +469,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "281b5c23fc6121",
-      "title": "Managing Complexity: A Scalable Solution for Global Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/managing-complexity-a-scalable-solution-for-global-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-16",
-      "summary": "Master data center compliance at global scale",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "1012fe0a7f009d",
       "title": "China’s Moonshot throws down the gauntlet with Kimi K3, the world’s largest open-weights model",
       "url": "https://siliconangle.com/2026/07/16/chinas-moonshot-throws-gauntlet-kimi-k3-worlds-largest-open-weights-model/",
@@ -498,9 +533,24 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100M",
-        "$100 million"
+        "$100 million",
+        "$100M"
       ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "281b5c23fc6121",
+      "title": "Managing Complexity: A Scalable Solution for Global Data Centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/managing-complexity-a-scalable-solution-for-global-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-16",
+      "summary": "Master data center compliance at global scale",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
     },
@@ -547,38 +597,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8c0eaf1d4e84d9",
-      "title": "Sponsored: How data centers can be good neighbors to communities",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-data-centers-can-be-good-neighbors-to-communities/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-16",
-      "summary": "Build community relationships the same way you build the infrastructure – early, deliberately, and to last",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cde5ee3ff4b9bf",
-      "title": "E-commerce platform Polibeli explores AI data center pivot",
-      "url": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-16",
-      "summary": "Signs MoU's for data center projects in Thailand and Indonesia",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Indonesia"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -804,6 +822,38 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8c0eaf1d4e84d9",
+      "title": "Sponsored: How data centers can be good neighbors to communities",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-data-centers-can-be-good-neighbors-to-communities/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-16",
+      "summary": "Build community relationships the same way you build the infrastructure – early, deliberately, and to last",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cde5ee3ff4b9bf",
+      "title": "E-commerce platform Polibeli explores AI data center pivot",
+      "url": "https://www.datacenterdynamics.com/en/news/e-commerce-platform-polibeli-explores-ai-data-center-pivot/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-16",
+      "summary": "Signs MoU's for data center projects in Thailand and Indonesia",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indonesia"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1207,6 +1257,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "086288bf00af3c",
+      "title": "AWS Breaks Ground on New Hyderabad Data Centre as Part of $21 Bn India Cloud Push - analyticsindiamag.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNE5FdE4xT1Y5NU5NT1V5MlVEUjVrNk1tNkRhaXpESHo3YlI2S1lEOUUxZW5TZGJtanlsa2E5elVjclhFYnZMNkZYRUdvTmVwWU9fMHdEYzdkUmJsMEdyZHRVYU0tNmpQTWdLSmxuSHNKOTRpT1N0SUZDdEpnaGtTSXE1cVN4ZmdCcWNndTRHWWYtQ05ueWphMlNXNEhleUxGLVBPUHBFbGFaWmpHd0pKNlAyaVl3OEZLaGc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-15",
+      "summary": "AWS Breaks Ground on New Hyderabad Data Centre as Part of $21 Bn India Cloud Push &nbsp;&nbsp; analyticsindiamag.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b8c9c65364b92e",
       "title": "OpenAI details GPT-Red, an AI that attacks its own models to find flaws",
       "url": "https://siliconangle.com/2026/07/15/openai-details-gpt-red-ai-attacks-models-find-flaws/",
@@ -1237,25 +1306,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "086288bf00af3c",
-      "title": "AWS Breaks Ground on New Hyderabad Data Centre as Part of $21 Bn India Cloud Push - analyticsindiamag.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNE5FdE4xT1Y5NU5NT1V5MlVEUjVrNk1tNkRhaXpESHo3YlI2S1lEOUUxZW5TZGJtanlsa2E5elVjclhFYnZMNkZYRUdvTmVwWU9fMHdEYzdkUmJsMEdyZHRVYU0tNmpQTWdLSmxuSHNKOTRpT1N0SUZDdEpnaGtTSXE1cVN4ZmdCcWNndTRHWWYtQ05ueWphMlNXNEhleUxGLVBPUHBFbGFaWmpHd0pKNlAyaVl3OEZLaGc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-07-15",
-      "summary": "AWS Breaks Ground on New Hyderabad Data Centre as Part of $21 Bn India Cloud Push &nbsp;&nbsp; analyticsindiamag.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "India"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1603,8 +1653,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "5 GW",
-        "$50 billion"
+        "$50 billion",
+        "5 GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10514,61 +10564,6 @@
         "100MW"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f506f1c40aab74",
-      "title": "Arcova promises to strip 18 months and up to $200M from AI data center builds",
-      "url": "https://siliconangle.com/2026/06/29/arcova-promises-strip-18-months-200m-ai-data-center-builds/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-06-29",
-      "summary": "Cybersecurity and artificial intelligence consulting firm Arcova today launched an end-to-end data center development offering that brings engineering, cybersecurity, regulatory compliance and grid-planning coordination under one team. The offering is designed to carry data center programs from site selection through day-two operations. Arcova says it cuts the average development timeline by 18 months and eliminates [&#8230;] \n The post  Arcova promises to strip 18 months and up to $200M from AI",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$200M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "622dff2abf30ed",
-      "title": "1.5GW data center campus proposed in Devon, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/15gw-data-center-campus-proposed-in-devon-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-29",
-      "summary": "Company behind stalled UK-Morocco power cable pivots to data centers instead",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [
-        "1.5GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "071e2510e15f70",
-      "title": "~150MW data center planned in Norfolk, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/150mw-data-center-planned-in-norfolk-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-29",
-      "summary": "Developers of long-planned business park in Norwich look set to pivot site",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [
-        "150MW"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
