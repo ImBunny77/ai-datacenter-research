@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-17T15:14:21.669872+00:00",
+  "last_updated": "2026-07-17T17:12:55.828655+00:00",
   "finding_count": 600,
   "new_project_count": 108,
-  "cancellation_count": 12,
+  "cancellation_count": 14,
   "sec_filing_count": 0,
   "high_confidence_count": 198,
   "findings": [
@@ -56,9 +56,60 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "10MW",
-        "$111m"
+        "$111m",
+        "10MW"
       ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f39b322e52f85c",
+      "title": "Stack Infrastructure data center in Hesse, Germany, canceled",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-project-in-hesse-germany-canceled/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "Investor has withdrawn from the project in Babenhausen",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5f9ef3e64cf2f2",
+      "title": "Extinction Rebellion pelt Microsoft data center site with acid-filled balloons",
+      "url": "https://www.datacenterdynamics.com/en/news/extinction-rebellion-pelts-microsoft-data-center-site-with-acid-filled-balloons/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "Targets under-construction data center near Sloterdijk Station in Amsterdam",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "29e762b209ab92",
+      "title": "Microsoft taps 3M’s expanded beam tech to streamline AI infrastructure connectivity",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-taps-3ms-expanded-beam-tech-to-streamline-ai-infrastructure-connectivity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-17",
+      "summary": "Partnership to reduce data center deployment times… and dust",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -97,20 +148,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "29e762b209ab92",
-      "title": "Microsoft taps 3M’s expanded beam tech to streamline AI infrastructure connectivity",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-taps-3ms-expanded-beam-tech-to-streamline-ai-infrastructure-connectivity/",
+      "id": "ba124c814cb80b",
+      "title": "Coalition of environmental action groups petition FCC to halt orbital data center applications",
+      "url": "https://www.datacenterdynamics.com/en/news/coalition-of-environmental-action-groups-petition-fcc-to-halt-orbital-data-center-applications/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-07-17",
-      "summary": "Partnership to reduce data center deployment times… and dust",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
+      "summary": "Earthjustice set to take the issue to court if applications keep getting granted",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 4,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -262,6 +311,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1f2b0e0623153d",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-17",
+      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5a085aa139cbfd",
       "title": "Stream proposes 867-acre 'Project Saltworks' data center in Graham, Texas",
       "url": "https://www.datacenterdynamics.com/en/news/developer-proposes-867-acre-project-saltworks-data-center-in-graham-texas/",
@@ -293,6 +359,21 @@
       ],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "09b3ab9d2cc167",
+      "title": "Ars is looking for a senior technology reporter, and you might be it!",
+      "url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-17",
+      "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -343,9 +424,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.5 billion",
+        "$1.5B",
         "$17.5B",
-        "$1.5B"
+        "$1.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -600,8 +681,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100M",
-        "$100 million"
+        "$100 million",
+        "$100M"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -1720,8 +1801,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "5 GW",
-        "$50 billion"
+        "$50 billion",
+        "5 GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10479,87 +10560,6 @@
       "locations": [
         "Pennsylvania"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7d8e2a1fc48b7f",
-      "title": "Michigan's Oakland University board votes to move ahead with data center project",
-      "url": "https://www.datacenterdynamics.com/en/news/michigans-oakland-university-board-votes-to-move-ahead-with-data-center-project/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "Project still has a way to go",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c21e458e0160fc",
-      "title": "Sponsored: Upgrade legacy data centers for AI workloads with RDHx liquid cooling",
-      "url": "https://www.datacenterdynamics.com/en/opinions/upgrade-legacy-data-centers-for-ai-workloads-with-rdhx-liquid-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "The benefits of RDHxs for today's AI environments",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07694aab01d957",
-      "title": "Mayor could block data center planned at former H&M warehouse in Le Bourget, France",
-      "url": "https://www.datacenterdynamics.com/en/news/mayor-could-block-data-center-planned-at-former-hm-warehouse-in-le-bourget-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "Segro project under the microscope",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1b46f1d98bcca2",
-      "title": "Equinix officially retires bare metal offering",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-officially-retires-bare-metal-offering/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "The short-lived rise and fall of Equinix Metal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "00ba092d4d5849",
-      "title": "DCD Studio: Understanding Italian transformers and renewable power, with Roderi Massimo, Terna Energy Solutions",
-      "url": "https://www.datacenterdynamics.com/en/videos/speaks-with-massimo-roderi-of-terna-energy-solutions-on-transformer-shortages-grid-modernization-renewable-power-and-the-electrical-infrastructure-challenges-shaping-data-center-expansion/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "Seb Moss speaks with Massimo Roderi of Terna Energy Solutions on transformer shortages, grid modernization, renewable power, and the electrical infrastructure challenges shaping data center expansion.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
