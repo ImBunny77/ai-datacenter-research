@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-19T20:51:27.946511+00:00",
+  "last_updated": "2026-07-19T22:53:35.811921+00:00",
   "finding_count": 600,
   "new_project_count": 108,
-  "cancellation_count": 13,
+  "cancellation_count": 12,
   "sec_filing_count": 0,
-  "high_confidence_count": 202,
+  "high_confidence_count": 200,
   "findings": [
     {
       "id": "6dd692aeb885d7",
@@ -24,6 +24,23 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "f8d757844b94e5",
+      "title": "Alibaba previews Qwen3.8, claims it’s second only to Claude Fable 5",
+      "url": "https://siliconangle.com/2026/07/19/alibaba-previews-qwen3-8-claims-second-claude-fable-5/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-19",
+      "summary": "Alibaba Group Holding Ltd. today previewed the most powerful artificial intelligence model in its Qwen family, Qwen3.8, and claimed the system trails only Anthropic PBC&#8217;s Claude Fable 5 among the world&#8217;s frontier models. The company revealed the model, offered as a preview build called Qwen3.8-Max-Preview, today at the World Artificial Intelligence Conference in Shanghai. It [&#8230;] \n The post  Alibaba previews Qwen3.8, claims it&#8217;s second only to Claude Fable 5  appeared firs",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "de193f76fd282d",
@@ -663,9 +680,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$1.5 billion",
         "$17.5B",
-        "$1.5B",
-        "$1.5 billion"
+        "$1.5B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -920,8 +937,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -989,13 +1006,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "dffe8d5ce4e416",
-      "title": "Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues",
-      "url": "https://siliconangle.com/2026/07/16/special-breaking-analysis-nvidias-ai-networking-moat-real-lock-debate-continues/",
+      "id": "4137703c9e2d5e",
+      "title": "Nvidia’s AI networking moat is real – but the lock-in debate continues",
+      "url": "https://siliconangle.com/2026/07/16/nvidias-ai-networking-moat-real-lock-debate-continues/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-07-16",
-      "summary": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in this Special Breaking Analysis we evaluate Nvidia’s claims of openness, which must be analyzed [&#8230;] \n The post  Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues  appeared first on  SiliconAN",
+      "summary": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in this Special Breaking Analysis we evaluate Nvidia’s claims of openness, which must be analyzed [&#8230;] \n The post  Nvidia’s AI networking moat is real – but the lock-in debate continues  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -1051,23 +1068,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e811c18cab8a3e",
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-16",
-      "summary": "Google says these changes could endanger user privacy and security.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1189,6 +1189,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dffe8d5ce4e416",
+      "title": "Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues",
+      "url": "https://siliconangle.com/2026/07/16/special-breaking-analysis-nvidias-ai-networking-moat-real-lock-debate-continues/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-16",
+      "summary": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in this Special Breaking Analysis we evaluate Nvidia’s claims of openness, which must be analyzed [&#8230;] \n The post  Special Breaking Analysis: Nvidia’s AI networking moat is real – but the lock-in debate continues  appeared first on  SiliconAN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e811c18cab8a3e",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-16",
+      "summary": "Google says these changes could endanger user privacy and security.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2058,8 +2092,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "5 GW",
-        "$50 billion"
+        "$50 billion",
+        "5 GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -9971,6 +10005,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "aabf1d4101e00a",
+      "title": "When Meta Starts Selling Computing Power - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnVkb0xfWVZMMU5UX25sSkhOdUgwWUlXRGxUaWc3SWxIeWlYam9NQkhvQzhOX2FpZkRqY21RdDVMZlJKUENCeW5JY1dCaWV4a1otY0lPaWV1V1BBejZaNUotNVFTQXdoWTdreWIzYy1BdjI0NGVOektoUkZzUURrbU1wR2IxQ1Zj?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-01",
+      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d0f0c425d9ac7b",
       "title": "U.S. Data Center Power Consumption Map by State (2026) - ElectricChoice.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
@@ -9996,23 +10047,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aabf1d4101e00a",
-      "title": "When Meta Starts Selling Computing Power - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnVkb0xfWVZMMU5UX25sSkhOdUgwWUlXRGxUaWc3SWxIeWlYam9NQkhvQzhOX2FpZkRqY21RdDVMZlJKUENCeW5JY1dCaWV4a1otY0lPaWV1V1BBejZaNUotNVFTQXdoWTdreWIzYy1BdjI0NGVOektoUkZzUURrbU1wR2IxQ1Zj?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-01",
-      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10547,44 +10581,6 @@
         "$31M",
         "$31 million"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b74f6b945f9e58",
-      "title": "Virtus to develop 32.5MW data center in Slough, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/virtus-to-develop-325mw-data-center-in-slough-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "Company partnering with Segro",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [
-        "32.5MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a2a8cf5959c33e",
-      "title": "Local businessman withdraws application for data center in St. Joseph, Missouri",
-      "url": "https://www.datacenterdynamics.com/en/news/local-businessman-withdraws-application-for-data-center-in-st-joseph-missouri/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-06-30",
-      "summary": "Opposition triumphs against data center proposal",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Missouri"
-      ],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     }
