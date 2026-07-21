@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-21T10:27:15.223194+00:00",
+  "last_updated": "2026-07-21T13:52:08.914478+00:00",
   "finding_count": 600,
-  "new_project_count": 109,
+  "new_project_count": 108,
   "cancellation_count": 14,
   "sec_filing_count": 0,
-  "high_confidence_count": 202,
+  "high_confidence_count": 200,
   "findings": [
     {
       "id": "b680c2c3995ba9",
@@ -20,11 +20,48 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.5 billion",
-        "$1.5B"
+        "$1.5B",
+        "$1.5 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "d04b5262bb3eb6",
+      "title": "Atmosphere Data Centers challenges six-month data center moratorium in Montgomery, Maryland",
+      "url": "https://www.datacenterdynamics.com/en/news/atmosphere-data-centers-challenges-six-month-data-center-moratorium-in-montgomery-maryland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Developer's 360MW proposal thwarted",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maryland",
+        "Montgomery"
+      ],
+      "amounts": [
+        "360MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "75e3b7acb7320b",
+      "title": "Iran's Islamic Revolutionary Guard Corps claims fresh hit on AWS data center in Bahrain",
+      "url": "https://www.datacenterdynamics.com/en/news/irans-islamic-revolutionary-guard-corps-claims-fresh-hit-on-aws-data-center-in-bahrain/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Says strikes were in response to alleged US attack on nuclear power plant in Darkhuin",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "9d2ea7c290be3b",
@@ -62,6 +99,55 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c469814c96a338",
+      "title": "Aon adds $5bn in capacity to data center insurance offering, expands integrated risk solutions",
+      "url": "https://www.datacenterdynamics.com/en/news/aon-adds-5bn-in-capacity-to-data-center-insurance-offering-expands-integrated-risk-solutions/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "As demand for data center insurance rapidly increases",
+      "finding_type": "Expansion",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "877157f37cca84",
+      "title": "Google developing new chip to run Gemini AI model more efficiently – report",
+      "url": "https://www.datacenterdynamics.com/en/news/google-developing-new-chip-to-run-gemini-ai-model-more-efficiently-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "The hardware, dubbed Frozen v2, is slated for launch in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "246cc7799d2b11",
+      "title": "DOE selects Amentum, DC Blox to develop behind-the-meter AI data center at Savannah River site in South Carolina",
+      "url": "https://www.datacenterdynamics.com/en/news/doe-selects-amentum-dc-blox-to-develop-behind-the-meter-ai-data-center-at-savannah-river-site-in-south-carolina/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Companies will now enter negotiations for a phased lease of site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "South Carolina"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -146,9 +232,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$450M",
         "$450 million",
-        "$2.6 billion"
+        "$2.6 billion",
+        "$450M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -175,25 +261,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "9669acea77cfcb",
-      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-20",
-      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$111B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "0ed55c4b620cef",
       "title": "Amazon announces multibillion-dollar data center investment in Missouri - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDJuV2ZXbEVjOHdnLVBZQ09jNTlTUG5PVjNReWxjTDBzSmd5V2tNdEZLZ3o0cnAzM0M0SlJ3YXM0T195ZnR4LU1vS3V6d1J2R2RsNFBBWTdEWjdrRVIwUWtYcXZjSVI2U2VLcXNUdllwTGRibzUyMzg0SlQ5dEpnTGd3RkEtalJHNmdKb1hMMzQ2dFdKaVgzRWJFUmxfSUVxRFdsR0JJSjJ3NWJoN0dZOHNBa19kQXVWUUNJYi1kWGo?oc=5",
@@ -209,6 +276,25 @@
         "Missouri"
       ],
       "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9669acea77cfcb",
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-20",
+      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$111B"
+      ],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -251,6 +337,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "7c5165bcb17a20",
+      "title": "Microsoft will use AMD’s AI-optimized Helios racks in Azure",
+      "url": "https://siliconangle.com/2026/07/20/microsoft-will-use-amds-ai-optimized-helios-racks-azure/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-20",
+      "summary": "Microsoft Corp. will use Advanced Micro Devices Inc.’s upcoming Helios rack design to power some Azure services. The cloud and operating system giant announced the partnership today alongside three new instance families. Helios is a reference design, a blueprint that AMD’s manufacturing partners can use to make data center racks. Each system contains 72 of [&#8230;] \n The post  Microsoft will use AMD’s AI-optimized Helios racks in Azure  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "0d4f7ce2939075",
       "title": "Google files for two data centers in Vernon, Texas",
       "url": "https://www.datacenterdynamics.com/en/news/google-files-for-two-data-centers-in-vernon-texas/",
@@ -265,23 +368,6 @@
       "locations": [
         "Texas"
       ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7c5165bcb17a20",
-      "title": "Microsoft will use AMD’s AI-optimized Helios racks in Azure",
-      "url": "https://siliconangle.com/2026/07/20/microsoft-will-use-amds-ai-optimized-helios-racks-azure/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-20",
-      "summary": "Microsoft Corp. will use Advanced Micro Devices Inc.’s upcoming Helios rack design to power some Azure services. The cloud and operating system giant announced the partnership today alongside three new instance families. Helios is a reference design, a blueprint that AMD’s manufacturing partners can use to make data center racks. Each system contains 72 of [&#8230;] \n The post  Microsoft will use AMD’s AI-optimized Helios racks in Azure  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -341,23 +427,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "48961e34a0f4eb",
-      "title": "CyrusOne announces sixth data center campus in San Antonio, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-announces-sixth-data-center-campus-in-san-antonio-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-20",
-      "summary": "Facility is expected to be completed by June 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "f0977cbece0574",
       "title": "Infinity raises $15M to run AI inference on any chipset",
       "url": "https://siliconangle.com/2026/07/20/infinity-raises-15m-run-ai-inference-chipset/",
@@ -377,13 +446,30 @@
       "is_high_confidence": false
     },
     {
-      "id": "c3e8598f14c01a",
-      "title": "Local and state moratoria puts $1bn Long Island data center project in limbo",
-      "url": "https://www.datacenterdynamics.com/en/news/local-and-state-moratoria-puts-1bn-long-island-data-center-project-in-limbo/",
+      "id": "48961e34a0f4eb",
+      "title": "CyrusOne announces sixth data center campus in San Antonio, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/cyrusone-announces-sixth-data-center-campus-in-san-antonio-texas/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-07-20",
-      "summary": "Wildflower scheme set to be held up",
+      "summary": "Facility is expected to be completed by June 2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7a9e079185554d",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-20",
+      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -444,13 +530,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7a9e079185554d",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "c3e8598f14c01a",
+      "title": "Local and state moratoria puts $1bn Long Island data center project in limbo",
+      "url": "https://www.datacenterdynamics.com/en/news/local-and-state-moratoria-puts-1bn-long-island-data-center-project-in-limbo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-07-20",
-      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
+      "summary": "Wildflower scheme set to be held up",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -756,25 +842,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "27e6cbc0ee345e",
-      "title": "Inference cloud operator General Compute raises $400M in debt financing",
-      "url": "https://siliconangle.com/2026/07/17/inference-cloud-operator-general-compute-raises-400m-debt-financing/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-17",
-      "summary": "Artificial intelligence infrastructure startup General Compute Inc. today announced that it has secured $400 million in debt financing. Upper90, the investment firm that is underwriting the round, will initially provide the company with $100 million. General Compute plans to draw down additional funds as customer demand increases. Unlike most AI infrastructure providers, General Compute is [&#8230;] \n The post  Inference cloud operator General Compute raises $400M in debt financing  appeared fir",
-      "finding_type": "Expansion",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$400M",
-        "$100 million",
-        "$400 million"
-      ],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "6e3a1eb5a0b766",
       "title": "Aws breaks ground in hyderabad plans us21 billion india cloud investment - Indiatimes",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQl9RcVFnbFNSR1VrVklZbGRldENpeU1IMzAyYzRoTlFRMUIyd25qdHRwUExqWjcxLXc1V3I5VkFCQllPN21hZFVsc01OZ1NkUjhhS0pneHFqRjd3ZDdpY2RnajFVOFdwNXBMWXljdGYzZkZpSzZQNEdCalZKUHJOaldNemwxNzMzT2JKa1BfTmlUSHIxaDhFc3FlaGF1UGRRUEJSLTlTeXdSM3FZVndlbk5hdzZJZ0VJajlOZjBpWnBXU1liWHFpaFh1d1RhYTFYX05yNGRPWVg4cGsxa3J2QjZfc0I1MlNmOEE?oc=5",
@@ -809,6 +876,25 @@
         "India"
       ],
       "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "27e6cbc0ee345e",
+      "title": "Inference cloud operator General Compute raises $400M in debt financing",
+      "url": "https://siliconangle.com/2026/07/17/inference-cloud-operator-general-compute-raises-400m-debt-financing/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-17",
+      "summary": "Artificial intelligence infrastructure startup General Compute Inc. today announced that it has secured $400 million in debt financing. Upper90, the investment firm that is underwriting the round, will initially provide the company with $100 million. General Compute plans to draw down additional funds as customer demand increases. Unlike most AI infrastructure providers, General Compute is [&#8230;] \n The post  Inference cloud operator General Compute raises $400M in debt financing  appeared fir",
+      "finding_type": "Expansion",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$400M",
+        "$400 million",
+        "$100 million"
+      ],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -978,6 +1064,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "24299d0ab8041b",
+      "title": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tM0M3Slp1THpBdDBMamo4VnowbUNPek9sdHBubU1kZFJfRWd1VHBieEZIeHZONW1wZWswVFVxVGNwZnRrZ2JxSDNMbTdEcS1KaFd5S0JmZVNDUDFGZXRBeGU3X29TQ2U1NnVDUm1waGtzZlFYWkE?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-17",
+      "summary": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "650acbb379a35f",
+      "title": "Michigan Gov. Seeks Pledge from Data Center Developers - RTO Insider",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3RhQVhwckNkUi03QjRlQkNrSDhHZThvRU1WMS1YNEZjY3dRejlDZnRKc2lFTWlaeGhlTm5uemVPVy00aUtRTjJzY1FjbVpXeFFVaWZoUFVlT3pPaFBLWUw0R3JRRW0taUdGa0xsd1Z4ZUotSDFZZWNPLXJneWhnWWg2TDBvWEh3eEtLcGdJbGZVQQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-17",
+      "summary": "Michigan Gov. Seeks Pledge from Data Center Developers &nbsp;&nbsp; RTO Insider",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Michigan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6f88fa6701986b",
       "title": "Compute Exchange opens secondary market for used Nvidia H100 and A100 GPUs",
       "url": "https://siliconangle.com/2026/07/17/compute-exchange-opens-secondary-market-used-nvidia-h100-a100-gpus/",
@@ -1043,40 +1163,6 @@
         "Meta"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "24299d0ab8041b",
-      "title": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tM0M3Slp1THpBdDBMamo4VnowbUNPek9sdHBubU1kZFJfRWd1VHBieEZIeHZONW1wZWswVFVxVGNwZnRrZ2JxSDNMbTdEcS1KaFd5S0JmZVNDUDFGZXRBeGU3X29TQ2U1NnVDUm1waGtzZlFYWkE?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-17",
-      "summary": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "650acbb379a35f",
-      "title": "Michigan Gov. Seeks Pledge from Data Center Developers - RTO Insider",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3RhQVhwckNkUi03QjRlQkNrSDhHZThvRU1WMS1YNEZjY3dRejlDZnRKc2lFTWlaeGhlTm5uemVPVy00aUtRTjJzY1FjbVpXeFFVaWZoUFVlT3pPaFBLWUw0R3JRRW0taUdGa0xsd1Z4ZUotSDFZZWNPLXJneWhnWWg2TDBvWEh3eEtLcGdJbGZVQQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-17",
-      "summary": "Michigan Gov. Seeks Pledge from Data Center Developers &nbsp;&nbsp; RTO Insider",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Michigan"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1606,51 +1692,31 @@
       "is_high_confidence": false
     },
     {
-      "id": "4137703c9e2d5e",
-      "title": "Nvidia’s AI networking moat is real – but the lock-in debate continues",
-      "url": "https://siliconangle.com/2026/07/16/nvidias-ai-networking-moat-real-lock-debate-continues/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "a313d8e2f2b3da",
+      "title": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLThLNWQ4cVhBOTczY3NLa3I0QnN1QzR5OG9WM01uaFNHUGRBU0ctNkh1WWxocDJ1Y0dLRlZKRjdpbWc2TS1tN1JLYXpvSFJLU0tfOUY1LWpHNG9NbkU3YTJoSnZ0LTV2QTE4YlZ3UDFCekQxb3pQWUFRRGdpUU5RQTB3NUItb0FvLWxzYUJHOVoyQ0hOaGlERUEyV2Mtc0o0eFE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2026-07-16",
-      "summary": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in this Special Breaking Analysis we evaluate Nvidia’s claims of openness, which must be analyzed [&#8230;] \n The post  Nvidia’s AI networking moat is real – but the lock-in debate continues  appeared first on  SiliconANGLE .",
+      "summary": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on &nbsp;&nbsp; Houston Chronicle",
       "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
     },
     {
-      "id": "e3129f48dadf7c",
-      "title": "Inside Nvidia’s AI factory networking strategy: New analysis from theCUBE Research",
-      "url": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-07-16",
-      "summary": "As enterprises move artificial intelligence into production, AI factory networking is becoming a core part of the infrastructure equation, shaping performance, scalability and cost. That shift is the focus of a new analysis by Bob Laliberte, principal analyst at theCUBE Research. The analysis draws on a recent discussion with Gilad Shainer, senior vice president of networking [&#8230;] \n The post  Inside Nvidia’s AI factory networking strategy: New analysis from theCUBE Research  appeared first ",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
       "finding_type": "Statement / Update",
       "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a99ad4df082695",
-      "title": "Intel says it’s going to lean on Google’s Gemini to help automate and accelerate silicon development",
-      "url": "https://siliconangle.com/2026/07/16/intel-says-going-lean-googles-gemini-help-automate-accelerate-silicon-development/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-16",
-      "summary": "Intel Corp. said today it’s expanding its long-running partnership with Google Cloud into the agentic artificial intelligence realm. By deploying the Gemini Enterprise platform across its global workforce, the chipmaker says it will be able to accelerate workflows across its corporate, engineering, supply chain and marketing operations. It’s also going to use Google’s autonomous agents [&#8230;] \n The post  Intel says it&#8217;s going to lean on Google&#8217;s Gemini to help automate and acceler",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -1779,31 +1845,51 @@
       "is_high_confidence": false
     },
     {
-      "id": "a313d8e2f2b3da",
-      "title": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLThLNWQ4cVhBOTczY3NLa3I0QnN1QzR5OG9WM01uaFNHUGRBU0ctNkh1WWxocDJ1Y0dLRlZKRjdpbWc2TS1tN1JLYXpvSFJLU0tfOUY1LWpHNG9NbkU3YTJoSnZ0LTV2QTE4YlZ3UDFCekQxb3pQWUFRRGdpUU5RQTB3NUItb0FvLWxzYUJHOVoyQ0hOaGlERUEyV2Mtc0o0eFE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "id": "4137703c9e2d5e",
+      "title": "Nvidia’s AI networking moat is real – but the lock-in debate continues",
+      "url": "https://siliconangle.com/2026/07/16/nvidias-ai-networking-moat-real-lock-debate-continues/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-07-16",
-      "summary": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on &nbsp;&nbsp; Houston Chronicle",
+      "summary": "In a special editorial discussion hosted by Dave Vellante and Bob Laliberte, Nvidia Corp. networking chief Gilad Shainer explains why agentic inference turns the network into part of the computer. We believe Nvidia is materially ahead of the field, but in this Special Breaking Analysis we evaluate Nvidia’s claims of openness, which must be analyzed [&#8230;] \n The post  Nvidia’s AI networking moat is real – but the lock-in debate continues  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "NVIDIA"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
     },
     {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
+      "id": "e3129f48dadf7c",
+      "title": "Inside Nvidia’s AI factory networking strategy: New analysis from theCUBE Research",
+      "url": "https://siliconangle.com/2026/07/16/ai-factory-networking-nvidia-analysis-cubeconversations/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "summary": "As enterprises move artificial intelligence into production, AI factory networking is becoming a core part of the infrastructure equation, shaping performance, scalability and cost. That shift is the focus of a new analysis by Bob Laliberte, principal analyst at theCUBE Research. The analysis draws on a recent discussion with Gilad Shainer, senior vice president of networking [&#8230;] \n The post  Inside Nvidia’s AI factory networking strategy: New analysis from theCUBE Research  appeared first ",
       "finding_type": "Statement / Update",
       "companies": [
-        "Amazon"
+        "Amazon",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a99ad4df082695",
+      "title": "Intel says it’s going to lean on Google’s Gemini to help automate and accelerate silicon development",
+      "url": "https://siliconangle.com/2026/07/16/intel-says-going-lean-googles-gemini-help-automate-accelerate-silicon-development/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-16",
+      "summary": "Intel Corp. said today it’s expanding its long-running partnership with Google Cloud into the agentic artificial intelligence realm. By deploying the Gemini Enterprise platform across its global workforce, the chipmaker says it will be able to accelerate workflows across its corporate, engineering, supply chain and marketing operations. It’s also going to use Google’s autonomous agents [&#8230;] \n The post  Intel says it&#8217;s going to lean on Google&#8217;s Gemini to help automate and acceler",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3013,23 +3099,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "65d571ef440515",
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-14",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "157f470b6b1889",
       "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
@@ -3071,6 +3140,23 @@
       "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; Governor Kathy Hochul (.gov)",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "65d571ef440515",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-14",
+      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -3918,27 +4004,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "fcf2ee31b14fb0",
-      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
-      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-07-13",
-      "summary": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students. \n The post  Teachers and Local Businesses Win as Meta Expands Louisiana Data Center  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "5GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "c0ddb6a58c0792",
       "title": "Meta's $27B Louisiana Data Center: Hyperion - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHBYTWVSZmt5TkJCZG9SZ3lXbkhQd1dZVy1UTzZuRVVKU0t3ZWlUbXFHNy1oa2JmVHhvYmRzUU9YZnpzUkxOeTZidEp3dzl1alIyNWdKY2FuT1FoVXZoenBMM01xb3VONXhpbGF5VFhpZnFsdmlXb0lOUUVKNFpPQkhzeVJlaUYyLXllc0tLR0Uta090SE5nbEVZX0o0OHJw?oc=5",
@@ -3955,6 +4020,27 @@
       ],
       "amounts": [
         "$27B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "fcf2ee31b14fb0",
+      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
+      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-07-13",
+      "summary": "We're expanding our Richland Parish, Louisiana data center to 5GW of compute capacity in a town that’s already seeing life-changing returns for teachers, local businesses, and students. \n The post  Teachers and Local Businesses Win as Meta Expands Louisiana Data Center  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "5GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6524,13 +6610,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "4018c3aefdd8ea",
-      "title": "Meta to build $13 billion data centre in Alberta, largest outside the U.S. - Global News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1hzZGpZcEhGcXFwQWJ6Z3F6UC0wSzhfQ21fZWhncWwtbUhaVjZldXFYekZ5c2xKUHBDemJrVWJjajZhUFRhSlRJRWlncGNBRnhmeHQwLWpYNjQyNTNhcUpsZGp4VnFuU044MXdzOTdKeG5GVE1oVWNRMmxlZ1FSNUtWYXBkQ1lMbU1pSg?oc=5",
+      "id": "d9f694cb43a5a1",
+      "title": "Meta breaks ground on first Canadian data centre worth $13 billion - hcamag.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFRRNmIwOEY1anRPU2pHdWtpWXJtN2hyMTF5OGY4OXIxU2d6WFBJT29zQkFhMDdLckg5bU5NVnVjVG5iNTB4Y2RBclpDOHZoLUhwNDBfS1J6MnEzc0pWaGg4RENvY285ZlA2VHEwbDV6aGwyNXlPWS00Qi1ZbGZaUTlwNWM0bkZkX0JOUk84Ul9ENTUzVGtYRDl3QmRwZjd4emZQbVI5NU5nbXRCckx2enZ6Q0Z5cDZuZVN4QTlwV01TenhVLXEw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-07-08",
-      "summary": "Meta to build $13 billion data centre in Alberta, largest outside the U.S. &nbsp;&nbsp; Global News",
+      "summary": "Meta breaks ground on first Canadian data centre worth $13 billion &nbsp;&nbsp; hcamag.com",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -6543,13 +6629,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d9f694cb43a5a1",
-      "title": "Meta breaks ground on first Canadian data centre worth $13 billion - hcamag.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOFRRNmIwOEY1anRPU2pHdWtpWXJtN2hyMTF5OGY4OXIxU2d6WFBJT29zQkFhMDdLckg5bU5NVnVjVG5iNTB4Y2RBclpDOHZoLUhwNDBfS1J6MnEzc0pWaGg4RENvY285ZlA2VHEwbDV6aGwyNXlPWS00Qi1ZbGZaUTlwNWM0bkZkX0JOUk84Ul9ENTUzVGtYRDl3QmRwZjd4emZQbVI5NU5nbXRCckx2enZ6Q0Z5cDZuZVN4QTlwV01TenhVLXEw?oc=5",
+      "id": "4018c3aefdd8ea",
+      "title": "Meta to build $13 billion data centre in Alberta, largest outside the U.S. - Global News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1hzZGpZcEhGcXFwQWJ6Z3F6UC0wSzhfQ21fZWhncWwtbUhaVjZldXFYekZ5c2xKUHBDemJrVWJjajZhUFRhSlRJRWlncGNBRnhmeHQwLWpYNjQyNTNhcUpsZGp4VnFuU044MXdzOTdKeG5GVE1oVWNRMmxlZ1FSNUtWYXBkQ1lMbU1pSg?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-07-08",
-      "summary": "Meta breaks ground on first Canadian data centre worth $13 billion &nbsp;&nbsp; hcamag.com",
+      "summary": "Meta to build $13 billion data centre in Alberta, largest outside the U.S. &nbsp;&nbsp; Global News",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -9814,6 +9900,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "27fe8af02c2e31",
+      "title": "When Meta Starts Selling Computing Power - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVhKLTdZaENUTHJMWmMxRXVmRmdBNFV4elJmYzlaNEhHb2dCWF9zTGlWRzRCQnBXMlZ3WUc0aW52dUhiVTdjWEh2WmNnM29VOTJ0WWtxRE5hajR4c2NaakNNMzZsZXJ3ZVZZeHJ4d2VIZ1Z0aWI5S2NQbF90YUl5ZnRLdk1xdExaeXc?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-02",
+      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; Moomoo",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1ed6228dd63173",
       "title": "Meta Compute: Everyone Wants To Be A Neocloud",
       "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
@@ -9841,23 +9944,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "27fe8af02c2e31",
-      "title": "When Meta Starts Selling Computing Power - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVhKLTdZaENUTHJMWmMxRXVmRmdBNFV4elJmYzlaNEhHb2dCWF9zTGlWRzRCQnBXMlZ3WUc0aW52dUhiVTdjWEh2WmNnM29VOTJ0WWtxRE5hajR4c2NaakNNMzZsZXJ3ZVZZeHJ4d2VIZ1Z0aWI5S2NQbF90YUl5ZnRLdk1xdExaeXc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-02",
-      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; Moomoo",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10512,96 +10598,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "2c275cb463834e",
-      "title": "Omen AI raises $31m to develop fluid monitoring system for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/omen-ai-raises-31m-to-develop-fluid-monitoring-system-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-01",
-      "summary": "Good omens for the lifespan of data center equipment",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$31m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8c7b5e3d8ce346",
-      "title": "DCD Studio: Cloud adoption and the AI boom in Italy with Tiziano Durante, Microsoft",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-cloud-adoption-and-the-ai-boom-in-italy-with-tiziano-durante-microsoft/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-01",
-      "summary": "Georgia Butler speaks with Tiziano Durante of Microsoft on Italy's booming data center market, Microsoft’s €4.3bn investment, AI-driven cloud growth, digital sovereignty, and the role of hybrid cloud in innovation.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b5de61d03f3598",
-      "title": "Nixxy and Tachyon 9 plan up to 1GW data center campus in North Dakota",
-      "url": "https://www.datacenterdynamics.com/en/news/nixxy-and-tachyon-9-plan-up-to-1gw-data-center-campus-in-north-dakota/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-01",
-      "summary": "First 120–150MW of capacity is targeted for the second quarter of 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Dakota"
-      ],
-      "amounts": [
-        "1GW",
-        "150MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c1a8e50e3a3b26",
-      "title": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXFrQ3ZyMndPWXltYUhaVm1RajNvRGN4TWQtMkdlWHBDeFhJNkN6TDlBVlNXSXZiWnZFS21RbHRoNkRySjFCVklVM1Bha3ZRYTh4MEs5eXFyU2RkdWJaRmtWOFhkY0RKam9QM0VnS0M0THlvbS0ya3BJaE4wWkE4bGdVTWluR0ZzOHo5a1BKZkt5NEZxLXN0NEZQV1ZkMW5ZdFhvdXVxWUU?oc=5",
-      "source": "GNews: Oracle OCI Stargate",
-      "source_cat": "Company",
-      "date": "2026-07-01",
-      "summary": "Oracle’s Data Center Warning Is a Worst-Case Scenario for the Whole AI Boom &nbsp;&nbsp; Gizmodo",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "94df02006f5b58",
-      "title": "Verkada takes Nvidia investment to expand its physical AI platform",
-      "url": "https://siliconangle.com/2026/07/01/verkada-takes-nvidia-investment-expand-physical-ai-platform/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-01",
-      "summary": "Physical security company Verkada Inc. has taken an investment from Nvidia Corp. and signed a technical partnership with the chipmaker, the two said today, in a deal meant to speed up the artificial intelligence running across Verkada&#8217;s 2.4 million connected devices. The size of the investment was not disclosed but comes seven months after Verkada [&#8230;] \n The post  Verkada takes Nvidia investment to expand its physical AI platform  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
