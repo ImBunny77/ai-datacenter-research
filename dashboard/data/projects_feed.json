@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-21T17:21:05.735536+00:00",
+  "last_updated": "2026-07-21T19:23:58.941886+00:00",
   "finding_count": 600,
   "new_project_count": 104,
   "cancellation_count": 14,
   "sec_filing_count": 0,
-  "high_confidence_count": 192,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "b680c2c3995ba9",
@@ -42,6 +42,25 @@
       ],
       "amounts": [
         "360MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "db36c8317615b5",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-21",
+      "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.5B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -111,6 +130,23 @@
       "summary": "In addition to protecting critical infrastructure, AI-ready UPSs also help optimize AI investments, enhance operational resilience, and mitigate the impact of large-scale AI workloads on the electric grid",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f6fec9887911ec",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-21",
+      "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -313,23 +349,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "877157f37cca84",
-      "title": "Google developing new chip to run Gemini AI model more efficiently – report",
-      "url": "https://www.datacenterdynamics.com/en/news/google-developing-new-chip-to-run-gemini-ai-model-more-efficiently-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "The hardware, dubbed Frozen v2, is slated for launch in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a6c20bf85794ee",
       "title": "Exclusive: Speakeasy service tracks enterprise-wide AI agent spending",
       "url": "https://siliconangle.com/2026/07/21/speakeasy-service-tracks-enterprise-wide-ai-agent-spending/",
@@ -418,6 +437,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "160b09b7ab4f82",
+      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-21",
+      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f0524ce72a4134",
       "title": "We’re announcing the Alliance for America’s Skilled Trades.",
       "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-america-skilled-trades/",
@@ -445,6 +481,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "877157f37cca84",
+      "title": "Google developing new chip to run Gemini AI model more efficiently – report",
+      "url": "https://www.datacenterdynamics.com/en/news/google-developing-new-chip-to-run-gemini-ai-model-more-efficiently-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "The hardware, dubbed Frozen v2, is slated for launch in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -533,9 +586,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$450M",
+        "$2.6 billion",
         "$450 million",
-        "$2.6 billion"
+        "$450M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -703,9 +756,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100 million",
+        "$15 million",
         "$15M",
-        "$15 million"
+        "$100 million"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -779,23 +832,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "40f270890a0bc6",
-      "title": "AI Bubble Burst: Alphabet Could Be The First To Cut AI Capex (NASDAQ:GOOG) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFgxRTFyZjlteXpiOFI0Tmhab2xRQU5wa004NzJQd3pfU3RXQVFVSHBCSVZvUGRBeHhtbTBaRDFiQkRycVRVMjNRbHB6TFU5S3dWaUY1LXkyQWJocTFKTzl2X2p5Vk1sUVRnYzNkNGxwWmQtRUI1ZVZpaExSaWpYNkU0YkxMVk5IY0xUdk9rV3dpdUFYVXNzTTM2dE8?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-07-20",
-      "summary": "AI Bubble Burst: Alphabet Could Be The First To Cut AI Capex (NASDAQ:GOOG) &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "e8c69fdb29d774",
       "title": "On theCUBE Pod: IBM’s AI test, Nvidia’s lead and the race for enterprise intelligence",
       "url": "https://siliconangle.com/2026/07/20/enterprise-intelligence-ai-race-thecubepod/",
@@ -841,6 +877,23 @@
       "companies": [
         "Amazon",
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "40f270890a0bc6",
+      "title": "AI Bubble Burst: Alphabet Could Be The First To Cut AI Capex (NASDAQ:GOOG) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFgxRTFyZjlteXpiOFI0Tmhab2xRQU5wa004NzJQd3pfU3RXQVFVSHBCSVZvUGRBeHhtbTBaRDFiQkRycVRVMjNRbHB6TFU5S3dWaUY1LXkyQWJocTFKTzl2X2p5Vk1sUVRnYzNkNGxwWmQtRUI1ZVZpaExSaWpYNkU0YkxMVk5IY0xUdk9rV3dpdUFYVXNzTTM2dE8?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-07-20",
+      "summary": "AI Bubble Burst: Alphabet Could Be The First To Cut AI Capex (NASDAQ:GOOG) &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1416,6 +1469,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "2827d618e925be",
+      "title": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
+      "url": "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-07-17",
+      "summary": "During the 2026 summer of soccer, engagement across Instagram, Threads, Facebook, and WhatsApp broke records.  \n The post  The 2026 Summer of Football: A Record-Breaking Moment Across Meta  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5c7b238f37cd69",
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
@@ -1430,23 +1500,6 @@
       "locations": [
         "Canada"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2827d618e925be",
-      "title": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "url": "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-07-17",
-      "summary": "During the 2026 summer of soccer, engagement across Instagram, Threads, Facebook, and WhatsApp broke records.  \n The post  The 2026 Summer of Football: A Record-Breaking Moment Across Meta  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4110,6 +4163,27 @@
       ],
       "amounts": [
         "$50 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "33441c461db92a",
+      "title": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size - NOLA.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3IycUxsb2tWX0ZLUzlPX3pfRUxrNkxEcXd5X1lPcG1Ld1A1RmhYelB0Um9BOVN0ZWtteEtIeU1tZ3ZwWU5PRm9ZVlktNUk0VUhDbGg5R0RGck1kSFR5azlKVEpQQXJFa1JabmxJdFVKcmI2YTJDNGtrMzdPWXJYbFhqbW5OVnBSZTdVaUZxajh1WnowSVduNXVYTUh2aWo0Y01Cb3g5eV84NFAtTHlzT2lrSzREOVdmbmNEb0RlRkR2ZHRIdHc5MGNn0gHPAUFVX3lxTE1MNkR0c3BmWjBuQTlzY0JJaXFPUmJfNDVKcFlEcmZtbjJicW9uNHMxQ2F6U1lJUzlER0NPSGR4QmttUnVkVi01QVdKSWpFanVsOUFidHd3dFBvbVdHd01wd2lXWkVTRlV3Uy1BUC1kQjNoS1BpSjhJREtKVThOS21mR1B5MGo3Mno2enlRYTlvbDlHVjZkb3pMMmpZdWFRV0FnWFd0ck1tb1ItRHM4YkhyQ2pfQzF6Q3l6eVlVZTU5dXdIOS1tU1dRSEpIQndXOA?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-07-13",
+      "summary": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size &nbsp;&nbsp; NOLA.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$40 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10518,75 +10592,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "100d59afc95967",
-      "title": "OpenAI considers giving five percent stake to US government, proposes other AI businesses join them - report",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-considers-giving-five-percent-stake-to-us-government-proposes-other-ai-businesses-join-them-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Land of the free equity",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0f7c1e042be599",
-      "title": "Nvidia acts as backstop for customer GPUs in return for cut of cloud revenue",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-acts-as-backstop-for-customer-gpus-in-return-for-cut-of-cloud-revenue/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Firmus and Sharon AI are first adopters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b0ed0cb57a4810",
-      "title": "Arcus acquires UK data center from Verne",
-      "url": "https://www.datacenterdynamics.com/en/news/arcus-acquires-uk-data-center-from-verne/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Portus owner takes over Volta data center in London",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK",
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e0137b30a7b57",
-      "title": "Legrand delivers Nvidia-powered supercomputer to Armenia’s Yerevan State University",
-      "url": "https://www.datacenterdynamics.com/en/news/legrand-delivers-nvidia-powered-supercomputer-to-armenias-yerevan-state-university/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "System was installed in retrofitted university buildings",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
