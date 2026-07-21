@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-21T21:10:21.621874+00:00",
+  "last_updated": "2026-07-21T22:57:51.161707+00:00",
   "finding_count": 600,
   "new_project_count": 105,
-  "cancellation_count": 14,
+  "cancellation_count": 15,
   "sec_filing_count": 0,
-  "high_confidence_count": 195,
+  "high_confidence_count": 196,
   "findings": [
     {
       "id": "64c93337845b91",
@@ -20,10 +20,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$830M",
         "$7.5 billion",
+        "$7.5B",
         "$830 million",
-        "$7.5B"
+        "$830M"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -42,28 +42,26 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.5B",
-        "$1.5 billion"
+        "$1.5 billion",
+        "$1.5B"
       ],
       "confidence": 6,
       "is_high_confidence": true
     },
     {
-      "id": "d04b5262bb3eb6",
-      "title": "Atmosphere Data Centers challenges six-month data center moratorium in Montgomery, Maryland",
-      "url": "https://www.datacenterdynamics.com/en/news/atmosphere-data-centers-challenges-six-month-data-center-moratorium-in-montgomery-maryland/",
+      "id": "3edcce791d5b10",
+      "title": "Ground broken on 300MW data center in Pohang, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/ground-broken-on-300mw-data-center-in-pohang-south-korea/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-07-21",
-      "summary": "Developer's 360MW proposal thwarted",
+      "summary": "First phase to offer 40MW",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [
-        "Maryland",
-        "Montgomery"
-      ],
+      "locations": [],
       "amounts": [
-        "360MW"
+        "300MW",
+        "40MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -83,6 +81,26 @@
       "locations": [],
       "amounts": [
         "$1.5B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d04b5262bb3eb6",
+      "title": "Atmosphere Data Centers challenges six-month data center moratorium in Montgomery, Maryland",
+      "url": "https://www.datacenterdynamics.com/en/news/atmosphere-data-centers-challenges-six-month-data-center-moratorium-in-montgomery-maryland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Developer's 360MW proposal thwarted",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maryland",
+        "Montgomery"
+      ],
+      "amounts": [
+        "360MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -152,6 +170,23 @@
       "summary": "In addition to protecting critical infrastructure, AI-ready UPSs also help optimize AI investments, enhance operational resilience, and mitigate the impact of large-scale AI workloads on the electric grid",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5eb41a347d8101",
+      "title": "Temporal takes on the chaos behind enterprise AI agents",
+      "url": "https://siliconangle.com/2026/07/21/temporal-agentic-ai-durable-execution-awsmarketplaceseries/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-21",
+      "summary": "With more agents comes more complexity — an issue Temporal Technologies Inc. aims to address. Founded in 2019, Temporal offers an open-source durable execution platform that ensures artificial intelligence agents work as designed. Becoming available on Amazon Web Services Marketplace has given the company a wider reach, with big-name clients hoping to better manage their agentic [&#8230;] \n The post  Temporal takes on the chaos behind enterprise AI agents  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -365,6 +400,23 @@
       "summary": "As demand for data center insurance rapidly increases",
       "finding_type": "Expansion",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bb9f1b44a3f8eb",
+      "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face",
+      "url": "https://siliconangle.com/2026/07/21/openai-says-ai-models-broke-testing-hacked-hugging-face/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-21",
+      "summary": "OpenAI Group PBC today disclosed that two of its artificial intelligence models broke out of a controlled testing environment and hacked open-source AI platform Hugging Face Inc. to cheat on an internal benchmark in what the company called an unprecedented cyber incident. The two models, OpenAI&#8217;s latest publicly available model GPT-5.6 Sol and a more capable [&#8230;] \n The post  OpenAI says its own AI models broke out of testing and hacked Hugging Face  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -811,8 +863,8 @@
       "locations": [],
       "amounts": [
         "$100 million",
-        "$15M",
-        "$15 million"
+        "$15 million",
+        "$15M"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -3235,8 +3287,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10546,57 +10598,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ac5f6358f23582",
-      "title": "Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry",
-      "url": "https://siliconangle.com/2026/07/01/palantir-ceo-alex-karp-doesnt-hold-back-interview-rails-ai-industry/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-02",
-      "summary": "Palantir Technologies Inc. Chief Executive Alex Karp appeared to go into meltdown mode during an interview with CNBC today where for 20-odd minutes he went off script after being asked to discuss his company’s ongoing deal with chip maker Nvidia Corp. The conversation turned to the AI industry where he lambasted the U.S. government’s relationship [&#8230;] \n The post  Palantir CEO Alex Karp doesn’t hold back in interview as he rails against AI industry  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "502fd1df194465",
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-02",
-      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8a7814bb702494",
-      "title": "Woman's hip replacement disintegrates, causing severe metal poisoning",
-      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-02",
-      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
