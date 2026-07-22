@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-22T21:08:45.133776+00:00",
+  "last_updated": "2026-07-22T23:04:39.306309+00:00",
   "finding_count": 600,
-  "new_project_count": 108,
+  "new_project_count": 109,
   "cancellation_count": 14,
   "sec_filing_count": 0,
-  "high_confidence_count": 203,
+  "high_confidence_count": 205,
   "findings": [
     {
       "id": "fc3502d4759989",
@@ -164,23 +164,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "3dd878f170cf98",
-      "title": "120MW data center announced for Lombardy, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/120mw-data-center-announced-for-lombardy-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Designers claim that the facility will bring €11 million of investment to the local area",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "120MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "932541654f9465",
       "title": "SkyPilot nabs $20M to ease AI infrastructure management",
       "url": "https://siliconangle.com/2026/07/21/skypilot-nabs-20m-ease-ai-infrastructure-management/",
@@ -220,6 +203,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "3dd878f170cf98",
+      "title": "120MW data center announced for Lombardy, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/120mw-data-center-announced-for-lombardy-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Designers claim that the facility will bring €11 million of investment to the local area",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "120MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "58221772c4ae4b",
       "title": "AU$1.1 billion data center project proposed outside Melbourne, Australia",
       "url": "https://www.datacenterdynamics.com/en/news/au11-billion-data-center-project-proposed-outside-melbourne-australia/",
@@ -236,6 +236,42 @@
         "$1.1 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5adaf589e8b762",
+      "title": "Google increases 2026 capex to $195-205bn as it accelerates AI data center buildout",
+      "url": "https://www.datacenterdynamics.com/en/news/google-increases-2026-capex-195-205bn-as-it-accelerates-ai-data-center-buildout/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Record Google Cloud revenue, but investors are uneasy about growing capex commitments",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7e38c7ee33f39d",
+      "title": "SpaceXAI considers large-scale data center in Texas - report",
+      "url": "https://www.datacenterdynamics.com/en/news/spacexai-considers-large-scale-data-center-in-texas-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Despite orbital ambitions, has sights set on gigawatt campus",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -561,6 +597,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "317d71c4b4f779",
+      "title": "Oracle debuts Base Database Cloud@Customer system for on-premises databases",
+      "url": "https://siliconangle.com/2026/07/22/oracle-debuts-base-database-cloudcustomer-system-premises-databases/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-22",
+      "summary": "Oracle Corp. today debuted an appliance that enterprises can use to run its flagship database at locations such as branch offices. The system is known as Base Database Cloud@Customer. Oracle already offers several appliances that enable companies to run its software on-premises. One of the systems, the Exadata Cloud@Customer X11M, is specifically optimized to run [&#8230;] \n The post  Oracle debuts Base Database Cloud@Customer system for on-premises databases  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4d4c7446880213",
       "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
       "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
@@ -588,6 +641,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "77a1828f0a6f2c",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-22",
+      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -730,8 +800,8 @@
       "locations": [],
       "amounts": [
         "$7.5 billion",
-        "$7.5B",
         "$830 million",
+        "$7.5B",
         "$830M"
       ],
       "confidence": 9,
@@ -2908,23 +2978,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "5d4595aee6a4e2",
       "title": "Experience the legacy of Estadio Azteca on Google Earth.",
       "url": "https://blog.google/products-and-platforms/products/earth/estadio-azteca/",
@@ -3039,6 +3092,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-16",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -4011,8 +4081,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10527,68 +10597,6 @@
       "locations": [
         "New Jersey"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "98216766f50868",
-      "title": "Sponsored: Why even ‘healthy’ data centers may be operating at risk",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-even-healthy-data-centers-may-be-operating-at-risk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "From first alert to issue resolution, every action must be traceable",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "484f89296f1a75",
-      "title": "Texas Governor Abbott calls for data centers to be banned in rural areas",
-      "url": "https://www.datacenterdynamics.com/en/news/texas-governor-abbott-calls-for-data-centers-to-be-banned-in-rural-areas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "Abbott has historically supported the data center industry in Texas",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a9a5622fc4c413",
-      "title": "German chemicals firm Wacker launches data center immersion fluid",
-      "url": "https://www.datacenterdynamics.com/en/news/german-chemicals-firm-wacker-launches-data-center-immersion-fluid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "Company pitches silicon-based fluid as less harmful alternative to PFAS-based offerings",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c4a7a9f6d6612b",
-      "title": "NTT Facilities develops modular construction system for hyperscale data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-facilities-develops-modular-construction-system-for-hyperscale-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "Could cut construction timelines by 50 percent, company claims",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
