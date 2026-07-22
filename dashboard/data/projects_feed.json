@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-22T19:21:20.586227+00:00",
+  "last_updated": "2026-07-22T21:08:45.133776+00:00",
   "finding_count": 600,
-  "new_project_count": 106,
+  "new_project_count": 108,
   "cancellation_count": 14,
   "sec_filing_count": 0,
-  "high_confidence_count": 200,
+  "high_confidence_count": 203,
   "findings": [
     {
       "id": "fc3502d4759989",
@@ -34,6 +34,65 @@
       "source_cat": "Announcement",
       "date": "2026-07-22",
       "summary": "AMD to invest up to $5 billion in Anthropic as part of computing power deal &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$5 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ba4d79eb1ec66b",
+      "title": "OpenAI plans 3.2GW data center campus in Effingham County, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-reveals-32gw-data-center-project-in-effingham-county-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Is contracting energy from Georgia Power Company for project",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [
+        "3.2GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "beaf2a6c1ae6e6",
+      "title": "AMD to invest up to $5bn in Anthropic, AI company to deploy up to 2GW of Instinct MI450 GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-to-invest-5bn-in-anthropic-with-ai-company-to-deploy-2gw-of-instinct-mi450-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "First gigawatt expected in H1 2027",
+      "finding_type": "New Project",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "2GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7c8671321e0de1",
+      "title": "Anthropic to buy up to 2 gigawatts of GPU capacity from AMD",
+      "url": "https://siliconangle.com/2026/07/22/anthropic-buy-two-gigawatts-gpu-capacity-amd/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-22",
+      "summary": "Anthropic PBC will purchase up to 2 gigawatts&#8217; worth of graphics cards from Advanced Micro Devices Inc. as part of a multibillion-dollar deal announced today. The partnership also has several other components. Notably, AMD will invest up to $5 billion in Anthropic and use Claude to speed up its software development efforts. The artificial intelligence [&#8230;] \n The post  Anthropic to buy up to 2 gigawatts of GPU capacity from AMD  appeared first on  SiliconANGLE .",
       "finding_type": "New Project",
       "companies": [
         "Anthropic"
@@ -553,6 +612,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "d09b8c8b26ca83",
+      "title": "Q2 2026 earnings call: Remarks from our CEO",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-22",
+      "summary": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 Alphabet earnings call.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4ef4303dc194b1",
       "title": "3 Google updates from Galaxy Unpacked 2026",
       "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
@@ -653,10 +729,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$830 million",
         "$7.5 billion",
-        "$830M",
-        "$7.5B"
+        "$7.5B",
+        "$830 million",
+        "$830M"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -2832,6 +2908,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-16",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5d4595aee6a4e2",
       "title": "Experience the legacy of Estadio Azteca on Google Earth.",
       "url": "https://blog.google/products-and-platforms/products/earth/estadio-azteca/",
@@ -2946,23 +3039,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -8966,6 +9042,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "7f965759f9726d",
+      "title": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3eHFmQTFXZEZ6akV1OGlMaC14Tkx0TFZQZjdUVFNwUXN6NWVhRE9WWG56aGNmTjcxcGNwTW9WQjBGYl91blJTZE42MW5jR25VY2J3bkV5UzUxMzBiaUJJb2I3ZkRNRUJ0alNz?oc=5",
+      "source": "GNews: Meta data center",
+      "source_cat": "Company",
+      "date": "2026-07-07",
+      "summary": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind &nbsp;&nbsp; Crypto Briefing",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "717492cfc91d6c",
       "title": "Meta’s AI Glasses: Your Questions Answered",
       "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
@@ -8994,21 +9085,6 @@
       "companies": [
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7f965759f9726d",
-      "title": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3eHFmQTFXZEZ6akV1OGlMaC14Tkx0TFZQZjdUVFNwUXN6NWVhRE9WWG56aGNmTjcxcGNwTW9WQjBGYl91blJTZE42MW5jR25VY2J3bkV5UzUxMzBiaUJJb2I3ZkRNRUJ0alNz?oc=5",
-      "source": "GNews: Meta data center",
-      "source_cat": "Company",
-      "date": "2026-07-07",
-      "summary": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind &nbsp;&nbsp; Crypto Briefing",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10513,74 +10589,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "587da7fbd2ea9a",
-      "title": "QTS plans data center campus outside Milan, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/qts-plans-data-center-campus-outside-milan-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "As company eyes developments in Alabama, Iowa, and Texas",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama",
-        "Iowa",
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a3b162f0477132",
-      "title": "Canadian developer eyeing 25-acre data center in Fergus, Ontario",
-      "url": "https://www.datacenterdynamics.com/en/news/canadian-developer-eyeing-25-acre-data-center-in-fergus-ontario/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "But no application submitted yet",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "31eb39d834ef84",
-      "title": "Amazon signs 1.95 million carbon removal deal in South Africa",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-signs-195-million-carbon-removal-deal-in-south-africa/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "Will support spekboom planting project in the Eastern Cape",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d630cd5b17c706",
-      "title": "Singapore telco Singtel considers REIT to fund data center and AI build-out",
-      "url": "https://www.datacenterdynamics.com/en/news/singapore-telco-singtel-considers-reit-to-fund-data-center-and-ai-build-out/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-03",
-      "summary": "Telco potentially looks to follow other data center operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
