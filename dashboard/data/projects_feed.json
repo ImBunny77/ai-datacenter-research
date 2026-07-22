@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-22T06:28:50.577069+00:00",
+  "last_updated": "2026-07-22T10:25:32.275349+00:00",
   "finding_count": 600,
   "new_project_count": 105,
   "cancellation_count": 15,
   "sec_filing_count": 0,
-  "high_confidence_count": 197,
+  "high_confidence_count": 199,
   "findings": [
     {
       "id": "932541654f9465",
@@ -20,10 +20,44 @@
       ],
       "locations": [],
       "amounts": [
-        "$20 million",
-        "$20M"
+        "$20M",
+        "$20 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "77d13280cabd67",
+      "title": "Crusoe to deploy 5GW of ON.energy's AI UPS systems across data center portfolio",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-to-deploy-5gw-of-onenergys-ai-ups-systems-across-data-center-portfolio/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Deployments to continue into 2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "5GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b3006960d33bf2",
+      "title": "Everllence launches 2.4MW backup generation unit for data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/everllence-launches-24mw-backup-generation-unit-for-data-center-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Units to be manufactured in Europe",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "2.4MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -111,8 +145,8 @@
       "locations": [],
       "amounts": [
         "$830M",
-        "$7.5B",
         "$7.5 billion",
+        "$7.5B",
         "$830 million"
       ],
       "confidence": 9,
@@ -481,23 +515,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "007907d30943f9",
-      "title": "AWS launches Local Zone Edge location in Athens, Greece",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-launches-local-zone-edge-location-in-athens-greece/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Follows launch of Turkey location earlier this year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "bb9f1b44a3f8eb",
       "title": "OpenAI says its own AI models broke out of testing and hacked Hugging Face",
       "url": "https://siliconangle.com/2026/07/21/openai-says-ai-models-broke-testing-hacked-hugging-face/",
@@ -586,23 +603,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "52231429483092",
-      "title": "Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models",
-      "url": "https://siliconangle.com/2026/07/20/google-reportedly-developing-frozen-v2-ai-chip-optimized-gemini-models/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-21",
-      "summary": "Google LLC is reportedly developing a new chip optimized to run its Gemini series of artificial intelligence models. Sources told The Information today that the processor is codenamed “Frozen v2.” According to the publication, it’s expected to provide between six and 10 times better performance per watt than the search giant’s current silicon. Shares of [&#8230;] \n The post  Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "076b704c788495",
       "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
       "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
@@ -664,6 +664,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "007907d30943f9",
+      "title": "AWS launches Local Zone Edge location in Athens, Greece",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-launches-local-zone-edge-location-in-athens-greece/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Follows launch of Turkey location earlier this year",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "52231429483092",
+      "title": "Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models",
+      "url": "https://siliconangle.com/2026/07/20/google-reportedly-developing-frozen-v2-ai-chip-optimized-gemini-models/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-21",
+      "summary": "Google LLC is reportedly developing a new chip optimized to run its Gemini series of artificial intelligence models. Sources told The Information today that the processor is codenamed “Frozen v2.” According to the publication, it’s expected to provide between six and 10 times better performance per watt than the search giant’s current silicon. Shares of [&#8230;] \n The post  Google reportedly developing ‘Frozen v2’ AI chip optimized for Gemini models  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2289,6 +2323,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-16",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5d4595aee6a4e2",
       "title": "Experience the legacy of Estadio Azteca on Google Earth.",
       "url": "https://blog.google/products-and-platforms/products/earth/estadio-azteca/",
@@ -2403,23 +2454,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -3392,8 +3426,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "5 GW",
-        "$50 billion"
+        "$50 billion",
+        "5 GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6411,6 +6445,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "7dbdffe6860062",
+      "title": "Marcos backs Amazon’s $5-billion Digital Infrastructure Investment in PH - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXZjNWZ3aklYNndUaWdPUWNFQm42akR3Q3lxcU5LeDRjY1lrOEJmWER5N294N05RaW9xR2JvUUxGbFhfUHdYLVNBaThhU2d6QXFNX21zXzZ0M3F2SVA5ckFRYzh1b3JjMHlCU0FmbmM3SGd2MkdVYldOc0NZQ1R6MGg4U2o5TE5KZzhMVWk3SV9JLVdBRUhMQzI5SF8wZkltLWZGSC1DUU9QTzNa0gGyAUFVX3lxTFB2Q0xQZXFmbHJJZjBzR3BLaGdodExpd3ZLVGN5X1dkUzQ0Sm5BaXpQbVl5Nmc5WmY4R0d1Y0g5UGpqSnZ1bXJXNEZvbGd6dEgtOXpLYVd2WVlkVGVhQ1hDcHhubEo2WXhfaDB6OUFmNXhQdzlMdTVxYU5DTEdwRXQ4OEhXTlFRcFZKQVVaRlg5b0RFNjRjSjBtYl9OVmhkMjJrMVZ1bTdGZDNtSGU5UWcxZXc?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-09",
+      "summary": "Marcos backs Amazon’s $5-billion Digital Infrastructure Investment in PH &nbsp;&nbsp; Inquirer.net",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "1cb4ad4d89028f",
       "title": "Meta breaks ground on first data center in Canada - Social Media Today",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjBvYlY5b3FkMG9zOGFtUXBYRXVJTEYyRzFrdzlZNUVuU3pmZXN0aDd0RkU3ei12SUJjNTFDMTJIZkdKXzEtd0FmZkQtNWE0V3dQb1lOOWRMaEprMWhFUGJLWnJLNFllSUZ5R2J3aDQ0NGVoOW5zMFJxN21icDdYMVpUR1FxMXNZUG1HRkpDbHlkaVF0T0R4U1FIMA?oc=5",
@@ -7053,13 +7104,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "b053c3dc9fc3ca",
-      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2lQeF9ZVWxUa0F3ZEpYRHl2amVUZ1p2T0tNS245VkRkQWtLdnNsTFhmdzNvRlBTSS0xaUFlNmRFVXNxeVV5UWZiT2tZZGZST0JBb09SQWtLSWNpWGYzQXFTUk9yaXlEY01BbTNhVHdrYnZqbE91TXRQT29jdE5NQ2JWSFVEa3hWYWdpS2VEOXc?oc=5",
+      "id": "66553d80ba79ba",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-08",
-      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada &nbsp;&nbsp; Reuters",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -7093,13 +7144,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "66553d80ba79ba",
-      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1kYi03WEJLMjUzY0lVVHVwekxGWTUzVVdZTDFGTFFKVlZERWZCOFVyak1KZ3VUYzlBZzdxZS11SW1Ldzc1amZqeG41TFJ4V0FQSW9pWFEycWhjeHByMG95SFp5VTk0SFQxYnI4Q3NLR0lZYTRSVXdGbFp6VlM4M1NqdlhZT3QzdC1mSU9ScFQwVU1mSFgxVzJvcDRnU3BIVGF4Nkotblhydno4SUZR?oc=5",
-      "source": "GNews: data center announce invest",
+      "id": "b053c3dc9fc3ca",
+      "title": "Meta to build C$13 billion Alberta data center, its first in Canada - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2lQeF9ZVWxUa0F3ZEpYRHl2amVUZ1p2T0tNS245VkRkQWtLdnNsTFhmdzNvRlBTSS0xaUFlNmRFVXNxeVV5UWZiT2tZZGZST0JBb09SQWtLSWNpWGYzQXFTUk9yaXlEY01BbTNhVHdrYnZqbE91TXRQT29jdE5NQ2JWSFVEa3hWYWdpS2VEOXc?oc=5",
+      "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-07-08",
-      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada &nbsp;&nbsp; Reuters",
+      "summary": "Meta to build C$13 billion Alberta data center, its first in Canada &nbsp;&nbsp; Yahoo Finance",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -7645,23 +7696,6 @@
       "locations": [
         "Canada"
       ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7dbdffe6860062",
-      "title": "Marcos backs Amazon’s $5-billion Digital Infrastructure Investment in PH - Inquirer.net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXZjNWZ3aklYNndUaWdPUWNFQm42akR3Q3lxcU5LeDRjY1lrOEJmWER5N294N05RaW9xR2JvUUxGbFhfUHdYLVNBaThhU2d6QXFNX21zXzZ0M3F2SVA5ckFRYzh1b3JjMHlCU0FmbmM3SGd2MkdVYldOc0NZQ1R6MGg4U2o5TE5KZzhMVWk3SV9JLVdBRUhMQzI5SF8wZkltLWZGSC1DUU9QTzNa0gGyAUFVX3lxTFB2Q0xQZXFmbHJJZjBzR3BLaGdodExpd3ZLVGN5X1dkUzQ0Sm5BaXpQbVl5Nmc5WmY4R0d1Y0g5UGpqSnZ1bXJXNEZvbGd6dEgtOXpLYVd2WVlkVGVhQ1hDcHhubEo2WXhfaDB6OUFmNXhQdzlMdTVxYU5DTEdwRXQ4OEhXTlFRcFZKQVVaRlg5b0RFNjRjSjBtYl9OVmhkMjJrMVZ1bTdGZDNtSGU5UWcxZXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-07-08",
-      "summary": "Marcos backs Amazon’s $5-billion Digital Infrastructure Investment in PH &nbsp;&nbsp; Inquirer.net",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -10563,41 +10597,6 @@
       "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
       "finding_type": "Statement / Update",
       "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "74bdcfbbcb62ec",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36 Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36 Kr",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "496ffd3e33719f",
-      "title": "Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling — 'Meta Compute' would put company in direct competition with AWS - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzM1RnVwa2xPYnA3WmJQaUVUY0NPakVVNXZERV9ZWExnbUlScXdHTmxxeDBrTFVuNHl0QkoyS2NPUVg1b2hLSG5tUUFsRXMxVHlKY2p0RFRPcVNMYkZwTWxkVmtvZGpuTFduMTdnMXJHQzRvT1F1Y1k2SUZvNWRIaC1VM3hUUnB1ek1EQ0ZlTGNsNmZ2QlE?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-02",
-      "summary": "Meta reportedly plans to rent out its AI compute, sending AI stocks tumbling — 'Meta Compute' would put company in direct competition with AWS &nbsp;&nbsp; Tom's Hardware",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
         "Meta"
       ],
       "locations": [],
