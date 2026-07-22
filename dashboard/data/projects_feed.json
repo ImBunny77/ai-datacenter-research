@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-07-22T10:25:32.275349+00:00",
+  "last_updated": "2026-07-22T13:56:49.702344+00:00",
   "finding_count": 600,
   "new_project_count": 105,
   "cancellation_count": 15,
   "sec_filing_count": 0,
-  "high_confidence_count": 199,
+  "high_confidence_count": 204,
   "findings": [
+    {
+      "id": "3dd878f170cf98",
+      "title": "120MW data center announced for Lombardy, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/120mw-data-center-announced-for-lombardy-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Designers claim that the facility will bring €11 million of investment to the local area",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "120MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "58221772c4ae4b",
+      "title": "AU$1.1 billion data center project proposed outside Melbourne, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/au11-billion-data-center-project-proposed-outside-melbourne-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Unnamed company plans development in City of Casey",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "$1.1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "932541654f9465",
       "title": "SkyPilot nabs $20M to ease AI infrastructure management",
@@ -20,10 +56,70 @@
       ],
       "locations": [],
       "amounts": [
-        "$20M",
-        "$20 million"
+        "$20 million",
+        "$20M"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1fdbb979a58e85",
+      "title": "Powering America’s Genesis Mission: Microsoft’s commitment to scientific discovery",
+      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-22",
+      "summary": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research &#38; Knowledge coordination hub and program office, otherwise... \n The post  Powering America&#8217;s Genesis Mission: Microsoft&#8217;s commitment to scientific discovery  a",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$60 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c15b0f98be686b",
+      "title": "Wistron opens $700m Nvidia Superchip manufacturing site in Fort Worth, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/wistron-opens-700m-nvidia-superchip-manufacturing-site-in-fort-worth-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Facility already producing GB300s, will soon move on to Vera Rubin Superchips",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$700m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1b615a6ae7a2f6",
+      "title": "Cleco to construct 756MW natural gas plant to serve Applied Digital's data center in Rapides Parish, Louisiana - report",
+      "url": "https://www.datacenterdynamics.com/en/news/cleco-to-construct-756mw-natural-gas-plant-to-serve-applied-digitals-data-center-in-rapides-parish-louisiana-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Will help supply Applied's under-construction 430MW data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "756MW",
+        "430MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -97,6 +193,93 @@
       "is_high_confidence": false
     },
     {
+      "id": "855bffa3989e75",
+      "title": "Microsoft to spend billions on GPUs to be shared with AI lab Mistral",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-spend-billions-on-gpus-to-be-shared-with-ai-lab-mistral/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Will expand AI infrastructure capacity in Europe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "103987ae2ba1ed",
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-07-22",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fad5722348156b",
+      "title": "Google lands Nuvem subsea cable in Portugal",
+      "url": "https://www.datacenterdynamics.com/en/news/google-lands-nuvem-subsea-cable-in-portugal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Cable links Sines with Myrtle Beach in South Carolina",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "South Carolina"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5ac6f46b567653",
+      "title": "Nvidia debuts Spectrum-6 switches to power next-gen AI networking",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-debuts-spectrum-6-switches-to-power-next-gen-ai-networking/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Microsoft and SpaceXAI join neoclouds among early users",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "xAI",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fd362903d8bb4b",
+      "title": "Indian real estate developer Anant Raj spins out data center and cloud business",
+      "url": "https://www.datacenterdynamics.com/en/news/indian-real-estate-developer-anant-raj-spins-out-data-center-and-cloud-business/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-22",
+      "summary": "Ashok Cloud will offer data center and cloud services in the country",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4d4c7446880213",
       "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
       "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
@@ -131,6 +314,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "4ef4303dc194b1",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-22",
+      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "22896ee9fabc02",
+      "title": "New WhatsApp Features Keep Up With the Way You Actually Live",
+      "url": "https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-07-22",
+      "summary": "We’ve introduced new features that make it easier for you to make WhatsApp part of your life. \n The post  New WhatsApp Features Keep Up With the Way You Actually Live  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "64c93337845b91",
       "title": "AI data center builder Fluidstack raises $830M at $7.5B valuation",
       "url": "https://siliconangle.com/2026/07/21/ai-data-center-builder-fluidstack-raises-830m-7-5b-valuation/",
@@ -144,10 +361,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$830M",
         "$7.5 billion",
-        "$7.5B",
-        "$830 million"
+        "$830M",
+        "$830 million",
+        "$7.5B"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -201,8 +418,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "40MW",
-        "300MW"
+        "300MW",
+        "40MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -302,21 +519,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b79143fece3adf",
-      "title": "Sponsored: The new power dynamic: AI data centers begin at the UPS",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-new-power-dynamic-ai-data-centers-begin-at-the-ups/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "In addition to protecting critical infrastructure, AI-ready UPSs also help optimize AI investments, enhance operational resilience, and mitigate the impact of large-scale AI workloads on the electric grid",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "5eb41a347d8101",
       "title": "Temporal takes on the chaos behind enterprise AI agents",
       "url": "https://siliconangle.com/2026/07/21/temporal-agentic-ai-durable-execution-awsmarketplaceseries/",
@@ -345,6 +547,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b79143fece3adf",
+      "title": "Sponsored: The new power dynamic: AI data centers begin at the UPS",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-new-power-dynamic-ai-data-centers-begin-at-the-ups/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "In addition to protecting critical infrastructure, AI-ready UPSs also help optimize AI investments, enhance operational resilience, and mitigate the impact of large-scale AI workloads on the electric grid",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -397,119 +614,6 @@
         "Microsoft"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "16fff04e7c2355",
-      "title": "Prysmian signs $6.29bn optical data center connectivity deal with Molex",
-      "url": "https://www.datacenterdynamics.com/en/news/prysmian-signs-629bn-optical-data-center-connectivity-deal-with-molex/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "The agreement is for up to ten years",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ba1b1afd4cafd4",
-      "title": "Armada deploys containerized data center to North Dakota air base",
-      "url": "https://www.datacenterdynamics.com/en/news/armada-deploys-containerized-data-center-to-north-dakota-air-base/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Company deploys pod for GrandSky at Grand Forks Air Force Base",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Dakota"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b6a80a4381b137",
-      "title": "Taiwan-based whiskey importer signs contracts for Indonesia data center",
-      "url": "https://www.datacenterdynamics.com/en/news/taiwan-based-whiskey-importer-signs-contracts-for-indonesia-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "As China-focused car financing firm forms US-focused data center joint venture",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Indonesia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0316e3e27085c9",
-      "title": "Intel planning job cuts to its data center group - report",
-      "url": "https://www.datacenterdynamics.com/en/news/intel-planning-job-cuts-to-its-data-center-group-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Unclear how many roles will be impacted",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "53994e6bc8279d",
-      "title": "NFrance cuts data center power bill by 20 percent using Vertiv DX cooling system",
-      "url": "https://www.datacenterdynamics.com/en/news/nfrance-cuts-data-center-power-bill-by-20-percent-using-vertiv-dx-cooling-system/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "WUE and PUE reduced thanks to upgrade",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d33dd49f36761",
-      "title": "Council in Pasco, Washington, unanimously approves six-month data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Follows increasing concerns around data center energy, land, and cooling infrastructure requirements",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Washington"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "da9029597519ae",
-      "title": "SBA deploys Edge data center in Corpus Christi, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/sba-deploys-edge-data-center-in-corpus-christi-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Tower firm continues Edge-at-tower play",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -666,6 +770,119 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "16fff04e7c2355",
+      "title": "Prysmian signs $6.29bn optical data center connectivity deal with Molex",
+      "url": "https://www.datacenterdynamics.com/en/news/prysmian-signs-629bn-optical-data-center-connectivity-deal-with-molex/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "The agreement is for up to ten years",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ba1b1afd4cafd4",
+      "title": "Armada deploys containerized data center to North Dakota air base",
+      "url": "https://www.datacenterdynamics.com/en/news/armada-deploys-containerized-data-center-to-north-dakota-air-base/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Company deploys pod for GrandSky at Grand Forks Air Force Base",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "North Dakota"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b6a80a4381b137",
+      "title": "Taiwan-based whiskey importer signs contracts for Indonesia data center",
+      "url": "https://www.datacenterdynamics.com/en/news/taiwan-based-whiskey-importer-signs-contracts-for-indonesia-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "As China-focused car financing firm forms US-focused data center joint venture",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indonesia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0316e3e27085c9",
+      "title": "Intel planning job cuts to its data center group - report",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-planning-job-cuts-to-its-data-center-group-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Unclear how many roles will be impacted",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "53994e6bc8279d",
+      "title": "NFrance cuts data center power bill by 20 percent using Vertiv DX cooling system",
+      "url": "https://www.datacenterdynamics.com/en/news/nfrance-cuts-data-center-power-bill-by-20-percent-using-vertiv-dx-cooling-system/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "WUE and PUE reduced thanks to upgrade",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d33dd49f36761",
+      "title": "Council in Pasco, Washington, unanimously approves six-month data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/council-in-pasco-washington-unanimously-approves-six-month-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Follows increasing concerns around data center energy, land, and cooling infrastructure requirements",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "da9029597519ae",
+      "title": "SBA deploys Edge data center in Corpus Christi, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/sba-deploys-edge-data-center-in-corpus-christi-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-21",
+      "summary": "Tower firm continues Edge-at-tower play",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2323,23 +2540,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "5d4595aee6a4e2",
       "title": "Experience the legacy of Estadio Azteca on Google Earth.",
       "url": "https://blog.google/products-and-platforms/products/earth/estadio-azteca/",
@@ -2454,6 +2654,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-16",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -8457,6 +8674,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "7f965759f9726d",
+      "title": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3eHFmQTFXZEZ6akV1OGlMaC14Tkx0TFZQZjdUVFNwUXN6NWVhRE9WWG56aGNmTjcxcGNwTW9WQjBGYl91blJTZE42MW5jR25VY2J3bkV5UzUxMzBiaUJJb2I3ZkRNRUJ0alNz?oc=5",
+      "source": "GNews: Meta data center",
+      "source_cat": "Company",
+      "date": "2026-07-07",
+      "summary": "Mark Zuckerberg and Elon Musk bet big on data centers as AI models lag behind &nbsp;&nbsp; Crypto Briefing",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "717492cfc91d6c",
       "title": "Meta’s AI Glasses: Your Questions Answered",
       "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
@@ -10371,237 +10603,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "411f749bfa1547",
-      "title": "AWS in-row heat exchanger to reduce water use by 9% over evaporative air-cooled data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Custom solution deployed for AI workloads",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e0815ef89d89a5",
-      "title": "Microsoft reveals plans for data center in Sandnes, Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-reveals-plans-for-data-center-in-sandnes-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Will join the Norway East region",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "47a7994f45fdc2",
-      "title": "Microsoft signs land purchase agreement for data center in Grevenbroich, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Cloud giant developing another site near Cologne",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "01ebaf9197023c",
-      "title": "Microsoft UK's Thames Valley Park campus could be redeveloped as a gas-powered data center",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-uks-thames-valley-park-campus-could-be-redeveloped-as-a-gas-powered-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Reading site set to head to public consultation",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "118980a9080295",
-      "title": "Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence",
-      "url": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-02",
-      "summary": "The pace of AI adoption is moving incredibly fast. Customers have moved well beyond experimentation and understand the importance of adopting AI to transform their business. They are now concentrating on delivering measurable business outcomes and demonstrating a return on their AI investments, while ensuring their intelligence is amplified and their IP is protected. Today... \n The post  Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence  appeared first on  ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "23a27cd7616251",
-      "title": "Google disrupts NetNut residential proxy network built on 2 million devices",
-      "url": "https://siliconangle.com/2026/07/02/google-disrupts-netnut-residential-proxy-network-built-2-million-devices/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-02",
-      "summary": "Google LLC has disrupted NetNut, one of the largest residential proxy networks in operation, degrading a service that had turned more than 2 million home devices worldwide into relays for other people&#8217;s internet traffic. The action was carried out in coordination with the U.S. Federal Bureau of Investigation, Lumen Technologies Inc. and others. Google&#8217;s Threat [&#8230;] \n The post  Google disrupts NetNut residential proxy network built on 2 million devices  appeared first on  Silicon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "55cca0fdcc58a1",
-      "title": "Siemens Financial invests in UK data center operator Kao Data",
-      "url": "https://www.datacenterdynamics.com/en/news/siemens-financial-invests-in-uk-data-center-operator-kao-data/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "As the company renews its renewable electricity supply agreement with Shell",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "66ece0b0fd8aec",
-      "title": "Lightstorm to launch India-Malaysia-Singapore subsea cable system with Microsoft, Singtel, and Tata Communications",
-      "url": "https://www.datacenterdynamics.com/en/news/lightstorm-to-launch-india-malaysia-singapore-subsea-cable-system-with-microsoft-singtel-and-tata-communications/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Follows Tata’s earlier announcement it would be investing in the consortium",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India",
-        "Malaysia",
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "afd9b2185379b4",
-      "title": "Brazil's 247 Data Centers announces Just Climate and Kinea as strategic investors",
-      "url": "https://www.datacenterdynamics.com/en/news/brazils-247-data-centers-announces-just-climate-and-kinea-as-strategic-investors/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-02",
-      "summary": "Partnership strengthens the company's capital structure and aims to accelerate growth",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Brazil"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "27fe8af02c2e31",
-      "title": "When Meta Starts Selling Computing Power - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVhKLTdZaENUTHJMWmMxRXVmRmdBNFV4elJmYzlaNEhHb2dCWF9zTGlWRzRCQnBXMlZ3WUc0aW52dUhiVTdjWEh2WmNnM29VOTJ0WWtxRE5hajR4c2NaakNNMzZsZXJ3ZVZZeHJ4d2VIZ1Z0aWI5S2NQbF90YUl5ZnRLdk1xdExaeXc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-02",
-      "summary": "When Meta Starts Selling Computing Power &nbsp;&nbsp; Moomoo",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ed6228dd63173",
-      "title": "Meta Compute: Everyone Wants To Be A Neocloud",
-      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-07-02",
-      "summary": "Zuck Takes Plan B? SpaceX 2.0, Bedrock 2.0, MSL Isn't Giving Up, Scaling RecSys by 10x... ClusterMAX ranking coming soon?",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "43b59c6cb71b1e",
-      "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More",
-      "url": "https://newsletter.semianalysis.com/p/ectc2026",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-07-02",
-      "summary": "ECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a077f7318555de",
-      "title": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MWmhYeUdKM0xEVC1yUXdtOVZ1MXk2Nlp4T3gzTWJTUXcxTFVoeXFXeUY2TG5jYXg5a19kWnJfZUtiU01kZUtDNG9jSnE3NFc1M0Rv?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-02",
-      "summary": "Meta Pivots to \"Computing Power Lessor\" Amid Inability to Outcompete in Model Development, Crashes US Stock Market's AI Chain Overnight &nbsp;&nbsp; 36Kr",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
