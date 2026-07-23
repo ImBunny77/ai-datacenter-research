@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-23T17:23:12.651748+00:00",
+  "last_updated": "2026-07-23T19:19:06.302988+00:00",
   "finding_count": 600,
-  "new_project_count": 101,
+  "new_project_count": 99,
   "cancellation_count": 14,
   "sec_filing_count": 0,
-  "high_confidence_count": 207,
+  "high_confidence_count": 202,
   "findings": [
     {
       "id": "680fab7acf151e",
@@ -26,6 +26,44 @@
         "612MW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "55e06b469c169e",
+      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-23",
+      "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5f92d1a084f4ec",
+      "title": "Meta to deploy custom AMD Instinct MI450-based GPU, is 'lead customer' for Venice Epyc CPU",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-to-deploy-custom-amd-instinct-mi450-based-gpu-is-lead-customer-for-venice-epyc-cpu/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-23",
+      "summary": "As part of ongoing 6GW AMD rollout",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "6GW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -264,6 +302,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "a58d5e69296c9c",
+      "title": "AMD debuts next-generation AI infrastructure for frontier models, agentic workloads and autonomous robots",
+      "url": "https://siliconangle.com/2026/07/23/amd-debuts-next-generation-ai-infrastructure-frontier-models-agentic-workloads-autonomous-robots/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-23",
+      "summary": "Advanced Micro Devices Inc. is pushing harder than ever to grab even more market share from Nvidia Corp. in the artificial intelligence chip industry. At its Advancing AI 2026 event today in San Francisco, the chipmaker announced a slate of updated hardware, including its next-generation AMD Instinct MI400 Series graphics processing units and the sixth-generation [&#8230;] \n The post  AMD debuts next-generation AI infrastructure for frontier models, agentic workloads and autonomous robots  appea",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "76b727ee5d08b1",
       "title": "AWS turns Security Hub into an AI and multicloud security control plane",
       "url": "https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/",
@@ -326,6 +381,55 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cb026b9fe10c71",
+      "title": "Microsoft Azure outage at West US region causes intermittent connectivity failures",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-azure-outage-at-west-us-region-causes-intermittent-connectivity-failures/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-23",
+      "summary": "Systems expected to recover as issue is rolled back",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c502b6a1887cc2",
+      "title": "AMD and Schneider Electric launch reference standards for Helios AI rack",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-and-schneider-electric-launch-reference-standards-for-helios-ai-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-23",
+      "summary": "Will help developers incorporate rack into AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f9e0eea17af908",
+      "title": "AMD partners with big chip co. Cerebras for ultra-low-latency and high throughput AI inference system",
+      "url": "https://www.datacenterdynamics.com/en/news/amd-partners-with-big-chip-co-cerebras-for-ultra-low-latency-and-high-throughput-ai-inference-system/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-23",
+      "summary": "Helios and Cerebras go up against Nvidia's NVL72 and Groq LPX",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -517,6 +621,23 @@
       "source_cat": "Tech Analysis",
       "date": "2026-07-23",
       "summary": "Google parent company Alphabet Inc. delivered better-than-expected revenue for the second quarter today, thanks to strong growth in its cloud business &#8212; but the stock sank in extended trading after it missed expectations on earnings and lifted its forecast for capital expenditures. The company reported second-quarter earnings before certain costs such as stock compensation of [&#8230;] \n The post  Alphabet&#8217;s stock sinks after it bumps up AI infrastructure spending yet again  appeared",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e372e213f50a10",
+      "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-23",
+      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -810,8 +931,8 @@
       "id": "fc3502d4759989",
       "title": "OpenAI Raises 2030 Compute Spending Forecast to $750 Billion, Spending $20 Billion to Build Own Data Centers - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMlRXcWN1b3kxcjNkMnJpSXQ3dTFfOVdvY0JyM0lTalZ6N3dMVDBnMzdmelB1cDJyYnJFeHJsSjZZVmNZUTlHSkppZTZNZUg5eFpIYlB2MkdpY1BsSThxMnVIVFVpUnV4aGdvTzZqa3VJclFmTE1MenZRUnR4OFVkUW9qM3lqNHhxX0ZKY29Vb25UYkV5Z181RmljczYtRnQxLUJ1aWdwcU9VdkREU0NIaHU2SDBDMlBRYkNNbGFkcmxPQl9LRjZfWHk2YWhEUXNqdGRXSmhR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-07-22",
       "summary": "OpenAI Raises 2030 Compute Spending Forecast to $750 Billion, Spending $20 Billion to Build Own Data Centers &nbsp;&nbsp; TradingKey",
       "finding_type": "New Project",
@@ -964,6 +1085,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "1fdbb979a58e85",
+      "title": "Powering America’s Genesis Mission: Microsoft’s commitment to scientific discovery",
+      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-22",
+      "summary": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research &#38; Knowledge coordination hub and program office, otherwise... \n The post  Powering America&#8217;s Genesis Mission: Microsoft&#8217;s commitment to scientific discovery  a",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$60 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "932541654f9465",
       "title": "SkyPilot nabs $20M to ease AI infrastructure management",
       "url": "https://siliconangle.com/2026/07/21/skypilot-nabs-20m-ease-ai-infrastructure-management/",
@@ -979,25 +1119,6 @@
       "amounts": [
         "$20 million",
         "$20M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1fdbb979a58e85",
-      "title": "Powering America’s Genesis Mission: Microsoft’s commitment to scientific discovery",
-      "url": "https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-22",
-      "summary": "Today, we’re excited to share a long-term commitment to the Department of Energy’s (DOE) Genesis Mission, backed by a $60 million investment designed to accelerate AI for science and the breakthroughs it can deliver for the country. This deepened commitment includes Microsoft’s new Scientific Partnership Advancing Research &#38; Knowledge coordination hub and program office, otherwise... \n The post  Powering America&#8217;s Genesis Mission: Microsoft&#8217;s commitment to scientific discovery  a",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$60 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1923,23 +2044,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "076b704c788495",
-      "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-21",
-      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "088c9b733a89f3",
       "title": "13 Google tips for a fun, productive summer off from college",
       "url": "https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/",
@@ -1984,6 +2088,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "076b704c788495",
+      "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
+      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-21",
+      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -4968,8 +5089,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10459,142 +10580,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "e2860d190ed963",
-      "title": "Anthropic signs $19 billion lease for Kentucky data center - The Courier-Journal",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONWdLOWtsWFlMTkdIbTZ2TXBZNFRtN1lvYTJrWEJPRDBCMGJrVlJCa0pQa3V1RmNRLUZyZVZsekZCRENSclFUYVlvSlRBdmFGOVZIMk9VQmpSa1ZrR2txeEhiUV9xei01djRYR2NBbjlmSi0wZk9XV05ob29pY0lLWTBYeHpZdlpLWmFDSGM1MExPb21LSmx3SFk0Nk1qSHl3bks2eXJ4b2FDRjRwQXNieFg3aURSS1NqaXVNa0FDNEdqV1hJVXM1SHJR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-06",
-      "summary": "Anthropic signs $19 billion lease for Kentucky data center &nbsp;&nbsp; The Courier-Journal",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "$19 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f6afffa54e6d69",
-      "title": "Big Digital Energy acquires land for 311MW data center campus outside Dallas-Fort Worth, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/big-digital-energy-acquires-land-for-311mw-data-center-campus-outside-dallas-fort-worth-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-06",
-      "summary": "Company formerly known as Mawson expands beyond PJM into Texas",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Texas",
-        "Dallas"
-      ],
-      "amounts": [
-        "311MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8d1f275d969d78",
-      "title": "GS Group Breaks Ground on $19.6 Billion AI Data Center in Donghae, Aiming for Asia's Largest by 2028 - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rdUs4V25yR20tUWhRR0FnYU9YeEFwTGY1bnJrR1lqOGx0ZTBwbW1BbkRRYXliZENuNlhkaS1xZzFISmppd1JEX2REdERGVVZrS2N0Ti0zTmNBbzFUMjJpV0VkQkxzQTQyQWx3SVhWRWQ0MUliSmc?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-06",
-      "summary": "GS Group Breaks Ground on $19.6 Billion AI Data Center in Donghae, Aiming for Asia's Largest by 2028 &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$19.6 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "45e15a3e0d1b82",
-      "title": "SK Telecom plans $653 billion AI data center buildout in Korea - The Korea Economic Daily Global Edition",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS1ZVSUU0cGtzZjdsRzJBRk5LaWNUdWRxSE5lY2dOcnJXZG5KWE5fYlcxNFNqdFlxVW9aTktiejNMSmE2a2FUekJ6SkhnUkZqcEZQekc3djg3TGpoNnpvYVdvb2I1RnRGYk5OeVJiYkNWc0JNR2ZpdkF6SlBTbnc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-07-06",
-      "summary": "SK Telecom plans $653 billion AI data center buildout in Korea &nbsp;&nbsp; The Korea Economic Daily Global Edition",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$653 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d3d2ba9371a99e",
-      "title": "99MW data center proposed in Kern County, California",
-      "url": "https://www.datacenterdynamics.com/en/news/99mw-data-center-proposed-in-kern-county-california/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-06",
-      "summary": "Faces opposition from locals",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "California"
-      ],
-      "amounts": [
-        "99MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a8969d8e17b7c0",
-      "title": "Digital Edge looking to develop 270MW data center near Mumbai, India",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-edge-looking-to-develop-270mw-data-center-near-mumbai-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-06",
-      "summary": "Developer of data center park confirmed transaction occurred",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India",
-        "Mumbai"
-      ],
-      "amounts": [
-        "270MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cdf12e20a22167",
-      "title": "Amazon's data center arm expands land lease by four acres in Mumbai, India",
-      "url": "https://www.datacenterdynamics.com/en/news/amazons-data-center-arm-expands-land-lease-by-four-acres-in-mumbai-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-06",
-      "summary": "Leases land with a 17-year commitment",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "India",
-        "Mumbai"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
