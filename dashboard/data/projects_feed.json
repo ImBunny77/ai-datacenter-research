@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-07-25T13:28:05.942251+00:00",
+  "last_updated": "2026-07-25T15:03:24.816085+00:00",
   "finding_count": 600,
-  "new_project_count": 104,
+  "new_project_count": 105,
   "cancellation_count": 17,
   "sec_filing_count": 0,
-  "high_confidence_count": 202,
+  "high_confidence_count": 204,
   "findings": [
+    {
+      "id": "5f621f50350c81",
+      "title": "Nvidia Makes Massive $500 Billion AI Infrastructure Bet on South Korea, Deepening Ties with SK and Naver - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XWE5sREswVm9RaXA4WmNSMndCdWtXTEVwQWU5VjNpbU5aUWdTdDJKZFdxcEZ3XzMtUjI2UFlmdm1rZ2xNd0JfZmo0dWdNb1B3SFA1WUlUcUl1aVJUUTZ3TnJOckRYV0w4VFhKNDhjalFYRDVNUGc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-25",
+      "summary": "Nvidia Makes Massive $500 Billion AI Infrastructure Bet on South Korea, Deepening Ties with SK and Naver &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$500 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "5d74ca79be4df3",
       "title": "AMD’s Helios strategy turns the GPU battle into a systems contest",
@@ -19,6 +38,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "100d308018dc5c",
+      "title": "Sponsored: The key to the data center power problem",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-key-to-the-data-center-power-problem/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-25",
+      "summary": "A power-first mindset amid AI at scale and aging infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -347,21 +381,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "22704033949032",
-      "title": "Two data centers planned in Pregnana Milanese, Italy",
-      "url": "https://www.datacenterdynamics.com/en/news/two-data-centers-planned-in-pregnana-milanese-italy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "A third project has also been reported in the town",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6b435557296b9c",
       "title": "Meta makes Muse Spark 1.1 available to consumers, debuts new Facebook features",
       "url": "https://siliconangle.com/2026/07/24/meta-makes-muse-spark-1-1-available-consumers-debuts-new-facebook-features/",
@@ -556,6 +575,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "22704033949032",
+      "title": "Two data centers planned in Pregnana Milanese, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/two-data-centers-planned-in-pregnana-milanese-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-24",
+      "summary": "A third project has also been reported in the town",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1724,6 +1758,27 @@
         "$20 Billion"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0737fb4b0be390",
+      "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGRkSDhSdi1IQlludFBtc2paX3p4Z1AtaTJFVy15VmtMVDJnZjRnVHRSRllRVGJySXEzV0VhazU5T1dYcXVVc3o4dFVreHBWeFNLZ0Q3dS1EYW5ybmZmTDlrTFI1bEs3dENPVi1OZTNzZmc1WTE0RmRPNTVEV0FpdFh5WlZvTjUzWWc?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-22",
+      "summary": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments &nbsp;&nbsp; The New York Times",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [
+        "$112 Billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -5907,8 +5962,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "5 GW",
-        "$50 billion"
+        "$50 billion",
+        "5 GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10537,59 +10592,6 @@
       "companies": [],
       "locations": [
         "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2734638e5b6a7a",
-      "title": "Plans filed for 100,000 sq ft data center outside Dallas, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-100000-sq-ft-data-center-outside-dallas-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-08",
-      "summary": "Belltown Power-linked affiliate aims to launch Royse City facility next year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas",
-        "Dallas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2d836081a76a03",
-      "title": "Hiljaa hyvä tulee: Finland’s data center boom",
-      "url": "https://www.datacenterdynamics.com/en/analysis/hiljaa-hyv%C3%A4-tulee-finlands-data-center-boom/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-08",
-      "summary": "Good things come slowly, but the Nordic nation wants its share of the AI explosion",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cab2a52af3a9ab",
-      "title": "Nexus DC files to develop second data center outside Dallas, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/nexus-dc-files-to-develop-second-data-center-outside-dallas-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-08",
-      "summary": "~500,000 sq ft building due live in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas",
-        "Dallas"
       ],
       "amounts": [],
       "confidence": 2,
