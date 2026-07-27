@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-27T17:42:40.238062+00:00",
+  "last_updated": "2026-07-27T19:27:55.740952+00:00",
   "finding_count": 600,
   "new_project_count": 104,
   "cancellation_count": 19,
   "sec_filing_count": 0,
-  "high_confidence_count": 199,
+  "high_confidence_count": 198,
   "findings": [
     {
       "id": "8667c7a204a16f",
@@ -42,6 +42,26 @@
         "2GW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5aa22b8ceb3412",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-27",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$400 billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -115,8 +135,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "1.8GW",
-        "12.7GW"
+        "12.7GW",
+        "1.8GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -394,6 +414,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "efb9f75def6ece",
+      "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-07-27",
+      "summary": "Google Cloud is now providing high-performance computing infrastructure for NOAA’s supercomputing system.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -7604,13 +7641,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e75d5e7841c044",
-      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag - Bloomberg.com",
+      "id": "9450d236dbe795",
+      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZqODJUOGhvd3IwcHlMOGNJeEVlLVZCRU9hNlpoazFjcDYyOUFtVGdHSE5iZ2h2cm1DQmdTTl95OVo0Rl9YRHZJcXpQQ0M1aTZncE4wWE9KWmFKS2FtdFJBUTRTZ3JlazRZaEhSaFVCRzdEMkpOcXdiSzNsanQ2UHpfQ1BQTUdfQ24xUlVfVXoyZXhza25sV0xMbXRBMW4zWk5oZ05vQ1BkcmE3ZUZxMl9B?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-13",
-      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag &nbsp;&nbsp; Bloomberg",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -7662,6 +7699,27 @@
       ],
       "amounts": [
         "$50 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e75d5e7841c044",
+      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZqODJUOGhvd3IwcHlMOGNJeEVlLVZCRU9hNlpoazFjcDYyOUFtVGdHSE5iZ2h2cm1DQmdTTl95OVo0Rl9YRHZJcXpQQ0M1aTZncE4wWE9KWmFKS2FtdFJBUTRTZ3JlazRZaEhSaFVCRzdEMkpOcXdiSzNsanQ2UHpfQ1BQTUdfQ24xUlVfVXoyZXhza25sV0xMbXRBMW4zWk5oZ05vQ1BkcmE3ZUZxMl9B?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-13",
+      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag &nbsp;&nbsp; Bloomberg.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$250 Billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10509,64 +10567,6 @@
       "locations": [],
       "amounts": [
         "$13 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0dea55379347e1",
-      "title": "Varcoe: Meta unveils massive $13B, gigawatt-scale development in Alberta, Canada's largest data centre - Calgary Herald",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcHJYc0dldGtfYktmX2RvaF9RRmlOY2t2UVdzZGc3UDRSbDRFZFVSaEY1aFVuR29fNEV5NWhVMndQc2J2T0xCdlE4SkNBbDdZSGRIMXgyQ0VmbnNzem1sREV4WlZOUnRhTEc0NjlJOTFwOXM5WC1JazlKR19aWERWY2g1MzVMZEdQTkZLM2ZSZ3czMmlNX0EwNzZvamtZT2ZjYkVOcHlYbEhZb085ZkU3RFdiYTBRd2w2Qi15UW03R01FR3hhMGY3OTY4OFBEM29iaURpNF9wRlRtTlZv?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Varcoe: Meta unveils massive $13B, gigawatt-scale development in Alberta, Canada's largest data centre &nbsp;&nbsp; Calgary Herald",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "$13B",
-        ", gigawatt"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c749475da022d3",
-      "title": "Meta Invests Another Tens of Billions in Data Center Construction; GPT-5.6 Confirmed to Launch Thursday | Global Markets - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUppNnM1bUs0aE5aODU0V1pKNHBOa3dJM1YzeFZyOVdrVElSb2ZsM3UwLUpQT0VyNkZnLUZzWkRrOXppc1k1QUZkTXNZS2FVUXBBS0MtMVdxYmRlaTY1X0phMGJhNnU4aFp2ZmFUaVZMR0dpNllLaFNEcXhTMDNVTVFjOTlLQ1ljOHhKalB3RE4yVzVyaUJ6SWFOQlJyRFRIb21GVndrYjg4dw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Meta Invests Another Tens of Billions in Data Center Construction; GPT-5.6 Confirmed to Launch Thursday | Global Markets &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "eae3c768763069",
-      "title": "Meta investing $13B in massive new Alberta data centre - CityNews Edmonton",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVhFWDhfeFY4c19fZ3FJR3N6SkFTcGh0QnVQYjVnVjl3OExxdTRVUUxiclBLbjhxbzZoN0VLVHNBZlRhdGk2dVRhRDU3aU90eTEzZTlFSWw2d1g3bzZNZ2xpMVUyVE5ES2hObzVFX2lHNzYxalhmaG5ZS0dBRVh3eldmVDFMSDZsUHQzWFp0ZldDNlJtZFpSNEZR?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Meta investing $13B in massive new Alberta data centre &nbsp;&nbsp; CityNews Edmonton",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13B"
       ],
       "confidence": 6,
       "is_high_confidence": true
