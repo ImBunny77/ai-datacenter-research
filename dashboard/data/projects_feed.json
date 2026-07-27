@@ -1,11 +1,80 @@
 {
-  "last_updated": "2026-07-27T07:32:38.759650+00:00",
+  "last_updated": "2026-07-27T11:23:05.088910+00:00",
   "finding_count": 600,
   "new_project_count": 105,
   "cancellation_count": 18,
   "sec_filing_count": 0,
-  "high_confidence_count": 207,
+  "high_confidence_count": 208,
   "findings": [
+    {
+      "id": "479bac2f4317c7",
+      "title": "Nvidia and SK Group announce $500bn AI agreement, includes 2GW of data center capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-and-sk-group-announce-500bn-ai-agreement-includes-2gw-of-data-center-capacity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-27",
+      "summary": "First AI factory slated to come online in 2027 alongside broader memory partnership",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "2GW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6c66d58ab90f02",
+      "title": "Verizon signs $1bn fiber deal with Google to connect hyperscaler's data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/verizon-signs-1bn-fiber-deal-with-google-to-connect-hyperscalers-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-27",
+      "summary": "CEO Dan Sculman hints that more deals will come",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a5d1c6aef6173d",
+      "title": "Gigawatt-scale data center campus planned outside Atlanta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-campus-planned-outside-atlanta-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-27",
+      "summary": "Stillwater is behind 15-building project",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Georgia",
+        "Atlanta"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a2d28421ded86b",
+      "title": "New Zealand's Green Party calls for one-year moratorium on new AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/httpswwwdatacenterdynamicscomennewsnew-york-becomes-first-us-state-to-enact-data-ce/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-27",
+      "summary": "Leader argues that rules need to be written before the concrete is poured",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
     {
       "id": "44d866d0f336b0",
       "title": "Nvidia is putting its Vera CPUs to work alongside AI agents to speed up chip design",
@@ -314,8 +383,8 @@
         "Brazil"
       ],
       "amounts": [
-        "$500m",
-        "5MW"
+        "5MW",
+        "$500m"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -334,8 +403,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$7B",
-        "$7 billion"
+        "$7 billion",
+        "$7B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -504,36 +573,6 @@
       "locations": [
         "Pennsylvania"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "64c318cf13adc4",
-      "title": "PJM grid hit by voltage disturbance after data center load abruptly drops offline - report",
-      "url": "https://www.datacenterdynamics.com/en/news/pjm-grid-hit-by-voltage-disturbance-after-data-center-load-abruptly-drops-offline-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "Reportedly took ten minutes for the grid to stabilize",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "874bf0dffaed09",
-      "title": "Intel posts fastest YoY growth since 2011, with Q2 2026 revenue totaling $16.1bn",
-      "url": "https://www.datacenterdynamics.com/en/news/intel-posts-fastest-yoy-growth-since-2011-with-q2-2026-revenue-totaling-161bn/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "Chipmaker’s data center segment once again posted strongest growth, while Intel Foundry continues to operate at a loss",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -739,6 +778,36 @@
       "is_high_confidence": false
     },
     {
+      "id": "64c318cf13adc4",
+      "title": "PJM grid hit by voltage disturbance after data center load abruptly drops offline - report",
+      "url": "https://www.datacenterdynamics.com/en/news/pjm-grid-hit-by-voltage-disturbance-after-data-center-load-abruptly-drops-offline-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-24",
+      "summary": "Reportedly took ten minutes for the grid to stabilize",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "874bf0dffaed09",
+      "title": "Intel posts fastest YoY growth since 2011, with Q2 2026 revenue totaling $16.1bn",
+      "url": "https://www.datacenterdynamics.com/en/news/intel-posts-fastest-yoy-growth-since-2011-with-q2-2026-revenue-totaling-161bn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-24",
+      "summary": "Chipmaker’s data center segment once again posted strongest growth, while Intel Foundry continues to operate at a loss",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9ce9da1fca6e31",
       "title": "How Amazon uses water and energy responsibly in its data centres in India - About Amazon India",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VRkRlTWVpbUVPZDJNUm9NbGNNQlJiMDE3azZnbDlaam56bFdjOEg4cXY4cWhNYUtTRjJVbmZQYkplMjQ5NWplRGN3NkhRR25fX2k5czZ2WlhZQVhWLWZiVFc0Z0FWNzFqdHIzTl9OaDlBcEdZT01FdUdNNWVmZw?oc=5",
@@ -788,23 +857,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "65e697d7b7c91f",
-      "title": "Gdańsk University of Technology in Poland submits bid to host Gaia AI Factory",
-      "url": "https://www.datacenterdynamics.com/en/news/gda%C5%84sk-university-of-technology-in-poland-submits-bid-to-host-gaia-ai-factory/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "Bid made by the institution’s Tricity Academic Computer Network IT Center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Poland"
-      ],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "47b4f3bbcf3056",
       "title": "AMD targets AI PCs to curb agentic AI costs as enterprises rethink cloud token economics",
       "url": "https://siliconangle.com/2026/07/24/enterprise-ai-pcs-amdadvancingai/",
@@ -830,6 +882,23 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "65e697d7b7c91f",
+      "title": "Gdańsk University of Technology in Poland submits bid to host Gaia AI Factory",
+      "url": "https://www.datacenterdynamics.com/en/news/gda%C5%84sk-university-of-technology-in-poland-submits-bid-to-host-gaia-ai-factory/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-24",
+      "summary": "Bid made by the institution’s Tricity Academic Computer Network IT Center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
@@ -6159,8 +6228,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10513,72 +10582,6 @@
       "summary": "The AI infrastructure boom has trained the industry&#8217;s attention on silicon and power, but a more fundamental constraint within the capital stack is quietly throttling the speed of global data center deployment. As demand for AI compute continues to outpace infrastructure availability, a growing number of data center developers are stalling not because they lack megawatts [&#8230;] \n The post  Argentum targets the capital stack as the missing layer in AI infrastructure buildout  appeared fi",
       "finding_type": "New Project",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e6234030618ea0",
-      "title": "Ares invests in Sabey Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/ares-invests-in-sabey-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-08",
-      "summary": "Company gains third investor, capital set to fund build-out",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d6efe2c29bf4d5",
-      "title": "Meta to spend $13-billion to build AI data centre in Alberta - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2IwcU1Vb2I5QkZjZ3RnbTd4NXZyOUZRYmh0QTl3LVdQaUE5b2hUOWpQYlNIQnltZzdJTlc0c0c0RFBlTWxTaWNVcU1hRUU3elNKbTM5RUVVUVN5eDVrM1FMV3VuU1FUY3R4aDRPekNDYlFPSTUyaUxTUjZ5dm1fc21PSE1JUUZJRmFUM25BVlZJSjhwTjZJMg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Meta to spend $13-billion to build AI data centre in Alberta &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "31f4c9a4116a8b",
-      "title": "Alberta lands $13-billion Meta data centre project - Creston Valley Advance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1JCZHVSbEZKN0dlQlNsZnBIb0RlSnAwcm5QOGRkc1ZhMC1nVy1UdExXZm1CWHlpbUJfWUg2ZGEzOGgxNnJVaFQ0dDJIRm11aDQ5eGJ5THN3OHVXZlB1eVVBdERKMzh5eXRsV3hpNExyMUpBbi1ySFRFWjZTOFFVd001Z3pmLU9mSW90dGs2ZXhQMGhIZVV6WA?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Alberta lands $13-billion Meta data centre project &nbsp;&nbsp; Creston Valley Advance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b46482d67f37a6",
-      "title": "Alberta lands $13-billion Meta data centre project - Vanderhoof Omineca Express",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV013TWNJM0hWb1o3bVRsaDd6QV9hd1U1YXJiOWZ4STFCU1JXMnJJUnpPVFF5SXQ5anh3cFdQNk1wRVB6OTI4X0RkTmVOVUl4SzBYNEd6VmJYdFRYdnY1SHhuUzRVcDJDekZ0bk82Y1VEeE1uUEdvRWRsbThoUTZaZl9PaTNESW1wcmljeFZDUVdvdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-08",
-      "summary": "Alberta lands $13-billion Meta data centre project &nbsp;&nbsp; Vanderhoof Omineca Express",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
