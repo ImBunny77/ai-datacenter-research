@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-29T17:15:44.466621+00:00",
+  "last_updated": "2026-07-29T19:17:34.262016+00:00",
   "finding_count": 600,
-  "new_project_count": 84,
+  "new_project_count": 85,
   "cancellation_count": 24,
   "sec_filing_count": 0,
-  "high_confidence_count": 191,
+  "high_confidence_count": 192,
   "findings": [
     {
       "id": "4dcd0ccbf37b53",
@@ -69,6 +69,23 @@
         "8GW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c5ce6fef274891",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-29",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$100 billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -162,8 +179,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$410m",
-        "$650m"
+        "$650m",
+        "$410m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -369,15 +386,54 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0a1d4fee410f4",
-      "title": "Sponsored: Phononic Thermal Control Kits unlock performance, efficiency, and asset life in AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/product-news/phononic-thermal-control-kits-unlock-performance-efficiency-and-asset-life-in-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "bc9ed757f41d82",
+      "title": "Google begins global rollout of age verification API in Google Play",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-07-29",
-      "summary": "By leveraging intelligent, closed-loop control architecture, the Thermal Control Kit moves beyond precision cooling to provide predictive, workload-aware optimization",
+      "summary": "Google's new API relies on parents to set age ranges in Family Link.",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6eb35bfb5839f4",
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-29",
+      "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [
+        "Minnesota"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1d97f4dc2f15c9",
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-29",
+      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Anthropic"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -412,6 +468,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a0a1d4fee410f4",
+      "title": "Sponsored: Phononic Thermal Control Kits unlock performance, efficiency, and asset life in AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/product-news/phononic-thermal-control-kits-unlock-performance-efficiency-and-asset-life-in-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-29",
+      "summary": "By leveraging intelligent, closed-loop control architecture, the Thermal Control Kit moves beyond precision cooling to provide predictive, workload-aware optimization",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -516,13 +587,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "793ae718ff98a9",
-      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWpuMGFrU2NCMHJUMFl5aDREMDBSUlY5LS1WVzBuZzRWVkZUQU5yaHUyMkMtUVpzQkZKLUhidDdWSF9WOEhzeVR1UVJ2OW5jcGpQbS0xNFprZkUwZDRUZm5DU2J1Und2Qk5qaUJ2c21yMnRaS3poOS1JN3pkcTlIV084WWxfVVUxaWgyUFFQbURITV9TbS1pTNIBngFBVV95cUxNRFVCT05jU0JxYXF1RkZDTkxNcXJ6SG5meWdNNEhBUXRDdEJJeXRMeW9ZSGYtb1pjYU0zYTM2c194YzBJXzl6T1Jsa3V4Vy1XM1dBTWV5X1drZHBRTENnSzVJSWRnZzJieVJTVzQtWlhhTnlrYWpTSEh2MGV6ek5IVXpfUHdHZU5saUVoVDF2Skp2YlEyNmw5cmlXOW1YZw?oc=5",
+      "id": "14278feb603b8d",
+      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture &nbsp;&nbsp; CNBC",
+      "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -535,13 +606,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "14278feb603b8d",
-      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeFFVejhlUVFTb0tQRDZmbXVMRHZJT0JtQXZzaVR6YkV2bk1vTldRVFNRd0RIUEJWdlpQWVQ3Wm56UWVSN205bmtVUnBRUGxsSVhwNDhOSU5YM2NHSlZOQnpUWjhvR2NVT29YQzAxNWV5TG5OVm5pT214dGtVVS1hQ0RaUEZsT3RMaEY0bzFYS19iNTVLS1VfcHc1Tmg2V3ZJaGc?oc=5",
+      "id": "793ae718ff98a9",
+      "title": "Meta, BlackRock partner on $14 billion El Paso data center venture - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWpuMGFrU2NCMHJUMFl5aDREMDBSUlY5LS1WVzBuZzRWVkZUQU5yaHUyMkMtUVpzQkZKLUhidDdWSF9WOEhzeVR1UVJ2OW5jcGpQbS0xNFprZkUwZDRUZm5DU2J1Und2Qk5qaUJ2c21yMnRaS3poOS1JN3pkcTlIV084WWxfVVUxaWgyUFFQbURITV9TbS1pTNIBngFBVV95cUxNRFVCT05jU0JxYXF1RkZDTkxNcXJ6SG5meWdNNEhBUXRDdEJJeXRMeW9ZSGYtb1pjYU0zYTM2c194YzBJXzl6T1Jsa3V4Vy1XM1dBTWV5X1drZHBRTENnSzVJSWRnZzJieVJTVzQtWlhhTnlrYWpTSEh2MGV6ek5IVXpfUHdHZU5saUVoVDF2Skp2YlEyNmw5cmlXOW1YZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture &nbsp;&nbsp; Reuters",
+      "summary": "Meta, BlackRock partner on $14 billion El Paso data center venture &nbsp;&nbsp; CNBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -1600,7 +1671,7 @@
       "source": "Microsoft IR Blog",
       "source_cat": "Company IR",
       "date": "2026-07-27",
-      "summary": "Why security needs a new Cyber Stack — Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. Attackers can generate exploits faster,... \n The post  Rethinking security for the age of AI  appeared first on  The Official Microsoft Blog .",
+      "summary": "Why security needs a new cyber stack — Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what must be secured continues to grow. Attackers can generate exploits faster,... \n The post  Rethinking security for the age of AI  appeared first on  The Official Microsoft Blog .",
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Microsoft"
@@ -1714,23 +1785,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "644bae0d535bf4",
-      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-27",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "671d3e054d441e",
       "title": "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-july-27-2026/",
@@ -1775,6 +1829,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "644bae0d535bf4",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-07-27",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -7019,8 +7090,8 @@
       "id": "a313d8e2f2b3da",
       "title": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on - Houston Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLThLNWQ4cVhBOTczY3NLa3I0QnN1QzR5OG9WM01uaFNHUGRBU0ctNkh1WWxocDJ1Y0dLRlZKRjdpbWc2TS1tN1JLYXpvSFJLU0tfOUY1LWpHNG9NbkU3YTJoSnZ0LTV2QTE4YlZ3UDFCekQxb3pQWUFRRGdpUU5RQTB3NUItb0FvLWxzYUJHOVoyQ0hOaGlERUEyV2Mtc0o0eFE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-07-16",
       "summary": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on &nbsp;&nbsp; Houston Chronicle",
       "finding_type": "Statement / Update",
@@ -8136,8 +8207,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10480,68 +10551,6 @@
         "OpenAI",
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2899fda63858dc",
-      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-10",
-      "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d9de27f002bdac",
-      "title": "Meeza completes data center expansion project for major hyperscaler",
-      "url": "https://www.datacenterdynamics.com/en/news/meeza-completes-data-center-expansion-project-for-major-hyperscaler/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-10",
-      "summary": "Claims to have delivered nine months ahead of schedule",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "994da0b2c45635",
-      "title": "Sponsored: The AI data center boom isn't facing a bottleneck",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-ai-data-center-boom-isnt-facing-a-bottleneck/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-10",
-      "summary": "… it's facing a convergence",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d628e51c809c6a",
-      "title": "SpaceX files FCC application for 100,000 Gen3 Starlink satellites",
-      "url": "https://www.datacenterdynamics.com/en/news/spacex-files-fcc-application-for-100000-gen3-starlink-satellites/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-10",
-      "summary": "New satellites aim to solve orbital data center downlink bottleneck",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
