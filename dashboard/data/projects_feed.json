@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T06:29:06.823411+00:00",
+  "last_updated": "2026-07-30T10:25:05.018281+00:00",
   "finding_count": 600,
   "new_project_count": 74,
   "cancellation_count": 24,
@@ -21,6 +21,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "52a916bc43a9de",
+      "title": "Vultr adds AMD Instinct MI455X GPUs to its cloud platform",
+      "url": "https://www.datacenterdynamics.com/en/news/vultr-adds-amd-instinct-mi455x-gpus-to-its-cloud-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-30",
+      "summary": "Two companies recently partnered with the University of Cambridge for a global environmental monitoring project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -163,6 +178,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "227775f18e26b4",
+      "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-29",
+      "summary": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments &nbsp;&nbsp; Lexington Herald Leader",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "$100B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "c1c07d92fc8a48",
       "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - kentucky.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
@@ -175,25 +209,6 @@
       "locations": [
         "Kentucky",
         "kentucky"
-      ],
-      "amounts": [
-        "$100B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "227775f18e26b4",
-      "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - Lexington Herald Leader",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-29",
-      "summary": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments &nbsp;&nbsp; Lexington Herald Leader",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
       ],
       "amounts": [
         "$100B"
@@ -215,8 +230,8 @@
         "North Carolina"
       ],
       "amounts": [
-        "$1.1m",
-        "9MW"
+        "9MW",
+        "$1.1m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -258,6 +273,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "e3a74bc988b78a",
+      "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists",
+      "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-29",
+      "summary": "OpenAI Group PBC today launched a program that will give 100,000 researchers free access to ChatGPT’s advanced features. ChatGPT for Academic Researchers is part of a $250 million OpenAI initiative designed to support scientific projects. The initiative also includes several other programs. Last May, OpenAI made $50 million worth of artificial intelligence resources available to [&#8230;] \n The post  OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$250 million",
+        "$50 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "02e4f6f2d1b1f0",
       "title": "AWS secures $410m compute agreement with Recursive Superintelligence",
       "url": "https://www.datacenterdynamics.com/en/news/aws-secures-410m-compute-agreement-with-recursive-superintelligence/",
@@ -273,26 +308,6 @@
       "amounts": [
         "$410m",
         "$650m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e3a74bc988b78a",
-      "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists",
-      "url": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-29",
-      "summary": "OpenAI Group PBC today launched a program that will give 100,000 researchers free access to ChatGPT’s advanced features. ChatGPT for Academic Researchers is part of a $250 million OpenAI initiative designed to support scientific projects. The initiative also includes several other programs. Last May, OpenAI made $50 million worth of artificial intelligence resources available to [&#8230;] \n The post  OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists  appeared first ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$50 million",
-        "$250 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -404,6 +419,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "d5805966a82351",
+      "title": "Beyond the rack: Reinventing high-efficiency infrastructure to power the next generation of hosting and online gaming",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/reinventing-high-efficiency-infrastructure-to-power-the-next-generation-of-hosting-and-online-gaming/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-29",
+      "summary": "Strategies for enhancing data center efficiency",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "81cc2632d70093",
       "title": "Rowan files for second building at data center campus in Temple, Texas",
       "url": "https://www.datacenterdynamics.com/en/news/rowan-files-for-second-building-at-data-center-campus-in-temple-texas/",
@@ -477,21 +507,6 @@
       "companies": [
         "SoftBank"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e6d5d5b5ea3ed4",
-      "title": "PJM files two plans with FERC in attempt to close data center power gap - report",
-      "url": "https://www.datacenterdynamics.com/en/news/pjm-files-two-plans-with-ferc-in-attempt-to-close-data-center-power-gap-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-29",
-      "summary": "Files to create a registry of data centers across footprint",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -629,6 +644,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e6d5d5b5ea3ed4",
+      "title": "PJM files two plans with FERC in attempt to close data center power gap - report",
+      "url": "https://www.datacenterdynamics.com/en/news/pjm-files-two-plans-with-ferc-in-attempt-to-close-data-center-power-gap-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-29",
+      "summary": "Files to create a registry of data centers across footprint",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -4704,6 +4734,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "796d8540665fc8",
+      "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-22",
+      "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; reuters.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "ad731cd5526c11",
       "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
@@ -4771,23 +4819,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "103987ae2ba1ed",
-      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-07-22",
-      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8193a280638787",
       "title": "Meta’s Infrastructure Team Needs A Culture Reset",
       "url": "https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a",
@@ -4832,6 +4863,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "103987ae2ba1ed",
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-07-22",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -6142,13 +6190,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7a9e079185554d",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
+      "id": "d8dd0fe7e938b1",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - thebulletin.org",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
       "source": "GNews: data center gigawatt nuclear power",
       "source_cat": "Infrastructure",
       "date": "2026-07-20",
-      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
+      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; thebulletin.org",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -6186,6 +6234,21 @@
         "Amazon",
         "OpenAI"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7a9e079185554d",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
+      "source": "GNews: data center gigawatt nuclear power",
+      "source_cat": "Infrastructure",
+      "date": "2026-07-20",
+      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -6412,13 +6475,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a8d37e57bf03c5",
-      "title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - mlive.com",
+      "id": "926d6f026f9f12",
+      "title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUdQVEhwWHIyVkF2MzJKNmlMSGY4N25nekxNNFBSQ3BCSG5GM1BfZWJZRnM0Yi1zRmpzVjMwQ19fTnBSN1o3Ylp5VG9PemhKTGhwa19mMUFJZERuclhydWx0YXBFbGxKT2NsYkN6bldfUFNsVkpIWU4wUGZMVnF0cTFabUVZQ09hOWxkNEZsVG9GRGpEYlZ6RGlCYzB3YUxERDY4WjFxTWRuTXVLSjBZV2NjOUZNcmcxMldMVTZFdzVOaE9ZakNSUFJDUDRDUDBrejJCWXoxU3ZEUUlpa2I3WtIB9AFBVV95cUxNYm4xazBYWnFUbERMMnVQM2pGMllhS2RXU3VZRXU3OGMyOGZxSUlybGF2TWZCOVN2aHBBN1F6a2xUUkNHa1l5TGNXZ1A0UzNCV2ZOeGpfcWFIbEFCM0JvdXRiVzNMbU52QnZlMjU4dUNhYWJyaW5QeU92X0Y3VVhNVkpsMFZrVVdudGpkY3lQZ3NSSUhKTTRJQWxCUXJMQUtEWFZWN0F0bk1ubjRPak1XYXBqTlNhc0ZzS2hhVlFqMzBpVGxOaEJzcTZqdUZnTGh0MXhUelYzRmYySVhiRWU3SzZnZDBCOFZaZEVxZEpEcEtFQlF1?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-07-18",
-      "summary": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor &nbsp;&nbsp; mlive.com",
+      "summary": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor &nbsp;&nbsp; MLive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Oracle",
@@ -6432,13 +6495,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "926d6f026f9f12",
-      "title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - MLive.com",
+      "id": "a8d37e57bf03c5",
+      "title": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor - mlive.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUdQVEhwWHIyVkF2MzJKNmlMSGY4N25nekxNNFBSQ3BCSG5GM1BfZWJZRnM0Yi1zRmpzVjMwQ19fTnBSN1o3Ylp5VG9PemhKTGhwa19mMUFJZERuclhydWx0YXBFbGxKT2NsYkN6bldfUFNsVkpIWU4wUGZMVnF0cTFabUVZQ09hOWxkNEZsVG9GRGpEYlZ6RGlCYzB3YUxERDY4WjFxTWRuTXVLSjBZV2NjOUZNcmcxMldMVTZFdzVOaE9ZakNSUFJDUDRDUDBrejJCWXoxU3ZEUUlpa2I3WtIB9AFBVV95cUxNYm4xazBYWnFUbERMMnVQM2pGMllhS2RXU3VZRXU3OGMyOGZxSUlybGF2TWZCOVN2aHBBN1F6a2xUUkNHa1l5TGNXZ1A0UzNCV2ZOeGpfcWFIbEFCM0JvdXRiVzNMbU52QnZlMjU4dUNhYWJyaW5QeU92X0Y3VVhNVkpsMFZrVVdudGpkY3lQZ3NSSUhKTTRJQWxCUXJMQUtEWFZWN0F0bk1ubjRPak1XYXBqTlNhc0ZzS2hhVlFqMzBpVGxOaEJzcTZqdUZnTGh0MXhUelYzRmYySVhiRWU3SzZnZDBCOFZaZEVxZEpEcEtFQlF1?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-07-18",
-      "summary": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor &nbsp;&nbsp; MLive.com",
+      "summary": "Township changes course, nixing cap on tax break for $43B Oracle, OpenAI data center near Ann Arbor &nbsp;&nbsp; mlive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Oracle",
@@ -8569,8 +8632,8 @@
         "Louisiana"
       ],
       "amounts": [
-        "$50 billion",
-        "5 GW"
+        "5 GW",
+        "$50 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -8897,6 +8960,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "3f9178ddb0ba77",
+      "title": "New York becomes the first state to impose a data center moratorium - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VqV09jX0hhZXQxRXpwaGRHbnY1SmdGT1RMYVEyM1pBaWtyNlBoaTBKYWpCRlMyWHQzMFVCUTFyakRMaDlhTkJpWUtMQThfeFlPQml2RHRUbVJTQmVWMjRvb2w5al9CeW1iQzJ5dkVLUlJHaWZMcXNRbUxZSGdIX2VrZkhKSWplczI1Rlc5d1puZng2Mkc3SXdYM2VYUER4Vnc?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-07-14",
+      "summary": "New York becomes the first state to impose a data center moratorium &nbsp;&nbsp; reuters.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "157f470b6b1889",
       "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
@@ -8912,13 +8992,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "26f94b4475d616",
-      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - governor.ny.gov",
+      "id": "1101dadcaa20bc",
+      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - Governor Kathy Hochul (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTi1VZXJiUmpmWUpRSjBKZ1pQYkxxcFhveHVnZ0JTVUdYMzhCT2NFbzNQVFdDM1ItQ2JPNVh0c3Y1eXVIOGd3WmU3QjV0NlZWdktvRTJ0SnloNWxGeXBIcG8xVFBvaW1pWnZmcURKNDhUSS01MUplS3RpV3pmYTZQNDRsMFh6VnZSaDBoT2tvY0tPM1N2Z3A4MXZobVBCU3pWa1RaNEtNV19HaHZobmZHSmd0TUZkRGJTa3c?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-07-14",
-      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; governor.ny.gov",
+      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; Governor Kathy Hochul (.gov)",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8942,13 +9022,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1101dadcaa20bc",
-      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - Governor Kathy Hochul (.gov)",
+      "id": "26f94b4475d616",
+      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - governor.ny.gov",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTi1VZXJiUmpmWUpRSjBKZ1pQYkxxcFhveHVnZ0JTVUdYMzhCT2NFbzNQVFdDM1ItQ2JPNVh0c3Y1eXVIOGd3WmU3QjV0NlZWdktvRTJ0SnloNWxGeXBIcG8xVFBvaW1pWnZmcURKNDhUSS01MUplS3RpV3pmYTZQNDRsMFh6VnZSaDBoT2tvY0tPM1N2Z3A4MXZobVBCU3pWa1RaNEtNV19HaHZobmZHSmd0TUZkRGJTa3c?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-07-14",
-      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; Governor Kathy Hochul (.gov)",
+      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; governor.ny.gov",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9356,13 +9436,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "f5e811f087fdcb",
-      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - Reuters",
+      "id": "95af83eb0870ee",
+      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-13",
-      "summary": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion &nbsp;&nbsp; Reuters",
+      "summary": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion &nbsp;&nbsp; reuters.com",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -9384,6 +9464,27 @@
       "source_cat": "State/Gov",
       "date": "2026-07-13",
       "summary": "Meta expands Louisiana data center, investment to reach $50 billion &nbsp;&nbsp; KLFY.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [
+        "$50 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f5e811f087fdcb",
+      "title": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQnJpUGtNQXFzaExPZlhub1lVWlM1S01ya3VLVlo1dUlFMzZBcWF5Mm1KdXhPdmg0b0NJMVlseTNlMGRsWksxUnQ4UXFmQWpySGhOWEpiaGk5bHhsSFZ5X1VtRXVCQ0dLTG9FWGNlVDhKT1Z6c1F4TnRKaVNVVGw5dmxLOFdRTm5KdWc4VUM3dGR1LV8yanp2eDlRR2ZHU19ZMDJfcmxzN2RkZHlW?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-13",
+      "summary": "Meta expands Louisiana data center to 5 gigawatts, investment crosses $50 billion &nbsp;&nbsp; Reuters",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -10462,102 +10563,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "c46d3ee9001358",
-      "title": "Infineon, LS Electric partner on DC power infrastructure for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/infineon-ls-electric-partner-on-dc-power-infrastructure-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-13",
-      "summary": "Ink non-binding MoU to develop next-gen power systems",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "72294da4b488bb",
-      "title": "Rising chip temperatures and the transformation of data center cooling",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/rising-chip-temperatures-and-the-transformation-of-data-center-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-13",
-      "summary": "Navigate the future of AI cooling by matching heat rejection technologies to chip temperatures, climate, and long-term efficiency goals",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dd5b53fb901774",
-      "title": "ECL, PowerCell partner to deploy hydrogen fuel cell power systems across US data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/ecl-powercell-partner-to-deploy-hydrogen-fuel-cell-power-systems-across-us-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-13",
-      "summary": "Will deploy fuel cells at ECL's Santa Clara data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "560072ec9475a9",
-      "title": "First Nation opposes plan for AI data center in Pocatello, Idaho",
-      "url": "https://www.datacenterdynamics.com/en/news/first-nation-opposes-plan-for-ai-data-center-in-pocatello-idaho/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-13",
-      "summary": "Concerns raised over environmental impact and potential for rising energy bills",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Idaho"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b2bdf2ee965fd4",
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-13",
-      "summary": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ba92b10615b3d2",
-      "title": "Meta Announces CA$13 Billion Data Center Project in Sturgeon County, Alberta - Construction Owners",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVVaS09ya0RDVWlxZ01EYjR4dEp1aEVOanc5OWlvcDlWWUFQZENEbkVLZjBMZWtKQVVPbGdGTHpKRzNHdGZRYnNwUHpZZXJaTVdhT01lYURVN2JCaUtfaHlKbldBNnRrT29LN1FMMDBqZXJTQmtEczZhS2hsTEo0NVRCWDBlcUpoZW93dkk1WVZpQWVTNTB1bWh1TEVPR2dkeWExVmoxUVJDUGZqZlBlckZob21TY2VOMzVob2pn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-12",
-      "summary": "Meta Announces CA$13 Billion Data Center Project in Sturgeon County, Alberta &nbsp;&nbsp; Construction Owners",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
     }
   ]
 }
