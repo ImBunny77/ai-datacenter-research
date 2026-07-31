@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-31T06:44:15.050697+00:00",
+  "last_updated": "2026-07-31T10:40:00.941277+00:00",
   "finding_count": 600,
   "new_project_count": 81,
   "cancellation_count": 24,
-  "sec_filing_count": 0,
-  "high_confidence_count": 179,
+  "sec_filing_count": 1,
+  "high_confidence_count": 172,
   "findings": [
     {
       "id": "070f68e6112803",
@@ -28,6 +28,84 @@
       "is_high_confidence": true
     },
     {
+      "id": "e11227a4109194",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-07-31",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "055d964b535e17",
+      "title": "LG says it will invest additional $910m in 200MW data center near Seoul",
+      "url": "https://www.datacenterdynamics.com/en/news/lg-says-it-will-invest-additional-910m-in-200mw-data-center-near-seoul/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Firm doubles previously stated data center investment",
+      "finding_type": "Expansion",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$910m",
+        "200MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "537631477e3d34",
+      "title": "Nebius reports 32x emissions jump in a year on back of data center growth",
+      "url": "https://www.datacenterdynamics.com/en/news/nebius-reports-32x-emissions-jump-in-a-year-on-back-of-data-center-growth/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Yet to publish quantified targets for emissions reduction and resource use",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "33f3eb6e472e1c",
+      "title": "DCD Talks: Driving efficient water usage through closed-loop cooling with Tuan Hoang, Schneider Electric",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-talks-driving-efficient-water-usage-through-closed-loop-cooling-with-tuan-hoang-schneider-electric/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Schneider Electric's Tuan Hoang speaks with DCD's Kat Sullivan on reducing data center water consumption through advanced cooling technologies and building more sustainable AI infrastructure.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d5d35b00baa0b4",
+      "title": "The AI factory",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-ai-factory/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Data centers at the heart of the action",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "678b7527a1ac24",
       "title": "LinkedIn cracks down on users posting ‘AI slop’ after previously encouraging it",
       "url": "https://siliconangle.com/2026/07/31/linkedin-cracks-users-posting-ai-slop-previously-encouraging/",
@@ -45,6 +123,36 @@
       "is_high_confidence": false
     },
     {
+      "id": "29a3c8938d140a",
+      "title": "CleanCore Solutions signs on Cerebras under 10-year colocation agreement",
+      "url": "https://www.datacenterdynamics.com/en/news/cleancore-solutions-signs-on-cerebras-under-10-year-colocation-agreement/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Cerebras also selected to power CrowdStrike's AI security platform",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f2943489c210cc",
+      "title": "Sponsored: AI infrastructure doesn’t come with a standard blueprint",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/ai-infrastructure-doesnt-come-with-a-standard-blueprint/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-31",
+      "summary": "Building the right network architecture starts with asking the right questions",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "53df1ba21c30ed",
       "title": "Apple’s stock slides as it blames supply chain constraints for its weak guidance",
       "url": "https://siliconangle.com/2026/07/30/apples-stock-slides-blames-supply-chain-constraints-weak-guidance/",
@@ -58,6 +166,23 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "cf44693b505b07",
+      "title": "DOE announces $100 billion investment for Paducah data center development - WHOP Radio – Hopkinsville, KY",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzI0Z2t3eEhZX0tnak45Sk9pNFdzWW9xVTBRLTZuUDdZY0tSa3RVV095amdhZlNFSVpQUkUtWnpaTGJBblRSUktCR2RkdVpnMXlLTHFOSXMwckNPbmtiRWZIMWZTejViS01sU3JLdlBXR3RpRnk5X0tEeDNEb2dSX2tkaUtTMGlhYl9QaXJ3UXRLYllzZi1fNzVZYmlKYUxMSC0yM3Nn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-30",
+      "summary": "DOE announces $100 billion investment for Paducah data center development &nbsp;&nbsp; WHOP Radio – Hopkinsville, KY",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$100 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "9c2ad2e1e073de",
@@ -154,6 +279,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "41179364ebc288",
+      "title": "Cantina launches with $8M to take security work from triage to verified fix",
+      "url": "https://siliconangle.com/2026/07/30/cantina-launches-8m-take-security-work-triage-verified-fix/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-30",
+      "summary": "Agentic security startup Cantina formally launched today and said it has raised $8 million in funding to automate the security work that happens after a vulnerability is found. The company was started by security researchers and engineers who spent years finding flaws in widely used software and defending against attacks on it. Its platform runs [&#8230;] \n The post  Cantina launches with $8M to take security work from triage to verified fix  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$8M",
+        "$8 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "b1c426791f22b8",
       "title": "Beetaloo Energy partners with Halliburton to develop natural gas plant for proposed data center in Australia - report",
       "url": "https://www.datacenterdynamics.com/en/news/beetaloo-energy-partners-with-halliburton-to-develop-natural-gas-plant-for-proposed-data-center-in-australia-report/",
@@ -187,26 +332,6 @@
       ],
       "amounts": [
         "3.8MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "41179364ebc288",
-      "title": "Cantina launches with $8M to take security work from triage to verified fix",
-      "url": "https://siliconangle.com/2026/07/30/cantina-launches-8m-take-security-work-triage-verified-fix/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-30",
-      "summary": "Agentic security startup Cantina formally launched today and said it has raised $8 million in funding to automate the security work that happens after a vulnerability is found. The company was started by security researchers and engineers who spent years finding flaws in widely used software and defending against attacks on it. Its platform runs [&#8230;] \n The post  Cantina launches with $8M to take security work from triage to verified fix  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$8M",
-        "$8 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -261,14 +386,14 @@
       "is_high_confidence": false
     },
     {
-      "id": "67a9d9767cde4d",
-      "title": "Amazon.com Announces Second Quarter Results - ir.aboutamazon.com",
+      "id": "7016daef60ddf1",
+      "title": "Amazon.com Announces Second Quarter Results - Amazon Investor Relations",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZExYaC1BN1dHSmNVeXVxYjdmTVB1Mk9zQTkta2hBZUJKc2FuTWhmNmdPRngzcFF3MUtNc1U4ODBEc2wxYmVoVWZIemI1c1E1elh5OGs2N2RhUHZzdnN6S3RNUDlsYmZSQWpsdWgtSlVrRm9xWkVsZ2RhQ3pxbjRWeGdqMlJmM1g3WUZacmU5U0xVSkdpQklvRHdyU1JwWkhySEN0NW0xOWdabFZ5eFRn?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-30",
-      "summary": "Amazon.com Announces Second Quarter Results &nbsp;&nbsp; ir.aboutamazon.com",
-      "finding_type": "Statement / Update",
+      "summary": "Amazon.com Announces Second Quarter Results &nbsp;&nbsp; Amazon Investor Relations",
+      "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
@@ -293,14 +418,14 @@
       "is_high_confidence": false
     },
     {
-      "id": "7016daef60ddf1",
-      "title": "Amazon.com Announces Second Quarter Results - Amazon Investor Relations",
+      "id": "67a9d9767cde4d",
+      "title": "Amazon.com Announces Second Quarter Results - ir.aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZExYaC1BN1dHSmNVeXVxYjdmTVB1Mk9zQTkta2hBZUJKc2FuTWhmNmdPRngzcFF3MUtNc1U4ODBEc2wxYmVoVWZIemI1c1E1elh5OGs2N2RhUHZzdnN6S3RNUDlsYmZSQWpsdWgtSlVrRm9xWkVsZ2RhQ3pxbjRWeGdqMlJmM1g3WUZacmU5U0xVSkdpQklvRHdyU1JwWkhySEN0NW0xOWdabFZ5eFRn?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-30",
-      "summary": "Amazon.com Announces Second Quarter Results &nbsp;&nbsp; Amazon Investor Relations",
-      "finding_type": "New Project",
+      "summary": "Amazon.com Announces Second Quarter Results &nbsp;&nbsp; ir.aboutamazon.com",
+      "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
@@ -354,53 +479,6 @@
       "locations": [
         "Germany"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "771ce80221135a",
-      "title": "Google-backed fusion firm CFS raises $1bn in equity financing",
-      "url": "https://www.datacenterdynamics.com/en/news/google-backed-fusion-firm-cfs-raises-1bn-in-equity-financing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Has now raised $4bn, the most of any fusion company",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f9b3a54a30b630",
-      "title": "Chinese IT firm Maase could build data center in Kazakhstan with local telco",
-      "url": "https://www.datacenterdynamics.com/en/news/chinese-it-firm-maase-could-build-data-center-in-kazakhstan-with-local-telco/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Details of project murky",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3b753a75ca5382",
-      "title": "Sustainability benefits of prefabricated data centers: Core and shell carbon reduction",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/sustainability-benefits-of-prefabricated-data-centers-core-and-shell-carbon-reduction/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Explore 4 key findings on data center carbon reduction",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -502,6 +580,53 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "771ce80221135a",
+      "title": "Google-backed fusion firm CFS raises $1bn in equity financing",
+      "url": "https://www.datacenterdynamics.com/en/news/google-backed-fusion-firm-cfs-raises-1bn-in-equity-financing/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-30",
+      "summary": "Has now raised $4bn, the most of any fusion company",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f9b3a54a30b630",
+      "title": "Chinese IT firm Maase could build data center in Kazakhstan with local telco",
+      "url": "https://www.datacenterdynamics.com/en/news/chinese-it-firm-maase-could-build-data-center-in-kazakhstan-with-local-telco/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-30",
+      "summary": "Details of project murky",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3b753a75ca5382",
+      "title": "Sustainability benefits of prefabricated data centers: Core and shell carbon reduction",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/sustainability-benefits-of-prefabricated-data-centers-core-and-shell-carbon-reduction/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-07-30",
+      "summary": "Explore 4 key findings on data center carbon reduction",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -610,23 +735,6 @@
       "source_cat": "Announcement",
       "date": "2026-07-29",
       "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$100 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cf44693b505b07",
-      "title": "DOE announces $100 billion investment for Paducah data center development - WHOP Radio – Hopkinsville, KY",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZzI0Z2t3eEhZX0tnak45Sk9pNFdzWW9xVTBRLTZuUDdZY0tSa3RVV095amdhZlNFSVpQUkUtWnpaTGJBblRSUktCR2RkdVpnMXlLTHFOSXMwckNPbmtiRWZIMWZTejViS01sU3JLdlBXR3RpRnk5X0tEeDNEb2dSX2tkaUtTMGlhYl9QaXJ3UXRLYllzZi1fNzVZYmlKYUxMSC0yM3Nn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-29",
-      "summary": "DOE announces $100 billion investment for Paducah data center development &nbsp;&nbsp; WHOP Radio – Hopkinsville, KY",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -765,8 +873,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$50 million",
-        "$250 million"
+        "$250 million",
+        "$50 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1381,13 +1489,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e09013015d696e",
-      "title": "Meta, BlackRock announce $14 billion AI data center project in Texas - journalrecord.com",
+      "id": "c5ece33920cacc",
+      "title": "Meta, BlackRock announce $14 billion AI data center project in Texas - The Journal Record",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VbjlldHMyV05EeHUxZ1RNQ0dQMG5wQkxBVERpUmRhR1AxNndodFZLOFIzdHluQXhvWkpyTlY2aWN4eWJIZzRzdjZmYw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta, BlackRock announce $14 billion AI data center project in Texas &nbsp;&nbsp; journalrecord.com",
+      "summary": "Meta, BlackRock announce $14 billion AI data center project in Texas &nbsp;&nbsp; The Journal Record",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -1402,13 +1510,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c5ece33920cacc",
-      "title": "Meta, BlackRock announce $14 billion AI data center project in Texas - The Journal Record",
+      "id": "e09013015d696e",
+      "title": "Meta, BlackRock announce $14 billion AI data center project in Texas - journalrecord.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VbjlldHMyV05EeHUxZ1RNQ0dQMG5wQkxBVERpUmRhR1AxNndodFZLOFIzdHluQXhvWkpyTlY2aWN4eWJIZzRzdjZmYw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta, BlackRock announce $14 billion AI data center project in Texas &nbsp;&nbsp; The Journal Record",
+      "summary": "Meta, BlackRock announce $14 billion AI data center project in Texas &nbsp;&nbsp; journalrecord.com",
       "finding_type": "New Project",
       "companies": [
         "Meta"
@@ -1519,14 +1627,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "e33ad05e42019b",
-      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1JKTWVEQmpwc3Jxa1JJa01BZ0MweWhCOTdMTmlWdXBpaExQNzZyQUtaTk9qYkZLNHJuSkpBUFFoUG5wX3JORkVMWnJ4SXJXQld2QjFhV3ZCa0ZrTmlzVmFVdXUzMWRCdE5uOGJGai1KQXU2S1NNSThmclBEbWxESjBzNy1IWFFDQnhHVVNUam50NFpTRFhadDlTNkJlQko1SWllSHVHbXE5RDB5N2xldVd5aGpMUG14a0V0Z3M3d1BvalVLYXRIQjhYQ0p2ZUY2Nm1FYnJQUHk?oc=5",
+      "id": "ca4bea7aad8ce1",
+      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso - Meta Investor Relations",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMUVfYWxjWVFnZkkxREZUSjl2NG1YaGkwR1FUelRQall3MExWQkdhQTFoY25TUjhaRnY2dUUyeTFMR3lDN3VieVFKaEZsVkxTY2hTVVVWNWJUVGRqN3cyRFN4Tmk0elBINEx2SmprenNmVUpCZlFlZHRNbTdWbmdLeG5EejJDbEdLT0t4YkU3M2pMZlBYbHhnQ3hJc2ZUb1BVYlNza0NNNnVaVWNJNmpKSDlDQ3c5V054UDR1NnQwQ0ZpRkNmbkR6UUpJbmdNMXNaaUlvRHJuOGxQa0NNbnpfbEowVGZIaDBGenh0X3Rpc0t6eDhOQm93c1owQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; PR Newswire",
-      "finding_type": "Statement / Update",
+      "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Investor Relations",
+      "finding_type": "New Project",
       "companies": [
         "Meta"
       ],
@@ -1555,14 +1663,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "ca4bea7aad8ce1",
-      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso - Meta Investor Relations",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMUVfYWxjWVFnZkkxREZUSjl2NG1YaGkwR1FUelRQall3MExWQkdhQTFoY25TUjhaRnY2dUUyeTFMR3lDN3VieVFKaEZsVkxTY2hTVVVWNWJUVGRqN3cyRFN4Tmk0elBINEx2SmprenNmVUpCZlFlZHRNbTdWbmdLeG5EejJDbEdLT0t4YkU3M2pMZlBYbHhnQ3hJc2ZUb1BVYlNza0NNNnVaVWNJNmpKSDlDQ3c5V054UDR1NnQwQ0ZpRkNmbkR6UUpJbmdNMXNaaUlvRHJuOGxQa0NNbnpfbEowVGZIaDBGenh0X3Rpc0t6eDhOQm93c1owQQ?oc=5",
+      "id": "e33ad05e42019b",
+      "title": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1JKTWVEQmpwc3Jxa1JJa01BZ0MweWhCOTdMTmlWdXBpaExQNzZyQUtaTk9qYkZLNHJuSkpBUFFoUG5wX3JORkVMWnJ4SXJXQld2QjFhV3ZCa0ZrTmlzVmFVdXUzMWRCdE5uOGJGai1KQXU2S1NNSThmclBEbWxESjBzNy1IWFFDQnhHVVNUam50NFpTRFhadDlTNkJlQko1SWllSHVHbXE5RDB5N2xldVd5aGpMUG14a0V0Z3M3d1BvalVLYXRIQjhYQ0p2ZUY2Nm1FYnJQUHk?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Investor Relations",
-      "finding_type": "New Project",
+      "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; PR Newswire",
+      "finding_type": "Statement / Update",
       "companies": [
         "Meta"
       ],
@@ -4214,13 +4322,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "41e6ad833e70e6",
-      "title": "Alphabet hikes spending outlook in race to build AI data centres - The Business Times",
+      "id": "aad139d6858255",
+      "title": "Alphabet hikes spending outlook in race to build AI data centres - businesstimes.com.sg",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZHQU9GYkVFVWNMOGJHMWk1T240N1g3X1pkNUtpYzlHQ00waGE2SG5QMnRnRWZ3a3A3WXNkei05d3NRTmcxcWx5NXFPS3ByZmxyaUtSSnlmbTFmajVNN29aajVIYkFCdzdZTXhRNWpBZ0ZUWmFpVkFpNUFHeVZtWEU5bzhRYi1XQ0ZFbFRTQlR1VFNjYi13Z2syVlV2MUs2TlZYeUZqNHdzUlpKQWc?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-07-23",
-      "summary": "Alphabet hikes spending outlook in race to build AI data centres &nbsp;&nbsp; The Business Times",
+      "summary": "Alphabet hikes spending outlook in race to build AI data centres &nbsp;&nbsp; businesstimes.com.sg",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -4255,6 +4363,23 @@
       "source_cat": "Company IR",
       "date": "2026-07-23",
       "summary": "Learn more about Google for Startups Gemini Startup Forum and apply by August 28.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "41e6ad833e70e6",
+      "title": "Alphabet hikes spending outlook in race to build AI data centres - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZHQU9GYkVFVWNMOGJHMWk1T240N1g3X1pkNUtpYzlHQ00waGE2SG5QMnRnRWZ3a3A3WXNkei05d3NRTmcxcWx5NXFPS3ByZmxyaUtSSnlmbTFmajVNN29aajVIYkFCdzdZTXhRNWpBZ0ZUWmFpVkFpNUFHeVZtWEU5bzhRYi1XQ0ZFbFRTQlR1VFNjYi13Z2syVlV2MUs2TlZYeUZqNHdzUlpKQWc?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-23",
+      "summary": "Alphabet hikes spending outlook in race to build AI data centres &nbsp;&nbsp; The Business Times",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -6784,13 +6909,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d8dd0fe7e938b1",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - thebulletin.org",
+      "id": "7a9e079185554d",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
       "source": "GNews: data center gigawatt nuclear power",
       "source_cat": "Infrastructure",
       "date": "2026-07-20",
-      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; thebulletin.org",
+      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -6834,13 +6959,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7a9e079185554d",
-      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - Bulletin of the Atomic Scientists",
+      "id": "d8dd0fe7e938b1",
+      "title": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype - thebulletin.org",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenlEMlFFaWFmNlhvMjF1TnZXSkRldjM4R3ZiaVd6Wi1vVDhWWWdzUUUtR2lYRFdIN0JrY253ZW1RZFZBYTRPak4zbDNBOGxVZzQ2TmdLLWhFdzZZc1pWd25RTm14cF8yM2dUSkdvS1FZUUFfWDAyNUF2NXFNQkl4RVEwSGk0Q1NGRUFwSG5JT3k4dFZ4VkFEaWFMM3hrSTJlM2NiN0htNHc?oc=5",
       "source": "GNews: data center gigawatt nuclear power",
       "source_cat": "Infrastructure",
       "date": "2026-07-20",
-      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; Bulletin of the Atomic Scientists",
+      "summary": "Data centers powered by next-gen nuclear? Don’t fall for Big Tech’s PR hype &nbsp;&nbsp; thebulletin.org",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7220,6 +7345,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "7ba6670aadb159",
+      "title": "AWS breaks ground for new DC in Hyderabad, plans US$ 21 billion investment in India - w.media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWNDTWFEUjZPZlVzUk95bS1aV3pmTUpWa0FCZkxjREM2ZU5ucnlROFBjQzlDWUc2cjBUelMydWhWNDFYWXZ0OGNNb1hHV0pLSlFYOHhSSzl4ZUloVEVlckxJcmM0QnB2aHJkcUt0Uko5MnJmWlpvTmMyYXBTbWxJYjhsbDNCeF91SVMwb1dTWHJEbVpLdDJZT1FKZ29jSzQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-17",
+      "summary": "AWS breaks ground for new DC in Hyderabad, plans US$ 21 billion investment in India &nbsp;&nbsp; w.media",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "f3931eb8478158",
       "title": "AWS breaks ground for new DC in Hyderabad, plans US$ 21 billion investment in India - W.Media",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWNDTWFEUjZPZlVzUk95bS1aV3pmTUpWa0FCZkxjREM2ZU5ucnlROFBjQzlDWUc2cjBUelMydWhWNDFYWXZ0OGNNb1hHV0pLSlFYOHhSSzl4ZUloVEVlckxJcmM0QnB2aHJkcUt0Uko5MnJmWlpvTmMyYXBTbWxJYjhsbDNCeF91SVMwb1dTWHJEbVpLdDJZT1FKZ29jSzQ?oc=5",
@@ -7442,6 +7586,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "24299d0ab8041b",
+      "title": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tM0M3Slp1THpBdDBMamo4VnowbUNPek9sdHBubU1kZFJfRWd1VHBieEZIeHZONW1wZWswVFVxVGNwZnRrZ2JxSDNMbTdEcS1KaFd5S0JmZVNDUDFGZXRBeGU3X29TQ2U1NnVDUm1waGtzZlFYWkE?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-07-17",
+      "summary": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "650acbb379a35f",
       "title": "Michigan Gov. Seeks Pledge from Data Center Developers - RTO Insider",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY3RhQVhwckNkUi03QjRlQkNrSDhHZThvRU1WMS1YNEZjY3dRejlDZnRKc2lFTWlaeGhlTm5uemVPVy00aUtRTjJzY1FjbVpXeFFVaWZoUFVlT3pPaFBLWUw0R3JRRW0taUdGa0xsd1Z4ZUotSDFZZWNPLXJneWhnWWg2TDBvWEh3eEtLcGdJbGZVQQ?oc=5",
@@ -7471,23 +7632,6 @@
       "locations": [
         "Michigan"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "24299d0ab8041b",
-      "title": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tM0M3Slp1THpBdDBMamo4VnowbUNPek9sdHBubU1kZFJfRWd1VHBieEZIeHZONW1wZWswVFVxVGNwZnRrZ2JxSDNMbTdEcS1KaFd5S0JmZVNDUDFGZXRBeGU3X29TQ2U1NnVDUm1waGtzZlFYWkE?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-07-17",
-      "summary": "SpaceX Targets Pentagon AI Cloud Deal, Threatens CoreWeave With Price War &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8155,6 +8299,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1ba259c339f8e6",
+      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-07-16",
+      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "144c5c50f182e0",
       "title": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on - houstonchronicle.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLThLNWQ4cVhBOTczY3NLa3I0QnN1QzR5OG9WM01uaFNHUGRBU0ctNkh1WWxocDJ1Y0dLRlZKRjdpbWc2TS1tN1JLYXpvSFJLU0tfOUY1LWpHNG9NbkU3YTJoSnZ0LTV2QTE4YlZ3UDFCekQxb3pQWUFRRGdpUU5RQTB3NUItb0FvLWxzYUJHOVoyQ0hOaGlERUEyV2Mtc0o0eFE?oc=5",
@@ -8231,23 +8392,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -9620,6 +9764,36 @@
       "is_high_confidence": false
     },
     {
+      "id": "1101dadcaa20bc",
+      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTi1VZXJiUmpmWUpRSjBKZ1pQYkxxcFhveHVnZ0JTVUdYMzhCT2NFbzNQVFdDM1ItQ2JPNVh0c3Y1eXVIOGd3WmU3QjV0NlZWdktvRTJ0SnloNWxGeXBIcG8xVFBvaW1pWnZmcURKNDhUSS01MUplS3RpV3pmYTZQNDRsMFh6VnZSaDBoT2tvY0tPM1N2Z3A4MXZobVBCU3pWa1RaNEtNV19HaHZobmZHSmd0TUZkRGJTa3c?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-07-14",
+      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; Governor Kathy Hochul (.gov)",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "30221930d87e93",
+      "title": "Massive data center buildout poses latest inflation threat for consumers - PBS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRG1hS3RoTnFiVzl0a09xVkpLdDFqQWlhekhLSXEwNGlsdmpoTlVxMk5SN3V3dExqSThPdG5RLWNDdC0wTlY4azVqLTNlUjlPRks1RHZ5OVBEZlpOeXVOdFh3SzJqV2FQZ1o0bG4yVkRxOXp3WTBKNkZnbFd6dFQ5Nk9mU0RabVpCQVhtbzhhVV81eFVvUkw3N1Z0RkdPd04zN1p2eEtKcGd1OXBFZ0HSAbMBQVVfeXFMT1J4WlZsRXMzeWZ1dU9fRDUwd3pvR0ZYd2lnaDVES2d6OHRzS1g5RllNbGZMZGszQjRuTE02MTVUX2ZfMDNsUTdXZ19qSnFfN2hjQ1dyVHRqS3lmeUFIeTlxSjYtY2VwVk5wVmpNRjJ1LTJjRzFuaWxHQm9GUVhmMWJPMVpLeTQzSFZ0czUtWkVqcExqaVNaWG9reXpQT3dSand5TUlYN2hlNE5NYUpSWUVNN28?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-14",
+      "summary": "Massive data center buildout poses latest inflation threat for consumers &nbsp;&nbsp; PBS",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "157f470b6b1889",
       "title": "States Push Data Center Moratoriums as AI Growth Surges - Built In",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbU0ydnE2eTZoXzVvdUhpZkhVbXplZ0lSa2ZBd2ZrTjl6TFNTdXp6eUFxN3JhM3VmMzgyWllPWEtIRzNIdGlaME5BV3pkZG9fdDMyMlBUcEp0ZFE3Q3pQZ2hhVlgzNTNRWlE?oc=5",
@@ -9642,36 +9816,6 @@
       "source_cat": "Cancellation",
       "date": "2026-07-14",
       "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; governor.ny.gov",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "30221930d87e93",
-      "title": "Massive data center buildout poses latest inflation threat for consumers - PBS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRG1hS3RoTnFiVzl0a09xVkpLdDFqQWlhekhLSXEwNGlsdmpoTlVxMk5SN3V3dExqSThPdG5RLWNDdC0wTlY4azVqLTNlUjlPRks1RHZ5OVBEZlpOeXVOdFh3SzJqV2FQZ1o0bG4yVkRxOXp3WTBKNkZnbFd6dFQ5Nk9mU0RabVpCQVhtbzhhVV81eFVvUkw3N1Z0RkdPd04zN1p2eEtKcGd1OXBFZ0HSAbMBQVVfeXFMT1J4WlZsRXMzeWZ1dU9fRDUwd3pvR0ZYd2lnaDVES2d6OHRzS1g5RllNbGZMZGszQjRuTE02MTVUX2ZfMDNsUTdXZ19qSnFfN2hjQ1dyVHRqS3lmeUFIeTlxSjYtY2VwVk5wVmpNRjJ1LTJjRzFuaWxHQm9GUVhmMWJPMVpLeTQzSFZ0czUtWkVqcExqaVNaWG9reXpQT3dSand5TUlYN2hlNE5NYUpSWUVNN28?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-14",
-      "summary": "Massive data center buildout poses latest inflation threat for consumers &nbsp;&nbsp; PBS",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1101dadcaa20bc",
-      "title": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul - Governor Kathy Hochul (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTi1VZXJiUmpmWUpRSjBKZ1pQYkxxcFhveHVnZ0JTVUdYMzhCT2NFbzNQVFdDM1ItQ2JPNVh0c3Y1eXVIOGd3WmU3QjV0NlZWdktvRTJ0SnloNWxGeXBIcG8xVFBvaW1pWnZmcURKNDhUSS01MUplS3RpV3pmYTZQNDRsMFh6VnZSaDBoT2tvY0tPM1N2Z3A4MXZobVBCU3pWa1RaNEtNV19HaHZobmZHSmd0TUZkRGJTa3c?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-07-14",
-      "summary": "First Statewide Moratorium on New Hyperscale Data Centers Launched by Governor Kathy Hochul &nbsp;&nbsp; Governor Kathy Hochul (.gov)",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10324,194 +10468,6 @@
         "$50 billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "86b4fb7d5eb4e1",
-      "title": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlIxQnNvUUxPU3R2SDFwa1phYk0wcWJrTTBEZ1ppXzg4UHZrOTJRZzRpWE9IY0VCOXpaZ21CMmhsbG5WeGQ2eGlUOG83MDJ3eENkV1Qzdjg2SkJab2cwZi1ZWm9nSjVDQkpYV1NNRlhaM0lXLVBTRWxfaTNjdzFxUWEtUUg5ekplUTZIZUVFME9kbWZXS1JXcmJaNXhYa3FSTXZsclFmeTJHTmFfek9sSm1n0gHGAUFVX3lxTE5XR1BKUGZZRkdFOHEzb2ZibEdXZFRYVnZ4em5wVDZYWF81emV1SEV6dnpMNW95ekZRV2tuQUFWUG5xb09rNUN4UVN6MEE4cTY2eWpGajRsWVRZRGxmX0E0UkhGY1k1cHpDOFFhWXFTWFVlUkRUS1l2R0QwdHVnMFFTZmE4T1BhQTlIRm8tV1FkV0QxbEU1cW9wQTIxNXdjSDVad0NONFE3bVloMDFnSFBJSGJqY0ozWkxjR0J0cEF6ZU5EYU9kdw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion &nbsp;&nbsp; fox8live.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$50 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9450d236dbe795",
-      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZqODJUOGhvd3IwcHlMOGNJeEVlLVZCRU9hNlpoazFjcDYyOUFtVGdHSE5iZ2h2cm1DQmdTTl95OVo0Rl9YRHZJcXpQQ0M1aTZncE4wWE9KWmFKS2FtdFJBUTRTZ3JlazRZaEhSaFVCRzdEMkpOcXdiSzNsanQ2UHpfQ1BQTUdfQ24xUlVfVXoyZXhza25sV0xMbXRBMW4zWk5oZ05vQ1BkcmE3ZUZxMl9B?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag &nbsp;&nbsp; Bloomberg",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$250 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "33441c461db92a",
-      "title": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size - NOLA.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3IycUxsb2tWX0ZLUzlPX3pfRUxrNkxEcXd5X1lPcG1Ld1A1RmhYelB0Um9BOVN0ZWtteEtIeU1tZ3ZwWU5PRm9ZVlktNUk0VUhDbGg5R0RGck1kSFR5azlKVEpQQXJFa1JabmxJdFVKcmI2YTJDNGtrMzdPWXJYbFhqbW5OVnBSZTdVaUZxajh1WnowSVduNXVYTUh2aWo0Y01Cb3g5eV84NFAtTHlzT2lrSzREOVdmbmNEb0RlRkR2ZHRIdHc5MGNn0gHPAUFVX3lxTE1MNkR0c3BmWjBuQTlzY0JJaXFPUmJfNDVKcFlEcmZtbjJicW9uNHMxQ2F6U1lJUzlER0NPSGR4QmttUnVkVi01QVdKSWpFanVsOUFidHd3dFBvbVdHd01wd2lXWkVTRlV3Uy1BUC1kQjNoS1BpSjhJREtKVThOS21mR1B5MGo3Mno2enlRYTlvbDlHVjZkb3pMMmpZdWFRV0FnWFd0ck1tb1ItRHM4YkhyQ2pfQzF6Q3l6eVlVZTU5dXdIOS1tU1dRSEpIQndXOA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-13",
-      "summary": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size &nbsp;&nbsp; NOLA.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$40 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e75d5e7841c044",
-      "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZqODJUOGhvd3IwcHlMOGNJeEVlLVZCRU9hNlpoazFjcDYyOUFtVGdHSE5iZ2h2cm1DQmdTTl95OVo0Rl9YRHZJcXpQQ0M1aTZncE4wWE9KWmFKS2FtdFJBUTRTZ3JlazRZaEhSaFVCRzdEMkpOcXdiSzNsanQ2UHpfQ1BQTUdfQ24xUlVfVXoyZXhza25sV0xMbXRBMW4zWk5oZ05vQ1BkcmE3ZUZxMl9B?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$250 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "147ffe86d2e8da",
-      "title": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size - nola.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3IycUxsb2tWX0ZLUzlPX3pfRUxrNkxEcXd5X1lPcG1Ld1A1RmhYelB0Um9BOVN0ZWtteEtIeU1tZ3ZwWU5PRm9ZVlktNUk0VUhDbGg5R0RGck1kSFR5azlKVEpQQXJFa1JabmxJdFVKcmI2YTJDNGtrMzdPWXJYbFhqbW5OVnBSZTdVaUZxajh1WnowSVduNXVYTUh2aWo0Y01Cb3g5eV84NFAtTHlzT2lrSzREOVdmbmNEb0RlRkR2ZHRIdHc5MGNn0gHPAUFVX3lxTE1MNkR0c3BmWjBuQTlzY0JJaXFPUmJfNDVKcFlEcmZtbjJicW9uNHMxQ2F6U1lJUzlER0NPSGR4QmttUnVkVi01QVdKSWpFanVsOUFidHd3dFBvbVdHd01wd2lXWkVTRlV3Uy1BUC1kQjNoS1BpSjhJREtKVThOS21mR1B5MGo3Mno2enlRYTlvbDlHVjZkb3pMMmpZdWFRV0FnWFd0ck1tb1ItRHM4YkhyQ2pfQzF6Q3l6eVlVZTU5dXdIOS1tU1dRSEpIQndXOA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-13",
-      "summary": "Meta plans $40 billion expansion of Louisiana AI data center, more than doubling its size &nbsp;&nbsp; nola.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$40 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4eb9811235871d",
-      "title": "Meta's $50 billion Louisiana data center aims to power AI research and development - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiQnJEYjB1ajc4M3pSdjI5NHRHWW1PMEpiWXZPVzBBeTd5M01XWlpnaktTVnF0RXBDa01LazhDbUxNMi1FVFRVVTVTNXdkZ2FNVHY0c2plekgtUkg5aHlhRTlSbHlzZV85VnJ1S1R3Y3pFa3p5VVE?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-13",
-      "summary": "Meta's $50 billion Louisiana data center aims to power AI research and development &nbsp;&nbsp; eciks.org",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$50 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "67c5f0fef4e9e8",
-      "title": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS2tDM3R5a1F4QmswOGEzTE0wNXdXNDFiQUg0c0xDRVQ0cndsRk5Sb0VyLTNkcWFXT1hZNDl5Nnh6QkcwTkgtM3M2S0VCTXdvakhiWlpidVNxMEVzZjZ3VnhfT0lvdkJVVjBMSDdCRGJ4T3JYS2hhQzZ5X1N2WVdha09aYzFGRWlCeXgxSFVpNlVrMEdDQnR5Uk5WT0JnNlVVMlh0dzljcmZqVXVK0gHAAUFVX3lxTE52b2s2VlJPeFpiVzYzZ1pGLXhwWjNubHFGWERyLVZSOE1lQTI1MzBzVDAtN1pXYmo1SDRYX2Q3LXFXV1Y0TGY5cV9FSUZ5WTE0dGdSWmlxenkyMHB5N2J0UDlUVmM0TE1vRmI0SDF6TEZDZVgyeW5YSTVOZmNLTlk2dkYyb2l4d1VXWGRSRi1HQlhrYzRDTkszdXdFMThjb24teFRUaFd4bkkzaVNSYV85WEk2b1BFSFpIZkp1SHZSRA?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-13",
-      "summary": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$50 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c506a783419d80",
-      "title": "Meta Adds $40 Billion to Expand Hyperion Data Center, Building 5GW World’s Largest AI Computing Hub - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFdlejZGLWVFSlNWN3lpZGpMT0Yyd09jMjFYRGZBbHdoVUZXanV0bFJhTjhjN0RuSkF0ZjlhTjdmVXFhTUIzQm42TXdYLVhMdUNXa1NaX0ZTNHhKck1ubmk4SFpPV21kcUUyMTNLVGk0SW4zOXc3N0hmREZtU2w4Rmg2bkI1TjBzOXk4Snlzek41UWxmb3dEUFV4YXg0Si1Md3VkVnVGUHVCS2FqeXZzYUIwbS1FS3BEbUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta Adds $40 Billion to Expand Hyperion Data Center, Building 5GW World’s Largest AI Computing Hub &nbsp;&nbsp; TradingKey",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "5GW",
-        "$40 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1a2d039128e7ad",
-      "title": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion - KNOE",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSnRQWS00OXl4SlVzYkJwel9qYnZKaVl3X1hMcy1CeDZ3UGd6UWt6YjVzUUlxaXEzQUJCejBUckdLMzN4UlNzQmFvamlxY3htZXdfcmFjalRFRWtaZ21hSTlyeW9OYlFjVFd4QmtzRjNoWWhCUWhnZ2xSbjhWQWQ4cUpHb3NNS3dlMlNVR0xTOGxQT25md0lxTlJCMVBqbUhXSlhna2tkeEItV3ZM0gHAAUFVX3lxTE44SDVFMkhKa3ZwNnhlYm1PamZKc1pZMGFSVWltNjdqX29kMVhZemxURURUc0R2cU9nZVB3azZjNzZSV0lvdzBBZlRCRm9iWk5ubGp6bHJkVzVqYUJNb2ZzckE0Tm5NUGdHX1c5LXhWUUVFZXlrRVQ4QmRkSW1TZndublBPdElzMnZBOGkzS2NJUTU2UmFuanBFVDJLUTQ5eWItOW4yZzNZODc4dUQzaEdqY0Q1WFNRdDVGLVdHUnROVQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-13",
-      "summary": "Meta more than doubles size of Louisiana AI data center in massive $50 billion expansion &nbsp;&nbsp; KNOE",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [
-        "$50 billion"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     }
   ]
