@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-31T23:02:18.855218+00:00",
+  "last_updated": "2026-08-01T02:52:22.437652+00:00",
   "finding_count": 600,
   "new_project_count": 71,
   "cancellation_count": 25,
   "sec_filing_count": 1,
-  "high_confidence_count": 171,
+  "high_confidence_count": 173,
   "findings": [
     {
       "id": "070f68e6112803",
@@ -40,6 +40,25 @@
       "locations": [],
       "amounts": [],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4373dae5e612dd",
+      "title": "Amazon Boosts AI Infrastructure Spending to $220 Billion Amid Capacity Crunch - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRWtwVWtucjNEQkwycURkSjBQTHpwWXVnUl8zZEhzbzFtY2JwMXgxdmFqS0IyVTdTZDhNZ2ptcWlsMkl2enFoVVQxc2JfajlZczBpVTJ6MEV5bzliUTdsZ2Q1em1scEFJSmdmcGZYOWg4ckhQLThsdWVGd1JNME1ETjRhcXBGNnNreTgzYjFBb05Ea01RVlJkSm03R1FrX0FhTTNVLVR2YmVxeDlqY3FPV2hLUjBhQUM3VWh1Q3owWXQ4SmloSGlGdnNDcC1DcjdOa1VERlYtcGd3TmFwam50MElnbW8tQnRtcEM1VERuX0ZibzhCcnBOb1J3?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-07-31",
+      "summary": "Amazon Boosts AI Infrastructure Spending to $220 Billion Amid Capacity Crunch &nbsp;&nbsp; Indiatimes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$220 Billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -118,17 +137,18 @@
       "is_high_confidence": true
     },
     {
-      "id": "6aa7a0fbd7c0e0",
-      "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - Lexington Herald Leader",
+      "id": "23d80d3059934b",
+      "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - kentucky.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-31",
-      "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; Lexington Herald Leader",
+      "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; kentucky.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
-        "Kentucky"
+        "Kentucky",
+        "kentucky"
       ],
       "amounts": [
         "$100B"
@@ -168,6 +188,25 @@
       "locations": [],
       "amounts": [
         "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6aa7a0fbd7c0e0",
+      "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-31",
+      "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; Lexington Herald Leader",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "$100B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1323,25 +1362,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "227775f18e26b4",
-      "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - Lexington Herald Leader",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-29",
-      "summary": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments &nbsp;&nbsp; Lexington Herald Leader",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "$100B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "c1c07d92fc8a48",
       "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - kentucky.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
@@ -1354,6 +1374,25 @@
       "locations": [
         "Kentucky",
         "kentucky"
+      ],
+      "amounts": [
+        "$100B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "227775f18e26b4",
+      "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-29",
+      "summary": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments &nbsp;&nbsp; Lexington Herald Leader",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
       ],
       "amounts": [
         "$100B"
@@ -1375,8 +1414,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$250 million",
-        "$50 million"
+        "$50 million",
+        "$250 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1581,23 +1620,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "dfd51012b8de85",
-      "title": "Meta’s AI bill swallows nearly all of its free cash flow as profit falls 14%",
-      "url": "https://siliconangle.com/2026/07/29/metas-ai-bill-swallows-nearly-free-cash-flow-profit-falls-14/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-29",
-      "summary": "Meta Platforms Inc.&#8217;s shares fell more than 8% in after-hours trading today after the social networking company beat revenue expectations for its fiscal 2026 second quarter but missed badly on earnings as costs rose 55%. For the quarter that ended on June 30, Meta reported diluted earnings per share of $6.18, down from $7.14 in [&#8230;] \n The post  Meta&#8217;s AI bill swallows nearly all of its free cash flow as profit falls 14%  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3415de0a677f96",
       "title": "The Wild Wild West Of LEGO Datacenters",
       "url": "https://newsletter.semianalysis.com/p/the-wild-wild-west-of-lego-datacenters",
@@ -1623,6 +1645,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dfd51012b8de85",
+      "title": "Meta’s AI bill swallows nearly all of its free cash flow as profit falls 14%",
+      "url": "https://siliconangle.com/2026/07/29/metas-ai-bill-swallows-nearly-free-cash-flow-profit-falls-14/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-07-29",
+      "summary": "Meta Platforms Inc.&#8217;s shares fell more than 8% in after-hours trading today after the social networking company beat revenue expectations for its fiscal 2026 second quarter but missed badly on earnings as costs rose 55%. For the quarter that ended on June 30, Meta reported diluted earnings per share of $6.18, down from $7.14 in [&#8230;] \n The post  Meta&#8217;s AI bill swallows nearly all of its free cash flow as profit falls 14%  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -2112,13 +2151,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "7e537f581c8c97",
-      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - wdrb.com",
+      "id": "58a175dbb32b4c",
+      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - WDRB",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRwZTFqZ3FOVWNERnRXZEM5cU1ISjZkbkprRG9Ja2J1eFhxQUxtb3U0T3ZVUVBFUFBpVmViWTVQMkpsYVFDMkMyVGpKeFlXTTJmNGZvNkd5NzBncktUd1lUUWphYmlwV2NkSVVzTHJJNG1qN0hLYThHakxadHJiSXVHb20yTW5ZWGhzQlo2VzZLMVd4OS1XNHN1bVpqeFVuLUJhY2hpWkltbkFkRUQxMG5NTEFneEp0b192cEtlR0lYb0x4MUpLUFJ5bHl2NXgzak5KVlo2N2x4SF9IWkhaUjhyVVdlTlVweGxWLXBRVFBwRFM0a21hQXotTmlHaXBhMUNzTlItMXJDX2Fn?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-07-28",
-      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; wdrb.com",
+      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; WDRB",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2129,13 +2168,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "58a175dbb32b4c",
-      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - WDRB",
+      "id": "7e537f581c8c97",
+      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - wdrb.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRwZTFqZ3FOVWNERnRXZEM5cU1ISjZkbkprRG9Ja2J1eFhxQUxtb3U0T3ZVUVBFUFBpVmViWTVQMkpsYVFDMkMyVGpKeFlXTTJmNGZvNkd5NzBncktUd1lUUWphYmlwV2NkSVVzTHJJNG1qN0hLYThHakxadHJiSXVHb20yTW5ZWGhzQlo2VzZLMVd4OS1XNHN1bVpqeFVuLUJhY2hpWkltbkFkRUQxMG5NTEFneEp0b192cEtlR0lYb0x4MUpLUFJ5bHl2NXgzak5KVlo2N2x4SF9IWkhaUjhyVVdlTlVweGxWLXBRVFBwRFM0a21hQXotTmlHaXBhMUNzTlItMXJDX2Fn?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-07-28",
-      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; WDRB",
+      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; wdrb.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8702,13 +8741,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4510e09a9d8a8e",
-      "title": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 - Data Center Dynamics",
+      "id": "3b1cbd48d81479",
+      "title": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 - datacenterdynamics.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYmlUZTJOY1Z2TE1ma0tOdjVqRDR5U2wycGpPWlNxcXV2RzgtUnpSOVJGaUNCaTZLQkk5bXlxM2gyc1ZHR28tdXpXdDJtMmpqNXF5UzJaM1FZeVBFZVdtaEFjRGdSVmIwY2NXUTktVFVJLTc1eG9kT2RnUXU5SlFBLUFCeEpLdWFBRFhCU1V2RFVVX0N0VjdZSEdKcXVraDRoMTRJOS1FMk9WdDQ3QVYtMVNZdC1aTG43cTRGa2Rab3dwLW5vbkJ4U1IyNTM1aG1Fa0dPTEVucVBtUQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-16",
-      "summary": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 &nbsp;&nbsp; Data Center Dynamics",
+      "summary": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 &nbsp;&nbsp; datacenterdynamics.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -8719,13 +8758,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3b1cbd48d81479",
-      "title": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 - datacenterdynamics.com",
+      "id": "4510e09a9d8a8e",
+      "title": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYmlUZTJOY1Z2TE1ma0tOdjVqRDR5U2wycGpPWlNxcXV2RzgtUnpSOVJGaUNCaTZLQkk5bXlxM2gyc1ZHR28tdXpXdDJtMmpqNXF5UzJaM1FZeVBFZVdtaEFjRGdSVmIwY2NXUTktVFVJLTc1eG9kT2RnUXU5SlFBLUFCeEpLdWFBRFhCU1V2RFVVX0N0VjdZSEdKcXVraDRoMTRJOS1FMk9WdDQ3QVYtMVNZdC1aTG43cTRGa2Rab3dwLW5vbkJ4U1IyNTM1aG1Fa0dPTEVucVBtUQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-16",
-      "summary": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 &nbsp;&nbsp; datacenterdynamics.com",
+      "summary": "TSMC announces additional $100bn investment in Arizona as chipmaker posts $40.2bn revenue for Q2 2026 &nbsp;&nbsp; Data Center Dynamics",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -10409,40 +10448,6 @@
       "summary": "Massive data center buildout poses latest inflation threat for consumers &nbsp;&nbsp; pbs.org",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "65d571ef440515",
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-14",
-      "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e280b53ba19788",
-      "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-14",
-      "summary": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
