@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-04T19:38:31.445372+00:00",
+  "last_updated": "2026-08-04T21:12:48.361307+00:00",
   "finding_count": 600,
   "new_project_count": 67,
-  "cancellation_count": 22,
-  "sec_filing_count": 1,
-  "high_confidence_count": 173,
+  "cancellation_count": 23,
+  "sec_filing_count": 2,
+  "high_confidence_count": 174,
   "findings": [
     {
       "id": "9c671fdb3f8e00",
@@ -43,6 +43,21 @@
       "amounts": [
         "$4.95m"
       ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "07f85d8d969093",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-08-04",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -116,8 +131,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$125M",
-        "$125 million"
+        "$125 million",
+        "$125M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -266,6 +281,23 @@
         "NVIDIA"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3f655f00e49db4",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-04",
+      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -2618,13 +2650,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c5ce6fef274891",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
+      "id": "2f137eaa70503d",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -2635,13 +2667,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2f137eaa70503d",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
+      "id": "c5ce6fef274891",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -10398,38 +10430,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a313d8e2f2b3da",
-      "title": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLThLNWQ4cVhBOTczY3NLa3I0QnN1QzR5OG9WM01uaFNHUGRBU0ctNkh1WWxocDJ1Y0dLRlZKRjdpbWc2TS1tN1JLYXpvSFJLU0tfOUY1LWpHNG9NbkU3YTJoSnZ0LTV2QTE4YlZ3UDFCekQxb3pQWUFRRGdpUU5RQTB3NUItb0FvLWxzYUJHOVoyQ0hOaGlERUEyV2Mtc0o0eFE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "Abbott’s top donors are cashing in on data center boom he’s ‘pushing back’ on &nbsp;&nbsp; Houston Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ba259c339f8e6",
-      "title": "AWS breaks ground on new Hyderabad data centre - Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnhFc3VKb1RuY1FPMjRvSG9pNXZybUJjanEtNTNSaXlkbmZ0VU5IZGhXOGhlc0RUaTQzMHl6SXhySFIybm9qZWxwckdua2x1ckVIU1VzR3FsZXpVYnZFbVlFWTZkc2ZacWtRaXd0dnR3V3ZRSWg3bmg0dk5PVEo3cW44ai1DTkxiV2psN3M3LThWQTdIWEVRd0xxYmZJQUFJVXNOQnFxRUhvOFdSejhGWTd5b3dwbmlwYkRUeWxvcHBENUhJN2MwMmhKRDUxWkRCc2c?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-07-16",
-      "summary": "AWS breaks ground on new Hyderabad data centre &nbsp;&nbsp; Indiatimes",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
