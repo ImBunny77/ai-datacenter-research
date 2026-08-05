@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-05T19:37:42.671125+00:00",
+  "last_updated": "2026-08-05T21:09:30.299595+00:00",
   "finding_count": 600,
-  "new_project_count": 63,
+  "new_project_count": 64,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 172,
+  "high_confidence_count": 173,
   "findings": [
     {
       "id": "b63a2ea16c9b8f",
@@ -18,8 +18,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "7.6GW",
-        "2.7GW"
+        "2.7GW",
+        "7.6GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -291,6 +291,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "df5d5884037019",
+      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-05",
+      "summary": "Google's AI brain drain continues.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -779,6 +796,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "4cdf0b8f503b60",
+      "title": "We’re Upgrading Your WhatsApp Group Chats",
+      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-04",
+      "summary": "We’re introducing new updates to WhatsApp group chats that make it even easier for you to connect with the groups you care about.  \n The post  We’re Upgrading Your WhatsApp Group Chats  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2bc088885adff5",
       "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
       "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
@@ -790,23 +824,6 @@
       "companies": [
         "Amazon",
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4cdf0b8f503b60",
-      "title": "We’re Upgrading Your WhatsApp Group Chats",
-      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-04",
-      "summary": "We’re introducing new updates to WhatsApp group chats that make it even easier for you to connect with the groups you care about.  \n The post  We’re Upgrading Your WhatsApp Group Chats  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -1813,6 +1830,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "c5018b669309b8",
+      "title": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXJjTGVxZGlrOTlOUmFiX1BlYUxUaHd6NFY3Z3lSSnR0Uko5Q0F5RC1BekFJY0VtakFMWDFBOERHenRMNlBwWmZiMGJrSlFJUkVXcEJ6dnhLRW1jVUcwdW5mcDhlREE4TGc5Z0NxMm1XLXZ2QUJHbjU0NEFCRUxLSzh1RmVHSWstdElOaWVxbWsxNWFVZWRlRXp3ME5pUXFrZlY2ck9LSUdNMXJISGl0TnRYamFWUUUwLWxTbDJmaDFQb0dhNU5Tc3d1OXI0S2tuRHZoRQ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-31",
+      "summary": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2.3 Trillion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "227775f18e26b4",
       "title": "Paducah lands $100B AI data center project, one of Kentucky’s largest investments - Lexington Herald Leader",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fUTB2RktMUFQ4bGFnZG5idTZyZ1FVYnlEbEZ2cUNpLUJtdXBqX3JKSk41TE1OQlc3VnBUVFNhaVZsdTlEZVctTThTS29XM1dDZ0wzUENWZWVxck41ZVNnd0czVkVRVnhmMTNCczdncWZaVk1U0gF0QVVfeXFMUGUtQTBzMjBXcnBzRjJVUzhKTVdvbTFScjJ3OUdrQ0o5TWhiajRELVZLbXJWN0ptbUVqYmJQX0hzMk8xNEdLZWt3TGNMWXFCaGt6SE45MEJCMWdLSDlIcmlXZWtDbjI1X1Bod1BFZEhfRnZ3MWE?oc=5",
@@ -1847,27 +1885,6 @@
       ],
       "amounts": [
         "$100B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c5018b669309b8",
-      "title": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXJjTGVxZGlrOTlOUmFiX1BlYUxUaHd6NFY3Z3lSSnR0Uko5Q0F5RC1BekFJY0VtakFMWDFBOERHenRMNlBwWmZiMGJrSlFJUkVXcEJ6dnhLRW1jVUcwdW5mcDhlREE4TGc5Z0NxMm1XLXZ2QUJHbjU0NEFCRUxLSzh1RmVHSWstdElOaWVxbWsxNWFVZWRlRXp3ME5pUXFrZlY2ck9LSUdNMXJISGl0TnRYamFWUUUwLWxTbDJmaDFQb0dhNU5Tc3d1OXI0S2tuRHZoRQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-31",
-      "summary": "The $2.3 Trillion Reason Amazon, Alphabet, and Microsoft May Still Be the Smartest AI Investments &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon",
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2.3 Trillion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3939,6 +3956,27 @@
       "amounts": [],
       "confidence": 1,
       "is_high_confidence": false
+    },
+    {
+      "id": "1682c67c7ae7f3",
+      "title": "Meta, BlackRock announce $14 billion AI data center project in Texas - journalrecord.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0tLX3U4eFZrQjNZdXg4SjNqeDF1QThxazdKMTh4bTdFWW5TbWwyTGJ4M0p4TE9qTDVmUDBBM1F5M1RRWWJZVE9aTUZjbnBSSnNWTWJOQkR4MmIzWElhLUlkUlRTYTh2cm1tclJmbmYzMTBwZ2RjWWR3SVAtTXAxWFBlT2RRYUxPTGFUWFFhYw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-28",
+      "summary": "Meta, BlackRock announce $14 billion AI data center project in Texas &nbsp;&nbsp; journalrecord.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$14 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
     },
     {
       "id": "491f61830e23ee",
@@ -10371,41 +10409,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1f2b0e0623153d",
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-17",
-      "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a73edf40857c09",
-      "title": "Anthropic considers leasing compute from Meta in $10bn deal",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-considers-leasing-compute-from-meta-in-10bn-deal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "As Meta increasingly looks set to become a cloud provider",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
