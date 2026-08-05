@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-08-05T14:10:22.987369+00:00",
+  "last_updated": "2026-08-05T17:38:25.141509+00:00",
   "finding_count": 600,
-  "new_project_count": 61,
+  "new_project_count": 63,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 172,
+  "high_confidence_count": 173,
   "findings": [
+    {
+      "id": "b63a2ea16c9b8f",
+      "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
+      "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-05",
+      "summary": "Now has secured 7.6GW worth of electric service agreements with data center firms",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "7.6GW",
+        "2.7GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "5add93fa04c284",
       "title": "Everllence to supply 480MW of gas engines to data center developer in US",
@@ -118,6 +136,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "339aad51bfc1ad",
+      "title": "Asturias government targets data center project in Salas, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/the-digital-valley-asturias-project-for-a-data-center-in-salas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-05",
+      "summary": "Site will be operational by 2030, and up to 3,000 people will work on its construction, with an investment of €1.226bn",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0c3299fa770720",
+      "title": "NSF plans $100m AI Infrastructure Hubs program to boost science R&D",
+      "url": "https://www.datacenterdynamics.com/en/news/national-science-foundation-announces-100m-ai-infrastructure-hubs-program-to-boost-science-rd/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-05",
+      "summary": "Initiative aims to address lack of AI infrastructure access in some parts of the US",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$100m"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "5672c8306fa36f",
       "title": "Microsoft signs 23,602-ton carbon removal deal with wastewater alkalinity enhancement firm Crew",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-23602-ton-carbon-removal-deal-with-wastewater-alkalinity-enhancement-firm-crew/",
@@ -128,6 +180,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8528ff0900dc94",
+      "title": "Amazon brings native real-time vector search to DynamoDB to support AI apps at scale",
+      "url": "https://siliconangle.com/2026/08/05/amazon-brings-native-real-time-vector-search-dynamodb-support-ai-apps-scale/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-05",
+      "summary": "Amazon Web Services Inc. today announced the general availability of vector search to DynamoDB, the company’s high-availability NoSQL key-value and document database designed for high speed and scale. Launched in 2012, the database service has gone through numerous iterations and is positioned today as the go-to database for developers who need predictable performance without operational [&#8230;] \n The post  Amazon brings native real-time vector search to DynamoDB to support AI apps at scale  a",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -222,6 +291,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "962d6dd37a26be",
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-05",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0084a290af50bb",
+      "title": "Amazon DynamoDB now supports real-time vector search at any scale",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-08-05",
+      "summary": "DynamoDB now supports native vector search with single-digit millisecond latency at 99%+ recall. It is designed for any scale, even trillions of vectors and requires zero infrastructure management.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "50173ed7ff28d7",
+      "title": "The next chapter of our AI momentum",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-05",
+      "summary": "Today, Google and Alphabet CEO Sundar Pichai shared some changes with Google DeepMind teams.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -943,13 +1063,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f7c669f63179ae",
-      "title": "Rafay Systems targets the operating layer of the AI infrastructure boom",
-      "url": "https://siliconangle.com/2026/08/03/rafay-ai-infrastructure-operating-layer-cubeconversations/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "80f9d3e9ace286",
+      "title": "China is Tesla's cash cow, but for how much longer?",
+      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-08-04",
-      "summary": "The AI infrastructure market is moving through a critical transition. The first phase was about acquiring graphics processing units and standing up capacity. The next phase is about turning that expensive hardware into a secure, reliable and profitable cloud service. That is where Rafay Systems Inc. sees its opportunity. In my recent conversation with Haseeb [&#8230;] \n The post  Rafay Systems targets the operating layer of the AI infrastructure boom  appeared first on  SiliconANGLE .",
+      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -958,13 +1078,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "80f9d3e9ace286",
-      "title": "China is Tesla's cash cow, but for how much longer?",
-      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
+      "id": "f7c669f63179ae",
+      "title": "Rafay Systems targets the operating layer of the AI infrastructure boom",
+      "url": "https://siliconangle.com/2026/08/03/rafay-ai-infrastructure-operating-layer-cubeconversations/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-08-04",
-      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+      "summary": "The AI infrastructure market is moving through a critical transition. The first phase was about acquiring graphics processing units and standing up capacity. The next phase is about turning that expensive hardware into a secure, reliable and profitable cloud service. That is where Rafay Systems Inc. sees its opportunity. In my recent conversation with Haseeb [&#8230;] \n The post  Rafay Systems targets the operating layer of the AI infrastructure boom  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -4040,13 +4160,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "231e8504cd8e57",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
+      "id": "c4a889d33778e3",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -4076,13 +4196,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c4a889d33778e3",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
+      "id": "231e8504cd8e57",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -6349,13 +6469,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ba17b2a5f872f5",
-      "title": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion - wndu.com",
+      "id": "2f44fa52e731d7",
+      "title": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion - WNDU",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWpHcDd1S2tva1pEWXdqWHBSbUpzQWlZeXpXdktGeFdfemZXTlRweTZUQ2NOX3RQcXFTb0FTZFp5amIwWEttTFZwQklMZEtnRFppaTN0cVVJM2F6SkVmTFRRX3pJYmRoYmNwQmJvOXV5YUE0SzM5U1BrT2lSMkNIV3NMQlRtaExoX2ExYXQ4ejc1SDJKRjBMT05NX1FjOGxVby1Vb1ZqMWVKQkRnb2FVWUhEZEYxWm50M3A0NDViZUV6MmRhZlE?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-07-23",
-      "summary": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion &nbsp;&nbsp; wndu.com",
+      "summary": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion &nbsp;&nbsp; WNDU",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -6368,13 +6488,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2f44fa52e731d7",
-      "title": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion - WNDU",
+      "id": "ba17b2a5f872f5",
+      "title": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion - wndu.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWpHcDd1S2tva1pEWXdqWHBSbUpzQWlZeXpXdktGeFdfemZXTlRweTZUQ2NOX3RQcXFTb0FTZFp5amIwWEttTFZwQklMZEtnRFppaTN0cVVJM2F6SkVmTFRRX3pJYmRoYmNwQmJvOXV5YUE0SzM5U1BrT2lSMkNIV3NMQlRtaExoX2ExYXQ4ejc1SDJKRjBMT05NX1FjOGxVby1Vb1ZqMWVKQkRnb2FVWUhEZEYxWm50M3A0NDViZUV6MmRhZlE?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-07-23",
-      "summary": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion &nbsp;&nbsp; WNDU",
+      "summary": "Amazon Web Services investment in St. Joseph County data center campus surpasses $13.8 billion &nbsp;&nbsp; wndu.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -10292,122 +10412,6 @@
         "Anthropic"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b55a020e7c2b48",
-      "title": "800VDC protection in data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/800vdc-protection-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "Unlocking next-gen AI data center efficiency",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "29a1d2b6dfeb0c",
-      "title": "Elisa identifies data center revenue opportunity, amid Finland's data center boom",
-      "url": "https://www.datacenterdynamics.com/en/news/elisa-identifies-data-center-revenue-opportunity-amid-finlands-data-center-boom/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "The company sees long-term revenue opportunities in connecting data centers with fiber",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c931dc95d49b73",
-      "title": "Colocation data center proposed in Birmingham, Alabama",
-      "url": "https://www.datacenterdynamics.com/en/news/colocation-data-center-proposed-in-birmingham-alabama/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "Few details known about facility being planned for Fairfield",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a13f32e5f4546",
-      "title": "Israeli data center operator MedOne promotes former CEO Ronnie Sadeh to President",
-      "url": "https://www.datacenterdynamics.com/en/news/israeli-data-center-operator-medone-promotes-former-ceo-ronnie-sadeh-to-president/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "Sadeh was CEO from 2009",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2d8630fbec44b4",
-      "title": "AWS cloud lead Dave Brown heads to Meta - report",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-cloud-lead-dave-brown-heads-to-meta-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "After Meta reveals plans for its own cloud business",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f00622772d87df",
-      "title": "Planned data center in Florida held back by lack of available water from city",
-      "url": "https://www.datacenterdynamics.com/en/news/planned-data-center-in-florida-held-back-by-lack-of-available-water-from-city/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "Population growth in Haines limiting available water for Cielo",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Florida"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5a085aa139cbfd",
-      "title": "Stream proposes 867-acre 'Project Saltworks' data center in Graham, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/developer-proposes-867-acre-project-saltworks-data-center-in-graham-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-17",
-      "summary": "Would be located south of Lake Graham",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
