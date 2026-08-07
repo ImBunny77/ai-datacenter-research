@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-07T20:41:16.056239+00:00",
+  "last_updated": "2026-08-07T22:36:03.799868+00:00",
   "finding_count": 600,
-  "new_project_count": 64,
+  "new_project_count": 65,
   "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 177,
+  "high_confidence_count": 179,
   "findings": [
     {
       "id": "c22477c1e3af75",
@@ -38,6 +38,25 @@
       "locations": [],
       "amounts": [
         "1GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "784f33bc3a4c27",
+      "title": "SK hynix approves $38B+ investment in two new memory fabs",
+      "url": "https://siliconangle.com/2026/08/07/sk-hynix-approves-38b-investment-two-new-memory-fabs/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-07",
+      "summary": "The board of SK hynix Inc., a major data center memory supplier, today approved the construction of two new fabs. The initiative will cost 54 trillion South Korean won, or about $38.3 billion. It’s part of a broader $430 billion investment plan designed to expand SK hynix’s manufacturing capacity. That initiative, in turn, is itself [&#8230;] \n The post  SK hynix approves $38B+ investment in two new memory fabs  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$38.3 billion",
+        "$430 billion",
+        "$38B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -109,8 +128,29 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "717f5b147100ff",
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-07",
+      "summary": "New Mexico judge orders $567M fund to help address youth mental health crisis.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "New Mexico"
+      ],
+      "amounts": [
+        "$567M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -718,13 +758,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ce26baafba47d6",
-      "title": "Land and Expand: The Gigawatt Credibility Test - Data Center Frontier",
+      "id": "031b87fc8bec81",
+      "title": "Land and Expand: The Gigawatt Credibility Test - datacenterfrontier.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjNXNFZ6ZGJTek83ZWhiMXhFQXBOY1Y2QW9GYzd2WUd6S1NoUDZaeXNhaVlIdEpaOVY4c1JzVWtnNVNnRE0zSGRjLXpiRGp3aWJfb0x6LW5fOTRnU00zT0F0ZXNSNEEwM19DNzlja3FfUjkxVHVIeVVkTkFFNldxVEZHbEd6QVZ3QVdJTmFvbnNqZFYtdHdsd0t4THd0NFRPNHdzU09EYVhLbHNG?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-06",
-      "summary": "Land and Expand: The Gigawatt Credibility Test &nbsp;&nbsp; Data Center Frontier",
+      "summary": "Land and Expand: The Gigawatt Credibility Test &nbsp;&nbsp; datacenterfrontier.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -744,6 +784,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ce26baafba47d6",
+      "title": "Land and Expand: The Gigawatt Credibility Test - Data Center Frontier",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjNXNFZ6ZGJTek83ZWhiMXhFQXBOY1Y2QW9GYzd2WUd6S1NoUDZaeXNhaVlIdEpaOVY4c1JzVWtnNVNnRE0zSGRjLXpiRGp3aWJfb0x6LW5fOTRnU00zT0F0ZXNSNEEwM19DNzlja3FfUjkxVHVIeVVkTkFFNldxVEZHbEd6QVZ3QVdJTmFvbnNqZFYtdHdsd0t4THd0NFRPNHdzU09EYVhLbHNG?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-06",
+      "summary": "Land and Expand: The Gigawatt Credibility Test &nbsp;&nbsp; Data Center Frontier",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -2695,13 +2750,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "28246da8fb408a",
-      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - techtimes.com",
+      "id": "43f0e93474eba6",
+      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNwX3dJaFpzQmlZYW9Jb29LUXliVVlMNFFMaDdPZ1pUbXBQamltQ3dpU3NobU5IaFhyMnctcE5jOERYSFRBWms0RHZWclZRN1VzV3p4eGtXX1dUdGZ4M1g0WWd4dkpBWVpWaENDOVV4cDhSN0pvMWJCN3A3VnpvQTltMkI1blFzNzR0TFg4V0M3ZlNyWktxZkVZODBzSVFiMW1LWHlBbEQ1ZU9uajVBNnd6aVZNNjhGNGhSSXJibXZZRXE2cXN6S1VrUEU1MERr?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-03",
-      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; techtimes.com",
+      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; Tech Times",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2712,13 +2767,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "43f0e93474eba6",
-      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - Tech Times",
+      "id": "28246da8fb408a",
+      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - techtimes.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNwX3dJaFpzQmlZYW9Jb29LUXliVVlMNFFMaDdPZ1pUbXBQamltQ3dpU3NobU5IaFhyMnctcE5jOERYSFRBWms0RHZWclZRN1VzV3p4eGtXX1dUdGZ4M1g0WWd4dkpBWVpWaENDOVV4cDhSN0pvMWJCN3A3VnpvQTltMkI1blFzNzR0TFg4V0M3ZlNyWktxZkVZODBzSVFiMW1LWHlBbEQ1ZU9uajVBNnd6aVZNNjhGNGhSSXJibXZZRXE2cXN6S1VrUEU1MERr?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-03",
-      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; Tech Times",
+      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; techtimes.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2761,13 +2816,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8e07f101301325",
-      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - AiThority",
+      "id": "8242d0ced22138",
+      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - aithority.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVpMbkdoSWtjUjdyX005cWJuTDgxekJFLWFqTEdxUVl0NjRwcndIdmd0ZWNoZXhIRU0wZHpxd0hIUm1wbEdxQ0QwRUljMS02MENtdHdTX2RHQjJJdkt4OE5jYWs3U2lpTUN3eXNtXzcyZVpPUzhubjhocUxKQTRsOEhQbEU5bzVpcVlXa2dTMnRpbkJXYkRFR3REekFnTFBiaWxJQThfcnVfQWlXRnNjQzhMVmVEZ0R1azQ1Z2haMGFsanJkRlU2OEhRT0N6YVBXX1JUWmp4NHM?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-03",
-      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; AiThority",
+      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; aithority.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2795,13 +2850,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8242d0ced22138",
-      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - aithority.com",
+      "id": "8e07f101301325",
+      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - AiThority",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVpMbkdoSWtjUjdyX005cWJuTDgxekJFLWFqTEdxUVl0NjRwcndIdmd0ZWNoZXhIRU0wZHpxd0hIUm1wbEdxQ0QwRUljMS02MENtdHdTX2RHQjJJdkt4OE5jYWs3U2lpTUN3eXNtXzcyZVpPUzhubjhocUxKQTRsOEhQbEU5bzVpcVlXa2dTMnRpbkJXYkRFR3REekFnTFBiaWxJQThfcnVfQWlXRnNjQzhMVmVEZ0R1azQ1Z2haMGFsanJkRlU2OEhRT0N6YVBXX1JUWmp4NHM?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-03",
-      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; aithority.com",
+      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; AiThority",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -4919,6 +4974,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b9a9a2a0cb54eb",
+      "title": "AI data center coming to Western Kentucky - WBKO",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdGFzam03bVZGSUgtNWJuZXp5ZjhUY3lFUm5IRmlRaUN6Mm8tY2ZvU2FIa3EtekdHOWtoZDl2UXVjQngyZ3NCb3M2S0RNOXBPUUFjTEppUFRrR3ZIclJYdmpHRjBEbmVVTGwtd2VVWHNmdWl4enFldml5a9IBjwFBVV95cUxPcFUxaVlTcTRnc3BXYTRMbUk3WjYycEVPUzUzbzV1TzRPTFM0dGtpZ0h2OGE0MGhhTUh0WEdXaEs0WGt6bFRIQ3RBOHpuRDFoUmdPalFuc2lYSFBfVENZRUFtVmZGWTlvREkza2hVa1FSZ3JBMmdqdko3NWwtcmpoNlpiYzRrRFI2eWxjal9QYw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-29",
+      "summary": "AI data center coming to Western Kentucky &nbsp;&nbsp; WBKO",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3415de0a677f96",
       "title": "The Wild Wild West Of LEGO Datacenters",
       "url": "https://newsletter.semianalysis.com/p/the-wild-wild-west-of-lego-datacenters",
@@ -4946,23 +5018,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b9a9a2a0cb54eb",
-      "title": "AI data center coming to Western Kentucky - WBKO",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdGFzam03bVZGSUgtNWJuZXp5ZjhUY3lFUm5IRmlRaUN6Mm8tY2ZvU2FIa3EtekdHOWtoZDl2UXVjQngyZ3NCb3M2S0RNOXBPUUFjTEppUFRrR3ZIclJYdmpHRjBEbmVVTGwtd2VVWHNmdWl4enFldml5a9IBjwFBVV95cUxPcFUxaVlTcTRnc3BXYTRMbUk3WjYycEVPUzUzbzV1TzRPTFM0dGtpZ0h2OGE0MGhhTUh0WEdXaEs0WGt6bFRIQ3RBOHpuRDFoUmdPalFuc2lYSFBfVENZRUFtVmZGWTlvREkza2hVa1FSZ3JBMmdqdko3NWwtcmpoNlpiYzRrRFI2eWxjal9QYw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-29",
-      "summary": "AI data center coming to Western Kentucky &nbsp;&nbsp; WBKO",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5614,13 +5669,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "231e8504cd8e57",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
+      "id": "c4a889d33778e3",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -5650,13 +5705,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c4a889d33778e3",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
+      "id": "231e8504cd8e57",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -8061,13 +8116,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "58a175dbb32b4c",
-      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - WDRB",
+      "id": "7e537f581c8c97",
+      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - wdrb.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRwZTFqZ3FOVWNERnRXZEM5cU1ISjZkbkprRG9Ja2J1eFhxQUxtb3U0T3ZVUVBFUFBpVmViWTVQMkpsYVFDMkMyVGpKeFlXTTJmNGZvNkd5NzBncktUd1lUUWphYmlwV2NkSVVzTHJJNG1qN0hLYThHakxadHJiSXVHb20yTW5ZWGhzQlo2VzZLMVd4OS1XNHN1bVpqeFVuLUJhY2hpWkltbkFkRUQxMG5NTEFneEp0b192cEtlR0lYb0x4MUpLUFJ5bHl2NXgzak5KVlo2N2x4SF9IWkhaUjhyVVdlTlVweGxWLXBRVFBwRFM0a21hQXotTmlHaXBhMUNzTlItMXJDX2Fn?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-07-23",
-      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; WDRB",
+      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; wdrb.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8078,13 +8133,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "7e537f581c8c97",
-      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - wdrb.com",
+      "id": "58a175dbb32b4c",
+      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - WDRB",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRwZTFqZ3FOVWNERnRXZEM5cU1ISjZkbkprRG9Ja2J1eFhxQUxtb3U0T3ZVUVBFUFBpVmViWTVQMkpsYVFDMkMyVGpKeFlXTTJmNGZvNkd5NzBncktUd1lUUWphYmlwV2NkSVVzTHJJNG1qN0hLYThHakxadHJiSXVHb20yTW5ZWGhzQlo2VzZLMVd4OS1XNHN1bVpqeFVuLUJhY2hpWkltbkFkRUQxMG5NTEFneEp0b192cEtlR0lYb0x4MUpLUFJ5bHl2NXgzak5KVlo2N2x4SF9IWkhaUjhyVVdlTlVweGxWLXBRVFBwRFM0a21hQXotTmlHaXBhMUNzTlItMXJDX2Fn?oc=5",
       "source": "GNews: state economic development data center",
       "source_cat": "State/Gov",
       "date": "2026-07-23",
-      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; wdrb.com",
+      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; WDRB",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9583,8 +9638,8 @@
       "id": "ad731cd5526c11",
       "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-07-22",
       "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
@@ -10309,57 +10364,6 @@
       "source_cat": "Company",
       "date": "2026-07-21",
       "summary": "Microsoft Deepens Ties With Mistral, Targeting Europe and Enterprise AI &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3146eeb5b1bd88",
-      "title": "Google's New Solar Farm Could Power Over 315,000 Homes — Here's How - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbFlieHdtVVZnYzZNcUJzcTNpb1Fuek5aREQzd2RSTVpVbjFLMno4MlJTTFQ5MU1pQ2pPUjdzU25lOXcwZWRfVGNyRWh6U3N0eHM2eEVLRVVuTl92eXRSNnk0Ymo5eXUxT3BhYlJ2RmhIV2czUHlUb1RSN1c4eFU?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-07-21",
-      "summary": "Google's New Solar Farm Could Power Over 315,000 Homes — Here's How &nbsp;&nbsp; bgr.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "91f3de5b2b10ba",
-      "title": "New Parental Supervision Tools Coming To Threads",
-      "url": "https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-07-21",
-      "summary": "We're rolling out parental supervision on Threads, giving parents even more tools to support their teens across Meta's apps. \n The post  New Parental Supervision Tools Coming To Threads  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "34580c2769a50f",
-      "title": "Microsoft Deepens Ties With Mistral, Targeting Europe and Enterprise AI - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkpWTy02QlREc3pkUjRSZ2ZEa0FzZ2tIYW5HTXlsMmQ5Z0RzV3RJZFNsLWhvYUZla1RndTVKMXA5ampFZ013cENVcWM4OXBDSlhyWDMxYXhITGVCSnRwN3F4S2o2RkpETEUtSDNILUdFUEh1d3dMcnRaQVhVYzhPTkRBeEhQblh3WEVtQjQxUEFEenAwcFIzdGhJOWJ2X3ZQY1NfTGgyUVJEWFZ1ZGQ5SA?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-07-21",
-      "summary": "Microsoft Deepens Ties With Mistral, Targeting Europe and Enterprise AI &nbsp;&nbsp; wsj.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
