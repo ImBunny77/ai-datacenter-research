@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-07T14:53:08.881190+00:00",
+  "last_updated": "2026-08-07T16:54:45.203327+00:00",
   "finding_count": 600,
-  "new_project_count": 61,
+  "new_project_count": 62,
   "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 172,
+  "high_confidence_count": 175,
   "findings": [
     {
       "id": "7bf90509e85588",
@@ -23,6 +23,23 @@
         "1GW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a421584195026e",
+      "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
+      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Allege scheme to reduce equity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$400m"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -117,6 +134,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "4f53bb6137a5c8",
+      "title": "Sponsored: Efficient data center water cooling for Australia’s market",
+      "url": "https://www.datacenterdynamics.com/en/opinions/efficient-data-center-water-cooling-for-australias-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Australia’s data center market is entering a new phase of growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f55403fd67d280",
       "title": "SMR firm Nuclea inks MoU with New Mining to evaluate deployment of SMRs at data centers across US",
       "url": "https://www.datacenterdynamics.com/en/news/smr-firm-nuclea-inks-mou-with-new-mining-to-evaluate-deployment-of-smrs-at-data-centers-across-us/",
@@ -142,38 +176,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e124e314e27def",
-      "title": "US lawmaker proposes Data Center Bill of Rights targeting AI data center developments",
-      "url": "https://www.datacenterdynamics.com/en/news/us-lawmaker-proposes-data-center-bill-of-rights-targeting-ai-data-center-developments/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Would provide local communities with a greater say over data center developments",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "62f99d2780e7fb",
-      "title": "Citylink to supply waste heat from data center servers to district heating network in Wrocław, Poland",
-      "url": "https://www.datacenterdynamics.com/en/news/citylink-to-supply-waste-heat-from-data-center-servers-to-district-heating-network-in-wroc%C5%82aw-poland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Deal will see waste heat siphoned from data center into Wrocław’s municipal district heating system",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Poland"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -225,6 +227,38 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e124e314e27def",
+      "title": "US lawmaker proposes Data Center Bill of Rights targeting AI data center developments",
+      "url": "https://www.datacenterdynamics.com/en/news/us-lawmaker-proposes-data-center-bill-of-rights-targeting-ai-data-center-developments/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Would provide local communities with a greater say over data center developments",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "62f99d2780e7fb",
+      "title": "Citylink to supply waste heat from data center servers to district heating network in Wrocław, Poland",
+      "url": "https://www.datacenterdynamics.com/en/news/citylink-to-supply-waste-heat-from-data-center-servers-to-district-heating-network-in-wroc%C5%82aw-poland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Deal will see waste heat siphoned from data center into Wrocław’s municipal district heating system",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -666,13 +700,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ab043da328ea30",
-      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - houstonchronicle.com",
+      "id": "f0430f3b87dc4c",
+      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - Houston Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFF2dklCZGZnb2FNTmdtbjhydXQzQnpzYTJXTnNfM083ejFDMFo2RGhlN0xvcWFqdlh4N2dxN01ycG9INWhHdUw0YVdWd3A0bjBXQkEyOWNNN0pQX1VNa3IzUjFuaDRBV2YxVnVzaTcybXhONmFGUUg2QW5ZWC1rdS1VOUF1MzktRGJFZlM1VDBwRWFKLUxTN1lFLWJmbzF1Zzgwd1pnQ05LNkNQVjZua3JwZW5SRE1k?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-06",
-      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; houstonchronicle.com",
+      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; Houston Chronicle",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -851,13 +885,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f0430f3b87dc4c",
-      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - Houston Chronicle",
+      "id": "ab043da328ea30",
+      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - houstonchronicle.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFF2dklCZGZnb2FNTmdtbjhydXQzQnpzYTJXTnNfM083ejFDMFo2RGhlN0xvcWFqdlh4N2dxN01ycG9INWhHdUw0YVdWd3A0bjBXQkEyOWNNN0pQX1VNa3IzUjFuaDRBV2YxVnVzaTcybXhONmFGUUg2QW5ZWC1rdS1VOUF1MzktRGJFZlM1VDBwRWFKLUxTN1lFLWJmbzF1Zzgwd1pnQ05LNkNQVjZua3JwZW5SRE1k?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-06",
-      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; Houston Chronicle",
+      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; houstonchronicle.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2643,13 +2677,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8e07f101301325",
-      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - AiThority",
+      "id": "8242d0ced22138",
+      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - aithority.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVpMbkdoSWtjUjdyX005cWJuTDgxekJFLWFqTEdxUVl0NjRwcndIdmd0ZWNoZXhIRU0wZHpxd0hIUm1wbEdxQ0QwRUljMS02MENtdHdTX2RHQjJJdkt4OE5jYWs3U2lpTUN3eXNtXzcyZVpPUzhubjhocUxKQTRsOEhQbEU5bzVpcVlXa2dTMnRpbkJXYkRFR3REekFnTFBiaWxJQThfcnVfQWlXRnNjQzhMVmVEZ0R1azQ1Z2haMGFsanJkRlU2OEhRT0N6YVBXX1JUWmp4NHM?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-03",
-      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; AiThority",
+      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; aithority.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2672,6 +2706,21 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e07f101301325",
+      "title": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVpMbkdoSWtjUjdyX005cWJuTDgxekJFLWFqTEdxUVl0NjRwcndIdmd0ZWNoZXhIRU0wZHpxd0hIUm1wbEdxQ0QwRUljMS02MENtdHdTX2RHQjJJdkt4OE5jYWs3U2lpTUN3eXNtXzcyZVpPUzhubjhocUxKQTRsOEhQbEU5bzVpcVlXa2dTMnRpbkJXYkRFR3REekFnTFBiaWxJQThfcnVfQWlXRnNjQzhMVmVEZ0R1azQ1Z2haMGFsanJkRlU2OEhRT0N6YVBXX1JUWmp4NHM?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-03",
+      "summary": "Empromptu AI Launches Grid Guard to Stop AI Data Centers From Breaking Their Own Power Infrastructure &nbsp;&nbsp; AiThority",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2957,6 +3006,25 @@
         "$100 Billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0fc13d4d62f461",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-08-02",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$220B"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -6321,13 +6389,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5aa22b8ceb3412",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
+      "id": "5cd2af404eb2d5",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -6341,13 +6409,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5cd2af404eb2d5",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
+      "id": "5aa22b8ceb3412",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -9196,6 +9264,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "4d49ff956ae277",
+      "title": "OpenAI announces plans for a new data center campus in Effingham County - wtoc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjIyUHNoVGlYZURFWjFhY3pBTmR5bGZnSTJvaEhobUI5WWF3T3RTcGNwUDNib0pNc0VfbUFQYUt2TTlPZHN6TkpkcWhOR29oUkRHQjM5MVVnMWRvSy11cVRHVEFwaXNTWVdCZzMtanlTSDBVNHhmVC0tUkoxaUhkQXh4SUlhZGJkMVVVQmUtWmpKdw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-22",
+      "summary": "OpenAI announces plans for a new data center campus in Effingham County &nbsp;&nbsp; wtoc.com",
+      "finding_type": "New Project",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "c5e25714ff5c20",
       "title": "OpenAI announces plans for a new data center campus in Effingham County - WTOC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUjIyUHNoVGlYZURFWjFhY3pBTmR5bGZnSTJvaEhobUI5WWF3T3RTcGNwUDNib0pNc0VfbUFQYUt2TTlPZHN6TkpkcWhOR29oUkRHQjM5MVVnMWRvSy11cVRHVEFwaXNTWVdCZzMtanlTSDBVNHhmVC0tUkoxaUhkQXh4SUlhZGJkMVVVQmUtWmpKdw?oc=5",
@@ -9414,8 +9499,8 @@
       "id": "ad731cd5526c11",
       "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-07-22",
       "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
@@ -10282,91 +10367,6 @@
         "Anthropic"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "24a4ff46b4b0d7",
-      "title": "Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash",
-      "url": "https://siliconangle.com/2026/07/21/google-expands-gemini-cheaper-models-bug-hunter-keeps-leash/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-21",
-      "summary": "Google LLC today launched three new Gemini Flash models and moved its CodeMender code-security agent into preview, part of a push to run artificial intelligence agents more cheaply and to automate the finding and fixing of software vulnerabilities. The new models are Gemini 3.6 Flash, an updated version of the workhorse model Google positions for [&#8230;] \n The post  Google expands Gemini with cheaper models and a bug-hunter it keeps on a leash  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0896c77106a806",
-      "title": "Box adds security controls to govern AI agents working with enterprise content",
-      "url": "https://siliconangle.com/2026/07/21/box-adds-security-controls-govern-ai-agents-working-enterprise-content/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-21",
-      "summary": "Box Inc. today introduced security controls aimed at the artificial intelligence agents now working across enterprise content. The controls apply to agents built in Box and to outside tools connected to it, including Anthropic PBC&#8217;s Claude, OpenAI Group PBC&#8217;s ChatGPT and Google LLC&#8217;s Gemini. Rather than run as a separate product, the controls sit at the [&#8230;] \n The post  Box adds security controls to govern AI agents working with enterprise content  appeared first on  Silic",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ed655b61ab6bcc",
-      "title": "Nvidia doubles down on AI factories as it showcases massive Vera Rubin performance gains",
-      "url": "https://siliconangle.com/2026/07/21/nvidia-doubles-ai-factories-showcases-massive-vera-rubin-performance-gains/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-21",
-      "summary": "Artificial intelligence chip king Nvidia Corp. today revealed a fresh trove of performance benchmarks and architectural milestones for its next-generation Vera Rubin platform as it edges closer to global availability. The new numbers are impressive, but on a higher level they also underscore the potency of Nvidia’s approach that combines custom silicon with its broader [&#8230;] \n The post  Nvidia doubles down on AI factories as it showcases massive Vera Rubin performance gains  appeared first o",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "16fff04e7c2355",
-      "title": "Prysmian signs $6.29bn optical data center connectivity deal with Molex",
-      "url": "https://www.datacenterdynamics.com/en/news/prysmian-signs-629bn-optical-data-center-connectivity-deal-with-molex/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "The agreement is for up to ten years",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ba1b1afd4cafd4",
-      "title": "Armada deploys containerized data center to North Dakota air base",
-      "url": "https://www.datacenterdynamics.com/en/news/armada-deploys-containerized-data-center-to-north-dakota-air-base/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-21",
-      "summary": "Company deploys pod for GrandSky at Grand Forks Air Force Base",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Dakota"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
