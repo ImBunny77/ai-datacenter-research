@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-08T10:33:53.556443+00:00",
+  "last_updated": "2026-08-08T12:49:25.390474+00:00",
   "finding_count": 600,
   "new_project_count": 66,
-  "cancellation_count": 20,
+  "cancellation_count": 19,
   "sec_filing_count": 3,
   "high_confidence_count": 179,
   "findings": [
@@ -86,9 +86,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$38.3 billion",
         "$38B",
-        "$430 billion"
+        "$430 billion",
+        "$38.3 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -160,8 +160,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -678,13 +678,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "f1f4078dbd4e7a",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "id": "e9105779f533c7",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -745,6 +745,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f1f4078dbd4e7a",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-06",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -984,25 +1003,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c7d350ed033892",
-      "title": "Anthropic will design its own hardware to power Claude",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-06",
-      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "14e97604a21012",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -1064,6 +1064,25 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c7d350ed033892",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-06",
+      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI",
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -6575,13 +6594,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5aa22b8ceb3412",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
+      "id": "5cd2af404eb2d5",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -6595,13 +6614,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5cd2af404eb2d5",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
+      "id": "5aa22b8ceb3412",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -10348,23 +10367,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5eb41a347d8101",
-      "title": "Temporal takes on the chaos behind enterprise AI agents",
-      "url": "https://siliconangle.com/2026/07/21/temporal-agentic-ai-durable-execution-awsmarketplaceseries/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-21",
-      "summary": "With more agents comes more complexity — an issue Temporal Technologies Inc. aims to address. Founded in 2019, Temporal offers an open-source durable execution platform that ensures artificial intelligence agents work as designed. Becoming available on Amazon Web Services Marketplace has given the company a wider reach, with big-name clients hoping to better manage their agentic [&#8230;] \n The post  Temporal takes on the chaos behind enterprise AI agents  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
