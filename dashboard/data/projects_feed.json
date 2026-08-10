@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T03:56:47.073671+00:00",
+  "last_updated": "2026-08-10T05:36:35.562246+00:00",
   "finding_count": 600,
   "new_project_count": 68,
   "cancellation_count": 23,
@@ -7,23 +7,21 @@
   "high_confidence_count": 180,
   "findings": [
     {
-      "id": "defee187078f84",
-      "title": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXEyLU9XVmY0ODN6VlBQX2ZWMVVDNDcyRlFjWEVFTjZHMVFtLWtvUmFyblAxZ0pDTzBZZm9KdzJqSVp6X3d1T2lPRnRUSFVWRWJEOWR5b1V0akN0YW1RU25HTHdMak1fSlVBVHdva1RZa1FrRGJmUVJpdWsxYldjbFpET042VmtH?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-09",
-      "summary": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident &nbsp;&nbsp; yahoo.com",
+      "id": "88c0ca6670311c",
+      "title": "Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX",
+      "url": "https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-08-10",
+      "summary": "Can TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, high throughput engine Prefill, high interactivity engine decode",
       "finding_type": "Statement / Update",
       "companies": [
-        "Amazon"
+        "NVIDIA"
       ],
       "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "ab97852c0f9daa",
@@ -45,13 +43,32 @@
       "is_high_confidence": true
     },
     {
-      "id": "22d39db80c8e14",
-      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - tradingkey.com",
+      "id": "defee187078f84",
+      "title": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident - yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXEyLU9XVmY0ODN6VlBQX2ZWMVVDNDcyRlFjWEVFTjZHMVFtLWtvUmFyblAxZ0pDTzBZZm9KdzJqSVp6X3d1T2lPRnRUSFVWRWJEOWR5b1V0akN0YW1RU25HTHdMak1fSlVBVHdva1RZa1FrRGJmUVJpdWsxYldjbFpET042VmtH?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-08-09",
+      "summary": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident &nbsp;&nbsp; yahoo.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$2 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6dd692aeb885d7",
+      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-09",
-      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; tradingkey.com",
+      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -64,13 +81,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "6dd692aeb885d7",
-      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
+      "id": "22d39db80c8e14",
+      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - tradingkey.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-09",
-      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
+      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; tradingkey.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -304,8 +321,8 @@
       "locations": [],
       "amounts": [
         "$38.3 billion",
-        "$38B",
-        "$430 billion"
+        "$430 billion",
+        "$38B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -377,8 +394,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -473,13 +490,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2e5f4d05ffcdda",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
+      "id": "1b0ebad428e8d9",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -507,13 +524,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1b0ebad428e8d9",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
+      "id": "2e5f4d05ffcdda",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -910,25 +927,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "f1f4078dbd4e7a",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "950091f4a70fc4",
       "title": "SpaceX Bought $295 Million Worth Of Tesla Megapacks In Q2 - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONG5PQUpNTzhsNENldFQ3SFZpZ2pDRTlZRmYyRWNoTlNYeWlqaGptYXFHaHZvZTdEZTQ1WGNHc3Eyd1N3eWNMSkRWZEs2QlJtaHE1ZlpTaDlZSWZXVUhDSEFYTEJBb0FFWkEzRGtmeVUxRlhmaUZOQXV1WmE0VWNEM3hPUGREdmI5UnhKcWlrcTFNX0F6cFRFWDRvSG9COTRFQkZEVGNRM0VwXzA?oc=5",
@@ -942,6 +940,25 @@
       "amounts": [
         "$295 Million"
       ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f1f4078dbd4e7a",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-08-06",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -10349,25 +10366,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fad5722348156b",
-      "title": "Google lands Nuvem subsea cable in Portugal",
-      "url": "https://www.datacenterdynamics.com/en/news/google-lands-nuvem-subsea-cable-in-portugal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Cable links Sines with Myrtle Beach in South Carolina",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "South Carolina"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
