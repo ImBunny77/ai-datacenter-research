@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-08-10T11:08:56.406911+00:00",
+  "last_updated": "2026-08-10T13:09:06.449726+00:00",
   "finding_count": 600,
   "new_project_count": 69,
-  "cancellation_count": 23,
-  "sec_filing_count": 3,
-  "high_confidence_count": 183,
+  "cancellation_count": 24,
+  "sec_filing_count": 4,
+  "high_confidence_count": 186,
   "findings": [
+    {
+      "id": "d20db52a8eac4b",
+      "title": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural gas powered behind-the-meter data center - report",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "If built, it could be the largest natural gas plant in US at 7.65GW",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "7.65GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9fcc2fabd6b016",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-08-10",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "3e2a774a3d5f8e",
       "title": "Spain's Nabiax to expand Madrid data center campus",
@@ -47,6 +83,43 @@
       "is_high_confidence": true
     },
     {
+      "id": "3b12b151448a17",
+      "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
+      "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-10",
+      "summary": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers. \n The post  Meta Upholds Texas Governor Greg Abbott’s Data Center Standards  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "34080b35f4101b",
+      "title": "Gigawatt-scale data center in Atlanta, Georgia, withdrawn by developer",
+      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-in-atlanta-georgia-withdrawn-by-developer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Developer will instead pursue residential development",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Georgia",
+        "Atlanta"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "5923bd0fd769cb",
       "title": "Amazon acquires 8,000-acre site in Pecos, Texas for natural gas powered behind-the-meter data center - report",
       "url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
@@ -63,6 +136,58 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7d6b4eb43399d3",
+      "title": "Officials reject proposal for 20-story data center in downtown Kansas City, Missouri",
+      "url": "https://www.datacenterdynamics.com/en/news/officials-reject-proposal-for-20-story-data-center-in-downtown-kansas-city-missouri/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Revitalization Unlimited has hoped to demolish former newspaper building",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kansas",
+        "Missouri"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "db26f65130f2f1",
+      "title": "12-story office building in Chicago, Illinios, eyed for data center conversion",
+      "url": "https://www.datacenterdynamics.com/en/news/12-story-office-building-in-chicago-illinios-eyed-for-data-center-conversion/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Local developer files to convert portion of 300 West Adams to data center use",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Chicago"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e1e83733e3fa5e",
+      "title": "Taiwanese cloud provider Konst signs data center lease with LG Sinar Mas in Indonesia",
+      "url": "https://www.datacenterdynamics.com/en/news/taiwanese-cloud-provider-konst-signs-data-center-lease-with-lg-sinar-mas-in-indonesia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Taiwanese cloud provider is leasing capacity from LGSM Indonesian data center unit",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Indonesia"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -91,6 +216,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "272c71d363b0b9",
+      "title": "Venmo is giving you a new way to pay on Google Play.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/venmo-google-play-store/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-10",
+      "summary": "Venmo is now available as a payment option on Google Play, giving you more flexibility at checkout.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -381,6 +523,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "784f33bc3a4c27",
+      "title": "SK hynix approves $38B+ investment in two new memory fabs",
+      "url": "https://siliconangle.com/2026/08/07/sk-hynix-approves-38b-investment-two-new-memory-fabs/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-07",
+      "summary": "The board of SK hynix Inc., a major data center memory supplier, today approved the construction of two new fabs. The initiative will cost 54 trillion South Korean won, or about $38.3 billion. It’s part of a broader $430 billion investment plan designed to expand SK hynix’s manufacturing capacity. That initiative, in turn, is itself [&#8230;] \n The post  SK hynix approves $38B+ investment in two new memory fabs  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$430 billion",
+        "$38.3 billion",
+        "$38B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "7bf90509e85588",
       "title": "Indosat reinforces AI push with 1GW data center play",
       "url": "https://www.datacenterdynamics.com/en/news/indosat-reinforces-ai-push-with-1gw-data-center-play/",
@@ -400,25 +561,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "784f33bc3a4c27",
-      "title": "SK hynix approves $38B+ investment in two new memory fabs",
-      "url": "https://siliconangle.com/2026/08/07/sk-hynix-approves-38b-investment-two-new-memory-fabs/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-07",
-      "summary": "The board of SK hynix Inc., a major data center memory supplier, today approved the construction of two new fabs. The initiative will cost 54 trillion South Korean won, or about $38.3 billion. It’s part of a broader $430 billion investment plan designed to expand SK hynix’s manufacturing capacity. That initiative, in turn, is itself [&#8230;] \n The post  SK hynix approves $38B+ investment in two new memory fabs  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$430 billion",
-        "$38B",
-        "$38.3 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "a421584195026e",
       "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
       "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
@@ -431,25 +573,6 @@
       "locations": [],
       "amounts": [
         "$400m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7a56d02da2581e",
-      "title": "TCC Concept Limited's data center subsidiary could develop 60MW data center in Pune, India",
-      "url": "https://www.datacenterdynamics.com/en/news/tcc-concept-limiteds-data-center-subsidiary-could-develop-60mw-data-center-in-pune-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "But details of purchase murky",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "60MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -491,6 +614,25 @@
       ],
       "amounts": [
         "$567M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7a56d02da2581e",
+      "title": "TCC Concept Limited's data center subsidiary could develop 60MW data center in Pune, India",
+      "url": "https://www.datacenterdynamics.com/en/news/tcc-concept-limiteds-data-center-subsidiary-could-develop-60mw-data-center-in-pune-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "But details of purchase murky",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "60MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -581,6 +723,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1b0ebad428e8d9",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-07",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "2e5f4d05ffcdda",
       "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
@@ -615,23 +774,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1b0ebad428e8d9",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "7e5765699753f9",
       "title": "Bridge DC launches prefabricated data center power module",
       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
@@ -639,38 +781,6 @@
       "source_cat": "DC Specialist",
       "date": "2026-08-07",
       "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4f53bb6137a5c8",
-      "title": "Sponsored: Efficient data center water cooling for Australia’s market",
-      "url": "https://www.datacenterdynamics.com/en/opinions/efficient-data-center-water-cooling-for-australias-market/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Australia’s data center market is entering a new phase of growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f55403fd67d280",
-      "title": "SMR firm Nuclea inks MoU with New Mining to evaluate deployment of SMRs at data centers across US",
-      "url": "https://www.datacenterdynamics.com/en/news/smr-firm-nuclea-inks-mou-with-new-mining-to-evaluate-deployment-of-smrs-at-data-centers-across-us/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Will test the viability of powering facilities behind the meter",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -741,6 +851,38 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4f53bb6137a5c8",
+      "title": "Sponsored: Efficient data center water cooling for Australia’s market",
+      "url": "https://www.datacenterdynamics.com/en/opinions/efficient-data-center-water-cooling-for-australias-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Australia’s data center market is entering a new phase of growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f55403fd67d280",
+      "title": "SMR firm Nuclea inks MoU with New Mining to evaluate deployment of SMRs at data centers across US",
+      "url": "https://www.datacenterdynamics.com/en/news/smr-firm-nuclea-inks-mou-with-new-mining-to-evaluate-deployment-of-smrs-at-data-centers-across-us/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Will test the viability of powering facilities behind the meter",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1018,13 +1160,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e9105779f533c7",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
+      "id": "f1f4078dbd4e7a",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -1073,13 +1215,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f1f4078dbd4e7a",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "id": "e9105779f533c7",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -2017,13 +2159,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "bc2dc6b7a24c4c",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - fool.com",
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; fool.com",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2066,13 +2208,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "id": "bc2dc6b7a24c4c",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -4125,13 +4267,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "068556927048ce",
-      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
+      "id": "a97cdd0765bec4",
+      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-31",
-      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; fool.com",
+      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -4157,13 +4299,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a97cdd0765bec4",
-      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
+      "id": "068556927048ce",
+      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-31",
-      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
+      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -6094,13 +6236,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c4a889d33778e3",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
+      "id": "231e8504cd8e57",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -6130,13 +6272,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "231e8504cd8e57",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
+      "id": "c4a889d33778e3",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -6309,13 +6451,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "22906c1092435c",
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - cnbc.com",
+      "id": "d723d1d9901507",
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmFTZV9PdnYxTnNKT3RHemp5WmNNRUdLTko4b1pEdURWMkE0eFg1WEFaTGNFUEVZV080RXB1Y3BPbjYxX0QtNnAybzJObmVFS3oxYWtySGlYRzN1NGFGaGgxX3hLNkx5bkh2dHY3U0EtZFIxeXRwWHA5R19sWjdfSVJRb1U3cXhNOGJiQzhMTW1uSU1vNmRkbWJFVzBmd1pCZFc5c1ZCdUPSAa4BQVVfeXFMTzh4di1UM0VFcFFLX3k2bjZKSjJSVFhmNjB4ZmNuNXdUVnlRaXRsQnR3Z2lvNzZESnM5blB1dkgwbW9ieUJscFdHTm1pU2pPdmJBb1k5c3FOckhzbURUUUZtRGI3SGotQl9sTEdWRXNrU3BCV215elhab2NiM3I3TmhvYlpFcmplZkJ5MnM3Wlg5WXBJTU5CTmR2azNuOXZvZ1ExbzZNbmhZUFM3WWJR?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-28",
-      "summary": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off &nbsp;&nbsp; cnbc.com",
+      "summary": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off &nbsp;&nbsp; CNBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -6346,13 +6488,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d723d1d9901507",
-      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - CNBC",
+      "id": "22906c1092435c",
+      "title": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmFTZV9PdnYxTnNKT3RHemp5WmNNRUdLTko4b1pEdURWMkE0eFg1WEFaTGNFUEVZV080RXB1Y3BPbjYxX0QtNnAybzJObmVFS3oxYWtySGlYRzN1NGFGaGgxX3hLNkx5bkh2dHY3U0EtZFIxeXRwWHA5R19sWjdfSVJRb1U3cXhNOGJiQzhMTW1uSU1vNmRkbWJFVzBmd1pCZFc5c1ZCdUPSAa4BQVVfeXFMTzh4di1UM0VFcFFLX3k2bjZKSjJSVFhmNjB4ZmNuNXdUVnlRaXRsQnR3Z2lvNzZESnM5blB1dkgwbW9ieUJscFdHTm1pU2pPdmJBb1k5c3FOckhzbURUUUZtRGI3SGotQl9sTEdWRXNrU3BCV215elhab2NiM3I3TmhvYlpFcmplZkJ5MnM3Wlg5WXBJTU5CTmR2azNuOXZvZ1ExbzZNbmhZUFM3WWJR?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-28",
-      "summary": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off &nbsp;&nbsp; CNBC",
+      "summary": "Amazon, Meta and Microsoft face skeptical investors this week after Google report sparked sell-off &nbsp;&nbsp; cnbc.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -7994,13 +8136,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3e36a2ee386fca",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - cnbc.com",
+      "id": "335e2c02357a3f",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-07-24",
-      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; cnbc.com",
+      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon",
@@ -8047,6 +8189,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "3e36a2ee386fca",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-24",
+      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; cnbc.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "810e3801a3f82a",
       "title": "Introducing Seller, an App for Facebook Marketplace Sellers",
       "url": "https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace/",
@@ -8056,25 +8217,6 @@
       "summary": "We're introducing Seller, a new app that helps Marketplace sellers manage listings, reach buyers, and grow their business. \n The post  Introducing Seller, an App for Facebook Marketplace Sellers  appeared first on  Meta Newsroom .",
       "finding_type": "Statement / Update",
       "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "335e2c02357a3f",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-24",
-      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Google",
         "Meta"
       ],
       "locations": [],
@@ -10101,8 +10243,8 @@
       "id": "ad731cd5526c11",
       "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2026-07-22",
       "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
@@ -10183,13 +10325,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "103987ae2ba1ed",
-      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "id": "45d13626c17b1d",
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - drrobertcastellano.substack.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-22",
-      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; drrobertcastellano.substack.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -10217,6 +10359,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "103987ae2ba1ed",
+      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-07-22",
+      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "070f42ede42502",
       "title": "OpenAI chooses Effingham County for massive project - savannahnow.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVItRmhoOWtTTy1OTnMyRWNfOHpjVlh6TndxdEZFRkU5VmNsTXN1Q2NVNjFxS0prQ0ZHREluRlc1bWlOZkJJaUt1cUdUeEZqc0diNnZ2dlY5ckh3YV81RE4tMFJteDB5ajllMHZyT0RQZnBLaUx1TXJGeFRqQ3pmRkRKaDIycTdieHp5TUUxV1VuYXV3bGdzTDBtV2lhRTV5eXVIVDAzVHZIMm9raFRUYzVB?oc=5",
@@ -10228,157 +10387,6 @@
       "companies": [
         "OpenAI"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "45d13626c17b1d",
-      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - drrobertcastellano.substack.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-07-22",
-      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; drrobertcastellano.substack.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "22896ee9fabc02",
-      "title": "New WhatsApp Features Keep Up With the Way You Actually Live",
-      "url": "https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-07-22",
-      "summary": "We’ve introduced new features that make it easier for you to make WhatsApp part of your life. \n The post  New WhatsApp Features Keep Up With the Way You Actually Live  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d09b8c8b26ca83",
-      "title": "Q2 2026 earnings call: Remarks from our CEO",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-22",
-      "summary": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 Alphabet earnings call.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4ef4303dc194b1",
-      "title": "3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-22",
-      "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "77a1828f0a6f2c",
-      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-22",
-      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b12ea71cf19f49",
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-22",
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "317d71c4b4f779",
-      "title": "Oracle debuts Base Database Cloud@Customer system for on-premises databases",
-      "url": "https://siliconangle.com/2026/07/22/oracle-debuts-base-database-cloudcustomer-system-premises-databases/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-22",
-      "summary": "Oracle Corp. today debuted new infrastructure that enterprises can use to run its flagship database at locations such as branch offices. The system is known as Base Database Cloud@Customer. Oracle already offers several hybrid cloud systems that enable companies to run its software on-premises. One of the systems, the Exadata Cloud@Customer X11M, is specifically optimized [&#8230;] \n The post  Oracle debuts Base Database Cloud@Customer system for on-premises databases  appeared first on  Silicon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4d4c7446880213",
-      "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
-      "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-22",
-      "summary": "On the surface, this week’s Vera Rubin launch is another major platform moment for Nvidia Corp., as the company maintains a steady drumbeat of artificial intelligence infrastructure innovation. Nvidia is positioning Vera Rubin as a full-stack system designed to improve performance per watt and reduce token costs, with production ramping across a broad global partner [&#8230;] \n The post  Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7be32ad14d1f03",
-      "title": "MGX, AIP, and BlackRock’s GIP complete $40bn acquisition of Aligned Data Centers",
-      "url": "https://www.datacenterdynamics.com/en/news/mgx-aip-and-blackrocks-gip-complete-40bn-acquisition-of-aligned-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Acquisition is the largest-ever in data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
