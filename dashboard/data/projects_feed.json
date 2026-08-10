@@ -1,11 +1,45 @@
 {
-  "last_updated": "2026-08-10T14:59:00.522787+00:00",
+  "last_updated": "2026-08-10T16:53:56.148196+00:00",
   "finding_count": 600,
   "new_project_count": 69,
   "cancellation_count": 24,
   "sec_filing_count": 4,
-  "high_confidence_count": 187,
+  "high_confidence_count": 189,
   "findings": [
+    {
+      "id": "dd9b3e985557eb",
+      "title": "Firebird.ai launches 300MW Nvidia-powered AI data center in Armenia",
+      "url": "https://www.datacenterdynamics.com/en/news/firebirdai-launches-300mw-nvidia-powered-ai-data-center-in-armenia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Company says it will deploy more than 70,000 Nvidia Rubin and Blackwell GPUs at the site",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "300MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9fcc2fabd6b016",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-08-10",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "d20db52a8eac4b",
       "title": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural gas powered behind-the-meter data center - report",
@@ -24,21 +58,6 @@
       "amounts": [
         "7.65GW"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9fcc2fabd6b016",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-08-10",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -63,21 +82,57 @@
       "is_high_confidence": true
     },
     {
-      "id": "16419e441d3230",
-      "title": "Pennsylvania utility PPL sees advanced-stage data center pipeline grow to 31.8GW",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-utility-ppl-sees-advanced-stage-data-center-pipeline-grow-to-318gw/",
+      "id": "200ae95e91396c",
+      "title": "Hyundai Heavy Industries signs 1GW natural gas engine supply deal with unnamed US data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-signs-1gw-natural-gas-engine-supply-deal-with-unnamed-us-data-center-developer/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-10",
-      "summary": "An increase of 3.5GW from last quarter",
+      "summary": "Worth a reported $675.6m",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$675.6m",
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9fb7c8321d5f10",
+      "title": "Alabama city considers data center moratorium, could kill Edged project",
+      "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
-        "Pennsylvania"
+        "Alabama"
       ],
       "amounts": [
-        "3.5GW",
-        "31.8GW"
+        "8MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3f9aada6f4a24f",
+      "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Largest deal to date for the energy storage firm",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "1.25GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -98,6 +153,26 @@
         "Texas"
       ],
       "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "16419e441d3230",
+      "title": "Pennsylvania utility PPL sees advanced-stage data center pipeline grow to 31.8GW",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-utility-ppl-sees-advanced-stage-data-center-pipeline-grow-to-318gw/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "An increase of 3.5GW from last quarter",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [
+        "3.5GW",
+        "31.8GW"
+      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -136,6 +211,57 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "41933fa92a556d",
+      "title": "Data center opens on tribal lands in California to support fiber network",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-opens-on-tribal-lands-in-california-to-support-fiber-network/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Hoopa Valley people launch new facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "36512147caaa0f",
+      "title": "Virginia regulators order Dominion Energy to directly assign transmission costs to data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/virginia-regulators-order-dominion-energy-to-directly-assign-transmission-costs-to-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Follows growing scrutiny from state regulators",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "107aa9aa3ba750",
+      "title": "Sponsored: Who backstops the backstop? The operational gap in neocloud financing",
+      "url": "https://www.datacenterdynamics.com/en/opinions/who-backstops-the-backstop-the-operational-gap-in-neocloud-financing/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "With neocloud SLAs priced on compute delivered, and Nvidia's backstop landing on the other side of that equation, who backstops the finanical implications of operational downtime?",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -206,21 +332,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "29e318fe22fe53",
-      "title": "Switch confidentially files for IPO - report",
-      "url": "https://www.datacenterdynamics.com/en/news/switch-confidentially-files-for-ipo-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Rob Roy's data center firm could be going public again",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "88c0ca6670311c",
       "title": "Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX",
       "url": "https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
@@ -231,6 +342,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d65741770c8fd0",
+      "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-08-10",
+      "summary": "Last week, we brought together AWS Heroes from around the world to connect, collaborate, and celebrate the builders who go above and beyond for the AWS community. The AWS Heroes Summit, an invite-only annual gathering, brings global experts specializing in fields like AI, serverless, and containers together for direct collaboration, technical deep-dives, and feedback sessions […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "22ac5df5e438f9",
+      "title": "Have more fun at the state fair with these Google tools",
+      "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-10",
+      "summary": "New state fair food Google search",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -283,6 +428,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "29e318fe22fe53",
+      "title": "Switch confidentially files for IPO - report",
+      "url": "https://www.datacenterdynamics.com/en/news/switch-confidentially-files-for-ipo-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-10",
+      "summary": "Rob Roy's data center firm could be going public again",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -472,23 +632,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "c355a761176972",
-      "title": "Coreweave Leasing AI Data Center Facilities - NextBigFuture.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjVLMkZEajhCbG1wRUVtbm9pcHNkRmRHdGthRU9QdktWUzJvWGJ0YzNMQ1Z1TU1Ja21GbDlCQWlnUGc5bFVmWmZmTFlWZ210MXdOS0dEY1dOZmNMQWZRcTgxWkJnOVNZdGNVbWdablhBR2E3SzVVRGNleFRQUHJfOEJ6MEloMWh4S1dWT01qaw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-08",
-      "summary": "Coreweave Leasing AI Data Center Facilities &nbsp;&nbsp; NextBigFuture.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "3319f9563c2cef",
       "title": "Coreweave Leasing AI Data Center Facilities - nextbigfuture.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjVLMkZEajhCbG1wRUVtbm9pcHNkRmRHdGthRU9QdktWUzJvWGJ0YzNMQ1Z1TU1Ja21GbDlCQWlnUGc5bFVmWmZmTFlWZ210MXdOS0dEY1dOZmNMQWZRcTgxWkJnOVNZdGNVbWdablhBR2E3SzVVRGNleFRQUHJfOEJ6MEloMWh4S1dWT01qaw?oc=5",
@@ -506,18 +649,20 @@
       "is_high_confidence": false
     },
     {
-      "id": "a91176eb236dcc",
-      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "c355a761176972",
+      "title": "Coreweave Leasing AI Data Center Facilities - NextBigFuture.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjVLMkZEajhCbG1wRUVtbm9pcHNkRmRHdGthRU9QdktWUzJvWGJ0YzNMQ1Z1TU1Ja21GbDlCQWlnUGc5bFVmWmZmTFlWZ210MXdOS0dEY1dOZmNMQWZRcTgxWkJnOVNZdGNVbWdablhBR2E3SzVVRGNleFRQUHJfOEJ6MEloMWh4S1dWT01qaw?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
       "date": "2026-08-08",
-      "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+      "summary": "Coreweave Leasing AI Data Center Facilities &nbsp;&nbsp; NextBigFuture.com",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "CoreWeave"
+      ],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 4,
       "is_high_confidence": false
     },
     {
@@ -538,21 +683,19 @@
       "is_high_confidence": false
     },
     {
-      "id": "c22477c1e3af75",
-      "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
+      "id": "a91176eb236dcc",
+      "title": "Sponsored: How high-performance coatings accelerate AI data center construction",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-high-performance-coatings-accelerate-ai-data-center-construction/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Data center sales of $733 million",
-      "finding_type": "New Project",
+      "date": "2026-08-08",
+      "summary": "As modular construction accelerates, coatings are helping improve speed, reliability, safety, and sustainability across the data center lifecycle",
+      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [
-        "$733 million"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "784f33bc3a4c27",
@@ -567,8 +710,25 @@
       "locations": [],
       "amounts": [
         "$38.3 billion",
-        "$38B",
-        "$430 billion"
+        "$430 billion",
+        "$38B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c22477c1e3af75",
+      "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Data center sales of $733 million",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$733 million"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -590,23 +750,6 @@
         "1GW"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a421584195026e",
-      "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
-      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Allege scheme to reduce equity",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$400m"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -646,6 +789,23 @@
       ],
       "amounts": [
         "$567M"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "a421584195026e",
+      "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
+      "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Allege scheme to reduce equity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$400m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -806,21 +966,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7e5765699753f9",
-      "title": "Bridge DC launches prefabricated data center power module",
-      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-07",
-      "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b598e1c0222f57",
       "title": "Blackstone, KKR and CME targeted in vishing wave tied to BlackFile crew",
       "url": "https://siliconangle.com/2026/08/06/blackstone-kkr-cme-targeted-vishing-wave-tied-blackfile-crew/",
@@ -866,6 +1011,21 @@
       "companies": [
         "Anthropic"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7e5765699753f9",
+      "title": "Bridge DC launches prefabricated data center power module",
+      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-07",
+      "summary": "Container contains transformers, power distribution, UPS, and cooling infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1192,13 +1352,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e9105779f533c7",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
+      "id": "f1f4078dbd4e7a",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -1247,13 +1407,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f1f4078dbd4e7a",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "id": "e9105779f533c7",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -1419,13 +1579,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "155ac19792bf09",
-      "title": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
+      "id": "de842a606060f2",
+      "title": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; NextBigFuture.com",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; nextbigfuture.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1468,13 +1628,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "597014e80e7702",
-      "title": "Microsoft pushes safer software construction as AI makes offense cheap",
+      "id": "4fe9f42896942d",
+      "title": "Microsoft looks beyond faster patching to safer software in the AI era",
       "url": "https://siliconangle.com/2026/08/06/safer-software-construction-counters-ai-driven-threats-blackhat/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-08-06",
-      "summary": "AI is ending the era of scarce vulnerabilities, making powerful offensive capabilities abundant and forcing cybersecurity teams to move beyond reactive patching toward fundamentally safer software construction. That reality was the core of a Black Hat USA keynote by David Weston (pictured), corporate vice president of AI security at Microsoft Corp., titled “The End of [&#8230;] \n The post  Microsoft pushes safer software construction as AI makes offense cheap  appeared first on  SiliconANGLE .",
+      "summary": "AI is ending the era of scarce vulnerabilities, making powerful offensive capabilities abundant and pushing cybersecurity teams to move beyond reactive patching toward fundamentally safer software construction. That reality was the core of a Black Hat USA keynote from David Weston (pictured), corporate vice president of AI security at Microsoft Corp., titled “The End of [&#8230;] \n The post  Microsoft looks beyond faster patching to safer software in the AI era  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -1553,6 +1713,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "155ac19792bf09",
+      "title": "Understanding Different AI Data Center Leasing Prices and Categories - NextBigFuture.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-08-06",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; NextBigFuture.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "597014e80e7702",
+      "title": "Microsoft pushes safer software construction as AI makes offense cheap",
+      "url": "https://siliconangle.com/2026/08/06/safer-software-construction-counters-ai-driven-threats-blackhat/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-06",
+      "summary": "AI is ending the era of scarce vulnerabilities, making powerful offensive capabilities abundant and forcing cybersecurity teams to move beyond reactive patching toward fundamentally safer software construction. That reality was the core of a Black Hat USA keynote by David Weston (pictured), corporate vice president of AI security at Microsoft Corp., titled “The End of [&#8230;] \n The post  Microsoft pushes safer software construction as AI makes offense cheap  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d3faaefd58a21b",
       "title": "New details on OpenAI/Hugging Face attack emerge as security industry debates AI agent controls",
       "url": "https://siliconangle.com/2026/08/06/new-details-openai-hugging-face-attack-emerge-security-industry-debates-ai-agent-controls/",
@@ -1577,21 +1769,6 @@
       "source_cat": "Announcement",
       "date": "2026-08-06",
       "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; Houston Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "de842a606060f2",
-      "title": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-06",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; nextbigfuture.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -3360,13 +3537,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "28246da8fb408a",
-      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - techtimes.com",
+      "id": "43f0e93474eba6",
+      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNwX3dJaFpzQmlZYW9Jb29LUXliVVlMNFFMaDdPZ1pUbXBQamltQ3dpU3NobU5IaFhyMnctcE5jOERYSFRBWms0RHZWclZRN1VzV3p4eGtXX1dUdGZ4M1g0WWd4dkpBWVpWaENDOVV4cDhSN0pvMWJCN3A3VnpvQTltMkI1blFzNzR0TFg4V0M3ZlNyWktxZkVZODBzSVFiMW1LWHlBbEQ1ZU9uajVBNnd6aVZNNjhGNGhSSXJibXZZRXE2cXN6S1VrUEU1MERr?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-03",
-      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; techtimes.com",
+      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; Tech Times",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -3377,13 +3554,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "43f0e93474eba6",
-      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - Tech Times",
+      "id": "28246da8fb408a",
+      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - techtimes.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNwX3dJaFpzQmlZYW9Jb29LUXliVVlMNFFMaDdPZ1pUbXBQamltQ3dpU3NobU5IaFhyMnctcE5jOERYSFRBWms0RHZWclZRN1VzV3p4eGtXX1dUdGZ4M1g0WWd4dkpBWVpWaENDOVV4cDhSN0pvMWJCN3A3VnpvQTltMkI1blFzNzR0TFg4V0M3ZlNyWktxZkVZODBzSVFiMW1LWHlBbEQ1ZU9uajVBNnd6aVZNNjhGNGhSSXJibXZZRXE2cXN6S1VrUEU1MERr?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-03",
-      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; Tech Times",
+      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; techtimes.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7464,13 +7641,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1d8b105ade4a4e",
-      "title": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" - 24/7 Wall St.",
+      "id": "26befd77b8a3c5",
+      "title": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" - 247wallst.com",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcHlfbHhUZGJfU0N4NEJVVUg0OXlHcHRYOFRmcEtVVHJRX3VQcFEzUXl0c2VyVnNjRTFMckxtV2J1ZFFlU282eFZEV1BwZWZ0VU5TaXZ3MTRhSUh0aVFDTHlTdFFsS3VGUHJPaEI2X0pfQnlIUVVlczRMazdZcWNVaGxod3IxdHlmR3ItOENTV0htcldIcXNqdjBEVEZzZ0E5NkR1X1Z4WFlnQzl6YUpIWUpMUllwRVRoQ2drdko3bWx1ajlPeWt3WEdHODg1U2tZaGN5VE9rU2tGTVllNnNzNWJHTmlZQV9Qc3BnV1hHR3BZWUx0?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-27",
-      "summary": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" &nbsp;&nbsp; 247wallst.com",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -7515,13 +7692,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "26befd77b8a3c5",
-      "title": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" - 247wallst.com",
+      "id": "1d8b105ade4a4e",
+      "title": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcHlfbHhUZGJfU0N4NEJVVUg0OXlHcHRYOFRmcEtVVHJRX3VQcFEzUXl0c2VyVnNjRTFMckxtV2J1ZFFlU282eFZEV1BwZWZ0VU5TaXZ3MTRhSUh0aVFDTHlTdFFsS3VGUHJPaEI2X0pfQnlIUVVlczRMazdZcWNVaGxod3IxdHlmR3ItOENTV0htcldIcXNqdjBEVEZzZ0E5NkR1X1Z4WFlnQzl6YUpIWUpMUllwRVRoQ2drdko3bWx1ajlPeWt3WEdHODg1U2tZaGN5VE9rU2tGTVllNnNzNWJHTmlZQV9Qc3BnV1hHR3BZWUx0?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-27",
-      "summary": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" &nbsp;&nbsp; 247wallst.com",
+      "summary": "Dan Ives Is Still Bullish on Nvidia: 'We're in the 3rd Inning of the AI Revolution,' and Demand Is Outpacing Supply \"12 to 1\" &nbsp;&nbsp; 24/7 Wall St.",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -9788,6 +9965,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0737fb4b0be390",
+      "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGRkSDhSdi1IQlludFBtc2paX3p4Z1AtaTJFVy15VmtMVDJnZjRnVHRSRllRVGJySXEzV0VhazU5T1dYcXVVc3o4dFVreHBWeFNLZ0Q3dS1EYW5ybmZmTDlrTFI1bEs3dENPVi1OZTNzZmc1WTE0RmRPNTVEV0FpdFh5WlZvTjUzWWc?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-22",
+      "summary": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments &nbsp;&nbsp; The New York Times",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [
+        "$112 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "de66d9db638127",
       "title": "AMD to invest up to $5 billion in Anthropic as part of computing power deal - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M3pjdUNHbi1CdmZNVFdBOXN6RzRGQkMyUVZCbnRZenNtbngtNmtjZ0M0YkdfaFRxSHczZ29zTVFDWFNyRFRwbEFrbWo4TndnR052X1NIYmV2ZnFlSGJ0ajd4UFhLbmtOVG9RNm52ZEx4bGFjR3h1ZdIBfkFVX3lxTE5lWXU0dTlGdENpVEVRa1RoNnlLeFZpTXZkVHJVbnByT2U4c3k1S2t5a2l2RHI1OXZ4VHRlaU53OFJJYlNzeWFmaGRrMTdIMWkwME9xZTBub2hRSWZJV1VzeGhxOWRKVjRwZDV5cTN0bGhOQWpPcmJ5SEdxSnR2UQ?oc=5",
@@ -9821,27 +10019,6 @@
       "locations": [],
       "amounts": [
         "$5 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0737fb4b0be390",
-      "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGRkSDhSdi1IQlludFBtc2paX3p4Z1AtaTJFVy15VmtMVDJnZjRnVHRSRllRVGJySXEzV0VhazU5T1dYcXVVc3o4dFVreHBWeFNLZ0Q3dS1EYW5ybmZmTDlrTFI1bEs3dENPVi1OZTNzZmc1WTE0RmRPNTVEV0FpdFh5WlZvTjUzWWc?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-22",
-      "summary": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments &nbsp;&nbsp; The New York Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [
-        "$112 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10219,178 +10396,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "77d13280cabd67",
-      "title": "Crusoe to deploy 5GW of ON.energy's AI UPS systems across data center portfolio",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-to-deploy-5gw-of-onenergys-ai-ups-systems-across-data-center-portfolio/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Deployments to continue into 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "5GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b3006960d33bf2",
-      "title": "Everllence launches 2.4MW backup generation unit for data center market",
-      "url": "https://www.datacenterdynamics.com/en/news/everllence-launches-24mw-backup-generation-unit-for-data-center-market/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Units to be manufactured in Europe",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "2.4MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a295376cb72b16",
-      "title": "Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe",
-      "url": "https://siliconangle.com/2026/07/21/mistral-ai-strikes-multibillion-dollar-deal-microsoft-build-azure-infrastructure-europe/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-22",
-      "summary": "French artificial intelligence startup Mistral AI SAS has struck a multibillion-dollar deal with Microsoft Corp. to expand its computing infrastructure in Europe and increase the availability of its top large language models in the U.S. In an announcement today, Microsoft said that Azure cloud customers will soon be able to develop software using Mistral’s data [&#8230;] \n The post  Mistral AI strikes multibillion-dollar deal with Microsoft to build out Azure infrastructure in Europe  appeared f",
-      "finding_type": "Expansion",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9e401df65b114c",
-      "title": "Tata acquires land in India for OpenAI data centers - report",
-      "url": "https://www.datacenterdynamics.com/en/news/tata-acquires-land-in-india-for-openai-data-centers-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "But details sparse",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad731cd5526c11",
-      "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-22",
-      "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; Reuters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "796d8540665fc8",
-      "title": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2E1WGpsdGo4cVIyUWx5cmVzdkNpdmF2MUN2TlNFX0hSQV9PR19ZLThrLXhlOW9PbkNjdHU4SkgwZGJjOVBxUWYxNU9UN29DZFNNODRIejg4b25lbE1FRHhqY2p4by1ZYmpvZGRyX3hhMmFzZFdCd2ExdUlUR1hMVVNISVJVb3JwZlpoNzQydXJEaWNUakhmX1dIQWFLUUhMdnVRVEdjMlE2SmRHc195SnJuT2xhblpwN0E?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-22",
-      "summary": "From OpenAI to Nvidia, firms channel billions into AI infrastructure as demand booms &nbsp;&nbsp; reuters.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c103d71ce159d3",
-      "title": "Australian gas firm plots gigawatt-scale gas-powered data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/australian-gas-firm-plots-gigawatt-scale-gas-powered-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Beetaloo Energy targets large-scale campus outside Darwin",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "855bffa3989e75",
-      "title": "Microsoft to spend billions on GPUs to be shared with AI lab Mistral",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-spend-billions-on-gpus-to-be-shared-with-ai-lab-mistral/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "Will expand AI infrastructure capacity in Europe",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fbaa6c099f2ce0",
-      "title": "OpenAI chooses Effingham County for massive project - Savannah Morning News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVItRmhoOWtTTy1OTnMyRWNfOHpjVlh6TndxdEZFRkU5VmNsTXN1Q2NVNjFxS0prQ0ZHREluRlc1bWlOZkJJaUt1cUdUeEZqc0diNnZ2dlY5ckh3YV81RE4tMFJteDB5ajllMHZyT0RQZnBLaUx1TXJGeFRqQ3pmRkRKaDIycTdieHp5TUUxV1VuYXV3bGdzTDBtV2lhRTV5eXVIVDAzVHZIMm9raFRUYzVB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-22",
-      "summary": "OpenAI chooses Effingham County for massive project &nbsp;&nbsp; Savannah Morning News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "103987ae2ba1ed",
-      "title": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0lIb3ZaYlNlSkNDX1dZbXFLLWVvYXlwdmR4V2M4VTBJelU5MzVySGFaSTVWcjZtWGsyUjcwdlkweUR6eUFJS2VCeU5EeHR6czhOS2lTS3pqVGVYZ1lwVHJhZDBJSUVfZkp3VlE3Sy14WVFDUVctcGM2OHNfXzVHSzVXYw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-07-22",
-      "summary": "Alphabet Will Raise Capex—and Extend the AI Semiconductor Cycle &nbsp;&nbsp; Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
