@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-11T07:08:33.754819+00:00",
+  "last_updated": "2026-08-11T08:57:23.419005+00:00",
   "finding_count": 600,
-  "new_project_count": 66,
+  "new_project_count": 64,
   "cancellation_count": 24,
   "sec_filing_count": 4,
-  "high_confidence_count": 181,
+  "high_confidence_count": 180,
   "findings": [
+    {
+      "id": "5b7cd9fe86b7d9",
+      "title": "Indiana to receive part of Meta's $1B investment into places it has data centers - wlky.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13N3k1UFdveWJZRnVxU1FCbWJwaDNBVnQ5YkVrbTV4YmxHOTNySHowTDVlS3dWX1pZNmxEWHJsNFZxVlROZlhmbVZ6YU9EczhzMkRZeC04ZXhhT1ZmbVFqQTRqTUowUnRCaHJOUTN4dlJxNVY2Y2ZlU1FyNGlNdw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Indiana to receive part of Meta's $1B investment into places it has data centers &nbsp;&nbsp; wlky.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "077a7ac904c424",
       "title": "OpenAI expands Daybreak cybersecurity research program",
@@ -235,8 +256,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "1GW",
-        "$675.6m"
+        "$675.6m",
+        "1GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -919,9 +940,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$38B",
         "$38.3 billion",
-        "$430 billion",
-        "$38B"
+        "$430 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1789,21 +1810,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "de842a606060f2",
-      "title": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-06",
-      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; nextbigfuture.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "14e97604a21012",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -1866,6 +1872,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "de842a606060f2",
+      "title": "Understanding Different AI Data Center Leasing Prices and Categories - nextbigfuture.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFJfdjZjSjc3eTRNYWNFbEp4MjI2WkZXbkxIeDc1NHRVbGtnX0JMSF9ET2VrMDg5b29QZHhLSk9BZ0tIeHk2QzQtMXhHLVRoazhCUHIzdXUwdkNkb1czdmpTOUEtZXhzaDdwUG1leHg4ZHd1dXJ4ZlIxeGZUdUdHQ2tTRmxaTlFJOG8xYTlRQ1VxOUl2VC1QYjB5Qm5PYWxadUVCdFh3SjZUbi1Zay13ag?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-08-06",
+      "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; nextbigfuture.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -4128,6 +4149,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "2e6848cb9ffe40",
+      "title": "South Korea Breaks Ground on National AI Computing Center in Haenam, Targeting 15,000 GPUs by 2028 - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTN29nZnRicllZcUkyVHBMczYyS25lOUk2X2dtT2lkSS1iVTFsMkNEcTU4XzlnOEFaczMxQ0FJV21jV251R3RYVzhqd29HbmlHRWdBVmxqMDJ0bmxIbnJwXzVyYXppakVGN1JFSTc3ci1vczd6bHc?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-03",
+      "summary": "South Korea Breaks Ground on National AI Computing Center in Haenam, Targeting 15,000 GPUs by 2028 &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
       "id": "6e05d4e81ab1ef",
       "title": "US Announces $100 Billion AI Data Center Project to Boost Artificial Intelligence Infrastructure - chshyd.in",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmpfZDZuOWhqWWZ0M3FXZEMtTVlEN2FIaVMtalRHYndDMTJjVzBGOTladGdSTVRXb3hHaVREWlJWbXQwNzJ6M1hXY3lzVnNQNnA2VE9CNTRRY3NsX3JBSU5HOEw4SFF4dmRlTTNwNFVjUjNMbkIyVFFvTDNyWFZhNg?oc=5",
@@ -4145,13 +4181,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "0fc13d4d62f461",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
+      "id": "cc9c549aa182ea",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -4164,13 +4200,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "cc9c549aa182ea",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
+      "id": "0fc13d4d62f461",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -8570,25 +8606,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "335e2c02357a3f",
-      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-24",
-      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Google",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "bb4a4f56804874",
       "title": "Meta AI Doesn’t Just Think, It Acts",
       "url": "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/",
@@ -8615,6 +8632,25 @@
       "summary": "We’re launching Facebook Verified, a free badge that verifies there's a real person behind a profile.  \n The post  Introducing Facebook Verified  appeared first on  Meta Newsroom .",
       "finding_type": "Statement / Update",
       "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "335e2c02357a3f",
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-07-24",
+      "summary": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others &nbsp;&nbsp; CNBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google",
         "Meta"
       ],
       "locations": [],
@@ -10343,44 +10379,6 @@
       ],
       "amounts": [
         "3.2GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fa142c9e80e750",
-      "title": "AMD to invest $5bn in Anthropic, AI company to deploy 2GW of Instinct MI450 GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-to-invest-5bn-in-anthropic-with-ai-company-to-deploy-2gw-of-instinct-mi450-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "First gigawatt expected in H1 2027",
-      "finding_type": "New Project",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "2GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "61b0c3bdd607ef",
-      "title": "AMD to invest $5bn in Anthropic, with AI company to deploy 2GW of Instinct MI450 GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-to-invest-5bn-in-anthropic-with-ai-company-to-deploy-2gw-of-instinct-mi450-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-22",
-      "summary": "First gigawatt expected in H1 2027",
-      "finding_type": "New Project",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "2GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
