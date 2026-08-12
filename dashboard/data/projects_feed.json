@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-12T04:14:44.248684+00:00",
+  "last_updated": "2026-08-12T07:25:36.971672+00:00",
   "finding_count": 600,
-  "new_project_count": 65,
+  "new_project_count": 66,
   "cancellation_count": 24,
   "sec_filing_count": 4,
-  "high_confidence_count": 186,
+  "high_confidence_count": 187,
   "findings": [
     {
       "id": "619aaf64fc226d",
@@ -20,12 +20,29 @@
       ],
       "locations": [],
       "amounts": [
-        "$800 million",
         "$240M",
+        "$800 million",
         "$240 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "a3fdd4cf614809",
+      "title": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infr - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9iSkhaMmJ1bkQwUG9jTnFlcElTTFVjM1NwN0xpLW9WWjAzY2Y4TkdueTBXSU1xVklNUXpaR2swMmx2MEFXMmo4dFFLbzNXMlVzTWdUNTdTbFJSUngxWGlJQl8wQXpEd19Ma19MWlpMalN3UUU1VjRNR3JWRHdieXpvMVJqMTUtdmFqUnAwcXBtMHlnUHBNQURXU01xYy1IOVB4ZzZZRUl3c3B1dWkyd3RxQ2k?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-12",
+      "summary": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infr &nbsp;&nbsp; Benzinga",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "facc279733fa59",
@@ -158,6 +175,28 @@
       ],
       "amounts": [
         "$1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d5cdb4449ea9c1",
+      "title": "NVIDIA CEO Jensen Huang Just Announced $500 Billion in New Funding: Here's Why Amazon, Microsoft, and Google Are Taking It Hard. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMXJmbUlfa0JYeGY3cVBuWjdMNnBlRjUtZld1dXZiSXZjM1ppRGFZeTF5dWZEOXlRS1ZpamIwSmoxdjNyN0lFc2l4UnJPYm52VW4tNXIzOWREZlUyS3JVZGpuOHN1cVRpcWZVeDQyb3NabTJPN2F1bndDWTBoeUdRZW15WVI2R1FSbUFOZlZQMGc1aDh6ZXJIeWJQSUJ5cWdYRHd4bVpYc0dGUzBjQUg3Z3ZadTloS3NDVExjZmVXaWlpVHNjd0FkLWdOVnZ2bmRwSjlNbF9EQmh4VHZCSlRNaXhzbEM3NHFtTmdWSGg2dk9yUUFzWTYwSnVR?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "NVIDIA CEO Jensen Huang Just Announced $500 Billion in New Funding: Here's Why Amazon, Microsoft, and Google Are Taking It Hard. &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft",
+        "Amazon",
+        "Google",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$500 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -297,23 +336,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "29f918f7efd5d2",
-      "title": "Fermi signs agreement with TensorWave for up to 650MW of data center capacity at Project Matador site",
-      "url": "https://www.datacenterdynamics.com/en/news/fermi-signs-agreement-with-tensorwave-for-up-to-650mw-of-data-center-capacity-at-project-matador-site/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Facility will support AMD GPU deployments once completed",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "650MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "d14a3de52b2310",
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
@@ -329,6 +351,23 @@
       "locations": [],
       "amounts": [
         "$1.4 trillion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "29f918f7efd5d2",
+      "title": "Fermi signs agreement with TensorWave for up to 650MW of data center capacity at Project Matador site",
+      "url": "https://www.datacenterdynamics.com/en/news/fermi-signs-agreement-with-tensorwave-for-up-to-650mw-of-data-center-capacity-at-project-matador-site/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Facility will support AMD GPU deployments once completed",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "650MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2326,13 +2365,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "9af0f474476b07",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -2362,13 +2401,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9af0f474476b07",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -4905,13 +4944,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "0fc13d4d62f461",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
+      "id": "cc9c549aa182ea",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -4924,13 +4963,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "cc9c549aa182ea",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
+      "id": "0fc13d4d62f461",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -8324,7 +8363,7 @@
       "id": "5aa22b8ceb3412",
       "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
-      "source": "GNews: Microsoft data center build",
+      "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-07-27",
       "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
@@ -10359,40 +10398,6 @@
       "source_cat": "Company IR",
       "date": "2026-07-23",
       "summary": "Overview of The Auction by Google Play",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1a2d7a48126db8",
-      "title": "Apply now for the Google for Startups Gemini Startup Forum.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-23",
-      "summary": "Learn more about Google for Startups Gemini Startup Forum and apply by August 28.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5fe46512b3b010",
-      "title": "Understanding the AI economy",
-      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-23",
-      "summary": "\"AI & Economy Atlas\" with Google logo, all over a green grid background",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
