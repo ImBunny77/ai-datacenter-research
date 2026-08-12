@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-12T13:10:40.025245+00:00",
+  "last_updated": "2026-08-12T14:57:22.413456+00:00",
   "finding_count": 600,
-  "new_project_count": 66,
-  "cancellation_count": 26,
+  "new_project_count": 67,
+  "cancellation_count": 25,
   "sec_filing_count": 4,
-  "high_confidence_count": 190,
+  "high_confidence_count": 188,
   "findings": [
     {
       "id": "619aaf64fc226d",
@@ -25,6 +25,25 @@
         "$240 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7c5d127acad340",
+      "title": "IBM and Together AI sign $240m Nvidia HGX B300 cloud deployment deal",
+      "url": "https://www.datacenterdynamics.com/en/news/ibm-and-together-ai-sign-240m-nvidia-hgx-b300-cloud-deployment-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Cluster expected to go live in Q1 2027",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$240m"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -56,8 +75,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$316 million",
-        "$176 million"
+        "$176 million",
+        "$316 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -150,6 +169,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "9842a86403d390",
+      "title": "Made by Google 2026",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Check out the latest announcements about Pixel devices at Made by Google 2026.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9800e390bdb016",
+      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Meta and North America's Building Trades Unions (NABTU) are partnering to invest in skilled trades workers building America's AI infrastructure.  \n The post  NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era  appeared first on  Meta Newsroom .",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "59197eb7136ace",
       "title": "Data center operators sneak in pair of projects hours before moratorium enacted in Hillsboro, Oregon",
       "url": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
@@ -167,6 +220,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ce7823694aa61a",
+      "title": "Google debuts SL2T, an AI model that’s designed to understand sign language",
+      "url": "https://siliconangle.com/2026/08/12/google-debuts-sl2t-ai-model-thats-designed-understand-sign-language/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-12",
+      "summary": "Google DeepMind said today it wants to bring the artificial intelligence revolution to the estimated 70 million people across the world who are either deaf or hard of hearing with the launch of sign-language-to-text or SL2T. In a blog post, Google’s AI researchers said SL2T is a multilingual translation model that’s making its debut on [&#8230;] \n The post  Google debuts SL2T, an AI model that&#8217;s designed to understand sign language  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1c0d7c4d363f65",
       "title": "Server maker Supermicro’s stock soars on crushed earnings results and soaring profits",
       "url": "https://siliconangle.com/2026/08/11/server-maker-supermicros-stock-soars-crushed-earnings-results-soaring-profits/",
@@ -179,6 +249,121 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "708dfadbbf1bd2",
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-12",
+      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bb6477d4d9aa01",
+      "title": "Keep tabs on your valuables with Google Pixel Tag",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Pixel Tag attached to a keychain, resting inside a small trinket box.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "24a524412c011b",
+      "title": "New accessories for Pixel 11 phones are here.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Google is rolling out new Pixel accessories as part of Made by Google",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ce1de0e183bcea",
+      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part of Made by Google.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fe4c505d433a3e",
+      "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-12",
+      "summary": "Video showing Pixel 11 Pro Fold, new features and upgrades",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5b5666feeb80a1",
+      "title": "Colos are buying into GPUs",
+      "url": "https://www.datacenterdynamics.com/en/opinions/colos-are-buying-into-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "GPUs have become a financeable asset class",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9bc2e1fdb75b4c",
+      "title": "Agentic AI infrastructure shifts enterprise focus from model choice to platform control",
+      "url": "https://siliconangle.com/2026/08/12/agentic-ai-infrastructure-shifts-enterprise-focus-model-choice-platform-control-cubeconversations/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-12",
+      "summary": "As agentic AI infrastructure moves from experimentation into production, enterprises are confronting a more complex question than which model to use: how to control the cost, data exposure and infrastructure supporting production AI applications. That shift is pushing organizations to rethink how much they should rely on public cloud AI services alone, especially as agentic [&#8230;] \n The post  Agentic AI infrastructure shifts enterprise focus from model choice to platform control  appeared fir",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -339,8 +524,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.1B",
-        "$1.1 billion"
+        "$1.1 billion",
+        "$1.1B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -424,23 +609,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "1d56e968f0bb49",
-      "title": "Malaysian property giant sells 36-acre land parcel in Cyberjaya for data center",
-      "url": "https://www.datacenterdynamics.com/en/news/malaysian-property-giant-sells-36-acre-land-parcel-in-cyberjaya-for-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Documents imply that campus could offer 182MW of capacity",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "182MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "d14a3de52b2310",
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
@@ -456,6 +624,23 @@
       "locations": [],
       "amounts": [
         "$1.4 trillion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1d56e968f0bb49",
+      "title": "Malaysian property giant sells 36-acre land parcel in Cyberjaya for data center",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysian-property-giant-sells-36-acre-land-parcel-in-cyberjaya-for-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Documents imply that campus could offer 182MW of capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "182MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -734,23 +919,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "be9a41ddab764d",
-      "title": "Azur Datacenter to convert HRS hydrogen facility in Champagnier, France, into data center",
-      "url": "https://www.datacenterdynamics.com/en/news/azur-datacenter-to-convert-hrs-hydrogen-facility-in-champagnier-france-into-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Transaction expected to close at end of the year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c0528ed015b028",
       "title": "Nvidia taps Wall Street for a half-trillion dollars to fuel global AI infrastructure buildout",
       "url": "https://siliconangle.com/2026/08/10/nvidia-taps-wall-street-half-trillion-dollars-fuel-global-ai-infrastructure-buildout/",
@@ -831,6 +999,23 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "be9a41ddab764d",
+      "title": "Azur Datacenter to convert HRS hydrogen facility in Champagnier, France, into data center",
+      "url": "https://www.datacenterdynamics.com/en/news/azur-datacenter-to-convert-hrs-hydrogen-facility-in-champagnier-france-into-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Transaction expected to close at end of the year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "France"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1115,23 +1300,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "0ce6d1cfcbd550",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-10",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "3b12b151448a17",
       "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
       "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
@@ -1146,6 +1314,23 @@
       "locations": [
         "Texas"
       ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0ce6d1cfcbd550",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-10",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -1366,6 +1551,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "dbe572dd3ccae1",
+      "title": "The Future is for Everyone",
+      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-10",
+      "summary": "A letter from Mark Zuckerberg on the path to a positive AI future. \n The post  The Future is for Everyone  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1e882824b829b5",
       "title": "Evolve your marketing with new AI tools",
       "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -1393,23 +1595,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dbe572dd3ccae1",
-      "title": "The Future is for Everyone",
-      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-10",
-      "summary": "A letter from Mark Zuckerberg on the path to a positive AI future. \n The post  The Future is for Everyone  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -1644,13 +1829,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "88751fb360b2f9",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - BASENOR - Tesla Accessories",
+      "id": "2039183e2d84e3",
+      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - basenor.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; BASENOR - Tesla Accessories",
+      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; basenor.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -1661,13 +1846,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2039183e2d84e3",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - basenor.com",
+      "id": "88751fb360b2f9",
+      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - BASENOR - Tesla Accessories",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; basenor.com",
+      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; BASENOR - Tesla Accessories",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -5049,13 +5234,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "0fc13d4d62f461",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
+      "id": "cc9c549aa182ea",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -5068,13 +5253,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "cc9c549aa182ea",
-      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - mlq.ai",
+      "id": "0fc13d4d62f461",
+      "title": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 - MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYUR4OER0U0JhQjFpd0IwR1ZsdnJET0hmMHpjcVNkWlFTOHM2RlRtTkRoNDlJQkdudnNpeXNZWERqZ2xNMEptdG5IZ0RqV0FhazczQkxIZjl1R2o0eFN0U1FFaEFUbFYyVk15bXVDYkdvREFjVURkUVR5LWlNYURzWTJhc211ZlZ2cEw1d2J0QnZrZkxEVkZqWm1jcEFTQUg3c1E?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-02",
-      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; mlq.ai",
+      "summary": "Amazon Raises 2026 AI Capex to $220B, Says Capacity Won't Meet Demand Through 2027 &nbsp;&nbsp; MLQ.ai",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -10214,204 +10399,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "faddd2adbbe1c0",
-      "title": "Meta starts operations at data center in Temple, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-starts-operations-at-data-center-in-temple-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Facility the result of $1.2bn in investment",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5b9e2a4cdaa57d",
-      "title": "Polar DC to build 40MW data center next to flagship Norway facility",
-      "url": "https://www.datacenterdynamics.com/en/news/polar-dc-to-build-40mw-data-center-next-to-flagship-norway-facility/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Will be located adjacent to DRA01",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [
-        "40MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5928d85ff04b5d",
-      "title": "Liberty Energy, PowerBridge form JV to power planned 2GW data center in West Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/liberty-energy-powerbridge-form-jv-to-power-planned-2gw-data-center-in-west-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "First power delivery expected at the end of 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "2GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9f4f199f7b73a5",
-      "title": "Google Parent Alphabet Hikes Spending Outlook In Race To Build AI Data Centers - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc25OMHI1c2J0OERhOWdtWFNrOFFkYkVnZDFhaEpTNW9wNzhnZXdvczRzeGNRTFdJeTVTV2g5NUhoOU1HN01IbnRSN29rM19abFRfcEZIaGF2QnQyQXBnd3FqMXZMUHVJSWZoLXZYS2lRajFDNXI3QXpBQVhqalpjMHFrZk5WNVdpRVlwcWh0NXd0enNyVnZpaTNRQVpwMVNBc3hBaFRaNzBIeXBxVEszbVc3TE1ELXM1S2xJNjQwNGHSAcgBQVVfeXFMTnlwTEJJbXRnRmZzZThFSXJHbkpzWk1wak5IeHhVc2xGMUZaeEotU3Z4SzdkaVVnYktVeHlwMk9veWVHbUlFZk02UUlLaUY4VlRweFBTUXU2ZmdNeW0wU1FwSmJZVl91MTc5cDVINERjSHprSnRmNXVyaDVFSXB2SDE4WHVqbkNnUkxsN1dwRDItc3lWTGFSQTNLM2tJTEU0YW1rMWhaaS13bTNrWWtraF9UbEw1TnBsNU9rUVJOOF9od1MwdmFWdXk?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-23",
-      "summary": "Google Parent Alphabet Hikes Spending Outlook In Race To Build AI Data Centers &nbsp;&nbsp; NDTV Profit",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5b5d38c3b8bdcf",
-      "title": "Google Parent Alphabet Hikes Spending Outlook In Race To Build AI Data Centers - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeXBMQkltdGdGZnNlOEVJckduSnNaTXBqTkh4eFVzbEYxRlp4Si1TdnhLN2RpVWdiS1V4eXAyT295ZUdtSUVmTTZRSUtpRjhWVHB4UFNRdTZmZ015bTBTUXBKYllWX3UxNzlwNUg0RGNIemtKdGY1dXJoNUVJcHZIMThYdWpuQ2dSTGw3V3BEMi1zeVZMYVJBM0sza0lMRTRhbWsxaFppLXdtM2tZa2toX1RsTDVOcGw1T2tRUk44X2h3UzB2YVZ1edIByAFBVV95cUxOeXBMQkltdGdGZnNlOEVJckduSnNaTXBqTkh4eFVzbEYxRlp4Si1TdnhLN2RpVWdiS1V4eXAyT295ZUdtSUVmTTZRSUtpRjhWVHB4UFNRdTZmZ015bTBTUXBKYllWX3UxNzlwNUg0RGNIemtKdGY1dXJoNUVJcHZIMThYdWpuQ2dSTGw3V3BEMi1zeVZMYVJBM0sza0lMRTRhbWsxaFppLXdtM2tZa2toX1RsTDVOcGw1T2tRUk44X2h3UzB2YVZ1eQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-23",
-      "summary": "Google Parent Alphabet Hikes Spending Outlook In Race To Build AI Data Centers &nbsp;&nbsp; NDTV Profit",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "98c73db3a6af60",
-      "title": "NovoServe expands data center capacity in the Netherlands",
-      "url": "https://www.datacenterdynamics.com/en/news/novoserve-expands-data-center-capacity-in-the-netherlands/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Company adds bare-metal rack capacity to two data center sites",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Netherlands"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "16f0086f188063",
-      "title": "LS Electric, LG Uplus ink MoU to develop DC based power infrastructure for AI data center sector",
-      "url": "https://www.datacenterdynamics.com/en/news/ls-electric-lg-uplus-ink-mou-to-develop-dc-based-power-infrastructure-for-ai-data-center-sector/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Will focus on Nvidia’s Vera Rubin platform",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8831fc4e087998",
-      "title": "Plan for data center at Nvidia site in San Jose faces appeal",
-      "url": "https://www.datacenterdynamics.com/en/news/plan-for-data-center-at-nvidia-site-in-san-jose-faces-appeal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "GPU giant is the property's current leaseholder",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a66a02a81a48a1",
-      "title": "Vera Rubin NVL72 vs GB200 NVL72? Inference TCO & Architecture Analysis",
-      "url": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-vs-gb200-nvl72-inference",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-07-23",
-      "summary": "3 bit Rubin LUT Based Tensor Core, SM140 Feynman, Rack Scale, Perf Per MegaWatt, Perf Per Dollar, Software Improvements, Public Rubin Software, PyTorch, vLLM, OpenAI Triton",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "74ba707a919b86",
-      "title": "OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it",
-      "url": "https://siliconangle.com/2026/07/23/openai-launches-health-chatgpt-day-lawsuit-seeks-block/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-23",
-      "summary": "OpenAI Group PBC today launched Health in ChatGPT, a feature that lets people connect their medical records and Apple Health data to the chatbot &#8212; one day after a lawsuit accused the company of handing out dangerous medical advice and asked a California court to halt the product until independent auditors could verify it is [&#8230;] \n The post  OpenAI launches Health in ChatGPT a day after lawsuit seeks to block it  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [
-        "California"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a58d5e69296c9c",
-      "title": "AMD debuts next-generation AI infrastructure for frontier models, agentic workloads and autonomous robots",
-      "url": "https://siliconangle.com/2026/07/23/amd-debuts-next-generation-ai-infrastructure-frontier-models-agentic-workloads-autonomous-robots/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-23",
-      "summary": "Advanced Micro Devices Inc. is pushing harder than ever to grab even more market share from Nvidia Corp. in the artificial intelligence chip industry. At its Advancing AI 2026 event today in San Francisco, the chipmaker announced a slate of updated hardware, including its next-generation AMD Instinct MI400 Series graphics processing units and the sixth-generation [&#8230;] \n The post  AMD debuts next-generation AI infrastructure for frontier models, agentic workloads and autonomous robots  appea",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
