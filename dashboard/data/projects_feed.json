@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-12T11:00:10.399099+00:00",
+  "last_updated": "2026-08-12T13:10:40.025245+00:00",
   "finding_count": 600,
   "new_project_count": 66,
-  "cancellation_count": 25,
+  "cancellation_count": 26,
   "sec_filing_count": 4,
-  "high_confidence_count": 188,
+  "high_confidence_count": 190,
   "findings": [
     {
       "id": "619aaf64fc226d",
@@ -20,11 +20,46 @@
       ],
       "locations": [],
       "amounts": [
-        "$800 million",
         "$240M",
+        "$800 million",
         "$240 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "66a1908573d869",
+      "title": "Siemens Energy to supply B&W with 1GW of steam turbine-generators for data center power program",
+      "url": "https://www.datacenterdynamics.com/en/news/siemens-energy-to-supply-bw-with-1gw-of-steam-turbine-generators-for-data-center-power-program/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Will be delivered to an undisclosed operator in US market",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6f2325e7e9ef1b",
+      "title": "Digital Core REIT to sell stakes in three US data centers back to Digital Realty, buys stake in two facilities in Asia",
+      "url": "https://www.datacenterdynamics.com/en/news/digital-core-reit-to-sell-stakes-in-three-us-data-centers-back-to-digital-realty-buys-stake-in-two-facilities-in-asia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "REIT sells stakes for $316 million, buys stakes for $176 million",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$316 million",
+        "$176 million"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -78,6 +113,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f5e8101b716177",
+      "title": "Google announces three new cable projects in the Americas",
+      "url": "https://www.datacenterdynamics.com/en/news/google-announces-three-new-cable-projects-in-the-americas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Trio to land in the Dominican Republic, alongside a new branch of Firmina",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "48c1370afd6710",
+      "title": "Bloomberg NEF: Texas grid pause puts 20 percent of US data center pipeline at risk",
+      "url": "https://www.datacenterdynamics.com/en/news/bloomberg-nef-texas-grid-pause-puts-20-percent-of-us-data-center-pipeline-at-risk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Governor initiated a pause in interconnections earlier this month",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -195,6 +264,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "04e95346c5811b",
+      "title": "Meta announces $1 billion fund BCA says will support Alabama communities - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnJESEw3XzRQaUM3dWx1bi1iSEViNFRtdWsxeG9UcV9lSGdBSjJDSE9ZSExVdGpLZGFyaVNndmczWUlaak1WdURWVnFNMmFneEhnVTAtQ1lEUW1vNWNxRFNoeWtlU2N2cFhsYUVDZjNhZVlJU0dsd0JGT2l1U3IzYnc0WHVUOHkxS2tzOGEwNHZULUIzRXBBMk9rYno0d0dIdzYwcEZmS1NLNnpPTVRwUFRB?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Meta announces $1 billion fund BCA says will support Alabama communities &nbsp;&nbsp; AL.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Alabama"
+      ],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "d5cdb4449ea9c1",
       "title": "NVIDIA CEO Jensen Huang Just Announced $500 Billion in New Funding: Here's Why Amazon, Microsoft, and Google Are Taking It Hard. - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMXJmbUlfa0JYeGY3cVBuWjdMNnBlRjUtZld1dXZiSXZjM1ppRGFZeTF5dWZEOXlRS1ZpamIwSmoxdjNyN0lFc2l4UnJPYm52VW4tNXIzOWREZlUyS3JVZGpuOHN1cVRpcWZVeDQyb3NabTJPN2F1bndDWTBoeUdRZW15WVI2R1FSbUFOZlZQMGc1aDh6ZXJIeWJQSUJ5cWdYRHd4bVpYc0dGUzBjQUg3Z3ZadTloS3NDVExjZmVXaWlpVHNjd0FkLWdOVnZ2bmRwSjlNbF9EQmh4VHZCSlRNaXhzbEM3NHFtTmdWSGg2dk9yUUFzWTYwSnVR?oc=5",
@@ -249,29 +339,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.1 billion",
-        "$1.1B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "04e95346c5811b",
-      "title": "Meta announces $1 billion fund BCA says will support Alabama communities - AL.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnJESEw3XzRQaUM3dWx1bi1iSEViNFRtdWsxeG9UcV9lSGdBSjJDSE9ZSExVdGpLZGFyaVNndmczWUlaak1WdURWVnFNMmFneEhnVTAtQ1lEUW1vNWNxRFNoeWtlU2N2cFhsYUVDZjNhZVlJU0dsd0JGT2l1U3IzYnc0WHVUOHkxS2tzOGEwNHZULUIzRXBBMk9rYno0d0dIdzYwcEZmS1NLNnpPTVRwUFRB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-11",
-      "summary": "Meta announces $1 billion fund BCA says will support Alabama communities &nbsp;&nbsp; AL.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$1 billion"
+        "$1.1B",
+        "$1.1 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -372,25 +441,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "0f5c54fa0d35ab",
-      "title": "Magnora to launch 1MW data center in Oslo, Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/magnora-to-launch-1mw-data-center-in-oslo-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Buys space in former Bankenes Betalingssentral building",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [
-        "1MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "d14a3de52b2310",
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
       "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
@@ -406,6 +456,25 @@
       "locations": [],
       "amounts": [
         "$1.4 trillion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0f5c54fa0d35ab",
+      "title": "Magnora to launch 1MW data center in Oslo, Norway",
+      "url": "https://www.datacenterdynamics.com/en/news/magnora-to-launch-1mw-data-center-in-oslo-norway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Buys space in former Bankenes Betalingssentral building",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [
+        "1MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -449,23 +518,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "fdd1cecb464933",
-      "title": "GIC and Macquarie form Theseus Infrastructure to serve Anthropic's data center needs",
-      "url": "https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "New platform to develop facilities for Anthropic, will focus on US",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "4651e601e4eef2",
       "title": "Google’s Gemini AI app passes 1 billion monthly active users",
       "url": "https://siliconangle.com/2026/08/11/googles-gemini-ai-app-passes-1-billion-monthly-active-users/",
@@ -476,6 +528,23 @@
       "finding_type": "New Project",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fdd1cecb464933",
+      "title": "GIC and Macquarie form Theseus Infrastructure to serve Anthropic's data center needs",
+      "url": "https://www.datacenterdynamics.com/en/news/gic-and-macquarie-form-theseus-infrastructure-to-serve-anthropics-data-center-needs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "New platform to develop facilities for Anthropic, will focus on US",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -682,23 +751,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "846acaa8c922e0",
-      "title": "W Land Development to offer power-ready sites for Texas data center operators",
-      "url": "https://www.datacenterdynamics.com/en/news/w-land-development-to-offer-power-ready-sites-for-texas-data-center-operators/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Firm will act as a site developer rather than an owner or operator of data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c0528ed015b028",
       "title": "Nvidia taps Wall Street for a half-trillion dollars to fuel global AI infrastructure buildout",
       "url": "https://siliconangle.com/2026/08/10/nvidia-taps-wall-street-half-trillion-dollars-fuel-global-ai-infrastructure-buildout/",
@@ -779,6 +831,23 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "846acaa8c922e0",
+      "title": "W Land Development to offer power-ready sites for Texas data center operators",
+      "url": "https://www.datacenterdynamics.com/en/news/w-land-development-to-offer-power-ready-sites-for-texas-data-center-operators/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Firm will act as a site developer rather than an owner or operator of data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1796,8 +1865,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2382,13 +2451,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e9105779f533c7",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
+      "id": "f1f4078dbd4e7a",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -2437,13 +2506,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f1f4078dbd4e7a",
-      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
+      "id": "e9105779f533c7",
+      "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
+      "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; news.microsoft.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -6530,13 +6599,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c5ce6fef274891",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
+      "id": "2f137eaa70503d",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -6547,13 +6616,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2f137eaa70503d",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
+      "id": "c5ce6fef274891",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -10342,71 +10411,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "76b727ee5d08b1",
-      "title": "AWS turns Security Hub into an AI and multicloud security control plane",
-      "url": "https://siliconangle.com/2026/07/22/aws-turns-security-hub-ai-multicloud-security-control-plane/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-23",
-      "summary": "By extending Security Hub to Microsoft Azure and adding artificial intelligence-specific protections, Amazon Web Services Inc. is positioning its security stack as the foundation for securing enterprise AI at scale. Amazon Web Services’ latest Security Hub updates announced earlier this month acknowledge two realities its customers already live with every day: AI is now the [&#8230;] \n The post  AWS turns Security Hub into an AI and multicloud security control plane  appeared first on  SiliconAN",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "23fc394f3404f4",
-      "title": "Physical AI emerges as AMD Ventures’ next major focus beyond the data center",
-      "url": "https://siliconangle.com/2026/07/22/physical-ai-investments-power-amd-ecosystem-growth-amdadvancingai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-23",
-      "summary": "Physical AI is becoming the next major inflection point in AI, as machine intelligence moves beyond cloud data centers and into robotics, industrial automation and other embedded systems that operate in the real world. That shift is reshaping how chipmakers think about ecosystem investment, not just product roadmaps. Advanced Micro Devices Inc. has built out [&#8230;] \n The post  Physical AI emerges as AMD Ventures&#8217; next major focus beyond the data center  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1b4246bcf96ac3",
-      "title": "NZ utility Mercury invests in data center firm Datagrid",
-      "url": "https://www.datacenterdynamics.com/en/news/nz-utility-mercury-invests-in-data-center-firm-datagrid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Energy company takes minority stake in NZ operator",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "41e6ad833e70e6",
-      "title": "Alphabet hikes spending outlook in race to build AI data centres - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeXZHQU9GYkVFVWNMOGJHMWk1T240N1g3X1pkNUtpYzlHQ00waGE2SG5QMnRnRWZ3a3A3WXNkei05d3NRTmcxcWx5NXFPS3ByZmxyaUtSSnlmbTFmajVNN29aajVIYkFCdzdZTXhRNWpBZ0ZUWmFpVkFpNUFHeVZtWEU5bzhRYi1XQ0ZFbFRTQlR1VFNjYi13Z2syVlV2MUs2TlZYeUZqNHdzUlpKQWc?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-07-23",
-      "summary": "Alphabet hikes spending outlook in race to build AI data centres &nbsp;&nbsp; The Business Times",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
