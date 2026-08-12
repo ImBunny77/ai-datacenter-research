@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-12T14:57:22.413456+00:00",
+  "last_updated": "2026-08-12T16:57:10.298353+00:00",
   "finding_count": 600,
   "new_project_count": 67,
   "cancellation_count": 25,
   "sec_filing_count": 4,
-  "high_confidence_count": 188,
+  "high_confidence_count": 184,
   "findings": [
     {
       "id": "619aaf64fc226d",
@@ -20,11 +20,83 @@
       ],
       "locations": [],
       "amounts": [
+        "$240 million",
         "$240M",
-        "$800 million",
-        "$240 million"
+        "$800 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3ebe453ba81606",
+      "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW data center",
+      "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Behring looks to turn vacant site back into live data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [
+        "20MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "da1d1726f84cc2",
+      "title": "Landmark Dividend acquires data center in Jacksonville, Florida, for $8.1m",
+      "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Leased by telecoms provider T-Mobile",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Florida"
+      ],
+      "amounts": [
+        "$8.1m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4909d9cd601a0e",
+      "title": "JLL: Data center demand exceeds expectations, doubles year-over-year",
+      "url": "https://www.datacenterdynamics.com/en/news/jll-data-center-demand-exceeds-expectations-doubles-year-over-year/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Absorption hits record 25GW in 1H 2026",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "25GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8df399533c2b59",
+      "title": "Sponsored: The powered mill: 10GW of shovel-ready data center sites is hiding in plain sight",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-powered-mill-10gw-of-shovel-ready-data-center-sites-is-hiding-in-plain-sight/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "A view for hyperscalers, colos, and infrastructure capital",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "10GW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -203,6 +275,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "a79f6d8ac5245a",
+      "title": "Raid by authorities sees illegal migrant workers arrested at under-construction data center site in Rayong, Thailand",
+      "url": "https://www.datacenterdynamics.com/en/news/raid-by-authorities-sees-illegal-migrant-workers-arrested-at-under-construction-data-center-site-in-rayong-thailand/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "24 illegal workers arrested at the site in the Ban Chang District",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "034ca69c2b6d60",
+      "title": "Oracle partners with Quantinuum to deploy Helios quantum computer on OCI",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-partners-with-quantinuum-to-deploy-helios-quantum-computer-on-oci/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-12",
+      "summary": "Oracle will preview its OCI quantum system in the coming months",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "59197eb7136ace",
       "title": "Data center operators sneak in pair of projects hours before moratorium enacted in Hillsboro, Oregon",
       "url": "https://www.datacenterdynamics.com/en/news/data-center-operators-sneak-in-pair-of-projects-hours-before-moratorium-enacted-in-hillsboro-oregon/",
@@ -247,6 +351,25 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5056d6b7874e4a",
+      "title": "US tries to override New York gambling laws, orders Kalshi to keep operating",
+      "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-12",
+      "summary": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -367,6 +490,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "dd849b5823e9d6",
+      "title": "Meta launches $1 billion fund supporting data center communities - alreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Meta launches $1 billion fund supporting data center communities &nbsp;&nbsp; alreporter.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "9567e6e2b78ba7",
       "title": "Meta launches $1 billion fund supporting data center communities - Alabama Political Reporter",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
@@ -404,25 +546,6 @@
       ],
       "amounts": [
         "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dd849b5823e9d6",
-      "title": "Meta launches $1 billion fund supporting data center communities - alreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-11",
-      "summary": "Meta launches $1 billion fund supporting data center communities &nbsp;&nbsp; alreporter.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -470,6 +593,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "3f86d2c62fc97a",
+      "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD",
+      "url": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-11",
+      "summary": "River AI Inc., a startup that helps enterprises customize open-source artificial intelligence models, has raised $1.1 billion in early-stage funding. The company stated in today&#8217;s announcement that it received the capital over two rounds, a seed and a Series A. General Catalyst and AMP PBC were the lead investors. They were joined by Nvidia Corp., [&#8230;] \n The post  Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.1B",
+        "$1.1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "d5cdb4449ea9c1",
       "title": "NVIDIA CEO Jensen Huang Just Announced $500 Billion in New Funding: Here's Why Amazon, Microsoft, and Google Are Taking It Hard. - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMXJmbUlfa0JYeGY3cVBuWjdMNnBlRjUtZld1dXZiSXZjM1ppRGFZeTF5dWZEOXlRS1ZpamIwSmoxdjNyN0lFc2l4UnJPYm52VW4tNXIzOWREZlUyS3JVZGpuOHN1cVRpcWZVeDQyb3NabTJPN2F1bndDWTBoeUdRZW15WVI2R1FSbUFOZlZQMGc1aDh6ZXJIeWJQSUJ5cWdYRHd4bVpYc0dGUzBjQUg3Z3ZadTloS3NDVExjZmVXaWlpVHNjd0FkLWdOVnZ2bmRwSjlNbF9EQmh4VHZCSlRNaXhzbEM3NHFtTmdWSGg2dk9yUUFzWTYwSnVR?oc=5",
@@ -506,26 +649,6 @@
       "locations": [],
       "amounts": [
         "$136m"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3f86d2c62fc97a",
-      "title": "Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD",
-      "url": "https://siliconangle.com/2026/08/11/personalized-ai-startup-river-ai-raises-1-1b-consortium-backed-nvidia-amd/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-11",
-      "summary": "River AI Inc., a startup that helps enterprises customize open-source artificial intelligence models, has raised $1.1 billion in early-stage funding. The company stated in today&#8217;s announcement that it received the capital over two rounds, a seed and a Series A. General Catalyst and AMP PBC were the lead investors. They were joined by Nvidia Corp., [&#8230;] \n The post  Personalized AI startup River AI raises $1.1B from consortium backed by Nvidia, AMD  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.1 billion",
-        "$1.1B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -571,9 +694,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "740ce4f13b039b",
+      "id": "7e7debc65345c9",
       "title": "Nvidia: Guess Who Backstops The $500 Billion (Rating Downgrade) (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDlzWXc3SHNHOUtwb3M3MnNVU3BhWkdRR19JNi1hTDJzam1ZZXlrY3l0UnNtNVFDSWZkT0poY0FEam1NU002d3Rhd1pHRnZBVll5bTFEaWt6R3RRR2FsNkVmSjd2eTM3VGNTdjVsanNhMmRwU3gyRWk1YWdkcER3Z0VvNmZKS3ZDcjV0Vm5mOUJQZG5ia19QNkFQUmhaWWc1T0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDZXaUxGRjNpWUh4Q2hBMFpUd08xdGdILW5FVnhlMkcwYW5Zc1R4YXpRQ1Vhb3ROVXd3WldJMVBCTEpzSnJ2ZjB5d3NxVkxka0hXcUY0Y2NpSTJuQ2huZG1xaHhXODBwdHRBSmNNOTF0ZkpEVXgtWmFpVVU4MVdzcU5sV0pKQmh2ZUJjTkRSemdiZVo4bUxWdjBNeVFseENlY1M3UmluMklmLWNuU3ktMjhmOEZWNGxMQ0JZ?oc=5",
       "source": "GNews: SEC 8-K data center capital",
       "source_cat": "SEC Filing",
       "date": "2026-08-11",
@@ -590,9 +713,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "7e7debc65345c9",
+      "id": "740ce4f13b039b",
       "title": "Nvidia: Guess Who Backstops The $500 Billion (Rating Downgrade) (NASDAQ:NVDA) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDZXaUxGRjNpWUh4Q2hBMFpUd08xdGdILW5FVnhlMkcwYW5Zc1R4YXpRQ1Vhb3ROVXd3WldJMVBCTEpzSnJ2ZjB5d3NxVkxka0hXcUY0Y2NpSTJuQ2huZG1xaHhXODBwdHRBSmNNOTF0ZkpEVXgtWmFpVVU4MVdzcU5sV0pKQmh2ZUJjTkRSemdiZVo4bUxWdjBNeVFseENlY1M3UmluMklmLWNuU3ktMjhmOEZWNGxMQ0JZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDlzWXc3SHNHOUtwb3M3MnNVU3BhWkdRR19JNi1hTDJzam1ZZXlrY3l0UnNtNVFDSWZkT0poY0FEam1NU002d3Rhd1pHRnZBVll5bTFEaWt6R3RRR2FsNkVmSjd2eTM3VGNTdjVsanNhMmRwU3gyRWk1YWdkcER3Z0VvNmZKS3ZDcjV0Vm5mOUJQZG5ia19QNkFQUmhaWWc1T0E?oc=5",
       "source": "GNews: SEC 8-K data center capital",
       "source_cat": "SEC Filing",
       "date": "2026-08-11",
@@ -737,13 +860,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "509b784840673d",
-      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom - Fortune",
+      "id": "d8f04a1cbbb00c",
+      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdlRYU04xZk5CYkhmaGFicnRlSk01MEF0NjNFd1hBUG4tWFNBNlB0MEpYOEhjQndaZXVYWUtUbWREMmIwWEhzUUFWZmxVTUNxb1dsNlRnWUxQN0dzb3E4?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-11",
-      "summary": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom &nbsp;&nbsp; Fortune",
+      "summary": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom &nbsp;&nbsp; fortune.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -763,21 +886,6 @@
       "companies": [
         "NVIDIA"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "401e98cae68c85",
-      "title": "AI data center developer 5C secures half a billion dollars in new financing",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-developer-5c-secures-half-a-billion-dollars-in-new-financing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Funds will be used to develop existing project pipeline",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -870,13 +978,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d8f04a1cbbb00c",
-      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom - fortune.com",
+      "id": "509b784840673d",
+      "title": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom - Fortune",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdlRYU04xZk5CYkhmaGFicnRlSk01MEF0NjNFd1hBUG4tWFNBNlB0MEpYOEhjQndaZXVYWUtUbWREMmIwWEhzUUFWZmxVTUNxb1dsNlRnWUxQN0dzb3E4?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-11",
-      "summary": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom &nbsp;&nbsp; fortune.com",
+      "summary": "AI’s biggest buildout is here. These stocks offer a way to invest in the data center boom &nbsp;&nbsp; Fortune",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -885,37 +993,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "145eced192a61a",
-      "title": "Australia’s CDC mulls new data center in New Zealand",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
+      "id": "401e98cae68c85",
+      "title": "AI data center developer 5C secures half a billion dollars in new financing",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-developer-5c-secures-half-a-billion-dollars-in-new-financing/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-11",
-      "summary": "Partners with Contact Energy on the potential project",
+      "summary": "Funds will be used to develop existing project pipeline",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e073648a5d5dba",
-      "title": "Nvidia partners with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR for $500bn financing program",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-for-500bn-financing-program/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Chip company aims to 'secure capital at attractive rates' for Nvidia customers",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -997,6 +1086,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "145eced192a61a",
+      "title": "Australia’s CDC mulls new data center in New Zealand",
+      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-mulls-new-data-center-in-new-zealand/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Partners with Contact Energy on the potential project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e073648a5d5dba",
+      "title": "Nvidia partners with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR for $500bn financing program",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-for-500bn-financing-program/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-11",
+      "summary": "Chip company aims to 'secure capital at attractive rates' for Nvidia customers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1500,23 +1623,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ca2cd823b0dd35",
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-10",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d65741770c8fd0",
       "title": "AWS Weekly Roundup: AWS Heroes Summit, Web Search on Amazon Bedrock, Dogwood, Kiro Crew, and more (August 10, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
@@ -1558,6 +1664,23 @@
       "source_cat": "Company IR",
       "date": "2026-08-10",
       "summary": "A letter from Mark Zuckerberg on the path to a positive AI future. \n The post  The Future is for Everyone  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ca2cd823b0dd35",
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-10",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -1829,13 +1952,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2039183e2d84e3",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - basenor.com",
+      "id": "88751fb360b2f9",
+      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - BASENOR - Tesla Accessories",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; basenor.com",
+      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; BASENOR - Tesla Accessories",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -1846,13 +1969,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "88751fb360b2f9",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - BASENOR - Tesla Accessories",
+      "id": "2039183e2d84e3",
+      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - basenor.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; BASENOR - Tesla Accessories",
+      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; basenor.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -2199,13 +2322,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1b0ebad428e8d9",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
+      "id": "2e5f4d05ffcdda",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -2216,13 +2339,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2e5f4d05ffcdda",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
+      "id": "1b0ebad428e8d9",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -7079,6 +7202,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "952e5f023f6847",
+      "title": "Fast Money Host Warns Hyperscaler CapEx Binge Is 'Issuing Near Junk' as Data Center Buildout Shows Cracks - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnZ4UUFmWWdIX0F3RzRMV2UxaXd0Qi1rY21rRTBTeS1uems5bHg2Tm9nNVdNN2lCQlA1a0FuN09jQ2pTc1dWZFM5Ul9VeTJlUW9TZjNPeThSUmh1TnRmUzNZT2FJSnlFRUQ3QU1wWjBGVTI0ZGhoMnNlWVFsVmVOR0oyYmJramtONzM5aGtZaTdoM3NLYlZTU2QtWW45bVluLXB0RThOYlFqZHNySXZjUXRWd1pLQ29EX2RGSFljckhXcnVZVkJUSDV3ekJ4VHVBNEJlTjVHWDdmYXRDX0pQVg?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-07-29",
+      "summary": "Fast Money Host Warns Hyperscaler CapEx Binge Is 'Issuing Near Junk' as Data Center Buildout Shows Cracks &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3415de0a677f96",
       "title": "The Wild Wild West Of LEGO Datacenters",
       "url": "https://newsletter.semianalysis.com/p/the-wild-wild-west-of-lego-datacenters",
@@ -7774,13 +7912,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "231e8504cd8e57",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
+      "id": "c4a889d33778e3",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -7805,6 +7943,23 @@
       "locations": [
         "Texas"
       ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "231e8504cd8e57",
+      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - Meta Store",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-07-28",
+      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Store",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -7835,23 +7990,6 @@
       "date": "2026-07-28",
       "summary": "Meta Announces New Strategic Venture with BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; Meta Investor Relations",
       "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c4a889d33778e3",
-      "title": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso - about.fb.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNkVTU2WHZLektuSFZfQ0xBc082cmpIU1RlOWdfSjkwMFRUQUo4M29tNmNoNG8ycVh3UDBHZ21ia1Nqd3h4QUl5N1otdTBaZ3g0bG9McER5VS1KdExrcFZEalpkTjlfdXhmeWpvcjEzS3JIbWw1Q0NUc0hjZlR4OFNmQnZpM2lnV2JSYm9xTmZSTG92WTR1bVpadEtGX3FKeTdVQVl6VGFUNlg1YlFn0gG0AUFVX3lxTE03UXJxQnR4VWpoQWJYeGRPdFVvOFNWSHpiTzQ0WGlLSXpWQXZ3MVJTU3k3dzhuakhkdzFlclc2SnNJOWZpeVE5eDIyN2hfZGp1QUxCRE5xdWZkQ2N2UHBKaHMxU3BCUi1YZk1Ecms4dEY5LTRiMk53a29QYUprcExFejVLUS1qRi1Ra0ZEWU5zRXh1eWVuN2lwb3BSV1ZYUFBSUHc1UDR4UEhweW1UM3VOVndGVw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-07-28",
-      "summary": "Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso &nbsp;&nbsp; about.fb.com",
-      "finding_type": "Statement / Update",
       "companies": [
         "Meta"
       ],
@@ -8650,13 +8788,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5aa22b8ceb3412",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
+      "id": "5cd2af404eb2d5",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -8670,13 +8808,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5cd2af404eb2d5",
-      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - fortune.com",
+      "id": "5aa22b8ceb3412",
+      "title": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience - Fortune",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0tqNFBqQktqYWhxZXBjNFBJYmRPTzV4VEt3dmN5MXpheE5OcEFfeHZySTJ4ZmxIdHRHMFJmOUFQQWZrSmV6djh3eTdiMGthQUlSYVVUcEQ5VzdvYXdSaGNBVHAwQTJ3N25hS0FtYlN6dnRsSkRpYkt6Y0NxODNONFJjYnBxbVU0NE1xRTMycW1DS3NMS004M1ZlY1ZfZw?oc=5",
-      "source": "GNews: Microsoft data center build",
+      "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-07-27",
-      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; fortune.com",
+      "summary": "Amazon and Microsoft are spending $400 billion on AI—and investors are low on patience &nbsp;&nbsp; Fortune",
       "finding_type": "New Project",
       "companies": [
         "Microsoft",
@@ -10252,152 +10390,6 @@
         "$9.6B"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7e537f581c8c97",
-      "title": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County - wdrb.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPekRwZTFqZ3FOVWNERnRXZEM5cU1ISjZkbkprRG9Ja2J1eFhxQUxtb3U0T3ZVUVBFUFBpVmViWTVQMkpsYVFDMkMyVGpKeFlXTTJmNGZvNkd5NzBncktUd1lUUWphYmlwV2NkSVVzTHJJNG1qN0hLYThHakxadHJiSXVHb20yTW5ZWGhzQlo2VzZLMVd4OS1XNHN1bVpqeFVuLUJhY2hpWkltbkFkRUQxMG5NTEFneEp0b192cEtlR0lYb0x4MUpLUFJ5bHl2NXgzak5KVlo2N2x4SF9IWkhaUjhyVVdlTlVweGxWLXBRVFBwRFM0a21hQXotTmlHaXBhMUNzTlItMXJDX2Fn?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-23",
-      "summary": "Louisville-based development team announces plans for $9.6B data center campus in Carroll County &nbsp;&nbsp; wdrb.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$9.6B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "55e06b469c169e",
-      "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-23",
-      "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5f92d1a084f4ec",
-      "title": "Meta to deploy custom AMD Instinct MI450-based GPU, is 'lead customer' for Venice Epyc CPU",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-to-deploy-custom-amd-instinct-mi450-based-gpu-is-lead-customer-for-venice-epyc-cpu/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "As part of ongoing 6GW AMD rollout",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "6GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4f3c3edc2e2fd0",
-      "title": "OpenAI to deploy AMD Helios rackscale system as first part of up to 6GW partnership",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-to-deploy-amd-helios-rackscale-system-as-first-part-of-up-to-6gw-partnership/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Company has already tested the beefy AI rack",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "6GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0250cbc33a8ab0",
-      "title": "Hong Kong property firm ITC inks memorandum to build 1GW data center near Shanghai",
-      "url": "https://www.datacenterdynamics.com/en/news/hong-kong-property-firm-itc-inks-memorandum-to-build-1gw-data-center-near-shanghai/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Data center would be developed in phases over five years",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1a3971d04a97e1",
-      "title": "Submer's Rubix Data Centers proposes 2GW data center at former steelworks in Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/submers-rubix-data-centers-proposes-2gw-data-center-at-former-steelworks-in-kentucky/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Firm's first US project revealed",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "2GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "29673d0fc1acd2",
-      "title": "Sabey starts construction on 120MW data center campus in Oregon",
-      "url": "https://www.datacenterdynamics.com/en/news/sabey-starts-construction-on-120mw-data-center-campus-in-oregon/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "Company goes vertical in Umatilla",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Oregon"
-      ],
-      "amounts": [
-        "120MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "052f43733efd5e",
-      "title": "SK Telecom launches dedicated data center unit",
-      "url": "https://www.datacenterdynamics.com/en/news/sk-telecom-launches-dedicated-data-center-unit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-23",
-      "summary": "SK Hyper targeting 15GW of capacity by 2035",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "15GW"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
