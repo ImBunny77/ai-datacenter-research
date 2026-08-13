@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-13T19:03:15.922723+00:00",
+  "last_updated": "2026-08-13T20:42:59.947905+00:00",
   "finding_count": 600,
   "new_project_count": 63,
-  "cancellation_count": 23,
+  "cancellation_count": 22,
   "sec_filing_count": 4,
-  "high_confidence_count": 186,
+  "high_confidence_count": 185,
   "findings": [
     {
       "id": "7c43e4fa2219e2",
@@ -47,23 +47,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d4f0e25fd05748",
-      "title": "Malaysian real estate firm DPS Resources eyes data center developments in Melaka",
-      "url": "https://www.datacenterdynamics.com/en/news/malaysian-real-estate-firm-dps-resources-eyes-data-center-developments-in-melaka/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-13",
-      "summary": "Signs MoUs to support 89MW factory conversion project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "89MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "8fdf7d96326554",
       "title": "Anthropic could be worth $2 trillion when it goes public",
       "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
@@ -78,6 +61,23 @@
       "locations": [],
       "amounts": [
         "$2 trillion"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d4f0e25fd05748",
+      "title": "Malaysian real estate firm DPS Resources eyes data center developments in Melaka",
+      "url": "https://www.datacenterdynamics.com/en/news/malaysian-real-estate-firm-dps-resources-eyes-data-center-developments-in-melaka/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-13",
+      "summary": "Signs MoUs to support 89MW factory conversion project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "89MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -217,6 +217,23 @@
         "7MW",
         "$165m"
       ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a973ad25ee52c8",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-13",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
     },
@@ -457,8 +474,8 @@
       "locations": [],
       "amounts": [
         "$240 million",
-        "$240M",
-        "$800 million"
+        "$800 million",
+        "$240M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -849,23 +866,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "708dfadbbf1bd2",
-      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-12",
-      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "fe4c505d433a3e",
       "title": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
@@ -924,6 +924,23 @@
       "source_cat": "Company IR",
       "date": "2026-08-12",
       "summary": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part of Made by Google.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "708dfadbbf1bd2",
+      "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-12",
+      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1045,25 +1062,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "dd849b5823e9d6",
-      "title": "Meta launches $1 billion fund supporting data center communities - alreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-11",
-      "summary": "Meta launches $1 billion fund supporting data center communities &nbsp;&nbsp; alreporter.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "9567e6e2b78ba7",
       "title": "Meta launches $1 billion fund supporting data center communities - Alabama Political Reporter",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
@@ -1078,6 +1076,25 @@
       "locations": [
         "Alabama"
       ],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "dd849b5823e9d6",
+      "title": "Meta launches $1 billion fund supporting data center communities - alreporter.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZWI1WmJobWxON3lGX0xqTUFadHp4WUtMbmhTQ3JqdEVncFZOT2hnVmR1c1gxV0djMnVPbkl0NHlzQTlfcDAxT1JyYVZJZm9ZdDVQYXZ3S3NlTE5JSURCTVZXQW12WW5zOFhDMFJQNjU1ZGJCcFMta19wRTM4U203ZjVpM203QVYtNXJZbkVkODIxdjlyQ0gwTURDVXNIazNBVkVPVw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Meta launches $1 billion fund supporting data center communities &nbsp;&nbsp; alreporter.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
       "amounts": [
         "$1 billion"
       ],
@@ -1419,6 +1436,25 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "f777cce22e7186",
+      "title": "Public Service Commission can demand transparency for Meta’s data center expansion - Louisiana Illuminator",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Public Service Commission can demand transparency for Meta’s data center expansion &nbsp;&nbsp; Louisiana Illuminator",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "4651e601e4eef2",
@@ -2898,13 +2934,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1b0ebad428e8d9",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
+      "id": "2e5f4d05ffcdda",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -2915,13 +2951,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2e5f4d05ffcdda",
-      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - silive.com",
+      "id": "1b0ebad428e8d9",
+      "title": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction - SILive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXBtR19Ed3lPRWR6QjBxVF9IZEZhZXBiZ2tnSjFlVFhGMkJYdHBybnowbTQ2S053b1Q4X0huZDNvUmNTS0tOYkFwN1ExWnBBUlRBQk4wNkV4ZW5UcWpJdEVNWkVCOExHQ1lSd05Lenp2bFFCak5tZGpBcmdzUDVhaFdMUV9fcEx2RTVneFFmWjN1Z0ZmVDY1a1BQZjlnLUFRaGp3cTN4bWNqd0lHN0RiemFXNWZGakg3dGxSMFhB0gHSAUFVX3lxTFBFdnRYM2x5OFlzQVpSZU4yOWhiSWVEOTVRVGlRRFowV0VUTlpmOGVxMk1wMC1JSUt6b0tqX0xsUUFxeFdnSlFHdjQ3RHk5V1N5Nko0cHMtamJJNjVrakJQS3M0dFEzMFYwN2hjUEsyNVRId0V0YVlsNlF6NVJfTTl2U3RNdHNSb20xY0pfeHJnUTZheG52VXRnaGItaUJnb0UtNVpIbERNaGtfdm1ETU54VnhTWVFsX0daOWdVWXE4ZWs0cWR1aFZZLUlLamhpUGpfZw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-07",
-      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; silive.com",
+      "summary": "Gov. Hochul discusses AI data center pause in New York, where she stands on future construction &nbsp;&nbsp; SILive.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -5604,6 +5640,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1815871fa3118e",
+      "title": "New Texas data center projects frozen until state audits them - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3Y4UlVrMjBGcTl3RkhtVXZFNnR2M25VVkd6QXI2dnlUd2xBY3BLYk53U2VobUQyejdqU0V3VXlkZ3NWQWFsR0hfWXN0OG9jTERsUWcyVHRHeUYwZUxfOTJwNm1rWDh4aHJTZ0tjLXVwLTYzUEV6LWYySTRSUVpLWHVVVERUYjRDdlRySQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-03",
+      "summary": "New Texas data center projects frozen until state audits them &nbsp;&nbsp; The Texas Tribune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -10352,59 +10405,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "cb3e783b9456b9",
-      "title": "Google announced as end user of 8 million sq ft data center in Columbia, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/google-announced-as-end-user-of-8-million-sq-ft-data-center-in-columbia-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "Chairman of County Board makes announcement with President Trump",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1842cb87dbe1e1",
-      "title": "Synopsys targets physical AI complexity with co-design and agentic chip workflows",
-      "url": "https://siliconangle.com/2026/07/24/synopsys-tackles-chip-design-complexity-amdadvancingai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-24",
-      "summary": "The rapid evolution of intelligent software-defined systems is pushing chip design into a new era of physical AI, one where chip design complexity is outpacing traditional engineering methods. Manufacturers are racing to cram hundreds of billions of transistors into components that power everything from autonomous vehicles to hyperscale data centers. As a result, designing silicon [&#8230;] \n The post  Synopsys targets physical AI complexity with co-design and agentic chip workflows  appeared fi",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "69b195e16f6839",
-      "title": "Vantage, VoltaGrid face lawsuit concerning natural gas powered off-grid data centers in San Antonio, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/vantage-voltagrid-face-lawsuit-concerning-natural-gas-powered-off-grid-data-centers-in-san-antonio-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-24",
-      "summary": "Environmental Integrity Project, the Sierra Club, and Public Citizen submit a notice of intent to sue letter",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
