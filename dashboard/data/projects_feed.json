@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-08-17T10:32:10.526070+00:00",
+  "last_updated": "2026-08-17T12:44:21.325425+00:00",
   "finding_count": 600,
-  "new_project_count": 63,
-  "cancellation_count": 22,
+  "new_project_count": 62,
+  "cancellation_count": 20,
   "sec_filing_count": 4,
-  "high_confidence_count": 187,
+  "high_confidence_count": 190,
   "findings": [
+    {
+      "id": "ed0c624c334d32",
+      "title": "Nvidia in talks to invest up to $3bn in SB Energy - report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-up-to-3bn-in-sb-energy-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-17",
+      "summary": "Would support the development of an up to 10GW data center campus in Ohio for OpenAI",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "10GW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "ab110dce499520",
       "title": "Princeton Digital Group to Invest $1 Billion, Expand India Data Center Capacity - ET Datacenters",
@@ -45,6 +67,44 @@
       "is_high_confidence": true
     },
     {
+      "id": "e7465b8c02c04f",
+      "title": "Blue Energy, GE Vernova Hitachi advance 2.5GW gas-plus-nuclear plant in Texas, to power up to 1.5GW data center",
+      "url": "https://www.datacenterdynamics.com/en/news/blue-energy-ge-vernova-hitachi-advance-25gw-gas-plus-nuclear-plant-in-texas-to-power-up-to-15gw-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-17",
+      "summary": "Intended to supply 1GW of power to the Crusoe data center by 2030",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "1GW",
+        "2.5GW",
+        "1.5GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8875e01776cecf",
+      "title": "L&T's data center unit to host Nvidia hardware for Together AI",
+      "url": "https://www.datacenterdynamics.com/en/news/lts-data-center-unit-to-host-nvidia-hardware-for-together-ai/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-17",
+      "summary": "Vyoma.AI to host Nvidia B300 ‘AI Factory’ for AI startup in Chennai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "2da1b1a065c408",
       "title": "Sponsored: Leviton Network Solutions expands capacity for global data center customers",
       "url": "https://www.datacenterdynamics.com/en/product-news/leviton-network-solutions-expands-capacity-for-global-data-center-customers/",
@@ -76,6 +136,25 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "38ce8af1231dab",
+      "title": "Iren delivers first phase of AI capacity to Microsoft in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/iren-delivers-first-phase-of-ai-capacity-to-microsoft-in-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-17",
+      "summary": "More on the Horizon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -188,6 +267,27 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "f79f23e7630924",
+      "title": "Data center spanning up to 50,000 sqm gets approval for construction in west London, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-spanning-up-to-50000-sqm-gets-approval-for-construction-in-west-london-the-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-14",
+      "summary": "Will use 64MW of electricity and provide 48MW of IT load, according to planning documents",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK",
+        "London"
+      ],
+      "amounts": [
+        "64MW",
+        "48MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
     },
     {
       "id": "7ce09d748d24b2",
@@ -396,38 +496,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0ae546159a421f",
-      "title": "In the era of AI, data center standardization is the name of the game - here’s why",
-      "url": "https://www.datacenterdynamics.com/en/opinions/in-the-era-of-ai-data-center-standardization-is-the-name-of-the-game-heres-why/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-14",
-      "summary": "Is Global Reference Design the answer to support this standardization?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "737c93f1a2a85e",
-      "title": "Neocloud results Q2 2026: CoreWeave, Nebius, Cerebras",
-      "url": "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-14",
-      "summary": "Companies see revenues grow, losses widen",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8366f3d37ca386",
       "title": "Anthropic details unreleased Model 2, new alignment concerns in latest AI risk report",
       "url": "https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report/",
@@ -473,6 +541,38 @@
       "companies": [
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0ae546159a421f",
+      "title": "In the era of AI, data center standardization is the name of the game - here’s why",
+      "url": "https://www.datacenterdynamics.com/en/opinions/in-the-era-of-ai-data-center-standardization-is-the-name-of-the-game-heres-why/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-14",
+      "summary": "Is Global Reference Design the answer to support this standardization?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "737c93f1a2a85e",
+      "title": "Neocloud results Q2 2026: CoreWeave, Nebius, Cerebras",
+      "url": "https://www.datacenterdynamics.com/en/news/neocloud-results-q2-2026-coreweave-nebius-cerebras/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-14",
+      "summary": "Companies see revenues grow, losses widen",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -3387,8 +3487,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -3992,13 +4092,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9af0f474476b07",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -4028,13 +4128,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "9af0f474476b07",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -5987,13 +6087,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "72df5f2d47a761",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
+      "id": "049a7fd6d9111a",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -6008,13 +6108,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "049a7fd6d9111a",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
+      "id": "72df5f2d47a761",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -8197,13 +8297,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c5ce6fef274891",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
+      "id": "2f137eaa70503d",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -8214,13 +8314,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2f137eaa70503d",
-      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - LEX 18 News",
+      "id": "c5ce6fef274891",
+      "title": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 - lex18.com",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdVJrU2l3dmJqR2NwOVJub1Y2bFRZSEhWUEFiUXAwdS1ycWVCcnRxaTVLcTZWNVY5RDdGcVVmMWtDR3NQRXZhRGRjNDhsMTVwUWJZZjU3ZlZ4VFgwdnVIcUZEYW5FeHk1VkNWcTJGaEdQOHEzZlUwMmJMZWtXRkstbDdlMDlDelNoVWEwMXkwQ2hvTk1VeGlLaGNNZWlrSGlvd3FEM3RPc0lSOWJDY3pic2pzenNNTVQ4OWpoRVlhNEZhUjd2TW0wN2VDVmZWc2RMdkNSMUR3Uk1ybU9LazJVcGRhcGxUczFrMlpKSkMtYm02UFJwaWxZUEVXbEVCdUQ1YjI5eFBkQ3c1a1daelVZSExCaFJXcEE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-07-29",
-      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; LEX 18 News",
+      "summary": "U.S. Department of Energy announces $100 billion data center investment coming to Paducah in 2031 &nbsp;&nbsp; lex18.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -10324,91 +10424,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bbdc361bb40d8a",
-      "title": "Rethinking security for the age of AI",
-      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-07-27",
-      "summary": "Editor&#8217;s note: Updates with additional details on the model&#8217;s crash score. Why security needs a new cyber stack — Introducing Project Perception The physics of cybersecurity are changing. Autonomous systems can now reason, adapt and operate continuously. At the same time, the cost of offense is falling, while the volume, velocity and complexity of what... \n The post  Rethinking security for the age of AI  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d75d21ac03da6b",
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-27",
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5a28afd5fdbf70",
-      "title": "Microsoft’s introduces its first agent-powered cybersecurity model",
-      "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-27",
-      "summary": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agents to probe for weaknesses, investigate threats and remediate them, starting with software vulnerability management. The model is a compact, code-tuned derivative of Microsoft&#8217;s MAI-Thinking-1 line, trained in-house on the company&#8217;s [&#8230;] \n The post  Microsoft&#8217;s introduces its fi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "06663d52b3edcb",
-      "title": "Tech industry leaders join to form Open Secure AI Alliance to promote safety and security",
-      "url": "https://siliconangle.com/2026/07/27/tech-industry-leaders-join-form-open-secure-ai-alliance-promote-safety-security/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-27",
-      "summary": "Nvidia Corp. today announced the launch of the Open Secure AI Alliance, a new organization founded by technology, cloud computing and cybersecurity leaders to build and share open artificial intelligence tools. As the capability and strength of AI tools grows and shapes the technology industry, it is becoming instrumental for safety, security and trust to remediate and [&#8230;] \n The post  Tech industry leaders join to form Open Secure AI Alliance to promote safety and security  appeared first ",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "346840acd7b31e",
-      "title": "Microsoft’s first cybersecurity model powers new Project Perception agents",
-      "url": "https://siliconangle.com/2026/07/27/microsofts-first-cybersecurity-model-powers-new-project-perception-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-07-27",
-      "summary": "Microsoft Corp. today introduced its first in-house cybersecurity model, MAI-Cyber-1-Flash, and a companion agentic system called Project Perception that fields teams of artificial intelligence agents to probe for weaknesses, investigate threats and remediate them, starting with software vulnerability management. The model is a compact, code-tuned derivative of Microsoft&#8217;s MAI-Thinking-1 line, trained in-house on the company&#8217;s [&#8230;] \n The post  Microsoft&#8217;s first cybersecuri",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
