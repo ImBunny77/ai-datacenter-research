@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-08-17T16:27:56.987091+00:00",
+  "last_updated": "2026-08-17T18:40:22.468765+00:00",
   "finding_count": 600,
-  "new_project_count": 58,
+  "new_project_count": 59,
   "cancellation_count": 21,
   "sec_filing_count": 4,
-  "high_confidence_count": 180,
+  "high_confidence_count": 181,
   "findings": [
+    {
+      "id": "44059b75ed2b62",
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-17",
+      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$21B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "861ae146445f27",
       "title": "Nvidia in talks to invest $1.5bn in SB Energy",
@@ -24,25 +43,6 @@
       ],
       "amounts": [
         "10GW"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "44059b75ed2b62",
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-17",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$21B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -104,6 +104,25 @@
       "locations": [],
       "amounts": [
         "4.25GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b4792455946257",
+      "title": "On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters",
+      "url": "https://siliconangle.com/2026/08/17/ai-bubble-neoclouds-thecubepod/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-17",
+      "summary": "The debate over whether we are in an artificial intelligence bubble took a new turn this week. Despite the ballooning AI spending, Dave Vellante (pictured, right), chief analyst for theCUBE Research, contends that any bursting point may be far off. Now that Nvidia Corp. Chief Executive Jensen Huang, has committed $500 billion to establish independent [&#8230;] \n The post  On theCUBE Pod: AI bubble debate heats up and neocloud earnings challenge doubters  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$500 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -450,13 +469,30 @@
       "is_high_confidence": false
     },
     {
+      "id": "6e85a6acaca6b9",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-17",
+      "summary": "Amazon’s team uses a  T. rex  preparing to devour a book as its logo.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cf2ea91bb706da",
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
       "source": "Amazon AWS News",
       "source_cat": "Company IR",
       "date": "2026-08-17",
-      "summary": "Last week, the OpenSearch and Valkey teams visited Seoul to meet open source developers and contributors in the Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026. At the four-day event, community leaders and users of open source projects and emerging agent AI gathered to share knowledge, collaborate on solutions, and push the projects […]",
+      "summary": "Last week, AWS contributors joined the OpenSearch and Valkey communities at Open Source Summit Korea 2026 and MCP DevSummit Seoul 2026 to meet open source developers and contributors. At the four-day event, community leaders and users of these Linux Foundation open source projects gathered to share knowledge, collaborate on solutions, and push the projects forward. […]",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon",
@@ -986,8 +1022,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100B",
-        "$100 billion"
+        "$100 billion",
+        "$100B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1254,24 +1290,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "75a6a1827d456d",
-      "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities",
-      "url": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-13",
-      "summary": "SpaceXAI today released Grok 4.6, a large language model that it says can outperform Anthropic PBC’s Claude Fable 5 in some areas. The company was known as xAI until last month. The Elon Musk-founded artificial intelligence provider rebranded in connection with its acquisition by SpaceX Corp. In June, the combined company listed its shares on [&#8230;] \n The post  SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "8cd472985003cf",
       "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
       "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
@@ -1305,6 +1323,24 @@
       "locations": [
         "Australia"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "75a6a1827d456d",
+      "title": "SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities",
+      "url": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-13",
+      "summary": "SpaceXAI today released Grok 4.6, a large language model that it says can outperform Anthropic PBC’s Claude Fable 5 in some areas. The company was known as xAI until last month. The Elon Musk-founded artificial intelligence provider rebranded in connection with its acquisition by SpaceX Corp. In June, the combined company listed its shares on [&#8230;] \n The post  SpaceXAI releases flagship Grok 4.6 model with advanced reasoning capabilities  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI",
+        "Anthropic"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3814,8 +3850,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -5431,13 +5467,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4cde73fb17d1d7",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
+      "id": "bc2dc6b7a24c4c",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -5463,13 +5499,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "bc2dc6b7a24c4c",
-      "title": "How Much Data Center Revenue Do AI Companies Bring In? - fool.com",
+      "id": "4cde73fb17d1d7",
+      "title": "How Much Data Center Revenue Do AI Companies Bring In? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-05",
-      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; fool.com",
+      "summary": "How Much Data Center Revenue Do AI Companies Bring In? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -6429,13 +6465,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "72df5f2d47a761",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
+      "id": "049a7fd6d9111a",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -6450,13 +6486,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "049a7fd6d9111a",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
+      "id": "72df5f2d47a761",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -7417,25 +7453,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "6aa7a0fbd7c0e0",
-      "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - Lexington Herald Leader",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-07-31",
-      "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; Lexington Herald Leader",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "$100B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "23d80d3059934b",
       "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - kentucky.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
@@ -7448,6 +7465,25 @@
       "locations": [
         "Kentucky",
         "kentucky"
+      ],
+      "amounts": [
+        "$100B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6aa7a0fbd7c0e0",
+      "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - Lexington Herald Leader",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-07-31",
+      "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; Lexington Herald Leader",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
       ],
       "amounts": [
         "$100B"
@@ -7630,13 +7666,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a97cdd0765bec4",
-      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
+      "id": "068556927048ce",
+      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-31",
-      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
+      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7645,13 +7681,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "068556927048ce",
-      "title": "How Much Are AI Companies Spending on Data Centers? - fool.com",
+      "id": "a97cdd0765bec4",
+      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-07-31",
-      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; fool.com",
+      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10337,42 +10373,6 @@
       "companies": [],
       "locations": [
         "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8fb9401cd5a17f",
-      "title": "Amazon advances several water sustainability projects in India",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-advances-several-water-sustainability-projects-in-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-28",
-      "summary": "Claims it had achieved water positivity in India ahead of its 2027 target",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "603fdeaf661e76",
-      "title": "900-acre data center project proposed outside Lexington, Kentucky",
-      "url": "https://www.datacenterdynamics.com/en/news/900-acre-data-center-project-proposed-outside-lexington-kentucky/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-28",
-      "summary": "Serious dough will be needed for Panattoni campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
       ],
       "amounts": [],
       "confidence": 2,
