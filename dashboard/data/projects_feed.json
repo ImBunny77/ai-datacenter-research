@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-19T16:32:12.881552+00:00",
+  "last_updated": "2026-08-19T18:35:54.735265+00:00",
   "finding_count": 600,
   "new_project_count": 69,
   "cancellation_count": 19,
   "sec_filing_count": 4,
-  "high_confidence_count": 197,
+  "high_confidence_count": 195,
   "findings": [
     {
       "id": "d3939c6bf707cc",
@@ -81,8 +81,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$13M",
-        "$13 million"
+        "$13 million",
+        "$13M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -248,8 +248,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$40m",
-        "$22m"
+        "$22m",
+        "$40m"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -304,6 +304,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6e045f8ec33b0c",
+      "title": "Plans for potential data center in Modesto, California, spark public outcry",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-potential-data-center-in-modesto-california-spark-public-outcry/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-19",
+      "summary": "NorthPoint rumored to be developer of 45-acre old chemical plant site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -418,21 +435,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "0b025d6c8902d8",
-      "title": "Trane and Eaton tout integrated designs for AI data center power and cooling systems",
-      "url": "https://www.datacenterdynamics.com/en/news/trane-and-eaton-tout-integrated-designs-for-ai-data-center-power-and-cooling-systems/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-19",
-      "summary": "Vendors promise big savings for digital infrastructure operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f44babdda2c695",
       "title": "Harness launches AI agents that triage and patch vulnerabilities",
       "url": "https://siliconangle.com/2026/08/19/harness-launches-ai-agents-triage-patch-vulnerabilities/",
@@ -460,6 +462,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "04405c17f1fc34",
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-19",
+      "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d330cece4a0455",
+      "title": "Meta ran ads for an app promising to nudify female politicians",
+      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-19",
+      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -495,6 +531,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b025d6c8902d8",
+      "title": "Trane and Eaton tout integrated designs for AI data center power and cooling systems",
+      "url": "https://www.datacenterdynamics.com/en/news/trane-and-eaton-tout-integrated-designs-for-ai-data-center-power-and-cooling-systems/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-19",
+      "summary": "Vendors promise big savings for digital infrastructure operators",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -812,10 +863,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$21B",
+        "$700M",
         "$300 million",
         "$700 million",
-        "$700M"
+        "$21B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -838,26 +889,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "93c0ee7ddf2166",
-      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - techrepublic.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-18",
-      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; techrepublic.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "ed7cf26508a6dc",
       "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - KSLA",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
@@ -870,6 +901,26 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "36fe00402f7ada",
+      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; TechRepublic",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [
+        "Ohio"
+      ],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -911,13 +962,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "36fe00402f7ada",
-      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - TechRepublic",
+      "id": "93c0ee7ddf2166",
+      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; TechRepublic",
+      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; techrepublic.com",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA",
@@ -1820,23 +1871,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6e85a6acaca6b9",
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-17",
-      "summary": "Amazon’s team uses a  T. rex  preparing to devour a book as its logo.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "cf2ea91bb706da",
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
@@ -1848,6 +1882,23 @@
       "companies": [
         "Amazon",
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6e85a6acaca6b9",
+      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-17",
+      "summary": "Amazon’s team uses a  T. rex  preparing to devour a book as its logo.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -7995,13 +8046,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "72df5f2d47a761",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
+      "id": "049a7fd6d9111a",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -8016,13 +8067,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "049a7fd6d9111a",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
+      "id": "72df5f2d47a761",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -10372,62 +10423,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "02e4f6f2d1b1f0",
-      "title": "AWS secures $410m compute agreement with Recursive Superintelligence",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-secures-410m-compute-agreement-with-recursive-superintelligence/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-29",
-      "summary": "Comes just months after AI startup raised $650m",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$410m",
-        "$650m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f0f6f61b03f168",
-      "title": "Seatrium plans 30MW offshore data center pilot",
-      "url": "https://www.datacenterdynamics.com/en/news/seatrium-plans-30mw-offshore-data-center-pilot/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-29",
-      "summary": "Comes as startup pitches nuclear ships for GPUs, and renewable energy firm unveils nautical data center platform",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "30MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "275dd6c7456a4c",
-      "title": "Talen looks to develop 23-building data center campus in Pennsylvania",
-      "url": "https://www.datacenterdynamics.com/en/news/talen-looks-to-develop-23-building-data-center-campus-in-pennsylvania/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-29",
-      "summary": "Company looks to develop site previously earmarked for Amazon campus",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
