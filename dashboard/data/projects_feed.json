@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-19T02:57:41.442865+00:00",
+  "last_updated": "2026-08-19T04:37:12.905608+00:00",
   "finding_count": 600,
-  "new_project_count": 68,
+  "new_project_count": 69,
   "cancellation_count": 19,
   "sec_filing_count": 4,
-  "high_confidence_count": 185,
+  "high_confidence_count": 186,
   "findings": [
     {
       "id": "d3939c6bf707cc",
@@ -307,11 +307,28 @@
       "locations": [],
       "amounts": [
         "$21B",
+        "$700M",
         "$700 million",
-        "$300 million",
-        "$700M"
+        "$300 million"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6ad15aafbb4d91",
+      "title": "Amazon increases data center investment, announces plan for third facility in Caddo Parish - KTALnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yRWhLOVhBanFJMEUwZDN5czhXcldDNC1ZN0tzQVE0dkF6Qi12VHpvLWdoQTFNVXVZNGJKU0FHMmE5WU5iaThZdGpaVzFCQkFfZ19wbUR3ZXdyajRBOEJtZEtDeVhwRVJ2OVhZT05FeTBQekd3SnB2QkV30gF_QVVfeXFMTThtbTJtQ0p2NE5hS2FPOExvSlpMNUY1cnRURUYzbFV0U2FzbTZpa1U3a2xVcnR0Ql94R1FBWHdQcjJFY0loNkx6VlhPRk1HYUVwLXlwdHlBb3d1dWZOSDdjTWYxVFhwNnh3UFJ4aUprSXliYlVjNTZ5aEE0bzZxaw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Amazon increases data center investment, announces plan for third facility in Caddo Parish &nbsp;&nbsp; KTALnews.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -332,13 +349,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "93c0ee7ddf2166",
-      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - techrepublic.com",
+      "id": "36fe00402f7ada",
+      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; techrepublic.com",
+      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; TechRepublic",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA",
@@ -425,6 +442,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "93c0ee7ddf2166",
+      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - techrepublic.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; techrepublic.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "9d5dd921c4f7f8",
       "title": "Amazon increases data center investment, announces plan for third facility in Caddo Parish - WGNO",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWZySUt3Z3NYT3hIbmt5MUczMWVYbGlHS1Y0aXNJdHJvZDRGcXl3bGpSaGJLZXhOenJ6akdTX3VjUXFhX0RyNEh3NDJuaWg5STdwYkNnTC1uUGNYdmY4eXlXOFhfQ3prYjU0WWRlU2NfMld1eFBWaW1MSVRYcFF0TUhMRDZDdFk4bjFUbjVB0gGTAUFVX3lxTE1GODVJa1dBMXMtTjY1Z3BvaTlmMGp4akM2QUV2aTdObG9KYUp5WnpodWVCSkxhRU1YXzNZejFTd1RpRVMxb0NNSnhwUUh3UXNDbGdTOTBtTC1lOEtzV3VDOUJITDhDSFhsd3EtajZZd0I2NlYxVnNBX2E4Yjk5RW5CTjRMWUpFQ3ROM0JPd3BKc1ZLUQ?oc=5",
@@ -437,26 +474,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "36fe00402f7ada",
-      "title": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjMzRG55UWNCa0JZTlZ1WThhdGFaY3ZWelc4RXBvU3ZSUHpvTTlXRWMtM2RPSVNkanhpSXlQQzVsQkU4ZmE0ZUhEYzlVSjFDZFBkTG1XV2dsOUwzQWtidk1vNEhrV0o3Q28wTEtqZ3MxUFc2Ym1ZQmE4UFZWaGN6S3JlWDhkWnhxcXl3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-18",
-      "summary": "Nvidia, SB Energy Announce Massive Ohio Data Center for OpenAI &nbsp;&nbsp; TechRepublic",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [
-        "Ohio"
-      ],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -1067,8 +1084,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$350M",
-        "$350 million"
+        "$350 million",
+        "$350M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1107,8 +1124,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$10 million",
-        "$10M"
+        "$10M",
+        "$10 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1487,13 +1504,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1b391de36345e3",
-      "title": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania - mcall.com",
+      "id": "3169d599a60a5d",
+      "title": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania - The Morning Call",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaG5MN3dHdjRVcV80Y3E0VnNyeDJDTHk1dHZjTzU5UmNNa2JDZ1JEMkZBSklfUXJFQzJ5MkRCQnk3SjBjNzdPNmZKVEZMLXJqTVFjYWhVOUxHY0RBU2E2Qk81Z3JWblZPSEQwWW81T2RlbnpCc0NQQTYxYUN2MmJlQzhrOWpCNTdxMlRNQ09jZUExLU5NdVkzR0JhNF9PS2pvb0t6SnEyY0piNC1QaTFYVUQtbGNjUUp6dG53NmtQYkVCRjVRc0E?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-15",
-      "summary": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania &nbsp;&nbsp; mcall.com",
+      "summary": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania &nbsp;&nbsp; The Morning Call",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -1504,13 +1521,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3169d599a60a5d",
-      "title": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania - The Morning Call",
+      "id": "1b391de36345e3",
+      "title": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania - mcall.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaG5MN3dHdjRVcV80Y3E0VnNyeDJDTHk1dHZjTzU5UmNNa2JDZ1JEMkZBSklfUXJFQzJ5MkRCQnk3SjBjNzdPNmZKVEZMLXJqTVFjYWhVOUxHY0RBU2E2Qk81Z3JWblZPSEQwWW81T2RlbnpCc0NQQTYxYUN2MmJlQzhrOWpCNTdxMlRNQ09jZUExLU5NdVkzR0JhNF9PS2pvb0t6SnEyY0piNC1QaTFYVUQtbGNjUUp6dG53NmtQYkVCRjVRc0E?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-15",
-      "summary": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania &nbsp;&nbsp; The Morning Call",
+      "summary": "How Gov. Shapiro’s early embrace of data centers is testing his high popularity in Pennsylvania &nbsp;&nbsp; mcall.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [
@@ -5423,13 +5440,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9af0f474476b07",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -5459,13 +5476,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "9af0f474476b07",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -7433,13 +7450,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "049a7fd6d9111a",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
+      "id": "72df5f2d47a761",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -7454,13 +7471,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "72df5f2d47a761",
-      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - lakeexpo.com",
+      "id": "049a7fd6d9111a",
+      "title": "Amazon To Build $10 Billion Data Center In Central Missouri - LakeExpo.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVEc3SUpJd2t0Qk9ubndwOFpheG5LdU0wak9pQWdha0Iwa3JFWDFwNk81YzdRai16U3BqV3BMU0ZCNjdrZ3ExNmswcDFSOXBPYnlBVkNMTmhrVkRzUWtDQlVFSG8wZEN3bHJtdExUU1g3azRScG5felpqWS0tRTZjR2Z1Nll4bmswOUJ2emVYMGJ4Z05OQ3NzbTJKbjhqSDdrdHFsN3lJbU1vdkRqMjhRbU02cGhBdktfbE9FTl9aaHdGUk1TZ2k3M290cU9VeWpIVzhLbm9XNVVBQ0VGazYtZg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-08-03",
-      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; lakeexpo.com",
+      "summary": "Amazon To Build $10 Billion Data Center In Central Missouri &nbsp;&nbsp; LakeExpo.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -10372,23 +10389,6 @@
       "summary": "Deal could be reached in H2 2026",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4dab54d725cb4b",
-      "title": "Nvidia works with Lunar Outpost to deploy Lunar AI for Artemis Missions",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-works-with-lunar-outpost-to-deploy-lunar-ai-for-artemis-missions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-29",
-      "summary": "Space compute meets space robotics for new era of Moon exploration",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
