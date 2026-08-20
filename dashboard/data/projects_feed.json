@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-08-20T08:38:53.935733+00:00",
+  "last_updated": "2026-08-20T10:30:48.942256+00:00",
   "finding_count": 600,
   "new_project_count": 67,
-  "cancellation_count": 19,
+  "cancellation_count": 20,
   "sec_filing_count": 4,
-  "high_confidence_count": 190,
+  "high_confidence_count": 192,
   "findings": [
+    {
+      "id": "a739b733c243b0",
+      "title": "Norwegian developer withdraws proposal to build 50MW data center in city of Oton, Philippines",
+      "url": "https://www.datacenterdynamics.com/en/news/norwegian-developer-withdraws-proposal-to-build-50mw-data-center-in-city-of-oton-philippines/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-20",
+      "summary": "Tells journalists to \"just, fuck, go away\"",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "50MW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "2b177f0a12f520",
       "title": "Marvell shares jump 9.8% on Google chip design deal",
@@ -28,6 +47,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "f3cd730090648e",
+      "title": "State-owned real estate group looking to develop data center in Johor, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/state-owned-real-estate-group-looking-to-develop-data-center-in-johor-malaysia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-20",
+      "summary": "Unclear whether data center will use 600MW or 1.2GW of capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [
+        "600MW",
+        "1.2GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "fd49091f5833b3",
       "title": "Sanja Fidler’s world model startup Veeda AI raises $90M in seed funding",
       "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
@@ -41,11 +80,45 @@
       ],
       "locations": [],
       "amounts": [
-        "$90M",
-        "$90 million"
+        "$90 million",
+        "$90M"
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "f8f9030c55b8bc",
+      "title": "Twenty markets account 60 percent of hyperscale data center capacity - Synergy",
+      "url": "https://www.datacenterdynamics.com/en/news/twenty-markets-account-60-percent-of-hyperscale-data-center-capacity-synergy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-20",
+      "summary": "Northern Virginia, US, and Beijing, China, hold the highest market share",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e46d1ad7b88183",
+      "title": "Plans for five data centers in King of Prussia, Pennsylvania, blocked",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-five-data-centers-in-king-of-prussia-pennsylvania-blocked/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-20",
+      "summary": "Developer intends to launch appeal",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "4986087abf3415",
@@ -321,8 +394,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$22m",
-        "$40m"
+        "$40m",
+        "$22m"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -512,23 +585,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6820e6ea6c5797",
-      "title": "Plans filed for 10-story data center outside Brisbane, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-10-story-data-center-outside-brisbane-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-19",
-      "summary": "Facility to be located close to BESS and substation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -736,6 +792,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "6820e6ea6c5797",
+      "title": "Plans filed for 10-story data center outside Brisbane, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-10-story-data-center-outside-brisbane-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-19",
+      "summary": "Facility to be located close to BESS and substation",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "0b025d6c8902d8",
       "title": "Trane and Eaton tout integrated designs for AI data center power and cooling systems",
       "url": "https://www.datacenterdynamics.com/en/news/trane-and-eaton-tout-integrated-designs-for-ai-data-center-power-and-cooling-systems/",
@@ -853,13 +926,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "6069045a70dc8a",
-      "title": "Amazon announces $6B data center investment in Shreveport - thecentersquare.com",
+      "id": "f8ebeeb34883f4",
+      "title": "Amazon announces $6B data center investment in Shreveport - The Center Square",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakRzektMOVYzV3VVbmIzM1M3YTlnelBxQnFjSzlfNlVtZHhMdU9NUmVmZHJuMFZ5LTNMWUx3RzlpREZ0a1JqS0FqeWdLc0dVZV90QTJpXzNOMDJfWXZUMzFkN1NBa3poT0NvNWRiTEo5bHJDVVRlRW41TDFCV0xURm12YzJhMlE5TndhZWRWMXY2UUl0cFHSAZsBQVVfeXFMTmxjYWxkUTN5Nm9YR0E0RXEtYXZUYWItajd3T2M3bjV3aHNNNjA1TTk3dEF3RHF4ZWhSaG42ZVAxWXlNTkJkekVfUG5SUzRzOFNuUXI3SmZOYkYxcUJ1SUJSMVJqSkRKRTdnZlFkOFJ5LVJGRXI2MUI0dk5CSjEzV0VtNkViVXFVYVZLTkZWSmdybmpQQWRoZ3JfV1E?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon announces $6B data center investment in Shreveport &nbsp;&nbsp; thecentersquare.com",
+      "summary": "Amazon announces $6B data center investment in Shreveport &nbsp;&nbsp; The Center Square",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -872,13 +945,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "f8ebeeb34883f4",
-      "title": "Amazon announces $6B data center investment in Shreveport - The Center Square",
+      "id": "6069045a70dc8a",
+      "title": "Amazon announces $6B data center investment in Shreveport - thecentersquare.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakRzektMOVYzV3VVbmIzM1M3YTlnelBxQnFjSzlfNlVtZHhMdU9NUmVmZHJuMFZ5LTNMWUx3RzlpREZ0a1JqS0FqeWdLc0dVZV90QTJpXzNOMDJfWXZUMzFkN1NBa3poT0NvNWRiTEo5bHJDVVRlRW41TDFCV0xURm12YzJhMlE5TndhZWRWMXY2UUl0cFHSAZsBQVVfeXFMTmxjYWxkUTN5Nm9YR0E0RXEtYXZUYWItajd3T2M3bjV3aHNNNjA1TTk3dEF3RHF4ZWhSaG42ZVAxWXlNTkJkekVfUG5SUzRzOFNuUXI3SmZOYkYxcUJ1SUJSMVJqSkRKRTdnZlFkOFJ5LVJGRXI2MUI0dk5CSjEzV0VtNkViVXFVYVZLTkZWSmdybmpQQWRoZ3JfV1E?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon announces $6B data center investment in Shreveport &nbsp;&nbsp; The Center Square",
+      "summary": "Amazon announces $6B data center investment in Shreveport &nbsp;&nbsp; thecentersquare.com",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -948,13 +1021,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "79f299554828c9",
-      "title": "Amazon Grows Northwest Louisiana Planned Investment to $18 Billion With New Shreveport Campus - Bossier Press-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlEya1hoOHpnQnZOcjhMbHJnQXMzVGc4ZTlPdElXcmpDbzlZMndIM3JabktldDBTSnlkOEozU3k1SE1iME40Z1BIM0FueTdvb0M5S3g2NlJqaEcyRjMzX0FfOG40UnRiZ3o4dm9JSGc5WUlyVDM3X1FoZWZTZU14ZVdaVnl4NE5qMF9fMnNpTzZNMVdmdGpxSnA3MUhOdWM2N21xVFd2SjQ2cndSMEZ6MlpmNFdCSWdqUkE?oc=5",
+      "id": "2bbd7333dfda12",
+      "title": "Amazon grows Northwest Louisiana planned investment to $18 billion with new Shreveport campus - Minden Press-Herald",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0p5c3FjbGppNHhzVTVUeHV3c3RhNDlNWVB1V25UR2lSQXdkRkFzVUEzRTFEZlNoNmJEb2xNT0hVR2cwTzZZeE16ZjhiYzBYc3F1ODNucWNZYklySlZGWVdXLVREQ205eUhvTWxwazFlRFF1b01yLTJYd2haU2ZSM0w2d0JqZUw5VS1fTWVONXBERzZMY1c3ZXllQ3I1QmNYeU9mWjIySWVyaFd5NzBOenEtM0lZWklSSUE?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon Grows Northwest Louisiana Planned Investment to $18 Billion With New Shreveport Campus &nbsp;&nbsp; Bossier Press-Tribune",
+      "summary": "Amazon grows Northwest Louisiana planned investment to $18 billion with new Shreveport campus &nbsp;&nbsp; Minden Press-Herald",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -963,7 +1036,7 @@
         "Louisiana"
       ],
       "amounts": [
-        "$18 Billion"
+        "$18 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -988,13 +1061,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2bbd7333dfda12",
-      "title": "Amazon grows Northwest Louisiana planned investment to $18 billion with new Shreveport campus - Minden Press-Herald",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0p5c3FjbGppNHhzVTVUeHV3c3RhNDlNWVB1V25UR2lSQXdkRkFzVUEzRTFEZlNoNmJEb2xNT0hVR2cwTzZZeE16ZjhiYzBYc3F1ODNucWNZYklySlZGWVdXLVREQ205eUhvTWxwazFlRFF1b01yLTJYd2haU2ZSM0w2d0JqZUw5VS1fTWVONXBERzZMY1c3ZXllQ3I1QmNYeU9mWjIySWVyaFd5NzBOenEtM0lZWklSSUE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "id": "79f299554828c9",
+      "title": "Amazon Grows Northwest Louisiana Planned Investment to $18 Billion With New Shreveport Campus - Bossier Press-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlEya1hoOHpnQnZOcjhMbHJnQXMzVGc4ZTlPdElXcmpDbzlZMndIM3JabktldDBTSnlkOEozU3k1SE1iME40Z1BIM0FueTdvb0M5S3g2NlJqaEcyRjMzX0FfOG40UnRiZ3o4dm9JSGc5WUlyVDM3X1FoZWZTZU14ZVdaVnl4NE5qMF9fMnNpTzZNMVdmdGpxSnA3MUhOdWM2N21xVFd2SjQ2cndSMEZ6MlpmNFdCSWdqUkE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon grows Northwest Louisiana planned investment to $18 billion with new Shreveport campus &nbsp;&nbsp; Minden Press-Herald",
+      "summary": "Amazon Grows Northwest Louisiana Planned Investment to $18 Billion With New Shreveport Campus &nbsp;&nbsp; Bossier Press-Tribune",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -1003,7 +1076,7 @@
         "Louisiana"
       ],
       "amounts": [
-        "$18 billion"
+        "$18 Billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -1100,10 +1173,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$700 million",
-        "$700M",
+        "$21B",
         "$300 million",
-        "$21B"
+        "$700 million",
+        "$700M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -7915,23 +7988,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4cdf0b8f503b60",
-      "title": "We’re Upgrading Your WhatsApp Group Chats",
-      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-04",
-      "summary": "We’re introducing new updates to WhatsApp group chats that make it even easier for you to connect with the groups you care about.  \n The post  We’re Upgrading Your WhatsApp Group Chats  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ddd1e1bf998734",
       "title": "Google Built Credit Guarantee Infrastructure Giving Its TPU Chips 2-Point Rate Edge Over Nvidia - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaTZrUkNiWUpvbnVoeUxPdzRWdFhES1N0M3NJNng1eHd2WFNVcHpRQ216YVppWF81cTVkbldGdXM1ZzgzemUyOXNpWV9NX3lGN3dISmI1VnhmZDZPVmJ0ZUU1cnFWbzRESUlENzg2c2dBbFBSOFdkUXpweUNDSXV2UjR3eFJ1VDJmU1VnY2VLMHgzd2l5aTRxdHMxLV9WNTdUeGxRYnUtWDl3bkZFQzF5REpXeVJvUUZwNW94OWhHUF9CcVZzRWNvN25lblU1S2N6RnNKQzVKc3lkR1RYWjhiUkl5eXE?oc=5",
@@ -7943,6 +7999,23 @@
       "companies": [
         "Google",
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4cdf0b8f503b60",
+      "title": "We’re Upgrading Your WhatsApp Group Chats",
+      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-04",
+      "summary": "We’re introducing new updates to WhatsApp group chats that make it even easier for you to connect with the groups you care about.  \n The post  We’re Upgrading Your WhatsApp Group Chats  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10360,68 +10433,6 @@
       ],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "771ce80221135a",
-      "title": "Google-backed fusion firm CFS raises $1bn in equity financing",
-      "url": "https://www.datacenterdynamics.com/en/news/google-backed-fusion-firm-cfs-raises-1bn-in-equity-financing/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Has now raised $4bn, the most of any fusion company",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f9b3a54a30b630",
-      "title": "Chinese IT firm Maase could build data center in Kazakhstan with local telco",
-      "url": "https://www.datacenterdynamics.com/en/news/chinese-it-firm-maase-could-build-data-center-in-kazakhstan-with-local-telco/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Details of project murky",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3b753a75ca5382",
-      "title": "Sustainability benefits of prefabricated data centers: Core and shell carbon reduction",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/sustainability-benefits-of-prefabricated-data-centers-core-and-shell-carbon-reduction/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Explore 4 key findings on data center carbon reduction",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "99e9e98a1530e9",
-      "title": "Steve Eisman Says Cutting AI Capex Would Sink the Market. Spending Too Much Could Be Just as Dangerous for Hyperscaler Stocks. - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdkZUZVlCck9DSWJNTnFpbmlBQkJhbWRvMzhYSmlxNXZPYllFYXp1aEpKY0dtNWRZVlBlZ3lmYU1ZcFVYMmczTkw1b0dOMkJqUjdSOTEwUmgtTm4zNjZZNUJoOUs3VGRpdWVyUFg0d3BKa2lXTlNJWnFxR0MxX3k0RkZETmJQekFXazZ3Z1JYbm9oZm9xTld6N1hwNGVrb0pERlJIeEJPMEhWTjZCN01aQlRNaUhnSVNLVHAwTlRjbm9hU293dDlReGN2dENudGJQNllPYXVWWmFIaDgyV3ZYZUY0dGRUOVlybk5LempfQnhGWThpOTZfUmkxMDM?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-07-30",
-      "summary": "Steve Eisman Says Cutting AI Capex Would Sink the Market. Spending Too Much Could Be Just as Dangerous for Hyperscaler Stocks. &nbsp;&nbsp; Barchart.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
       "is_high_confidence": false
     }
   ]
