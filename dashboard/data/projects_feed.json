@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-21T16:35:05.139166+00:00",
+  "last_updated": "2026-08-21T18:37:02.761046+00:00",
   "finding_count": 600,
-  "new_project_count": 66,
+  "new_project_count": 67,
   "cancellation_count": 21,
   "sec_filing_count": 4,
-  "high_confidence_count": 194,
+  "high_confidence_count": 195,
   "findings": [
     {
       "id": "69e1dd43126bf1",
@@ -21,10 +21,27 @@
       ],
       "locations": [],
       "amounts": [
-        "$100B",
-        "$100 billion"
+        "$100 billion",
+        "$100B"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6bb5a65851484a",
+      "title": "Vapat Enters the data center market with a 160MW project in Valladolid",
+      "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "160MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -173,6 +190,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "89ab799102add8",
+      "title": "Colombia halts construction of 1,600km fiber network in the Amazon",
+      "url": "https://www.datacenterdynamics.com/en/news/colombia-puts-the-brakes-on-a-1600-km-fiber-optic-network-in-the-amazon/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "The technical and financial complexity of the deployment has led the government to withdraw the procurement process",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "88afdef4a6390c",
+      "title": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMnJoa3FIS2lKVXBUekxRb01jYVkzTUZnX0g4R1I2WHFlQmdrTnVTTHpCRkp1MkItZDVNMk9BdkYwdWlORWlSSGxNQXRpLVk2VWczanNjX1pvVE9LVW5nelpLaVprc1JreUs0MnRNZ1ZOMFBwQV82b2VQMDNBaVBaRGRtb1ZhdkFKaUVuVzd2LWxJV29BNm5zaDVoanVMUlFmYXExb3lIRUMzTjBvVjlHYVNJbE1ETWtYTWtNVzR2SDV6WDVlMWhIX1k2LW5TQlRWenpudlM0RkdCOF9WVlEzUm0tVGFxMWZUY0xydUhVblo?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-21",
+      "summary": "Nvidia Is Not Just Selling AI Chips: Its Latest Deals Show Where The Next Growth Wave May Come From &nbsp;&nbsp; TradingView",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cc47837231eaec",
       "title": "Edge data center for AI workloads proposed in Manchester, UK",
       "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
@@ -318,21 +369,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2fb56c21c85c98",
-      "title": "Firmus Technologies to acquire Benmax's fabrication, design and projects business",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-technologies-to-acquire-benmaxs-fabrication-design-and-projects-business/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-21",
-      "summary": "Hoped to strengthen Firmus' AI cloud and data center value chain",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f5b5bc576fb263",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
@@ -367,6 +403,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "87a22b78d8a470",
+      "title": "Enter Google Play’s sweepstakes to win legendary experiences and collectibles with your Play Points.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-21",
+      "summary": "Redeem Google Play Points in the sweepstakes to win a trip to New York Comic Con, rare collectibles, gaming gear, and more.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "02dc4183d84dbb",
       "title": "What does “full-stack” AI actually mean?",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
@@ -395,6 +450,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2fb56c21c85c98",
+      "title": "Firmus Technologies to acquire Benmax's fabrication, design and projects business",
+      "url": "https://www.datacenterdynamics.com/en/news/firmus-technologies-to-acquire-benmaxs-fabrication-design-and-projects-business/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "Hoped to strengthen Firmus' AI cloud and data center value chain",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -443,6 +513,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8bfde1b240f0bc",
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-21",
+      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -518,8 +603,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.8 million",
-        "$1.8M"
+        "$1.8M",
+        "$1.8 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -1401,23 +1486,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "04405c17f1fc34",
-      "title": "Google Pixel 11 series review: Is the magic fading?",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-19",
-      "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9524d1234e2a23",
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -1435,13 +1503,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2098e1a9cfc050",
-      "title": "Start the semester with one year of Gemini, on us",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "id": "0e9d39b9afa9f6",
+      "title": "Back to School 2026",
+      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+      "summary": "How Google tools can help students and educators this back-to-school season.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1452,13 +1520,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "0e9d39b9afa9f6",
-      "title": "Back to School 2026",
-      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "id": "2098e1a9cfc050",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "How Google tools can help students and educators this back-to-school season.",
+      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1496,6 +1564,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "04405c17f1fc34",
+      "title": "Google Pixel 11 series review: Is the magic fading?",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-19",
+      "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2040,14 +2125,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "ed7cf26508a6dc",
-      "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
+      "id": "692c032c230264",
+      "title": "Amazon increases data center investment, announces plan for third facility in Caddo Parish - KLFY.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEtUdGEzNDNZZXJKdlJGcjVScV82M3pBcmkyaDhsc0F5dDhWdWdHNThwdGx4YmR5a3Z6MEVzMnJvYTVXN2RGWHBGRlFkdHlWY3FEdnNaRUhHby1fVF9RWDM2V1RkeHB6aEgwOTJuYk5pRkRDNDBFRUU2UUV4T3NIS2R1d2lWSGt0M0xiVFdfdG9CdUJMTlBuR0dJVWpobHh3MWVsamRBRkNQU3BidXpIbTU0LWtjNTBU0gHDAUFVX3lxTE1ydFJuV050a2duTnVqU3FSaEFpaUJWdWNrT2Npb0RuX2VNcXNxek0tdVhBN0l5cS1mRDFkdW0wcllrUy1NOTk2UmFMejF5QUhnRmstV09BZnNvcVRHOFZSeFNjNVl5cGF1N1VGcV9jM2VTbHVWQlJOSXNrZHBqQnNyTlRiNmh0LVU5bFNsUHdlSkt2M3YwZkpOaU9mYzI2WVk3RTJNOE45OWN3R2FBUDNUOThZYUlQbFpHcjdjSEJXMlZzQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon Web Services announces a third data center campus is coming to Shreveport &nbsp;&nbsp; KSLA",
-      "finding_type": "Statement / Update",
+      "summary": "Amazon increases data center investment, announces plan for third facility in Caddo Parish &nbsp;&nbsp; KLFY.com",
+      "finding_type": "New Project",
       "companies": [
         "Amazon"
       ],
@@ -2057,14 +2142,14 @@
       "is_high_confidence": true
     },
     {
-      "id": "692c032c230264",
-      "title": "Amazon increases data center investment, announces plan for third facility in Caddo Parish - KLFY.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEtUdGEzNDNZZXJKdlJGcjVScV82M3pBcmkyaDhsc0F5dDhWdWdHNThwdGx4YmR5a3Z6MEVzMnJvYTVXN2RGWHBGRlFkdHlWY3FEdnNaRUhHby1fVF9RWDM2V1RkeHB6aEgwOTJuYk5pRkRDNDBFRUU2UUV4T3NIS2R1d2lWSGt0M0xiVFdfdG9CdUJMTlBuR0dJVWpobHh3MWVsamRBRkNQU3BidXpIbTU0LWtjNTBU0gHDAUFVX3lxTE1ydFJuV050a2duTnVqU3FSaEFpaUJWdWNrT2Npb0RuX2VNcXNxek0tdVhBN0l5cS1mRDFkdW0wcllrUy1NOTk2UmFMejF5QUhnRmstV09BZnNvcVRHOFZSeFNjNVl5cGF1N1VGcV9jM2VTbHVWQlJOSXNrZHBqQnNyTlRiNmh0LVU5bFNsUHdlSkt2M3YwZkpOaU9mYzI2WVk3RTJNOE45OWN3R2FBUDNUOThZYUlQbFpHcjdjSEJXMlZzQQ?oc=5",
+      "id": "ed7cf26508a6dc",
+      "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - KSLA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon increases data center investment, announces plan for third facility in Caddo Parish &nbsp;&nbsp; KLFY.com",
-      "finding_type": "New Project",
+      "summary": "Amazon Web Services announces a third data center campus is coming to Shreveport &nbsp;&nbsp; KSLA",
+      "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
       ],
@@ -2420,13 +2505,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8616088a0fa548",
-      "title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+      "id": "4b692b30bd5fc1",
+      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
+      "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-18",
-      "summary": "Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice tests as you prep.",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2437,13 +2522,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4b692b30bd5fc1",
-      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-      "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
+      "id": "8616088a0fa548",
+      "title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-18",
-      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
+      "summary": "Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice tests as you prep.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -6673,8 +6758,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$300B",
-        "10GW"
+        "10GW",
+        "$300B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10296,8 +10381,8 @@
       "id": "6aa7a0fbd7c0e0",
       "title": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed - Lexington Herald Leader",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTTNaWU1CUHd0a1ZIVDJtbWNrLUlNWlNLYTctNTNDZXZPSWdsVlVYYkRoVXp3QU1nS2xFTVZrdU8tdUpXZVdrM2NfVEtZS3A5MUxBM0lTMThwY1ByVzBQNXluUXRqdXVtbHdKRTZVbERjZ3JFUzhrQkM4b9IBe0FVX3lxTE52NmYwRTc4Nnd3V01EUDE5YTN0THhCelNzc3NiZUNWZmpvZVNjR3JobzhBbjIxNDRPMEpUWFpWTUhSNXV4dkt5Um45MDBjTXRjOEYwbloyUFlPYzNYelduWnF5bnNaUFVicjBqVVdCR0paWms0b3ZBeHQwQQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-07-31",
       "summary": "A Kentucky city is getting $100B data center. The governor says he wasn’t briefed &nbsp;&nbsp; Lexington Herald Leader",
       "finding_type": "Statement / Update",
@@ -10366,99 +10451,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "ac3b8ff16ec607",
-      "title": "AWS reports fastest growth since 2021, Amazon annual capex to hit $220bn on AI memory costs",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-reports-fastest-growth-since-2021-amazon-annual-capex-to-hit-220bn-on-ai-memory-costs/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-31",
-      "summary": "Cloud sales boom as company ramps up data center buildout",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "051d49a45a80f9",
-      "title": "Musk confirms fourth SpaceXAI data center in Memphis, company starts removing 'illegal' gas turbines",
-      "url": "https://www.datacenterdynamics.com/en/news/musk-confirms-fourth-spacexai-data-center-in-memphis-company-starts-removing-illegal-gas-turbines/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-31",
-      "summary": "Macrohard gets Minihard",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI"
-      ],
-      "locations": [
-        "Memphis"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ea25a2e5b4940f",
-      "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-31",
-      "summary": "Generators permitted for one year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "68290f1c3474ce",
-      "title": "AWS looks to build 800,000 sq ft data center campus at GWU site in Ashburn, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-looks-to-build-800000-sq-ft-data-center-campus-at-gwu-site-in-ashburn-virginia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-31",
-      "summary": "County supervisor vows to use \"every tool available\" to fight development",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Virginia",
-        "Ashburn"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "03fa699b51feab",
-      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-07-31",
-      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon",
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
