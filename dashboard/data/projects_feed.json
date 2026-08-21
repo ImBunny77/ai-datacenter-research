@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-08-20T22:27:46.321034+00:00",
+  "last_updated": "2026-08-21T01:20:08.444623+00:00",
   "finding_count": 600,
-  "new_project_count": 67,
+  "new_project_count": 66,
   "cancellation_count": 20,
   "sec_filing_count": 4,
-  "high_confidence_count": 193,
+  "high_confidence_count": 191,
   "findings": [
+    {
+      "id": "69e1dd43126bf1",
+      "title": "Broadcom reportedly seeking up to $100B in debt financing for AI chip deal",
+      "url": "https://siliconangle.com/2026/08/20/broadcom-reportedly-seeking-up-to-100b-in-debt-financing-for-ai-chip-deal/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-21",
+      "summary": "Broadcom Inc. is reportedly seeking to borrow up to $100 billion as part of a new artificial intelligence chip financing deal.  Bloomberg today cited sources as saying that the debt is intended to support the growth efforts of Anthropic PBC and unnamed “other companies.” Those companies may include OpenAI Group PBC. Earlier this year, the [&#8230;] \n The post  Broadcom reportedly seeking up to $100B in debt financing for AI chip deal  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$100 billion",
+        "$100B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "a739b733c243b0",
       "title": "Norwegian developer withdraws proposal to build 50MW data center in city of Oton, Philippines",
@@ -79,8 +100,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.8M",
-        "$1.8 million"
+        "$1.8 million",
+        "$1.8M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -288,6 +309,41 @@
       "summary": "Key trends driving the next era of data centers",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d334aef625239d",
+      "title": "Report: Anthropic hopes to surpass SpaceX’s record IPO raise when it finally floats",
+      "url": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-20",
+      "summary": "Anthropic PBC is privately hoping its upcoming initial public offering will match or even surpass the size of SpaceX Corp.’s record-breaking IPO as it doubles down on its bid to go public ahead of rival OpenAI Group PBC. Anonymous sources who are familiar with the artificial intelligence model maker’s plans told Bloomberg that it’s hoping [&#8230;] \n The post  Report: Anthropic hopes to surpass SpaceX&#8217;s record IPO raise when it finally floats  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "654547ad499412",
+      "title": "Waymo details the custom chip in its autonomous driving system",
+      "url": "https://siliconangle.com/2026/08/20/waymo-details-the-custom-chip-in-its-autonomous-driving-system/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-20",
+      "summary": "Waymo LLC today shared new details about the computing module that powers its autonomous taxis. The Alphabet Inc. unit operates about 4,000 vehicles in 11 U.S. cities. Most are based on the Jaguar I-Pace crossover, while the rest are Zeeker minivans and Hyundai Ioniq 5 SUVs. Consumers order rides via a standalone app and Uber. [&#8230;] \n The post  Waymo details the custom chip in its autonomous driving system  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10379,63 +10435,6 @@
       "amounts": [
         "$8M",
         "$8 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9c2ad2e1e073de",
-      "title": "New Jersey town sued for $300m by data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-town-sued-for-300m-by-data-center-developer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Says town unfairly rejected its proposal",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
-      "amounts": [
-        "$300m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "906c9a04987874",
-      "title": "Crusoe files for two more data centers at Goodnight Campus in Armstrong County, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-files-for-two-more-data-centers-at-goodnight-campus-in-armstrong-county-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Buildings 3 and 4 each expected to cost $500m",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$500m"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b2ef257699f3c3",
-      "title": "Al Moammar Information Systems to explore building three new data centers in Saudi Arabia",
-      "url": "https://www.datacenterdynamics.com/en/news/al-moammar-information-systems-to-explore-building-three-new-data-centers-in-saudi-arabia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-07-30",
-      "summary": "Deal with Saudi Data Center Fund 1 would expand the country’s data center capacity by another 48MW",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [
-        "48MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
