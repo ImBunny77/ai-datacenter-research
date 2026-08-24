@@ -1,11 +1,52 @@
 {
-  "last_updated": "2026-08-24T12:51:07.815233+00:00",
+  "last_updated": "2026-08-24T14:42:12.178884+00:00",
   "finding_count": 600,
   "new_project_count": 69,
   "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 188,
+  "high_confidence_count": 190,
   "findings": [
+    {
+      "id": "df3b74b827b62d",
+      "title": "AEP Ohio secures $18m from data center firms for bill assistance program",
+      "url": "https://www.datacenterdynamics.com/en/news/aep-ohio-secures-18m-from-data-center-firms-for-bill-assistance-program/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Meta, QTS, Amazon, SoftBank Energy, and Google all commit funds to the program",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google",
+        "Meta",
+        "SoftBank"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [
+        "$18m"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "df01e054012c70",
+      "title": "Switch files to develop data center on former Pittsburgh race track",
+      "url": "https://www.datacenterdynamics.com/en/news/switch-files-to-develop-data-center-on-former-pittsburgh-race-track/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Three buildings planned, with up to 270MW generator capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "270MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "5e0a7e2ad004b8",
       "title": "Magnora secures grid connection for Hämeenlinna data center in Finland",
@@ -61,6 +102,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "d81ec6b84830ef",
+      "title": "Z Squared agrees to acquire full ownership of Paradox Data",
+      "url": "https://www.datacenterdynamics.com/en/news/z-squared-agrees-to-acquire-full-ownership-of-paradox-data/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Cryptomining firm acquires data center company Paradox Data",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "58e672c665ee7f",
+      "title": "Zerra DC files plans for large data center campus in Queensland, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/zerra-dc-files-plans-for-large-data-center-campus-in-queensland-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Four-building campus planned next to substation and multiple power plants",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2bb3d5d7799625",
       "title": "Healthy Choice Wellness Corp. plans reverse merger with data center company",
       "url": "https://www.datacenterdynamics.com/en/news/healthy-choice-wellness-corp-plans-reverse-merger-with-data-center-company/",
@@ -103,6 +176,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "58832a4beaa030",
+      "title": "AWS patches SDK flaw that turned a region field into credential theft",
+      "url": "https://siliconangle.com/2026/08/24/aws-patches-sdk-flaw-that-turned-a-region-field-into-credential-theft/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "Amazon Web Services Inc. has patched a flaw across seven of its software development kits after product security startup Pi Inc. traced a single bug report to roughly 2,500 instances of the same defect, Pi revealed today. Every AWS SDK builds the hostname it calls from a template. The region drops into the middle of [&#8230;] \n The post  AWS patches SDK flaw that turned a region field into credential theft  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -328,8 +418,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$2.3 billion",
         "$250 million",
+        "$2.3 billion",
         "$250M"
       ],
       "confidence": 9,
@@ -375,25 +465,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "e33644cfc82394",
-      "title": "Vapat enters the data center market with a 160MW project in Valladolid, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-21",
-      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "160MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "4b8b3c1770f0b0",
       "title": "Google’s attempt to buy Spirit Airlines’ data might come unstuck",
       "url": "https://siliconangle.com/2026/08/20/googles-attempt-to-buy-spirit-airlines-data-might-come-unstuck/",
@@ -408,6 +479,25 @@
       "locations": [],
       "amounts": [
         "$10 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e33644cfc82394",
+      "title": "Vapat enters the data center market with a 160MW project in Valladolid, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/vapat-enters-the-data-center-market-with-a-160mw-project-in-valladolid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "The project calls for the construction of two data center buildings, each with eight IT rooms",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "160MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -486,23 +576,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "f6a6d74aaf1398",
-      "title": "Nvidia backs data center powered land company Cloverleaf",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-21",
-      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "f91b4c2d6fbc23",
       "title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail… quietly",
       "url": "https://siliconangle.com/2026/08/21/politics-hits-data-centers-openai-falls-behind-anthropic-and-now-ai-is-too-big-to-fail-quietly/",
@@ -514,6 +587,23 @@
       "companies": [
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f6a6d74aaf1398",
+      "title": "Nvidia backs data center powered land company Cloverleaf",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-data-center-powered-land-company-cloverleaf/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "Will help company bring projects to fruition, based on Nvidia DSX platform",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -570,38 +660,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cc47837231eaec",
-      "title": "Edge data center for AI workloads proposed in Manchester, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-21",
-      "summary": "Two building scheme is part of planned network of Edge sites",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d86e2e5da6f373",
-      "title": "Rocket Lab has no plans to enter orbital data center market",
-      "url": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-21",
-      "summary": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -739,6 +797,38 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc47837231eaec",
+      "title": "Edge data center for AI workloads proposed in Manchester, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/edge-data-center-for-ai-workloads-proposed-in-manchester-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "Two building scheme is part of planned network of Edge sites",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d86e2e5da6f373",
+      "title": "Rocket Lab has no plans to enter orbital data center market",
+      "url": "https://www.datacenterdynamics.com/en/news/rocket-lab-has-no-plans-to-enter-orbital-data-center-market/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-21",
+      "summary": "But SpaceX's compute ambitions could give Rocket Lab a launch opening",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1023,8 +1113,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.8 million",
-        "$1.8M"
+        "$1.8M",
+        "$1.8 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -7231,8 +7321,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -7820,8 +7910,8 @@
       "id": "f1f4078dbd4e7a",
       "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
       "date": "2026-08-06",
       "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
       "finding_type": "Statement / Update",
@@ -10349,87 +10439,6 @@
       "source_cat": "Infrastructure",
       "date": "2026-08-03",
       "summary": "U.S. Data Center Power Consumption Map by State (2026) &nbsp;&nbsp; electricchoice.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7fd7d25c904956",
-      "title": "Indigenous IT firm eyes data center campus in Canada’s Northwest Territories",
-      "url": "https://www.datacenterdynamics.com/en/news/indigenous-it-firm-eyes-data-center-campus-in-canadas-northwest-territories/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "KatloTech pitches IceFox campus in Hay River and fiber route south to Alberta",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b61a56d86ec7f7",
-      "title": "NV Energy files suit against Tract over Nevada data center costs",
-      "url": "https://www.datacenterdynamics.com/en/news/nv-energy-files-suit-against-tract-over-nevada-data-center-costs/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Tract denies the allegations",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Nevada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f2e337ce9382e9",
-      "title": "CoreWeave and Leidos partner on AI offering for US intelligence community",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-and-leidos-partner-on-ai-offering-for-us-intelligence-community/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Will develop secure sovereign AI cloud services",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fb0d752709645b",
-      "title": "DCD News: July review",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "DCD's Zoe Turner, Zachary Skidmore and Matt Gooding explore July's biggest data center stories, from AI-driven energy demand and M&amp;A activity to grid challenges and emerging cooling solutions.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "19b404ff74ed79",
-      "title": "Beyond PUE: Why AI data centers need verifiable performance data",
-      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-pue-why-ai-data-centers-need-verifiable-performance-data/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "The argument for greater use of performance metrics",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
