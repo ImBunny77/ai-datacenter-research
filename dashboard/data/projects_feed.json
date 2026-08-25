@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-25T18:39:34.002223+00:00",
+  "last_updated": "2026-08-25T20:29:07.408031+00:00",
   "finding_count": 600,
   "new_project_count": 71,
-  "cancellation_count": 21,
+  "cancellation_count": 20,
   "sec_filing_count": 3,
   "high_confidence_count": 192,
   "findings": [
@@ -76,9 +76,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$200 million",
         "$200M",
-        "$400 million",
-        "$200 million"
+        "$400 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -496,6 +496,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b195fff487c6f6",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-25",
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b917a7016a718d",
       "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
       "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
@@ -523,6 +540,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e392078979beae",
+      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-25",
+      "summary": "Our new Pixel 11 phones and Pixel Watch 5 are now on shelves at the Google Store and through our retail partners.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -662,8 +696,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$30 billion",
-        "$30B"
+        "$30B",
+        "$30 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -2838,13 +2872,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "0e9d39b9afa9f6",
-      "title": "Back to School 2026",
-      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
+      "id": "2098e1a9cfc050",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "How Google tools can help students and educators this back-to-school season.",
+      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2855,13 +2889,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2098e1a9cfc050",
-      "title": "Start the semester with one year of Gemini, on us",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "id": "0e9d39b9afa9f6",
+      "title": "Back to School 2026",
+      "url": "https://blog.google/products-and-platforms/products/education/back-to-school-2026/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+      "summary": "How Google tools can help students and educators this back-to-school season.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -8214,8 +8248,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10414,40 +10448,6 @@
         "NVIDIA"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b4a44cd48ae77",
-      "title": "Nvidia open sources cuFile API, accelerating GPU read/write capability for high-speed storage",
-      "url": "https://siliconangle.com/2026/08/04/nvidia-open-sources-cufile-api-accelerating-gpu-read-write-capability-high-speed-storage/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-04",
-      "summary": "As artificial intelligence applications become ever hungrier for faster access to data, Nvidia Corp. today announced it is open-sourcing the application programming interface for its powerful cuFile vertical data storage stack, enabling millisecond data access. The company also announced a large-scale industry initiative with technology leaders to optimize memory and storage with Storage-Next. The initiative [&#8230;] \n The post  Nvidia open sources cuFile API, accelerating GPU read/write capabi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "47d4d460bb5b23",
-      "title": "Clearway cancels plans for gas powered data center in Nevada - report",
-      "url": "https://www.datacenterdynamics.com/en/news/clearway-cancels-plans-for-gas-powered-data-center-in-nevada-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "Had requested the US Bureau of Land Management to swap a solar plant application with the proposed data center",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Nevada"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
