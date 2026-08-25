@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-24T22:26:37.754355+00:00",
+  "last_updated": "2026-08-25T01:17:28.889881+00:00",
   "finding_count": 600,
   "new_project_count": 70,
-  "cancellation_count": 20,
+  "cancellation_count": 21,
   "sec_filing_count": 3,
-  "high_confidence_count": 194,
+  "high_confidence_count": 195,
   "findings": [
     {
       "id": "df3b74b827b62d",
@@ -26,6 +26,26 @@
       ],
       "amounts": [
         "$18m"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f57fa98b3e5b73",
+      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
+      "url": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment that could push the startup’s valuation to more than $30 billion. That would represent a jump of more than 50% from [&#8230;] \n The post  Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$30B",
+        "$30 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -136,8 +156,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$12.2m",
-        "2MW"
+        "2MW",
+        "$12.2m"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -385,6 +405,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "17f6c72ea606b1",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-24",
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2088538852a134",
       "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
       "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -517,8 +552,8 @@
         "London"
       ],
       "amounts": [
-        "$3 billion",
-        "$3B"
+        "$3B",
+        "$3 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -620,8 +655,8 @@
       "locations": [],
       "amounts": [
         "$2.3 billion",
-        "$250 million",
-        "$250M"
+        "$250M",
+        "$250 million"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -641,8 +676,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100B",
-        "$100 billion"
+        "$100 billion",
+        "$100B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -900,23 +935,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f5b5bc576fb263",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-21",
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "0508edcbd8dca4",
       "title": "AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support",
       "url": "https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/",
@@ -977,6 +995,23 @@
       "source_cat": "Company IR",
       "date": "2026-08-21",
       "summary": "Add your preferred card to Google Wallet to tap to pay at Walmart stores.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f5b5bc576fb263",
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-21",
+      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -8111,8 +8146,8 @@
       "id": "f1f4078dbd4e7a",
       "title": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLU9jOC1pWHdUcXBVek1PMHFaYUJkNGtvdzFXWlZldGFjNldnbVlXVnlKZGRPMmhjT2xvVkxONVVrNFpHT3ZBbXBDTU5xU3VhbS1MUjE5X0Fkdlh0by1XRTFRVjNDaXhBVTBfN1RXNEp3YlY0ejJEbm5DQkFHNklMVmVPSEVfS0V2aXBOTWpnc3lGaXFSckQwbEkxZUhIRHlES2RWcVQteFRZWjBaa0ZnMjZvYlZ5bGtSU2VpNnN0MGxoUGR6U1Nrckphb3ZYWGl2dWF2UkQzeGJhMFhleVh1UDU5SDZ6dzlNdEhxWEZuVFo?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-08-06",
       "summary": "Microsoft’s newest India datacenter region goes live to power the country’s AI economy and enable Frontier Firms &nbsp;&nbsp; Microsoft Source",
       "finding_type": "Statement / Update",
@@ -8127,13 +8162,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "5ddb35b67d78db",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8163,13 +8198,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ddb35b67d78db",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8335,6 +8370,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "f0430f3b87dc4c",
+      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFF2dklCZGZnb2FNTmdtbjhydXQzQnpzYTJXTnNfM083ejFDMFo2RGhlN0xvcWFqdlh4N2dxN01ycG9INWhHdUw0YVdWd3A0bjBXQkEyOWNNN0pQX1VNa3IzUjFuaDRBV2YxVnVzaTcybXhONmFGUUg2QW5ZWC1rdS1VOUF1MzktRGJFZlM1VDBwRWFKLUxTN1lFLWJmbzF1Zzgwd1pnQ05LNkNQVjZua3JwZW5SRE1k?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-06",
+      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; Houston Chronicle",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "14e97604a21012",
       "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
@@ -8389,21 +8439,6 @@
       "source_cat": "Company",
       "date": "2026-08-06",
       "summary": "Understanding Different AI Data Center Leasing Prices and Categories &nbsp;&nbsp; nextbigfuture.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f0430f3b87dc4c",
-      "title": "Abbott’s sudden data center pivot looks a lot like election year politics - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFF2dklCZGZnb2FNTmdtbjhydXQzQnpzYTJXTnNfM083ejFDMFo2RGhlN0xvcWFqdlh4N2dxN01ycG9INWhHdUw0YVdWd3A0bjBXQkEyOWNNN0pQX1VNa3IzUjFuaDRBV2YxVnVzaTcybXhONmFGUUg2QW5ZWC1rdS1VOUF1MzktRGJFZlM1VDBwRWFKLUxTN1lFLWJmbzF1Zzgwd1pnQ05LNkNQVjZua3JwZW5SRE1k?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-06",
-      "summary": "Abbott’s sudden data center pivot looks a lot like election year politics &nbsp;&nbsp; Houston Chronicle",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10412,40 +10447,6 @@
       "amounts": [
         "$1.4T"
       ],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "28246da8fb408a",
-      "title": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings - techtimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNwX3dJaFpzQmlZYW9Jb29LUXliVVlMNFFMaDdPZ1pUbXBQamltQ3dpU3NobU5IaFhyMnctcE5jOERYSFRBWms0RHZWclZRN1VzV3p4eGtXX1dUdGZ4M1g0WWd4dkpBWVpWaENDOVV4cDhSN0pvMWJCN3A3VnpvQTltMkI1blFzNzR0TFg4V0M3ZlNyWktxZkVZODBzSVFiMW1LWHlBbEQ1ZU9uajVBNnd6aVZNNjhGNGhSSXJibXZZRXE2cXN6S1VrUEU1MERr?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-08-03",
-      "summary": "Street Got Cloud Capex Wrong: Morgan Stanley’s $1.4T Math After Hyperscaler Earnings &nbsp;&nbsp; techtimes.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1.4T"
-      ],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "36628f8a71d60d",
-      "title": "Colt & RMZ look to develop gigawatt-scale data center campus in Vizag, India",
-      "url": "https://www.datacenterdynamics.com/en/news/colt-rmz-look-to-develop-gigawatt-scale-data-center-campus-in-vizag-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Companies expanding data center JV to Visakhapatnam",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
     }
