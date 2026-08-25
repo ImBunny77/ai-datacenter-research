@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-25T08:42:23.745641+00:00",
+  "last_updated": "2026-08-25T10:33:24.140325+00:00",
   "finding_count": 600,
-  "new_project_count": 70,
+  "new_project_count": 71,
   "cancellation_count": 21,
   "sec_filing_count": 3,
-  "high_confidence_count": 195,
+  "high_confidence_count": 193,
   "findings": [
     {
       "id": "b64431e104771e",
@@ -20,12 +20,50 @@
       ],
       "locations": [],
       "amounts": [
-        "$200M",
+        "$400 million",
         "$200 million",
-        "$400 million"
+        "$200M"
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "5451a5e6ec0937",
+      "title": "Soluna acquires 397-acre plot in Briscoe County, Texas, for Project Dorothy 3 data center",
+      "url": "https://www.datacenterdynamics.com/en/news/soluna-acquires-397-acre-plot-in-briscoe-county-texas-for-project-dorothy-3-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Expected to have a capacity of 300MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "300MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "12e9fb53964068",
+      "title": "Pre-construction works start on Microsoft data center in Vaasa, Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/pre-constructino/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Company is waiting on permits to commence building",
+      "finding_type": "New Project",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "c78180c8302e12",
@@ -84,8 +122,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$30 billion",
-        "$30B"
+        "$30B",
+        "$30 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -252,6 +290,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "10e2f00de6caba",
+      "title": "Verizon touts latest Google Cloud AI stack use",
+      "url": "https://www.datacenterdynamics.com/en/news/verizon-touts-latest-google-cloud-ai-stack-use/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "More AI for customer interactions and network control",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b06d75e46b3aa3",
       "title": "Beyond power: The search for an AI niche",
       "url": "https://www.datacenterdynamics.com/en/opinions/beyond-power-the-search-for-an-ai-niche/",
@@ -323,38 +378,6 @@
       "companies": [],
       "locations": [
         "Australia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2bb3d5d7799625",
-      "title": "Healthy Choice Wellness Corp. plans reverse merger with data center company",
-      "url": "https://www.datacenterdynamics.com/en/news/healthy-choice-wellness-corp-plans-reverse-merger-with-data-center-company/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-24",
-      "summary": "Wellness retailer is pivoting to digital infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07409d3f7c2175",
-      "title": "Ireland reconsidering nuclear in response to surging data center power demands - report",
-      "url": "https://www.datacenterdynamics.com/en/news/ireland-reconsidering-nuclear-in-response-to-surging-data-center-power-demands-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-24",
-      "summary": "Taoiseach said that the country is \"open to [nuclear]\"",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ireland"
       ],
       "amounts": [],
       "confidence": 2,
@@ -494,6 +517,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "2bb3d5d7799625",
+      "title": "Healthy Choice Wellness Corp. plans reverse merger with data center company",
+      "url": "https://www.datacenterdynamics.com/en/news/healthy-choice-wellness-corp-plans-reverse-merger-with-data-center-company/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Wellness retailer is pivoting to digital infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "07409d3f7c2175",
+      "title": "Ireland reconsidering nuclear in response to surging data center power demands - report",
+      "url": "https://www.datacenterdynamics.com/en/news/ireland-reconsidering-nuclear-in-response-to-surging-data-center-power-demands-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Taoiseach said that the country is \"open to [nuclear]\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ireland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1607398657ef25",
       "title": "Nvidia-backed FlexSysAI launches AI workload orchestration platform to reduce stress on the grid",
       "url": "https://www.datacenterdynamics.com/en/news/nvidia-backed-flexsysai-launches-ai-workload-orchestration-platform-to-reduce-stress-on-the-grid/",
@@ -573,8 +628,8 @@
         "London"
       ],
       "amounts": [
-        "$3B",
-        "$3 billion"
+        "$3 billion",
+        "$3B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -697,8 +752,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100 billion",
-        "$100B"
+        "$100B",
+        "$100 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -8183,13 +8238,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "5ddb35b67d78db",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8219,13 +8274,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ddb35b67d78db",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -10395,61 +10450,6 @@
       ],
       "amounts": [
         "155MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0d1a585b9deab9",
-      "title": "1414 Degrees signs deal for up to 1GW AI campus at Aurora Energy Precinct in South Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/1414-degrees-signs-deal-for-up-to-1gw-ai-campus-at-aurora-energy-precinct-in-south-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Inks non-binding deal with unnamed data center developer",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5f4560e5500ce6",
-      "title": "Intelishift data center in Louisville, Kentucky, up for sale",
-      "url": "https://www.datacenterdynamics.com/en/news/intelishift-data-center-in-louisville-kentucky-up-for-sale/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Leased facility seeking new landlord for just under $3 million",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Kentucky"
-      ],
-      "amounts": [
-        "$3 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a030ac76e3a122",
-      "title": "Dominion Energy adds more than 5GW of contracted data center load to its pipeline",
-      "url": "https://www.datacenterdynamics.com/en/news/dominion-energy-adds-more-than-5gw-of-contracted-data-center-load-to-its-pipeline/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "An 11 percent increase from the end of last year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "5GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
