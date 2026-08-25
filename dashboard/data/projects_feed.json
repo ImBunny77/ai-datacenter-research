@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-08-25T10:33:24.140325+00:00",
+  "last_updated": "2026-08-25T12:48:13.125857+00:00",
   "finding_count": 600,
-  "new_project_count": 71,
+  "new_project_count": 72,
   "cancellation_count": 21,
   "sec_filing_count": 3,
   "high_confidence_count": 193,
   "findings": [
+    {
+      "id": "28a42574def553",
+      "title": "Starcloud closes $250m Series A extension at $2.3bn valuation to scale AI on orbital data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/starcloud-closes-250m-series-a-extension-at-23bn-valuation-to-scale-ai-on-orbital-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "ODC pioneer secures nearly half a billion dollars of investment to prove out space computing",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$250m"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "b64431e104771e",
       "title": "Robotics AI startup Generalist reportedly raises $200M",
@@ -25,6 +42,42 @@
         "$200M"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "97540b5cf8e48e",
+      "title": "Nvidia invests in data center powered land company Lancium",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-invests-in-data-center-powered-land-company-lancium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Deal will see Nvidia customers gain access to \"large-scale, power-ready capacity” for AI workloads",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f5870251c27081",
+      "title": "TeraWulf secures 482MW electrical service agreement for planned data center campus in Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/terawulf-secures-482mw-electrical-service-agreement-for-planned-data-center-campus-in-kentucky/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Data centers' first phase is expected to come online next year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [
+        "482MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -85,6 +138,26 @@
       "is_high_confidence": false
     },
     {
+      "id": "f57fa98b3e5b73",
+      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
+      "url": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment that could push the startup’s valuation to more than $30 billion. That would represent a jump of more than 50% from [&#8230;] \n The post  Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$30B",
+        "$30 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "df3b74b827b62d",
       "title": "AEP Ohio secures $18m from data center firms for bill assistance program",
       "url": "https://www.datacenterdynamics.com/en/news/aep-ohio-secures-18m-from-data-center-firms-for-bill-assistance-program/",
@@ -104,26 +177,6 @@
       ],
       "amounts": [
         "$18m"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f57fa98b3e5b73",
-      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
-      "url": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-24",
-      "summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment that could push the startup’s valuation to more than $30 billion. That would represent a jump of more than 50% from [&#8230;] \n The post  Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$30B",
-        "$30 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -180,9 +233,26 @@
         "Kentucky"
       ],
       "amounts": [
-        "50MW",
-        "15MW"
+        "15MW",
+        "50MW"
       ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "305f45ae08376e",
+      "title": "Nvidia’s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents",
+      "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "Chipmaker Nvidia Corp. says its dedicated artificial intelligence inference accelerator Groq 3 LPX has now entered full production as it strives to maintain its dominance in the world of AI compute. The new chip, announced today at Hot Chips 2026, is described as a purpose-built extension to Nvidia’s flagship Vera Rubin data center platform. According [&#8230;] \n The post  Nvidia&#8217;s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents  appeared first on",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -237,23 +307,6 @@
         "2MW",
         "$12.2m"
       ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "305f45ae08376e",
-      "title": "Nvidia’s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents",
-      "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-24",
-      "summary": "Chipmaker Nvidia Corp. says its dedicated artificial intelligence inference accelerator Groq 3 LPX has now entered full production as it strives to maintain its dominance in the world of AI compute. The new chip, announced today at Hot Chips 2026, is described as a purpose-built extension to Nvidia’s flagship Vera Rubin data center platform. According [&#8230;] \n The post  Nvidia&#8217;s dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents  appeared first on",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -362,23 +415,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "58e672c665ee7f",
-      "title": "Zerra DC files plans for large data center campus in Queensland, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/zerra-dc-files-plans-for-large-data-center-campus-in-queensland-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-24",
-      "summary": "Four-building campus planned next to substation and multiple power plants",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -517,6 +553,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "58e672c665ee7f",
+      "title": "Zerra DC files plans for large data center campus in Queensland, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/zerra-dc-files-plans-for-large-data-center-campus-in-queensland-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-24",
+      "summary": "Four-building campus planned next to substation and multiple power plants",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2bb3d5d7799625",
       "title": "Healthy Choice Wellness Corp. plans reverse merger with data center company",
       "url": "https://www.datacenterdynamics.com/en/news/healthy-choice-wellness-corp-plans-reverse-merger-with-data-center-company/",
@@ -628,8 +681,8 @@
         "London"
       ],
       "amounts": [
-        "$3 billion",
-        "$3B"
+        "$3B",
+        "$3 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -730,9 +783,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$250 million",
         "$2.3 billion",
-        "$250M",
-        "$250 million"
+        "$250M"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -10391,65 +10444,6 @@
       ],
       "amounts": [
         "1.125MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8b064ac81c34f7",
-      "title": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "A win for the Brewery's owner",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [
-        "5.2MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2d939000ba89bf",
-      "title": "Yondr Group and Cerberus acquire 40 acres for data center campus in Manassas, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/yondr-group-and-cerberus-acquire-40-acres-for-data-center-campus-in-manassas-virginia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Will develop a 72MW campus on the site",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [
-        "72MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a71caeb199bf91",
-      "title": "Google signs 155MW solar PPA with RWE in Oklahoma",
-      "url": "https://www.datacenterdynamics.com/en/news/google-signs-155mw-solar-ppa-with-rwe-in-oklahoma/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-03",
-      "summary": "Second PPA Google has signed in the Sooner State this year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Oklahoma"
-      ],
-      "amounts": [
-        "155MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
