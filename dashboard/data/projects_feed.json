@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-08-26T12:52:53.362558+00:00",
+  "last_updated": "2026-08-26T14:44:29.009788+00:00",
   "finding_count": 600,
-  "new_project_count": 71,
+  "new_project_count": 72,
   "cancellation_count": 18,
   "sec_filing_count": 3,
-  "high_confidence_count": 193,
+  "high_confidence_count": 190,
   "findings": [
+    {
+      "id": "9ba2aae178a45b",
+      "title": "MTN forms data center partnership with unnamed investor",
+      "url": "https://www.datacenterdynamics.com/en/news/mtn-forms-data-center-partnership-with-unnamed-investor/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Pan-African telco said to be targeting more than 150MW of new capacity in first phase",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "150MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b0504b0674c12a",
+      "title": "Spain drafts rules requiring data centers to source 80% of power from new renewables - report",
+      "url": "https://www.datacenterdynamics.com/en/news/spain-drafts-rules-requiring-data-centers-to-source-80-of-power-from-new-renewables-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Draft decree would apply to data centers with a capacity of 1MW or more",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "1MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "221d1ae884ece9",
+      "title": "Armada launches 10MW modular data center, Orion",
+      "url": "https://www.datacenterdynamics.com/en/news/armada-launches-10mw-modular-data-center-orion/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "The largest iteration of Armada's Galleon family",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "10MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "a4aed159c46e76",
       "title": "Application filed for 200MW data center in Melbourne, Australia",
@@ -88,6 +141,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e8a23147e6f47d",
+      "title": "AWS buys DuckLabs to bring DuckDB’s embeddable analytics to more enterprises",
+      "url": "https://siliconangle.com/2026/08/26/aws-buys-ducklabs-to-bring-duckdbs-embeddable-analytics-to-more-enterprises/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-26",
+      "summary": "Amazon Web Services Inc. said today it has struck an agreement to buy DuckLabs B.V., the Amsterdam-based developer behind the popular open-source analytical database, DuckDB. The deal is expected to close as soon as next month, and will see DuckLabs’ team work with AWS to expand and scale up the capabilities of DuckDB’s data services [&#8230;] \n The post  AWS buys DuckLabs to bring DuckDB&#8217;s embeddable analytics to more enterprises  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "71261869e73f21",
       "title": "Glean unveils Tau desktop workspace, claims token-cost edge over Claude",
       "url": "https://siliconangle.com/2026/08/26/glean-unveils-tau-desktop-workspace-claims-token-cost-edge-over-claude/",
@@ -115,6 +185,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "38b3f322456200",
+      "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
+      "url": "https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-26",
+      "summary": "We are announcing an agreement we have reached with a bipartisan group of state attorneys general, building on our longstanding efforts to empower parents and support teens. \n The post  An Open Letter to TikTok and YouTube to Join Us in Supporting Teens  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "813b6e4bfd1f91",
+      "title": "Our Agreement With Bipartisan Attorneys General: Calling on TikTok and YouTube to Join Us in Supporting Teens",
+      "url": "https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-26",
+      "summary": "Today, we are announcing an agreement with a bipartisan group of 51 attorneys general across US states, territories, and the District of Columbia, building on our longstanding efforts to empower parents and support teens. \n The post  Our Agreement With Bipartisan Attorneys General: Calling on TikTok and YouTube to Join Us in Supporting Teens  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -208,9 +312,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$1.05B",
         "$150M",
         "$150 million",
+        "$1.05B",
         "$1.05 billion"
       ],
       "confidence": 6,
@@ -230,9 +334,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$200 million",
         "$200M",
-        "$400 million",
-        "$200 million"
+        "$400 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -485,55 +589,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d5c6ab352a8cb5",
-      "title": "Nvidia’s ultra-low-latency AI inference LPX racks hit full production",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidias-ultra-low-latency-ai-inference-lpx-racks-hit-full-production/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Neocloud Nebius among early adopters of platform promising 4x faster responsiveness for AI agents",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5a7ecb7fdd1743",
-      "title": "OpenAI details Jalapeño AI chip, with 700W TDP",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-details-jalape%C3%B1o-ai-chip-with-700w-tdp/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "At Hot Chips, company touts its first foray into hardware",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8e6aa54a9c8b92",
-      "title": "Echelon partners with new data center liquid cooling company Trinovium",
-      "url": "https://www.datacenterdynamics.com/en/news/echelon-partners-with-new-data-center-liquid-cooling-company-trinovium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Early win for Trinovium after being launched by biotech firm Trinity earlier this year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "709001df51f730",
       "title": "AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into production",
       "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
@@ -775,6 +830,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "d5c6ab352a8cb5",
+      "title": "Nvidia’s ultra-low-latency AI inference LPX racks hit full production",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidias-ultra-low-latency-ai-inference-lpx-racks-hit-full-production/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Neocloud Nebius among early adopters of platform promising 4x faster responsiveness for AI agents",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5a7ecb7fdd1743",
+      "title": "OpenAI details Jalapeño AI chip, with 700W TDP",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-details-jalape%C3%B1o-ai-chip-with-700w-tdp/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "At Hot Chips, company touts its first foray into hardware",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8e6aa54a9c8b92",
+      "title": "Echelon partners with new data center liquid cooling company Trinovium",
+      "url": "https://www.datacenterdynamics.com/en/news/echelon-partners-with-new-data-center-liquid-cooling-company-trinovium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Early win for Trinovium after being launched by biotech firm Trinity earlier this year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a52304e9a811ff",
       "title": "Nebius secures $5.75bn in senior notes offering",
       "url": "https://www.datacenterdynamics.com/en/news/nebius-secures-575bn-in-senior-notes-offering/",
@@ -865,8 +969,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$30 billion",
-        "$30B"
+        "$30B",
+        "$30 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -1057,6 +1161,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "17f6c72ea606b1",
+      "title": "Data centers become \"killer application\" for new power transformer tech",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-24",
+      "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d9adea63734d6",
+      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-08-24",
+      "summary": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cb1fbf828d8689",
       "title": "Trump defends AI data center buildout amid pushback",
       "url": "https://siliconangle.com/2026/08/24/trump-defends-ai-data-center-buildout-amid-pushback/",
@@ -1089,21 +1225,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "17f6c72ea606b1",
-      "title": "Data centers become \"killer application\" for new power transformer tech",
-      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-24",
-      "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c5d632dcf3b034",
       "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -1114,23 +1235,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d9adea63734d6",
-      "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-08-24",
-      "summary": "During my time at AWS, I have always looked for opportunities to work with students. I have delivered over 50 talks at universities across the region, and watching the potential in the room is always a strong motivator. It reminds me of why I do this work, and that the students I meet today may […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -9026,6 +9130,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-08-06",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "5ddb35b67d78db",
       "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
@@ -9057,25 +9180,6 @@
         "Meta"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -10325,122 +10429,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9c671fdb3f8e00",
-      "title": "CoreWeave plans to launch 360MW of data center capacity in Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/coreweave-plans-to-launch-360mw-of-data-center-capacity-in-indonesia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "Will be company's first data centers in Asia-Pacific region",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [
-        "Indonesia"
-      ],
-      "amounts": [
-        "360MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "704b70cd9c4299",
-      "title": "Former Microsoft researcher launches data center robotics startup",
-      "url": "https://www.datacenterdynamics.com/en/news/former-microsoft-researcher-launches-data-center-robotics-startup/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "Exclaim Robotics secures $4.95m in pre-seed funding to build first bots",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$4.95m"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "814281884fd101",
-      "title": "Israeli startup Zenity bags $125M in funding to build the security layer for AI agents",
-      "url": "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-04",
-      "summary": "Artificial intelligence security startup Zenity Ltd. said today it has closed on a $125 million Series C round of funding to expand its platform, which secures autonomous agents in production across large global organizations. Today’s round was led by Norwest and saw participation from SoftBank Vision Fund 2, Qumra Capital and others, including Hitachi Ventures, [&#8230;] \n The post  Israeli startup Zenity bags $125M in funding to build the security layer for AI agents  appeared first on  Silico",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [
-        "$125M",
-        "$125 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fbe94f8c4911de",
-      "title": "Velox, I/ONX HPC to deploy 7,000 FuriosaAI RNGD accelerators at Swedish data center",
-      "url": "https://www.datacenterdynamics.com/en/news/velox-ionx-hpc-to-deploy-7000-furiosaai-rngd-accelerators-at-swedish-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "Data center expected to have a total eventual capacity of 15MW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "15MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b3bce81ac85af2",
-      "title": "Germany’s Maincubes completes first module of new Frankfurt data center",
-      "url": "https://www.datacenterdynamics.com/en/news/germanys-maincubes-completes-first-module-of-new-frankfurt-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "First leg of the 16MW hyperscale/HPC data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany",
-        "Frankfurt"
-      ],
-      "amounts": [
-        "16MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0e6add834d674a",
-      "title": "Foxconn subsidiary Visionbay.ai launches 5MW Nvidia-powered AI cluster in Taiwan",
-      "url": "https://www.datacenterdynamics.com/en/news/foxconn-subsidiary-visionbayai-launches-5mw-nvidia-powered-ai-cluster-in-taiwan/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-04",
-      "summary": "Company claims 90 percent capacity already in use",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "5MW"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
