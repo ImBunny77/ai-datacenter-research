@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-25T22:27:45.891669+00:00",
+  "last_updated": "2026-08-26T01:20:25.237684+00:00",
   "finding_count": 600,
   "new_project_count": 71,
   "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 192,
+  "high_confidence_count": 194,
   "findings": [
     {
       "id": "098a3f1b06a05e",
@@ -25,6 +25,25 @@
         "$2 Billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4d66c56926f471",
+      "title": "Perplexity AI launches Portable Computer on-device AI agent",
+      "url": "https://siliconangle.com/2026/08/25/perplexity-ai-launches-portable-computer-on-device-ai-agent/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-25",
+      "summary": "Perplexity AI Inc. today introduced Portable Computer, an artificial intelligence agent designed to run on desktops equipped with Nvidia Corp. silicon. The launch follows a report that Nvidia is weighing an investment in the startup that could value it at over $30 billion. Furthermore, Nvidia has reportedly floated the idea of licensing Perplexity’s technology and [&#8230;] \n The post  Perplexity AI launches Portable Computer on-device AI agent  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$30 billion"
+      ],
+      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -63,6 +82,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "8165b35d085444",
+      "title": "Data center power startup Emerald AI raises $150M at $1.05B valuation",
+      "url": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-25",
+      "summary": "Data center power startup Emerald AI Inc. today said that it has raised $150 million in new funding in an oversubscribed round at a valuation of $1.05 billion. Emerald will put the money into scaling up commercial deployments worldwide. The company&#8217;s core product, called Emerald Conductor, is software that schedules artificial intelligence workloads against the batteries [&#8230;] \n The post  Data center power startup Emerald AI raises $150M at $1.05B valuation  appeared first on  SiliconA",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1.05B",
+        "$150 million",
+        "$1.05 billion",
+        "$150M"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "b64431e104771e",
       "title": "Robotics AI startup Generalist reportedly raises $200M",
       "url": "https://siliconangle.com/2026/08/24/robotics-ai-startup-generalist-reportedly-raises-200m/",
@@ -77,8 +116,8 @@
       "locations": [],
       "amounts": [
         "$200 million",
-        "$400 million",
-        "$200M"
+        "$200M",
+        "$400 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -952,41 +991,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7a0ca451be5ec4",
-      "title": "Fake Codex installer tricks Mac users into pasting malware, Cato finds",
-      "url": "https://siliconangle.com/2026/08/24/fake-codex-installer-tricks-mac-users-into-pasting-malware-cato-finds/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-24",
-      "summary": "Cato Networks Ltd.&#8217;s Cato CTRL threat research team today detailed a macOS attack campaign built around a fake OpenAI Codex installer. The lure ends with the victim opening Terminal and pasting a command that runs the malware, the social engineering pattern known as ClickFix. It begins with a sponsored Google search result for queries such [&#8230;] \n The post  Fake Codex installer tricks Mac users into pasting malware, Cato finds  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d45c3e6e62b47d",
-      "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
-      "url": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-24",
-      "summary": "OpenAI Group PBC Chief Executive Sam Altman is worried that artificial intelligence technology will end up being controlled by just a handful of companies or people in future, resulting in nobody else having any say about how it impacts society. Speaking in an interview with the podcaster David Senra today, Altman (pictured) warned against a [&#8230;] \n The post  Sam Altman voices fears that control of AI could be centered in too few hands  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "17f6c72ea606b1",
       "title": "Data centers become \"killer application\" for new power transformer tech",
       "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
@@ -1029,6 +1033,41 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7a0ca451be5ec4",
+      "title": "Fake Codex installer tricks Mac users into pasting malware, Cato finds",
+      "url": "https://siliconangle.com/2026/08/24/fake-codex-installer-tricks-mac-users-into-pasting-malware-cato-finds/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "Cato Networks Ltd.&#8217;s Cato CTRL threat research team today detailed a macOS attack campaign built around a fake OpenAI Codex installer. The lure ends with the victim opening Terminal and pasting a command that runs the malware, the social engineering pattern known as ClickFix. It begins with a sponsored Google search result for queries such [&#8230;] \n The post  Fake Codex installer tricks Mac users into pasting malware, Cato finds  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d45c3e6e62b47d",
+      "title": "Sam Altman voices fears that control of AI could be centered in too few hands",
+      "url": "https://siliconangle.com/2026/08/23/sam-altman-voices-fears-that-control-of-ai-could-be-centered-in-too-few-hands/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-24",
+      "summary": "OpenAI Group PBC Chief Executive Sam Altman is worried that artificial intelligence technology will end up being controlled by just a handful of companies or people in future, resulting in nobody else having any say about how it impacts society. Speaking in an interview with the podcaster David Senra today, Altman (pictured) warned against a [&#8230;] \n The post  Sam Altman voices fears that control of AI could be centered in too few hands  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -2222,21 +2261,6 @@
       "locations": [
         "Ohio"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ed67e535473fce",
-      "title": "US Data Center Power Consumption by State (2026) - ElectricChoice.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-20",
-      "summary": "US Data Center Power Consumption by State (2026) &nbsp;&nbsp; ElectricChoice.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8263,8 +8287,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$300B",
-        "10GW"
+        "10GW",
+        "$300B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -8868,13 +8892,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ddb35b67d78db",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8904,13 +8928,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "5ddb35b67d78db",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -10429,23 +10453,6 @@
       "locations": [
         "Texas"
       ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee204b4d77248b",
-      "title": "AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development",
-      "url": "https://siliconangle.com/2026/08/04/aws-launches-kiro-crew-autonomous-agentic-orchestrator-24-7-code-development/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-04",
-      "summary": "Amazon Web Services Inc. today launched Kiro Crew, an autonomous workspace that keeps artificial intelligence coding agents running all day and all night. The company said it developed Crew to allow developers to start a task, walk away and come back when something is worth administering. It tasks multiple agents and their sub-agents on a [&#8230;] \n The post  AWS launches Kiro Crew, an autonomous agentic orchestrator for 24/7 code development  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
