@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-26T04:39:50.232002+00:00",
+  "last_updated": "2026-08-26T06:50:32.724024+00:00",
   "finding_count": 600,
   "new_project_count": 71,
-  "cancellation_count": 19,
+  "cancellation_count": 18,
   "sec_filing_count": 3,
   "high_confidence_count": 194,
   "findings": [
@@ -112,8 +112,8 @@
       "amounts": [
         "$150M",
         "$1.05B",
-        "$1.05 billion",
-        "$150 million"
+        "$150 million",
+        "$1.05 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -132,9 +132,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$200 million",
+        "$400 million",
         "$200M",
-        "$400 million"
+        "$200 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4759,6 +4759,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "b0d582f1845e50",
+      "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-17",
+      "summary": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute &nbsp;&nbsp; NVIDIA Newsroom",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cf2ea91bb706da",
       "title": "AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more (August 17, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
@@ -8909,13 +8928,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d195516ff48c45",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
+      "id": "5ddb35b67d78db",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -8945,13 +8964,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ddb35b67d78db",
-      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg",
+      "id": "d195516ff48c45",
+      "title": "Microsoft Opens Fourth Data Center Region in India for Azure - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmljUXJxSGw3YWl6R29PenpBWGNmVG91ZnV3SWJqMmNxcVZQYW5oU1NHWGhsemxncWFYS0tsWmZoQjBqSVplU1lNNGQ0SWFxaTNMbkcyWVFZN3F0RzhyTHVoaC1EOGRQZmRSaGlVWGJUaDVodHE5UFEyTkExX0U2NFlsZElLeFY3eW5XT3NCU0NISnBNUkg4Q0VnTHBpdV9DWmM5WnZKN1JYa2RWRjNvVg?oc=5",
       "source": "GNews: Microsoft data center build",
       "source_cat": "Company",
       "date": "2026-08-06",
-      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg",
+      "summary": "Microsoft Opens Fourth Data Center Region in India for Azure &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -10438,23 +10457,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fb9b6bc8419483",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbTUwQkdEOGhVcmdJTHBjOGt6NTAyVl84QTAtV3FaaVZiUENza0p0UkdKYWN4bkk1dE1FZnlRMTJPb2hRdllKczVEQjQ5SXI0Y3NqYWpPZS1nV3RXeUYxXzlMdC1JQjZPWWp1aE5icnFveGxJOHdhaUduMGVhRS1fMUE3dmhHcTBlMWZrcGljZ0dmenpWU3F1UUZ3U1VkVTIyMy03b0VQLVZfQlRQak1B?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-04",
-      "summary": "Texas halts data center connections to power grid amid overwhelming demand &nbsp;&nbsp; Ars Technica",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
