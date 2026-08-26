@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-26T14:44:29.009788+00:00",
+  "last_updated": "2026-08-26T16:48:14.284996+00:00",
   "finding_count": 600,
-  "new_project_count": 72,
+  "new_project_count": 73,
   "cancellation_count": 18,
-  "sec_filing_count": 3,
+  "sec_filing_count": 2,
   "high_confidence_count": 190,
   "findings": [
     {
@@ -21,6 +21,23 @@
         "150MW"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4b534479f67d36",
+      "title": "Empyrion closes financing for Taipei, Taiwan data center with E.Sun Bank",
+      "url": "https://www.datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "APAC operator closes financing for 7MW data center in Neihu, Taipei",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "7MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -111,13 +128,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "96f3d1b7e13e94",
-      "title": "AI data center and sovereign cloud launched in Papua New Guinea",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-and-sovereign-cloud-launched-in-papua-new-guinea/",
+      "id": "93fd0745384278",
+      "title": "Administrative Office of the U.S. Courts seeks vendor for two colocation data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/administrative-office-of-the-us-courts-seeks-vendor-for-two-colocation-data-centers/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-26",
-      "summary": "And other sovereign cloud news",
+      "summary": "Currently uses Digital Realty and Csquare through a third-party vendor",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -126,13 +143,47 @@
       "is_high_confidence": false
     },
     {
-      "id": "cc4fb83468b80b",
-      "title": "Sponsored: How AI is reshaping data center power testing and commissioning",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-reshaping-data-center-power-testing-and-commissioning/",
+      "id": "49170ca8d37943",
+      "title": "Rum Group signs up to $13.7bn lease agreement with unnamed US cloud customer",
+      "url": "https://www.datacenterdynamics.com/en/news/rum-group-signs-up-to-137bn-lease-agreement-with-unnamed-us-cloud-customer/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-26",
-      "summary": "As AI transforms power architecture, testing and commissioning, operational services are becoming just as important as the electrical equipment itself",
+      "summary": "Unnamed customer to lease capacity from Rum's data center in Maysville, Georgia",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1f27cc90cb7d20",
+      "title": "Grid connection of data centers in France",
+      "url": "https://www.datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "A closer look at the legal framework and practical issues",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "96f3d1b7e13e94",
+      "title": "AI data center and sovereign cloud launched in Papua New Guinea",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-and-sovereign-cloud-launched-in-papua-new-guinea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "And other sovereign cloud news",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -181,7 +232,7 @@
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-26",
-      "summary": "Google G logo",
+      "summary": "Kent Walker on stage delivering a speech",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -223,6 +274,51 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc4fb83468b80b",
+      "title": "Sponsored: How AI is reshaping data center power testing and commissioning",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-reshaping-data-center-power-testing-and-commissioning/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "As AI transforms power architecture, testing and commissioning, operational services are becoming just as important as the electrical equipment itself",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad7614289f61b1",
+      "title": "Sponsored: The AI buildout has hit a labor wall",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-ai-buildout-has-hit-a-labor-wall/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Everyone's fighting over GPUs and megawatts, but often, what actually stalls a build is finding people to wire it. Here's why the labor problem is the real ceiling",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b499582e555048",
+      "title": "Governing physical access at hyperscale",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/governing-physical-access-at-hyperscale/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Access governance across 300+ sites and millions of identities",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -283,24 +379,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "100f54cbcca2a8",
-      "title": "APAC data center asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-      "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Will require $280 billion in capital expenditure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1 trillion",
-        "$280 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "8165b35d085444",
       "title": "Data center power startup Emerald AI raises $150M at $1.05B valuation",
       "url": "https://siliconangle.com/2026/08/25/data-center-power-startup-emerald-ai-raises-150m-at-1-05b-valuation/",
@@ -313,8 +391,8 @@
       "locations": [],
       "amounts": [
         "$150M",
-        "$150 million",
         "$1.05B",
+        "$150 million",
         "$1.05 billion"
       ],
       "confidence": 6,
@@ -337,6 +415,24 @@
         "$200 million",
         "$200M",
         "$400 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "100f54cbcca2a8",
+      "title": "APAC data center asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
+      "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Will require $280 billion in capital expenditure",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1 trillion",
+        "$280 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -474,21 +570,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1bcfa49dbc2c3d",
-      "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Why data center leaders should no longer evaluate surveillance and access systems solely as security investments.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "c98a41b5581855",
       "title": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics",
       "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
@@ -559,33 +640,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "8d48765ec1ee81",
-      "title": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh",
-      "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+      "id": "1bcfa49dbc2c3d",
+      "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-25",
-      "summary": "Has a capacity of 50kW",
+      "summary": "Why data center leaders should no longer evaluate surveillance and access systems solely as security investments.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e36610212ccfe3",
-      "title": "Arm's race: Building the AGI CPU",
-      "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Britain's chip design champion is making its own silicon for AI data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -824,6 +890,36 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8d48765ec1ee81",
+      "title": "Banglalink deploys rooftop solar array on data center in Cumilla, Bangladesh",
+      "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Has a capacity of 50kW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e36610212ccfe3",
+      "title": "Arm's race: Building the AGI CPU",
+      "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-25",
+      "summary": "Britain's chip design champion is making its own silicon for AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -3113,13 +3209,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2098e1a9cfc050",
-      "title": "Start the semester with one year of Gemini, on us",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "id": "9524d1234e2a23",
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -3130,13 +3226,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9524d1234e2a23",
-      "title": "5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "id": "2098e1a9cfc050",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-08-19",
-      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\"",
+      "summary": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -10336,100 +10432,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "1b4795d194ae6c",
-      "title": "AMD posts Q2 ‘26 revenue of $11.5bn, with data center revenue up 107% for the quarter",
-      "url": "https://www.datacenterdynamics.com/en/news/amd-posts-q2-26-revenue-of-115bn-with-data-center-revenue-up-107-for-the-quarter/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Data center revenue now represents 58 percent of total revenue",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0abd6dfb9156b9",
-      "title": "Amogy, 2G Energy test ammonia-to-power system for data center use",
-      "url": "https://www.datacenterdynamics.com/en/news/amogy-2g-energy-test-ammonia-to-power-system-for-data-center-use/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "System can be powered via ammonia or natural gas",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1402b51e098bfc",
-      "title": "AtlasEdge starts next expansion phase of data center in Hamburg, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/atlasedge-starts-next-expansion-phase-of-data-center-in-hamburg-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "AtlasEdge starts second of four phases of HAM002",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "df5d5884037019",
-      "title": "Google's AI shakeup: DeepMind's Hassabis steps aside, senior scientists depart",
-      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-05",
-      "summary": "Google's AI brain drain continues.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1098f314f84b51",
-      "title": "EVgo starts building Tesla Superchargers under license",
-      "url": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-05",
-      "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07f85d8d969093",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-08-04",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
     }
   ]
 }
