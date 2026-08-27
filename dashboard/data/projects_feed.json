@@ -1,11 +1,107 @@
 {
-  "last_updated": "2026-08-27T07:59:05.050521+00:00",
+  "last_updated": "2026-08-27T19:02:00.995690+00:00",
   "finding_count": 600,
-  "new_project_count": 74,
-  "cancellation_count": 18,
+  "new_project_count": 71,
+  "cancellation_count": 15,
   "sec_filing_count": 2,
-  "high_confidence_count": 195,
+  "high_confidence_count": 191,
   "findings": [
+    {
+      "id": "d6bf90ce7d5880",
+      "title": "OpenAI gets green light for 3.2GW power deal to supply planned data center in Effingham County, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-gets-green-light-for-32gw-power-deal-to-supply-planned-data-center-in-effingham-county-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "US utility Georgia Power will construct the new generation, with the ChatGPT maker expected to foot the bill",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [
+        "3.2GW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "16a12b7ccaa223",
+      "title": "Anthropic signs $45bn compute capacity agreement with Nscale - report",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Deal is for 460MW at Nscale's data center campus in West Virginia",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "West Virginia"
+      ],
+      "amounts": [
+        "460MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1ae8c3678868d5",
+      "title": "VCI Global announces launch of Galatron AI",
+      "url": "https://www.datacenterdynamics.com/en/news/vci-global-announces-launch-of-galatron-ai/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Company launches prefabricated modular AI data center platform, targeting up to 500MW aggregate AI compute capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "500MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "833bcc3e81e433",
+      "title": "Gateway Capital files to build 81MW data center in Sydney, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/gateway-capital-files-to-build-81mw-data-center-in-sydney-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Former industrial site earmarked for five-story facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "amounts": [
+        "81MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1e617925356884",
+      "title": "Nvidia revenue doubles over last year, as company forecasts record growth",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-revenue-doubles-over-last-year-as-company-forecasts-record-growth/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Says it is making more money per gigawatt of data center than ever before",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "63c8d1fd91991c",
       "title": "Nvidia’s next multibillion-dollar market: Breaking the AI factory out of the data center",
@@ -24,15 +120,210 @@
       "is_high_confidence": true
     },
     {
-      "id": "a11b55766d6771",
-      "title": "Sponsored: The architecture advantage: Rethinking power for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-architecture-advantage-rethinking-power-for-ai-data-centers/",
+      "id": "9b4a2ccc2f179a",
+      "title": "Delaware enacts clean energy mandate for hyperscale data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/delaware-enacts-clean-energy-mandate-for-hyperscale-data-centers/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-08-27",
-      "summary": "Reliable components alone no longer guarantee a reliable campus. In the AI era, resilience increasingly depends on how power systems are architected to perform together",
+      "summary": "As well as several new laws targeting the sector",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Delaware"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4aa7bd04d705c8",
+      "title": "Schwarz Group commits €5.6bn investment in data center in Mecklenburg-Vorpommern, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/schwarz-group-commits-56bn-investment-in-data-center-in-mecklenburg-vorpommern-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Data center will be fully powered by renewable energy",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d87deb1a8a5cc",
+      "title": "War and peace in the Middle East",
+      "url": "https://www.datacenterdynamics.com/en/analysis/war-and-peace-in-the-middle-east/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "How the data center market is faring, and being impacted, by the Iran War",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a473e9e860f6ca",
+      "title": "Salim Group buys out Keppel’s share of Indonesian data center venture",
+      "url": "https://www.datacenterdynamics.com/en/news/salim-group-buys-out-keppels-share-of-indonesian-data-center-venture/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "IndoKeppel relaunched as IndoData",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8528a664577c93",
+      "title": "Sponsored: Designing the white space for flexible fiber requirements",
+      "url": "https://www.datacenterdynamics.com/en/opinions/designing-the-white-space-for-flexible-fiber-requirements/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "The white space at the heart of a data center is where the competing demands of rapidly increasing capacity within a finite space are in the sharpest focus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e13caaedf20d32",
+      "title": "Privacy-focused email service Proton goes down after cooling failure in Frankfurt data center",
+      "url": "https://www.datacenterdynamics.com/en/news/privacy-focused-email-service-proton-goes-down-after-cooling-failure-in-frankfurt-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "CEO admits \"we fucked up\" after slow failover",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Frankfurt"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4d25db82558218",
+      "title": "AWS to deploy 2 million additional Nvidia GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-to-deploy-2-million-additional-nvidia-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Two companies expand their partnership",
+      "finding_type": "Expansion",
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8756220221ff6c",
+      "title": "Nexspace breaks ground on data center in Graz, Austria",
+      "url": "https://www.datacenterdynamics.com/en/news/nexspace-breaks-ground-on-data-center-in-graz-austria/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Company expanding footprint in city with second facility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "78784a1a43006d",
+      "title": "Google names 28 startups as part of second AI for Energy Accelerator program",
+      "url": "https://www.datacenterdynamics.com/en/news/google-names-28-startups-as-part-of-second-ai-for-energy-accelerator-program/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Selects 12 companies in the US and 16 in Europe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1be852b0f58a86",
+      "title": "Data center start up Fossefall taps Armada for AI data center deployments",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-start-up-fossefall-taps-armada-for-ai-data-center-deployments/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Will deploy five Leviathan modular data centers in the Nordics",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8492ca4331008c",
+      "title": "New German operator Data Center Capital launches",
+      "url": "https://www.datacenterdynamics.com/en/news/new-german-operator-data-center-capital-launches/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Former Nexspace CEO back with venture",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1143896fac6464",
+      "title": "LG CNS deploys direct-to-chip cooling for Naver Cloud at data center in Goyang City, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/lg-cns-deploys-direct-to-chip-cooling-for-naver-cloud-at-data-center-in-goyang-city-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-27",
+      "summary": "Naver signed lease agreement at site in April",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6715710497407e",
+      "title": "Sonar launches Hunter Agent to find flaws code scanners can’t see",
+      "url": "https://siliconangle.com/2026/08/27/sonar-launches-hunter-agent-to-find-flaws-code-scanners-cant-see/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-27",
+      "summary": "Artificial intelligence code verification and governance company SonarSource Sàrl today released SonarQube Hunter Agent, an AI agent built to find security flaws that pattern-based scanning cannot see. The vulnerabilities it targets are the ones where the code does exactly what it was written to do. A user opens another customer&#8217;s records. A checkout step gets [&#8230;] \n The post  Sonar launches Hunter Agent to find flaws code scanners can&#8217;t see  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -56,21 +347,70 @@
       "is_high_confidence": false
     },
     {
-      "id": "9ba2aae178a45b",
-      "title": "MTN forms data center partnership with unnamed investor",
-      "url": "https://www.datacenterdynamics.com/en/news/mtn-forms-data-center-partnership-with-unnamed-investor/",
+      "id": "a748269b44f3c5",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-27",
+      "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4016aaa98dbc4e",
+      "title": "Partnering with Khan Academy on building AI tools for classrooms",
+      "url": "https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-27",
+      "summary": "Adults standing in front of Google sign smiling",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2bd69c57e7262e",
+      "title": "Google Flow brings new creative control features to enhance video editing.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-27",
+      "summary": "At Google I/O, we launched Gemini Omni Flash in Google Flow, bringing new video editing capabilities to creatives. Today we’re rolling out updates via Gemini Omni 1.1 Fl…",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a11b55766d6771",
+      "title": "Sponsored: The architecture advantage: Rethinking power for AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-architecture-advantage-rethinking-power-for-ai-data-centers/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "Pan-African telco said to be targeting more than 150MW of new capacity in first phase",
-      "finding_type": "New Project",
+      "date": "2026-08-27",
+      "summary": "Reliable components alone no longer guarantee a reliable campus. In the AI era, resilience increasingly depends on how power systems are architected to perform together",
+      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [
-        "150MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "8d111163d019eb",
@@ -94,6 +434,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "9ba2aae178a45b",
+      "title": "MTN forms data center partnership with unnamed investor",
+      "url": "https://www.datacenterdynamics.com/en/news/mtn-forms-data-center-partnership-with-unnamed-investor/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Pan-African telco said to be targeting more than 150MW of new capacity in first phase",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "150MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "82d29d6895b2b7",
       "title": "This $11 Billion ETF Owns the Companies Wiring America’s $68 Billion Data Center Boom - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVRGS0x3aFk2SGtacFFFSlIzOHc1LTRjbEgydWtXMmRDTUhqMlVMVWo3NWpQZ2dSLU0zS3lQTmYxb1BscWJNa2dTaWFQdnczOFFPNVRCR0V2ZTVNVExHbVROQ0hBTWtST1F5VDR2TzE4NUd2dEFJNkZjcHhsY1ZnYUZMd2lSY2J2M1JnSnRpQXpOVGtDSWtlbnBuQk5paTRGalRUS0k0TkcwU1JrblRFREl2cTVDN1JWaW1wTU1wRWh0ZVFmdHVCN1JB?oc=5",
@@ -109,6 +466,27 @@
         "$68 Billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cf9ce6b12706af",
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-26",
+      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Florida"
+      ],
+      "amounts": [
+        "$18B"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -184,27 +562,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "cf9ce6b12706af",
-      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-26",
-      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Florida"
-      ],
-      "amounts": [
-        "$18B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "a4aed159c46e76",
       "title": "Application filed for 200MW data center in Melbourne, Australia",
       "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-200mw-data-center-in-melbourne-australia/",
@@ -273,77 +630,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "93fd0745384278",
-      "title": "Administrative Office of the U.S. Courts seeks vendor for two colocation data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/administrative-office-of-the-us-courts-seeks-vendor-for-two-colocation-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "Currently uses Digital Realty and Csquare through a third-party vendor",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "49170ca8d37943",
-      "title": "Rum Group signs up to $13.7bn lease agreement with unnamed US cloud customer",
-      "url": "https://www.datacenterdynamics.com/en/news/rum-group-signs-up-to-137bn-lease-agreement-with-unnamed-us-cloud-customer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "Unnamed customer to lease capacity from Rum's data center in Maysville, Georgia",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1f27cc90cb7d20",
-      "title": "Grid connection of data centers in France",
-      "url": "https://www.datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "A closer look at the legal framework and practical issues",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "96f3d1b7e13e94",
-      "title": "AI data center and sovereign cloud launched in Papua New Guinea",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-and-sovereign-cloud-launched-in-papua-new-guinea/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "And other sovereign cloud news",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a40ee1d869db52",
-      "title": "Nvidia doubles its revenue as demand for AI chips accelerate, but bubble fears persist",
+      "id": "3afb2ad414a3e4",
+      "title": "Nvidia doubles its revenue as demand for AI chips accelerate despite bubble fears",
       "url": "https://siliconangle.com/2026/08/26/nvidia-doubles-its-revenue-as-demand-for-ai-chips-accelerate-but-bubble-fears-still-persist/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-08-26",
-      "summary": "Nvidia Corp. reported better-than-expected second-quarter earnings and revenue and also delivered bullish guidance for the current quarter and next full year, sending its stock up more than 4% in after-hours trading. The company reported earnings before certain costs such as stock compensation of $2.22 per share, easily beating Wall Street’s forecast of $2.10 per share. [&#8230;] \n The post  Nvidia doubles its revenue as demand for AI chips accelerate, but bubble fears persist  appeared first on",
+      "summary": "Nvidia Corp. reported better-than-expected second-quarter earnings and revenue and also delivered bullish guidance for the current quarter and next full year, sending its stock up more than 4% in after-hours trading. Update: Shares were trading up 7% Thursday morning. The company reported earnings before certain costs such as stock compensation of $2.22 per share, easily [&#8230;] \n The post  Nvidia doubles its revenue as demand for AI chips accelerate despite bubble fears  appeared first on  Si",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -490,6 +783,87 @@
       "is_high_confidence": false
     },
     {
+      "id": "93fd0745384278",
+      "title": "Administrative Office of the U.S. Courts seeks vendor for two colocation data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/administrative-office-of-the-us-courts-seeks-vendor-for-two-colocation-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Currently uses Digital Realty and Csquare through a third-party vendor",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "49170ca8d37943",
+      "title": "Rum Group signs up to $13.7bn lease agreement with unnamed US cloud customer",
+      "url": "https://www.datacenterdynamics.com/en/news/rum-group-signs-up-to-137bn-lease-agreement-with-unnamed-us-cloud-customer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Unnamed customer to lease capacity from Rum's data center in Maysville, Georgia",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1f27cc90cb7d20",
+      "title": "Grid connection of data centers in France",
+      "url": "https://www.datacenterdynamics.com/en/opinions/grid-connection-of-data-centers-in-france/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "A closer look at the legal framework and practical issues",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "96f3d1b7e13e94",
+      "title": "AI data center and sovereign cloud launched in Papua New Guinea",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-data-center-and-sovereign-cloud-launched-in-papua-new-guinea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "And other sovereign cloud news",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a40ee1d869db52",
+      "title": "Nvidia doubles its revenue as demand for AI chips accelerate, but bubble fears persist",
+      "url": "https://siliconangle.com/2026/08/26/nvidia-doubles-its-revenue-as-demand-for-ai-chips-accelerate-but-bubble-fears-still-persist/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-26",
+      "summary": "Nvidia Corp. reported better-than-expected second-quarter earnings and revenue and also delivered bullish guidance for the current quarter and next full year, sending its stock up more than 4% in after-hours trading. The company reported earnings before certain costs such as stock compensation of $2.22 per share, easily beating Wall Street’s forecast of $2.10 per share. [&#8230;] \n The post  Nvidia doubles its revenue as demand for AI chips accelerate, but bubble fears persist  appeared first on",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "cc4fb83468b80b",
       "title": "Sponsored: How AI is reshaping data center power testing and commissioning",
       "url": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-is-reshaping-data-center-power-testing-and-commissioning/",
@@ -520,13 +894,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "b499582e555048",
-      "title": "Governing physical access at hyperscale",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/governing-physical-access-at-hyperscale/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "b2d8365eb76a9f",
+      "title": "Top 10: Hyperscale Data Centre Companies - Data Centre Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUdRaDRSU19NWmZ0OFFsYTNfaWlmVXN2MmJXdlZBUzJReXA3dS1hbS1RSnhad1FNZDBSU2czWFlkV3IzVWt5Q2JWODNJOEhoUnZzT0dDQ25ySk5PNmNqVF82aGtZbUNpaVlONlJ3SGtVWEp5UC1kTV9ocjFnMm9GSExn?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
       "date": "2026-08-26",
-      "summary": "Access governance across 300+ sites and millions of identities",
+      "summary": "Top 10: Hyperscale Data Centre Companies &nbsp;&nbsp; Data Centre Magazine",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -542,6 +916,21 @@
       "source_cat": "Tech Analysis",
       "date": "2026-08-26",
       "summary": "Since completing its acquisition of VMware in 2023, Broadcom Inc. has reshaped the company around VMware Cloud Foundation or VCF. Over the past three years, Broadcom has positioned VCF as a major on-premises alternative to public cloud, with private cloud becoming a central part of its strategy that will undoubtedly be one of the primary [&#8230;] \n The post  What to expect during VMware Explore: Join theCUBE Aug. 31-Sept. 2  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b499582e555048",
+      "title": "Governing physical access at hyperscale",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/governing-physical-access-at-hyperscale/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-08-26",
+      "summary": "Access governance across 300+ sites and millions of identities",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -798,6 +1187,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "c78180c8302e12",
+      "title": "Introducing the Edits Film Festival to Spotlight India’s Emerging Creator Talent",
+      "url": "https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-25",
+      "summary": "Today, we announce the launch of the Edits Film Festival — an initiative that invites content creators across India to showcase their creativity through Reels made on Edits. \n The post  Introducing the Edits Film Festival to Spotlight India&#8217;s Emerging Creator Talent  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "c98a41b5581855",
       "title": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics",
       "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
@@ -827,25 +1235,6 @@
         "NVIDIA"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c78180c8302e12",
-      "title": "Introducing the Edits Film Festival to Spotlight India’s Emerging Creator Talent",
-      "url": "https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Today, we announce the launch of the Edits Film Festival — an initiative that invites content creators across India to showcase their creativity through Reels made on Edits. \n The post  Introducing the Edits Film Festival to Spotlight India&#8217;s Emerging Creator Talent  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "India"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -894,23 +1283,6 @@
       "companies": [
         "NVIDIA",
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b195fff487c6f6",
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-25",
-      "summary": "It's currently only appearing on Pixels running Android 17.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1032,6 +1404,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b195fff487c6f6",
+      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-25",
+      "summary": "It's currently only appearing on Pixels running Android 17.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -8849,8 +9238,8 @@
       ],
       "locations": [],
       "amounts": [
-        "10GW",
-        "$300B"
+        "$300B",
+        "10GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10053,401 +10442,6 @@
       ],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eeca676282604f",
-      "title": "We Energies begins work on three renewable projects slated to help power Vantage's data center in Port Washington, Wisconsin",
-      "url": "https://www.datacenterdynamics.com/en/news/we-energies-begins-work-on-three-renewable-projects-slated-to-help-power-vantages-data-center-in-port-washington-wisconsin/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "50 percent of generation is expected to serve the data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Washington",
-        "Wisconsin"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "efd948e165b38a",
-      "title": "Y Combinator-backed Impact Drones launches, offers missile-intercepting drone service for data centers and grid operators",
-      "url": "https://www.datacenterdynamics.com/en/news/y-combinator-backed-impact-drones-launches-offers-missile-intercepting-drone-service-for-data-centers-and-grid-operators/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "Following several strikes on data centers in US-Israel and Iran conflict",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9e3db35b04f424",
-      "title": "Anthropic publicly confirms its putting together an in-house chip design team",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-publicly-confirms-its-putting-together-an-in-house-chip-design-team/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "Rumors AI company was looking to develop its own custom silicon first emerged earlier this year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2ede8bc1ea1dc1",
-      "title": "FiberCop to convert copper exchanges into Edge data center network",
-      "url": "https://www.datacenterdynamics.com/en/news/fibercop-to-convert-copper-exchanges-into-edge-data-center-network/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "The wholesale fixed network provider will create a network of more than 100 nodes throughout Italy",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0ab3d59c2e32ec",
-      "title": "Google chief scientist Jeff Dean departs, Demis Hassabis steps down as DeepMind CEO",
-      "url": "https://www.datacenterdynamics.com/en/news/google-chief-scientist-jeff-dean-departs-demis-hassabis-steps-down-as-deepmind-ceo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "Gemini co-lead Oriol Vinyals also departing",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c38b2e90c3a61f",
-      "title": "Sponsored: Designing for change, not for convenience",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/designing-for-change-not-for-convenience/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "Creative and contextual cooling design to see data centers through the motions of change",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d84694f819f78f",
-      "title": "Broadcom updates VMware security for AI-era threats",
-      "url": "https://siliconangle.com/2026/08/06/broadcom-updates-vmware-security-ai-era-threats/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-06",
-      "summary": "Broadcom Inc. today introduced new security, performance and automation capabilities for VMware Cloud Foundation that are intended to help enterprises defend private clouds against artificial intelligence-assisted attacks while reducing operational complexity and infrastructure costs. The updates affect VMware vDefend and VMware Avi Load Balancer. They include a guided process for deploying advanced threat prevention, on-premises [&#8230;] \n The post  Broadcom updates VMware security for AI-era ",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0f0dfb28138ee4",
-      "title": "Direct-on-die two phase cooling approach for high power GPUs",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/direct-on-die-two-phase-cooling-approach-for-high-power-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-06",
-      "summary": "How direct-on-die two-phase cooling can reduce thermal resistance and enable warmer facility water for next-generation AI GPUs",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "efea2251886ad9",
-      "title": "Big Tech's AI Data Centre Race Builds $1 Trillion Lease Burden - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSDhBX2gzVndnR3UwbXBlb251N05OaXkzN3V0YmFrT0Q4UDBPaTdKUGEwbU1QMHRPN0hHSmd6WFNKb0RPTUFSWTkxY1lOU2hJVkFTaThlUE5fMFF3UTdwY1lYZWwwZFJsQ05EWUdITnV3SmZpajkwVXlJSjgzOExjcVVha2lfRW5CU1BIcWdZYnBDSGYwcjdUOWJlcVEyaWwzTU16U2Iyb0lNSC1oU2x6S2pkRU9LTDdvcVhnODMwYTd4Zlo1aDFMQm1rajMyUUVBenBSUVNpMnd6Z9IB3gFBVV95cUxNZTJLYkpPajZtWGR3YVE0T1JSNmFhZkVlcW1VU1pxbTMtTTloakt4aHlubXhIUUp4MDRkSlJiUURucDk1aXJndm5nZ0Fhdk1pU3JRVmVGOVBDZUNZZzdsMUt2emdjSFVSNmpBT3FPakpXVjI1OUpZY01UcGhxVWFWb0UzQ0drOGNXM01LNTdVUkZURHA4SEtiYUh3aFZwZmxWajVlVTJhc3NEa1piYk9UMWJtRTQ3bHFHSHdaUFhlcDk2STJ4cFcwSEJpQ0dhQi1jaElkRTNUY05IZExzSUE?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-05",
-      "summary": "Big Tech's AI Data Centre Race Builds $1 Trillion Lease Burden &nbsp;&nbsp; ET Datacenters",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1 Trillion"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bb79c5c3b06bb2",
-      "title": "Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDhSTVFCb1pBU2pyS0ZCYmI4WVNRVnV1bjBWMkVGYmRueGE1UzhRc28zNFlpbWdvdDhuQ21FRVNHcExlcWRQTWpYY2ItRTFRNE1lV3pRTDRpNS1abUFuTDFiQVQ2NHFfT0NmeEt5OFpkWExvQ2Z5emF2U3dKSFFiY3JkUmd0bDZ5UXMzbHBjMklJUXRUVDNqN2xxZk56dGhWQ2Z6UHVmZUhjOE1ORmJ5ZlZzcS1lZlpacTdPQlBsZnU0QUVvdElrZGluYXBPVmlkdGt4NC1JX0EtZC10V0lOSl9FTUdsMDQweDUyUVNvQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-05",
-      "summary": "Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure &nbsp;&nbsp; Business Wire",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3 Billion"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bd32b4d9a1ae84",
-      "title": "Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure - businesswire.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDhSTVFCb1pBU2pyS0ZCYmI4WVNRVnV1bjBWMkVGYmRueGE1UzhRc28zNFlpbWdvdDhuQ21FRVNHcExlcWRQTWpYY2ItRTFRNE1lV3pRTDRpNS1abUFuTDFiQVQ2NHFfT0NmeEt5OFpkWExvQ2Z5emF2U3dKSFFiY3JkUmd0bDZ5UXMzbHBjMklJUXRUVDNqN2xxZk56dGhWQ2Z6UHVmZUhjOE1ORmJ5ZlZzcS1lZlpacTdPQlBsZnU0QUVvdElrZGluYXBPVmlkdGt4NC1JX0EtZC10V0lOSl9FTUdsMDQweDUyUVNvQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-05",
-      "summary": "Celestica Announces $3 Billion Equity Offering to Accelerate Growth Across Global AI Infrastructure &nbsp;&nbsp; businesswire.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3 Billion"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b63a2ea16c9b8f",
-      "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
-      "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Now has secured 7.6GW worth of electric service agreements with data center firms",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "7.6GW",
-        "2.7GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5add93fa04c284",
-      "title": "Everllence to supply 480MW of gas engines to data center developer in US",
-      "url": "https://www.datacenterdynamics.com/en/news/everllence-to-supply-480mw-of-gas-engines-to-data-center-developer-in-us/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Will commence deliveries this year in line with the commissioning of the data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "480MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bfed3e7981e8c5",
-      "title": "Meeza secures loan facility from Dukhan Bank to fund 44MW build-out",
-      "url": "https://www.datacenterdynamics.com/en/news/meeza-secures-loan-facility-from-dukhan-bank-to-fund-44mw-build-out/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "The credit facility is the second such deal struck between the Qatari data center developer and bank",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "44MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "83e607d179dc2b",
-      "title": "Australia’s CDC files for data center in Kemps Creek, Sydney",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Company plans a single 144MW building",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia",
-        "Sydney"
-      ],
-      "amounts": [
-        "144MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f0765bec6f0ded",
-      "title": "AWS pulls out of planned data center campus next to Maryland nuclear plant",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-pulls-out-of-planned-data-center-campus-next-to-maryland-nuclear-plant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Company withdraws plans for Calvert Technology Center",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Maryland"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c2582cf35f8ab0",
-      "title": "Cipher eyes 900MW data center site outside San Antonio, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/cipher-eyes-900mw-data-center-site-outside-san-antonio-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Reforming crypto firm brings Black Pearl site online early",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "900MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8bd32431cddea7",
-      "title": "UK’s Harworth Group in talks with multiple parties about selling land for data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/uks-harworth-group-in-talks-with-multiple-parties-about-selling-land-for-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Real estate firm previously sold land in Leeds to Microsoft",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d1cc61424c73e5",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-05",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9400b12beb2a4d",
-      "title": "Google reveals big shakeup in its AI teams as Jeff Dean leaves and Demis Hassabis moves upstairs",
-      "url": "https://siliconangle.com/2026/08/05/google-reveals-big-shake-ai-teams-jeff-dean-leaves-demis-hassabis-moves-upstairs/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-05",
-      "summary": "Google LLC is reshuffling its senior artificial intelligence team, with its Chief Scientist Jeff Dean leaving the company after 27 years and Demis Hassabis, chief executive of Google Deepmind, moving upstairs into a chairman role. He’s also becoming the new Chief Scientist of Google’s parent company Alphabet Inc. The changes were announced by Google CEO [&#8230;] \n The post  Google reveals big shakeup in its AI teams as Jeff Dean leaves and Demis Hassabis moves upstairs  appeared first on  Silic",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8528ff0900dc94",
-      "title": "Amazon brings native real-time vector search to DynamoDB to support AI apps at scale",
-      "url": "https://siliconangle.com/2026/08/05/amazon-brings-native-real-time-vector-search-dynamodb-support-ai-apps-scale/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-05",
-      "summary": "Amazon Web Services Inc. today announced the general availability of vector search to DynamoDB, the company’s high-availability NoSQL key-value and document database designed for high speed and scale. Launched in 2012, the database service has gone through numerous iterations and is positioned today as the go-to database for developers who need predictable performance without operational [&#8230;] \n The post  Amazon brings native real-time vector search to DynamoDB to support AI apps at scale  a",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "339aad51bfc1ad",
-      "title": "Asturias government targets data center project in Salas, Spain",
-      "url": "https://www.datacenterdynamics.com/en/news/the-digital-valley-asturias-project-for-a-data-center-in-salas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Site will be operational by 2030, and up to 3,000 people will work on its construction, with an investment of €1.226bn",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0c3299fa770720",
-      "title": "NSF plans $100m AI Infrastructure Hubs program to boost science R&D",
-      "url": "https://www.datacenterdynamics.com/en/news/national-science-foundation-announces-100m-ai-infrastructure-hubs-program-to-boost-science-rd/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-05",
-      "summary": "Initiative aims to address lack of AI infrastructure access in some parts of the US",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$100m"
-      ],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
