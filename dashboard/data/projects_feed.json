@@ -1,11 +1,66 @@
 {
-  "last_updated": "2026-09-01T14:36:47.904286+00:00",
+  "last_updated": "2026-09-01T19:14:32.605262+00:00",
   "finding_count": 600,
-  "new_project_count": 73,
-  "cancellation_count": 12,
+  "new_project_count": 71,
+  "cancellation_count": 10,
   "sec_filing_count": 3,
-  "high_confidence_count": 193,
+  "high_confidence_count": 192,
   "findings": [
+    {
+      "id": "fdce0f1c422484",
+      "title": "(LEAP 2026) Sees Investments and Technology Launches Exceeding $2.5 Billion, with Data Centers and Cloud Computing Taking the lead - صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oT3E1YzJBTGs5RVFoVHAyR0xSZC1FS3ViajlCUVo0YUMwZmRyVWhJRkRmRFJjN3Y4aUpiVVd1U2tCVW1VT1h6aVNvTnJrNzlGQ3dOd3JxdWxSbEZQOWFuZEpvckdPSVA0VUE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-01",
+      "summary": "(LEAP 2026) Sees Investments and Technology Launches Exceeding $2.5 Billion, with Data Centers and Cloud Computing Taking the lead &nbsp;&nbsp; صحيفة مال",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$2.5 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "229dd4ac906528",
+      "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+      "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-01",
+      "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$20 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "df88758f537cab",
+      "title": "DayOne partners with TNB to develop up to 1.5GW of onsite generation for planned data center in Selangor, Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/dayone-partners-with-tnb-to-develop-up-to-15gw-of-onsite-generation-for-planned-data-center-in-selangor-malaysia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Expected to comprise both generation and battery storage",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [
+        "1.5GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "cf12011c92bebe",
       "title": "Green Mountain secures neocloud customer at data center in London, UK",
@@ -59,8 +114,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$11M",
-        "$11 million"
+        "$11 million",
+        "$11M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -82,6 +137,73 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e248d930e2be6f",
+      "title": "What would it take to actually stop the data centers? - vox.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YWUFMLWFEcjVieVBtamMxWlFGSWVkcVM1QjJKeVMtazdKSk9jcU54VWhVdktTeDZnZmFYanpzOTVvQ3VYamxvVWtNbnBpM0xMMUs5VjdadEk3S3M2enI4LWhkaEhLd09KXzNOcW55VQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-09-01",
+      "summary": "What would it take to actually stop the data centers? &nbsp;&nbsp; vox.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "77e55b9030286d",
+      "title": "Flying the Flag for subsea connectivity in the AI era",
+      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2ce492711019b1",
+      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
+      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Plan to colocate compute at the world's first floating wind installation",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "02dcbd7ab2d28b",
+      "title": "AWS cable landing station in West Cork, Ireland, approved despite local opposition",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-cable-landing-station-in-west-cork-ireland-approved-despite-local-opposition/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "CLS to support Fastnet transatlantic cable connecting West Cork, Ireland, to Maryland, USA",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Maryland",
+        "Ireland"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -180,6 +302,57 @@
       "is_high_confidence": false
     },
     {
+      "id": "2f50ceb1992786",
+      "title": "Adversarial AI forces enterprises to confront decades of dormant security debt",
+      "url": "https://siliconangle.com/2026/09/01/ai-security-debt-exposed-adversarial-finds-old-flaws-falcon/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-01",
+      "summary": "Enterprise AI security has entered a phase unlike any previous technology cycle, as frontier models surface software flaws that went unnoticed for decades. The result is a threat landscape expanding in two directions at once: Defenders gain new tools, while attackers gain the same leverage. That dual dynamic is pushing chief information security officers to [&#8230;] \n The post  Adversarial AI forces enterprises to confront decades of dormant security debt  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d4dfc3604f1967",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-01",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "57ed97871ab5c9",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-01",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about predicting cyclones.' On the right: Two Googlers in a virtual interview about cyclone prediction",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1fe404fb5d7663",
       "title": "Nvidia invests $3.5B in MediaTek as part of expanded AI chip partnership",
       "url": "https://siliconangle.com/2026/08/31/nvidia-invests-3-5b-in-mediatek-as-part-of-expanded-ai-chip-partnership/",
@@ -232,28 +405,11 @@
       ],
       "locations": [],
       "amounts": [
-        "$1B",
-        "$1 billion"
+        "$1 billion",
+        "$1B"
       ],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "feac1a2a028fd6",
-      "title": "Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances",
-      "url": "https://siliconangle.com/2026/08/31/aws-targets-data-intensive-workloads-with-graviton5-powered-r9g-and-r9gd-instances/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-31",
-      "summary": "Amazon.com Inc. is bringing its new AWS Graviton5 processors to more workloads with the launch of its new, memory-optimized R9g and R9gd instances, which are available today in multiple cloud regions. They were revealed in a blog post by AWS Principal Developer Advocate Daniel Abib, who explained that they’re designed to power the most data-intensive [&#8230;] \n The post  Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     },
     {
       "id": "badba71659a08a",
@@ -270,6 +426,40 @@
       "locations": [
         "India"
       ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4f9170dbd1caf5",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-31",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "feac1a2a028fd6",
+      "title": "Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances",
+      "url": "https://siliconangle.com/2026/08/31/aws-targets-data-intensive-workloads-with-graviton5-powered-r9g-and-r9gd-instances/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-31",
+      "summary": "Amazon.com Inc. is bringing its new AWS Graviton5 processors to more workloads with the launch of its new, memory-optimized R9g and R9gd instances, which are available today in multiple cloud regions. They were revealed in a blog post by AWS Principal Developer Advocate Daniel Abib, who explained that they’re designed to power the most data-intensive [&#8230;] \n The post  Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -493,23 +683,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "538563338c4cfd",
-      "title": "Four safeguards to stop your AI agents from going rogue",
-      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-30",
-      "summary": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An Instagram support chatbot allowed hackers to hijack thousands of accounts. And last month, researchers tricked [&#8230;] \n The post  Four safeguards to stop your AI agents from going rogue  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "904f9807cb412d",
       "title": "Most Neoclouds Suck At Security",
       "url": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
@@ -520,6 +693,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "538563338c4cfd",
+      "title": "Four safeguards to stop your AI agents from going rogue",
+      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-08-30",
+      "summary": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An Instagram support chatbot allowed hackers to hijack thousands of accounts. And last month, researchers tricked [&#8230;] \n The post  Four safeguards to stop your AI agents from going rogue  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -798,6 +988,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "ecb3b00911d16d",
+      "title": "How Much Data Center Revenue Do AI Companies Earn? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-08-28",
+      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; The Motley Fool",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "06346d0e11c42e",
       "title": "Trump admin considers more semiconductor tariffs, could include data center servers",
       "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/",
@@ -988,21 +1193,6 @@
       "companies": [
         "NVIDIA"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ecb3b00911d16d",
-      "title": "How Much Data Center Revenue Do AI Companies Earn? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-08-28",
-      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2617,6 +2807,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "71554ff4b5f8cd",
+      "title": "New Account Security Features for WhatsApp",
+      "url": "https://about.fb.com/news/2026/08/new-account-security-features-for-whatsapp/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-08-25",
+      "summary": "We’re adding new account security features on WhatsApp like stronger two-step verification and additional context for calls from unknown callers.  \n The post  New Account Security Features for WhatsApp  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a81bfe5a0be56b",
       "title": "5 ways to upgrade your home decor with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
@@ -2682,23 +2889,6 @@
       "locations": [
         "Delaware"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71554ff4b5f8cd",
-      "title": "New Account Security Features for WhatsApp",
-      "url": "https://about.fb.com/news/2026/08/new-account-security-features-for-whatsapp/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "We’re adding new account security features on WhatsApp like stronger two-step verification and additional context for calls from unknown callers.  \n The post  New Account Security Features for WhatsApp  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3152,6 +3342,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "78c20b24561c4e",
+      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-24",
+      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3d9adea63734d6",
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
@@ -3163,21 +3368,6 @@
       "companies": [
         "Amazon"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78c20b24561c4e",
-      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-24",
-      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -5862,28 +6052,11 @@
       "is_high_confidence": true
     },
     {
-      "id": "d999a4a9df8522",
-      "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - ksla.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-18",
-      "summary": "Amazon Web Services announces a third data center campus is coming to Shreveport &nbsp;&nbsp; ksla.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "ed7cf26508a6dc",
       "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - KSLA",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-08-18",
       "summary": "Amazon Web Services announces a third data center campus is coming to Shreveport &nbsp;&nbsp; KSLA",
       "finding_type": "Statement / Update",
@@ -5911,6 +6084,23 @@
       "locations": [
         "Ohio"
       ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d999a4a9df8522",
+      "title": "Amazon Web Services announces a third data center campus is coming to Shreveport - ksla.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWdCUUJzbGE3WTJLbXNvamYtaXhVR0NjY2xHM1c5WnBWQThjSUNLaHRySFMxbTZSb1k1MWhPaXBDSkNXRlRQelZ4VlVyOU1oM3FOeWx3bEFPa1g2dHRCRFZQYTNGU1JnNURqYmJUcXAxdjdXQ1R3SjRodmREcWxRRkRDekVQY1lZWVctUkFuT29rcUIxT2N2QmhmeXF4aFFqREY4UjI2SFJwWnBr?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Amazon Web Services announces a third data center campus is coming to Shreveport &nbsp;&nbsp; ksla.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
@@ -10253,200 +10443,6 @@
       ],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e1e83733e3fa5e",
-      "title": "Taiwanese cloud provider Konst signs data center lease with LG Sinar Mas in Indonesia",
-      "url": "https://www.datacenterdynamics.com/en/news/taiwanese-cloud-provider-konst-signs-data-center-lease-with-lg-sinar-mas-in-indonesia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Taiwanese cloud provider is leasing capacity from LGSM Indonesian data center unit",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Indonesia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "29e318fe22fe53",
-      "title": "Switch confidentially files for IPO - report",
-      "url": "https://www.datacenterdynamics.com/en/news/switch-confidentially-files-for-ipo-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Rob Roy's data center firm could be going public again",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ab97852c0f9daa",
-      "title": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXEyLU9XVmY0ODN6VlBQX2ZWMVVDNDcyRlFjWEVFTjZHMVFtLWtvUmFyblAxZ0pDTzBZZm9KdzJqSVp6X3d1T2lPRnRUSFVWRWJEOWR5b1V0akN0YW1RU25HTHdMak1fSlVBVHdva1RZa1FrRGJmUVJpdWsxYldjbFpET042VmtH?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-09",
-      "summary": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident &nbsp;&nbsp; Yahoo",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "defee187078f84",
-      "title": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXEyLU9XVmY0ODN6VlBQX2ZWMVVDNDcyRlFjWEVFTjZHMVFtLWtvUmFyblAxZ0pDTzBZZm9KdzJqSVp6X3d1T2lPRnRUSFVWRWJEOWR5b1V0akN0YW1RU25HTHdMak1fSlVBVHdva1RZa1FrRGJmUVJpdWsxYldjbFpET042VmtH?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-09",
-      "summary": "Amazon Built a $2 Billion Data Center in Gilroy, and Half the Town Says They Found Out By Accident &nbsp;&nbsp; yahoo.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "098cea71996360",
-      "title": "Amazon is building a new AI data center in Texas that could become the country’s largest source of carbon emissions",
-      "url": "https://siliconangle.com/2026/08/09/amazon-building-new-ai-data-center-texas-become-countrys-largest-source-carbon-emissions/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-09",
-      "summary": "A data center facility being constructed by Amazon.com Inc. to host workloads for Amazon Web Services is set to become the single-largest source of pollution in the entire U.S., according to a report by the New York Times Saturday. The company, which already operates more data center facilities globally than any other organization, has secured [&#8230;] \n The post  Amazon is building a new AI data center in Texas that could become the country&#8217;s largest source of carbon emissions  appeared ",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Texas",
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "88751fb360b2f9",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - BASENOR - Tesla Accessories",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; BASENOR - Tesla Accessories",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2039183e2d84e3",
-      "title": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas - basenor.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDdONVZmU2RRRGF1UGRTNklmU0Nza19DZzQ4azdhWjI5QkNONFJZR293VjJBX2piTDRtU1FZeFM2ZnN4eTB0YllESjhsUGh3YmFjUjZJMW5GZXladnBWaG0tT2xYejJlaHF3QnVRZ1J1ZGc1empJd01kOHotVWUtXzkyakdhcXRPd29faXBaT1BHVEU0NFE?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-09",
-      "summary": "Texas Data Center Pause Won't Stop Cortex 2 at Giga Texas &nbsp;&nbsp; basenor.com",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a9b68125621d35",
-      "title": "Community benefit agreements are essential to data center success",
-      "url": "https://www.datacenterdynamics.com/en/opinions/community-benefit-agreements-are-essential-to-data-center-success/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-09",
-      "summary": "The roadmap to being a good neighbor",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f4a87df09b6d77",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-08",
-      "summary": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$3 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f12be41549d791",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-08",
-      "summary": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports &nbsp;&nbsp; reuters.com",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$3 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c355a761176972",
-      "title": "Coreweave Leasing AI Data Center Facilities - NextBigFuture.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjVLMkZEajhCbG1wRUVtbm9pcHNkRmRHdGthRU9QdktWUzJvWGJ0YzNMQ1Z1TU1Ja21GbDlCQWlnUGc5bFVmWmZmTFlWZ210MXdOS0dEY1dOZmNMQWZRcTgxWkJnOVNZdGNVbWdablhBR2E3SzVVRGNleFRQUHJfOEJ6MEloMWh4S1dWT01qaw?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-08",
-      "summary": "Coreweave Leasing AI Data Center Facilities &nbsp;&nbsp; NextBigFuture.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
       "is_high_confidence": false
     }
   ]
