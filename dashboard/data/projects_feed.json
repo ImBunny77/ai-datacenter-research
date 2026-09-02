@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-09-02T08:29:17.971543+00:00",
+  "last_updated": "2026-09-02T14:09:18.945662+00:00",
   "finding_count": 600,
-  "new_project_count": 75,
-  "cancellation_count": 10,
+  "new_project_count": 76,
+  "cancellation_count": 9,
   "sec_filing_count": 3,
-  "high_confidence_count": 196,
+  "high_confidence_count": 194,
   "findings": [
+    {
+      "id": "50be6a7c7d5515",
+      "title": "AWS and Humain commit to bringing 50MW online at Saudi AI Zone by 2028",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-and-humain-commit-to-bringing-50mw-online-at-saudi-ai-zone-by-2028/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Company also on track for December 2026 cloud region launch",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "50MW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "e2c05e8a838e57",
       "title": "SoftBank’s SB Energy AI infrastructure unit files to go public",
@@ -20,11 +39,107 @@
       ],
       "locations": [],
       "amounts": [
-        "$7 billion",
-        "$5 billion"
+        "$5 billion",
+        "$7 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
+    },
+    {
+      "id": "0da91ade9ead4d",
+      "title": "ChronoScale and Microsoft partner on 50MW deployment in North America",
+      "url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-microsoft-partner-on-50mw-deployment-in-north-america/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Will be based on Nvidia GB300 NVL72 systems",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "50MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "73ab4ba2d2bafa",
+      "title": "Cerebras starts construction on 165MW data center in Mikkeli, Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/cerebras-starts-construction-on-165mw-data-center-in-mikkeli-finland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "First 50MW underway",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "165MW",
+        "50MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5bea2f410c5afe",
+      "title": "Google inks 396MW geothermal PPA with Fervo in Utah",
+      "url": "https://www.datacenterdynamics.com/en/news/google-inks-396mw-geothermal-ppa-with-fervo-in-utah/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Largest geothermal offtake to date in the sector",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Utah"
+      ],
+      "amounts": [
+        "396MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "2f7edf35702c77",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQjNhX1FaTlpIam8zUmhDWER3OEVnRjMxTmpQYmpKYkQyWlBfWThfNHR1YVQ4d0NJTmdFZWZlcmxPVVRNU3BBWFJCR2VCS0s1UzFQdFZOQjlJa0phUlgwYTU1QjMyeWxPOU11RjJ3M01QXzc5ZExxbzB2Tkt6ZVFQbXg4V0xkbEp1TXBZZThJQVdxcEtxMHIzZkJ1THp5cFB5RlpvVTgzYThKa2lTNFpHdmtLUGwxZG9KUzNvdFdWVkF6RnI0Y1BvdTl1Vm9pRmcxVmItVVNLQnIzMmYtellLeE9MX2kyQnNodTU5aFlPc0lkN3JDNzloVXdNaVU0QQ?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-02",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b54a83e2b6b042",
+      "title": "Electricity-free cooling system for data centers prototyped by scientists in Germany and Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/electricity-free-cooling-system-for-data-centers-prototyped-by-researchers-in-germany-and-japan/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Solid-state cooling could be a game-changer, but can it be scaled up?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany",
+        "Japan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "8546a8f9ec7e91",
@@ -36,6 +151,23 @@
       "summary": "Advanced cooling technologies can help to build more sustainable AI infrastructure. How are companies like Schneider Electric working to enable data centers to reduce their water consumption?",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e7526f30520376",
+      "title": "Security becomes a shared job as AI widens the attack surface",
+      "url": "https://siliconangle.com/2026/09/02/aws-crowdstrike-partnership-takes-agentic-ai-threats-falcon/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-02",
+      "summary": "Cloud providers and security companies are being pulled into tighter formation as artificial intelligence widens the enterprise attack surface faster than any single supplier can cover it. The AWS CrowdStrike partnership is one of the clearest examples, built over a decade of co-selling, native integrations and shared customers now being stress-tested by agentic workloads. That [&#8230;] \n The post  Security becomes a shared job as AI widens the attack surface  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -71,6 +203,25 @@
         "Microsoft"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c779fe3f1935f8",
+      "title": "Our new partnership brings long-duration energy storage to West Virginia.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-02",
+      "summary": "Google is collaborating with  MN8 Energy and Eos Energy Enterprises on a new clean energy project on the PJM grid.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "West Virginia"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -140,8 +291,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$35 billion",
-        "$35B"
+        "$35B",
+        "$35 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -379,6 +530,90 @@
       "is_high_confidence": false
     },
     {
+      "id": "7c03a810a3d371",
+      "title": "Dell’s AI servers sell like hotcakes again, driving a stunning earnings beat",
+      "url": "https://siliconangle.com/2026/09/01/dells-ai-servers-sell-like-hot-cakes-again-driving-a-stunning-earnings-beat/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-01",
+      "summary": "Shares of the personal computer and data center server maker Dell Technologies Inc. rose more than 6% in late trading today after it reported earnings and revenue that easily beat expectations. The company reported second-quarter earnings before certain costs such as stock compensation of $7.04 per share, breezing past Wall Street’s target of just $4.92 [&#8230;] \n The post  Dell&#8217;s AI servers sell like hotcakes again, driving a stunning earnings beat  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "68dc6180179129",
+      "title": "CrowdStrike builds security frontier models with Nvidia and opens an AI lab",
+      "url": "https://siliconangle.com/2026/09/01/crowdstrike-builds-security-frontier-models-with-nvidia-and-opens-an-ai-lab/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-01",
+      "summary": "CrowdStrike Holdings Inc. today launched SafeMind, a family of artificial intelligence models and agent harnesses created with Nvidia Corp. and built for security work rather than general use. A research organization the company also unveiled today, the Cyber Superintelligence Lab, produced them. CrowdStrike separately extended its Falcon platform across Google Cloud&#8217;s enterprise AI ecosystem, part [&#8230;] \n The post  CrowdStrike builds security frontier models with Nvidia and opens an A",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d4dfc3604f1967",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-01",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "57ed97871ab5c9",
+      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-01",
+      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about predicting cyclones.' On the right: Two Googlers in a virtual interview about cyclone prediction",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e1f4181b2c5ea8",
+      "title": "Inside Meta’s Infrastructure Lab",
+      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-01",
+      "summary": "Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI.  \n The post  Inside Meta’s Infrastructure Lab  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "eea1cb5f520ee9",
       "title": "Charter CFO Jessica Fischer to join Google-Blackstone's TPU neocloud",
       "url": "https://www.datacenterdynamics.com/en/news/charter-cfo-jessica-fischer-to-join-google-blackstones-tpu-neocloud/",
@@ -459,39 +694,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "7c03a810a3d371",
-      "title": "Dell’s AI servers sell like hotcakes again, driving a stunning earnings beat",
-      "url": "https://siliconangle.com/2026/09/01/dells-ai-servers-sell-like-hot-cakes-again-driving-a-stunning-earnings-beat/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-01",
-      "summary": "Shares of the personal computer and data center server maker Dell Technologies Inc. rose more than 6% in late trading today after it reported earnings and revenue that easily beat expectations. The company reported second-quarter earnings before certain costs such as stock compensation of $7.04 per share, breezing past Wall Street’s target of just $4.92 [&#8230;] \n The post  Dell&#8217;s AI servers sell like hotcakes again, driving a stunning earnings beat  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "68dc6180179129",
-      "title": "CrowdStrike builds security frontier models with Nvidia and opens an AI lab",
-      "url": "https://siliconangle.com/2026/09/01/crowdstrike-builds-security-frontier-models-with-nvidia-and-opens-an-ai-lab/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-01",
-      "summary": "CrowdStrike Holdings Inc. today launched SafeMind, a family of artificial intelligence models and agent harnesses created with Nvidia Corp. and built for security work rather than general use. A research organization the company also unveiled today, the Cyber Superintelligence Lab, produced them. CrowdStrike separately extended its Falcon platform across Google Cloud&#8217;s enterprise AI ecosystem, part [&#8230;] \n The post  CrowdStrike builds security frontier models with Nvidia and opens an A",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "2f50ceb1992786",
       "title": "Adversarial AI forces enterprises to confront decades of dormant security debt",
       "url": "https://siliconangle.com/2026/09/01/ai-security-debt-exposed-adversarial-finds-old-flaws-falcon/",
@@ -502,57 +704,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "57ed97871ab5c9",
-      "title": "Ask a Scientist: How do researchers use AI to predict a cyclone?",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-01",
-      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about predicting cyclones.' On the right: Two Googlers in a virtual interview about cyclone prediction",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d4dfc3604f1967",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-01",
-      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e1f4181b2c5ea8",
-      "title": "Inside Meta’s Infrastructure Lab",
-      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-01",
-      "summary": "Join Tom Shaw for a look inside Meta's Infrastructure Lab to explore the hardware being developed to power the next generation of AI.  \n The post  Inside Meta’s Infrastructure Lab  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -619,18 +770,20 @@
       "is_high_confidence": true
     },
     {
-      "id": "44c914b7ac5d59",
-      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - timesofindia.indiatimes.com",
+      "id": "badba71659a08a",
+      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-08-31",
-      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; The Times of India",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
       ],
-      "locations": [],
+      "locations": [
+        "India"
+      ],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -646,6 +799,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44c914b7ac5d59",
+      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-31",
+      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -670,25 +840,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "badba71659a08a",
-      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-31",
-      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; The Times of India",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "4f437eda879db6",
       "title": "CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake",
       "url": "https://siliconangle.com/2026/08/31/crowdstrike-launches-falcon-iq-as-falcon-lands-on-google-cloud-and-snowflake/",
@@ -706,6 +857,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "08ca4be1ead243",
+      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMEU2aE9BZWtReGMxb3Jqdk0yNFVHdkJLX0s0WExGQy1NSTJiVi1QZWdHakUydENtYnFhWVVFaEZJOXJxODV2cEFDUzZ3dG52Q2s1SnhwbHNDZHpwUHpfNXlaVDFlQ1hqV3V1UVFzR2ZIM3kt?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-08-31",
+      "summary": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 &nbsp;&nbsp; About Amazon",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Saudi Arabia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b2acc3a6eddc15",
       "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
       "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
@@ -717,23 +887,6 @@
       "companies": [
         "Amazon",
         "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "63714a15509750",
-      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-31",
-      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -782,6 +935,23 @@
       "source_cat": "Company IR",
       "date": "2026-08-31",
       "summary": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "63714a15509750",
+      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-08-31",
+      "summary": "Google rolled out the Lake America change on Saturday, while the official US government maps are still waiting.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2335,23 +2505,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ddfcfbcb16c5bf",
-      "title": "Google at the Global Forum on Intellectual Property",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-26",
-      "summary": "Kent Walker on stage delivering a speech",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "38b3f322456200",
       "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
       "url": "https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/",
@@ -2379,6 +2532,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ddfcfbcb16c5bf",
+      "title": "Google at the Global Forum on Intellectual Property",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-26",
+      "summary": "Kent Walker on stage delivering a speech",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -6092,23 +6262,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "3db949a49b2cbb",
-      "title": "Proposed $2.7 billion data center announced for Carson County - NewsChannel 10",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHJsSndZUjUweDVwb2RIczRxcE5hbTd6bDYtWlRxUTA5MU5haG5UUVNWNXNyN2xXTWFENE1iM1Q5cVAxcFIwQUtKeEVxTmZfSlB4UWx4TUR5TjBCZXFFSWx3bVE3bDE3czFrU005Q1Bpc1lsallERjZKNEw1bkhoVmpod0tQS2xCelpHc194UWFwXy1Fb1JvR3FiVTdlUdIBsgFBVV95cUxOQXVHVEhMX1BHa25jQTBtUVYySENsRG84ZE41YUxmVlhZTldLdC1PYkVvY3l3NjhsMTZieE90eEFCLW1DWENYdWgtYXhLZ3VNWHI3OGRBWWlJZDFwTnc3anhPNjBRZVFBVzFhdlNFUFYzZTUyT2dubFEtWDF3bThzanVzQk1BOU9wOTRiMHBxRG1DQWhlSHBOdFM3MWEtQkJtdmxza21LN3lrYjl1dU9zZ21B?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-18",
-      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; NewsChannel 10",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$2.7 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "e7c655108a881c",
       "title": "Shreveport leaders call $6 billion Amazon investment a milestone - KSLA",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSXlUNkY1dExCbmR0ZWU2bjlkd1l5anpRd0NOMEVsUFZFQVo2M2xWUnFEV21BVnNmV0VxZUhMZWRManpYaFBtaGxmR1lDNkJmdjRuSkxfdkZFNk9zMXkwcWFtWEI0ZndlUFhsTGM0VGhhZUM2amx2azJUV1ExQzljel9PNi1hM0VBdk9DeHBkM0kyczdXZTUzN3dB?oc=5",
@@ -6123,6 +6276,23 @@
       "locations": [],
       "amounts": [
         "$6 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3db949a49b2cbb",
+      "title": "Proposed $2.7 billion data center announced for Carson County - NewsChannel 10",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHJsSndZUjUweDVwb2RIczRxcE5hbTd6bDYtWlRxUTA5MU5haG5UUVNWNXNyN2xXTWFENE1iM1Q5cVAxcFIwQUtKeEVxTmZfSlB4UWx4TUR5TjBCZXFFSWx3bVE3bDE3czFrU005Q1Bpc1lsallERjZKNEw1bkhoVmpod0tQS2xCelpHc194UWFwXy1Fb1JvR3FiVTdlUdIBsgFBVV95cUxOQXVHVEhMX1BHa25jQTBtUVYySENsRG84ZE41YUxmVlhZTldLdC1PYkVvY3l3NjhsMTZieE90eEFCLW1DWENYdWgtYXhLZ3VNWHI3OGRBWWlJZDFwTnc3anhPNjBRZVFBVzFhdlNFUFYzZTUyT2dubFEtWDF3bThzanVzQk1BOU9wOTRiMHBxRG1DQWhlSHBOdFM3MWEtQkJtdmxza21LN3lrYjl1dU9zZ21B?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; NewsChannel 10",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$2.7 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -6559,6 +6729,25 @@
       "amounts": [],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "10372d94c61ac6",
+      "title": "Amazon’s data center network in Northwest Louisiana is going to get bigger - lailluminator.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGlsNTZrcTNSdG9zaDlDakl1TzVDMUFlWW5yLXNQQkQ0WmNmbGhtN0xVN050QkRQbGd3QUJXeEJKcUVlR3lOTmFWQ0ZHVE4yV3l4Q0V1dzVZVHUtT3BZdGt0NkxNa05NbXVnVDVUYm9HLUE2eUd1OElvRWdBTnlHaHB3SF96NVFLbTZiSHlSdzFycUpoZVNLSTJnVzBwbG5DRi1SbzY3bGJtU2RscFRjQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-08-18",
+      "summary": "Amazon’s data center network in Northwest Louisiana is going to get bigger &nbsp;&nbsp; lailluminator.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "385c30d79f1c62",
@@ -9615,6 +9804,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "f1ad6aa2638ccf",
+      "title": "Public Service Commission can demand transparency for Meta’s data center expansion - lailluminator.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-11",
+      "summary": "Public Service Commission can demand transparency for Meta’s data center expansion &nbsp;&nbsp; lailluminator.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "f777cce22e7186",
       "title": "Public Service Commission can demand transparency for Meta’s data center expansion - Louisiana Illuminator",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
@@ -9644,23 +9850,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f1ad6aa2638ccf",
-      "title": "Public Service Commission can demand transparency for Meta’s data center expansion - lailluminator.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-08-11",
-      "summary": "Public Service Commission can demand transparency for Meta’s data center expansion &nbsp;&nbsp; lailluminator.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10263,189 +10452,6 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "3b12b151448a17",
-      "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
-      "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-10",
-      "summary": "Meta supports Texas Governor Greg Abbott’s commitment to responsible data center development, and we pay the full costs of our data centers’ energy and water use so they aren’t passed on to consumers. \n The post  Meta Upholds Texas Governor Greg Abbott’s Data Center Standards  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0ce6d1cfcbd550",
-      "title": "Amazon backs power plant that may become top source of US climate pollution",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-10",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "200ae95e91396c",
-      "title": "Hyundai Heavy Industries signs 1GW natural gas engine supply deal with unnamed US data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/hyundai-heavy-industries-signs-1gw-natural-gas-engine-supply-deal-with-unnamed-us-data-center-developer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Worth a reported $675.6m",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$675.6m",
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9fb7c8321d5f10",
-      "title": "Alabama city considers data center moratorium, could kill Edged project",
-      "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Edged aiming to build 8MW facility at site of former 911 data center in Prichard",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "8MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3f9aada6f4a24f",
-      "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
-      "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Largest deal to date for the energy storage firm",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "1.25GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "16419e441d3230",
-      "title": "Pennsylvania utility PPL sees advanced-stage data center pipeline grow to 31.8GW",
-      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-utility-ppl-sees-advanced-stage-data-center-pipeline-grow-to-318gw/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "An increase of 3.5GW from last quarter",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Pennsylvania"
-      ],
-      "amounts": [
-        "3.5GW",
-        "31.8GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "34080b35f4101b",
-      "title": "Gigawatt-scale data center in Atlanta, Georgia, withdrawn by developer",
-      "url": "https://www.datacenterdynamics.com/en/news/gigawatt-scale-data-center-in-atlanta-georgia-withdrawn-by-developer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Developer will instead pursue residential development",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Georgia",
-        "Atlanta"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5923bd0fd769cb",
-      "title": "Amazon acquires 8,000-acre site in Pecos, Texas for natural gas powered behind-the-meter data center - report",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "If built, could be the largest natural gas plant in US",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "089aba5e202b1b",
-      "title": "Meta releases open-weights Muse Glimmer model with 30B parameters",
-      "url": "https://siliconangle.com/2026/08/10/meta-releases-open-source-muse-glimmer-model-30b-parameters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-10",
-      "summary": "Meta Platforms Inc. today released Muse Glimmer, an open-weights language model that can run on personal computers. The company also published a lengthy essay penned by Chief Executive Officer Mark Zuckerberg. The document discusses the risks of artificial intelligence, open-source model regulations and several related topics. Muse Glimmer features 30 billion parameters, which means that it would [&#8230;] \n The post  Meta releases open-weights Muse Glimmer model with 30B parameters  appeared fi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bb30c1198a6ffc",
-      "title": "Meta releases open-source Muse Glimmer model with 30B parameters",
-      "url": "https://siliconangle.com/2026/08/10/meta-releases-open-source-muse-glimmer-model-30b-parameters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-10",
-      "summary": "Meta Platforms Inc. today released Muse Glimmer, an open-source language model that can run on personal computers. The company also published a lengthy essay penned by Chief Executive Officer Mark Zuckerberg. The document discusses the risks of artificial intelligence, open-source model regulations and several related topics. Muse Glimmer features 30 billion parameters, which means that it would [&#8230;] \n The post  Meta releases open-source Muse Glimmer model with 30B parameters  appeared firs",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
