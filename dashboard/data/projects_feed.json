@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-02T14:09:18.945662+00:00",
+  "last_updated": "2026-09-02T19:15:11.734579+00:00",
   "finding_count": 600,
-  "new_project_count": 76,
-  "cancellation_count": 9,
-  "sec_filing_count": 3,
-  "high_confidence_count": 194,
+  "new_project_count": 74,
+  "cancellation_count": 10,
+  "sec_filing_count": 2,
+  "high_confidence_count": 188,
   "findings": [
     {
       "id": "50be6a7c7d5515",
@@ -46,6 +46,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "445dee62eedb3e",
+      "title": "Telehouse adds new building to Frankfurt data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/telehouse-adds-new-building-to-frankfurt-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Building N adds 5.4MW to campus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Frankfurt"
+      ],
+      "amounts": [
+        "5.4MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "0da91ade9ead4d",
       "title": "ChronoScale and Microsoft partner on 50MW deployment in North America",
       "url": "https://www.datacenterdynamics.com/en/news/chronoscale-and-microsoft-partner-on-50mw-deployment-in-north-america/",
@@ -79,8 +98,8 @@
         "Finland"
       ],
       "amounts": [
-        "165MW",
-        "50MW"
+        "50MW",
+        "165MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -124,6 +143,111 @@
       "is_high_confidence": false
     },
     {
+      "id": "28f7ecf80620ca",
+      "title": "Haffner Energy launches biomass power-cooling system for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/haffner-energy-launches-biomass-power-cooling-system-for-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "System powered by residual biomass",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c6ac5c61bafc61",
+      "title": "Amazon plots new subsea cable linking US and Japan",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-plots-new-subsea-cable-linking-us-and-japan/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "First cable to land in Washington since the new millennium",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Washington",
+        "Japan"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0076206e1cf36b",
+      "title": "Matt Clifford, man behind UK's AI Growth Zones plan, joins Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/matt-clifford-man-behind-uks-ai-growth-zones-plan-joins-anthropic/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Plans to stay on at ARIA is \"a clear conflict of interest,\" MP says",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6f3dcc54ced25a",
+      "title": "Infineon, Skeleton Technologies partner on AI data center power systems",
+      "url": "https://www.datacenterdynamics.com/en/news/infineon-skeleton-technologies-partner-on-ai-data-center-power-systems/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Expected to combine Infineon’s CoolSiC power semiconductors with Skeleton’s expertise in power conversion systems",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "14b87ceb2ef165",
+      "title": "Former OpenAI Stargate exec Shamez Hemani joins Anthropic after brief Meta Compute stint",
+      "url": "https://www.datacenterdynamics.com/en/news/former-openai-stargate-exec-shamez-hemani-joins-anthropic-after-brief-meta-compute-stint/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Was one of a group of departures to Meta's compute team",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "710f024e989c68",
+      "title": "Gradiant to deliver HyperSolved water treatment system for West Texas data center",
+      "url": "https://www.datacenterdynamics.com/en/news/gradiant-to-deliver-hypersolved-water-treatment-system-for-west-texas-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Will see the company deploy its end-to-end water treatment platform at the site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b54a83e2b6b042",
       "title": "Electricity-free cooling system for data centers prototyped by scientists in Germany and Japan",
       "url": "https://www.datacenterdynamics.com/en/news/electricity-free-cooling-system-for-data-centers-prototyped-by-researchers-in-germany-and-japan/",
@@ -137,21 +261,6 @@
         "Germany",
         "Japan"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8546a8f9ec7e91",
-      "title": "Sponsored: Driving efficient water usage through closed-loop cooling",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/driving-efficient-water-usage-through-closed-loop-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-02",
-      "summary": "Advanced cooling technologies can help to build more sustainable AI infrastructure. How are companies like Schneider Electric working to enable data centers to reduce their water consumption?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -191,6 +300,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e82b0ea33759fd",
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-02",
+      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9f389f68488fe6",
       "title": "The yield imperative: Turning AI infrastructure into useful intelligence",
       "url": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
@@ -201,6 +327,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "49cc4b6fd6af43",
+      "title": "Book insights in Google Play Books is now available in more than a million ebooks and in the iOS app.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-02",
+      "summary": "Book insights in Google Play Books is now in over a million ebooks, including top bestsellers, and available on the iOS app.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -224,6 +367,51 @@
       ],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8546a8f9ec7e91",
+      "title": "Sponsored: Driving efficient water usage through closed-loop cooling",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/driving-efficient-water-usage-through-closed-loop-cooling/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Advanced cooling technologies can help to build more sustainable AI infrastructure. How are companies like Schneider Electric working to enable data centers to reduce their water consumption?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c22618022176e3",
+      "title": "Broadcom enlists partners to tie VCF adoption to business outcomes",
+      "url": "https://siliconangle.com/2026/09/02/broadcom-enlists-partners-to-tie-vcf-adoption-to-business-outcomes-vmwareexplore/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-02",
+      "summary": "VCF adoption is moving beyond platform deployment toward measurable business outcomes. Broadcom Inc. is leaning on partners to connect VMware Cloud Foundation with customers’ wider security, automation and infrastructure strategies as artificial intelligence and hardware constraints add operational complexity. After spending last year defining the platform’s value proposition, Broadcom is now focused on rapid deployment [&#8230;] \n The post  Broadcom enlists partners to tie VCF adoption to busin",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d69a9ede98a3cd",
+      "title": "Data sovereignty in a volatile world: a paradigm shift for hyperscalers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/data-sovereignty-in-a-volatile-world-a-paradigm-shift-for-hyperscalers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-02",
+      "summary": "Why infrastructure models must enable global reach while addressing local requirements",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -291,8 +479,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$35B",
-        "$35 billion"
+        "$35 billion",
+        "$35B"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -448,88 +636,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e248d930e2be6f",
-      "title": "What would it take to actually stop the data centers? - vox.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YWUFMLWFEcjVieVBtamMxWlFGSWVkcVM1QjJKeVMtazdKSk9jcU54VWhVdktTeDZnZmFYanpzOTVvQ3VYamxvVWtNbnBpM0xMMUs5VjdadEk3S3M2enI4LWhkaEhLd09KXzNOcW55VQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-09-01",
-      "summary": "What would it take to actually stop the data centers? &nbsp;&nbsp; vox.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "77e55b9030286d",
-      "title": "Flying the Flag for subsea connectivity in the AI era",
-      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-01",
-      "summary": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2ce492711019b1",
-      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-01",
-      "summary": "Plan to colocate compute at the world's first floating wind installation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "02dcbd7ab2d28b",
-      "title": "AWS cable landing station in West Cork, Ireland, approved despite local opposition",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-cable-landing-station-in-west-cork-ireland-approved-despite-local-opposition/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-01",
-      "summary": "CLS to support Fastnet transatlantic cable connecting West Cork, Ireland, to Maryland, USA",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Maryland",
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0b2fd7093e5eae",
-      "title": "OnZero partners with Helen to connect Helsinki AI data center to district heating network",
-      "url": "https://www.datacenterdynamics.com/en/news/onzero-partners-with-helen-to-connect-helsinki-ai-data-center-to-district-heating-network/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-01",
-      "summary": "Expected to supply the network with up to 525,000MWh of heat annually",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7c03a810a3d371",
       "title": "Dell’s AI servers sell like hotcakes again, driving a stunning earnings beat",
       "url": "https://siliconangle.com/2026/09/01/dells-ai-servers-sell-like-hot-cakes-again-driving-a-stunning-earnings-beat/",
@@ -608,6 +714,88 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e248d930e2be6f",
+      "title": "What would it take to actually stop the data centers? - vox.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YWUFMLWFEcjVieVBtamMxWlFGSWVkcVM1QjJKeVMtazdKSk9jcU54VWhVdktTeDZnZmFYanpzOTVvQ3VYamxvVWtNbnBpM0xMMUs5VjdadEk3S3M2enI4LWhkaEhLd09KXzNOcW55VQ?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-09-01",
+      "summary": "What would it take to actually stop the data centers? &nbsp;&nbsp; vox.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "77e55b9030286d",
+      "title": "Flying the Flag for subsea connectivity in the AI era",
+      "url": "https://www.datacenterdynamics.com/en/analysis/flying-the-flag-for-subsea-connectivity-in-the-ai-era/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Flag, the company formerly known as GCX has a new name and is honing in on serving AI data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2ce492711019b1",
+      "title": "Exascale Labs partners with EnergyBank on floating wind data center pilot in Norway",
+      "url": "https://www.datacenterdynamics.com/en/news/exascale-labs-partners-with-energybank-on-floating-wind-data-center-pilot-in-norway/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Plan to colocate compute at the world's first floating wind installation",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "02dcbd7ab2d28b",
+      "title": "AWS cable landing station in West Cork, Ireland, approved despite local opposition",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-cable-landing-station-in-west-cork-ireland-approved-despite-local-opposition/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "CLS to support Fastnet transatlantic cable connecting West Cork, Ireland, to Maryland, USA",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Maryland",
+        "Ireland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b2fd7093e5eae",
+      "title": "OnZero partners with Helen to connect Helsinki AI data center to district heating network",
+      "url": "https://www.datacenterdynamics.com/en/news/onzero-partners-with-helen-to-connect-helsinki-ai-data-center-to-district-heating-network/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-01",
+      "summary": "Expected to supply the network with up to 525,000MWh of heat annually",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2488,23 +2676,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "97055d6f6e06c5",
-      "title": "7 ways to kick-start back to school using Gemini in Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-26",
-      "summary": "A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "38b3f322456200",
       "title": "An Open Letter to TikTok and YouTube to Join Us in Supporting Teens",
       "url": "https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/",
@@ -2532,6 +2703,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "97055d6f6e06c5",
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-08-26",
+      "summary": "A student placing books in a satchel with the text “Back to School using Google Workspace with Gemini",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -3732,21 +3920,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "78c20b24561c4e",
-      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-24",
-      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3d9adea63734d6",
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
@@ -3758,6 +3931,21 @@
       "companies": [
         "Amazon"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "78c20b24561c4e",
+      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-24",
+      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -4190,6 +4378,25 @@
         "$250M"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d4f1c353f409b5",
+      "title": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
+      "source": "GNews: hyperscaler capex earnings guidance",
+      "source_cat": "Earnings",
+      "date": "2026-08-21",
+      "summary": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability &nbsp;&nbsp; TradingKey",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$81.6B"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -6731,13 +6938,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "10372d94c61ac6",
-      "title": "Amazon’s data center network in Northwest Louisiana is going to get bigger - lailluminator.com",
+      "id": "385c30d79f1c62",
+      "title": "Amazon’s data center network in Northwest Louisiana is going to get bigger - Louisiana Illuminator",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGlsNTZrcTNSdG9zaDlDakl1TzVDMUFlWW5yLXNQQkQ0WmNmbGhtN0xVN050QkRQbGd3QUJXeEJKcUVlR3lOTmFWQ0ZHVE4yV3l4Q0V1dzVZVHUtT3BZdGt0NkxNa05NbXVnVDVUYm9HLUE2eUd1OElvRWdBTnlHaHB3SF96NVFLbTZiSHlSdzFycUpoZVNLSTJnVzBwbG5DRi1SbzY3bGJtU2RscFRjQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon’s data center network in Northwest Louisiana is going to get bigger &nbsp;&nbsp; lailluminator.com",
+      "summary": "Amazon’s data center network in Northwest Louisiana is going to get bigger &nbsp;&nbsp; Louisiana Illuminator",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -6750,13 +6957,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "385c30d79f1c62",
-      "title": "Amazon’s data center network in Northwest Louisiana is going to get bigger - Louisiana Illuminator",
+      "id": "10372d94c61ac6",
+      "title": "Amazon’s data center network in Northwest Louisiana is going to get bigger - lailluminator.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGlsNTZrcTNSdG9zaDlDakl1TzVDMUFlWW5yLXNQQkQ0WmNmbGhtN0xVN050QkRQbGd3QUJXeEJKcUVlR3lOTmFWQ0ZHVE4yV3l4Q0V1dzVZVHUtT3BZdGt0NkxNa05NbXVnVDVUYm9HLUE2eUd1OElvRWdBTnlHaHB3SF96NVFLbTZiSHlSdzFycUpoZVNLSTJnVzBwbG5DRi1SbzY3bGJtU2RscFRjQQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Amazon’s data center network in Northwest Louisiana is going to get bigger &nbsp;&nbsp; Louisiana Illuminator",
+      "summary": "Amazon’s data center network in Northwest Louisiana is going to get bigger &nbsp;&nbsp; lailluminator.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -9030,6 +9237,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "24f5477d76fda2",
+      "title": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infrastructure Gets Built’ - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnhJZzBVNFVySldEYmRSYm5OY1dTNU8tRXM5SjZ0QTZWaUdVZ2R4ejQyQy1BUDUtVEJWN0J2dXBxcDIwYVF3d0p3bXBrckhNUUlGT04tQS1sVktMaldub0k2Uy1GLTY2VjNFYXI0WTJ2cHVXX2RTM1ZnQmRBSXg3T0pZOEtIRUsySE1PWmNLQUkzRE1MSVBhWWdfSVFjM3hHMTFJUw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-12",
+      "summary": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infrastructure Gets Built’ &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "a3fdd4cf614809",
       "title": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infr - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcE9iSkhaMmJ1bkQwUG9jTnFlcElTTFVjM1NwN0xpLW9WWjAzY2Y4TkdueTBXSU1xVklNUXpaR2swMmx2MEFXMmo4dFFLbzNXMlVzTWdUNTdTbFJSUngxWGlJQl8wQXpEd19Ma19MWlpMalN3UUU1VjRNR3JWRHdieXpvMVJqMTUtdmFqUnAwcXBtMHlnUHBNQURXU01xYy1IOVB4ZzZZRUl3c3B1dWkyd3RxQ2k?oc=5",
@@ -9804,23 +10028,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "f1ad6aa2638ccf",
-      "title": "Public Service Commission can demand transparency for Meta’s data center expansion - lailluminator.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-08-11",
-      "summary": "Public Service Commission can demand transparency for Meta’s data center expansion &nbsp;&nbsp; lailluminator.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "f777cce22e7186",
       "title": "Public Service Commission can demand transparency for Meta’s data center expansion - Louisiana Illuminator",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
@@ -9840,16 +10047,16 @@
       "is_high_confidence": false
     },
     {
-      "id": "24f5477d76fda2",
-      "title": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infrastructure Gets Built’ - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnhJZzBVNFVySldEYmRSYm5OY1dTNU8tRXM5SjZ0QTZWaUdVZ2R4ejQyQy1BUDUtVEJWN0J2dXBxcDIwYVF3d0p3bXBrckhNUUlGT04tQS1sVktMaldub0k2Uy1GLTY2VjNFYXI0WTJ2cHVXX2RTM1ZnQmRBSXg3T0pZOEtIRUsySE1PWmNLQUkzRE1MSVBhWWdfSVFjM3hHMTFJUw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
+      "id": "f1ad6aa2638ccf",
+      "title": "Public Service Commission can demand transparency for Meta’s data center expansion - lailluminator.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LMWZEM1dvWC0xWGZtN3otU2xVUGVYOERJNTRoSEZDZkdRRktpWlp4R2lCelRvcERTNDNFanF4VzlTV3AtUzVaOGdYbVRYNF9iUFQydTE4Sy1TNFpkcnc?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-08-11",
-      "summary": "CoreWeave Says Data Center Moratoriums Won’t Stop AI Expansion: ‘They Are Going to Impact Where This Infrastructure Gets Built’ &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Public Service Commission can demand transparency for Meta’s data center expansion &nbsp;&nbsp; lailluminator.com",
       "finding_type": "Statement / Update",
       "companies": [
-        "CoreWeave"
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10239,219 +10446,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "667d7a205b401b",
-      "title": "AI readiness starts with power 1 designing for real-world load conditions",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/ai-readiness-starts-with-power-1-designing-for-real-world-load-conditions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Explore a structured approach to powering AI data centers that balances speed, reliability and long-term decarbonization",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "050e32db5fe896",
-      "title": "Sponsored: Don’t bring yesterday’s optics to tomorrow’s AI fabric",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/dont-bring-yesterdays-optics-to-tomorrows-ai-fabric/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-11",
-      "summary": "Overcoming multifiber test challenges inside the modern data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c099add8e760e7",
-      "title": "Nvidia taps Wall Street for half a trillion dollars to fuel global AI infrastructure buildout",
-      "url": "https://siliconangle.com/2026/08/10/nvidia-taps-wall-street-half-trillion-dollars-fuel-global-ai-infrastructure-buildout/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-11",
-      "summary": "Some of Wall Street’s biggest financial firms are partnering with Nvidia Corp. to pour half a trillion dollars of funding into the artificial intelligence industry’s massive infrastructure buildout. Nvidia said today it has struck deals with Apollo Global Management Inc., BlackRock Inc., Blackstone Inc., Brookfield Corp., The Goldman Sachs The Goldman Sachs Group and KKR [&#8230;] \n The post  Nvidia taps Wall Street for half a trillion dollars to fuel global AI infrastructure buildout  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c8e0f109563f07",
-      "title": "Multi-tier storage rewrites the economics of AI inference",
-      "url": "https://siliconangle.com/2026/08/11/multi-tier-storage-solutions-optimize-ai-supermicroopenstoragesummit/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-11",
-      "summary": "As inference becomes the dominant workload in AI infrastructure, multi-tier storage architectures are emerging as a key method for cost control and enhanced performance. These architectures combine flash, object storage and disk-based capacity tiers, enabling enterprises to serve training and inference workflows while maximizing GPU productivity and economic savings. Super Micro Computer Inc. has collaborated [&#8230;] \n The post  Multi-tier storage rewrites the economics of AI inference  appear",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fc1d7b2aa1c189",
-      "title": "Meta to invest $1 billion in U.S. data center communities - CW33.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDBDQ0gzOFNoT1pDQXF4dldZdXl0em85QWJQQXN6TzB5VUlGZWc2WFVpZ3loUHBjSTlXR2xGT1d2anNydnRzYUM0U1lXaFdsY2x2WnVTX0xWX09WM0gybHozNkZURkx3VmlvSENhcDRpbVZ6cXlqNy1SWEgzZmYyX0hFUnVBZGZnQ29MWNIBkgFBVV95cUxNdE9HU18wdFkzNHZIZm41QWZEc0JDbi1XVzNZVzF2TXNKWlNNY0JIRkVBQ19Lb3c3aFItZkhyYWotMjFzbEhqSXFWemtyWnZnUFVWRWl0N3p3OUprUlVOTnFaU1lfZGUzSTY5YUFQUU92UFBJeHFSRUFQX05rdFNNaEFyblpmMVVFdE1nc1laeFNwZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-10",
-      "summary": "Meta to invest $1 billion in U.S. data center communities &nbsp;&nbsp; CW33.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f6bfe26c4a641c",
-      "title": "Meta to invest $1 billion in U.S. data center communities - cw33.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDBDQ0gzOFNoT1pDQXF4dldZdXl0em85QWJQQXN6TzB5VUlGZWc2WFVpZ3loUHBjSTlXR2xGT1d2anNydnRzYUM0U1lXaFdsY2x2WnVTX0xWX09WM0gybHozNkZURkx3VmlvSENhcDRpbVZ6cXlqNy1SWEgzZmYyX0hFUnVBZGZnQ29MWNIBkgFBVV95cUxNdE9HU18wdFkzNHZIZm41QWZEc0JDbi1XVzNZVzF2TXNKWlNNY0JIRkVBQ19Lb3c3aFItZkhyYWotMjFzbEhqSXFWemtyWnZnUFVWRWl0N3p3OUprUlVOTnFaU1lfZGUzSTY5YUFQUU92UFBJeHFSRUFQX05rdFNNaEFyblpmMVVFdE1nc1laeFNwZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-10",
-      "summary": "Meta to invest $1 billion in U.S. data center communities &nbsp;&nbsp; cw33.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "62706c93eb78a3",
-      "title": "Data centers are unpopular. Meta thinks it can solve that with a $1 billion fund. - businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTdQMDUzNTZSSEFSUTJxemN0eXdTVUtzLWFWVFVyanBZRzk2NFM3NFZmT2YzckZIWmZGS2RfYmg5UTAzNjhzMlQxUDByWU5JbzVPblFRbERtQjV1X2JsdHdJdEJ5STNZMDExUnBXZVAzQkxOWmtodUl6ekNQRENkQ1liR0c0Q2JNUVZqU1lNS0t5MGF0cUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-10",
-      "summary": "Data centers are unpopular. Meta thinks it can solve that with a $1 billion fund. &nbsp;&nbsp; businessinsider.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4e0cb2abc186b7",
-      "title": "Data centers are unpopular. Meta thinks it can solve that with a $1 billion fund. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTdQMDUzNTZSSEFSUTJxemN0eXdTVUtzLWFWVFVyanBZRzk2NFM3NFZmT2YzckZIWmZGS2RfYmg5UTAzNjhzMlQxUDByWU5JbzVPblFRbERtQjV1X2JsdHdJdEJ5STNZMDExUnBXZVAzQkxOWmtodUl6ekNQRENkQ1liR0c0Q2JNUVZqU1lNS0t5MGF0cUE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-10",
-      "summary": "Data centers are unpopular. Meta thinks it can solve that with a $1 billion fund. &nbsp;&nbsp; Business Insider",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9fcc2fabd6b016",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-08-10",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dd9b3e985557eb",
-      "title": "Firebird.ai launches 300MW Nvidia-powered AI data center in Armenia",
-      "url": "https://www.datacenterdynamics.com/en/news/firebirdai-launches-300mw-nvidia-powered-ai-data-center-in-armenia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Company says it will deploy more than 70,000 Nvidia Rubin and Blackwell GPUs at the site",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "300MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d20db52a8eac4b",
-      "title": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural gas powered behind-the-meter data center - report",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-acquires-8000-acre-site-in-pecos-texas-for-natural-gas-powered-behind-the-meter-data-center-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "If built, it could be the largest natural gas plant in US at 7.65GW",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "7.65GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3e2a774a3d5f8e",
-      "title": "Spain's Nabiax to expand Madrid data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/spains-nabiax-to-expand-madrid-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-10",
-      "summary": "Company aims to expand IT capacity from 35MW to 140MW via €800 million investment",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Spain"
-      ],
-      "amounts": [
-        "35MW",
-        "140MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
