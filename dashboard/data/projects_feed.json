@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-09T08:44:07.727206+00:00",
+  "last_updated": "2026-09-09T14:12:45.559423+00:00",
   "finding_count": 600,
-  "new_project_count": 69,
-  "cancellation_count": 13,
+  "new_project_count": 75,
+  "cancellation_count": 15,
   "sec_filing_count": 2,
-  "high_confidence_count": 169,
+  "high_confidence_count": 174,
   "findings": [
     {
       "id": "881488c7333dcf",
@@ -20,10 +20,106 @@
       ],
       "locations": [],
       "amounts": [
-        "$275M",
-        "$275 million"
+        "$275 million",
+        "$275M"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "fc51545105414c",
+      "title": "SoftBank-backed SB Energy subsidiary to develop former Texas 3M campus into R&D tech center",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-backed-sb-energy-subsidiary-to-develop-former-texas-3m-campus-in-rd-tech-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "$1 billion earmarked for development of the campus",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "23911140617652",
+      "title": "Oracle issues RFP for 2GW of new renewable capacity in New Mexico",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-issues-rfp-for-2gw-of-new-renewable-capacity-in-new-mexico/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Announces $1m funding package for carbon capture and storage research",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [
+        "New Mexico"
+      ],
+      "amounts": [
+        "2GW",
+        "$1m"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "faa150a79cdb7d",
+      "title": "Damac and Vodafone Türkiye triple Izmir data center project budget",
+      "url": "https://www.datacenterdynamics.com/en/news/damac-and-vodafone-t%C3%BCrkiye-triple-izmir-data-center-project-budget/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "The project investment has swelled to $300 million since it was announced two years ago",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$300 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "9f4befd8005f99",
+      "title": "Google and Blackstone JV experiences delays in data center projects - report",
+      "url": "https://www.datacenterdynamics.com/en/news/google-and-blackstone-jv-experiences-delays-in-data-center-projects-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Project Braid hits some snags but executives say it is making \"strong progress\"",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -53,6 +149,63 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure &nbsp;&nbsp; blog.google",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b78b05babed5a1",
+      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8908e8bf2bf789",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "546138a2888ca6",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Energy Connects",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpJT0E1cVRYNmI2WlVIcTNISUJGdk5VVmRVXzZkeTluTVJRRGhkNXRPdTA4VnNMYWg5WkRJMmFOSmkxTDg5UmpMbW5xRkxlQklFWDNBd3NKZHlTUzRXbEd4ZnhNTHVXaEVCOU45TnY1Z3dRV0dXOVZmS2NQNTdsclBEXzhueElRTDdFMDJpbnNUSGhyanBaaTkybHE3Q2JDZ0cwWEZONFhRX1c2TkdoaU5Rb0FKSEZTSjZwZjZn?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Energy Connects",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -101,6 +254,61 @@
       "is_high_confidence": false
     },
     {
+      "id": "2cffab10280fba",
+      "title": "Google announces €13bn additional investment in Finland - yle.fi",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nazg1SGx3MXlTSTVZd2xQWTluVTRkU3htM2NkcUl4ejNtZXRZTTh0ckxvZncxdGVOb2FqWXZwaXlfZw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google announces €13bn additional investment in Finland &nbsp;&nbsp; yle.fi",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7758460c08b036",
+      "title": "Oregon pauses land sales of state owned property for data center projects through July 1, 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/oregon-pauses-land-sales-of-state-owned-property-for-data-center-projects-through-july-1-2027/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Governor directs all transactions on state property for data centers be frozen",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Oregon"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "decc97a799cbb1",
+      "title": "Google pledges €13bn investment in digital infrastructure in Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/google-pledges-13bn-investment-in-digital-infrastructure-in-finland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Will span a two-year period",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "eda1a7c6536dc8",
       "title": "Meta debuts its ‘secure by design’ personal AI agent Muse",
       "url": "https://siliconangle.com/2026/09/08/meta-debuts-its-secure-by-design-personal-ai-agent-muse/",
@@ -132,6 +340,115 @@
       "locations": [
         "Finland"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8cd13277dc54e7",
+      "title": "Saudi AI giant races to fund data center expansion - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1RnVXRUMjhxRVVPYkVENWphNWx4MEF0bzRLTU90N2NDTlJ6Rkc1Z2UyeENLcFlRNFZyZ2pkWFdZeDE1QjVWV2xuMlQ1N1B5Z3RYTUM5UC1sVFlyRlZQN3o4d2RfOElCQVRhZHk0dndsT2ZXd3ZqYi1JRWo3SC13cTB5VDduN3RUZHFWdXdvT3FZbkVTQkx2TWcyTFVnT2pXcVRmNHo3bk44S3lPRXlraU5Saw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Saudi AI giant races to fund data center expansion &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3ce4d20359be85",
+      "title": "Data Center PUE: liquid cooling cut 10%, the ratio moved 3%",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-pue-liquid-cooling-cut-10-the-ratio-moved-3/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Why standard PUE fails liquid cooling upgrades",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f5938299fee6a0",
+      "title": "Ivory Coast targets launch of first state-owned data center in 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Will be backed by US Export-Import Bank",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44a237b5f72016",
+      "title": "NextEra secures $1.9bn loan from US DOE to support restart of the Duane Arnold nuclear power plant in Linn County, Iowa",
+      "url": "https://www.datacenterdynamics.com/en/news/nextera-secures-19bn-loan-from-us-doe-to-support-restart-of-the-duane-arnold-nuclear-power-plant-in-linn-county-iowa/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Plant tied to long-term PPA with Google",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Iowa"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9930a4292e4d11",
+      "title": "Playing their part in a sustainable AI era: How businesses can tap into data center power without spiking emissions",
+      "url": "https://www.datacenterdynamics.com/en/opinions/playing-their-part-in-a-sustainable-ai-era-how-businesses-can-tap-into-data-center-power-without-spiking-emissions/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Why we need to ease the burden on power infrastructure in order to capitalize on the potential of AI expansion",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3c1d260936fec0",
+      "title": "Oil leak from data center contaminates water in Bangkok, Thailand",
+      "url": "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "Officials moved swiftly to clean up spill before it could harm residents",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fecc7eb6a4497a",
+      "title": "DCD News: August review",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-august-review/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-09",
+      "summary": "DCD's Seb Moss, Kat Sullivan, Charlotte Trueman, and Paul Lipscombe provide a comprehensive overview of recent developments in the technology and data center sectors.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -173,6 +490,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "56b506903c8d26",
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-09",
+      "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c191e0b8b6a5ea",
       "title": "Our blueprint for responsible clean energy growth in Finland",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/",
@@ -199,6 +533,21 @@
       "source_cat": "Company",
       "date": "2026-09-09",
       "summary": "Qualcomm, Corning Contracts Boost AI Infrastructure Stocks &nbsp;&nbsp; 조선일보",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9c642a8142e579",
+      "title": "Exclusive: Compute Exchange adds GPU inventory manager to simplify AI infrastructure purchases",
+      "url": "https://siliconangle.com/2026/09/09/exclusive-compute-exchange-adds-gpu-inventory-manager-to-simplify-ai-infrastructure-purchases/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-09",
+      "summary": "The Compute Exchange Inc., a startup that matches buyers and sellers of graphics processing units,  is launching a GPU inventory management capability intended to give enterprise buyers a consolidated view of available and upcoming AI computing capacity across more than 100 providers. The new feature extends the company’s request-for-quotation marketplace by letting buyers browse current, [&#8230;] \n The post  Exclusive: Compute Exchange adds GPU inventory manager to simplify AI infrastructure p",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -355,23 +704,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b1027e6ecc28f2",
-      "title": "Qatar's Meeza signs 8MW lease with global hyperscaler",
-      "url": "https://www.datacenterdynamics.com/en/news/qatars-meeza-signs-8mw-lease-with-global-hyperscaler/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Company's largest contract to date",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "8MW"
-      ],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "f6c87c4b3cfd6d",
       "title": "Google DeepMind’s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
       "url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
@@ -424,6 +756,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b1027e6ecc28f2",
+      "title": "Qatar's Meeza signs 8MW lease with global hyperscaler",
+      "url": "https://www.datacenterdynamics.com/en/news/qatars-meeza-signs-8mw-lease-with-global-hyperscaler/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-08",
+      "summary": "Company's largest contract to date",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "8MW"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "4fbe9e12ca751b",
       "title": "Group pushes for statewide data center vote on Ohio ballots - Springfield News-Sun",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFRjZml4RGZaRTVVS05ueUhWU0FuV2tZYXRZd2VubFhRdDNmUjE5b3N1VWgyUUNkd2NjV25oNmpmY21RZE9lVkhLUTFLSVJCM1BMdG94Yko0UThDTlV1ZlRSZVdlVjZGUmM5V2VlTHhodmVVNmZIeFU4WUR4VmRQbnFVNUVMempDX2JFaFJBZWpUSHpneFRCdldTZFZfZ1Z5RE1MWWg1d3V0czZVemVLX29LaF9mZkpkN2E0aEhodFA3dWJKd09qUEtUT0phN05DMDhCS1ltbXJpNWhveDZJQUlvdDY?oc=5",
@@ -435,72 +784,6 @@
       "companies": [],
       "locations": [
         "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d0bcb2c3ed096c",
-      "title": "SGC Energy partners with Vertiv to deploy PowerNexus at planned AI data center in Gunsan, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/sgc-energy-partners-with-vertiv-to-deploy-powernexus-at-planned-ai-data-center-in-gunsan-south-korea/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Expected to be energized in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4a5827d4a8f8d9",
-      "title": "Retrofitting for the next era of data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/retrofitting-for-the-next-era-of-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "How colocation providers are unlocking capacity, efficiency and growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b41e89af078568",
-      "title": "Fleet seeks approval to build two methane power plants to power data centers in Nevada - report",
-      "url": "https://www.datacenterdynamics.com/en/news/fleet-seeks-approval-to-build-two-methane-power-plants-to-power-data-centers-in-nevada-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Decision expected from the Public Utility Commission of Nevada in the coming days",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Nevada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fce048483e1f0c",
-      "title": "Firmus to provide OpenAI with compute capacity in Malaysia",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-to-provide-openai-with-compute-capacity-in-malaysia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "While OpenAI's Stargate efforts in South Korea stall",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "Malaysia"
       ],
       "amounts": [],
       "confidence": 2,
@@ -623,6 +906,72 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d0bcb2c3ed096c",
+      "title": "SGC Energy partners with Vertiv to deploy PowerNexus at planned AI data center in Gunsan, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/sgc-energy-partners-with-vertiv-to-deploy-powernexus-at-planned-ai-data-center-in-gunsan-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-08",
+      "summary": "Expected to be energized in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4a5827d4a8f8d9",
+      "title": "Retrofitting for the next era of data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/retrofitting-for-the-next-era-of-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-08",
+      "summary": "How colocation providers are unlocking capacity, efficiency and growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b41e89af078568",
+      "title": "Fleet seeks approval to build two methane power plants to power data centers in Nevada - report",
+      "url": "https://www.datacenterdynamics.com/en/news/fleet-seeks-approval-to-build-two-methane-power-plants-to-power-data-centers-in-nevada-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-08",
+      "summary": "Decision expected from the Public Utility Commission of Nevada in the coming days",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Nevada"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fce048483e1f0c",
+      "title": "Firmus to provide OpenAI with compute capacity in Malaysia",
+      "url": "https://www.datacenterdynamics.com/en/news/firmus-to-provide-openai-with-compute-capacity-in-malaysia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-08",
+      "summary": "While OpenAI's Stargate efforts in South Korea stall",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "Malaysia"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1369,6 +1718,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c9301100cbbdfc",
+      "title": "Google Translate rolls out new upgrades for iOS and Android.",
+      "url": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-04",
+      "summary": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "95adcd0da0a9d7",
       "title": "Cisco remakes the edge for AI’s data-heavy future",
       "url": "https://siliconangle.com/2026/09/04/cisco-delivers-edge-computing-ai-ciscoaward/",
@@ -1412,23 +1778,6 @@
       "companies": [
         "Microsoft",
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c9301100cbbdfc",
-      "title": "Google Translate rolls out new upgrades for iOS and Android.",
-      "url": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-04",
-      "summary": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2479,23 +2828,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b852ef6345edbe",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c114371d333746",
       "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlVCaXJUZXZDcGtpMG9ERUF1SXVOV1djTkpMeWNPaVdLOXZPRm1Bb3lTVHhucjhpSlBvcFJnTW90M1ROcno2VmZscTRnQ2VSQTVCZkdBMFFqXzlGMTJMZGwzX0JENDFYWkg5dnZVZVZKNWVUMWF4YzVHalJQZmNVdHBhNDVmNnJWTUpUZjhPR2o2bmcwbjBTM0FmRGw4MDh2UldseUdZeVBiV19wWDM0?oc=5",
@@ -2540,6 +2872,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b852ef6345edbe",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-02",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -3595,13 +3944,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4f9170dbd1caf5",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+      "id": "7354d6d7801830",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - mlive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; mlive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -3612,13 +3961,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7354d6d7801830",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - mlive.com",
+      "id": "4f9170dbd1caf5",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; mlive.com",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -9392,13 +9741,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "3db949a49b2cbb",
-      "title": "Proposed $2.7 billion data center announced for Carson County - NewsChannel 10",
+      "id": "961374338a12c4",
+      "title": "Proposed $2.7 billion data center announced for Carson County - newschannel10.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHJsSndZUjUweDVwb2RIczRxcE5hbTd6bDYtWlRxUTA5MU5haG5UUVNWNXNyN2xXTWFENE1iM1Q5cVAxcFIwQUtKeEVxTmZfSlB4UWx4TUR5TjBCZXFFSWx3bVE3bDE3czFrU005Q1Bpc1lsallERjZKNEw1bkhoVmpod0tQS2xCelpHc194UWFwXy1Fb1JvR3FiVTdlUdIBsgFBVV95cUxOQXVHVEhMX1BHa25jQTBtUVYySENsRG84ZE41YUxmVlhZTldLdC1PYkVvY3l3NjhsMTZieE90eEFCLW1DWENYdWgtYXhLZ3VNWHI3OGRBWWlJZDFwTnc3anhPNjBRZVFBVzFhdlNFUFYzZTUyT2dubFEtWDF3bThzanVzQk1BOU9wOTRiMHBxRG1DQWhlSHBOdFM3MWEtQkJtdmxza21LN3lrYjl1dU9zZ21B?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; NewsChannel 10",
+      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; newschannel10.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -9409,13 +9758,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "961374338a12c4",
-      "title": "Proposed $2.7 billion data center announced for Carson County - newschannel10.com",
+      "id": "3db949a49b2cbb",
+      "title": "Proposed $2.7 billion data center announced for Carson County - NewsChannel 10",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHJsSndZUjUweDVwb2RIczRxcE5hbTd6bDYtWlRxUTA5MU5haG5UUVNWNXNyN2xXTWFENE1iM1Q5cVAxcFIwQUtKeEVxTmZfSlB4UWx4TUR5TjBCZXFFSWx3bVE3bDE3czFrU005Q1Bpc1lsallERjZKNEw1bkhoVmpod0tQS2xCelpHc194UWFwXy1Fb1JvR3FiVTdlUdIBsgFBVV95cUxOQXVHVEhMX1BHa25jQTBtUVYySENsRG84ZE41YUxmVlhZTldLdC1PYkVvY3l3NjhsMTZieE90eEFCLW1DWENYdWgtYXhLZ3VNWHI3OGRBWWlJZDFwTnc3anhPNjBRZVFBVzFhdlNFUFYzZTUyT2dubFEtWDF3bThzanVzQk1BOU9wOTRiMHBxRG1DQWhlSHBOdFM3MWEtQkJtdmxza21LN3lrYjl1dU9zZ21B?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-08-18",
-      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; newschannel10.com",
+      "summary": "Proposed $2.7 billion data center announced for Carson County &nbsp;&nbsp; NewsChannel 10",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -9955,6 +10304,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "15e47a7349fa7f",
+      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
+      "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-08-18",
+      "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8dd3f9551e1ab6",
       "title": "Google, Amazon, Meta, and Microsoft Hiked AI Capex and It Benefits One Stock - FinanceBuzz",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Rd3R5Zy1sZjlnVk9vckd1MDJ4Q2ZTRXExQ3V1eHpyZGtkbUg5dEpKb3dabTIxcTBIQ0RiekIzTGtUOERoWlN4RVAxUnV5bXNoRGtfQzV1RGVHTWVaYko0cmNKLU04Y1hta1dCWjhGaw?oc=5",
@@ -9968,23 +10334,6 @@
         "Amazon",
         "Google",
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "15e47a7349fa7f",
-      "title": "In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo",
-      "url": "https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-08-18",
-      "summary": "Each location will be a permanent community space to offer free workshops, networking events, pitch nights, content creation spaces, collaboration/co-working areas, and event hosting for developers, students, or tech professionals who want to walk through the doors.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10040,333 +10389,6 @@
       "companies": [
         "Google"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4b692b30bd5fc1",
-      "title": "Ask a Scientist: How can researchers use AI to predict a flood?",
-      "url": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-18",
-      "summary": "On the left: A blue background with black text saying 'Google' and 'Ask a scientist about flood forecasting.' On the right: Two Googlers in a virtual interview about flood forecasting",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8616088a0fa548",
-      "title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-18",
-      "summary": "Google’s Gemini app offers full-length practice SAT tests at no cost. Here’s how to take these SAT practice tests as you prep.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7a78961885718c",
-      "title": "Google partners with the aviation industry to prevent climate-warming contrails with AI",
-      "url": "https://siliconangle.com/2026/08/18/google-partners-with-the-aviation-industry-to-try-and-prevent-climate-warming-contrails-with-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-18",
-      "summary": "Google LLC today revealed it’s partnering with the U.K. government and the country’s aviation industry on a new initiative called Operation Blue Skies that aims to use artificial intelligence insights to reduce the impact of climate-warming contrails across an entire oceanic airspace. Contrails are the white clouds that sometimes form behind airplanes at cruising altitudes. [&#8230;] \n The post  Google partners with the aviation industry to prevent climate-warming contrails with AI  appeared fir",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4a54aa07fd1e22",
-      "title": "US Data Center Power Consumption by State (2026) - electricchoice.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-18",
-      "summary": "US Data Center Power Consumption by State (2026) &nbsp;&nbsp; electricchoice.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b8b49ff6527a3d",
-      "title": "Portnox adds Microsoft Defender integration to police AI agent access",
-      "url": "https://siliconangle.com/2026/08/18/portnox-adds-microsoft-defender-integration-to-police-ai-agent-access/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-18",
-      "summary": "Cloud-native access control company Portnox today unveiled expanded capabilities aimed at governing the artificial intelligence agents and other nonhuman identities now logging in to corporate networks, applications and infrastructure. The new piece is an integration with Microsoft Corp.&#8217;s Defender. Portnox had already wired in CrowdStrike Holdings Inc. and SentinelOne Inc. Any of the three can [&#8230;] \n The post  Portnox adds Microsoft Defender integration to police AI agent access  app",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad9630c544a847",
-      "title": "Commvault expands Cloud Rewind to cover more Azure resources",
-      "url": "https://siliconangle.com/2026/08/18/commvault-expands-cloud-rewind-to-cover-more-azure-resources/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-18",
-      "summary": "Data protection provider Commvault Systems Inc. today said it will triple the range of Microsoft Azure resources its Cloud Rewind service can protect and rebuild, part of a push to cut the time enterprises spend piecing cloud applications back together after an attack. The expanded coverage takes in 62% of the Azure resource types Commvault [&#8230;] \n The post  Commvault expands Cloud Rewind to cover more Azure resources  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5fde6769ebdf0d",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-18",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "882a78283678a2",
-      "title": "Tencent Cloud plans cloud region in Malaysia",
-      "url": "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Will offer three availability zones",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "99c41ecac9d30a",
-      "title": "Application filed for data center campus near QTS' site in Northumberland, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-data-center-campus-near-qts-site-in-northumberland-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "UK family office plans campus in Cambois on former GSK manufacturing site",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e965c8e0f38f18",
-      "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Will combine its ultracapacitor energy storage system with grid-forming power conversion",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8deee9c55a0d3c",
-      "title": "Globalinx buys land in Virginia Beach to expand CLS campus",
-      "url": "https://www.datacenterdynamics.com/en/news/globalinx-buys-land-in-virginia-beach-to-expand-cls-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "As Virginia Beach officials look to bring in data center moratorium",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b6a48bd6dc3d29",
-      "title": "Meta faces mammoth fine in landmark social media trial",
-      "url": "https://siliconangle.com/2026/08/17/meta-faces-mammoth-fine-in-landmark-social-media-trial/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-18",
-      "summary": "Meta Platforms Inc. will head to trial Tuesday over the allegation its social media applications are addictive and have harmed young users, a trial that could potentially see Meta paying a more than trillion-dollar fine and redesigning Facebook and Instagram. Meta is up against 30 U.S. states, which together launched the lawsuit in 2023 alleging [&#8230;] \n The post  Meta faces mammoth fine in landmark social media trial  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b17b30fcccf240",
-      "title": "DataVita secures £300m debt facility to expand North Lanarkshire data center campus",
-      "url": "https://www.datacenterdynamics.com/en/news/datavita-secures-300m-debt-facility-to-expand-north-lanarkshire-data-center-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Funds to fuel expansion of two buildings",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3db21b856f2d04",
-      "title": "DayOne partners with Cortical Labs, NUS Medicine, for deployment of Singapore’s first biological data center prototype",
-      "url": "https://www.datacenterdynamics.com/en/news/dayone-partners-with-cortical-labs-nus-medicine-for-deployment-of-singapores-first-biological-data-center-prototype/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Deployment consists of 20-unit CL1 biological computing system",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "837792aae023ed",
-      "title": "Helios looks to build data center on 860 hectares in Finnish Lapland",
-      "url": "https://www.datacenterdynamics.com/en/news/helios-looks-to-build-data-center-on-860-hectares-in-finnish-lapland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Renewable company's third data center project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4fa581c7332e03",
-      "title": "Alibaba Cloud launches third data center in South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-launches-third-data-center-in-south-korea/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Has been in the country since 2016",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "41d14ea4be9614",
-      "title": "Sunrun to supply residential solar + storage capacity to Voltus for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/sunrun-to-supply-residential-solar-storage-capacity-to-voltus-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Part of Voltus' Bring Your Own Capacity program",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8da46cb06b91e2",
-      "title": "Cherokee Nation in the US bans data center development",
-      "url": "https://www.datacenterdynamics.com/en/news/cherokee-nation-in-the-us-bans-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Nation also releases report on data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "72832b2811a9a5",
-      "title": "Lockheed Martin taps Verizon, Nvidia to prepare drone detection service",
-      "url": "https://www.datacenterdynamics.com/en/news/lockheed-martin-taps-verizon-nvidia-to-prepare-drone-detection-service/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "A host of other partners have worked to support the \"airspace as a network service\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d7a6d18e0bb75a",
-      "title": "The retrofitting roadmap: An evolution of liquid cooling",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-retrofitting-roadmap-an-evolution-of-liquid-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-18",
-      "summary": "Assess when liquid cooling retrofits make strategic sense and how to evaluate, plan and execute upgrades across existing data center facilities.",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
