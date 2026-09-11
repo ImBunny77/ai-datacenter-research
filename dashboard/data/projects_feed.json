@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-11T14:06:01.276603+00:00",
+  "last_updated": "2026-09-11T19:00:53.640825+00:00",
   "finding_count": 600,
-  "new_project_count": 75,
-  "cancellation_count": 15,
+  "new_project_count": 77,
+  "cancellation_count": 16,
   "sec_filing_count": 2,
-  "high_confidence_count": 152,
+  "high_confidence_count": 154,
   "findings": [
     {
       "id": "86184890c9ad8b",
@@ -40,8 +40,8 @@
       ],
       "locations": [],
       "amounts": [
-        "38GW",
-        "12GW"
+        "12GW",
+        "38GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -64,6 +64,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "d694a1e7e3ce6e",
+      "title": "Plans for 120MW data center withdrawn in Lombardy, Italy",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-for-120mw-data-center-withdrawn-in-lombardy-italy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-11",
+      "summary": "Mayor says municipality never received data needed for the grid connection",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "120MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "850d82b8ddd47f",
       "title": "Ayar Labs bags $150M in additional late-stage funding to help make bigger AI chip clusters",
       "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
@@ -77,13 +94,51 @@
       ],
       "locations": [],
       "amounts": [
-        "$150 million",
-        "$150M",
         "$500 million",
-        "$650 million"
+        "$650 million",
+        "$150M",
+        "$150 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "b7bf6f9e7470f7",
+      "title": "Nvidia’s Backstop Universe – Heads I Win, Tails Who Loses?",
+      "url": "https://newsletter.semianalysis.com/p/nvidias-backstop-universe-heads-i",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-09-11",
+      "summary": "The $11T AI Buildout, Nvidia&#8217;s Backstop Economics, and the Limits of Nvidia&#8217;s Balance Sheet",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$11T"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8883f1aeb5b67a",
+      "title": "Google to Invest €13 Billion in Finland Over Two Years - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdld0d205QWs5SGlJM0xsYnBHU3V4UFU1YVZkbGozeWpldFlaeHcwTnMtNW5iaW9HNVhzNGVIMmdBWFFKWHNocU5Vb3RSUm4zOVR3VHV2WFFZcHl0X3lHVjc2WmVRbzVweDNaU3FZa3RzM0NKNUpVd0tjajE4dndtLTZ2SEZKZw?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-11",
+      "summary": "Google to Invest €13 Billion in Finland Over Two Years &nbsp;&nbsp; energynews.pro",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "8778081f1cd431",
@@ -199,6 +254,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "22650df43fd019",
+      "title": "The hard physics and complex economics of AI’s insatiable hunger for power",
+      "url": "https://siliconangle.com/2026/09/11/the-hard-physics-and-complex-economics-of-ais-insatiable-hunger-for-power/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-11",
+      "summary": "Data centers, the windowless, anonymous, boxy structures that few people even notice, have become a rare unifying force across the polarized American landscape this year. Everyone seems to hate them. The explosion in data center construction has been fueled by intense interest in artificial intelligence, a technology that demands unprecedented amounts of computing power. Fitch [&#8230;] \n The post  The hard physics and complex economics of AI&#8217;s insatiable hunger for power  appeared first o",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "edd85f49ea5e1c",
+      "title": "AI’s existential crisis explodes but AI companies plunge ahead anyway",
+      "url": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-11",
+      "summary": "The resignation this week of Anthropic researcher Jacob Coxon over concerns that artificial intelligence labs are “gambling with our lives” lit up the long-smoldering argument about whether AI is heading in a direction hazardous to human life. Not only is he not alone at Anthropic &#8212; whose alignment science lead agreed with the possibility that [&#8230;] \n The post  AI&#8217;s existential crisis explodes but AI companies plunge ahead anyway  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "044c6cb4b91dc4",
       "title": "OpenAI targets Wall Street bankers with a new version of ChatGPT",
       "url": "https://siliconangle.com/2026/09/10/openai-targets-wall-street-bankers-with-a-new-version-of-chatgpt/",
@@ -248,13 +335,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "065d9f399ecc8c",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
+      "id": "85bd60111b4b04",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -270,13 +357,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "85bd60111b4b04",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
+      "id": "065d9f399ecc8c",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -305,9 +392,9 @@
       ],
       "locations": [],
       "amounts": [
+        "$115M",
         "$7.1 billion",
         "$7.1B",
-        "$115M",
         "$2.1 billion",
         "$115 million"
       ],
@@ -593,23 +680,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "bd11662d674406",
-      "title": "Nvidia’s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "Justice Department investigation joins FTC inquiry into potential de facto big tech mergers",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "c58bdada4b5cea",
       "title": "Amazon makes its agentic AI platform Quick generally available for desktop on Windows and macOS",
       "url": "https://siliconangle.com/2026/09/10/amazon-makes-its-agentic-ai-platform-quick-generally-available-for-desktop-on-windows-and-macos/",
@@ -661,6 +731,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "bd11662d674406",
+      "title": "Nvidia’s Groq deal facing DOJ probe amid regulator scrutiny into acqui-hires: report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidias-groq-deal-facing-doj-probe-amid-regulator-scrutiny-into-acqui-hires-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "Justice Department investigation joins FTC inquiry into potential de facto big tech mergers",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "c091c8bfdf77f2",
       "title": "Smith: The ‘bipartisan’ data center backlash isn't what it looks like - Dallas News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXk4VjRlSzRwbUlSWkZJcVBIQ2UzdGdwUkRPdElnam4zb0FvMzNFMFpBdUwyc01aQmxnMDBmSlZ3YzhWTjJCN0RFamNQV3I1aEk1Qk9wRXIzR3llZFlSQmFJY3BpZGRlNnRSWnBoRGRmSXE0Ri1IOGZSNWF6TldseDNhRWlJZDRGMTNwWlFZRms3YnotQ2RRWDluS1Y0Y3ZYNThGdUhuR0dzZjBMWENxUjdENA?oc=5",
@@ -673,36 +760,6 @@
       "locations": [
         "Dallas"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "146b22c2e41f6e",
-      "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWF2RDFEUWlBdnFwVlpUWTd5T1hLYVBxNnZpcGJBSUtWaXdDd2pycVNfUWcyTUZvQjBYR0xyUkNkdTJiZUtCX1hUVGZ3c2FDZFMyeno2MGYxZXVrVEkxdUZ0REl4Q3ZIc2RfbllvT0lqMlkzZHdnWm1BMTRRNlBpdjlaUUdLNXdfMjk4S3RldjAxOGFaZXUwT1BDT0ZFS3VBeUpzRnc2YXpVVWhOMnhlY3dCM3BQQmNlUFg4b2R4REhKSllUNHlmSnJ3?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-10",
-      "summary": "Building U.S. data centers is getting so expensive that AI companies are moving overseas &nbsp;&nbsp; MarketWatch",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aef4c818dfb794",
-      "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -819,6 +876,36 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "146b22c2e41f6e",
+      "title": "Building U.S. data centers is getting so expensive that AI companies are moving overseas - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWF2RDFEUWlBdnFwVlpUWTd5T1hLYVBxNnZpcGJBSUtWaXdDd2pycVNfUWcyTUZvQjBYR0xyUkNkdTJiZUtCX1hUVGZ3c2FDZFMyeno2MGYxZXVrVEkxdUZ0REl4Q3ZIc2RfbllvT0lqMlkzZHdnWm1BMTRRNlBpdjlaUUdLNXdfMjk4S3RldjAxOGFaZXUwT1BDT0ZFS3VBeUpzRnc2YXpVVWhOMnhlY3dCM3BQQmNlUFg4b2R4REhKSllUNHlmSnJ3?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-10",
+      "summary": "Building U.S. data centers is getting so expensive that AI companies are moving overseas &nbsp;&nbsp; MarketWatch",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aef4c818dfb794",
+      "title": "Sponsored: The hidden capacity inside aging data centers: Uncovering performance, capacity, and capital through efficiency",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-hidden-capacity-inside-aging-data-centers-uncovering-performance-capacity-and-capital-through-efficiency/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "In a world where power has become the ultimate currency, you can no longer afford to waste it",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1482,6 +1569,42 @@
       "is_high_confidence": false
     },
     {
+      "id": "a0dc449c4136e4",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6a3dbb0f6b1158",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "9673d87544fda3",
       "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
@@ -1544,23 +1667,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Google to invest €13bn in Finnish data centres in major European push &nbsp;&nbsp; Euronews.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a0dc449c4136e4",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1713,13 +1819,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "24767e156a10bd",
-      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - aboutamazon.com",
+      "id": "e7f35a21136200",
+      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; aboutamazon.com",
+      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; About Amazon",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -1727,23 +1833,6 @@
       "locations": [
         "Texas"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d1e717328f056f",
-      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-09",
-      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1853,13 +1942,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e7f35a21136200",
-      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
+      "id": "24767e156a10bd",
+      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; About Amazon",
+      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; aboutamazon.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -1867,6 +1956,23 @@
       "locations": [
         "Texas"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d1e717328f056f",
+      "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-09",
+      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2569,23 +2675,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b2f959a191b22a",
-      "title": "Group pushes for statewide data center vote on Ohio ballots - Dayton Daily News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd19oTUJSVms0cU42MU5hcFd5SmRPRDdDSE5mZ2FTa2M0WXhvWV9wU1lrOU9jNzVLcHoxOHNnLUVKQmhsR3pjRGxEanFfSU4tQnZPNThYQmVWZmNYWTBpZnBpeGd1eXVQTEg0UEpIbmhsZXRLZmxIVWxOWVNGcFJPMHhWLWZOVFRwWDFFS0hmNHhVNWt1?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-08",
-      "summary": "Group pushes for statewide data center vote on Ohio ballots &nbsp;&nbsp; Dayton Daily News",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "cd2ab8599f3712",
       "title": "Missouri and Google partner on AI and career training",
       "url": "https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/",
@@ -2617,6 +2706,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b2f959a191b22a",
+      "title": "Group pushes for statewide data center vote on Ohio ballots - Dayton Daily News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd19oTUJSVms0cU42MU5hcFd5SmRPRDdDSE5mZ2FTa2M0WXhvWV9wU1lrOU9jNzVLcHoxOHNnLUVKQmhsR3pjRGxEanFfSU4tQnZPNThYQmVWZmNYWTBpZnBpeGd1eXVQTEg0UEpIbmhsZXRLZmxIVWxOWVNGcFJPMHhWLWZOVFRwWDFFS0hmNHhVNWt1?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-08",
+      "summary": "Group pushes for statewide data center vote on Ohio ballots &nbsp;&nbsp; Dayton Daily News",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7362,6 +7468,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "f21ce13eed0482",
+      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-08-26",
+      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$17 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "becb2e7593723d",
       "title": "Columbia County advances $17 billion data center deal - WRDW",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
@@ -7410,23 +7533,6 @@
       "amounts": [
         "$68 Billion",
         "$11 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f21ce13eed0482",
-      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$17 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -8928,6 +9034,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "78c20b24561c4e",
+      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-24",
+      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3d9adea63734d6",
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
@@ -8939,21 +9060,6 @@
       "companies": [
         "Amazon"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78c20b24561c4e",
-      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-24",
-      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10243,105 +10349,6 @@
         "OpenAI",
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "654547ad499412",
-      "title": "Waymo details the custom chip in its autonomous driving system",
-      "url": "https://siliconangle.com/2026/08/20/waymo-details-the-custom-chip-in-its-autonomous-driving-system/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-20",
-      "summary": "Waymo LLC today shared new details about the computing module that powers its autonomous taxis. The Alphabet Inc. unit operates about 4,000 vehicles in 11 U.S. cities. Most are based on the Jaguar I-Pace crossover, while the rest are Zeeker minivans and Hyundai Ioniq 5 SUVs. Consumers order rides via a standalone app and Uber. [&#8230;] \n The post  Waymo details the custom chip in its autonomous driving system  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f00e93851e6cff",
-      "title": "Cloud cost startup North adds Microsoft Azure to complete hyperscaler support",
-      "url": "https://siliconangle.com/2026/08/20/cloud-cost-startup-north-adds-microsoft-azure-complete-hyperscaler-support/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-20",
-      "summary": "Cloud financial management startup North Cloud Holdings Inc. today released North 3.0, a platform-wide update that adds Microsoft Azure and pulls cloud, artificial intelligence and data spending into a single system. The release gives North coverage across all three major hyperscale cloud providers. Azure reaches general availability following a beta program, joining Amazon Web Services [&#8230;] \n The post  Cloud cost startup North adds Microsoft Azure to complete hyperscaler support  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "953963eb21959a",
-      "title": "GOP urges top AI firms to do something about the toxic image of data centers",
-      "url": "https://siliconangle.com/2026/08/19/gop-urges-top-ai-firms-to-do-something-about-the-toxic-image-of-data-centers/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-20",
-      "summary": "As artificial intelligence data centers continue to proliferate across Ohio and public opposition grows, Axios reported today that the GOP’s Senate campaign arm has privately warned AI companies that they need to do something about the increasingly toxic image of the facilities. The centers have become the battleground for the upcoming election in which Republican [&#8230;] \n The post  GOP urges top AI firms to do something about the toxic image of data centers  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eb6550b65d50c0",
-      "title": "SpaceX’s orbital data centers would create a new category of e-waste",
-      "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-20",
-      "summary": "The yeetcycling math resembles asteroid mining in reverse.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "102c1ddab9854c",
-      "title": "Data center launched by BBT Group at hospital in Bad Mergentheim, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-launched-by-bbt-group-at-hospital-in-bad-mergentheim-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-20",
-      "summary": "The 78kW facility at Caritas Hospital will support digital services at several hospitals run by the operator in Baden-Württemberg",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c1ceb3198cf838",
-      "title": "Sponsored: Why third-party sustainability certification matters for the future of data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-third-party-sustainability-certification-matters-for-the-future-of-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-20",
-      "summary": "The most successful data center developers will not be those making the boldest sustainability claims. They will be the ones willing to have those claims independently measured, tested, and verified",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
