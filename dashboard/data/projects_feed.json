@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-11T19:00:53.640825+00:00",
+  "last_updated": "2026-09-11T22:18:04.810931+00:00",
   "finding_count": 600,
-  "new_project_count": 77,
+  "new_project_count": 78,
   "cancellation_count": 16,
   "sec_filing_count": 2,
-  "high_confidence_count": 154,
+  "high_confidence_count": 155,
   "findings": [
     {
       "id": "86184890c9ad8b",
@@ -40,8 +40,8 @@
       ],
       "locations": [],
       "amounts": [
-        "12GW",
-        "38GW"
+        "38GW",
+        "12GW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -94,10 +94,10 @@
       ],
       "locations": [],
       "amounts": [
-        "$500 million",
+        "$150 million",
         "$650 million",
-        "$150M",
-        "$150 million"
+        "$500 million",
+        "$150M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -150,6 +150,24 @@
       "summary": "As data centers become an issue for the midterms, OpenAI looks to change the message",
       "finding_type": "Statement / Update",
       "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2f07b8a04d4173",
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-11",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle",
         "OpenAI"
       ],
       "locations": [],
@@ -460,9 +478,9 @@
       "is_high_confidence": true
     },
     {
-      "id": "300f6327918697",
+      "id": "a0b5e535239551",
       "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkdLRWU4N1VWRWlGMXEtY2lrekp3dlU0UmRGOElRMEZIeUVIYXNNNGRaMFdMUW93MFRTOHN2VEtVLTZqeE9BMWM1Rzl1OWlSMGV3V1RiSFdMUUt3U3h1TkFtdnB3NnplTUNLR2lBZU5nMTNtT3FDdTA0MDZ6WDkwc1hHNXNRUUN6dXZaZVRJUnVuRmptTS1ZLUY0VnhzLVI1VVl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-10",
@@ -489,6 +507,40 @@
       "locations": [],
       "amounts": [
         "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "edc0cf8b233648",
+      "title": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan - koreajoongangdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVBEQ19vaEV0RzNBZ1dHdUhTbERjZ2p4emljbk1CTWVUbGZWcGpDb0ZudnFRTDBDM2g4NmszeWNHWTR2ZzNwX3poSEhwZXJOUGZxVWd1SktSZnpHUTd4X3VidmQ1QVpkRi1EZ29HaW5KQkEzbEhCR2Q2YUxiOTluT3M4cVpseUhOVWpMT3A4ZWdET2oyX1pqVl9jNWNIc25kenhJZy1sSTR4QWtZS2ZabEVLbUpXVlRpVGRadEx0MkZGSHdG?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan &nbsp;&nbsp; koreajoongangdaily.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$5.2 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "300f6327918697",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkdLRWU4N1VWRWlGMXEtY2lrekp3dlU0UmRGOElRMEZIeUVIYXNNNGRaMFdMUW93MFRTOHN2VEtVLTZqeE9BMWM1Rzl1OWlSMGV3V1RiSFdMUUt3U3h1TkFtdnB3NnplTUNLR2lBZU5nMTNtT3FDdTA0MDZ6WDkwc1hHNXNRUUN6dXZaZVRJUnVuRmptTS1ZLUY0VnhzLVI1VVl3?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; KRGV",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -540,23 +592,6 @@
       "locations": [],
       "amounts": [
         "$4 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "edc0cf8b233648",
-      "title": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan - koreajoongangdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVBEQ19vaEV0RzNBZ1dHdUhTbERjZ2p4emljbk1CTWVUbGZWcGpDb0ZudnFRTDBDM2g4NmszeWNHWTR2ZzNwX3poSEhwZXJOUGZxVWd1SktSZnpHUTd4X3VidmQ1QVpkRi1EZ29HaW5KQkEzbEhCR2Q2YUxiOTluT3M4cVpseUhOVWpMT3A4ZWdET2oyX1pqVl9jNWNIc25kenhJZy1sSTR4QWtZS2ZabEVLbUpXVlRpVGRadEx0MkZGSHdG?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan &nbsp;&nbsp; koreajoongangdaily.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$5.2 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1586,6 +1621,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "86837478a65659",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "6a3dbb0f6b1158",
       "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
@@ -1617,25 +1671,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "86837478a65659",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -5863,13 +5898,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c9cb7807f21220",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - mlive.com",
+      "id": "3793fbde5513d0",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; mlive.com",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -5880,13 +5915,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "3793fbde5513d0",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+      "id": "c9cb7807f21220",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - mlive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; mlive.com",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -7468,13 +7503,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f21ce13eed0482",
-      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
+      "id": "becb2e7593723d",
+      "title": "Columbia County advances $17 billion data center deal - WRDW",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
+      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; WRDW",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7485,13 +7520,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "becb2e7593723d",
-      "title": "Columbia County advances $17 billion data center deal - WRDW",
+      "id": "f21ce13eed0482",
+      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; WRDW",
+      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9034,21 +9069,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "78c20b24561c4e",
-      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-24",
-      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "3d9adea63734d6",
       "title": "AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more (August 24, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/",
@@ -9060,6 +9080,21 @@
       "companies": [
         "Amazon"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "78c20b24561c4e",
+      "title": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEZ0Yl81TUs4NmVOUkZVR25iWEo2RUVaZmYzTVhjU0tuVzlIT1ZoMndKVHFwZHM3ZHBDTzZ3WTdJaHZtUUZyNGFwZG04UktQeS1hY3kzbGtHamhBX3VvZENYb2lkWmg0eldYVUdKRVduTS1XekZXei1BT1c0S0VmYS1GNU1zZWpyS0RfX0g5aWZBcXdEOVV2UUZWMVpvYm00b2hDTjhjRHpBdWs?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-24",
+      "summary": "FiberLight CEO: Public outcry may reshape AI data centers, but not stop them &nbsp;&nbsp; Fierce Network",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -10317,41 +10352,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d52db15354b71c",
-      "title": "InfraTech to invest $2.7bn to develop data center campus in Carson County, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/infratech-to-invest-27bn-to-develop-data-center-campus-in-carson-county-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-20",
-      "summary": "Further details are expected to be revealed when the deal is completed",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d334aef625239d",
-      "title": "Report: Anthropic hopes to surpass SpaceX’s record IPO raise when it finally floats",
-      "url": "https://siliconangle.com/2026/08/20/report-anthropic-hopes-to-surpass-spacexs-record-ipo-raise-when-it-finally-goes-public/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-20",
-      "summary": "Anthropic PBC is privately hoping its upcoming initial public offering will match or even surpass the size of SpaceX Corp.’s record-breaking IPO as it doubles down on its bid to go public ahead of rival OpenAI Group PBC. Anonymous sources who are familiar with the artificial intelligence model maker’s plans told Bloomberg that it’s hoping [&#8230;] \n The post  Report: Anthropic hopes to surpass SpaceX&#8217;s record IPO raise when it finally floats  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
