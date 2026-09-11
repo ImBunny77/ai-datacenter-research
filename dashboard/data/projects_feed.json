@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-11T03:27:27.361069+00:00",
+  "last_updated": "2026-09-11T08:40:30.853541+00:00",
   "finding_count": 600,
-  "new_project_count": 74,
+  "new_project_count": 76,
   "cancellation_count": 15,
   "sec_filing_count": 2,
-  "high_confidence_count": 155,
+  "high_confidence_count": 152,
   "findings": [
     {
       "id": "850d82b8ddd47f",
@@ -20,9 +20,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$150 million",
         "$500 million",
         "$150M",
+        "$150 million",
         "$650 million"
       ],
       "confidence": 6,
@@ -145,10 +145,10 @@
       "locations": [],
       "amounts": [
         "$115 million",
-        "$115M",
         "$2.1 billion",
-        "$7.1B",
-        "$7.1 billion"
+        "$7.1 billion",
+        "$115M",
+        "$7.1B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -183,6 +183,23 @@
       "locations": [],
       "amounts": [
         "$4 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ebbea9c02b420e",
+      "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - Queen City News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Queen City News",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -334,6 +351,25 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "da6dacc70b40e8",
+      "title": "Finland: Google Announces 13 billion Euro AI, Energy Investment - en.tempo.co",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXhlSkt5YUlMVmVubEJ4QjYzLS1GdUpfTHJXSEVoQ2F3WWJrQUMtQnVKMGJ1UkpaeUR1enYtTzlxZk4wQVNyZWVrZzgtQUg3Z1g0dVRPLWxzWFItQ1dPRGp6V3VQZk9VZDc5MXE2eC16anJOTUNvTzdXUGxVbkUtdExpRjZ2VkxrbGhMa0g4elBucTJzdzBwYWJ3?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-10",
+      "summary": "Finland: Google Announces 13 billion Euro AI, Energy Investment &nbsp;&nbsp; en.tempo.co",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "3a03284ed5646b",
@@ -504,72 +540,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "71e90e11affb76",
-      "title": "UK Prime Minister Andy Burnham rejects calls for national data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "Says AI Growth Zones will benefit communities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f681974dd2f858",
-      "title": "Renewable energy firm Friesen Elektra explores data center project in Lower Saxony, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/renewable-energy-firm-friesen-elektra-explores-data-center-project-in-lower-saxony-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "If approved, the facility in Sande will be built at the firm’s existing hydrogen park in the town",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "77087463926f10",
-      "title": "AT&T Business to link Amazon Leo satellite service into managed offer",
-      "url": "https://www.datacenterdynamics.com/en/news/att-business-to-link-amazon-leo-satellite-service-into-managed-offer/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "The managed part is now known, the when is still unknown",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "55bc234e279ced",
-      "title": "The data center thermal chain",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-data-center-thermal-chain/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-10",
-      "summary": "Managing heat from chip to reuse",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "dce1a99420e7b9",
       "title": "Oracle’s stock moves higher on surging cloud infrastructure revenue growth",
       "url": "https://siliconangle.com/2026/09/10/oracles-stock-moves-higher-on-surging-cloud-infrastructure-revenue-growth/",
@@ -681,6 +651,72 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "71e90e11affb76",
+      "title": "UK Prime Minister Andy Burnham rejects calls for national data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/uk-prime-minister-andy-burnham-rejects-calls-for-national-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "Says AI Growth Zones will benefit communities",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f681974dd2f858",
+      "title": "Renewable energy firm Friesen Elektra explores data center project in Lower Saxony, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/renewable-energy-firm-friesen-elektra-explores-data-center-project-in-lower-saxony-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "If approved, the facility in Sande will be built at the firm’s existing hydrogen park in the town",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "77087463926f10",
+      "title": "AT&T Business to link Amazon Leo satellite service into managed offer",
+      "url": "https://www.datacenterdynamics.com/en/news/att-business-to-link-amazon-leo-satellite-service-into-managed-offer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "The managed part is now known, the when is still unknown",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "55bc234e279ced",
+      "title": "The data center thermal chain",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/the-data-center-thermal-chain/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-10",
+      "summary": "Managing heat from chip to reuse",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1062,13 +1098,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8908e8bf2bf789",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
+      "id": "9d668f9dd3e8e9",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1100,13 +1136,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2a9903d9fce990",
-      "title": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" - 아시아경제",
+      "id": "b16bc12d019902",
+      "title": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" - asiae.co.kr",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyU3YzN1VmOGp6cEhhVWVYVlZEMHNQWm0xSENXc3hHN1dfUWJWU1BkUVAxZzFrZjMycDNLaEJPTlJvRWZucTBwUDRFVTBrSktzMTRXMFBySkJHVWc3aXVrdnFRbS1XNUJuODdRcnBNLUVNbElYdXp3?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" &nbsp;&nbsp; 아시아경제",
+      "summary": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" &nbsp;&nbsp; asiae.co.kr",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1136,13 +1172,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "92924b11fbb195",
-      "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - googlecloudpresscorner.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "8908e8bf2bf789",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure &nbsp;&nbsp; googlecloudpresscorner.com",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1155,13 +1191,30 @@
       "is_high_confidence": false
     },
     {
-      "id": "9d668f9dd3e8e9",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "id": "2a9903d9fce990",
+      "title": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyU3YzN1VmOGp6cEhhVWVYVlZEMHNQWm0xSENXc3hHN1dfUWJWU1BkUVAxZzFrZjMycDNLaEJPTlJvRWZucTBwUDRFVTBrSktzMTRXMFBySkJHVWc3aXVrdnFRbS1XNUJuODdRcnBNLUVNbElYdXp3?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
+      "summary": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" &nbsp;&nbsp; 아시아경제",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "92924b11fbb195",
+      "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - googlecloudpresscorner.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure &nbsp;&nbsp; googlecloudpresscorner.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1212,20 +1265,58 @@
       "is_high_confidence": false
     },
     {
-      "id": "b16bc12d019902",
-      "title": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" - asiae.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyU3YzN1VmOGp6cEhhVWVYVlZEMHNQWm0xSENXc3hHN1dfUWJWU1BkUVAxZzFrZjMycDNLaEJPTlJvRWZucTBwUDRFVTBrSktzMTRXMFBySkJHVWc3aXVrdnFRbS1XNUJuODdRcnBNLUVNbElYdXp3?oc=5",
+      "id": "9673d87544fda3",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "\"Plenty of Capital, but Google-Blackstone AI Joint Venture Stalled on Data Center Construction\" &nbsp;&nbsp; asiae.co.kr",
-      "finding_type": "New Project",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
+      "finding_type": "Statement / Update",
       "companies": [
         "Google"
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 4,
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "86837478a65659",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f6f13d3a5567d1",
+      "title": "Google announces €13bn additional investment in Finland - Yle",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nazg1SGx3MXlTSTVZd2xQWTluVTRkU3htM2NkcUl4ejNtZXRZTTh0ckxvZncxdGVOb2FqWXZwaXlfZw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google announces €13bn additional investment in Finland &nbsp;&nbsp; Yle",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -1263,25 +1354,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "86837478a65659",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "2cffab10280fba",
       "title": "Google announces €13bn additional investment in Finland - yle.fi",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nazg1SGx3MXlTSTVZd2xQWTluVTRkU3htM2NkcUl4ejNtZXRZTTh0ckxvZncxdGVOb2FqWXZwaXlfZw?oc=5",
@@ -1308,25 +1380,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Google announces €13b Finland investment in its largest European AI infrastructure push &nbsp;&nbsp; malaymail.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f6f13d3a5567d1",
-      "title": "Google announces €13bn additional investment in Finland - Yle",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nazg1SGx3MXlTSTVZd2xQWTluVTRkU3htM2NkcUl4ejNtZXRZTTh0ckxvZncxdGVOb2FqWXZwaXlfZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google announces €13bn additional investment in Finland &nbsp;&nbsp; Yle",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -1462,21 +1515,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8cd13277dc54e7",
-      "title": "Saudi AI giant races to fund data center expansion - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1RnVXRUMjhxRVVPYkVENWphNWx4MEF0bzRLTU90N2NDTlJ6Rkc1Z2UyeENLcFlRNFZyZ2pkWFdZeDE1QjVWV2xuMlQ1N1B5Z3RYTUM5UC1sVFlyRlZQN3o4d2RfOElCQVRhZHk0dndsT2ZXd3ZqYi1JRWo3SC13cTB5VDduN3RUZHFWdXdvT3FZbkVTQkx2TWcyTFVnT2pXcVRmNHo3bk44S3lPRXlraU5Saw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Saudi AI giant races to fund data center expansion &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d1e717328f056f",
       "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
@@ -1593,6 +1631,21 @@
       "locations": [
         "Finland"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8cd13277dc54e7",
+      "title": "Saudi AI giant races to fund data center expansion - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1RnVXRUMjhxRVVPYkVENWphNWx4MEF0bzRLTU90N2NDTlJ6Rkc1Z2UyeENLcFlRNFZyZ2pkWFdZeDE1QjVWV2xuMlQ1N1B5Z3RYTUM5UC1sVFlyRlZQN3o4d2RfOElCQVRhZHk0dndsT2ZXd3ZqYi1JRWo3SC13cTB5VDduN3RUZHFWdXdvT3FZbkVTQkx2TWcyTFVnT2pXcVRmNHo3bk44S3lPRXlraU5Saw?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Saudi AI giant races to fund data center expansion &nbsp;&nbsp; Fortune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -5468,6 +5521,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "3793fbde5513d0",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-31",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "4f9170dbd1caf5",
       "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
@@ -7039,23 +7109,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f21ce13eed0482",
-      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$17 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "becb2e7593723d",
       "title": "Columbia County advances $17 billion data center deal - WRDW",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
@@ -7084,8 +7137,25 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$11 Billion",
-        "$68 Billion"
+        "$68 Billion",
+        "$11 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f21ce13eed0482",
+      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-08-26",
+      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$17 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10282,85 +10352,6 @@
         "$18 billion"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9491b0404eebd7",
-      "title": "Amazon's $6 Billion Boost For Shreveport's Tech Scene At Resilient Technology Park - News Radio 710 KEEL",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41c0pfQUh2Z1ROX3R6aGo0YlBDY2pra1FLTjhJc1R5R25IaGZSUkUtQmZMOXBDZ2ZkNC1rRU5jTkZJdkJIU3UxTzFVSjZGZm5WVFg3NXZvN0wwR3E4UVUxTnA1bWg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-19",
-      "summary": "Amazon's $6 Billion Boost For Shreveport's Tech Scene At Resilient Technology Park &nbsp;&nbsp; News Radio 710 KEEL",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$6 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b6c86c47aa8d57",
-      "title": "Thunder Compute raises $13M to squeeze more work out of idle GPUs",
-      "url": "https://siliconangle.com/2026/08/19/thunder-compute-raises-13m-squeeze-work-idle-gpus/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-19",
-      "summary": "Thunder Compute today announced it has raised $13 million in early funding to help graphics processing unit cloud providers squeeze out the last erg of compute capacity that sits idle and wasted at the long end of workload cycles. Because GPUs are traditionally allocated as bare-metal resources, dedicated to individual workloads, these expensive chips can [&#8230;] \n The post  Thunder Compute raises $13M to squeeze more work out of idle GPUs  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13M",
-        "$13 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7a3bf556789570",
-      "title": "UAE's Mubadala considers investing in 500MW Bitgrit & S2 data center in Akita, Japan",
-      "url": "https://www.datacenterdynamics.com/en/news/uaes-mubadala-considers-investing-in-500mw-bitgrit-s2-data-center-in-akita-japan/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-19",
-      "summary": "Smaller 1.5MW deployment expected next year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UAE",
-        "Japan"
-      ],
-      "amounts": [
-        "500MW",
-        "1.5MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "f8c259516b323d",
-      "title": "Amazon's $6 Billion Boost For Shreveport's Tech Scene At Resilient Technology Park - 710keel.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41c0pfQUh2Z1ROX3R6aGo0YlBDY2pra1FLTjhJc1R5R25IaGZSUkUtQmZMOXBDZ2ZkNC1rRU5jTkZJdkJIU3UxTzFVSjZGZm5WVFg3NXZvN0wwR3E4UVUxTnA1bWg?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-08-19",
-      "summary": "Amazon's $6 Billion Boost For Shreveport's Tech Scene At Resilient Technology Park &nbsp;&nbsp; 710keel.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$6 Billion"
-      ],
-      "confidence": 6,
       "is_high_confidence": true
     }
   ]
