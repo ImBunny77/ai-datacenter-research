@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-15T17:58:33.101041+00:00",
+  "last_updated": "2026-09-15T21:12:26.883509+00:00",
   "finding_count": 600,
   "new_project_count": 92,
-  "cancellation_count": 14,
-  "sec_filing_count": 2,
-  "high_confidence_count": 157,
+  "cancellation_count": 13,
+  "sec_filing_count": 3,
+  "high_confidence_count": 159,
   "findings": [
     {
       "id": "37c6f130a9da0f",
@@ -20,9 +20,24 @@
         "Canada"
       ],
       "amounts": [
-        "1.2GW",
-        "$52.5 Billion"
+        "$52.5 Billion",
+        "1.2GW"
       ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8b89db66fb75c4",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-15",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -95,6 +110,27 @@
       ],
       "amounts": [
         "900MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3c4b65ed246fbc",
+      "title": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree",
+      "url": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-09-15",
+      "summary": "20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [
+        "1,525MW",
+        "2.3GW",
+        "20GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -448,6 +484,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "6d684b3dfdb132",
+      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-14",
+      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$50 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "e70c9ff85523fd",
       "title": "OpenAI reportedly buys AI camera startup Glass Imaging for more than $300M",
       "url": "https://siliconangle.com/2026/09/14/openai-reportedly-buys-ai-camera-startup-glass-imaging-for-more-than-300m/",
@@ -461,9 +516,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$300M",
+        "$300 million",
         "$6.5 billion",
-        "$300 million"
+        "$300M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1047,13 +1102,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a6823bc2356060",
-      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - cnbc.com",
+      "id": "86184890c9ad8b",
+      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNkprMUExRHJNbkQxLXl6ZjdpMmZ1TUd0anN6UVRWSGt1Z3VhaWxpNUtoT1lUOTlJMnN6VWt3bmN6UXVtVUNyZG9qZ1dJdmctek5PTGgwTVM5UE52RXJ3SmZzLVRVbzlmalZHbVpUZkNzTTdvZkZqWjVROFnSAYIBQVVfeXFMT3VEUXlUWVBuWlF1SmhWUVVMSmFwbmwta19EWjJQcHQzWGRPTkhFZ2NsMEhjd3RMd1h5TGN2MU5ISkJjZTlJZVhjbmtYRUkwWXNOLWtZLXZPSF9YWXdhcUI4RDNjLUhmMWc4bGVrZFZJUmtDQ2RRRE94S1E0V1lZZmhMdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-11",
-      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; cnbc.com",
+      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; CNBC",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -1067,13 +1122,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "86184890c9ad8b",
-      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - CNBC",
+      "id": "a6823bc2356060",
+      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNkprMUExRHJNbkQxLXl6ZjdpMmZ1TUd0anN6UVRWSGt1Z3VhaWxpNUtoT1lUOTlJMnN6VWt3bmN6UXVtVUNyZG9qZ1dJdmctek5PTGgwTVM5UE52RXJ3SmZzLVRVbzlmalZHbVpUZkNzTTdvZkZqWjVROFnSAYIBQVVfeXFMT3VEUXlUWVBuWlF1SmhWUVVMSmFwbmwta19EWjJQcHQzWGRPTkhFZ2NsMEhjd3RMd1h5TGN2MU5ISkJjZTlJZVhjbmtYRUkwWXNOLWtZLXZPSF9YWXdhcUI4RDNjLUhmMWc4bGVrZFZJUmtDQ2RRRE94S1E0V1lZZmhMdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-11",
-      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; CNBC",
+      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; cnbc.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -1107,13 +1162,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "dc4f17d88f2f46",
-      "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections - Rio Grande Guardian",
+      "id": "ac669fd64bb79e",
+      "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections - riograndeguardian.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUQtYkF1UEFkMFJtS3FKRUFJb1ZzOFdnUG15c2VNcGdhckxQcXlZOVdIZk9CU2t1TF92VVVwUjdXNUlXMTdqMzNhbVpxbGUyNVBkSmtzd2FsUm0wOWNiTVNIYjNwWkkteDFIVm5YcDJWSzFfenRGcHBIeElPODZJSFFvc0RtWjdsdUdhWmU1bXE4Q1N3MGF3MkYtVXpFakQ5ZFpNRWx3OS1zQjdveU1hREdndUxPSUdNYlp1aFl3U1pUYjh1YlJRMDltWW5oeVE?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-11",
-      "summary": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections &nbsp;&nbsp; Rio Grande Guardian",
+      "summary": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections &nbsp;&nbsp; riograndeguardian.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -1141,6 +1196,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "dc4f17d88f2f46",
+      "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections - Rio Grande Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUQtYkF1UEFkMFJtS3FKRUFJb1ZzOFdnUG15c2VNcGdhckxQcXlZOVdIZk9CU2t1TF92VVVwUjdXNUlXMTdqMzNhbVpxbGUyNVBkSmtzd2FsUm0wOWNiTVNIYjNwWkkteDFIVm5YcDJWSzFfenRGcHBIeElPODZJSFFvc0RtWjdsdUdhWmU1bXE4Q1N3MGF3MkYtVXpFakQ5ZFpNRWx3OS1zQjdveU1hREdndUxPSUdNYlp1aFl3U1pUYjh1YlJRMDltWW5oeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-11",
+      "summary": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections &nbsp;&nbsp; Rio Grande Guardian",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "850d82b8ddd47f",
       "title": "Ayar Labs bags $150M in additional late-stage funding to help make bigger AI chip clusters",
       "url": "https://siliconangle.com/2026/09/10/ayar-labs-bags-150m-in-additional-series-e-funding-to-help-make-bigger-ai-chip-clusters/",
@@ -1158,23 +1230,6 @@
         "$500 million",
         "$150 million",
         "$150M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ac669fd64bb79e",
-      "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections - riograndeguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUQtYkF1UEFkMFJtS3FKRUFJb1ZzOFdnUG15c2VNcGdhckxQcXlZOVdIZk9CU2t1TF92VVVwUjdXNUlXMTdqMzNhbVpxbGUyNVBkSmtzd2FsUm0wOWNiTVNIYjNwWkkteDFIVm5YcDJWSzFfenRGcHBIeElPODZJSFFvc0RtWjdsdUdhWmU1bXE4Q1N3MGF3MkYtVXpFakQ5ZFpNRWx3OS1zQjdveU1hREdndUxPSUdNYlp1aFl3U1pUYjh1YlJRMDltWW5oeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-11",
-      "summary": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections &nbsp;&nbsp; riograndeguardian.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4 Billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -1464,13 +1519,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "85bd60111b4b04",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
+      "id": "065d9f399ecc8c",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -1486,13 +1541,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "065d9f399ecc8c",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
+      "id": "85bd60111b4b04",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -2345,13 +2400,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "6b98eada68bb6e",
-      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - cnbc.com",
+      "id": "ceca85adfea138",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; cnbc.com",
+      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; CNBC",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -2387,6 +2442,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "6b98eada68bb6e",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; cnbc.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "295e3f0e566f99",
       "title": "Google to invest $15 billion AI infrastructure in Finland - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5",
@@ -2400,27 +2476,6 @@
       ],
       "locations": [
         "Finland"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ceca85adfea138",
-      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; CNBC",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
       ],
       "amounts": [
         "$15 billion"
@@ -2907,13 +2962,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0dc449c4136e4",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
+      "id": "9673d87544fda3",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2924,13 +2979,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9673d87544fda3",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
+      "id": "a0dc449c4136e4",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -3891,13 +3946,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d8995b8f2fe262",
-      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - cnbc.com",
+      "id": "2d39dafa659697",
+      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal &nbsp;&nbsp; cnbc.com",
+      "summary": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal &nbsp;&nbsp; CNBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -3910,13 +3965,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2d39dafa659697",
-      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
+      "id": "d8995b8f2fe262",
+      "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal &nbsp;&nbsp; CNBC",
+      "summary": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal &nbsp;&nbsp; cnbc.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -6210,23 +6265,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c8a12b2b141142",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c114371d333746",
       "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlVCaXJUZXZDcGtpMG9ERUF1SXVOV1djTkpMeWNPaVdLOXZPRm1Bb3lTVHhucjhpSlBvcFJnTW90M1ROcno2VmZscTRnQ2VSQTVCZkdBMFFqXzlGMTJMZGwzX0JENDFYWkg5dnZVZVZKNWVUMWF4YzVHalJQZmNVdHBhNDVmNnJWTUpUZjhPR2o2bmcwbjBTM0FmRGw4MDh2UldseUdZeVBiV19wWDM0?oc=5",
@@ -6254,6 +6292,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c8a12b2b141142",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-02",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -7307,6 +7362,40 @@
       "is_high_confidence": true
     },
     {
+      "id": "44c914b7ac5d59",
+      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-08-31",
+      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3793fbde5513d0",
+      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-08-31",
+      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "badba71659a08a",
       "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
@@ -7336,40 +7425,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3793fbde5513d0",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - MLive.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; MLive.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44c914b7ac5d59",
-      "title": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm - timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNN0d2aTZwemFKdFdiQmFqcGRoR0tNZDVNWWdfaGllT1BOc3M1dnZhUDRjNy16NURVUHd1WGEtUHppTlNEREF3TFpIZlNuUWdEd0VUR3hxQ205UlJjVU5iV2RXUXJvekEyZ2VEQXFWMWN6Sm5oVnRGdFoxVG5mQ2ptb0RlNE9CSENNT3JWMDVqbTNxNUJKMnItX0FFUko3X0ZXTnQ3MFJhUWJ4eFJYb0htSFRKQ2h4T2xMQnRidE5ZZVpqLTcxZkhRREZwVzJJMVRtUVVkcWR4dC1hVXEyQlVWVzF0dDIwZXZadjMzU2dscFhsSVhDalFzSWJHbG1XcUxjYlUxbTBVcjYtRG5uNHozSkp2UU1DRVJUSXNfMkRTaWpQQUl6NUpzWE8yVmlpLTRST2xwMmVSSDZJbVl1WklLRnRfX0Qzd196dnV6ZFBQa9IB1AJBVV95cUxNQ1doMVBGVHdScF91R1NLZ2QtWmJ0T2NVUVpJNFkzaEY3MUp4dGt4WHljT0NZbkQzNjBlZ2JGRlgyWmlCdXBZM3lZRk1Hc3JsNWNuZHBVckh0dzA4MjVVNTdjZkVrU1N2MHZPN3RZQXBMcl90OFNhYWx1RmhIR0RFWS1DU283eU1mQ2RjZ09LUXZ6bnBJcFRyZVZKb2FQZkxSWWgyRDNKTXRndlBRUFJXUm1WUUpRYmdCQmxRUXRMSE1hdzNvLU5FMER6OTlQR1RXNUFWZVBIc0lfd25Fd1RsSFUyTm1NUGdLbWszclJfZWtqb25WVllTb29qeUVNZlk2ekNTSzYteXpPUm42U0lCTGxuanhPSVZBOExrVUhMNG16OHFEWmxVYWljSjNuQUJ0VjJWTS1aelhQVXAtRURDWlp2eG5ibExSQUZZWDJKd0g5aElw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-08-31",
-      "summary": "Microsoft sends memo to employees on Data Centers; admits AI making it tough to meet some prior 'environm &nbsp;&nbsp; timesofindia.indiatimes.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -8006,13 +8061,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ecb3b00911d16d",
-      "title": "How Much Data Center Revenue Do AI Companies Earn? - The Motley Fool",
+      "id": "46a72950208767",
+      "title": "How Much Data Center Revenue Do AI Companies Earn? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-28",
-      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; The Motley Fool",
+      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8021,13 +8076,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "46a72950208767",
-      "title": "How Much Data Center Revenue Do AI Companies Earn? - fool.com",
+      "id": "ecb3b00911d16d",
+      "title": "How Much Data Center Revenue Do AI Companies Earn? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkcjRsWW5MN2IxTTFGbmhTZTZ4ekpHTlNaeFBHZkNrTlRkZ29Xek8xY1FwckEzNTZ5MXFWUy0yZHVvNTdPQWM3U3FlemtxU3pMZ2htbTdSSFAzWkxCYkVNUml2bEt4RTB3TDRPSE80QnA?oc=5",
       "source": "GNews: hyperscaler capex earnings guidance",
       "source_cat": "Earnings",
       "date": "2026-08-28",
-      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; fool.com",
+      "summary": "How Much Data Center Revenue Do AI Companies Earn? &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10294,56 +10349,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "1ca29ebe8fdbe1",
-      "title": "Apple refreshes Mac mini, Mac Studio lineups with new chips",
-      "url": "https://siliconangle.com/2026/08/25/apple-refreshes-mac-mini-mac-studio-lineups-with-new-chips/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "Apple Inc. today debuted four custom processors that will power a new generation of Mac computers. The company is bringing to market a new Mac mini miniature desktop and Mac Studio workstation that are both available in two editions. Each edition features a different processor. All the chips include a central processing unit, a graphics [&#8230;] \n The post  Apple refreshes Mac mini, Mac Studio lineups with new chips  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "02263c7cbed211",
-      "title": "Apple's new desktop computers are designed specifically for local AI development",
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-25",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f57fa98b3e5b73",
-      "title": "Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation",
-      "url": "https://siliconangle.com/2026/08/24/nvidia-reportedly-eyes-another-investment-in-perplexity-ai-at-a-30b-valuation/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-24",
-      "summary": "Nvidia Corp. is reportedly considering making another investment in the artificial intelligence search startup Perplexity AI Inc. A report by The Information today says the chipmaker is holding talks with Perplexity about an investment that could push the startup’s valuation to more than $30 billion. That would represent a jump of more than 50% from [&#8230;] \n The post  Nvidia reportedly eyes another investment in Perplexity AI at a $30B valuation  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$30B",
-        "$30 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     }
   ]
 }
