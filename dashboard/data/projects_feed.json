@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-09-16T16:18:35.974990+00:00",
+  "last_updated": "2026-09-16T20:58:06.715313+00:00",
   "finding_count": 600,
-  "new_project_count": 93,
-  "cancellation_count": 13,
+  "new_project_count": 94,
+  "cancellation_count": 14,
   "sec_filing_count": 3,
-  "high_confidence_count": 162,
+  "high_confidence_count": 165,
   "findings": [
+    {
+      "id": "4617fce9b83d99",
+      "title": "AWS ‘Unable To Restore’ Data Centers Hit By Iran Strikes; Partner Hopes Amazon’s $220B Spending Plan Continues - crn.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDA1NkVlV09TTEZFUkhHbGlmV0ZqZHBVY0hzaWFhR0VWRy1sZUlqc0xtWDJpaktTeUFZUVFweWRuWmR1OVNReldvZUtOR0VkRVZIREZTYVpLdXVUaDhSRExrRkY3VVpuTjN6b1JMczRsZ3d1TGhkTTVXZmU2ZEYzNUx5b0VVVktLQWFCTnZWdExiamRYdE5RY3haamVicGNLRTV2YWZYWDNPa0x1VUR1bjlLcjBaRUhKVmhnaklLZlZQOW14c0R4S1YtODRyTGRmVF9yVXlfLURDd1dkdXN6STdR?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-16",
+      "summary": "AWS ‘Unable To Restore’ Data Centers Hit By Iran Strikes; Partner Hopes Amazon’s $220B Spending Plan Continues &nbsp;&nbsp; crn.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$220B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "73bcd034e3967e",
       "title": "Serverfarm expands North American data center development fund to $3.89 billion",
@@ -18,8 +37,46 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$895 million",
-        "$3.89 billion"
+        "$3.89 billion",
+        "$895 million"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "672db7e0c66241",
+      "title": "Rune raises $40M for its modular solar-powered data centers",
+      "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-16",
+      "summary": "Data center hardware maker Rune today announced that it has closed a $40 million funding round led by Spark Capital. The company, which is incorporated as Liitto Technology Inc., also debuted its first product. RELIC, or Renewable Energy Linked Intelligent Compute, is a computing module optimized for artificial intelligence workloads. It’s designed to be installed [&#8230;] \n The post  Rune raises $40M for its modular solar-powered data centers  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$40 million",
+        "$40M"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "452a78182952c6",
+      "title": "TypeSafe AI exits stealth with $40M to build AI for use by software",
+      "url": "https://siliconangle.com/2026/09/16/typesafe-ai-exits-stealth-with-40m-to-build-ai-for-use-by-software/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-16",
+      "summary": "TypeSafe AI Inc., a startup founded by a former OpenAI Group PBC researcher who helped develop ChatGPT, emerged yesterday with $40 million in seed funding and a model designed to put artificial intelligence directly inside software applications. The San Francisco-based company says its first model, called Jev, differs from conventional large language models by producing [&#8230;] \n The post  TypeSafe AI exits stealth with $40M to build AI for use by software  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$40 million",
+        "$40M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -95,6 +152,70 @@
       "is_high_confidence": false
     },
     {
+      "id": "cc3bb406cc8ae4",
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-16",
+      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "92163ad2b8a57d",
+      "title": "Microsoft’s commitment for AI in education",
+      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-16",
+      "summary": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... \n The post  Microsoft’s commitment for AI in education  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cd3fee7558a037",
+      "title": "Scotland's parliament backs defacto, temporary, moratorium on new hyperscale data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/scotland-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-16",
+      "summary": "No plans will be approved until new planning guidance is published",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fba4d561115a13",
+      "title": "An Introduction to Data Center SLAs",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/an-introduction-to-data-center-slas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-16",
+      "summary": "Navigating SLA volatility &amp; protecting data center cash flows",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "935ed439b6eba9",
       "title": "AI growth is highlighting the network as the next data center bottleneck",
       "url": "https://www.datacenterdynamics.com/en/opinions/ai-growth-is-highlighting-the-network-as-the-next-data-center-bottleneck/",
@@ -139,6 +260,40 @@
         "Google",
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "68fca6ad98ba8b",
+      "title": "AWS reimagines the getting started experience",
+      "url": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-16",
+      "summary": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New customers can sign up and get started right away with $100 in Free Tier credits, managed project environments, and simplified team and resource permissions. If their workload evolves, customers can activate advanced features to access the full breadth and depth of AWS in one step, with no migration required.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b02e5dedfb12a0",
+      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-16",
+      "summary": "People and companies are using AI hardware and software to make life easier and more accessible for everyone. That’s the case with smartARM, a Toronto-based startup developing a vision-first bionic arm prototype that uses open-source software, with Meta AI glasses as an optional add-on, to explore more intuitive prosthetic control for people living with limb differences. Many traditional prosthetic hands require users to switch manually between grip patterns for different objects, making it cumb",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -195,6 +350,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "8b89db66fb75c4",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-15",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "37c6f130a9da0f",
       "title": "Bell Canada to Expand Saskatchewan AI Data Center to 1.2GW, Investing Up to C$52.5 Billion - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zbFJyOWFQYTRuU2NZZ0ZwUkxvR043aHY4TW95NUh3Q19tWFd4Ylc4TjU3emg3WXE4dkdweEQ5MGVNakhfWHg3RUtQbW9WN05tbHcxMkRMclZTN2tPWWtPTS1tQXJVSG8zdU03X0lzcjM1anJQTGc?oc=5",
@@ -211,21 +381,6 @@
         "$52.5 Billion",
         "1.2GW"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8b89db66fb75c4",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-09-15",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -297,9 +452,9 @@
         "New York"
       ],
       "amounts": [
-        "1,525MW",
+        "20GW",
         "2.3GW",
-        "20GW"
+        "1,525MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -397,6 +552,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "46bc35bab9de64",
+      "title": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them - newsletter.semianalysis.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfQWJpS2gyQU1Rcmo4VEotQVA3eU4yY1pVbGZ2S3ZiQ0xIeG00STQzeTdOaFNGQl9Ma1k4SmU3UDZGeTlXd1dqVzZvY2Vjd2tpOFVwSnE1Y2ZneEZkWmhERXRDQXFqcTNkak9TN3Z5NTJzM1BRdXgzQWFiR1JxSGM?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-09-15",
+      "summary": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We Mapped All 300 of Them &nbsp;&nbsp; newsletter.semianalysis.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ff545d486175d4",
       "title": "Indian renewable firm Waaree forms new data center subsidiary",
       "url": "https://www.datacenterdynamics.com/en/news/indian-renewable-firm-waaree-forms-new-data-center-subsidiary/",
@@ -404,51 +574,6 @@
       "source_cat": "DC Specialist",
       "date": "2026-09-15",
       "summary": "Has yet to commence operations",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7d3b813596e550",
-      "title": "AirTrunk partners with Emergence Quantum to explore cryogenic cooling in data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-partners-with-emergence-quantum-to-explore-cryogenic-cooling-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Companies buddy up to integrate cryogenic cooling into data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ad5ea86ca4b133",
-      "title": "Are diamonds a data center's best friend?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/are-diamonds-a-data-centers-best-friend/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Akash Systems is bring diamond cooling to the data hall",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e970f871f3cda1",
-      "title": "What should Britain expect from its next generation of data centers?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-should-britain-expect-from-its-next-generation-of-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "How digital infrastructure projects can contribute to communities",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -555,6 +680,51 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7d3b813596e550",
+      "title": "AirTrunk partners with Emergence Quantum to explore cryogenic cooling in data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-partners-with-emergence-quantum-to-explore-cryogenic-cooling-in-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "Companies buddy up to integrate cryogenic cooling into data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad5ea86ca4b133",
+      "title": "Are diamonds a data center's best friend?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/are-diamonds-a-data-centers-best-friend/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "Akash Systems is bring diamond cooling to the data hall",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e970f871f3cda1",
+      "title": "What should Britain expect from its next generation of data centers?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-should-britain-expect-from-its-next-generation-of-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "How digital infrastructure projects can contribute to communities",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2905,32 +3075,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad0b849054543e",
-      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "id": "a92b2c4814f67a",
+      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b78b05babed5a1",
-      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -3000,13 +3151,32 @@
       "is_high_confidence": false
     },
     {
-      "id": "a92b2c4814f67a",
-      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
+      "id": "ad0b849054543e",
+      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b78b05babed5a1",
+      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4151,25 +4321,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "834451a90e0d47",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "2d39dafa659697",
       "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
@@ -4185,6 +4336,25 @@
       "amounts": [
         "$4 billion"
       ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-08",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -6489,13 +6659,30 @@
       "is_high_confidence": false
     },
     {
-      "id": "c8a12b2b141142",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "id": "ee533acb1caa11",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - theglobeandmail.com",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; theglobeandmail.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ccb5c07b51a830",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVER3Y2S2xSeFR5UUxENGhManJfUk5rekhWbW5FMG90NEEzLWN2S1JybE9ZOU1yZUtrTEREYkRLR1laeVF4RVk5d1F6eVgxYmVEM1FlNlNlWXNocVhIQ2dIbmJnMDRwNGFfOUJFRXdQdkw0RzJXLThPTXNlLUFTTWRrMHhkZGRpbUJ6NHlBMVFGN3YxdlF6Yg?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-02",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -6540,13 +6727,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ccb5c07b51a830",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVER3Y2S2xSeFR5UUxENGhManJfUk5rekhWbW5FMG90NEEzLWN2S1JybE9ZOU1yZUtrTEREYkRLR1laeVF4RVk5d1F6eVgxYmVEM1FlNlNlWXNocVhIQ2dIbmJnMDRwNGFfOUJFRXdQdkw0RzJXLThPTXNlLUFTTWRrMHhkZGRpbUJ6NHlBMVFGN3YxdlF6Yg?oc=5",
+      "id": "c8a12b2b141142",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Motley Fool",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -6634,23 +6821,6 @@
       "source_cat": "Company",
       "date": "2026-09-02",
       "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee533acb1caa11",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; theglobeandmail.com",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -10190,177 +10360,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c46b0a0e48a856",
-      "title": "Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2",
-      "url": "https://siliconangle.com/2026/08/25/nvidia-doubles-compute-for-entry-level-edge-robotics-with-jetson-orin-nano-2/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "Nvidia Corp. today announced the release of Jetson Orin Nano 2, a robotics computer “brain” for running artificial intelligence and frontier-level models at the edge. In the past months, foundational AI models have grown smaller and more efficient, adding numerous capabilities alongside language understanding, computer vision and audio processing. As more AI models compress in [&#8230;] \n The post  Nvidia doubles compute for entry-level edge robotics with Jetson Orin Nano 2  appeared first on  S",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1bcfa49dbc2c3d",
-      "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-25",
-      "summary": "Why data center leaders should no longer evaluate surveillance and access systems solely as security investments.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fd782f1b81eaf2",
-      "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-08-25",
-      "summary": "OpenAI&#8217;s self-designed ASIC compared with Rubin, Jalape&#241;o&#8217;s TCO, throughput per MW, and spicy deets",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8c10ee66e3601d",
-      "title": "Happy 20th Birthday, Amazon EC2",
-      "url": "https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "On the 20th Anniversary, we recognize how AWS has continued to push the boundaries of what cloud computing can deliver, building custom silicon for general-purpose and AI workloads and expanding EC2 into new form factors and deployment models that our customers in 2006 could not have imagined.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71554ff4b5f8cd",
-      "title": "New Account Security Features for WhatsApp",
-      "url": "https://about.fb.com/news/2026/08/new-account-security-features-for-whatsapp/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "We’re adding new account security features on WhatsApp like stronger two-step verification and additional context for calls from unknown callers.  \n The post  New Account Security Features for WhatsApp  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e392078979beae",
-      "title": "You can officially buy the Pixel 11 phones and Pixel Watch 5.",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Our new Pixel 11 phones and Pixel Watch 5 are now on shelves at the Google Store and through our retail partners.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a81bfe5a0be56b",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Illustration of ombre rainbow furniture items like a sofa, lamp, and chair against a purple background",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "31c64b86f4aa63",
-      "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Enable Google’s new intelligent dictation feature in the Gemini app for macOS and speak naturally into any window on your desktop.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d2b4cac666c084",
-      "title": "Ready to play? Experience Google Play’s biggest Gamescom showcase yet.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Google Play transforms digital loyalty into real-world prizes at Gamescom with interactive challenges and exclusive rewards.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6151bc5b8a7fe2",
-      "title": "We’re partnering with the State of Delaware to provide free AI and career training.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-25",
-      "summary": "Google partners with Delaware to provide free Career Certificates and AI training to residents statewide.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Delaware"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
