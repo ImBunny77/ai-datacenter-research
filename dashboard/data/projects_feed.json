@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-16T10:58:41.384568+00:00",
+  "last_updated": "2026-09-16T16:18:35.974990+00:00",
   "finding_count": 600,
-  "new_project_count": 92,
+  "new_project_count": 93,
   "cancellation_count": 13,
   "sec_filing_count": 3,
-  "high_confidence_count": 161,
+  "high_confidence_count": 162,
   "findings": [
     {
       "id": "73bcd034e3967e",
@@ -22,6 +22,23 @@
         "$3.89 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "0de6380a461f37",
+      "title": "Goodman raises $455m for its Hong Kong data center partnership",
+      "url": "https://www.datacenterdynamics.com/en/news/goodman-raises-455m-for-its-hong-kong-data-center-partnership/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-16",
+      "summary": "Will fund construction of Hong Kong data center, due to open in 2028",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$455m"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -78,6 +95,38 @@
       "is_high_confidence": false
     },
     {
+      "id": "935ed439b6eba9",
+      "title": "AI growth is highlighting the network as the next data center bottleneck",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-growth-is-highlighting-the-network-as-the-next-data-center-bottleneck/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-16",
+      "summary": "The importance of fiber in establishing new data center hubs in the UK",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "38554de43025b4",
+      "title": "DCD Intelligence: Data Center Workforce Survey Results 2026",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/dcd-intelligence-data-center-workforce-survey-results-2026/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-16",
+      "summary": "Data center growth is outpacing talent",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a45012dbcc440f",
       "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety",
       "url": "https://siliconangle.com/2026/09/15/openai-anthropic-and-google-secretly-joined-forces-to-collaborate-on-ai-safety/",
@@ -90,6 +139,23 @@
         "Google",
         "OpenAI",
         "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "58fa87d3cdbb56",
+      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
+      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-16",
+      "summary": "We’re announcing new Threads tools for podcast creators and listeners, giving you more ways to have conversations around the podcasts you love. \n The post  Threads Expands Podcast Toolkit for Creators and Listeners  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -114,19 +180,19 @@
       "is_high_confidence": false
     },
     {
-      "id": "8b89db66fb75c4",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-09-15",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
+      "id": "343deb7808fc2b",
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-16",
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
+      "confidence": 0,
+      "is_high_confidence": false
     },
     {
       "id": "37c6f130a9da0f",
@@ -145,6 +211,21 @@
         "$52.5 Billion",
         "1.2GW"
       ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8b89db66fb75c4",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-15",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -216,9 +297,9 @@
         "New York"
       ],
       "amounts": [
+        "1,525MW",
         "2.3GW",
-        "20GW",
-        "1,525MW"
+        "20GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -376,70 +457,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ffb973a398a30d",
-      "title": "Sponsored: Why cooling media quality monitoring is becoming a critical part of data center liquid cooling strategies",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-cooling-media-quality-monitoring-is-becoming-a-critical-part-of-data-center-liquid-cooling-strategies/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "While much of the industry discussion focuses on thermal performance and cooling system design, another factor is becoming increasingly important: the quality of the cooling media itself",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bed2f525db7192",
-      "title": "OpenAI hiring for clean energy and new technology lead",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-hiring-for-clean-energy-and-new-technology-lead/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Position is an individual contributor lead role and will initially have no direct reports",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c29b2351abfed2",
-      "title": "Digital Realty, Colovore, Hut 8, CoreSite, and DataBank file to build data centers in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-colovore-hut-8-coresite-and-databank-file-to-build-data-centers-in-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Lone Star State continues to appeal to operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "61eddd268fd2b7",
-      "title": "AVK launches dedicated funding arm to own and operate onsite power solutions for data center customers",
-      "url": "https://www.datacenterdynamics.com/en/news/avk-launches-dedicated-funding-arm-to-own-and-operate-onsite-power-solutions-for-data-center-customers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Dubbed AVK Capital",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b4962cf13d1cb2",
       "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event",
       "url": "https://siliconangle.com/2026/09/15/ai-progress-and-responsibility-nvidia-anthropic-and-openai-ceos-weigh-in-at-salesforces-annual-event/",
@@ -469,40 +486,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d14acbc87b6c7e",
-      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
-      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-15",
-      "summary": "Salesforce Inc. said today at its annual user conference Dreamforce that it has partnered with Nvidia Corp. to train and release Koa, a specialized artificial intelligence model that’s custom built for reasoning about customer relationship management data. Based on Nvidia’s Nemotron model architecture, Koa is designed specifically to help AI agents reason through complex, multistep [&#8230;] \n The post  Salesforce debuts Koa, a specialized model built to reason about CRM data  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b84cc04b3b56cd",
-      "title": "StackHawk’s Wingman fixes security flaws while the AI agent is still coding",
-      "url": "https://siliconangle.com/2026/09/15/stackhawks-wingman-fixes-security-flaws-while-the-ai-agent-is-still-coding/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-15",
-      "summary": "Application security company StackHawk Inc. today launched Wingman, a tool that fixes security vulnerabilities inside the artificial intelligence coding session that produced the flawed code. The software installs into agentic coding workflows, among them Claude Code, Cursor and GitHub Copilot. Wingman fires when a coding agent marks a feature as done. The scanner configures itself, [&#8230;] \n The post  StackHawk&#8217;s Wingman fixes security flaws while the AI agent is still coding  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -571,6 +554,104 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ffb973a398a30d",
+      "title": "Sponsored: Why cooling media quality monitoring is becoming a critical part of data center liquid cooling strategies",
+      "url": "https://www.datacenterdynamics.com/en/opinions/why-cooling-media-quality-monitoring-is-becoming-a-critical-part-of-data-center-liquid-cooling-strategies/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "While much of the industry discussion focuses on thermal performance and cooling system design, another factor is becoming increasingly important: the quality of the cooling media itself",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bed2f525db7192",
+      "title": "OpenAI hiring for clean energy and new technology lead",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-hiring-for-clean-energy-and-new-technology-lead/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "Position is an individual contributor lead role and will initially have no direct reports",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c29b2351abfed2",
+      "title": "Digital Realty, Colovore, Hut 8, CoreSite, and DataBank file to build data centers in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-colovore-hut-8-coresite-and-databank-file-to-build-data-centers-in-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "Lone Star State continues to appeal to operators",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "61eddd268fd2b7",
+      "title": "AVK launches dedicated funding arm to own and operate onsite power solutions for data center customers",
+      "url": "https://www.datacenterdynamics.com/en/news/avk-launches-dedicated-funding-arm-to-own-and-operate-onsite-power-solutions-for-data-center-customers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-15",
+      "summary": "Dubbed AVK Capital",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d14acbc87b6c7e",
+      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
+      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-15",
+      "summary": "Salesforce Inc. said today at its annual user conference Dreamforce that it has partnered with Nvidia Corp. to train and release Koa, a specialized artificial intelligence model that’s custom built for reasoning about customer relationship management data. Based on Nvidia’s Nemotron model architecture, Koa is designed specifically to help AI agents reason through complex, multistep [&#8230;] \n The post  Salesforce debuts Koa, a specialized model built to reason about CRM data  appeared first on ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b84cc04b3b56cd",
+      "title": "StackHawk’s Wingman fixes security flaws while the AI agent is still coding",
+      "url": "https://siliconangle.com/2026/09/15/stackhawks-wingman-fixes-security-flaws-while-the-ai-agent-is-still-coding/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-15",
+      "summary": "Application security company StackHawk Inc. today launched Wingman, a tool that fixes security vulnerabilities inside the artificial intelligence coding session that produced the flawed code. The software installs into agentic coding workflows, among them Claude Code, Cursor and GitHub Copilot. Wingman fires when a coding agent marks a feature as done. The scanner configures itself, [&#8230;] \n The post  StackHawk&#8217;s Wingman fixes security flaws while the AI agent is still coding  appeared ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -879,23 +960,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "9104bac0440803",
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-14",
-      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "b6eb91f27f81f7",
       "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
@@ -943,6 +1007,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9104bac0440803",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-14",
+      "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -1940,28 +2021,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "442436852c710f",
-      "title": "Google plans for $15B AI build-out in Finland - The Arkansas Democrat-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmV4SFZUUFpQS2RseHJjUUVWT2ZKTlRDLXBjNHJfMlBKYVRsZ1dLXzZHeGZrUFNBbWVrYkN4UGFIUzBvVFZ0UVQzRHNXUVFqWWdJVWpuM05VdVd6d0d5QkxuR190alRpOHpodlVGWHhkYy1MRFhrNGh0ZnlVUmVFTVZSUUZUbmUwSkpnbWVnclJndTJqc2pOZg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-10",
-      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; The Arkansas Democrat-Gazette",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Arkansas",
-        "Finland"
-      ],
-      "amounts": [
-        "$15B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "ca2bcefc3a5789",
       "title": "Google is investing over 2 trillion yen in Finland over two years to build three new data centers. - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemVzajJnTzZIYjd1clRSQlFGLTYxNG1CUEs0UXp5WjRVbllYd28tUmt3dlFMazVwbVhPT3BUM3QzblJzUVFHclZxeDNBNjFFZUR5Nk9nTVBSWjA2dS0wd2JMaGExNElTM0s3U3JYeGZkYjVyLXNva1hnZmJxdndFYjhhLTQ4RUsyQVVURA?oc=5",
@@ -1993,6 +2052,28 @@
       "locations": [],
       "amounts": [
         "$10B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "442436852c710f",
+      "title": "Google plans for $15B AI build-out in Finland - The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmV4SFZUUFpQS2RseHJjUUVWT2ZKTlRDLXBjNHJfMlBKYVRsZ1dLXzZHeGZrUFNBbWVrYkN4UGFIUzBvVFZ0UVQzRHNXUVFqWWdJVWpuM05VdVd6d0d5QkxuR190alRpOHpodlVGWHhkYy1MRFhrNGh0ZnlVUmVFTVZSUUZUbmUwSkpnbWVnclJndTJqc2pOZg?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-10",
+      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; The Arkansas Democrat-Gazette",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Arkansas",
+        "Finland"
+      ],
+      "amounts": [
+        "$15B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2522,6 +2603,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0e1e7749378994",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "ceca85adfea138",
       "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
@@ -2559,27 +2661,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0e1e7749378994",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -2805,6 +2886,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "406a742bbef003",
+      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHFqVUxBYVJnaWdudjhTVVZoakRwSUZqbHVKcWFxNlNRT2JNTDdwQk0tT3ppYmxNczFwWXluNDhoVHh4UUR1TlZHSlpWaGpBdDZwMTZsdldCMXVkd0t3eXJWVEl4RmpUVGJ4aHBrT1RpZEt2Umw3dDBXTVQ5VDM2a3c0a1l6QlZVRmxuUzZqLUtaVlVNYUYxanAyZDVlVVpIdUFXbzFuYXhScmNleE9R?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure &nbsp;&nbsp; blog.google",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "ad0b849054543e",
       "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
@@ -2824,13 +2924,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "406a742bbef003",
-      "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHFqVUxBYVJnaWdudjhTVVZoakRwSUZqbHVKcWFxNlNRT2JNTDdwQk0tT3ppYmxNczFwWXluNDhoVHh4UUR1TlZHSlpWaGpBdDZwMTZsdldCMXVkd0t3eXJWVEl4RmpUVGJ4aHBrT1RpZEt2Umw3dDBXTVQ5VDM2a3c0a1l6QlZVRmxuUzZqLUtaVlVNYUYxanAyZDVlVVpIdUFXbzFuYXhScmNleE9R?oc=5",
+      "id": "b78b05babed5a1",
+      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure &nbsp;&nbsp; blog.google",
+      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -2907,25 +3007,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b78b05babed5a1",
-      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4070,6 +4151,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-08",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "2d39dafa659697",
       "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
@@ -4085,25 +4185,6 @@
       "amounts": [
         "$4 billion"
       ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "834451a90e0d47",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -6408,13 +6489,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ccb5c07b51a830",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVER3Y2S2xSeFR5UUxENGhManJfUk5rekhWbW5FMG90NEEzLWN2S1JybE9ZOU1yZUtrTEREYkRLR1laeVF4RVk5d1F6eVgxYmVEM1FlNlNlWXNocVhIQ2dIbmJnMDRwNGFfOUJFRXdQdkw0RzJXLThPTXNlLUFTTWRrMHhkZGRpbUJ6NHlBMVFGN3YxdlF6Yg?oc=5",
+      "id": "c8a12b2b141142",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Motley Fool",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -6459,13 +6540,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c8a12b2b141142",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
+      "id": "ccb5c07b51a830",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVER3Y2S2xSeFR5UUxENGhManJfUk5rekhWbW5FMG90NEEzLWN2S1JybE9ZOU1yZUtrTEREYkRLR1laeVF4RVk5d1F6eVgxYmVEM1FlNlNlWXNocVhIQ2dIbmJnMDRwNGFfOUJFRXdQdkw0RzJXLThPTXNlLUFTTWRrMHhkZGRpbUJ6NHlBMVFGN3YxdlF6Yg?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -9751,13 +9832,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "85f6587b3f13ab",
-      "title": "Top 10: Hyperscale Data Centre Companies - datacentremagazine.com",
+      "id": "b2d8365eb76a9f",
+      "title": "Top 10: Hyperscale Data Centre Companies - Data Centre Magazine",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUdRaDRSU19NWmZ0OFFsYTNfaWlmVXN2MmJXdlZBUzJReXA3dS1hbS1RSnhad1FNZDBSU2czWFlkV3IzVWt5Q2JWODNJOEhoUnZzT0dDQ25ySk5PNmNqVF82aGtZbUNpaVlONlJ3SGtVWEp5UC1kTV9ocjFnMm9GSExn?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-08-26",
-      "summary": "Top 10: Hyperscale Data Centre Companies &nbsp;&nbsp; datacentremagazine.com",
+      "summary": "Top 10: Hyperscale Data Centre Companies &nbsp;&nbsp; Data Centre Magazine",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9766,13 +9847,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "b2d8365eb76a9f",
-      "title": "Top 10: Hyperscale Data Centre Companies - Data Centre Magazine",
+      "id": "85f6587b3f13ab",
+      "title": "Top 10: Hyperscale Data Centre Companies - datacentremagazine.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUdRaDRSU19NWmZ0OFFsYTNfaWlmVXN2MmJXdlZBUzJReXA3dS1hbS1RSnhad1FNZDBSU2czWFlkV3IzVWt5Q2JWODNJOEhoUnZzT0dDQ25ySk5PNmNqVF82aGtZbUNpaVlONlJ3SGtVWEp5UC1kTV9ocjFnMm9GSExn?oc=5",
-      "source": "GNews: Amazon AWS data center",
+      "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-08-26",
-      "summary": "Top 10: Hyperscale Data Centre Companies &nbsp;&nbsp; Data Centre Magazine",
+      "summary": "Top 10: Hyperscale Data Centre Companies &nbsp;&nbsp; datacentremagazine.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10278,91 +10359,6 @@
       "locations": [
         "Delaware"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b195fff487c6f6",
-      "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-25",
-      "summary": "It's currently only appearing on Pixels running Android 17.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "709001df51f730",
-      "title": "AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into production",
-      "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "The artificial intelligence infrastructure market is crossing an important threshold. The conversation is shifting from acquiring graphics processing units to building complete AI factories that can generate tokens reliably, efficiently and at scale. This is the next bottleneck. GPUs may be the engine, but an AI factory is a system. Compute, networking, storage, cooling, software [&#8230;] \n The post  AI factories enter the execution era as Cisco and Nvidia push rack-scale systems into productio",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c01c67b8670ce1",
-      "title": "Nvidia and Cisco push the enterprise AI factory into the rack-scale era",
-      "url": "https://siliconangle.com/2026/08/25/nvidia-cisco-rack-scale-ai-factory-cisconvidiaaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "The Cisco Secure AI Factory with Nvidia has been extended into the rack-scale era, offering enterprises greater full-stack operational capabilities as a result. Designed to give customers a framework for deploying artificial intelligence across their entire infrastructure, Secure AI Factory with Nvidia from Cisco Systems Inc. now integrates rack-to-fabric liquid cooling supporting systems beyond 200 [&#8230;] \n The post  Nvidia and Cisco push the enterprise AI factory into the rack-scale era  ap",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b99a4a33f4d4d0",
-      "title": "Cisco and Nvidia take AI factories from rack to runtime",
-      "url": "https://siliconangle.com/2026/08/25/cisco-and-nvidia-take-ai-factories-from-rack-to-runtime-cisconvidiaaifactory/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "AI factories are moving from ambitious plans toward production, but the path from graphics processing unit acquisition to usable systems remains a race against time. Neoclouds already have customers waiting for capacity, enterprises are looking to bring inference workloads closer to home and sovereign AI programs are being built now. Those distinct buyer motions are [&#8230;] \n The post  Cisco and Nvidia take AI factories from rack to runtime  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b79d87ec7e1e2c",
-      "title": "Nvidia NemoClaw flaw let attackers poison the model behind a developer’s AI agent",
-      "url": "https://siliconangle.com/2026/08/25/nvidia-nemoclaw-flaw-let-attackers-poison-the-model-behind-a-developers-ai-agent/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-25",
-      "summary": "Researchers at nonhuman identity security company Oasis Security Ltd. today disclosed a vulnerability in Nvidia Corp.&#8217;s NemoClaw that hands an attacker full control of the local model server powering a developer&#8217;s AI agent. The vulnerability, tracked as CVE-2026-65105, can be triggered by one visit to a malicious website. Oasis reported it to Nvidia&#8217;s Product Security [&#8230;] \n The post  Nvidia NemoClaw flaw let attackers poison the model behind a developer&#8217;s AI agent  ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
