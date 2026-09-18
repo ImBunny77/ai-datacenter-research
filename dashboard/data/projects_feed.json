@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-18T14:09:03.559674+00:00",
+  "last_updated": "2026-09-18T18:55:05.304565+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
-  "cancellation_count": 15,
+  "new_project_count": 93,
+  "cancellation_count": 18,
   "sec_filing_count": 3,
-  "high_confidence_count": 156,
+  "high_confidence_count": 149,
   "findings": [
     {
       "id": "78951e4a9dacf8",
@@ -20,12 +20,31 @@
       ],
       "locations": [],
       "amounts": [
-        "$30.9B",
         "$30.9 billion",
         "$3.9 billion",
-        "$3.9B"
+        "$3.9B",
+        "$30.9B"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1f022eeb21de4e",
+      "title": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace - DeSoto County News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1ZYdTN3WXBtNWtMWm5saDJjSDcta3hJMHBnekl5bDZjLUZISDYxTmFoYWRYMm53c0tjMDJFM0RabW9VRi16WVVxRHc5VU0zd2FXNlpZMHpfUjQzMkV6R25ITlZNYWhEUk9FTVpyT0pHdHlTQ01ydHVGMzNyZFhzQnNCbFhmNkVQdFRjVHBkcXY0RktzVUdWNzVCOTJqeU5DT2ZQMFNQc3lON2VOT0dxN1EzeHpnRWRjVkZYSS1jcmFzRFNBSzBoTjU5aVlCbGo3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-18",
+      "summary": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace &nbsp;&nbsp; DeSoto County News",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Mississippi"
+      ],
+      "amounts": [
+        "$528M"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -105,6 +124,56 @@
       "is_high_confidence": true
     },
     {
+      "id": "2c797208582ca2",
+      "title": "Virginia’s Loudoun County board votes to pause new data center applications",
+      "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-board-votes-to-pause-new-data-center-applications/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "County introduces 12-month moratorium in data center hotspot",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Virginia",
+        "Loudoun"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "12417fe3557597",
+      "title": "Hidden costs",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/2026-guide-to-navigating-data-center-supply-chain-complexity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "2026 guide to navigating data center supply chain complexity",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "337060efbeb68e",
+      "title": "What to expect during CoreWeave’s ‘Fully Connected’ event: Join theCUBE Sept. 30-Oct. 1",
+      "url": "https://siliconangle.com/2026/09/18/cloud-platform-coreweave-ai-thecube-fullyconnected/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-18",
+      "summary": "In the growing AI ecosystem, specialized cloud platform provider CoreWeave Inc. is defining its role as a cost-efficient resource for companies seeking to deploy AI with less investment and effort. Two announcements over the past five months stand out as key indicators in this regard. The first was CoreWeave&#8217;s launch in May of a new offering [&#8230;] \n The post  What to expect during CoreWeave&#8217;s &#8216;Fully Connected&#8217; event: Join theCUBE Sept. 30-Oct. 1  appeared first on  Si",
+      "finding_type": "New Project",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "65f172ea3a1284",
       "title": "Tokenized stock trading is about to take off after SEC issues five-year exemption from securities laws",
       "url": "https://siliconangle.com/2026/09/17/tokenized-stock-trading-is-about-to-take-off-after-sec-issues-five-year-exemption-from-securities-laws/",
@@ -119,6 +188,117 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "09590dec661c6a",
+      "title": "Brazil's President Lula signs ReData data center bill into law",
+      "url": "https://www.datacenterdynamics.com/en/news/president-lula-signs-bill-at-the-planalto-palace/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "The bill was passed by the Senate in September",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Brazil"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d863baf6f933d5",
+      "title": "Brazil's Eveo plans data center in Recife",
+      "url": "https://www.datacenterdynamics.com/en/news/eveo-accelerates-expansion-in-the-northeast-and-will-have-a-tier-iii-data-center-in-recife/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "Company adding to sites in Fortaleza, São Paulo, and Curitiba",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Brazil"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "32152ba95f0a68",
+      "title": "DCD Intelligence: Data center expansion is outpacing talent",
+      "url": "https://www.datacenterdynamics.com/en/news/dcd-intelligence-data-center-expansion-is-outpacing-talent/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "More than two-thirds report staffing below operational requirements",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "55c4a4b958992c",
+      "title": "PGIM sells data center development site in Munich",
+      "url": "https://www.datacenterdynamics.com/en/news/pgim-sells-data-center-development-site-in-munich/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "Buyer unnamed",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "35de5317e12731",
+      "title": "Enabling the next generation of AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/enabling-the-next-generation-of-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "As demands for AI continue to shift, so does the planning for the data centers expected to support this growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "46c2b404b2aca8",
+      "title": "Google inks multi-million ton carbon removal deal with ERW firm Terradot",
+      "url": "https://www.datacenterdynamics.com/en/news/google-inks-multi-million-ton-carbon-removal-deal-with-erw-firm-terradot/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "The hyperscaler's largest carbon removal deal to date",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "978d5d1fc1c4c2",
+      "title": "Gazprom partners with Crypto Energy to deploy modular data center at gas field in Siberia - report",
+      "url": "https://www.datacenterdynamics.com/en/news/gazprom-partners-with-crypto-energy-to-deploy-modular-data-center-at-gas-field-in-siberia-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-18",
+      "summary": "The pilot project will utilize gas from a depleted field in the Yamalo-Nenets Autonomous Okrug region",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -151,6 +331,74 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ad5044b9194883",
+      "title": "Researchers used Claude to hack OpenAI",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-18",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5da476581bcdb6",
+      "title": "Earn continuing education and college credits for AI educator training.",
+      "url": "https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-18",
+      "summary": "Earn college or continuing education credits by taking the Google AI Educator Series courses.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dfffec1d3f789c",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-18",
+      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b93bf1f00eb3cf",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-18",
+      "summary": "Jane Wade and Sergio Hudson",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -203,40 +451,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "dfffec1d3f789c",
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-18",
-      "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b93bf1f00eb3cf",
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-18",
-      "summary": "Jane Wade and Sergio Hudson",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ed0b9172f92033",
       "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
@@ -267,8 +481,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$100 million",
-        "$100M"
+        "$100M",
+        "$100 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -294,6 +508,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "0a6d777e173da6",
+      "title": "Nvidia, Google and Emerald AI launch flexible data center consortium",
+      "url": "https://siliconangle.com/2026/09/17/nvidia-google-and-emerald-ai-launch-flexible-data-center-consortium/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-17",
+      "summary": "Nvidia Corp., Google LLC and software startup Emerald AI Inc. have formed an industry consortium to promote the construction of flexible data centers. The AI Energy Management Alliance, or AEMA, officially launched on Wednesday. A flexible data center is a facility that cuts its power draw when the electrical grid is under strain. That usage [&#8230;] \n The post  Nvidia, Google and Emerald AI launch flexible data center consortium  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "fbb2b326d22670",
       "title": "Google considers data center development in New Mexico",
       "url": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/",
@@ -308,24 +540,6 @@
       "locations": [
         "New Mexico"
       ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a6d777e173da6",
-      "title": "Nvidia, Google and Emerald AI launch flexible data center consortium",
-      "url": "https://siliconangle.com/2026/09/17/nvidia-google-and-emerald-ai-launch-flexible-data-center-consortium/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-17",
-      "summary": "Nvidia Corp., Google LLC and software startup Emerald AI Inc. have formed an industry consortium to promote the construction of flexible data centers. The AI Energy Management Alliance, or AEMA, officially launched on Wednesday. A flexible data center is a facility that cuts its power draw when the electrical grid is under strain. That usage [&#8230;] \n The post  Nvidia, Google and Emerald AI launch flexible data center consortium  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -416,56 +630,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c88eb369fd1b99",
-      "title": "The companies that are cooling on gas",
-      "url": "https://www.datacenterdynamics.com/en/analysis/the-companies-that-are-cooling-on-gas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-17",
-      "summary": "Data centers could be attached to gas pipelines",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b55a020e7c2b48",
-      "title": "800VDC protection in data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/800vdc-protection-in-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-17",
-      "summary": "Unlocking next-gen AI data center efficiency",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8eb7fba165db88",
-      "title": "Microsoft files to develop two-building campus outside Atlanta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-develop-two-building-campus-outside-atlanta-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-17",
-      "summary": "Expanding plans in Union City",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Georgia",
-        "Atlanta"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -620,6 +784,56 @@
         "Amazon"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c88eb369fd1b99",
+      "title": "The companies that are cooling on gas",
+      "url": "https://www.datacenterdynamics.com/en/analysis/the-companies-that-are-cooling-on-gas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-17",
+      "summary": "Data centers could be attached to gas pipelines",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b55a020e7c2b48",
+      "title": "800VDC protection in data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/800vdc-protection-in-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-17",
+      "summary": "Unlocking next-gen AI data center efficiency",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8eb7fba165db88",
+      "title": "Microsoft files to develop two-building campus outside Atlanta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-develop-two-building-campus-outside-atlanta-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-17",
+      "summary": "Expanding plans in Union City",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Georgia",
+        "Atlanta"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -880,6 +1094,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "207a5aeafcd915",
+      "title": "Microsoft’s commitment for AI in education: Protecting students, strengthening learning",
+      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-16",
+      "summary": "Microsoft has been in the business of education for five decades. Since the earliest days of this company, we have worked alongside educators, students, families and educational leaders through each new wave of technology — and we have learned what helps learning and what gets in the way. That commitment continues today, in a technological... \n The post  Microsoft’s commitment for AI in education: Protecting students, strengthening learning  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "17717e58ef12f4",
       "title": "Microsoft’s commitment for AI in education; protecting students, strengthening learning",
       "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
@@ -926,25 +1157,6 @@
         "Anthropic"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "90385918c9209f",
-      "title": "California may gut state net neutrality law to comply with Trump admin demand",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-16",
-      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "California"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1013,6 +1225,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "90385918c9209f",
+      "title": "California may gut state net neutrality law to comply with Trump admin demand",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-16",
+      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "California"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1231,8 +1462,8 @@
         "New York"
       ],
       "amounts": [
-        "1,525MW",
         "20GW",
+        "1,525MW",
         "2.3GW"
       ],
       "confidence": 5,
@@ -2367,6 +2598,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "a0b5e535239551",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-11",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; KRGV",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "ac669fd64bb79e",
       "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections - riograndeguardian.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUQtYkF1UEFkMFJtS3FKRUFJb1ZzOFdnUG15c2VNcGdhckxQcXlZOVdIZk9CU2t1TF92VVVwUjdXNUlXMTdqMzNhbVpxbGUyNVBkSmtzd2FsUm0wOWNiTVNIYjNwWkkteDFIVm5YcDJWSzFfenRGcHBIeElPODZJSFFvc0RtWjdsdUdhWmU1bXE4Q1N3MGF3MkYtVXpFakQ5ZFpNRWx3OS1zQjdveU1hREdndUxPSUdNYlp1aFl3U1pUYjh1YlJRMDltWW5oeVE?oc=5",
@@ -2849,23 +3097,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a0b5e535239551",
-      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; KRGV",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4 billion"
-      ],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -4167,6 +4398,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "6a3dbb0f6b1158",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "86837478a65659",
       "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
@@ -4198,25 +4448,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6a3dbb0f6b1158",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -7453,9 +7684,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "b852ef6345edbe",
+      "id": "c8a12b2b141142",
       "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
@@ -7504,6 +7735,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b852ef6345edbe",
+      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-02",
+      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ccb5c07b51a830",
       "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYlVER3Y2S2xSeFR5UUxENGhManJfUk5rekhWbW5FMG90NEEzLWN2S1JybE9ZOU1yZUtrTEREYkRLR1laeVF4RVk5d1F6eVgxYmVEM1FlNlNlWXNocVhIQ2dIbmJnMDRwNGFfOUJFRXdQdkw0RzJXLThPTXNlLUFTTWRrMHhkZGRpbUJ6NHlBMVFGN3YxdlF6Yg?oc=5",
@@ -7545,23 +7793,6 @@
       "source_cat": "Company",
       "date": "2026-09-02",
       "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; fool.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c8a12b2b141142",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
       "finding_type": "Statement / Update",
       "companies": [
         "CoreWeave"
@@ -8722,23 +8953,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a14723f3688445",
-      "title": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers - news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BbjhWZk9FVVU4RUsyMTh3dUl2bFEwa09xVWhVbk83LThQX2E5Q2xKMVZma1pLU1FLaTVyaWUtSDBRTXY1Vkl2NjdSc3hmT3BRUUZRaEZlWlB2c2hhNktYM3B2ckRsa2ZDT2FuRFhR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-31",
-      "summary": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers &nbsp;&nbsp; news.sbs.co.kr",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ca78c0eac72a9a",
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
       "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
@@ -8766,6 +8980,23 @@
       "finding_type": "SEC Filing",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a14723f3688445",
+      "title": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BbjhWZk9FVVU4RUsyMTh3dUl2bFEwa09xVWhVbk83LThQX2E5Q2xKMVZma1pLU1FLaTVyaWUtSDBRTXY1Vkl2NjdSc3hmT3BRUUZRaEZlWlB2c2hhNktYM3B2ckRsa2ZDT2FuRFhR?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-08-31",
+      "summary": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers &nbsp;&nbsp; news.sbs.co.kr",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -10112,244 +10343,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "8756220221ff6c",
-      "title": "Nexspace breaks ground on data center in Graz, Austria",
-      "url": "https://www.datacenterdynamics.com/en/news/nexspace-breaks-ground-on-data-center-in-graz-austria/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Company expanding footprint in city with second facility",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78784a1a43006d",
-      "title": "Google names 28 startups as part of second AI for Energy Accelerator program",
-      "url": "https://www.datacenterdynamics.com/en/news/google-names-28-startups-as-part-of-second-ai-for-energy-accelerator-program/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Selects 12 companies in the US and 16 in Europe",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1be852b0f58a86",
-      "title": "Data center start up Fossefall taps Armada for AI data center deployments",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-start-up-fossefall-taps-armada-for-ai-data-center-deployments/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Will deploy five Leviathan modular data centers in the Nordics",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8492ca4331008c",
-      "title": "New German operator Data Center Capital launches",
-      "url": "https://www.datacenterdynamics.com/en/news/new-german-operator-data-center-capital-launches/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Former Nexspace CEO back with venture",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1143896fac6464",
-      "title": "LG CNS deploys direct-to-chip cooling for Naver Cloud at data center in Goyang City, South Korea",
-      "url": "https://www.datacenterdynamics.com/en/news/lg-cns-deploys-direct-to-chip-cooling-for-naver-cloud-at-data-center-in-goyang-city-south-korea/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Naver signed lease agreement at site in April",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a11b55766d6771",
-      "title": "Sponsored: The architecture advantage: Rethinking power for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-architecture-advantage-rethinking-power-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "Reliable components alone no longer guarantee a reliable campus. In the AI era, resilience increasingly depends on how power systems are architected to perform together",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f21ce13eed0482",
-      "title": "Columbia County advances $17 billion data center deal - wrdw.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; wrdw.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$17 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "becb2e7593723d",
-      "title": "Columbia County advances $17 billion data center deal - WRDW",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGM5OHU5YmpaVmU5RXc1LWs3Wno0TklrNmRJRzFZSFh4TC1YSzJkNE9ucFcwOVl3aldfYWFid05rMkpDM3luZEFjVFJsdnZKbDF6QkxuZE1kV0MxYnVoblhkV29rSUVKUmhLbk95Sl91NVNkMU5SaXJPWWRua2dXd2M5TmlXdXBRMGFuR1JB0gGiAUFVX3lxTE0tdFh4VXZjaEV3YWd1WWJkcFliRHNYWko1MEhEYzIwdm5IaU10UnMxMHd5RXBuNXI4ZFRHWFozUjNvU2EwRzgzbTFQQnBNMzR1Y19RQm1zMUo4U3VzRVFZcnRiN1VoT2RITHpmUXJYUnZaYlE0a091VEt5Q3lzNUpIY2E4cU5NVTdSYURKbXRJVlkta0NvSVlrWENGWUZRQmRjUQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-08-26",
-      "summary": "Columbia County advances $17 billion data center deal &nbsp;&nbsp; WRDW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$17 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "82d29d6895b2b7",
-      "title": "This $11 Billion ETF Owns the Companies Wiring America’s $68 Billion Data Center Boom - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVRGS0x3aFk2SGtacFFFSlIzOHc1LTRjbEgydWtXMmRDTUhqMlVMVWo3NWpQZ2dSLU0zS3lQTmYxb1BscWJNa2dTaWFQdnczOFFPNVRCR0V2ZTVNVExHbVROQ0hBTWtST1F5VDR2TzE4NUd2dEFJNkZjcHhsY1ZnYUZMd2lSY2J2M1JnSnRpQXpOVGtDSWtlbnBuQk5paTRGalRUS0k0TkcwU1JrblRFREl2cTVDN1JWaW1wTU1wRWh0ZVFmdHVCN1JB?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-08-26",
-      "summary": "This $11 Billion ETF Owns the Companies Wiring America’s $68 Billion Data Center Boom &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$68 Billion",
-        "$11 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "38ef82b72b30ae",
-      "title": "This $11 Billion ETF Owns the Companies Wiring America’s $68 Billion Data Center Boom - 247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVRGS0x3aFk2SGtacFFFSlIzOHc1LTRjbEgydWtXMmRDTUhqMlVMVWo3NWpQZ2dSLU0zS3lQTmYxb1BscWJNa2dTaWFQdnczOFFPNVRCR0V2ZTVNVExHbVROQ0hBTWtST1F5VDR2TzE4NUd2dEFJNkZjcHhsY1ZnYUZMd2lSY2J2M1JnSnRpQXpOVGtDSWtlbnBuQk5paTRGalRUS0k0TkcwU1JrblRFREl2cTVDN1JWaW1wTU1wRWh0ZVFmdHVCN1JB?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-08-26",
-      "summary": "This $11 Billion ETF Owns the Companies Wiring America’s $68 Billion Data Center Boom &nbsp;&nbsp; 247wallst.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$68 Billion",
-        "$11 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8d111163d019eb",
-      "title": "Meta settles closely watched social media addiction lawsuit for $18B",
-      "url": "https://siliconangle.com/2026/08/26/meta-settles-closely-watched-social-media-addiction-lawsuit-for-18b/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-26",
-      "summary": "Meta Platforms Inc. will pay $18 billion to settle a lawsuit that accused it of making children addicted to Facebook and Instagram. The case was brought in 2023 by 29 state attorneys general. Meta signed today’s settlement with the attorneys general of 48 states plus the District of Columbia, Puerto Rico, American Samoa and the [&#8230;] \n The post  Meta settles closely watched social media addiction lawsuit for $18B  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$18 billion",
-        "$18B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9ba2aae178a45b",
-      "title": "MTN forms data center partnership with unnamed investor",
-      "url": "https://www.datacenterdynamics.com/en/news/mtn-forms-data-center-partnership-with-unnamed-investor/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-26",
-      "summary": "Pan-African telco said to be targeting more than 150MW of new capacity in first phase",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "150MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "243b51600bf681",
-      "title": "WhiteFiber Signs $60 Million Deal to Buy North Carolina Sites for Data Centers - Minichart",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT21zeWQ4MEh4Z3VTUTRKZEdkSUhwaUgxazRqcFFJV1UxckxpNWtmcHVGZXhhSzVjaFRSY0xWbk1rMFlqd1VtbXZ4WGRJVnVIVVpOTTV2OUlZZmdEbTRtUnBwSkFwcTlHaUlNSHFkR3FhVVROMG9VUmRha1JqYjh4ZHgyVFdCb3BNbk12bGRoZ0RjNF9sYk11c0lWU1l1MW42Q2Y3eGlTaHM5NXpyd21OMWtYSEUyRVcxeVE?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-08-26",
-      "summary": "WhiteFiber Signs $60 Million Deal to Buy North Carolina Sites for Data Centers &nbsp;&nbsp; Minichart",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [
-        "$60 Million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d62c718e477130",
-      "title": "WhiteFiber Signs $60 Million Deal to Buy North Carolina Sites for Data Centers - minichart.com.sg",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT21zeWQ4MEh4Z3VTUTRKZEdkSUhwaUgxazRqcFFJV1UxckxpNWtmcHVGZXhhSzVjaFRSY0xWbk1rMFlqd1VtbXZ4WGRJVnVIVVpOTTV2OUlZZmdEbTRtUnBwSkFwcTlHaUlNSHFkR3FhVVROMG9VUmRha1JqYjh4ZHgyVFdCb3BNbk12bGRoZ0RjNF9sYk11c0lWU1l1MW42Q2Y3eGlTaHM5NXpyd21OMWtYSEUyRVcxeVE?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-08-26",
-      "summary": "WhiteFiber Signs $60 Million Deal to Buy North Carolina Sites for Data Centers &nbsp;&nbsp; minichart.com.sg",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "North Carolina"
-      ],
-      "amounts": [
-        "$60 Million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
