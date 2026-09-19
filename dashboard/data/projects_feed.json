@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-09-18T22:21:33.640367+00:00",
+  "last_updated": "2026-09-19T03:34:27.053330+00:00",
   "finding_count": 600,
-  "new_project_count": 93,
+  "new_project_count": 94,
   "cancellation_count": 18,
   "sec_filing_count": 3,
-  "high_confidence_count": 149,
+  "high_confidence_count": 150,
   "findings": [
+    {
+      "id": "9bd829eda8451f",
+      "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
+      "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-19",
+      "summary": "Nscale Global Holdings Ltd. today filed to go public on the New York Stock Exchange. The company, which builds data centers optimized for artificial intelligence workloads, didn’t reveal how much it hopes to raise. Last month, sources told Bloomberg that Nscale is seeking up to $3 billion. The company was valued at $14.6 billion in [&#8230;] \n The post  Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [
+        "$14.6 billion",
+        "$3 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "78951e4a9dacf8",
       "title": "AI data center builder Crusoe valued at $30.9B in $3.9B round",
@@ -20,22 +42,22 @@
       ],
       "locations": [],
       "amounts": [
-        "$3.9B",
         "$3.9 billion",
         "$30.9 billion",
+        "$3.9B",
         "$30.9B"
       ],
       "confidence": 9,
       "is_high_confidence": true
     },
     {
-      "id": "1f022eeb21de4e",
-      "title": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace - DeSoto County News",
+      "id": "e0ef31e1420f5b",
+      "title": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace - desotocountynews.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1ZYdTN3WXBtNWtMWm5saDJjSDcta3hJMHBnekl5bDZjLUZISDYxTmFoYWRYMm53c0tjMDJFM0RabW9VRi16WVVxRHc5VU0zd2FXNlpZMHpfUjQzMkV6R25ITlZNYWhEUk9FTVpyT0pHdHlTQ01ydHVGMzNyZFhzQnNCbFhmNkVQdFRjVHBkcXY0RktzVUdWNzVCOTJqeU5DT2ZQMFNQc3lON2VOT0dxN1EzeHpnRWRjVkZYSS1jcmFzRFNBSzBoTjU5aVlCbGo3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-18",
-      "summary": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace &nbsp;&nbsp; DeSoto County News",
+      "summary": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace &nbsp;&nbsp; desotocountynews.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -48,13 +70,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "e0ef31e1420f5b",
-      "title": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace - desotocountynews.com",
+      "id": "1f022eeb21de4e",
+      "title": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace - DeSoto County News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1ZYdTN3WXBtNWtMWm5saDJjSDcta3hJMHBnekl5bDZjLUZISDYxTmFoYWRYMm53c0tjMDJFM0RabW9VRi16WVVxRHc5VU0zd2FXNlpZMHpfUjQzMkV6R25ITlZNYWhEUk9FTVpyT0pHdHlTQ01ydHVGMzNyZFhzQnNCbFhmNkVQdFRjVHBkcXY0RktzVUdWNzVCOTJqeU5DT2ZQMFNQc3lON2VOT0dxN1EzeHpnRWRjVkZYSS1jcmFzRFNBSzBoTjU5aVlCbGo3?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-18",
-      "summary": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace &nbsp;&nbsp; desotocountynews.com",
+      "summary": "Battery plant delays, a $528M Hitachi investment, Walls data center: Mississippi Marketplace &nbsp;&nbsp; DeSoto County News",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -331,6 +353,23 @@
       "locations": [
         "New York"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4645e649b815ee",
+      "title": "Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude",
+      "url": "https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-18",
+      "summary": "Three cybersecurity researchers used Claude to breach OpenAI Group PBC’s GitHub repository. Sources told the Wall Street Journal today that the repository contains “OpenAI’s algorithmic secrets.” The files were accessible until June 24, the day the researchers reported their findings to the company. OpenAI released a patch within 14 hours of receiving the tip. The [&#8230;] \n The post  Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude  appeared first on  SiliconANG",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1162,23 +1201,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "10bdeb92d28a11",
-      "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
-      "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-16",
-      "summary": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork. The merger, which went into effect immediately, came as the company introduced two new features in beta. They’re called Claude Docs and Claude Slides, and they’re being integrated [&#8230;] \n The post  Anthropic brings Cowork directly inside Claude&#8217;s chat interface  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "68fca6ad98ba8b",
       "title": "AWS reimagines the getting started experience",
       "url": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
@@ -1240,6 +1262,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "10bdeb92d28a11",
+      "title": "Anthropic brings Cowork directly inside Claude’s chat interface",
+      "url": "https://siliconangle.com/2026/09/16/anthropic-brings-cowork-directly-inside-claudes-chat-interface/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-16",
+      "summary": "Anthropic PBC said today it’s trying to make life simpler for its customers by merging its regular chatbot Claude with its agentic artificial intelligence tool Claude Cowork. The merger, which went into effect immediately, came as the company introduced two new features in beta. They’re called Claude Docs and Claude Slides, and they’re being integrated [&#8230;] \n The post  Anthropic brings Cowork directly inside Claude&#8217;s chat interface  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1480,8 +1519,8 @@
       ],
       "amounts": [
         "2.3GW",
-        "1,525MW",
-        "20GW"
+        "20GW",
+        "1,525MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2615,6 +2654,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "8666f79e8f8c7a",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-11",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; krgv.com",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "a0b5e535239551",
       "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
@@ -3016,27 +3072,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "0e1e7749378994",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-10",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "3fb43bd0252c0a",
       "title": "Sales automation startup Clay boosts valuation to $7.1B in $115M funding round",
       "url": "https://siliconangle.com/2026/09/09/sales-automation-startup-clay-boosts-valuation-to-7-1b-in-115m-funding-round/",
@@ -3101,13 +3136,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "4f6387e56a0fe1",
-      "title": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub - itpro.com",
+      "id": "ad9867f9585b01",
+      "title": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub - IT Pro",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclo4a0NyX1JheDFHd1pUd3RLNGdsNVl5eUZfVDkwOXRZTlhlOGxBcDdBTmZ4QkxVbS1wWTYwQ2w4OHdjYmdndm5WbklMYTVzVHNvWGtwRy1iemxzU1lsNGtMSDVZczg4YU1IeTRYTzRnV0w0bldKTkVxOUlPTWR6bFJld04tS0tDWUVkV3ZveVk0eWVoYXB1UTk2Wjc3M1NZY19HRFcyUkFJSW02Y1U5MGgwY3YtUmdvTUh6UzNmWkhma3FKa2VhdndlRWRvVkpCQmEzeHdiTkFsejFH?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub &nbsp;&nbsp; itpro.com",
+      "summary": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub &nbsp;&nbsp; IT Pro",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -3135,6 +3170,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "4f6387e56a0fe1",
+      "title": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub - itpro.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclo4a0NyX1JheDFHd1pUd3RLNGdsNVl5eUZfVDkwOXRZTlhlOGxBcDdBTmZ4QkxVbS1wWTYwQ2w4OHdjYmdndm5WbklMYTVzVHNvWGtwRy1iemxzU1lsNGtMSDVZczg4YU1IeTRYTzRnV0w0bldKTkVxOUlPTWR6bFJld04tS0tDWUVkV3ZveVk0eWVoYXB1UTk2Wjc3M1NZY19HRFcyUkFJSW02Y1U5MGgwY3YtUmdvTUh6UzNmWkhma3FKa2VhdndlRWRvVkpCQmEzeHdiTkFsejFH?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub &nbsp;&nbsp; itpro.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "a716e217805aa4",
       "title": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan - Korea JoongAng Daily",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVBEQ19vaEV0RzNBZ1dHdUhTbERjZ2p4emljbk1CTWVUbGZWcGpDb0ZudnFRTDBDM2g4NmszeWNHWTR2ZzNwX3poSEhwZXJOUGZxVWd1SktSZnpHUTd4X3VidmQ1QVpkRi1EZ29HaW5KQkEzbEhCR2Q2YUxiOTluT3M4cVpseUhOVWpMT3A4ZWdET2oyX1pqVl9jNWNIc25kenhJZy1sSTR4QWtZS2ZabEVLbUpXVlRpVGRadEx0MkZGSHdG?oc=5",
@@ -3152,23 +3204,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "ad9867f9585b01",
-      "title": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPclo4a0NyX1JheDFHd1pUd3RLNGdsNVl5eUZfVDkwOXRZTlhlOGxBcDdBTmZ4QkxVbS1wWTYwQ2w4OHdjYmdndm5WbklMYTVzVHNvWGtwRy1iemxzU1lsNGtMSDVZczg4YU1IeTRYTzRnV0w0bldKTkVxOUlPTWR6bFJld04tS0tDWUVkV3ZveVk0eWVoYXB1UTk2Wjc3M1NZY19HRFcyUkFJSW02Y1U5MGgwY3YtUmdvTUh6UzNmWkhma3FKa2VhdndlRWRvVkpCQmEzeHdiTkFsejFH?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Google announces €13 billion infrastructure build-out in burgeoning European data center hub &nbsp;&nbsp; IT Pro",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "edc0cf8b233648",
       "title": "SK Group Chairman Chey Tae-won to visit $5.2 billion AI data center in Ulsan - koreajoongangdaily.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTVBEQ19vaEV0RzNBZ1dHdUhTbERjZ2p4emljbk1CTWVUbGZWcGpDb0ZudnFRTDBDM2g4NmszeWNHWTR2ZzNwX3poSEhwZXJOUGZxVWd1SktSZnpHUTd4X3VidmQ1QVpkRi1EZ29HaW5KQkEzbEhCR2Q2YUxiOTluT3M4cVpseUhOVWpMT3A4ZWdET2oyX1pqVl9jNWNIc25kenhJZy1sSTR4QWtZS2ZabEVLbUpXVlRpVGRadEx0MkZGSHdG?oc=5",
@@ -3181,23 +3216,6 @@
       "locations": [],
       "amounts": [
         "$5.2 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8666f79e8f8c7a",
-      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXpacjRMYXU1ZXI5M3BwRHZIMUY5TVRVdVZZZXJPNUYtbWIxei1XM0JDZV9oejZ2UmpVdko4T1JneVFoRTFvLU9kQU55Uk4zX0xOQlE2QW1Hcl9kcVlVVE5CSU5qSXJNNEpsRDh6Sl9HeFo2bWtIblVZQVEtT004djdCTUVGYzE5QzVqRVpIb0ladWlRWkdjRzNDSG5NZm5HN29Rcw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; krgv.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -3387,6 +3405,25 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "ad0b849054543e",
+      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "3a03284ed5646b",
@@ -3836,6 +3873,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0e1e7749378994",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "ceca85adfea138",
       "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
@@ -4117,25 +4175,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a92b2c4814f67a",
-      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "9f07404ee0be3f",
       "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - Google Cloud Press Corner",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
@@ -4155,13 +4194,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9d668f9dd3e8e9",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
+      "id": "8908e8bf2bf789",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4193,13 +4232,32 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad0b849054543e",
-      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "id": "a92b2c4814f67a",
+      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9d668f9dd3e8e9",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4238,25 +4296,6 @@
       "source_cat": "Company",
       "date": "2026-09-09",
       "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; energyconnects.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8908e8bf2bf789",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7701,9 +7740,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "b852ef6345edbe",
+      "id": "c8a12b2b141142",
       "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
@@ -7752,9 +7791,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "c8a12b2b141142",
+      "id": "b852ef6345edbe",
       "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0VMTTJhTmR2emIxbDdXT3F2NDhqbk9nNjVBWENjMHd2VlF6a3E1TW4xazQwcjBSVjluYm91QnJib284cUEwQmVFWTBVaUFLTUZmZUJ0YXlrbHNlenp1NWFGY1J3Y3ozVTBpa3FWSTdMaWk4YklJRU1FX1NWWVZqUUR5Z3N4SVQxTnVVV2phdzJnMjFOQWdsVmFjZHExTmR1VlFFYTE4WkFIZllLMGs1MlViRGZSR3JWYUIxUXZkbXFEcm1uSFZlMTdKQVhxckQ1bnJvYzJIWF9yZjRZWk5MZ05oMGhqZnp1aGdERFdsOVh1Q2pVTjNwSFVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
@@ -10307,38 +10346,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8528a664577c93",
-      "title": "Sponsored: Designing the white space for flexible fiber requirements",
-      "url": "https://www.datacenterdynamics.com/en/opinions/designing-the-white-space-for-flexible-fiber-requirements/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "The white space at the heart of a data center is where the competing demands of rapidly increasing capacity within a finite space are in the sharpest focus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e13caaedf20d32",
-      "title": "Privacy-focused email service Proton goes down after cooling failure in Frankfurt data center",
-      "url": "https://www.datacenterdynamics.com/en/news/privacy-focused-email-service-proton-goes-down-after-cooling-failure-in-frankfurt-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-08-27",
-      "summary": "CEO admits \"we fucked up\" after slow failover",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Frankfurt"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
