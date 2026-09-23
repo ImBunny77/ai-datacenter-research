@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-09-23T07:27:22.691794+00:00",
+  "last_updated": "2026-09-23T13:24:51.444882+00:00",
   "finding_count": 600,
-  "new_project_count": 97,
-  "cancellation_count": 19,
+  "new_project_count": 96,
+  "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 151,
+  "high_confidence_count": 154,
   "findings": [
+    {
+      "id": "34858a9f408dc8",
+      "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "As companies ramp up inference footprint",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "30MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "fbaa039f4dbb60",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-23",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1afe4f00d0b6d2",
+      "title": "Meta signs 144MW solar PPA with Apex in Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "Seventh agreement between the two companies",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "144MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "ff1a9cf56ab61d",
       "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
@@ -21,11 +77,28 @@
       "locations": [],
       "amounts": [
         "$3.5B",
-        "$350M",
-        "$350 million"
+        "$350 million",
+        "$350M"
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "a3f72077da0382",
+      "title": "Abbott halts new Texas data center permits pending ERCOT audit",
+      "url": "https://www.datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "ERCOT claims the audit will be completed by December",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "272eec91f2f6bb",
@@ -43,6 +116,57 @@
       "is_high_confidence": false
     },
     {
+      "id": "a1326b2e50c0e4",
+      "title": "Meta plans Petal, the first transoceanic subsea cable at petabit capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-plans-petal-the-first-transoceanic-subsea-cable-at-petabit-capacity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "Connecting the US to France",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7289c35dda60fc",
+      "title": "Zeo Energy and Ewyze partner on off-grid power solutions for US data center sector",
+      "url": "https://www.datacenterdynamics.com/en/news/zeo-energy-and-ewyze-partner-on-off-grid-power-solutions-for-us-data-center-sector/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "Also looking at international expansion",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "667d440df2d9b5",
+      "title": "SoftBank presses on with blimp-based base station plans",
+      "url": "https://www.datacenterdynamics.com/en/news/softbank-presses-on-with-blimp-based-base-station-plans/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-23",
+      "summary": "Laser-tracking tests showcase possibilities for quite literal cloud connectivity",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "28ab99e6234fbd",
       "title": "Sponsored: How AI factories are driving the next industrial revolution",
       "url": "https://www.datacenterdynamics.com/en/marketwatch/how-ai-factories-are-driving-the-next-industrial-revolution/",
@@ -52,6 +176,42 @@
       "summary": "For data center operators like Polar DC, what used to be an occasional mega-project has now become standard operating procedure",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "66e071f028f90a",
+      "title": "NextLM brings its precision prospecting agent to Google Cloud Marketplace",
+      "url": "https://siliconangle.com/2026/09/23/nextlm-brings-its-precision-prospecting-agent-to-google-cloud-marketplace/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-23",
+      "summary": "NextLM Inc., which makes software that uses behavioral analysis and custom artificial intelligence models to help sales professionals identify and rank individual sales leads, is bringing its AI Prospecting Agent to Google LLC’s Cloud Marketplace and Gemini Enterprise. The New York-based startup says its agent analyzes behavioral signals, identifies individuals it believes are researching a [&#8230;] \n The post  NextLM brings its precision prospecting agent to Google Cloud Marketplace  appeared ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "New York"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "263ba2a3fd8958",
+      "title": "Vicarius launches ScriptAI to write fixes for flaws with no vendor patch",
+      "url": "https://siliconangle.com/2026/09/23/vicarius-launches-scriptai-to-write-fixes-for-flaws-with-no-vendor-patch/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-23",
+      "summary": "Vulnerability remediation company Vicarius Inc. today launched an artificial intelligence engine that writes detection and remediation scripts for software flaws with no vendor patch available. ScriptAI is aimed at the gap between a public disclosure and a working fix. Mean time to exploit stood at negative eight hours as of July on Zero Day Clock [&#8230;] \n The post  Vicarius launches ScriptAI to write fixes for flaws with no vendor patch  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -204,8 +364,8 @@
         "Finland"
       ],
       "amounts": [
-        "$189 million",
-        "$189M"
+        "$189M",
+        "$189 million"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -243,21 +403,6 @@
       "amounts": [
         "120MW"
       ],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f83582291eac96",
-      "title": "2026 guide to navigating data center supply chain complexity",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-22",
-      "summary": "Hidden costs",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
     },
@@ -314,66 +459,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "cd7117788ebdea",
-      "title": "Lithography firm Morphotonics targets data center optical component market after raising €40m",
-      "url": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/",
+      "id": "f83582291eac96",
+      "title": "2026 guide to navigating data center supply chain complexity",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/guide-to-navigating-data-center-supply-chain-complexity/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-09-22",
-      "summary": "Company’s technology currently used to manufacture displays for AR glasses",
-      "finding_type": "Statement / Update",
+      "summary": "Hidden costs",
+      "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2eab12f7786578",
-      "title": "Microsoft hires new director of global energy and sustainability policy",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-hires-new-director-of-global-energy-and-sustainability-policy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-22",
-      "summary": "Ray Fakhoury III joins from AWS",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aad4f3f12f3ddf",
-      "title": "European Commission proposes energy and water efficiency disclosure rules for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/european-commission-proposes-energy-and-water-efficiency-disclosure-rules-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-22",
-      "summary": "Proposal is now subject to a two-month scrutiny period",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c1d5191b709998",
-      "title": "Sponsored: Scaling connectivity beyond the data center walls",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/scaling-connectivity-beyond-the-data-center-walls/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-22",
-      "summary": "Connecting buildings, sites, or cities? The challenges and core priorities look significantly different, says Corning’s Nilson Gabela",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -422,23 +519,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "13b39ca11d5ad9",
-      "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades",
-      "url": "https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-22",
-      "summary": "SpaceX Corp. today introduced Grok 4.7, its most capable large language model to date. The Grok algorithm series was originally created by an Elon Musk-founded startup called xAI Corp. Musk merged the company with xAI Inc. last year. The combined organization was subsequently folded into SpaceX, which gained not only the Grok model series but [&#8230;] \n The post  SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI"
       ],
       "locations": [],
       "amounts": [],
@@ -543,6 +623,86 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cd7117788ebdea",
+      "title": "Lithography firm Morphotonics targets data center optical component market after raising €40m",
+      "url": "https://www.datacenterdynamics.com/en/news/lithography-firm-morphotonics-targets-data-center-optical-component-market-after-raising-40m/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-22",
+      "summary": "Company’s technology currently used to manufacture displays for AR glasses",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2eab12f7786578",
+      "title": "Microsoft hires new director of global energy and sustainability policy",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-hires-new-director-of-global-energy-and-sustainability-policy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-22",
+      "summary": "Ray Fakhoury III joins from AWS",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aad4f3f12f3ddf",
+      "title": "European Commission proposes energy and water efficiency disclosure rules for data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/european-commission-proposes-energy-and-water-efficiency-disclosure-rules-for-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-22",
+      "summary": "Proposal is now subject to a two-month scrutiny period",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c1d5191b709998",
+      "title": "Sponsored: Scaling connectivity beyond the data center walls",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/scaling-connectivity-beyond-the-data-center-walls/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-22",
+      "summary": "Connecting buildings, sites, or cities? The challenges and core priorities look significantly different, says Corning’s Nilson Gabela",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13b39ca11d5ad9",
+      "title": "SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades",
+      "url": "https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-22",
+      "summary": "SpaceX Corp. today introduced Grok 4.7, its most capable large language model to date. The Grok algorithm series was originally created by an Elon Musk-founded startup called xAI Corp. Musk merged the company with xAI Inc. last year. The combined organization was subsequently folded into SpaceX, which gained not only the Grok model series but [&#8230;] \n The post  SpaceX launches Grok 4.7 with long-horizon processing, safety upgrades  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
       ],
       "locations": [],
       "amounts": [],
@@ -832,41 +992,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "18bb262d5c9618",
-      "title": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
-      "url": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-21",
-      "summary": "Amazon.com Inc. has blocked Meta Platforms Inc.&#8217;s Muse artificial intelligence agent from accessing its e-commerce marketplace. The cloud and online retail giant notified users of the move late Sunday. Meta made Muse available in the U.S. earlier this month via a mobile app. The agent topped 730,000 downloads within five days, which put it ahead [&#8230;] \n The post  Amazon blocks Meta’s Muse agent from shopping on users’ behalf  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "245ef5b1c45b07",
-      "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment",
-      "url": "https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-21",
-      "summary": "Amazon Web Services Inc. says it’s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent that can help them build and deploy AI applications in any environment. In a blog post today, AWS explained that many developers have already built [&#8230;] \n The post  AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "812344a6d83c11",
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
@@ -877,23 +1002,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dc74cf43e89ea3",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-21",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -998,6 +1106,58 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "18bb262d5c9618",
+      "title": "Amazon blocks Meta’s Muse agent from shopping on users’ behalf",
+      "url": "https://siliconangle.com/2026/09/21/amazon-blocks-metas-muse-agent-from-shopping-on-users-behalf/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-21",
+      "summary": "Amazon.com Inc. has blocked Meta Platforms Inc.&#8217;s Muse artificial intelligence agent from accessing its e-commerce marketplace. The cloud and online retail giant notified users of the move late Sunday. Meta made Muse available in the U.S. earlier this month via a mobile app. The agent topped 730,000 downloads within five days, which put it ahead [&#8230;] \n The post  Amazon blocks Meta’s Muse agent from shopping on users’ behalf  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "245ef5b1c45b07",
+      "title": "AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment",
+      "url": "https://siliconangle.com/2026/09/21/aws-debuts-strands-harness-an-open-source-ai-agent-that-can-be-deployed-in-any-environment/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-21",
+      "summary": "Amazon Web Services Inc. says it’s trying to help developers solve the problem of scaling artificial intelligence agents to cloud environments with the launch of Strands Harness, an open-source agent that can help them build and deploy AI applications in any environment. In a blog post today, AWS explained that many developers have already built [&#8230;] \n The post  AWS debuts Strands Harness, an open-source AI agent that can be deployed in any environment  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dc74cf43e89ea3",
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-21",
+      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1208,13 +1368,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ccd053b8c68f2e",
-      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
+      "id": "849b1db73ba7cf",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJyaDZHblVOanNiVHdMZm1kby1ScFQ3VlF5Z2hpZWtLZkVVNWkzQVBOX1RuYnBRUUZWcDVURlU3ZFVDRjhDanVFbER4dkExdnIxN3RFVERrNWNSQWFZTG1TVXNrS21MUEJUYThJV2RaS2xXd3NDbG5KQnFpREJTXzBqUlJlZEJEZnIwTVlpVktQem1oQ0tGUk5CdXpBWUg0R2cwRUJqQQ?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-19",
-      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; KRGV",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; krgv.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -1225,13 +1385,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "849b1db73ba7cf",
-      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
+      "id": "ccd053b8c68f2e",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - KRGV",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmJyaDZHblVOanNiVHdMZm1kby1ScFQ3VlF5Z2hpZWtLZkVVNWkzQVBOX1RuYnBRUUZWcDVURlU3ZFVDRjhDanVFbER4dkExdnIxN3RFVERrNWNSQWFZTG1TVXNrS21MUEJUYThJV2RaS2xXd3NDbG5KQnFpREJTXzBqUlJlZEJEZnIwTVlpVktQem1oQ0tGUk5CdXpBWUg0R2cwRUJqQQ?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-19",
-      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; krgv.com",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; KRGV",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -2744,9 +2904,9 @@
         "New York"
       ],
       "amounts": [
+        "20GW",
         "2.3GW",
-        "1,525MW",
-        "20GW"
+        "1,525MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -4254,13 +4414,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "065d9f399ecc8c",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
+      "id": "85bd60111b4b04",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -4276,13 +4436,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "85bd60111b4b04",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
+      "id": "065d9f399ecc8c",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -5137,13 +5297,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "0e1e7749378994",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "id": "80bdb13fc173d2",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; reuters.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5200,6 +5360,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0e1e7749378994",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "a894406ec4446b",
       "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
@@ -5216,27 +5397,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "80bdb13fc173d2",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; reuters.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -5703,13 +5863,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9673d87544fda3",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
+      "id": "a0dc449c4136e4",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5739,13 +5899,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0dc449c4136e4",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
+      "id": "9673d87544fda3",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5972,13 +6132,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e7f35a21136200",
-      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
+      "id": "24767e156a10bd",
+      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; About Amazon",
+      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; aboutamazon.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -6008,13 +6168,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "24767e156a10bd",
-      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - aboutamazon.com",
+      "id": "e7f35a21136200",
+      "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; aboutamazon.com",
+      "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs &nbsp;&nbsp; About Amazon",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -7546,13 +7706,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ebb7c74ea6603",
-      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - Modern War Institute -",
+      "id": "e34cfb215e3006",
+      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - mwi.westpoint.edu",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUhRQ3RHMXRfX0ZFZ1h6QzdxV2NaT21kRTRfRmZuNmtLWUQya0NESHhwYWFPOWRPNlpOY29XVWpqOXFQZGFMTDBuQXI0RzR2bUxaS3VOLVZlU2ZhbkNwbEg1VlUtZ1Z6dVhsX3Eyck5ZZGc4M2l0Z29aNlI3OGVZS3hER3Yzclk3cHdaMlZnb2tXNkJxSzRzSg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-06",
-      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; Modern War Institute -",
+      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; mwi.westpoint.edu",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7561,13 +7721,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e34cfb215e3006",
-      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - mwi.westpoint.edu",
+      "id": "5ebb7c74ea6603",
+      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - Modern War Institute -",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUhRQ3RHMXRfX0ZFZ1h6QzdxV2NaT21kRTRfRmZuNmtLWUQya0NESHhwYWFPOWRPNlpOY29XVWpqOXFQZGFMTDBuQXI0RzR2bUxaS3VOLVZlU2ZhbkNwbEg1VlUtZ1Z6dVhsX3Eyck5ZZGc4M2l0Z29aNlI3OGVZS3hER3Yzclk3cHdaMlZnb2tXNkJxSzRzSg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-06",
-      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; mwi.westpoint.edu",
+      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; Modern War Institute -",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9006,13 +9166,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c114371d333746",
-      "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - Stock Titan",
+      "id": "4858b734d20145",
+      "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - stocktitan.net",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlVCaXJUZXZDcGtpMG9ERUF1SXVOV1djTkpMeWNPaVdLOXZPRm1Bb3lTVHhucjhpSlBvcFJnTW90M1ROcno2VmZscTRnQ2VSQTVCZkdBMFFqXzlGMTJMZGwzX0JENDFYWkg5dnZVZVZKNWVUMWF4YzVHalJQZmNVdHBhNDVmNnJWTUpUZjhPR2o2bmcwbjBTM0FmRGw4MDh2UldseUdZeVBiV19wWDM0?oc=5",
       "source": "GNews: SEC 8-K data center capital",
       "source_cat": "SEC Filing",
       "date": "2026-09-02",
-      "summary": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) &nbsp;&nbsp; Stock Titan",
+      "summary": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) &nbsp;&nbsp; stocktitan.net",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -9040,13 +9200,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4858b734d20145",
-      "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - stocktitan.net",
+      "id": "c114371d333746",
+      "title": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) - Stock Titan",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMlVCaXJUZXZDcGtpMG9ERUF1SXVOV1djTkpMeWNPaVdLOXZPRm1Bb3lTVHhucjhpSlBvcFJnTW90M1ROcno2VmZscTRnQ2VSQTVCZkdBMFFqXzlGMTJMZGwzX0JENDFYWkg5dnZVZVZKNWVUMWF4YzVHalJQZmNVdHBhNDVmNnJWTUpUZjhPR2o2bmcwbjBTM0FmRGw4MDh2UldseUdZeVBiV19wWDM0?oc=5",
       "source": "GNews: SEC 8-K data center capital",
       "source_cat": "SEC Filing",
       "date": "2026-09-02",
-      "summary": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) &nbsp;&nbsp; stocktitan.net",
+      "summary": "AI project with up to 144 Nvidia chips under review at Linkhome (LHAI) &nbsp;&nbsp; Stock Titan",
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
@@ -10221,163 +10381,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7354d6d7801830",
-      "title": "OpenAI data center project south of Ann Arbor hits 1 million work hours - mlive.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0tORXVraG45bDBZNkN4Y05PbElaMVUwejRCbTV4TVVPblNDWWM2YS1Kc0RuRnBNM25rUy1ZWEdJdHZNdEU1dzN6OVFOTkpYN1VvZjdBWnE2TWhSeW93cXNLM2pyaVJ5NVAtVlFQbE1LTUNwOWF4SVRzY3pUZTBDdjlZYTFnVFpENFZWa25TRVl5LWE0amt6a0ZmRUJKa2l0UHAybFotMmVOX3dZaE44bmRCcngxOEpsWV94UTFR0gHSAUFVX3lxTE1zN2N6Y09YbW5HOFU5Z2VaX1MwNUVOVmQ5WF9FbXBKTUhINUg0a1VtOXNTelQ0d211SjBDZXZFMUJESGRnbmdpTzhESWNVSVpqd0ZOU3o5eHJWd0EydUZKbWllNzVuNFpPOGc2UXFJUVhmcWF5RFo0NWZ0MFJOaVY2c3RkSURDWlg5cWdBdWJkMjUtblZmRHhidENFYjBaWlJwNnBUVVVTWVlpeFRLLUhGMUJSbmhiZFg3SnNYUTlJUWlFb3VkcFRXOWFTeWxPRGNPdw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-08-31",
-      "summary": "OpenAI data center project south of Ann Arbor hits 1 million work hours &nbsp;&nbsp; mlive.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "feac1a2a028fd6",
-      "title": "Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances",
-      "url": "https://siliconangle.com/2026/08/31/aws-targets-data-intensive-workloads-with-graviton5-powered-r9g-and-r9gd-instances/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-31",
-      "summary": "Amazon.com Inc. is bringing its new AWS Graviton5 processors to more workloads with the launch of its new, memory-optimized R9g and R9gd instances, which are available today in multiple cloud regions. They were revealed in a blog post by AWS Principal Developer Advocate Daniel Abib, who explained that they’re designed to power the most data-intensive [&#8230;] \n The post  Amazon targets data-intensive workloads with Graviton5-powered R9g and R9gd instances  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4f437eda879db6",
-      "title": "CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake",
-      "url": "https://siliconangle.com/2026/08/31/crowdstrike-launches-falcon-iq-as-falcon-lands-on-google-cloud-and-snowflake/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-31",
-      "summary": "CrowdStrike Holdings Inc. today launched Falcon IQ, software that hands the assessment and remediation work behind its Project QuiltWorks coalition to a fleet of more than 50 artificial intelligence agents. The launch is one of four announcements the company made at the opening of its Fal.Con 2026 conference in Las Vegas. QuiltWorks also picked up [&#8230;] \n The post  CrowdStrike launches Falcon IQ as Falcon lands on Google Cloud and Snowflake  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a14723f3688445",
-      "title": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers - news.sbs.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BbjhWZk9FVVU4RUsyMTh3dUl2bFEwa09xVWhVbk83LThQX2E5Q2xKMVZma1pLU1FLaTVyaWUtSDBRTXY1Vkl2NjdSc3hmT3BRUUZRaEZlWlB2c2hhNktYM3B2ckRsa2ZDT2FuRFhR?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-08-31",
-      "summary": "Why CoreWeave and Nebius Are Surging: The Curious Growth Strategy of 'Neocloud' Providers &nbsp;&nbsp; news.sbs.co.kr",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ca78c0eac72a9a",
-      "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-08-31",
-      "summary": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 are now generally available, delivering up to 25% better compute performance than R8g, ideal for databases, in-memory caches, and real-time analytics.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c8f53cd9d742f9",
-      "title": "AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery (ARD), and more (August 31, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-08-31",
-      "summary": "The news that interested me the most last week was the DuckLabs acquisition. AWS has signed a definitive agreement to acquire DuckLabs, the Amsterdam-based company behind DuckDB, the popular open source analytical database that runs in-process and executes SQL directly against files like Parquet, CSV, and JSON. DuckDB stays open source under its independent foundation […]",
-      "finding_type": "SEC Filing",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "08ca4be1ead243",
-      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMEU2aE9BZWtReGMxb3Jqdk0yNFVHdkJLX0s0WExGQy1NSTJiVi1QZWdHakUydENtYnFhWVVFaEZJOXJxODV2cEFDUzZ3dG52Q2s1SnhwbHNDZHpwUHpfNXlaVDFlQ1hqV3V1UVFzR2ZIM3kt?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-31",
-      "summary": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 &nbsp;&nbsp; About Amazon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d57cb0711ac19",
-      "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-08-31",
-      "summary": "Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math problems, build CPU emulators, and optimize OSS.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2978c158ab837c",
-      "title": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 - aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QMEU2aE9BZWtReGMxb3Jqdk0yNFVHdkJLX0s0WExGQy1NSTJiVi1QZWdHakUydENtYnFhWVVFaEZJOXJxODV2cEFDUzZ3dG52Q2s1SnhwbHNDZHpwUHpfNXlaVDFlQ1hqV3V1UVFzR2ZIM3kt?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-08-31",
-      "summary": "AWS to launch first cloud infrastructure region in the Kingdom of Saudi Arabia by December 2026 &nbsp;&nbsp; aboutamazon.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
