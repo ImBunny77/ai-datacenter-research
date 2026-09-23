@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-09-22T21:11:42.542561+00:00",
+  "last_updated": "2026-09-23T00:04:30.857677+00:00",
   "finding_count": 600,
-  "new_project_count": 98,
+  "new_project_count": 97,
   "cancellation_count": 19,
-  "sec_filing_count": 2,
-  "high_confidence_count": 149,
+  "sec_filing_count": 3,
+  "high_confidence_count": 150,
   "findings": [
+    {
+      "id": "570b70343e6201",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-22",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "5013fb3e3f4996",
       "title": "Plans progress for 200MW data center in Schladen-Werla, Germany",
@@ -119,8 +134,8 @@
         "Finland"
       ],
       "amounts": [
-        "$189 million",
-        "$189M"
+        "$189M",
+        "$189 million"
       ],
       "confidence": 4,
       "is_high_confidence": false
@@ -177,6 +192,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "ebeff9b8fe7d7d",
+      "title": "Google’s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
+      "url": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-22",
+      "summary": "Intrinsic, the intelligent robotics software company owned by Google LLC’s parent Alphabet Inc., said today that it’s open-sourcing the core components of its industrial robotics platform. Announced at ROSCon 2026 in Toronto today, the new offering is called Intrinsic Core, and its release under a permissive Apache 2.0 license is all about democratizing access to [&#8230;] \n The post  Google&#8217;s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots  appe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "624b28881bb05d",
       "title": "Okta adds AI agent runtime gateway, forms Blueprint Alliance with AWS and CrowdStrike",
       "url": "https://siliconangle.com/2026/09/22/okta-adds-ai-agent-runtime-gateway-forms-blueprint-alliance-with-aws-and-crowdstrike/",
@@ -195,16 +227,16 @@
       "is_high_confidence": false
     },
     {
-      "id": "ebeff9b8fe7d7d",
-      "title": "Google’s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots",
-      "url": "https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "27d3ba2dfbd74f",
+      "title": "Introducing Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
       "date": "2026-09-22",
-      "summary": "Intrinsic, the intelligent robotics software company owned by Google LLC’s parent Alphabet Inc., said today that it’s open-sourcing the core components of its industrial robotics platform. Announced at ROSCon 2026 in Toronto today, the new offering is called Intrinsic Core, and its release under a permissive Apache 2.0 license is all about democratizing access to [&#8230;] \n The post  Google&#8217;s robotics unit Intrinsic open-sources its foundational infrastructure for intelligent robots  appe",
+      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.",
       "finding_type": "Statement / Update",
       "companies": [
-        "Google"
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -275,6 +307,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "5dad71a200aeb8",
+      "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models",
+      "url": "https://siliconangle.com/2026/09/22/anthropic-releases-claude-opus-5-5-and-openai-counters-with-two-cheaper-gpt-6-models/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-22",
+      "summary": "Despite rampant worries about runaway artificial intelligence, the two big AI model makers aren&#8217;t yet slowing down: Anthropic PBC released Claude Opus 5.5 today and cut its price 20%, and minutes later OpenAI Group PBC put out two new GPT-6 models, Sol and Luna, at half what their predecessors cost. Input on Opus 5.5 costs [&#8230;] \n The post  Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d425e606808d62",
       "title": "Exclusive: CoreWeave launches Remote Key Encryption to keep customer keys off its cloud",
       "url": "https://siliconangle.com/2026/09/22/exclusive-coreweave-launches-remote-key-encryption-to-keep-customer-keys-off-its-cloud/",
@@ -326,6 +376,41 @@
       "is_high_confidence": false
     },
     {
+      "id": "fbc2d366b75649",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-22",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dbdeba64d325a0",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-22",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "03988918d65ead",
       "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
@@ -351,6 +436,23 @@
       "source_cat": "Tech News",
       "date": "2026-09-22",
       "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "64f373d355ce20",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-22",
+      "summary": "Learn how Amazon CloudWatch Omni delivers AI-powered observability purpose-built for generative AI and agentic workloads. Trace, evaluate, and experiment with AI agents across any framework—directly from your IDE or a standalone web experience—using open standards and built-in evaluators for quality, correctness, and coherence.",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -395,8 +497,8 @@
         "Ireland"
       ],
       "amounts": [
-        "$462M",
-        "$462 million"
+        "$462 million",
+        "$462M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -712,25 +814,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "10ce3ca88118d9",
-      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
-      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-21",
-      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "California"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "aa648d68d81d90",
       "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
@@ -830,6 +913,25 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "10ce3ca88118d9",
+      "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-21",
+      "summary": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "California"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3475,13 +3577,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "12fb9bfba0a911",
-      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
+      "id": "1640c640390122",
+      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -3490,13 +3592,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1640c640390122",
-      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
+      "id": "12fb9bfba0a911",
+      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -4328,6 +4430,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "d6483c53b4c6ad",
+      "title": "Aligned Data Centers breaks ground on $10B project at former coal plant site - bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNNeFFrSHRTdHJhcGN1Yjh5dkNMc0RKblp6cXNjczJrUWpuVkQ4d2N2Z2xVN1NNTEhhTks3cHhpQ09RWG5DaEQwZDlqMEN4b3A5bV9UNXRhUlFZV1ZOLWM2clpOWFVRQXRyWTA2X3h5akI1TGFLOUF0MHNKVmhweHM5empKR3plT01oanVuUVpaVjZtcE5CZ3lUZkdTM0pSVTYzak5jV0dRREU?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Aligned Data Centers breaks ground on $10B project at former coal plant site &nbsp;&nbsp; bizjournals.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$10B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "d009384db02955",
       "title": "Aligned Data Centers breaks ground on $10B project at former coal plant site - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNNeFFrSHRTdHJhcGN1Yjh5dkNMc0RKblp6cXNjczJrUWpuVkQ4d2N2Z2xVN1NNTEhhTks3cHhpQ09RWG5DaEQwZDlqMEN4b3A5bV9UNXRhUlFZV1ZOLWM2clpOWFVRQXRyWTA2X3h5akI1TGFLOUF0MHNKVmhweHM5empKR3plT01oanVuUVpaVjZtcE5CZ3lUZkdTM0pSVTYzak5jV0dRREU?oc=5",
@@ -4407,23 +4526,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d6483c53b4c6ad",
-      "title": "Aligned Data Centers breaks ground on $10B project at former coal plant site - bizjournals.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNNeFFrSHRTdHJhcGN1Yjh5dkNMc0RKblp6cXNjczJrUWpuVkQ4d2N2Z2xVN1NNTEhhTks3cHhpQ09RWG5DaEQwZDlqMEN4b3A5bV9UNXRhUlFZV1ZOLWM2clpOWFVRQXRyWTA2X3h5akI1TGFLOUF0MHNKVmhweHM5empKR3plT01oanVuUVpaVjZtcE5CZ3lUZkdTM0pSVTYzak5jV0dRREU?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Aligned Data Centers breaks ground on $10B project at former coal plant site &nbsp;&nbsp; bizjournals.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$10B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "df574633504b25",
       "title": "S+B Gruppe to build data center in Bucharest, Romania",
       "url": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/",
@@ -4463,13 +4565,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ad0b849054543e",
-      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "id": "a92b2c4814f67a",
+      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4482,13 +4584,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a92b2c4814f67a",
-      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
+      "id": "ad0b849054543e",
+      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -4990,13 +5092,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a894406ec4446b",
-      "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
+      "id": "c4d1369a0258ed",
+      "title": "Google Commits $15 Billion to Massive Finland AI Hub - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; tikr.com",
+      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; TIKR.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5011,13 +5113,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c4d1369a0258ed",
-      "title": "Google Commits $15 Billion to Massive Finland AI Hub - TIKR.com",
+      "id": "a894406ec4446b",
+      "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; TIKR.com",
+      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; tikr.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5271,25 +5373,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b78b05babed5a1",
-      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "9f07404ee0be3f",
       "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - Google Cloud Press Corner",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
@@ -5335,6 +5418,25 @@
       "source_cat": "Company",
       "date": "2026-09-09",
       "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Energy Connects",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b78b05babed5a1",
+      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-09",
+      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5531,13 +5633,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "86837478a65659",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
+      "id": "6a3dbb0f6b1158",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5550,13 +5652,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6a3dbb0f6b1158",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
+      "id": "86837478a65659",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; TechStock²",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -6479,25 +6581,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "834451a90e0d47",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
       "id": "2d39dafa659697",
       "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRV8zb0t6akRzdWkxb3lvRmxFUExhc2F2Tk5EOFJURTdfTzF2M2JZSXR2LU9EQVJSVXNwSVJWLTVpa2xXQVU4VlZjU21RZ2M1QmlKekd3cDJrUnhqVjBzLS0zVVRNeUU5dE5SMXRHV1RSVTN4MlBCWFlkWFRNTUxadWxOQ3JpZUh1N3JsU9IBkgFBVV95cUxOLVJPVjlLVVlKN20yWm5XbnpkbmV3X1VtQzdFazhVTld2cFpWVW92OUZlYjd6LUlRQmhDekI4X3NqN3JXY09ZMjJrTkc3dXMwdXFoT0pLc1RGbEFtVXpuY0ZlMHV2V0hSSzFOTUl1YlZJSkFzcjIxWGoyRlRUZ1VDV0ZjX1lDRk84elk5UWduaS0wUQ?oc=5",
@@ -6524,6 +6607,25 @@
       "source_cat": "Company",
       "date": "2026-09-08",
       "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; news.futunn.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-08",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -10272,104 +10374,6 @@
       "summary": "Enterprise infrastructure strategy is being rewritten around the private AI cloud, as security exposure, spiking hardware prices and rising token costs push artificial intelligence workloads back inside the data center. What started as a virtualization refresh has become the main event for on-premises computing. That shift has put platform consolidation at the center of enterprise [&#8230;] \n The post  Enterprises pull AI workloads back on-premises as costs and threats mount  appeared first on  ",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c94131e502124a",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-31",
-      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cd9fb802df39ad",
-      "title": "Broadcom’s VMware Private AI Cloud spans infrastructure, agents, data and security",
-      "url": "https://siliconangle.com/2026/08/31/broadcoms-private-ai-cloud-spans-infrastructure-agents-data-and-security/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-31",
-      "summary": "Broadcom Inc. today introduced VMware Private AI Cloud, an integrated software stack designed to enable enterprises to build and run artificial intelligence applications alongside conventional workloads while keeping their data, models and infrastructure under their control. Announced at the VMware Explore 2026 conference this week in Las Vegas, the offering combines VMware Cloud Foundation infrastructure [&#8230;] \n The post  Broadcom&#8217;s VMware Private AI Cloud spans infrastructure, agents",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "80e3216644c77b",
-      "title": "Rogue agents are forcing a governance reckoning as enterprises hand over the keys",
-      "url": "https://siliconangle.com/2026/08/31/ai-infrastructure-governance-shifts-rogue-agents-vmwareexplore/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-31",
-      "summary": "Governance is moving into the foundations of enterprise AI infrastructure as autonomous agents graduate from experiments to mission-critical work. Companies that spent decades refining controls for human employees now manage a second workforce that has no badge number, no paycheck and no moral compass — and no track record to audit. That governance gap is [&#8230;] \n The post  Rogue agents are forcing a governance reckoning as enterprises hand over the keys  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f6aafaf64de474",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-08-30",
-      "summary": "The company is testing robots on tasks that can performed by technicians.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "904f9807cb412d",
-      "title": "Most Neoclouds Suck At Security",
-      "url": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-08-30",
-      "summary": "OpenAI vs HuggingFace, Container Escapes, Kernel Bypass, Network Policies, Security Keys, Multi-tenant Grafana, and a ClusterMAX 3.0 Preview",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "538563338c4cfd",
-      "title": "Four safeguards to stop your AI agents from going rogue",
-      "url": "https://siliconangle.com/2026/08/30/four-safeguards-to-stop-your-ai-agents-from-going-rogue/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-08-30",
-      "summary": "Artificial intelligence agents are moving from experimentation to production, and with this shift, the stakes are rising. A coding agent at PocketOS recently deleted an entire production database. An agent at Meta exposed sensitive user data for two hours. An Instagram support chatbot allowed hackers to hijack thousands of accounts. And last month, researchers tricked [&#8230;] \n The post  Four safeguards to stop your AI agents from going rogue  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
