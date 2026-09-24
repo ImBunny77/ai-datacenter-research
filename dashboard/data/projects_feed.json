@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-09-24T19:50:49.595982+00:00",
+  "last_updated": "2026-09-24T23:03:59.789895+00:00",
   "finding_count": 600,
-  "new_project_count": 95,
+  "new_project_count": 96,
   "cancellation_count": 19,
   "sec_filing_count": 3,
-  "high_confidence_count": 149,
+  "high_confidence_count": 152,
   "findings": [
+    {
+      "id": "878a87f99d7bb0",
+      "title": "$3.2 Billion AI Data Center Campus Announced in Brookwood - WBMA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2pmTV9CMTdaZGZMb3VEUWdZaE8wMml6Vm1HMnFvUTZXVmV5eEo4RjNYcmZCcExDVS1HSGN6UGZ4aVRKYy11VENrcW4yRHhwRXhqTWpNV2s4Yi1jRThuR1htZWo3cVlFX0d5RG9VSkZubG1WcGVGUUZIMmJESldVQ1ctUmJURTlRcXZEYW81NVhjYjdxZzR4MHN5ak43WGs5d2t4UVZYUkRQVklwQUdoc0ZTQkdQblZ3Nm5VclAzc2VkTmdDUmJrdnZTQXhkLWx5YWc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-24",
+      "summary": "$3.2 Billion AI Data Center Campus Announced in Brookwood &nbsp;&nbsp; WBMA",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$3.2 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "8990c85166844d",
       "title": "Microsoft to Invest $10 Billion in Middle East AI Infrastructure Amid War Risks - finance.biggo.com",
@@ -47,6 +64,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "7b24f188bf72d0",
+      "title": "Akamai shares jump more than 20% on $11.6B Anthropic computing deal",
+      "url": "https://siliconangle.com/2026/09/24/akamai-shares-jump-more-than-20-on-11-6b-anthropic-computing-deal/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-24",
+      "summary": "Shares of Akamai Technologies Inc. jumped more than 20% in after-hours trading today after the cloud and cybersecurity company revealed an $11.6 billion, seven-year deal to supply computing capacity to artificial intelligence developer Anthropic PBC. The agreement is built around central processing unit workloads, where Akamai said Anthropic&#8217;s demand is accelerating. Akamai Cloud will provide [&#8230;] \n The post  Akamai shares jump more than 20% on $11.6B Anthropic computing deal  appeare",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$11.6 billion",
+        "$11.6B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "60d2a38166ea35",
       "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
       "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
@@ -66,6 +103,29 @@
       "is_high_confidence": true
     },
     {
+      "id": "fc550a319e54c6",
+      "title": "Amazon to spend $100M on Indiana plant, its fourth site for building robots",
+      "url": "https://siliconangle.com/2026/09/24/amazon-to-spend-100m-on-indiana-plant-its-fourth-site-for-building-robots/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-24",
+      "summary": "Amazon.com Inc. is spending more than $100 million on a factory in Greenwood, Indiana, to build equipment for its warehouse robots, according to plans the company released today. The Wall Street Journal reported that Greenwood will be the fourth plant Amazon uses to make robots. Until August there were only two, both in Massachusetts. The [&#8230;] \n The post  Amazon to spend $100M on Indiana plant, its fourth site for building robots  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Indiana",
+        "Massachusetts"
+      ],
+      "amounts": [
+        "$100M",
+        "$100 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "1ff7943da6d638",
       "title": "Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters",
       "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
@@ -77,8 +137,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$27.5 million",
-        "$27.5M"
+        "$27.5M",
+        "$27.5 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -154,13 +214,47 @@
       "is_high_confidence": false
     },
     {
-      "id": "6d09a755f30d18",
-      "title": "How data centers shift landscape of rural communities - WCAX",
+      "id": "e98395b6022e58",
+      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-24",
+      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8bb5129c819a29",
+      "title": "The Biggest News From Connect 2026",
+      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-24",
+      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more.  \n The post  The Biggest News From Connect 2026  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a7f8bac698b53d",
+      "title": "How data centers shift landscape of rural communities - wcax.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; wcax.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -293,6 +387,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "93dd0b567108de",
+      "title": "Researchers link more cyberattacks to OpenAI agent swarm",
+      "url": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-24",
+      "summary": "A research group has linked three more hacking campaigns to rogue artificial intelligence agents. Transluce, a nonprofit AI safety organization, detailed its findings on Wednesday. Its researchers determined that the agents targeted three services: a university’s digital library, a data visualization tool and a website operated by the Australian government. The last two incidents were [&#8230;] \n The post  Researchers link more cyberattacks to OpenAI agent swarm  appeared first on  SiliconANGLE ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9c10fd30578f1a",
       "title": "Stravito integrates market research into enterprise AI tools with MCP server",
       "url": "https://siliconangle.com/2026/09/24/stravito-integrates-market-research-into-enterprise-ai-tools-with-mcp-server/",
@@ -341,6 +452,25 @@
         "Oracle"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ace412b2836db2",
+      "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-24",
+      "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "New York"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -425,6 +555,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6d09a755f30d18",
+      "title": "How data centers shift landscape of rural communities - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-24",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -529,8 +674,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$140 million",
-        "$140M"
+        "$140M",
+        "$140 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -678,25 +823,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "66e071f028f90a",
-      "title": "NextLM brings its precision prospecting agent to Google Cloud Marketplace",
-      "url": "https://siliconangle.com/2026/09/23/nextlm-brings-its-precision-prospecting-agent-to-google-cloud-marketplace/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-23",
-      "summary": "NextLM Inc., which makes software that uses behavioral analysis and custom artificial intelligence models to help sales professionals identify and rank individual sales leads, is bringing its AI Prospecting Agent to Google LLC’s Cloud Marketplace and Gemini Enterprise. The New York-based startup says its agent analyzes behavioral signals, identifies individuals it believes are researching a [&#8230;] \n The post  NextLM brings its precision prospecting agent to Google Cloud Marketplace  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9ac30e6a91cf07",
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
@@ -812,6 +938,25 @@
       ],
       "locations": [
         "Singapore"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "66e071f028f90a",
+      "title": "NextLM brings its precision prospecting agent to Google Cloud Marketplace",
+      "url": "https://siliconangle.com/2026/09/23/nextlm-brings-its-precision-prospecting-agent-to-google-cloud-marketplace/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-23",
+      "summary": "NextLM Inc., which makes software that uses behavioral analysis and custom artificial intelligence models to help sales professionals identify and rank individual sales leads, is bringing its AI Prospecting Agent to Google LLC’s Cloud Marketplace and Gemini Enterprise. The New York-based startup says its agent analyzes behavioral signals, identifies individuals it believes are researching a [&#8230;] \n The post  NextLM brings its precision prospecting agent to Google Cloud Marketplace  appeared ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "New York"
       ],
       "amounts": [],
       "confidence": 2,
@@ -982,13 +1127,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6f98e488271f02",
-      "title": "How AI data foundations are rewriting enterprise architecture",
-      "url": "https://siliconangle.com/2026/09/23/data-access-building-foundation-dell-thecube-dellaidataplatform/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "7f85b1e048a152",
+      "title": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
+      "url": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
       "date": "2026-09-23",
-      "summary": "In the quest to deploy artificial intelligence at scale, enterprises are discovering a basic truth: Model capability is no longer the only issue, but data access and control can determine success or failure for AI initiatives. This realization has led to a focus on AI infrastructure, the buildout of a data foundation that can provide [&#8230;] \n The post  How AI data foundations are rewriting enterprise architecture  appeared first on  SiliconANGLE .",
+      "summary": "In gory detail: reliability, performance, support, pricing&#8212;and, of course, security&#8212;in our most thorough analysis of GPU cloud providers globally.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -997,13 +1142,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "7f85b1e048a152",
-      "title": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns",
-      "url": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "6f98e488271f02",
+      "title": "How AI data foundations are rewriting enterprise architecture",
+      "url": "https://siliconangle.com/2026/09/23/data-access-building-foundation-dell-thecube-dellaidataplatform/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-09-23",
-      "summary": "In gory detail: reliability, performance, support, pricing&#8212;and, of course, security&#8212;in our most thorough analysis of GPU cloud providers globally.",
+      "summary": "In the quest to deploy artificial intelligence at scale, enterprises are discovering a basic truth: Model capability is no longer the only issue, but data access and control can determine success or failure for AI initiatives. This realization has led to a focus on AI infrastructure, the buildout of a data foundation that can provide [&#8230;] \n The post  How AI data foundations are rewriting enterprise architecture  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1639,13 +1784,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "256b28c4b48e67",
-      "title": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment - ajupress.com",
+      "id": "628f6a08ad8fed",
+      "title": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment - Aju Press",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZmd3V21YYk04M1Q3ZFE4RTZuVWdpNS14M195dXNBQTZ4TllmOTkzUlpJZC1OeGtqUG9mZlhDeHNPWFJlajlJN1ZuN2dqNjNZYzZock43YjlJdG8?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-21",
-      "summary": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment &nbsp;&nbsp; ajupress.com",
+      "summary": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment &nbsp;&nbsp; Aju Press",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -1654,13 +1799,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "628f6a08ad8fed",
-      "title": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment - Aju Press",
+      "id": "256b28c4b48e67",
+      "title": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment - ajupress.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZmd3V21YYk04M1Q3ZFE4RTZuVWdpNS14M195dXNBQTZ4TllmOTkzUlpJZC1OeGtqUG9mZlhDeHNPWFJlajlJN1ZuN2dqNjNZYzZock43YjlJdG8?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-21",
-      "summary": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment &nbsp;&nbsp; Aju Press",
+      "summary": "Samsung Electronics Breaks Ground on AI Data Center Cooling Facility in Gwangju with 240 Billion Won Investment &nbsp;&nbsp; ajupress.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -3734,9 +3879,9 @@
         "New York"
       ],
       "amounts": [
+        "1,525MW",
         "20GW",
-        "2.3GW",
-        "1,525MW"
+        "2.3GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -5386,6 +5531,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "ebbea9c02b420e",
+      "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - Queen City News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Queen City News",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "cb996ebd5cc28a",
       "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - qcnews.com",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
@@ -5416,23 +5578,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ebbea9c02b420e",
-      "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - Queen City News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Queen City News",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
       "confidence": 6,
       "is_high_confidence": true
     },
@@ -5505,23 +5650,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "d009384db02955",
-      "title": "Aligned Data Centers breaks ground on $10B project at former coal plant site - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNNeFFrSHRTdHJhcGN1Yjh5dkNMc0RKblp6cXNjczJrUWpuVkQ4d2N2Z2xVN1NNTEhhTks3cHhpQ09RWG5DaEQwZDlqMEN4b3A5bV9UNXRhUlFZV1ZOLWM2clpOWFVRQXRyWTA2X3h5akI1TGFLOUF0MHNKVmhweHM5empKR3plT01oanVuUVpaVjZtcE5CZ3lUZkdTM0pSVTYzak5jV0dRREU?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Aligned Data Centers breaks ground on $10B project at former coal plant site &nbsp;&nbsp; The Business Journals",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$10B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "ca2bcefc3a5789",
       "title": "Google is investing over 2 trillion yen in Finland over two years to build three new data centers. - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemVzajJnTzZIYjd1clRSQlFGLTYxNG1CUEs0UXp5WjRVbllYd28tUmt3dlFMazVwbVhPT3BUM3QzblJzUVFHclZxeDNBNjFFZUR5Nk9nTVBSWjA2dS0wd2JMaGExNElTM0s3U3JYeGZkYjVyLXNva1hnZmJxdndFYjhhLTQ4RUsyQVVURA?oc=5",
@@ -5537,6 +5665,23 @@
         "Finland"
       ],
       "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d009384db02955",
+      "title": "Aligned Data Centers breaks ground on $10B project at former coal plant site - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHNNeFFrSHRTdHJhcGN1Yjh5dkNMc0RKblp6cXNjczJrUWpuVkQ4d2N2Z2xVN1NNTEhhTks3cHhpQ09RWG5DaEQwZDlqMEN4b3A5bV9UNXRhUlFZV1ZOLWM2clpOWFVRQXRyWTA2X3h5akI1TGFLOUF0MHNKVmhweHM5empKR3plT01oanVuUVpaVjZtcE5CZ3lUZkdTM0pSVTYzak5jV0dRREU?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Aligned Data Centers breaks ground on $10B project at former coal plant site &nbsp;&nbsp; The Business Journals",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$10B"
+      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -5659,13 +5804,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ad0b849054543e",
-      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "id": "a92b2c4814f67a",
+      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -5678,13 +5823,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a92b2c4814f67a",
-      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
+      "id": "ad0b849054543e",
+      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -6144,13 +6289,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "0e1e7749378994",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "id": "80bdb13fc173d2",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; reuters.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -6207,6 +6352,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "0e1e7749378994",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "c4d1369a0258ed",
       "title": "Google Commits $15 Billion to Massive Finland AI Hub - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
@@ -6241,27 +6407,6 @@
       ],
       "locations": [
         "Texas"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "80bdb13fc173d2",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland &nbsp;&nbsp; reuters.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
       ],
       "amounts": [
         "$15 billion"
@@ -6503,6 +6648,44 @@
       "is_high_confidence": false
     },
     {
+      "id": "9d668f9dd3e8e9",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "546138a2888ca6",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Energy Connects",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpJT0E1cVRYNmI2WlVIcTNISUJGdk5VVmRVXzZkeTluTVJRRGhkNXRPdTA4VnNMYWg5WkRJMmFOSmkxTDg5UmpMbW5xRkxlQklFWDNBd3NKZHlTUzRXbEd4ZnhNTHVXaEVCOU45TnY1Z3dRV0dXOVZmS2NQNTdsclBEXzhueElRTDdFMDJpbnNUSGhyanBaaTkybHE3Q2JDZ0cwWEZONFhRX1c2TkdoaU5Rb0FKSEZTSjZwZjZn?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Energy Connects",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "0cbcbc4c18dcbb",
       "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
@@ -6548,44 +6731,6 @@
       "source_cat": "Company",
       "date": "2026-09-09",
       "summary": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure &nbsp;&nbsp; googlecloudpresscorner.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d668f9dd3e8e9",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "546138a2888ca6",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Energy Connects",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpJT0E1cVRYNmI2WlVIcTNISUJGdk5VVmRVXzZkeTluTVJRRGhkNXRPdTA4VnNMYWg5WkRJMmFOSmkxTDg5UmpMbW5xRkxlQklFWDNBd3NKZHlTUzRXbEd4ZnhNTHVXaEVCOU45TnY1Z3dRV0dXOVZmS2NQNTdsclBEXzhueElRTDdFMDJpbnNUSGhyanBaaTkybHE3Q2JDZ0cwWEZONFhRX1c2TkdoaU5Rb0FKSEZTSjZwZjZn?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Energy Connects",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -6763,6 +6908,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "6a3dbb0f6b1158",
+      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "86837478a65659",
       "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
@@ -6794,25 +6958,6 @@
         "Google"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6a3dbb0f6b1158",
-      "title": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes - ts2.tech",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWpEWnBxQ01CSnowQ3g0TEgxTHlHOF9TcGVMbnA3MzRKSFRNMHVaQzVOdkZmdVFYMGlmRWZ2TlAxeWJGQ0NxSmFYVHdZUVZ3dDVFOEdqME5uUXdPQkpqZTZpTHFOekxFN2hVZXpoY2ZhQjJXeFF2WXNBTHFERjFURzh3LUtJaW50QUVXYmE2OUVDZ1dOTUE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google’s €13 Billion Finland AI Build Raises Alphabet’s Cash-Flow Stakes &nbsp;&nbsp; ts2.tech",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -10224,143 +10369,6 @@
       "id": "53f117cce7648c",
       "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNlhmY0FDN1ZzNGlsRmYtZUV4Q1dnenltUWVoalpyUlBwQzktUEhqLThya2JscGdSeDlwcWREQmRCaXg5c2JsMTlMQTR1NVIwVmVFbVlyemJ0UnFTTWpfUnBudFVzYjFpR2RCVldmZzVnMmdQVHQ5TGNfdTliNTdGa29vNDloVWltcGxaVzlDc0owZ005Ykdmdk93ZWVkN1FEdldWS3hRREo5aVpZczRCUzR6QS1XM0xuOWFKRGJDQ2hlSWs3TnRTZDJMUGZob09JM1ZsTTZ6MURfN1FtRjl2YzZuZElpOVBJYnZOR3FLazVoNkxYU1hManZKOE5PUQ?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f5d29414725c49",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMy1Jc0RGY2hPWWdmY0RBZkRTS3JXbzNjWnB0UERSV2l4UVJGSmhqZ0ZKRTFwMDhqMVRDNm9iZzh2Z1pfLXhoWEU5VF9YTXJxWkNrYUViSldKbHlCcjhKS0hTZUNrUEJpdkpiN1dEbWpmTVZhd1NSMG4wMjUtaEJNZ1NsVzlYNFFleGRSLUZlWEkxNDBlTWd5SDd6VXZSWkg2WW9JNGFPaXlFMG9wVlB5VUZ1MjJYNjE0X28yc1l1azl0Z0kyOXAtMmhFMHZSVVhtbHFNTGNqSXZoVXZkSXVnMDZfaGtoUUJVcTZOVllQR1hmRmpXWGRYeHdn?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78666b8d7a2bf7",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPLW9vQkJ4RVFmajdneHZsNEVTWUUweVZac3NwZnBGVDNwOVJFZWMwbWwyQm5QenFocFc5WkJENnRLZ0FfRUxnY1AtMWhFRlZFWTdpeDRGRUZ3ekpta2Q1Wkw1Y2U2N2x6c1d4SWN6SWwxdlN0ZjZHLXFTN1Z6NU5hQm0wUF9TZ1Z2U3VMZENRc1llbkdhdVR0dWk3Yy1BaERQd1RQa1VZaEF3blNVd2R0SzhuN202MVB3NzJ5eFRocVhqUTc0dEtjWmVKZi1RZ0NNb1FpdGk5YmZSbzdxMFFIbTUwVktCWWMyakF5a1hFZUFGUmdmNnNSWnh3?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "31a6bfc18c9420",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlhjMm9DcTZJMldPZE1wSVM2Rm5ta3hOdzl4bWd4R3RYNWh6SzM0LVJjREFpUjBYb19wUXo1cS1tbXpFMGVZdW1EMWdNOWdWeWpoRkctSWt2RGZRb0dxc3AzWVdBem5DNnJjNi1ZODhBX1BSaHFFY1VEMGJRT1ByMk12Ym1MSWdLMjAtdGNLLVBvUE0wb3JXRW4zTzd4ekUxVS1QR2lET24zMDRkZ2JpaGVnaFlrZTl1ZEJST2gwTk5LWXFHVzB2bGJYQUpJLXF5MThTTWlhWF9JelVGOElURmhDUFFDOXNSSHFER2VZUVhHMWc?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; theglobeandmail.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e747f81e385b0e",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-02",
-      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e82b0ea33759fd",
-      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-02",
-      "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c9d6bb409e13b0",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSXVKNU1jMWNaV3BXLUpMSEVhNU5zYmZ4SHlENFlhY1B0bUVESW9lVDdLUmRGTTZQXzdQa29IM19oUGRqR0tia09BZGRCY0JKOWE0YlF0ZDZZVmtwR2RaTnFLajJFTXFBLWhvV0FkWnlyMElHdVNTYk5jRU1oSEZUcEJkc3hRd1FZTlhQSDc3NVZOVGhXUEkzbGpiWGE1OVk5Q0U5czljYlBoM0M2MG5maUJSVUg1RW5SajVEdEsxckxkN0l1SEZLdXFfd2ZVWVZxTXFlTl90Xy0tTnNHSlVaWXFSWk81RTRoT3pBMFhERzVFMDg1dzFkUVlyWDk?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-02",
-      "summary": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. &nbsp;&nbsp; The Globe and Mail",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6483bd534e5ee7",
-      "title": "In landmark ruling, court declines to break up Google’s advertising business",
-      "url": "https://siliconangle.com/2026/09/02/court-declines-to-break-up-googles-advertising-business-in-landmark-ruling/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-02",
-      "summary": "A federal court today rejected a proposal by the U.S. Justice Department to break up Google LLC’s ad business. The ruling came in connection with an antitrust lawsuit that began more than three years ago. In January 2023, the Justice Department and several state attorneys general sued Google LLC over its display advertising unit. The [&#8230;] \n The post  In landmark ruling, court declines to break up Google’s advertising business  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2f7edf35702c77",
-      "title": "Forget Nebius. CoreWeave Has a New Competitor. And It's Not Another AI Cloud Company. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQjNhX1FaTlpIam8zUmhDWER3OEVnRjMxTmpQYmpKYkQyWlBfWThfNHR1YVQ4d0NJTmdFZWZlcmxPVVRNU3BBWFJCR2VCS0s1UzFQdFZOQjlJa0phUlgwYTU1QjMyeWxPOU11RjJ3M01QXzc5ZExxbzB2Tkt6ZVFQbXg4V0xkbEp1TXBZZThJQVdxcEtxMHIzZkJ1THp5cFB5RlpvVTgzYThKa2lTNFpHdmtLUGwxZG9KUzNvdFdWVkF6RnI0Y1BvdTl1Vm9pRmcxVmItVVNLQnIzMmYtellLeE9MX2kyQnNodTU5aFlPc0lkN3JDNzloVXdNaVU0QQ?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-09-02",
