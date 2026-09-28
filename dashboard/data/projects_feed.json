@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-28T17:58:50.157809+00:00",
+  "last_updated": "2026-09-28T23:11:04.560413+00:00",
   "finding_count": 600,
-  "new_project_count": 102,
-  "cancellation_count": 25,
+  "new_project_count": 104,
+  "cancellation_count": 26,
   "sec_filing_count": 4,
-  "high_confidence_count": 158,
+  "high_confidence_count": 155,
   "findings": [
     {
       "id": "b0e425242e35db",
@@ -26,6 +26,26 @@
         "90MW"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "47039a9ec32737",
+      "title": "Nvidia boosts share buyback program by record $150B",
+      "url": "https://siliconangle.com/2026/09/28/nvidia-boosts-share-buyback-program-by-record-150b/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "Nvidia Corp. today announced plans to spend an additional $150 billion on share buybacks through January 2028. The move represents the largest-ever expansion of a stock repurchase program. Furthermore, Nvidia plans to boost its current dividend of $0.25 per share. The company didn’t specify the size or timing of the planned increase. Nvidia says that the [&#8230;] \n The post  Nvidia boosts share buyback program by record $150B  appeared first on  SiliconANGLE .",
+      "finding_type": "Expansion",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$150B",
+        "$150 billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -61,6 +81,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "c6203c2bfff811",
+      "title": "Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business",
+      "url": "https://siliconangle.com/2026/09/28/meta-hires-mongodb-ceo-cj-desai-to-lead-new-enterprise-ai-business/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "Meta Platforms Inc. is launching a new business unit that will provide artificial intelligence services to enterprises.  The Meta Enterprise Platform, as it’s called, will be led by longtime technology executive CJ Desai. The company stated in a launch announcement today that he will hold the title of chief enterprise platform officer. Desai is joining [&#8230;] \n The post  Meta hires MongoDB CEO CJ Desai to lead new enterprise AI business  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "afd31fac1fef20",
+      "title": "Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model",
+      "url": "https://siliconangle.com/2026/09/28/anthropic-debuts-claude-sonnet-5-5-running-30-faster-than-the-previous-generation-ai-model/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "Anthropic PBC today announced the launch of Claude Sonnet 5.5, the most capable mid-tier model in the company’s AI family, designed for everyday tasks and a clear upgrade over the previous generation, running over 30% faster at a lower cost. Sonnet operates as the workhorse of Anthropic’s Claude family of models for everyday use, and [&#8230;] \n The post  Anthropic debuts Claude Sonnet 5.5 running 30% faster than the previous-generation AI model  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "7a281bc97aeed2",
       "title": "Nvidia debuts enhanced safety controls to rein in rogue AI agents",
       "url": "https://siliconangle.com/2026/09/28/nvidia-debuts-enhanced-safety-controls-to-rein-in-rogue-ai-agents/",
@@ -73,6 +127,25 @@
         "NVIDIA"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b49bdca3fb6e77",
+      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [
+        "Florida"
+      ],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -246,6 +319,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4ac2f02ca9169",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "25c35754f38b8d",
+      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc35e27ae18521",
+      "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
+      "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "Google support maps out how Googlebooks can take over where ChromeOS left off.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -442,13 +566,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ea2ed17f1a6fda",
-      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy - fool.com",
+      "id": "841072fa955d8c",
+      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFJ4Q2pMbUEzRWlJRS1MTWRVNHJtbXFIWW9HREFadDRzWVdRbjBjaGl1WmdFTlpvZWRxSmgzRnp6Rk9aSlRTU0NZOVEtM0Q5ZjU2UUkxeUFYSGU3Rk9pWUZSak9XMW0yMTVDTlc4ZUxXYVM2NTIyOXozeWo4a3dodDFSQms5UE9ubFZ1MDBB?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-26",
-      "summary": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy &nbsp;&nbsp; fool.com",
+      "summary": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -461,13 +585,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "841072fa955d8c",
-      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy - The Motley Fool",
+      "id": "ea2ed17f1a6fda",
+      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy - fool.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFJ4Q2pMbUEzRWlJRS1MTWRVNHJtbXFIWW9HREFadDRzWVdRbjBjaGl1WmdFTlpvZWRxSmgzRnp6Rk9aSlRTU0NZOVEtM0Q5ZjU2UUkxeUFYSGU3Rk9pWUZSak9XMW0yMTVDTlc4ZUxXYVM2NTIyOXozeWo4a3dodDFSQms5UE9ubFZ1MDBB?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-26",
-      "summary": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy &nbsp;&nbsp; The Motley Fool",
+      "summary": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -736,6 +860,57 @@
       "is_high_confidence": false
     },
     {
+      "id": "327e4d3ee2565a",
+      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-25",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5ad0c6a8f733ad",
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-25",
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3f5f6dd062599c",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-25",
+      "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... \n The post  Introducing the new Copilot with Home, Code and Autopilot  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c231b4e3463cdb",
       "title": "Microsoft overhauls Copilot with new coding, document editing features",
       "url": "https://siliconangle.com/2026/09/25/microsoft-overhauls-copilot-with-new-coding-document-editing-features/",
@@ -788,40 +963,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "327e4d3ee2565a",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ad0c6a8f733ad",
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "Ads appearing all over the Internet are trying to scam people.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c4796a3d45afe4",
       "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
       "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
@@ -829,23 +970,6 @@
       "source_cat": "Tech News",
       "date": "2026-09-25",
       "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3f5f6dd062599c",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-25",
-      "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... \n The post  Introducing the new Copilot with Home, Code and Autopilot  appeared first on  The Official Microsoft Blog .",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
@@ -1289,6 +1413,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "6d09a755f30d18",
+      "title": "How data centers shift landscape of rural communities - WCAX",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-24",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d5c089eb18736f",
       "title": "5 ways to upgrade your study habits with Chrome",
       "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
@@ -1587,21 +1726,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6d09a755f30d18",
-      "title": "How data centers shift landscape of rural communities - WCAX",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6476e8d3bf7888",
       "title": "800 VDC architecture for AI infrastructure",
       "url": "https://www.datacenterdynamics.com/en/whitepapers/800-vdc-architecture-for-ai-infrastructure/",
@@ -1828,6 +1952,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "272eec91f2f6bb",
+      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-23",
+      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "9ac30e6a91cf07",
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
@@ -1869,23 +2008,6 @@
       "source_cat": "Company IR",
       "date": "2026-09-23",
       "summary": "Colorful, iridescent 3D tiles with embossed symbols on a black background.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78399a2f72289d",
-      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1949,15 +2071,17 @@
       "is_high_confidence": false
     },
     {
-      "id": "272eec91f2f6bb",
-      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
+      "id": "78399a2f72289d",
+      "title": "We’re honoring Latino culture this Hispanic Heritage Month.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
       "date": "2026-09-23",
-      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "summary": "Celebrate Hispanic Heritage Month with Google’s Latin Pop Doodle and curated Google TV collections. See how we honor Latino culture today.",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2397,6 +2521,23 @@
         "$189 million"
       ],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c1780c6d79d443",
+      "title": "Now on Amazon CloudWatch Omni: collaborative AI-powered observability for your applications",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-22",
+      "summary": "Amazon CloudWatch Omni is the next evolution of CloudWatch — unified observability that brings your applications and AI agents into one reimagined experience, with auto-discovered topology, natural language queries, and AI-guided investigation powered by AWS DevOps Agent.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -3034,23 +3175,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f09b29fd79a54e",
-      "title": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTVIYXN1MVNGVlpFaXBWSU5qdml0UEtPZHl1SXJYQ3BiZWpvRjJjR1BBMXQ1UmtFWFFHYkpCdXlJRkU2Q2U4RjBEN3pCb3NtYUJmckt2a3FhclhOeVFZR3pjaW5YMWRaQzdJUmd6ck9ZcDV0YXhsd010OC1xbWlTTmlTS0tWamN6QnVHZFBPMnFwYUhk?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-21",
-      "summary": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "aa648d68d81d90",
       "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
@@ -3080,6 +3204,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f09b29fd79a54e",
+      "title": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTVIYXN1MVNGVlpFaXBWSU5qdml0UEtPZHl1SXJYQ3BiZWpvRjJjR1BBMXQ1UmtFWFFHYkpCdXlJRkU2Q2U4RjBEN3pCb3NtYUJmckt2a3FhclhOeVFZR3pjaW5YMWRaQzdJUmd6ck9ZcDV0YXhsd010OC1xbWlTTmlTS0tWamN6QnVHZFBPMnFwYUhk?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-09-21",
+      "summary": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -4997,9 +5138,9 @@
         "New York"
       ],
       "amounts": [
-        "1,525MW",
         "2.3GW",
-        "20GW"
+        "20GW",
+        "1,525MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -5438,13 +5579,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6d684b3dfdb132",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
+      "id": "2de0af3e910e9f",
+      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
+      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5457,13 +5598,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "2de0af3e910e9f",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - The Motley Fool",
+      "id": "6d684b3dfdb132",
+      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; The Motley Fool",
+      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5951,13 +6092,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1640c640390122",
-      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
+      "id": "12fb9bfba0a911",
+      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -5966,13 +6107,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "12fb9bfba0a911",
-      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
+      "id": "1640c640390122",
+      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -6541,13 +6682,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "065d9f399ecc8c",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
+      "id": "85bd60111b4b04",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -6563,13 +6704,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "85bd60111b4b04",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
+      "id": "065d9f399ecc8c",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -6688,6 +6829,23 @@
         "2GW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e417975d2ec612",
+      "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkdLRWU4N1VWRWlGMXEtY2lrekp3dlU0UmRGOElRMEZIeUVIYXNNNGRaMFdMUW93MFRTOHN2VEtVLTZqeE9BMWM1Rzl1OWlSMGV3V1RiSFdMUUt3U3h1TkFtdnB3NnplTUNLR2lBZU5nMTNtT3FDdTA0MDZ6WDkwc1hHNXNRUUN6dXZaZVRJUnVuRmptTS1ZLUY0VnhzLVI1VVl3?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Fluidstack breaks ground on $4 billion data center project in Cameron County &nbsp;&nbsp; krgv.com",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -6844,19 +7002,18 @@
       "is_high_confidence": true
     },
     {
-      "id": "442436852c710f",
-      "title": "Google plans for $15B AI build-out in Finland - The Arkansas Democrat-Gazette",
+      "id": "36d70e4b154ae4",
+      "title": "Google plans for $15B AI build-out in Finland - arkansasonline.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmV4SFZUUFpQS2RseHJjUUVWT2ZKTlRDLXBjNHJfMlBKYVRsZ1dLXzZHeGZrUFNBbWVrYkN4UGFIUzBvVFZ0UVQzRHNXUVFqWWdJVWpuM05VdVd6d0d5QkxuR190alRpOHpodlVGWHhkYy1MRFhrNGh0ZnlVUmVFTVZSUUZUbmUwSkpnbWVnclJndTJqc2pOZg?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-10",
-      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; The Arkansas Democrat-Gazette",
+      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; arkansasonline.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
       ],
       "locations": [
-        "Arkansas",
         "Finland"
       ],
       "amounts": [
@@ -6878,6 +7035,28 @@
       "locations": [],
       "amounts": [
         "$10B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "442436852c710f",
+      "title": "Google plans for $15B AI build-out in Finland - The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmV4SFZUUFpQS2RseHJjUUVWT2ZKTlRDLXBjNHJfMlBKYVRsZ1dLXzZHeGZrUFNBbWVrYkN4UGFIUzBvVFZ0UVQzRHNXUVFqWWdJVWpuM05VdVd6d0d5QkxuR190alRpOHpodlVGWHhkYy1MRFhrNGh0ZnlVUmVFTVZSUUZUbmUwSkpnbWVnclJndTJqc2pOZg?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-10",
+      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; The Arkansas Democrat-Gazette",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Arkansas",
+        "Finland"
+      ],
+      "amounts": [
+        "$15B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -6934,27 +7113,6 @@
         "Finland"
       ],
       "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "36d70e4b154ae4",
-      "title": "Google plans for $15B AI build-out in Finland - arkansasonline.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmV4SFZUUFpQS2RseHJjUUVWT2ZKTlRDLXBjNHJfMlBKYVRsZ1dLXzZHeGZrUFNBbWVrYkN4UGFIUzBvVFZ0UVQzRHNXUVFqWWdJVWpuM05VdVd6d0d5QkxuR190alRpOHpodlVGWHhkYy1MRFhrNGh0ZnlVUmVFTVZSUUZUbmUwSkpnbWVnclJndTJqc2pOZg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-10",
-      "summary": "Google plans for $15B AI build-out in Finland &nbsp;&nbsp; arkansasonline.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "$15B"
-      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -7142,13 +7300,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c77b4c2661d355",
-      "title": "Aligned Data Centers and Shippingport Community Mark - globenewswire.com",
+      "id": "ad87c4dc41f648",
+      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; globenewswire.com",
+      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -7172,13 +7330,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad87c4dc41f648",
-      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
+      "id": "c77b4c2661d355",
+      "title": "Aligned Data Centers and Shippingport Community Mark - globenewswire.com",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
+      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; globenewswire.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9116,13 +9274,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5ff05d4755dab9",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - news.futunn.com",
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; news.futunn.com",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9135,13 +9293,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "834451a90e0d47",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "id": "5ff05d4755dab9",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - news.futunn.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; news.futunn.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -10207,171 +10365,6 @@
       ],
       "confidence": 7,
       "is_high_confidence": true
-    },
-    {
-      "id": "a88716e8451ef9",
-      "title": "Gimlet Labs nabs $300M for its disaggregated inference platform",
-      "url": "https://siliconangle.com/2026/09/04/gimlet-labs-nabs-300m-for-its-disaggregated-inference-platform/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "Gimlet Labs Inc., a startup that helps developers speed up their inference workloads, has raised $300 million in funding at a $3 billion valuation. Andreessen Horowitz led the Series B round. Gimlet stated in a blog post today that the firm was joined by Arm Holdings Inc., Samsung Ventures, Microsoft Corp.’s M12 fund and more [&#8230;] \n The post  Gimlet Labs nabs $300M for its disaggregated inference platform  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$300M",
-        "$300 million",
-        "$3 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3194577ca804de",
-      "title": "Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI",
-      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "Perhaps it&#8217;s no surprise that Nvidia ended up embracing open artificial intelligence model archive Hugging Face this week following more than a week of rumors. Even at almost $13 billion, it may end up being a steal &#8212; especially for a company that had $24 billion in cash flow last quarter alone. The reason: Hugging [&#8230;] \n The post  Nvidia bags Hugging Face, AI models play leapfrog and CrowdStrike doubles down on AI  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$24 billion",
-        "$13 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8b18a9eb265856",
-      "title": "Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks",
-      "url": "https://siliconangle.com/2026/09/03/nvidia-pair-makes-it-easy-to-create-a-household-data-center-for-running-agentic-ai-tasks/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "Nvidia Corp. is targeting artificial intelligence agent enthusiasts with a new local distributed clustering tool called the Personal AI Router. It enables them to use any idle Mac computers or PCs lying around the house to run small language models on demand and accelerate agentic workloads with the assistance of sub-agents. It was announced at IFA [&#8230;] \n The post  Nvidia PAIR makes it easy to create a household data center for running agentic AI tasks  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "09dd2d4e5502fa",
-      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-04",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$2 trillion"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b52090b8781252",
-      "title": "Data center proposal approved by local council in suburb of Frankfurt, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-proposal-approved-by-local-council-in-suburb-of-frankfurt-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "The facility in Gießen will have a connected load of up to 65MW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany",
-        "Frankfurt"
-      ],
-      "amounts": [
-        "65MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "039e0e60bfb84b",
-      "title": "Meta's $1.2bn data center in Kuna, Idaho, goes live",
-      "url": "https://www.datacenterdynamics.com/en/news/metas-12bn-data-center-in-kuna-idaho-goes-live/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Facility is the company's second AI-optimized data center",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Idaho"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c9301100cbbdfc",
-      "title": "Google Translate rolls out new upgrades for iOS and Android.",
-      "url": "https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-04",
-      "summary": "We’re bringing listening mode to iOS, and on Android, keep live translations running while you’re using other apps or when your screen is locked.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "95adcd0da0a9d7",
-      "title": "Cisco remakes the edge for AI’s data-heavy future",
-      "url": "https://siliconangle.com/2026/09/04/cisco-delivers-edge-computing-ai-ciscoaward/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "The modern edge computing platform has arrived. Before the explosion of artificial intelligence, edge computing sites were generally regarded as a back-end support function, smaller and more remote copies of a data center. However, as agentic AI has intensified infrastructure demands, the edge has emerged as an AI-ready compute system in its own right, with [&#8230;] \n The post  Cisco remakes the edge for AI’s data-heavy future  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb2d5781aa65c2",
-      "title": "Report: OpenAI agents took over a website, used it to collaborate on benchmarks",
-      "url": "https://siliconangle.com/2026/09/04/report-openai-agents-took-over-a-website-used-it-to-collaborate-on-benchmarks/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "Artificial intelligence agents linked to OpenAI Group PBC reportedly took over a German website and used it to exchange information. Reuters revealed the incident today, citing two unnamed sources and a group of AI researchers. The researchers spotted the incident in August. They shared their findings with Reuters in the form of a report that [&#8230;] \n The post  Report: OpenAI agents took over a website, used it to collaborate on benchmarks  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
