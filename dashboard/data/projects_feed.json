@@ -1,11 +1,193 @@
 {
-  "last_updated": "2026-09-28T08:20:14.679922+00:00",
+  "last_updated": "2026-09-28T17:58:50.157809+00:00",
   "finding_count": 600,
-  "new_project_count": 101,
-  "cancellation_count": 23,
-  "sec_filing_count": 3,
-  "high_confidence_count": 156,
+  "new_project_count": 102,
+  "cancellation_count": 25,
+  "sec_filing_count": 4,
+  "high_confidence_count": 158,
   "findings": [
+    {
+      "id": "b0e425242e35db",
+      "title": "Goodman withdraws application for 90MW data center campus in Sydney, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/goodman-withdraws-application-for-90mw-data-center-campus-in-sydney-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Company says data center policy and regulatory environment had “evolved significantly”",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "amounts": [
+        "90MW"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "8ee5b16b17e9fc",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-28",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "abbf15f82e628f",
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7a281bc97aeed2",
+      "title": "Nvidia debuts enhanced safety controls to rein in rogue AI agents",
+      "url": "https://siliconangle.com/2026/09/28/nvidia-debuts-enhanced-safety-controls-to-rein-in-rogue-ai-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "Few companies are more invested in the success of artificial intelligence agents than Nvidia Corp., so it makes sense that the chipmaker would want to ensure these autonomous software systems run safely, without causing any problems. To that end, Nvidia early today announced the debut of its free, open-source Nvidia Open Agent Safety Platform, which [&#8230;] \n The post  Nvidia debuts enhanced safety controls to rein in rogue AI agents  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "421b59e77500e0",
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c401f88eefb30a",
+      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Cautious welcome for European Commission labeling plans",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "325f0a9525e8b6",
+      "title": "Re-engineering silicon and system design for AI-era workloads",
+      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d653cfd2415c88",
+      "title": "Virtus secures £2.45bn in financing for data center build-out",
+      "url": "https://www.datacenterdynamics.com/en/news/virtus-secures-245bn-in-financing-for-data-center-build-out/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Funds to fuel projects in the UK and mainland Europe",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "702727bf25aff7",
+      "title": "Akamai signs $11.6bn compute deal with Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/akamai-signs-116bn-compute-deal-with-anthropic/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "AI firm to lease capacity from cloud and Edge company to support CPU workloads",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "388163a8dabf2f",
+      "title": "Russian drones strike Ukrainian telcos and data center operators as part of targeted attacks",
+      "url": "https://www.datacenterdynamics.com/en/news/russian-drones-hit-kyivstar-hq-vodafone-data-center-in-ukraine/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Kyivstar's HQ in Kyiv was struck in latest attack on capital",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8a9d813be079d2",
+      "title": "Energy storage strategies for the data center power chain",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/energy-storage-strategies-for-the-data-center-power-chain/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Tailoring for scale, speed and flexibility",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
     {
       "id": "e0c691b11bff2d",
       "title": "Vertiv expands data center kit manufacturing capacity in Slovakia",
@@ -37,6 +219,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b0b49b1b434c78",
+      "title": "On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising",
+      "url": "https://siliconangle.com/2026/09/28/ai-agents-security-thecubepod/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "As artificial intelligence matures, the security guardrails — and the computer system itself — are changing. This week, the conversation centered around agents going rogue. Better guardrails are needed, many argue, but that hasn’t slowed down the roll out of new AI models from the biggest players in the game. Looking further ahead,  John Furrier [&#8230;] \n The post  On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c52c8ea6920ab9",
       "title": "AWS CloudWatch Omni goes after the hardest question in agentic AI: Why did the agent do that?",
       "url": "https://siliconangle.com/2026/09/27/aws-cloudwatch-omni-goes-after-the-hardest-question-in-agentic-ai-why-did-the-agent-do-that/",
@@ -52,6 +251,108 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "cfc03357195730",
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-28",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1fda62baca140c",
+      "title": "Google Arts & Culture turns 15 — and gives its app a makeover",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-28",
+      "summary": "Celebrating 15 years of Google Arts & Culture with a new app experience YouTube video",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e199024e624e7e",
+      "title": "Introducing Vertical Video Unification with Display & Video 360.",
+      "url": "https://blog.google/products/marketingplatform/360/vertical-video-unification/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-28",
+      "summary": "Unify vertical video buys with Google Display & Video 360. See how Unilever boosted reach by 24% using Gemini-powered measurement. Get the details.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "db973307890172",
+      "title": "Launching Meta Enterprise Platform",
+      "url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-28",
+      "summary": "Today we are starting Meta Enterprise Platform to help businesses use AI to grow, and Chirantan \"CJ\" Desai will join Meta as Chief Enterprise Platform Officer \n The post  Launching Meta Enterprise Platform  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0524b8a8ba30d9",
+      "title": "Ninja Enterprise bundles AI employees and GPUs into one fixed yearly fee",
+      "url": "https://siliconangle.com/2026/09/28/ninjatech-ais-ninja-enterprise-bundles-ai-employees-and-gpus-into-one-fixed-yearly-fee/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "Artificial intelligence agent startup NinjaTech AI Inc. today launched Ninja Enterprise to let large companies run what the startup calls AI employees inside their own cloud environments for a fixed yearly fee. The graphics processing units those agents need are part of the deal. Ninja Enterprise is aimed at the unpredictable spending that NinjaTech says tends [&#8230;] \n The post  Ninja Enterprise bundles AI employees and GPUs into one fixed yearly fee  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ed0b9172f92033",
+      "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-27",
+      "summary": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta &nbsp;&nbsp; EnergyNow",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$13 Billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "6dd692aeb885d7",
@@ -133,11 +434,30 @@
       ],
       "locations": [],
       "amounts": [
-        "$2.26 billion",
         "$3.36 billion",
-        "$3.36B"
+        "$3.36B",
+        "$2.26 billion"
       ],
       "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ea2ed17f1a6fda",
+      "title": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFJ4Q2pMbUEzRWlJRS1MTWRVNHJtbXFIWW9HREFadDRzWVdRbjBjaGl1WmdFTlpvZWRxSmgzRnp6Rk9aSlRTU0NZOVEtM0Q5ZjU2UUkxeUFYSGU3Rk9pWUZSak9XMW0yMTVDTlc4ZUxXYVM2NTIyOXozeWo4a3dodDFSQms5UE9ubFZ1MDBB?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-09-26",
+      "summary": "Amazon Is Spending $220 Billion on Data Centers. Here's Why That Makes The Stock an Incredible Buy &nbsp;&nbsp; fool.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$220 Billion"
+      ],
+      "confidence": 8,
       "is_high_confidence": true
     },
     {
@@ -231,21 +551,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b2e8c3e10f475e",
-      "title": "AI infrastructure will define the next industrial revolution",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-26",
-      "summary": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "566895d5338080",
       "title": "What to expect at Dell’s AI Leadership Symposium: Join theCUBE Sept. 29",
       "url": "https://siliconangle.com/2026/09/25/dell-ai-infrastructure-leadership-symposium-dellaileadershipsymposium/",
@@ -268,6 +573,21 @@
       "source_cat": "Tech News",
       "date": "2026-09-26",
       "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b2e8c3e10f475e",
+      "title": "AI infrastructure will define the next industrial revolution",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-will-define-the-next-industrial-revolution/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-26",
+      "summary": "Energy technology, intelligence, and digital infrastructure are providing ubiquitous benefits across the world",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -310,13 +630,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "4abcbd093f1586",
-      "title": "Thailand set to finalize new data center regulations by mid-October - report",
-      "url": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "c182c310477364",
+      "title": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
+      "url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
       "date": "2026-09-25",
-      "summary": "Expected to classify data centers with a capacity of more than 100MW hyperscale facilities",
+      "summary": "1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 national capacity, 100MW in 12 months, Eastern Data Western Compute",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -327,13 +647,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c182c310477364",
-      "title": "The Chinese AI Infrastructure Boom: Introducing the SemiAnalysis China Datacenter Model",
-      "url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "4abcbd093f1586",
+      "title": "Thailand set to finalize new data center regulations by mid-October - report",
+      "url": "https://www.datacenterdynamics.com/en/news/thailand-set-to-finalize-new-data-center-regulations-by-mid-october-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-09-25",
-      "summary": "1,000+ facilities across 60+ operators mapped, built retail-first and flipped by AI, largest hyperscaler leases 1/5 national capacity, 100MW in 12 months, Eastern Data Western Compute",
+      "summary": "Expected to classify data centers with a capacity of more than 100MW hyperscale facilities",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -413,53 +733,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aeaa4263115c96",
-      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Follows publication of IPO prospectus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d71c9bd708b3b9",
-      "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-to-scale-data-centers-cheaper-faster-and-at-a-higher-quality/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Data centers are the last heavy industry still built by hand. It's time to move them into the factory",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "428d337515997e",
-      "title": "Northern Virginia's Prince William County puts controls on new data center projects",
-      "url": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Size of 'by right' overlay district for digital infrastructure projects cut by two thirds",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -583,6 +856,53 @@
       "is_high_confidence": false
     },
     {
+      "id": "aeaa4263115c96",
+      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-25",
+      "summary": "Follows publication of IPO prospectus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d71c9bd708b3b9",
+      "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
+      "url": "https://www.datacenterdynamics.com/en/opinions/how-to-scale-data-centers-cheaper-faster-and-at-a-higher-quality/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-25",
+      "summary": "Data centers are the last heavy industry still built by hand. It's time to move them into the factory",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "428d337515997e",
+      "title": "Northern Virginia's Prince William County puts controls on new data center projects",
+      "url": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-25",
+      "summary": "Size of 'by right' overlay district for digital infrastructure projects cut by two thirds",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "be168911bd6e0a",
       "title": "Vertiv to acquire data center fluid management firm King Environmental Services",
       "url": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/",
@@ -647,36 +967,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a130966c35e23c",
-      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-      "url": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3fd9fc7042c0ac",
-      "title": "DensityAI: Chip startup founded by former Tesla Dojo execs valued at $10bn – report",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-founded-by-former-tesla-dojo-execs-valued-at-10bn-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Company has raised “hundreds of millions” for development of chip with 3D DRAM stacking, report claims",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "c53d4ded95a479",
       "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
       "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
@@ -699,6 +989,36 @@
       "source_cat": "Tech News",
       "date": "2026-09-25",
       "summary": "Better thermals and battery life make this iterative update nicer to use.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a130966c35e23c",
+      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
+      "url": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-25",
+      "summary": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3fd9fc7042c0ac",
+      "title": "DensityAI: Chip startup founded by former Tesla Dojo execs valued at $10bn – report",
+      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-founded-by-former-tesla-dojo-execs-valued-at-10bn-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-25",
+      "summary": "Company has raised “hundreds of millions” for development of chip with 3D DRAM stacking, report claims",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -969,23 +1289,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "93dd0b567108de",
-      "title": "Researchers link more cyberattacks to OpenAI agent swarm",
-      "url": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "A research group has linked three more hacking campaigns to rogue artificial intelligence agents. Transluce, a nonprofit AI safety organization, detailed its findings on Wednesday. Its researchers determined that the agents targeted three services: a university’s digital library, a data visualization tool and a website operated by the Australian government. The last two incidents were [&#8230;] \n The post  Researchers link more cyberattacks to OpenAI agent swarm  appeared first on  SiliconANGLE ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d5c089eb18736f",
       "title": "5 ways to upgrade your study habits with Chrome",
       "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
@@ -1030,6 +1333,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "93dd0b567108de",
+      "title": "Researchers link more cyberattacks to OpenAI agent swarm",
+      "url": "https://siliconangle.com/2026/09/24/researchers-link-more-cyberattacks-to-openai-agent-swarm/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-24",
+      "summary": "A research group has linked three more hacking campaigns to rogue artificial intelligence agents. Transluce, a nonprofit AI safety organization, detailed its findings on Wednesday. Its researchers determined that the agents targeted three services: a university’s digital library, a data visualization tool and a website operated by the Australian government. The last two incidents were [&#8230;] \n The post  Researchers link more cyberattacks to OpenAI agent swarm  appeared first on  SiliconANGLE ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -1508,21 +1828,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "272eec91f2f6bb",
-      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-23",
-      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9ac30e6a91cf07",
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
@@ -1639,6 +1944,21 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "272eec91f2f6bb",
+      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-23",
+      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2419,25 +2739,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ed0b9172f92033",
-      "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-21",
-      "summary": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta &nbsp;&nbsp; EnergyNow",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "bec36cdb489ab3",
       "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - energynow.ca",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
@@ -2622,9 +2923,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "a3dc0a4076ebb6",
+      "id": "9641f10bb8531c",
       "title": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf0gGsAkFVX3lxTE5hNWFzWVYtcFRueVNxcFVmVEdEZzlLMm9UOW5TNXhJLXJFWEVRMk95VHY1RmpYZzhEdmpWRWVDNEJGSEdhVnd0WmhXSHcxX2F4MTU1TWVGTk42cGdZd0dzSzhfTmloV0xTRmpqb3lLNzUtOUNlQWZuUHhxRVE4MHlHUDd1eHVMeld0Y1hvenlVUzRINTVMUXNFOEZMM1JlZy1yS1VIWDZTOGh3ci1haTVfRVg5cHk2YWNNWF9EdDR5NXJWOHB5QU15UmFBaXFyU1JHdVRYQWFMTWxRREp5bzh5bHMzdk1zSm9PbkZ5anFSWGJuNWl2X2tFYkdkMFZYdDVXX1dRMENiTTBYdjBOZVlOSzkyTll1d1g5QXF1OFBmbzJsSXVkc25tOW85Qw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-09-21",
@@ -2652,9 +2953,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "9641f10bb8531c",
+      "id": "a3dc0a4076ebb6",
       "title": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf0gGsAkFVX3lxTE5hNWFzWVYtcFRueVNxcFVmVEdEZzlLMm9UOW5TNXhJLXJFWEVRMk95VHY1RmpYZzhEdmpWRWVDNEJGSEdhVnd0WmhXSHcxX2F4MTU1TWVGTk42cGdZd0dzSzhfTmloV0xTRmpqb3lLNzUtOUNlQWZuUHhxRVE4MHlHUDd1eHVMeld0Y1hvenlVUzRINTVMUXNFOEZMM1JlZy1yS1VIWDZTOGh3ci1haTVfRVg5cHk2YWNNWF9EdDR5NXJWOHB5QU15UmFBaXFyU1JHdVRYQWFMTWxRREp5bzh5bHMzdk1zSm9PbkZ5anFSWGJuNWl2X2tFYkdkMFZYdDVXX1dRMENiTTBYdjBOZVlOSzkyTll1d1g5QXF1OFBmbzJsSXVkc25tOW85Qw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-09-21",
@@ -4696,8 +4997,8 @@
         "New York"
       ],
       "amounts": [
-        "2.3GW",
         "1,525MW",
+        "2.3GW",
         "20GW"
       ],
       "confidence": 5,
@@ -5137,13 +5438,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2de0af3e910e9f",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - The Motley Fool",
+      "id": "6d684b3dfdb132",
+      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; The Motley Fool",
+      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -5156,13 +5457,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "6d684b3dfdb132",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
+      "id": "2de0af3e910e9f",
+      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
+      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; The Motley Fool",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -6240,13 +6541,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "85bd60111b4b04",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
+      "id": "065d9f399ecc8c",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -6262,13 +6563,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "065d9f399ecc8c",
-      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - fortune.com",
+      "id": "85bd60111b4b04",
+      "title": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland - Fortune",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHhQeVBvckRTZ05yV0QtbjlqbnNORU1NbEJVemdhRnA4ZW1mdEE5cl9uUl95MFdmREFDcTlTbTBaYU52b2ZrQzg3RnNpVWwtRHFTLTVTTThvQjhBaWppazNKOElicFFsN0dxTFZQWS1saHYzWXU0cUhzNVYyWjRvcDRuNFZhVGFvbnZJRk1qOWtLVm8yY0JtM3hiMA?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; fortune.com",
+      "summary": "Meet the data center capital of Europe as Google joins Microsoft and TikTok in betting over $30.2 billion on Finland &nbsp;&nbsp; Fortune",
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft",
@@ -7254,13 +7555,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a894406ec4446b",
-      "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
+      "id": "c4d1369a0258ed",
+      "title": "Google Commits $15 Billion to Massive Finland AI Hub - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; tikr.com",
+      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; TIKR.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7275,13 +7576,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "c4d1369a0258ed",
-      "title": "Google Commits $15 Billion to Massive Finland AI Hub - TIKR.com",
+      "id": "a894406ec4446b",
+      "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; TIKR.com",
+      "summary": "Google Commits $15 Billion to Massive Finland AI Hub &nbsp;&nbsp; tikr.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7533,6 +7834,44 @@
       "is_high_confidence": false
     },
     {
+      "id": "9d668f9dd3e8e9",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "576c9aa238e3c2",
+      "title": "Google to invest 13 billion euros in AI infrastructure in Finland - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGZUa01SWVRmeDdJMGxleUxVTWVSYXNEV3FSRDJ1b1h2alFzZFFza19nSUhKSUNTV0hrOFNBZE9peEk5dUtPbjBGREkzMjJQc29pYXFocy1vczdhWEFtaWZsOUZrVDhkYWNQMkF3NFlNTWdBaDI2TDZLVllhSFJWVnZOUHFlRl9vVWZNaVUyV2tVa3NFTFhuZVZOb2p6Q0tGRUtFSlJkaUtCb2lDenZCcl9XYVI5TEowSEU3NEI0cmdrclk?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest 13 billion euros in AI infrastructure in Finland &nbsp;&nbsp; The Business Times",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "0cbcbc4c18dcbb",
       "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
@@ -7578,44 +7917,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; وكالة الأنباء السورية – سانا",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9d668f9dd3e8e9",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "576c9aa238e3c2",
-      "title": "Google to invest 13 billion euros in AI infrastructure in Finland - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGZUa01SWVRmeDdJMGxleUxVTWVSYXNEV3FSRDJ1b1h2alFzZFFza19nSUhKSUNTV0hrOFNBZE9peEk5dUtPbjBGREkzMjJQc29pYXFocy1vczdhWEFtaWZsOUZrVDhkYWNQMkF3NFlNTWdBaDI2TDZLVllhSFJWVnZOUHFlRl9vVWZNaVUyV2tVa3NFTFhuZVZOb2p6Q0tGRUtFSlJkaUtCb2lDenZCcl9XYVI5TEowSEU3NEI0cmdrclk?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest 13 billion euros in AI infrastructure in Finland &nbsp;&nbsp; The Business Times",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -7831,13 +8132,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9673d87544fda3",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
+      "id": "a0dc449c4136e4",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -7867,13 +8168,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0dc449c4136e4",
-      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - BBC",
+      "id": "9673d87544fda3",
+      "title": "Google to fund Finnish AI with €13bn investment and nuclear power pact - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUUx2VDc2Xy03VWxPTjN4THdFODd0VG1mTjg5UDBmeDM0eGkySmN0bFlMWDMtVVdVSVdsRDVEUjhYb2RjY19MRmsyN3FoZUtvMV90WXk0NmhZZw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-09",
-      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; BBC",
+      "summary": "Google to fund Finnish AI with €13bn investment and nuclear power pact &nbsp;&nbsp; bbc.com",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -8815,13 +9116,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "834451a90e0d47",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
+      "id": "5ff05d4755dab9",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - news.futunn.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; news.futunn.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -8834,13 +9135,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "5ff05d4755dab9",
-      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - news.futunn.com",
+      "id": "834451a90e0d47",
+      "title": "Google announced a €13 billion investment in Finland to build at least three new data centers. - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblh6OGNIUjhoYjdBbHo4SGdwUlB5c3BBRVY5em82U05CbXgweXlLa21OYW8wM2J3OTdjckgxdnVmeXFWRWNxYmdPOWVWd201TzFWUjMxaFY0Tk1QblI2N2piVkViVjFyUjJrN0Jnam80LURyUGUyMkd0YVBvUEZZZzhUOGVaWGdzdTB6c3RpMVFpZmlKMHlLQ20yWEJoTTQ2dDdn?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-08",
-      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; news.futunn.com",
+      "summary": "Google announced a €13 billion investment in Finland to build at least three new data centers. &nbsp;&nbsp; 富途牛牛",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9674,13 +9975,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "e34cfb215e3006",
-      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - mwi.westpoint.edu",
+      "id": "5ebb7c74ea6603",
+      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - Modern War Institute -",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUhRQ3RHMXRfX0ZFZ1h6QzdxV2NaT21kRTRfRmZuNmtLWUQya0NESHhwYWFPOWRPNlpOY29XVWpqOXFQZGFMTDBuQXI0RzR2bUxaS3VOLVZlU2ZhbkNwbEg1VlUtZ1Z6dVhsX3Eyck5ZZGc4M2l0Z29aNlI3OGVZS3hER3Yzclk3cHdaMlZnb2tXNkJxSzRzSg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-06",
-      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; mwi.westpoint.edu",
+      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; Modern War Institute -",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9689,13 +9990,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "5ebb7c74ea6603",
-      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - Modern War Institute -",
+      "id": "e34cfb215e3006",
+      "title": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure - mwi.westpoint.edu",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUhRQ3RHMXRfX0ZFZ1h6QzdxV2NaT21kRTRfRmZuNmtLWUQya0NESHhwYWFPOWRPNlpOY29XVWpqOXFQZGFMTDBuQXI0RzR2bUxaS3VOLVZlU2ZhbkNwbEg1VlUtZ1Z6dVhsX3Eyck5ZZGc4M2l0Z29aNlI3OGVZS3hER3Yzclk3cHdaMlZnb2tXNkJxSzRzSg?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-06",
-      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; Modern War Institute -",
+      "summary": "Data Center Warfare: Defending the Key Terrain of AI Infrastructure &nbsp;&nbsp; mwi.westpoint.edu",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10071,294 +10372,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "1d337b01e31fd8",
-      "title": "Lightedge puts workload fit at the center of hybrid cloud optionality",
-      "url": "https://siliconangle.com/2026/09/04/lightedge-puts-workload-fit-at-the-center-of-hybrid-cloud-optionality-vmwareexplore/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "Hybrid cloud optionality is becoming more important as enterprises distribute applications across private clouds, public clouds and colocation facilities. Workload requirements for latency, security, compliance and proximity make a universal placement strategy increasingly impractical. Mergers, acquisitions and earlier cloud-first strategies can leave companies managing fragmented estates across Amazon Web Services Inc., Microsoft Corp.’s Azure and [&#8230;] \n The post  Lightedge puts workload f",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0433131ccd0995",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-04",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e6e2316d64a260",
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-04",
-      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ce45a40dcc45dc",
-      "title": "T5 spins out construction arm, sells operations biz to Salute",
-      "url": "https://www.datacenterdynamics.com/en/news/t5-spins-out-construction-arm-sells-operations-biz-to-salute/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "T5 Construction now EverOn Data Center Services",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3b3f7d26d10007",
-      "title": "Microsoft reveals Azure earnings for the first time, adjusts financial reporting practices",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-reveals-azure-earnings-for-the-first-time-adjusts-financial-reporting-practices/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Previously Azure was included under \"intelligent cloud\" segment",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0d514c094ecac1",
-      "title": "Santee Cooper partners with Google Cloud to roll out AI-driven load forecasting and financial planning tools",
-      "url": "https://www.datacenterdynamics.com/en/news/santee-cooper-partners-with-google-cloud-to-roll-out-ai-driven-load-forecasting-and-financial-planning-tools/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Will deploy both WeatherNext2 and Gemini Enterprise",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d5b02de3e6735b",
-      "title": "Flex acquires data center power conversion manufacturer EPC Power in $4.4bn deal",
-      "url": "https://www.datacenterdynamics.com/en/news/flex-acquires-data-center-power-conversion-manufacturer-epc-power-in-44bn-deal/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "EPC is a developer of 800V data center power architectures",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "96e2b5d02d175a",
-      "title": "Sponsored: Faster asset audits and interventions",
-      "url": "https://www.datacenterdynamics.com/en/opinions/faster-asset-audits-and-interventions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Many data centers are increasing asset density to support growing demand for computational power, driven by AI and Internet of Things-applications. How are data centers managing all these physical assets?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "26850d60357017",
-      "title": "Evolution DC signs pre-lease for first phase of Bangkok data center to unnamed hyperscaler",
-      "url": "https://www.datacenterdynamics.com/en/news/evolution-dc-signs-pre-lease-for-first-phase-of-bangkok-data-center-to-unnamed-hyperscaler/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Company's first Thai facility due online later this year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f3f1a94fe31265",
-      "title": "Telxius to build Edge data center in Cancún, Mexico",
-      "url": "https://www.datacenterdynamics.com/en/news/telxius-strengthens-caribbean-connectivity-with-a-new-edge-data-center-in-cancun/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Facility will serve as the landing point for the Tikal submarine cable, which will connect Puerto Barrios, Guatemala, with Boca Raton, United States",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "58450170db2c26",
-      "title": "Bitdeer buys 200 acres in Milam County, Texas, to expand AI and HPC data center",
-      "url": "https://www.datacenterdynamics.com/en/news/bitdeer-buys-200-acres-in-milam-county-texas-to-expand-ai-and-hpc-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Plans to expand AI and HPC capabilities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "67fff4a8728ef9",
-      "title": "DCD Talks: How data center batteries are driving new market value with Carlos Pérez Linkenheil, AFRY",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-talks-how-data-center-batteries-are-driving-new-market-value-with-carlos-p%C3%A9rez-linkenheil-afry/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Carlos Pérez Linkenheil, Head of Reports at AFRY talks to DCD's Tam Pledger on how batteries are driving new market value for data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "92679809a4a3fc",
-      "title": "Sponsored: Selecting the right partner for your data center changes everything",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/selecting-the-right-partner-for-your-data-center-changes-everything/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "Data center resilience is necessary for long-term industry success. PowerSecure’s Eric Dupont shares how the changing role of bridging power can help",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3e7aaf8f30f688",
-      "title": "Everpure sees AI infrastructure strategy move beyond virtual machines",
-      "url": "https://siliconangle.com/2026/09/04/everpure-sees-ai-infrastructure-strategy-move-beyond-virtual-machines-wmwareexplore/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-04",
-      "summary": "AI infrastructure strategy is expanding beyond compute and storage specifications as artificial intelligence reshapes who manages enterprise applications and data. Infrastructure teams are increasingly being asked to support virtual machines, Kubernetes, graphics processing units and AI workloads together. That expansion is reshaping responsibilities traditionally divided among infrastructure, data science and DevOps teams. Platform decisions increasingly [&#8230;] \n The post  Everpure sees AI i",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f339deb07e1452",
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-04",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5506dd6c6a5446",
-      "title": "PLDT's Vitro REIT signs SG.GS as colocation customer in the Philippines",
-      "url": "https://www.datacenterdynamics.com/en/news/pldts-vitro-reit-signs-sggs-as-colocation-customer-in-the-philippines/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "SG.GS will deploy networking systems across Vitro’s carrier-neutral facilities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4c1bd6e470d2ea",
-      "title": "Broadcom slams AI silicon-fueled Q3, promises double-double on the way",
-      "url": "https://www.datacenterdynamics.com/en/news/broadcom-slams-ai-silicon-fueled-q3-promises-double-double-on-the-way/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-04",
-      "summary": "And VMware continues to tick along",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a77a09233586a9",
-      "title": "Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face",
-      "url": "https://siliconangle.com/2026/09/03/nvidia-confirms-12-9b-acquisition-of-ai-hosting-platform-hugging-face/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-03",
-      "summary": "Nvidia Corp. today confirmed that it has agreed to buy Hugging Face Inc. for just over $12.93 billion. CNBC reported that the acquisition talks began a few weeks ago. Rumors that a deal was in the works surfaced last Monday, when sources tipped off Business Insider about the discussions. Two days later, The Information reported [&#8230;] \n The post  Nvidia confirms $12.9B acquisition of AI hosting platform Hugging Face  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$12.9B",
-        "$12.93 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
