@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-09-29T12:17:56.153316+00:00",
+  "last_updated": "2026-09-29T19:09:21.168843+00:00",
   "finding_count": 600,
   "new_project_count": 104,
-  "cancellation_count": 27,
+  "cancellation_count": 25,
   "sec_filing_count": 4,
-  "high_confidence_count": 156,
+  "high_confidence_count": 149,
   "findings": [
+    {
+      "id": "d1155a30319cef",
+      "title": "AMD acquires world model developer World Labs for $8.2B",
+      "url": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "Advanced Micro Devices Inc. today announced plans to buy World Labs Inc. for $8.2 billion in stock. The move comes seven months after AMD backed a $1 billion funding round for the startup at a $5 billion valuation. The deal also included the participation of rival Nvidia Corp., which is poised to realize a significant [&#8230;] \n The post  AMD acquires world model developer World Labs for $8.2B  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$8.2B",
+        "$5 billion",
+        "$8.2 billion",
+        "$1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "0a5b607a4f7fc5",
       "title": "Electricity retailer Energa Obrót signs letter of intent for 100MW data center in Konin, Poland",
@@ -26,25 +48,22 @@
       "is_high_confidence": true
     },
     {
-      "id": "d1155a30319cef",
-      "title": "AMD acquires world model developer World Labs for $8.2B",
-      "url": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "1f2e3c8542f18a",
+      "title": "Plans filed for 400MW data center campus outside Melbourne, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-400mw-data-center-campus-outside-melbourne-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-09-29",
-      "summary": "Advanced Micro Devices Inc. today announced plans to buy World Labs Inc. for $8.2 billion in stock. The move comes seven months after AMD backed a $1 billion funding round for the startup at a $5 billion valuation. The deal also included the participation of rival Nvidia Corp., which is poised to realize a significant [&#8230;] \n The post  AMD acquires world model developer World Labs for $8.2B  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
+      "summary": "New player HyperDC plans campus outside Geelong, near existing substation and BESS project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
       ],
-      "locations": [],
       "amounts": [
-        "$8.2 billion",
-        "$8.2B",
-        "$5 billion",
-        "$1 billion"
+        "400MW"
       ],
-      "confidence": 7,
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -80,6 +99,63 @@
       "amounts": [
         "$1B"
       ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "708c295b274180",
+      "title": "Global Switch to host large Nvidia Blackwell deployment at Paris data center",
+      "url": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "End user has not been disclosed",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Paris"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "375316a31da42a",
+      "title": "Google receives planning permission to expand data center in Dublin, Ireland",
+      "url": "https://www.datacenterdynamics.com/en/news/google-receives-planning-permission-to-expand-data-center-in-dublin-ireland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "An Coimisiún Pleanála greenlights plans",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Ireland"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cfd576974bbb5f",
+      "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "Builds on existing agreements in Australia",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -120,21 +196,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3a179cf6fb62d9",
-      "title": "Samsung invests $1bn into KKR's Helix data center platform",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-29",
-      "summary": "Helix to “leverage Samsung’s capabilities” in construction, energy, and cooling",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "0a8ffff3cee923",
       "title": "Florida AG asks court to prevent OpenAI from advancing its frontier models, as company scraps new one",
       "url": "https://siliconangle.com/2026/09/28/florida-attorney-general-asks-court-to-prevent-openai-from-advancing-its-frontier-models-even-as-company-scraps-new-release/",
@@ -154,13 +215,96 @@
       "is_high_confidence": false
     },
     {
+      "id": "3a179cf6fb62d9",
+      "title": "Samsung invests $1bn into KKR's Helix data center platform",
+      "url": "https://www.datacenterdynamics.com/en/news/samsung-invests-1bn-into-kkrs-helix-data-center-platform/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "Helix to “leverage Samsung’s capabilities” in construction, energy, and cooling",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ea2c963f6417f3",
+      "title": "Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands",
+      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-new-cloud-regions-in-turkey-finland-the-netherlands/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "Will also expand existing footprint in Malaysia, Germany, UAE, and elsewhere",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland",
+        "Netherlands",
+        "Malaysia",
+        "Germany",
+        "UAE"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "25f2087cfd54e5",
+      "title": "Sponsored: The faster we listen, the faster we can move",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-faster-we-listen-the-faster-we-can-move/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "“The data center industry doesn't have a permitting problem or a communications problem. It has a trust problem”",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "05df3c6b38c610",
+      "title": "Colovore files to develop data center in Fort Worth, Texas",
+      "url": "https://www.datacenterdynamics.com/en/news/colovore-files-to-develop-data-center-in-fort-worth-texas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "Liquid cooled data center firm details second facility in the Lone Star State",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5647e4bca562b8",
+      "title": "Submer launches Corenix to offer modular data center infrastructure",
+      "url": "https://www.datacenterdynamics.com/en/news/submer-launches-corenix-to-offer-modular-data-center-infrastructure/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "New unit to provide custom modules for customers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "5c6671ef6f6f8e",
       "title": "Plans unveiled for ‘largest’ data center in Italy",
       "url": "https://www.datacenterdynamics.com/en/news/plans-unveiled-for-largest-data-center-in-italy/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-09-29",
-      "summary": "An unnamed company has already submitted plans",
+      "summary": "Developer Moncalieri Logistics has already submitted the plans",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -178,6 +322,210 @@
       "summary": "Could cut the amount of cabling in data halls, and speed up deployment times",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "95a75f1c1629b2",
+      "title": "HPE Labs connects AI sovereignty with quantum security",
+      "url": "https://siliconangle.com/2026/09/29/data-sovereignty-hpe-andrew-wheeler-ai-thecube-hpesovereignai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "As director of HPE Labs, Andrew Wheeler (pictured) is uniquely positioned to observe rapid advancements in artificial intelligence and new developments for the emerging field of quantum computing. Yet, there is a third area that Wheeler, an HPE fellow and senior vice president, is often asked about. It is one that draws on HPE’s decades [&#8230;] \n The post  HPE Labs connects AI sovereignty with quantum security  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b27f88ce2717d6",
+      "title": "Oracle expands AI agent features with Fusion Claw",
+      "url": "https://siliconangle.com/2026/09/29/oracle-expands-ai-agent-functionality-with-fusion-claw/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "Oracle Corp. today is introducing an agentic software runtime that lets its Fusion applications carry out complex business tasks, from reconciling accounting entries to revising staffing plans when conditions change. Fusion Claw combines large language models for reasoning and planning with conventional software for calculations and transaction processing. Oracle is also announcing 25 applications powered [&#8230;] \n The post  Oracle expands AI agent features with Fusion Claw  appeared first on ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e4a150ed200a4c",
+      "title": "AI agent identity security demands layered defenses, Omdia says",
+      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security market. Okta Inc. recently added an AI agent runtime gateway and formed the Blueprint Alliance with Amazon Web Services Inc. and CrowdStrike [&#8230;] \n The post  AI agent identity security demands layered defenses, Omdia says  appeared first on  SiliconANGLE ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d68cb266cb607c",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-29",
+      "summary": "Similar performance, security trade-offs also seen in current public models.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d57450b91d34a9",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-29",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c3494e3ea63d14",
+      "title": "New Microsoft data innovations unlock what only your business knows",
+      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... \n The post  New Microsoft data innovations unlock what only your business knows  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "697de94acb8bc2",
+      "title": "Game on: Henry Cavill is putting Googlebook to the test",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": ": Actor Henry Cavill, with a mustache, wearing a brown ribbed knit sweater and jeans, sits at a large rustic wooden table resting his hand on an open Googlebook.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8535f31bf9a7ee",
+      "title": "Google is a technology partner for the launch of America.gov.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "Google partners with America.gov to use Gemini to help 100 million people access federal services faster. See how we are modernizing public access.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0b7d3acad0ee61",
+      "title": "Find Your Community With Forum, a Dedicated App for Facebook Groups",
+      "url": "https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "Find your community with Forum, an app built for people who want to go deeper in their Facebook groups. \n The post  Find Your Community With Forum, a Dedicated App for Facebook Groups  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ec166c2f2b77fd",
+      "title": "Expanding Instagram’s School Partnership Program to Help Teens Stay Informed",
+      "url": "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "We're expanding our School Partnership Program to give verified school partners, verified students, and parents new features to stay connected and informed.  \n The post  Expanding Instagram&#8217;s School Partnership Program to Help Teens Stay Informed  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b1a27cdf60da5d",
+      "title": "The Future Is for Everyone: Muse for Small Business",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "We’re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals.  \n The post  The Future Is for Everyone: Muse for Small Business  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1fde5ea00943ac",
+      "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
+      "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-09-29",
+      "summary": "As scams grow more sophisticated and difficult to detect, keeping people safe takes more than technology alone &#8211; it also requires education. Today, we&#8217;re sharing progress on our &#8220;One Step Ahead” anti-scam education campaign designed to help people across Asia-Pacific take simple, practical steps to protect their accounts and know where to turn for help when they encounter a potential scam.  The campaign was designed alongside more than 25 local safety organizations, law enforce",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -250,88 +598,33 @@
       "is_high_confidence": false
     },
     {
-      "id": "b27f88ce2717d6",
-      "title": "Oracle expands AI agent features with Fusion Claw",
-      "url": "https://siliconangle.com/2026/09/29/oracle-expands-ai-agent-functionality-with-fusion-claw/",
+      "id": "7e4d447cf1fe77",
+      "title": "4 insights from Dell’s AI Leadership Symposium: Cost and control reshape enterprise AI deployment strategy",
+      "url": "https://siliconangle.com/2026/09/29/enterprise-ai-deployment-strategy-shaped-cost-control-dellaileadershipsymposium/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-09-29",
-      "summary": "Oracle Corp. today is introducing an agentic software runtime that lets its Fusion applications carry out complex business tasks, from reconciling accounting entries to revising staffing plans when conditions change. Fusion Claw combines large language models for reasoning and planning with conventional software for calculations and transaction processing. Oracle is also announcing 25 applications powered [&#8230;] \n The post  Oracle expands AI agent features with Fusion Claw  appeared first on ",
+      "summary": "Getting AI into production has become the real test for enterprises. As the proof-of-concept phase ends, harder questions about cost, data and control are taking its place. That shift is rewriting enterprise AI deployment strategy as the conversation moves beyond models and GPUs to the infrastructure, data and operating models underneath. The next phase will [&#8230;] \n The post  4 insights from Dell&#8217;s AI Leadership Symposium: Cost and control reshape enterprise AI deployment strategy  app",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
-      "id": "e4a150ed200a4c",
-      "title": "AI agent identity security demands layered defenses, Omdia says",
-      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "c87e526ce1b259",
+      "title": "Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says",
+      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-09-29",
-      "summary": "AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security market. Okta Inc. recently added an AI agent runtime gateway and formed the Blueprint Alliance with Amazon Web Services Inc. and CrowdStrike [&#8230;] \n The post  AI agent identity security demands layered defenses, Omdia says  appeared first on  SiliconANGLE ",
+      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c3494e3ea63d14",
-      "title": "New Microsoft data innovations unlock what only your business knows",
-      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-29",
-      "summary": "Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from... \n The post  New Microsoft data innovations unlock what only your business knows  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b1a27cdf60da5d",
-      "title": "The Future Is for Everyone: Muse for Small Business",
-      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-29",
-      "summary": "We’re launching Muse for Small Business, a personal AI agent that works in the background to help your small business reach its goals.  \n The post  The Future Is for Everyone: Muse for Small Business  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1fde5ea00943ac",
-      "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
-      "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-29",
-      "summary": "As scams grow more sophisticated and difficult to detect, keeping people safe takes more than technology alone &#8211; it also requires education. Today, we&#8217;re sharing progress on our &#8220;One Step Ahead” anti-scam education campaign designed to help people across Asia-Pacific take simple, practical steps to protect their accounts and know where to turn for help when they encounter a potential scam.  The campaign was designed alongside more than 25 local safety organizations, law enforce",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -389,8 +682,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$150B",
-        "$150 billion"
+        "$150 billion",
+        "$150B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -530,53 +823,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c401f88eefb30a",
-      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
-      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-28",
-      "summary": "Cautious welcome for European Commission labeling plans",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "325f0a9525e8b6",
-      "title": "Re-engineering silicon and system design for AI-era workloads",
-      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-28",
-      "summary": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b0b49b1b434c78",
-      "title": "On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising",
-      "url": "https://siliconangle.com/2026/09/28/ai-agents-security-thecubepod/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-28",
-      "summary": "As artificial intelligence matures, the security guardrails — and the computer system itself — are changing. This week, the conversation centered around agents going rogue. Better guardrails are needed, many argue, but that hasn’t slowed down the roll out of new AI models from the biggest players in the game. Looking further ahead,  John Furrier [&#8230;] \n The post  On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a4ac2f02ca9169",
       "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
       "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
@@ -689,6 +935,53 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c401f88eefb30a",
+      "title": "Europe's data center efficiency labeling scheme needs nuance, industry leaders warn",
+      "url": "https://www.datacenterdynamics.com/en/analysis/europes-data-center-efficiency-labeling-scheme-needs-nuance-industry-leaders-warn/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "Cautious welcome for European Commission labeling plans",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "325f0a9525e8b6",
+      "title": "Re-engineering silicon and system design for AI-era workloads",
+      "url": "https://www.datacenterdynamics.com/en/opinions/re-engineering-silicon-and-system-design-for-ai-era-workloads/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-28",
+      "summary": "What does it take to deliver the silicon powering today and tomorrow’s data centers?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b0b49b1b434c78",
+      "title": "On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising",
+      "url": "https://siliconangle.com/2026/09/28/ai-agents-security-thecubepod/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-28",
+      "summary": "As artificial intelligence matures, the security guardrails — and the computer system itself — are changing. This week, the conversation centered around agents going rogue. Better guardrails are needed, many argue, but that hasn’t slowed down the roll out of new AI models from the biggest players in the game. Looking further ahead,  John Furrier [&#8230;] \n The post  On theCUBE Pod: Agents reshape enterprise systems, and CoreWeave keeps rising  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -1241,6 +1534,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "3f5f6dd062599c",
+      "title": "Introducing the new Copilot with Home, Code and Autopilot",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-25",
+      "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... \n The post  Introducing the new Copilot with Home, Code and Autopilot  appeared first on  The Official Microsoft Blog .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "327e4d3ee2565a",
       "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
@@ -1268,23 +1578,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3f5f6dd062599c",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-25",
-      "summary": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. Today we’re introducing the new Copilot to connect the tools people rely on with the next generation of capabilities they’ll need to build, customize and scale AI... \n The post  Introducing the new Copilot with Home, Code and Autopilot  appeared first on  The Official Microsoft Blog .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -1794,13 +2087,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a7f8bac698b53d",
-      "title": "How data centers shift landscape of rural communities - wcax.com",
+      "id": "6d09a755f30d18",
+      "title": "How data centers shift landscape of rural communities - WCAX",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; wcax.com",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1860,13 +2153,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6d09a755f30d18",
-      "title": "How data centers shift landscape of rural communities - WCAX",
+      "id": "a7f8bac698b53d",
+      "title": "How data centers shift landscape of rural communities - wcax.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; wcax.com",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -2333,21 +2626,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "272eec91f2f6bb",
-      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-23",
-      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "9ac30e6a91cf07",
       "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
       "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
@@ -2372,23 +2650,6 @@
       "source_cat": "Company IR",
       "date": "2026-09-23",
       "summary": "Google Beam promotional animation",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f0b250e937dffe",
-      "title": "6 new Google Flow Tools built by industry creatives",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Colorful, iridescent 3D tiles with embossed symbols on a black background.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2447,6 +2708,38 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "272eec91f2f6bb",
+      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-23",
+      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f0b250e937dffe",
+      "title": "6 new Google Flow Tools built by industry creatives",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-23",
+      "summary": "Colorful, iridescent 3D tiles with embossed symbols on a black background.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -3571,6 +3864,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "5ce9e7c7264e99",
+      "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVWxvdHhBQ2NwNWdDdDZzeU1LSVhYZHJyUjJNVnNVcC1SMzdEMG16azhlMS00V0xyTzF5YXdfVDljdEdYbTNFOFBZMDFIcE5BVTRwRVd1RzNCb0NsMmxla3otRlJSYVpqRm0zLWptRWVfamxkaURiTjQxSlBMdzdjNG5oVnpJcFUySktzaDFjOWs4SDFBcHBaSXkyeml2a1I3NkdLbTdiRkhKTmt3MGtRMXVOd19DT2k4Q1U2UVlIZm9tSF9jbk9KRTRLSnNmWVA3bEJoaFZpUFBmT0g4Nnl1NUc2ZkRkWHJZSGl2blBVR043NGxwX1ZNUXRuamcyTHJ6Wk1EVktQNlZBdmV6ck84VldZdFZyQ0dETU9DbS1ZbGdpY2hhWjdIUExiZm5KRmdUeWtrYzZNX3hIMWhtT18zaTNuYVAxaFI5V2YwQngyWDNCd2dSS2c?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-09-21",
+      "summary": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South &nbsp;&nbsp; Microsoft Source",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "aa648d68d81d90",
       "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
@@ -4611,8 +4923,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$3.9B",
-        "$30.9B"
+        "$30.9B",
+        "$3.9B"
       ],
       "confidence": 3,
       "is_high_confidence": false
@@ -5534,9 +5846,9 @@
         "New York"
       ],
       "amounts": [
+        "20GW",
         "1,525MW",
-        "2.3GW",
-        "20GW"
+        "2.3GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -6488,13 +6800,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "12fb9bfba0a911",
-      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
+      "id": "1640c640390122",
+      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -6503,13 +6815,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1640c640390122",
-      "title": "New data center complex breaks ground in Shippingport - Beaver County Times",
+      "id": "12fb9bfba0a911",
+      "title": "New data center complex breaks ground in Shippingport - timesonline.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY25MM19NbU5wMWxHLXQ3ay1RUXBRalpkRFlxeVpSeFgxZkZHbzZyVjk1SFo5M2FOM1ZLWEZTOE41RlVybllzRmZjUXZjR09CaTl2bWJKcjhiWlJqbHpOdnV4RjNST241Yk54LTJyelRCQlBiS1E3aUZzWnRJeEhjWkFMTlhCZUJiLXVheWg0bVQwX2pKcWpqMDNQV3hpUjBEVENhZGJCQVhjWVlpR081bmFwd3VlYXZaUUJEU25EWXZ3WkV3?oc=5",
       "source": "GNews: breaks ground data center",
       "source_cat": "Announcement",
       "date": "2026-09-13",
-      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; Beaver County Times",
+      "summary": "New data center complex breaks ground in Shippingport &nbsp;&nbsp; timesonline.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -7207,6 +7519,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "ebbea9c02b420e",
+      "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - Queen City News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-10",
+      "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Queen City News",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "e417975d2ec612",
       "title": "Fluidstack breaks ground on $4 billion data center project in Cameron County - krgv.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkdLRWU4N1VWRWlGMXEtY2lrekp3dlU0UmRGOElRMEZIeUVIYXNNNGRaMFdMUW93MFRTOHN2VEtVLTZqeE9BMWM1Rzl1OWlSMGV3V1RiSFdMUUt3U3h1TkFtdnB3NnplTUNLR2lBZU5nMTNtT3FDdTA0MDZ6WDkwc1hHNXNRUUN6dXZaZVRJUnVuRmptTS1ZLUY0VnhzLVI1VVl3?oc=5",
@@ -7231,23 +7560,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-10",
       "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ebbea9c02b420e",
-      "title": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers - Queen City News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1JoMFc3Qkt2MUZzX0RGTGhRcTZGcWNkbUFqWlc3Z0ExSEF4aFN5MVNaM1dUMkp2NC1CVFhSVTlFS1BQMHlhUlEyb2gtd3d6eEdYR0lYbEhBdGhlZ2trMW5BT1NlRXdRRVkwUFFoVTZNY3NvMW9OOUNyX1JvUTlfRHJRbXAtYVI0X2dzSXVxb0QzX19MODJPVVNZVGhsZzNhZm1HU1RjMUU0LS1jdm1XWnFFemc5Q0p5UzZ1amR6bm8zcmNWY2YwcUxJbVlnNFBCMU9tZnB4MTQyLWx6cVpaS016aw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-10",
-      "summary": "Fiber cable manufacturer breaks ground on $1 billion expansion at Catawba County campus to supply data centers &nbsp;&nbsp; Queen City News",
       "finding_type": "New Project",
       "companies": [],
       "locations": [],
@@ -8409,13 +8721,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9d668f9dd3e8e9",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
+      "id": "0cbcbc4c18dcbb",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -8447,13 +8759,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8908e8bf2bf789",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
+      "id": "9d668f9dd3e8e9",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -8466,13 +8778,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "0cbcbc4c18dcbb",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Bloomberg",
+      "id": "8908e8bf2bf789",
+      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnRWOHhfSHVOanRzam11TkE1MkFfZWhyLTBaOERZYmZjNFlNOHR0S1B4NnVPMnpVWjB1UkpXQldDWUE1VUU1aUwxWFNpMERibV9GQk9vZW52UHMwdVdKMDl1QzlQdDRIcmdxUm9WcXJCZ3RDSHQtY3pwd2pXR2tlejQxUzRMTll6X2FoRk02MG82TjF5cHo4bGpmNFNDMmI4RlFjV1RiTjdhci1MR2JoOUliTV8?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Bloomberg",
+      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; bloomberg.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -10075,313 +10387,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4a5827d4a8f8d9",
-      "title": "Retrofitting for the next era of data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/retrofitting-for-the-next-era-of-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "How colocation providers are unlocking capacity, efficiency and growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b41e89af078568",
-      "title": "Fleet seeks approval to build two methane power plants to power data centers in Nevada - report",
-      "url": "https://www.datacenterdynamics.com/en/news/fleet-seeks-approval-to-build-two-methane-power-plants-to-power-data-centers-in-nevada-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Decision expected from the Public Utility Commission of Nevada in the coming days",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Nevada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fce048483e1f0c",
-      "title": "Firmus to provide OpenAI with compute capacity in Malaysia",
-      "url": "https://www.datacenterdynamics.com/en/news/firmus-to-provide-openai-with-compute-capacity-in-malaysia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "While OpenAI's Stargate efforts in South Korea stall",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "80aa38c1baac24",
-      "title": "What does sustained AI growth mean for data center fiber infrastructure?",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/what-does-sustained-ai-growth-mean-for-data-center-fiber-infrastructure/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "How evolving AI architectures are reshaping data center fiber infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "251b01b0180650",
-      "title": "Group pushes for statewide data center vote on Ohio ballots - springfieldnewssun.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFRjZml4RGZaRTVVS05ueUhWU0FuV2tZYXRZd2VubFhRdDNmUjE5b3N1VWgyUUNkd2NjV25oNmpmY21RZE9lVkhLUTFLSVJCM1BMdG94Yko0UThDTlV1ZlRSZVdlVjZGUmM5V2VlTHhodmVVNmZIeFU4WUR4VmRQbnFVNUVMempDX2JFaFJBZWpUSHpneFRCdldTZFZfZ1Z5RE1MWWg1d3V0czZVemVLX29LaF9mZkpkN2E0aEhodFA3dWJKd09qUEtUT0phN05DMDhCS1ltbXJpNWhveDZJQUlvdDY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-08",
-      "summary": "Group pushes for statewide data center vote on Ohio ballots &nbsp;&nbsp; springfieldnewssun.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee5fb835318bbc",
-      "title": "Sponsored: The race to secure power without burdening the grid",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-race-to-secure-power-without-burdening-the-grid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "AI is certainly changing the power mix, and the demand is huge. But how have bottlenecks changed the way data centers are planned and built?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "440424bbbea41e",
-      "title": "Palantir selects Nebius as sovereign AI infrastructure provider",
-      "url": "https://www.datacenterdynamics.com/en/news/palantir-selects-nebius-as-sovereign-ai-infrastructure-provider/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Palantir's commercial customers will have access to Nebius' cloud platform",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fef9f192017ed5",
-      "title": "Retail colo in the age of AI: One size does not fit all",
-      "url": "https://www.datacenterdynamics.com/en/analysis/retail-colo-in-the-age-of-ai-one-size-does-not-fit-all/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-08",
-      "summary": "Insights from a small-scale Edge retail colocation facility in East London",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1a43479067a3ef",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-07",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3.2 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "aef50cb8010f29",
-      "title": "Goodman Group gets green light for 135MW data center in northern Sydney, Australia",
-      "url": "https://www.datacenterdynamics.com/en/news/goodman-group-gets-green-light-for-135mw-data-center-in-northern-sydney-australia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "Project first announced in 2024",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Australia",
-        "Sydney"
-      ],
-      "amounts": [
-        "135MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "55b14181457b03",
-      "title": "Greenfield and Finsbury Infrastructure to invest €360m in Milan data center",
-      "url": "https://www.datacenterdynamics.com/en/news/greenfield-and-finsbury-infrastructure-to-invest-360m-in-milan-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "The project has already secured 80MW of power capacity",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "80MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "202acaf560e303",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-07",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3.2 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a53ec195e762e6",
-      "title": "GLP begins development of 200MW data center in Foshan, China",
-      "url": "https://www.datacenterdynamics.com/en/news/glp-begins-development-of-200mw-data-center-in-foshan-china/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "First phase comprises 40MW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "200MW",
-        "40MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "963ecb41d64015",
-      "title": "JV plans 54MW data center in Dallas, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/jv-plans-54mw-data-center-in-dallas-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "Northampton Capital partners with Provident Data Centers on project",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas",
-        "Dallas"
-      ],
-      "amounts": [
-        "54MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4d5e1dd0f9a96e",
-      "title": "Anthropic signed $517bn in compute agreements in past 11 months",
-      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "Represents 14.8GW of compute capacity",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "14.8GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "379e8d07530b15",
-      "title": "Humain breaks ground on Neom’s Oxagon data center",
-      "url": "https://www.datacenterdynamics.com/en/news/humain-breaks-ground-on-neoms-oxagon-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "The campus in the floating hexagonal industrial district is targeting 1.5GW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1.5GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "24e7458f8344d0",
-      "title": "Thailand pauses construction on 49 data centers, as it plans new regulations",
-      "url": "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "Due to growing concerns over power consumption and local community impacts",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f89b4d469ae9d5",
-      "title": "Data center development halted in Masovian Voivodeship, Poland",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-development-halted-in-masovian-voivodeship-poland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-07",
-      "summary": "City councillors voted unanimously against permitting the facility for Nowa Wieś to proceed",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Poland"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
