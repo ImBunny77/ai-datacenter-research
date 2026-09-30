@@ -1,11 +1,85 @@
 {
-  "last_updated": "2026-09-30T12:03:25.300565+00:00",
+  "last_updated": "2026-09-30T18:51:01.435653+00:00",
   "finding_count": 600,
-  "new_project_count": 104,
-  "cancellation_count": 25,
+  "new_project_count": 103,
+  "cancellation_count": 27,
   "sec_filing_count": 4,
-  "high_confidence_count": 146,
+  "high_confidence_count": 148,
   "findings": [
+    {
+      "id": "79cc3ffeb87e92",
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$30 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "278877079dcc48",
+      "title": "Google is supporting water resilience in Chile.",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-30",
+      "summary": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.2M"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d512eecf502b70",
+      "title": "NxN enters Portugal with 1MW data center and plans to invest €100m",
+      "url": "https://www.datacenterdynamics.com/en/news/nxn-enters-portugal-with-a-1-mw-data-center-and-plans-to-invest-100m/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "The company has finalized the acquisition a data center in Évora",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b5fcda7df7e041",
+      "title": "Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel",
+      "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Californian startup raised $145m in Series C funding round",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "$145m"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "e770687539f483",
       "title": "BrightRay plans 40MW data center in Macau",
@@ -60,6 +134,363 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b6199255dec5e9",
+      "title": "Custom chip firm Semifive signs $52m deal with unnamed US AI company",
+      "url": "https://www.datacenterdynamics.com/en/news/custom-chip-firm-semifive-signs-52m-deal-with-unnamed-us-ai-company/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Accelerator will be targeted at hyperscalers and CSPs once production begins in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$52m"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5711743522ca28",
+      "title": "CoreWeave makes Nvidia Vera Rubin NVL72 available, Cognition is early customer",
+      "url": "https://www.datacenterdynamics.com/en/news/coreweave-makes-nvidia-vera-rubin-nvl72-available-cognition-is-early-customer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Neocloud also to offer Vera CPU alone, and announces customer contract",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc9be893372547",
+      "title": "Finland to abandon first-come, first-served grid connections, dropping data centers down the queue",
+      "url": "https://www.datacenterdynamics.com/en/news/finland-to-abandon-first-come-first-served-grid-connections-dropping-data-centers-down-the-queue/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Draft amendment looks at reallocating priority based on four groupings",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c7e7bcb28bbe8f",
+      "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga",
+      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Company files for four-building campus well outside usual NSW hubs of Sydney and Canberra",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Australia",
+        "Sydney"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c18fa62b615805",
+      "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
+      "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-30",
+      "summary": "Taiwan-based neocloud GMI Cloud Inc. wants to capitalize on what it says is an “unprecedented” demand for artificial intelligence computing power after raising a massive $663 million in funding from two sources. The startup said today it has just closed on a $223 million Series B round of funding led by the robotics and AI-focused [&#8230;] \n The post  On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$223 million",
+        "$263M",
+        "$663 million"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "791b8ed05f8c4c",
+      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ec5844a03abfab",
+      "title": "Synopsys and Amazon sign $1bn multi-year IP agreement for custom chip development",
+      "url": "https://www.datacenterdynamics.com/en/news/synopsys-and-amazon-sign-1bn-multi-year-ip-agreement-for-custom-chip-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Amazon now serving as lead customer for Synopsys’ expanded silicon IP business",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9bde945dcc08f2",
+      "title": "Microsoft launches Azure Extended Zone in Luxembourg",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-extended-zone-in-luxembourg/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Deployed in partnership with Post Luxembourg",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ed8380e7c3b718",
+      "title": "Balearic Islands launches new data center for critical government systems",
+      "url": "https://www.datacenterdynamics.com/en/news/balearic-islands-strengthen-their-public-services-with-two-redundant-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "The facility is integrated with a regional government data center in Sant Pere",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "be0b61ce1be3f2",
+      "title": "Sponsored: Wiring the AI boom: How data centers are changing the grid",
+      "url": "https://www.datacenterdynamics.com/en/opinions/wiring-the-ai-boom-how-data-centers-are-changing-the-grid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Success will belong to the utilities, developers, manufacturers, and contractors who treat power delivery as a shared engineering challenge rather than a series of separate handoffs",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "064034f443fd62",
+      "title": "ZutaCore partners with Options Technology to offer liquid cooling to financial services",
+      "url": "https://www.datacenterdynamics.com/en/news/zutacore-partners-with-options-technology-to-offer-liquid-cooling-to-financial-services/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Options to offer liquid cooling to its customers across its 40 data center deployments",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "875809372709c2",
+      "title": "Fire at data center in Seoul, South Korea, sees 100 people evacuated",
+      "url": "https://www.datacenterdynamics.com/en/news/fire-at-data-center-in-seoul-south-korea-sees-100-people-evacuated/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Blaze thought to have started in UPS room",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eed142261e423c",
+      "title": "Amazon signs PPA with Statkraft for windfarm in Shetland, Scotland",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-signs-ppa-with-statkraft-for-windfarm-in-shetland-scotland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-30",
+      "summary": "Builds other wind PPAs in the UK",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d15cbf4b180a15",
+      "title": "AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and historical data",
+      "url": "https://siliconangle.com/2026/09/30/aws-embeds-duckdb-in-its-postgresql-dbms-to-speed-queries-of-live-and-historical-data/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-30",
+      "summary": "Amazon Web Services Inc. is adding the ability to query the popular Apache Iceberg data lake directly from its Aurora PostgreSQL database management system, allowing applications to combine live transactions with historical records without copying data or creating extract/transform/load pipelines. The capability embeds the DuckDB analytical engine inside Aurora PostgreSQL to support data stored in [&#8230;] \n The post  AWS embeds DuckDB in its PostgreSQL DBMS to speed queries of live and histori",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "65b863c93fe5fc",
+      "title": "Google finds vulnerability disclosures doubled as AI changes which flaws get discovered",
+      "url": "https://siliconangle.com/2026/09/30/google-finds-vulnerability-disclosures-doubled-as-ai-changes-which-flaws-get-discovered/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-30",
+      "summary": "A new report out today from Google LLC&#8217;s Google Threat Intelligence Group finds that monthly software vulnerability disclosures doubled between January and August. Not surprisingly, artificial intelligence is changing which flaws get discovered as well, and GTIG said half of those turned up by AI agents allow remote code execution. August&#8217;s count of 10,740 vulnerability [&#8230;] \n The post  Google finds vulnerability disclosures doubled as AI changes which flaws get discovered  appe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8a4314ed980e2d",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "12096dde27c5d9",
+      "title": "Google figures out how to watermark AI-designed proteins",
+      "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1d5ac7a69d21da",
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-30",
+      "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d10c22726d973c",
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "url": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-30",
+      "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3a053c71048227",
+      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
+      "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-30",
+      "summary": "The illustration shows people around the world using Google Translate.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3738ddbee4b2d8",
+      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-30",
+      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -453,27 +884,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ea2c963f6417f3",
-      "title": "Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands",
-      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-new-cloud-regions-in-turkey-finland-the-netherlands/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-29",
-      "summary": "Will also expand existing footprint in Malaysia, Germany, UAE, and elsewhere",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland",
-        "Netherlands",
-        "Malaysia",
-        "Germany",
-        "UAE"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d2bd4ffdc64592",
       "title": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
       "url": "https://siliconangle.com/2026/09/29/openai-launches-dots-always-on-ai-agents-in-chatgpt-with-their-own-cloud-computers/",
@@ -532,40 +942,6 @@
       "source_cat": "Tech Analysis",
       "date": "2026-09-29",
       "summary": "As director of HPE Labs, Andrew Wheeler (pictured) is uniquely positioned to observe rapid advancements in artificial intelligence and new developments for the emerging field of quantum computing. Yet, there is a third area that Wheeler, an HPE fellow and senior vice president, is often asked about. It is one that draws on HPE’s decades [&#8230;] \n The post  HPE Labs connects AI sovereignty with quantum security  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b27f88ce2717d6",
-      "title": "Oracle expands AI agent features with Fusion Claw",
-      "url": "https://siliconangle.com/2026/09/29/oracle-expands-ai-agent-functionality-with-fusion-claw/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-29",
-      "summary": "Oracle Corp. today is introducing an agentic software runtime that lets its Fusion applications carry out complex business tasks, from reconciling accounting entries to revising staffing plans when conditions change. Fusion Claw combines large language models for reasoning and planning with conventional software for calculations and transaction processing. Oracle is also announcing 25 applications powered [&#8230;] \n The post  Oracle expands AI agent features with Fusion Claw  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e4a150ed200a4c",
-      "title": "AI agent identity security demands layered defenses, Omdia says",
-      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-29",
-      "summary": "AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security market. Okta Inc. recently added an AI agent runtime gateway and formed the Blueprint Alliance with Amazon Web Services Inc. and CrowdStrike [&#8230;] \n The post  AI agent identity security demands layered defenses, Omdia says  appeared first on  SiliconANGLE ",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -637,23 +1013,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d57450b91d34a9",
-      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-29",
-      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -773,6 +1132,78 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ea2c963f6417f3",
+      "title": "Alibaba Cloud plans new cloud regions in Turkey, Finland, the Netherlands",
+      "url": "https://www.datacenterdynamics.com/en/news/alibaba-cloud-plans-new-cloud-regions-in-turkey-finland-the-netherlands/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-09-29",
+      "summary": "Will also expand existing footprint in Malaysia, Germany, UAE, and elsewhere",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland",
+        "Netherlands",
+        "Malaysia",
+        "Germany",
+        "UAE"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b27f88ce2717d6",
+      "title": "Oracle expands AI agent features with Fusion Claw",
+      "url": "https://siliconangle.com/2026/09/29/oracle-expands-ai-agent-functionality-with-fusion-claw/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "Oracle Corp. today is introducing an agentic software runtime that lets its Fusion applications carry out complex business tasks, from reconciling accounting entries to revising staffing plans when conditions change. Fusion Claw combines large language models for reasoning and planning with conventional software for calculations and transaction processing. Oracle is also announcing 25 applications powered [&#8230;] \n The post  Oracle expands AI agent features with Fusion Claw  appeared first on ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e4a150ed200a4c",
+      "title": "AI agent identity security demands layered defenses, Omdia says",
+      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-29",
+      "summary": "AI agent identity security is testing whether consolidated platforms can protect a growing class of machine identities. Palo Alto Networks Inc.’s acquisition of CyberArk Software Ltd. reflects broader consolidation in the identity security market. Okta Inc. recently added an AI agent runtime gateway and formed the Blueprint Alliance with Amazon Web Services Inc. and CrowdStrike [&#8230;] \n The post  AI agent identity security demands layered defenses, Omdia says  appeared first on  SiliconANGLE ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d57450b91d34a9",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-29",
+      "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -990,6 +1421,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "8ee5b16b17e9fc",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-09-28",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "759df62cf77f43",
       "title": "Anthropic Has Not Announced a $518 Billion 2027 Infrastructure Budget - tokenpost.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZGZLaFE0eEZteEZzc214LVI3SlU2TUh4TmpVeFU5eFdjRlFjWUw1aERaWFZ5b0JSZC14UGhNZ1Nld2RiQThKcW5wNlBwY2FMTnpYS1p6dWFYZ3c?oc=5",
@@ -1005,21 +1451,6 @@
       "amounts": [
         "$518 Billion"
       ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8ee5b16b17e9fc",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-09-28",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
       "confidence": 7,
       "is_high_confidence": true
     },
@@ -1148,38 +1579,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "31b7e9938d6a0b",
-      "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix - Samsung Global Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeW1zbklGUkQzQ0RJdkVOVjk3RU1YYVM3Z2RRYm5SZ3hvNjFQVE5LREhwZWpMUGtHVElzMFo3VHY0eXBJUTQwR0tZYzkzUjdLYWhVb0ZGX0t3a2xmOFZkUG8zVVo1WnlWcmY1aVRKT0xvY0RjRWsxMFh1U184aU1GVVF6OGQ2cnB0S3dyVDcxVEZhWFJMODNGZlpwdVRTNTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-28",
-      "summary": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix &nbsp;&nbsp; Samsung Global Newsroom",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a4ac2f02ca9169",
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-28",
-      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "cfc03357195730",
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
@@ -1241,6 +1640,38 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "31b7e9938d6a0b",
+      "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix - Samsung Global Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeW1zbklGUkQzQ0RJdkVOVjk3RU1YYVM3Z2RRYm5SZ3hvNjFQVE5LREhwZWpMUGtHVElzMFo3VHY0eXBJUTQwR0tZYzkzUjdLYWhVb0ZGX0t3a2xmOFZkUG8zVVo1WnlWcmY1aVRKT0xvY0RjRWsxMFh1U184aU1GVVF6OGQ2cnB0S3dyVDcxVEZhWFJMODNGZlpwdVRTNTQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-09-28",
+      "summary": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix &nbsp;&nbsp; Samsung Global Newsroom",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4ac2f02ca9169",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-28",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -2427,15 +2858,17 @@
       "is_high_confidence": false
     },
     {
-      "id": "a7f8bac698b53d",
-      "title": "How data centers shift landscape of rural communities - wcax.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "id": "9ab021b78f7d30",
+      "title": "Our new health and safety tools are live in the Google Health app.",
+      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
       "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; wcax.com",
+      "summary": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2476,17 +2909,15 @@
       "is_high_confidence": false
     },
     {
-      "id": "9ab021b78f7d30",
-      "title": "Our new health and safety tools are live in the Google Health app.",
-      "url": "https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
+      "id": "a7f8bac698b53d",
+      "title": "How data centers shift landscape of rural communities - wcax.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
       "date": "2026-09-24",
-      "summary": "Pixel Watch users can explore the new health and safety tools in the Google Health app.",
+      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; wcax.com",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -2966,55 +3397,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "272eec91f2f6bb",
-      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-23",
-      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9ac30e6a91cf07",
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Google Vids logo surrounded by various video editing options",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "287df9c3517be3",
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Google Beam promotional animation",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d1ed4f9a899abc",
       "title": "Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams",
       "url": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
@@ -3063,6 +3445,55 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "272eec91f2f6bb",
+      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-23",
+      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9ac30e6a91cf07",
+      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-23",
+      "summary": "Google Vids logo surrounded by various video editing options",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "287df9c3517be3",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-09-23",
+      "summary": "Google Beam promotional animation",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4189,6 +4620,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "aa648d68d81d90",
+      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-21",
+      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Netherlands"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "58301b65c2e853",
       "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - news.microsoft.com",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVWxvdHhBQ2NwNWdDdDZzeU1LSVhYZHJyUjJNVnNVcC1SMzdEMG16azhlMS00V0xyTzF5YXdfVDljdEdYbTNFOFBZMDFIcE5BVTRwRVd1RzNCb0NsMmxla3otRlJSYVpqRm0zLWptRWVfamxkaURiTjQxSlBMdzdjNG5oVnpJcFUySktzaDFjOWs4SDFBcHBaSXkyeml2a1I3NkdLbTdiRkhKTmt3MGtRMXVOd19DT2k4Q1U2UVlIZm9tSF9jbk9KRTRLSnNmWVA3bEJoaFZpUFBmT0g4Nnl1NUc2ZkRkWHJZSGl2blBVR043NGxwX1ZNUXRuamcyTHJ6Wk1EVktQNlZBdmV6ck84VldZdFZyQ0dETU9DbS1ZbGdpY2hhWjdIUExiZm5KRmdUeWtrYzZNX3hIMWhtT18zaTNuYVAxaFI5V2YwQngyWDNCd2dSS2c?oc=5",
@@ -4220,25 +4670,6 @@
         "CoreWeave"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aa648d68d81d90",
-      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Netherlands"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -8346,13 +8777,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad87c4dc41f648",
-      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
+      "id": "62b4d7b77f11e5",
+      "title": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1",
+      "url": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
       "date": "2026-09-10",
-      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
+      "summary": "Dumb Science Experiments vs. Money Printing Machines",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -8361,13 +8792,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "62b4d7b77f11e5",
-      "title": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1",
-      "url": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "ad87c4dc41f648",
+      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Dumb Science Experiments vs. Money Printing Machines",
+      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9687,6 +10118,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1990abdd664f2a",
+      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-09-09",
+      "summary": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e7f35a21136200",
       "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
@@ -9701,23 +10149,6 @@
       "locations": [
         "Texas"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1990abdd664f2a",
-      "title": "Introducing Amazon EBS Volume Clones across AWS accounts",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-09",
-      "summary": "AWS introduces Amazon EBS Volume Clones with cross-account copy, so you can create copies of your EBS volumes into other AWS accounts and optionally re-encrypt them with an AWS Key Management Service (AWS KMS) key in the target account.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9976,411 +10407,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "0aea076476701b",
-      "title": "Sponsored: How NeoClouds should choose their next AI region – and why India deserves a closer look",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-neoclouds-should-choose-their-next-ai-region-and-why-india-deserves-a-closer-look/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Traditional data center questions are now about choosing the right AI region",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e562612563ff16",
-      "title": "Samsung working with OpenAI on next-generation custom chip - report",
-      "url": "https://www.datacenterdynamics.com/en/news/samsung-working-with-openai-on-next-generation-custom-chip-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Details of partnership not disclosed",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "604f2d559176e8",
-      "title": "Hscale secures $1bn contract with hyperscaler for Spanish data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/hscale-secures-1bn-contract-with-hyperscaler-for-spanish-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Will provide capacity for cloud and AI workloads",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "adb4fb95f4a2ca",
-      "title": "OpenAI’s ChatGPT Images gets faster, with sharper details and more refined edits",
-      "url": "https://siliconangle.com/2026/09/08/openais-chatgpt-images-gets-faster-with-sharper-details-and-more-refined-edits/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-09",
-      "summary": "OpenAI Group PBC said today it’s giving its image-generation tool a bit more artistic flair, announcing the launch of ChatGPT Images 2.5, an update to ChatGPT Images 2.0 that debuted in April. According to OpenAI, the new tool is able to generate images with “more natural lighting and richer textures” than before, and is better [&#8230;] \n The post  OpenAI&#8217;s ChatGPT Images gets faster, with sharper details and more refined edits  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3ce4d20359be85",
-      "title": "Data Center PUE: liquid cooling cut 10%, the ratio moved 3%",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-pue-liquid-cooling-cut-10-the-ratio-moved-3/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Why standard PUE fails liquid cooling upgrades",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f5938299fee6a0",
-      "title": "Ivory Coast targets launch of first state-owned data center in 2027",
-      "url": "https://www.datacenterdynamics.com/en/news/ivory-coast-targets-launch-of-first-state-owned-data-center-in-2027/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Will be backed by US Export-Import Bank",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44a237b5f72016",
-      "title": "NextEra secures $1.9bn loan from US DOE to support restart of the Duane Arnold nuclear power plant in Linn County, Iowa",
-      "url": "https://www.datacenterdynamics.com/en/news/nextera-secures-19bn-loan-from-us-doe-to-support-restart-of-the-duane-arnold-nuclear-power-plant-in-linn-county-iowa/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Plant tied to long-term PPA with Google",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Iowa"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9930a4292e4d11",
-      "title": "Playing their part in a sustainable AI era: How businesses can tap into data center power without spiking emissions",
-      "url": "https://www.datacenterdynamics.com/en/opinions/playing-their-part-in-a-sustainable-ai-era-how-businesses-can-tap-into-data-center-power-without-spiking-emissions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Why we need to ease the burden on power infrastructure in order to capitalize on the potential of AI expansion",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3c1d260936fec0",
-      "title": "Oil leak from data center contaminates water in Bangkok, Thailand",
-      "url": "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Officials moved swiftly to clean up spill before it could harm residents",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "321c78d200f959",
-      "title": "Where Does a Robot Think – On-Device vs Datacenter Inference",
-      "url": "https://newsletter.semianalysis.com/p/where-does-a-robot-think-on-device",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-09-09",
-      "summary": "For most of its short history, AI lived behind a screen.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3dedaaa3f97b4e",
-      "title": "Google Bets €13B on Finland's AI Future - techbuzz.ai",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUGxIZTZ2WDk0ZGg0WXdZdEZ3TEJhYmgxNFJfV2haWjNDUkdKdFBNTkVjcG9CbXFlb0t0VE40UUFQRWVfU21iZEx2RWl6QXJTTGNpanI1NGNGbk5ocURFZ3E3a1UzMWxzMlQ5cTktYVpxMDVZTEg5dGR6Zw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Bets €13B on Finland's AI Future &nbsp;&nbsp; techbuzz.ai",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fecc7eb6a4497a",
-      "title": "DCD News: August review",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-august-review/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "DCD's Seb Moss, Kat Sullivan, Charlotte Trueman, and Paul Lipscombe provide a comprehensive overview of recent developments in the technology and data center sectors.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "034ad1a0b4609c",
-      "title": "Google Bets €13B on Finland's AI Future - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tUGxIZTZ2WDk0ZGg0WXdZdEZ3TEJhYmgxNFJfV2haWjNDUkdKdFBNTkVjcG9CbXFlb0t0VE40UUFQRWVfU21iZEx2RWl6QXJTTGNpanI1NGNGbk5ocURFZ3E3a1UzMWxzMlQ5cTktYVpxMDVZTEg5dGR6Zw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Bets €13B on Finland's AI Future &nbsp;&nbsp; The Tech Buzz",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e6a254ff5d839b",
-      "title": "Google signs nuclear PPA with Fortum in Loviisa, Finland",
-      "url": "https://www.datacenterdynamics.com/en/news/google-signs-nuclear-ppa-with-fortum-in-loviisa-finland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "The company's first nuclear PPA outside of the US market",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "35f24dcfa45d29",
-      "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-09",
-      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1203ab70b60a15",
-      "title": "Apple announces foldable iPhone alongside the new 18 Pro, Watch and AirPods",
-      "url": "https://siliconangle.com/2026/09/09/apple-announces-foldable-iphone-alongside-the-new-18-pro-watch-and-airpods/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-09",
-      "summary": "Apple Inc. debuted a foldable iPhone today called the Duo, which brings an all-new shape to the company’s smartphones. That’s not all that came out of its September event. Apple also unveiled the iPhone 18 Pro and Max, a new lineup of phones that deliver superior cameras and battery life thanks to brand-new custom silicon. [&#8230;] \n The post  Apple announces foldable iPhone alongside the new 18 Pro, Watch and AirPods  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "61451f348c8841",
-      "title": "Lightbits set to release KV cache engine to boost GPU performance",
-      "url": "https://siliconangle.com/2026/09/09/lightbits-set-to-release-kv-cache-engine-to-boost-gpu-performance/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-09",
-      "summary": "Lightbits Labs Ltd. today announced the general availability of Inferra, a software engine designed to improve the economics and performance of artificial intelligence inference by moving key-value cache data beyond the limited high-bandwidth memory attached to graphics processing units. The company, best known as the inventor of the NVMe over TCP storage protocol, is positioning [&#8230;] \n The post  Lightbits set to release KV cache engine to boost GPU performance  appeared first on  SiliconAN",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 1,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb0f3e29463677",
-      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-09",
-      "summary": "Apple's first foldable can be yours next month.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "540bb8c60f3eba",
-      "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-09",
-      "summary": "New Apple Intelligence features, too.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6c69fd358c7ea8",
-      "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-09",
-      "summary": "There's also a new thermal management system, reducing overheating.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9c642a8142e579",
-      "title": "Exclusive: Compute Exchange adds GPU inventory manager to simplify AI infrastructure purchases",
-      "url": "https://siliconangle.com/2026/09/09/exclusive-compute-exchange-adds-gpu-inventory-manager-to-simplify-ai-infrastructure-purchases/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-09",
-      "summary": "The Compute Exchange Inc., a startup that matches buyers and sellers of graphics processing units,  is launching a GPU inventory management capability intended to give enterprise buyers a consolidated view of available and upcoming AI computing capacity across more than 100 providers. The new feature extends the company’s request-for-quotation marketplace by letting buyers browse current, [&#8230;] \n The post  Exclusive: Compute Exchange adds GPU inventory manager to simplify AI infrastructure p",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c11b8862dc7284",
-      "title": "JD Cloud and Moore Threads team up on cluster of 100,000 GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/jd-cloud-and-moore-threads-team-up-on-cluster-of-100000-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-09",
-      "summary": "Will use Chinese hardware",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bee28b91277285",
-      "title": "Qualcomm, Corning Contracts Boost AI Infrastructure Stocks - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJ5bGdzdkNURjRqNXd3OFVwbHB3UVM1QUlzZElHb001UDJ2cDJkZU54VF9GQmlpOXRxc3N2Qy1ha3oydU5nMkpCeHQzd0k4TUZocEk4Wk52YWh0ZmRvRDdJQnQ3Zl92SXdLVEtMRHYtanhDSFhUcVM2VElXOUczM1drZlhqRFYwTlM5YTZR?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Qualcomm, Corning Contracts Boost AI Infrastructure Stocks &nbsp;&nbsp; 조선일보",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5d8fedc3d4e933",
-      "title": "Qualcomm inks AI chip, optical networking deal with Amazon",
-      "url": "https://siliconangle.com/2026/09/08/qualcomm-inks-ai-chip-optical-networking-deal-with-amazon/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-08",
-      "summary": "Qualcomm Inc. today announced that it has won a contract to supply Amazon.com Inc. with artificial intelligence chips and networking hardware. The deal is part of a broader partnership that also extends to other areas. Qualcomm has issued a stock warrant that will enable Amazon to buy up to 25 million shares worth $4 billion. [&#8230;] \n The post  Qualcomm inks AI chip, optical networking deal with Amazon  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$4 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4073ea3b677314",
-      "title": "Open-source AI developer Mistral closes €3B funding round",
-      "url": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-08",
-      "summary": "French artificial intelligence lab Mistral AI SAS today announced that it has raised €3 billion, or about $3.49 billion, in funding. Samsung Electronics Co. Ltd. led the investment. It was joined by more than two dozen other backers including Salesforce Ventures, Nvidia Corp. and ASML Holdings NV, which led Mistral’s last round. The startup is [&#8230;] \n The post  Open-source AI developer Mistral closes €3B funding round  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$3.49 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
     }
   ]
 }
