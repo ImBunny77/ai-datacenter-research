@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-01T19:18:24.415408+00:00",
+  "last_updated": "2026-10-01T23:43:31.309091+00:00",
   "finding_count": 600,
-  "new_project_count": 94,
+  "new_project_count": 92,
   "cancellation_count": 26,
   "sec_filing_count": 4,
-  "high_confidence_count": 156,
+  "high_confidence_count": 158,
   "findings": [
     {
       "id": "6e566d210de6a4",
@@ -41,6 +41,27 @@
       "locations": [],
       "amounts": [
         "$75M"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ed724e461c2361",
+      "title": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
+      "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-01",
+      "summary": "Cybersecurity startup Armadin Inc. today announced that it has raised $255.5 million in funding at a valuation exceeding $2.5 billion. Andreessen Horowitz and Accel co-led the Series B round. They were joined by Alphabet Inc.’s GV startup fund, Kleiner Perkins, Menlo Ventures and others.  Armadin was founded last year by prominent cybersecurity entrepreneur Kevin Mandia. [&#8230;] \n The post  Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$255.5M",
+        "$255.5 million",
+        "$2.5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -116,8 +137,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$60 million",
-        "$60M"
+        "$60M",
+        "$60 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -277,6 +298,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "abfee400574b4e",
+      "title": "OpenAI dismisses three safety researchers accused of sharing confidential material",
+      "url": "https://siliconangle.com/2026/10/01/openai-dismisses-three-safety-researchers-accused-of-sharing-confidential-material/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-01",
+      "summary": "OpenAI Group PBC today confirmed it has dismissed three researchers it says mishandled sensitive company information. According to The Wall Street Journal, the three were safety researchers who allegedly shared confidential material with a third-party artificial intelligence safety organization. &#8220;We have parted ways with three individuals for violating our policies on accessing and handling sensitive [&#8230;] \n The post  OpenAI dismisses three safety researchers accused of sharing confide",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "7923dc3c7717c4",
       "title": "NetApp and Nvidia rethink storage for AI factories",
       "url": "https://siliconangle.com/2026/10/01/netapp-targets-ai-factory-storage-architecture-netappinsight/",
@@ -312,6 +350,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "b549dbd68a18a8",
+      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-01",
+      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "2d54db34474d36",
       "title": "Microsoft 365 and LinkedIn leadership update",
       "url": "https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/",
@@ -322,6 +378,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dd91cd8fd70e80",
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-10-01",
+      "summary": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -545,25 +618,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c18fa62b615805",
-      "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
-      "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-30",
-      "summary": "Taiwan-based neocloud GMI Cloud Inc. wants to capitalize on what it says is an “unprecedented” demand for artificial intelligence computing power after raising a massive $663 million in funding from two sources. The startup said today it has just closed on a $223 million Series B round of funding led by the robotics and AI-focused [&#8230;] \n The post  On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$663 million",
-        "$223 million",
-        "$263M"
-      ],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "35b8d1f6f9c846",
       "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
       "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
@@ -611,6 +665,25 @@
       ],
       "locations": [],
       "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c18fa62b615805",
+      "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
+      "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-30",
+      "summary": "Taiwan-based neocloud GMI Cloud Inc. wants to capitalize on what it says is an “unprecedented” demand for artificial intelligence computing power after raising a massive $663 million in funding from two sources. The startup said today it has just closed on a $223 million Series B round of funding led by the robotics and AI-focused [&#8230;] \n The post  On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$663 million",
+        "$223 million",
+        "$263M"
+      ],
       "confidence": 3,
       "is_high_confidence": false
     },
@@ -803,58 +876,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "65b863c93fe5fc",
-      "title": "Google finds vulnerability disclosures doubled as AI changes which flaws get discovered",
-      "url": "https://siliconangle.com/2026/09/30/google-finds-vulnerability-disclosures-doubled-as-ai-changes-which-flaws-get-discovered/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-30",
-      "summary": "A new report out today from Google LLC&#8217;s Google Threat Intelligence Group finds that monthly software vulnerability disclosures doubled between January and August. Not surprisingly, artificial intelligence is changing which flaws get discovered as well, and GTIG said half of those turned up by AI agents allow remote code execution. August&#8217;s count of 10,740 vulnerability [&#8230;] \n The post  Google finds vulnerability disclosures doubled as AI changes which flaws get discovered  appe",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "87a1a7d97b5b0c",
-      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-30",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8a4314ed980e2d",
-      "title": "Google's early attempt to pay websites for AI answers is struggling",
-      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-30",
-      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d86f7665f50e09",
       "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
@@ -948,6 +969,58 @@
       "source_cat": "Company IR",
       "date": "2026-09-30",
       "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "65b863c93fe5fc",
+      "title": "Google finds vulnerability disclosures doubled as AI changes which flaws get discovered",
+      "url": "https://siliconangle.com/2026/09/30/google-finds-vulnerability-disclosures-doubled-as-ai-changes-which-flaws-get-discovered/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-09-30",
+      "summary": "A new report out today from Google LLC&#8217;s Google Threat Intelligence Group finds that monthly software vulnerability disclosures doubled between January and August. Not surprisingly, artificial intelligence is changing which flaws get discovered as well, and GTIG said half of those turned up by AI agents allow remote code execution. August&#8217;s count of 10,740 vulnerability [&#8230;] \n The post  Google finds vulnerability disclosures doubled as AI changes which flaws get discovered  appe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "87a1a7d97b5b0c",
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8a4314ed980e2d",
+      "title": "Google's early attempt to pay websites for AI answers is struggling",
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-09-30",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1163,6 +1236,25 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "34974feed223a7",
+      "title": "Project Anthem: Meta Breaks Ground on $1B AI Data Center in Tulsa - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0pQTTJoRURSdVlCc1Vqc1NwOGNaVGdZNmN6Zzl0ZklkbTBCb1UyN3I0NF9UVjB1NUE5SXVyRldqN21tQ09ENkIyQUxVU1hZZWpTMzRZMkRvUEVqRXRoUFl1RnFSX1NualhJZURHZE1Mb0ZjSnkxbFJBWlowc29icDM3Z0ZBckpKRmg4U1E0M0pjM18wREQzSXEtekVib1laekFhRThxb3pOQlZicnVHRjVLc0RCZHBza01jSGhsZ3BNQQ?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-29",
+      "summary": "Project Anthem: Meta Breaks Ground on $1B AI Data Center in Tulsa &nbsp;&nbsp; Construction Review",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "d1155a30319cef",
@@ -4006,21 +4098,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "272eec91f2f6bb",
-      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-23",
-      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d1ed4f9a899abc",
       "title": "Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams",
       "url": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
@@ -4032,6 +4109,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "272eec91f2f6bb",
+      "title": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YMGRoNkxEWkZ3R3U2R3pSZWdBVHgyUU9QNDE3UTdDNGhkV0d0cmZpREpENnJkWE5RRC1qUlJtamxCdHFoY29sQlJhUFh4anNQdGdyby00a1d2N2tLTTRRaUxTWkQxdHVYeHQ1RFNWeWZfZ25BeVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-09-23",
+      "summary": "South Korea's TCC Dongyang Tower to Be Redeveloped as Data Center, Groundbreaking Set for This Year &nbsp;&nbsp; finance.biggo.com",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -7260,9 +7352,9 @@
         "New York"
       ],
       "amounts": [
+        "20GW",
         "2.3GW",
-        "1,525MW",
-        "20GW"
+        "1,525MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -8180,13 +8272,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "d68568c90548df",
-      "title": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide - remio.ai",
+      "id": "75d4f66cab2e8b",
+      "title": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide - remio",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGNMbHhJZjFUX0tCY2ZjdEFmTmpZck5nQllfakkyN0VISFlHUnpKYWVjWjdEY2RGenctUkRiaXRGTVBwMFZkTENUSlBCaHdXSWptQkpFVUpBczd1bDBUV1dDTTR1N0ZBckp4TmlGZjl1ZkFjdmZjTzJYTXFTZjRuQ2liR25pS192aVI0NE1MUHRCd0pVcW96U1pPTQ?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-09-13",
-      "summary": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide &nbsp;&nbsp; remio.ai",
+      "summary": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide &nbsp;&nbsp; remio",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -8197,13 +8289,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "75d4f66cab2e8b",
-      "title": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide - remio",
+      "id": "d68568c90548df",
+      "title": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide - remio.ai",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGNMbHhJZjFUX0tCY2ZjdEFmTmpZck5nQllfakkyN0VISFlHUnpKYWVjWjdEY2RGenctUkRiaXRGTVBwMFZkTENUSlBCaHdXSWptQkpFVUpBczd1bDBUV1dDTTR1N0ZBckp4TmlGZjl1ZkFjdmZjTzJYTXFTZjRuQ2liR25pS192aVI0NE1MUHRCd0pVcW96U1pPTQ?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-09-13",
-      "summary": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide &nbsp;&nbsp; remio",
+      "summary": "Tina Kotek Data Center Pause Exposes Oregon’s AI Infrastructure Divide &nbsp;&nbsp; remio.ai",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [
@@ -8353,13 +8445,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "86184890c9ad8b",
-      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - CNBC",
+      "id": "a6823bc2356060",
+      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNkprMUExRHJNbkQxLXl6ZjdpMmZ1TUd0anN6UVRWSGt1Z3VhaWxpNUtoT1lUOTlJMnN6VWt3bmN6UXVtVUNyZG9qZ1dJdmctek5PTGgwTVM5UE52RXJ3SmZzLVRVbzlmalZHbVpUZkNzTTdvZkZqWjVROFnSAYIBQVVfeXFMT3VEUXlUWVBuWlF1SmhWUVVMSmFwbmwta19EWjJQcHQzWGRPTkhFZ2NsMEhjd3RMd1h5TGN2MU5ISkJjZTlJZVhjbmtYRUkwWXNOLWtZLXZPSF9YWXdhcUI4RDNjLUhmMWc4bGVrZFZJUmtDQ2RRRE94S1E0V1lZZmhMdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-11",
-      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; CNBC",
+      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; cnbc.com",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -8373,13 +8465,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a6823bc2356060",
-      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - cnbc.com",
+      "id": "86184890c9ad8b",
+      "title": "UAE plans $46 billion investment in Germany, with data centers a key focus - CNBC",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jNkprMUExRHJNbkQxLXl6ZjdpMmZ1TUd0anN6UVRWSGt1Z3VhaWxpNUtoT1lUOTlJMnN6VWt3bmN6UXVtVUNyZG9qZ1dJdmctek5PTGgwTVM5UE52RXJ3SmZzLVRVbzlmalZHbVpUZkNzTTdvZkZqWjVROFnSAYIBQVVfeXFMT3VEUXlUWVBuWlF1SmhWUVVMSmFwbmwta19EWjJQcHQzWGRPTkhFZ2NsMEhjd3RMd1h5TGN2MU5ISkJjZTlJZVhjbmtYRUkwWXNOLWtZLXZPSF9YWXdhcUI4RDNjLUhmMWc4bGVrZFZJUmtDQ2RRRE94S1E0V1lZZmhMdw?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-11",
-      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; cnbc.com",
+      "summary": "UAE plans $46 billion investment in Germany, with data centers a key focus &nbsp;&nbsp; CNBC",
       "finding_type": "New Project",
       "companies": [],
       "locations": [
@@ -9257,13 +9349,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "a92b2c4814f67a",
-      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
+      "id": "ad0b849054543e",
+      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9276,13 +9368,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad0b849054543e",
-      "title": "Finland: Google announces €13 billion AI, energy investment - DW.com",
+      "id": "a92b2c4814f67a",
+      "title": "Finland: Google announces €13 billion AI, energy investment - dw.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FQTHR1enZNUnNZeVBNcTlhbmkxNVpXUWY4Q3Z2LU93ZlZMSjZGVjV5ZFRWNVIwbUlRNFJmZ2JMSFZSVFliTkpqd3pHdEJ0Q1BsMTdONlIwMnRFXzlEdHJ5QmpWUjZONW5OZkQ2U1dJVXozOFZjUWV5OTJIc3NiMTBqcnI3U0NNeDhBNDRoZTRCUVnSAZMBQVVfeXFMTVM4NGpmMG4xaTBBal96NTVPekgzTHVSa1Fsbms0MDVTcDFhZ01WZGVFN0dkbzV5QnJ2dFhhT1J3N1RDd0c3WkQ2QzBtZk5iSlNxcEdFWnF4b0laN0xINk5UVTZSaEQ3X3oyVFFQU2RnT2R1amRkekstUWkwVG5NaElnLTRDZDdTXzd0em5EcUozV25j?oc=5",
       "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; DW.com",
+      "summary": "Finland: Google announces €13 billion AI, energy investment &nbsp;&nbsp; dw.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9401,13 +9493,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "62b4d7b77f11e5",
-      "title": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1",
-      "url": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
+      "id": "ad87c4dc41f648",
+      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-09-10",
-      "summary": "Dumb Science Experiments vs. Money Printing Machines",
+      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9416,13 +9508,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ad87c4dc41f648",
-      "title": "Aligned Data Centers and Shippingport Community Mark - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZ0VZSUFyWl9wY1BMVDN4bkZkS2VJQ01UQ2tMNWRsSGJYVm1xeVNwQTYwOWNubjhIbE5IekstdlRDa1FNNU1QS0dWRGRRQVVYY0laN0NhUnRDUG9DakVwdlA1TnBUTmRRWmxKWXUwSWFNVHhoZWtaNEZLd3FSOG1oUWk1X1Bic3U5SHRkdEQwS3MzVHMzZjVBY0FINUZJXzRGRU9iSURYckNhZms3bzVvUWxHbXM4Ymxfa0w5RE5abHpXYS15UXlVUlF2OWJVT204eGk2U0lyVkRiUEZhV2QwZ2hpZXoxc1FKSzZwOG1ReFdtcjV4M2wwMEdEbE5Wc1A0YzZaOGRmVnBMRVlUMElBWVlYcEN2WlhrNWowMVlvZWNXYVJOMTFyc3I3NjRrX3RVYjFzSGZVZw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
+      "id": "62b4d7b77f11e5",
+      "title": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1",
+      "url": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
       "date": "2026-09-10",
-      "summary": "Aligned Data Centers and Shippingport Community Mark &nbsp;&nbsp; GlobeNewswire",
+      "summary": "Dumb Science Experiments vs. Money Printing Machines",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9710,13 +9802,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "f198b0b2fba06e",
-      "title": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ - Yahoo Finance",
+      "id": "45887590cfbcc2",
+      "title": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEJvM3dTVHV3MTRMbGRrWlJfdWJEeWJyNFpPRGk4VXpnSVF2c1FWV0hQdFNraXNqWnY2dWlsSmxDU3NDS2dadUxCZ0VXZGxyZW1sWmNYa1JNNmMyOXpUQlpkWEE4MFg3Z1k5TWo1X3VCc1FnNWpCelVta0dxb0tBZHFZaWZLY19CLVg0ejh0bnhSLVFDcEE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ &nbsp;&nbsp; finance.yahoo.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9731,13 +9823,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "45887590cfbcc2",
-      "title": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ - finance.yahoo.com",
+      "id": "f198b0b2fba06e",
+      "title": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEJvM3dTVHV3MTRMbGRrWlJfdWJEeWJyNFpPRGk4VXpnSVF2c1FWV0hQdFNraXNqWnY2dWlsSmxDU3NDS2dadUxCZ0VXZGxyZW1sWmNYa1JNNmMyOXpUQlpkWEE4MFg3Z1k5TWo1X3VCc1FnNWpCelVta0dxb0tBZHFZaWZLY19CLVg0ejh0bnhSLVFDcEE?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ &nbsp;&nbsp; finance.yahoo.com",
+      "summary": "Google Invests $15 Billion on Data Center Buildout in ‘Texas of Europe’ &nbsp;&nbsp; Yahoo Finance",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9856,13 +9948,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "ceca85adfea138",
-      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
+      "id": "6b98eada68bb6e",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-09-09",
-      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; CNBC",
+      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; cnbc.com",
       "finding_type": "New Project",
       "companies": [
         "Google"
@@ -9898,6 +9990,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "ceca85adfea138",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-09-09",
+      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; CNBC",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "a894406ec4446b",
       "title": "Google Commits $15 Billion to Massive Finland AI Hub - tikr.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12amstS3p1YzJES0h4WjNkSXRGWHQxTGFaZVdsZHhxdmQ2LVhTQWpOZjlQbEluQ1Q3dnZ1TzQ3WVRwTlo1WFM0Um1xMWMtMHNVdlNNMGNlTmNEc1JYV0k0cHN2R1J6MWhBODJDNUp3M3lPYWR3MjdyWmZVYmZtZw?oc=5",
@@ -9914,27 +10027,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6b98eada68bb6e",
-      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe' &nbsp;&nbsp; cnbc.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10296,99 +10388,6 @@
       "source_cat": "Announcement",
       "date": "2026-09-09",
       "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; وكالة الأنباء السورية – سانا",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "92924b11fbb195",
-      "title": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure - googlecloudpresscorner.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORUh0cVRJb2JtWWxYWUV3NF9CSFZweVdNNzFVeWRuV0MyX0xkaE51RkF6VXFjWXg4WWRWYmtWenpkQTZTVmdkbUZkWk5fUWpBOEdYVEZyS2Z0SnI3Rnl2SHRmUTBDLTBmeHhxTzUwb2R5OXg4aTRUd21QdWd2NFpuNTZDaHNoVTdRbjNZaHBPajlmNWhtUDZxTXJkQmF6WGFRWGN1VHFXckRFSlhaYmZKamdSMmtUT1J0VmU2ZzY1cnRpb1ZYWHFOQVhseFMzRjFBUWJLSXc0QVZnZ2QzN21j?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google Deepens Commitment to Finland with Two-Year €13 Billion investment in AI Infrastructure &nbsp;&nbsp; googlecloudpresscorner.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2fa809971284e9",
-      "title": "CoreWeave CEO: America's data center backlash won't stop the AI build-out - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZXE3aFI4UmZZYTAyb0ZCcm0yMUMxWGl2SXpheE1na2ZqcjIyc2JzQVRPcjlhc0JYOFJJNjQ4WWt2VU56aDhHN0wyRTB4R2xtNkRQWmJNRzVRdkNLNGM0cThJUVlzdjlVdHlPOWRWVG9TZXVqWEVTNWV5OXRtMlZSd0E3Z2xQQkRPZHdreWVJODFvY1o0cUpwSGJLZmlVR21IZ3pTb084d0Z0SGhGdlFCUDZ2ZDVaQmJZVlNabFRCc2U2THRVTmc?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-09-09",
-      "summary": "CoreWeave CEO: America's data center backlash won't stop the AI build-out &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "546138a2888ca6",
-      "title": "Google to Invest €13 Billion in AI Infrastructure in Finland - Energy Connects",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpJT0E1cVRYNmI2WlVIcTNISUJGdk5VVmRVXzZkeTluTVJRRGhkNXRPdTA4VnNMYWg5WkRJMmFOSmkxTDg5UmpMbW5xRkxlQklFWDNBd3NKZHlTUzRXbEd4ZnhNTHVXaEVCOU45TnY1Z3dRV0dXOVZmS2NQNTdsclBEXzhueElRTDdFMDJpbnNUSGhyanBaaTkybHE3Q2JDZ0cwWEZONFhRX1c2TkdoaU5Rb0FKSEZTSjZwZjZn?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-09",
-      "summary": "Google to Invest €13 Billion in AI Infrastructure in Finland &nbsp;&nbsp; Energy Connects",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b78b05babed5a1",
-      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - سانا",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; سانا",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "409876f7a2412b",
-      "title": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure - sana.sy",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmQnozbzJ2TUpQMU13dnZqOWVBRE5fZ2tfMGUtdDA3cHdGbGRuVjVmMEZqWGg1YTI3Q2o0LXVhLWFqTmd1TUxYUkNsTTQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-09",
-      "summary": "Google Announces €13 Billion Investment in Finland’s Digital Infrastructure &nbsp;&nbsp; sana.sy",
       "finding_type": "New Project",
       "companies": [
         "Google"
