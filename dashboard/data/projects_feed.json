@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-10-06T16:32:11.051219+00:00",
+  "last_updated": "2026-10-06T22:25:44.974556+00:00",
   "finding_count": 600,
-  "new_project_count": 63,
-  "cancellation_count": 25,
+  "new_project_count": 64,
+  "cancellation_count": 26,
   "sec_filing_count": 4,
   "high_confidence_count": 144,
   "findings": [
+    {
+      "id": "53794ad564aa1b",
+      "title": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHNuclJJeVVFY0FlY01JZTlQSTVFMVhyZndUcC1Vd3dvSUNNaHRWSWFWVjdnN0dGYU5GZEFhYk9sRWNKT3NuOTQ0WU5XSHdCQUhaa3Jkanc2YTMydGE0ZkVYakE3RGswdmZPbWNEdmxrUGZyeU1VdzRoU1VlNUdHWjNkWDR5SVh2Vk1mbWxhUmhYSUVrRjJpamZ6RWtfVzVwLU5WYVFpUzhHdVp6Yy1SbmdIX0k4eGtGZXJNbENn?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-06",
+      "summary": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "fd56bd659e158f",
+      "title": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DckxybmdjMnlVUU1BcHY1N2w1STZaX241REV1WFVzX0JpUHNLcFlUMEFNQzRmU3pmRUdKSDU4TktjaFJzQVlpR05TcW5iLWo2VFRMM1JoOVJPbGR0WnJoMjNGbmFUMFhPQWRLdVJNMFhyNnlKSENOM0h3?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-06",
+      "summary": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring &nbsp;&nbsp; AOL.com",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "59fc1ac2798170",
       "title": "Google signs 3.6GW deal with Constellation to secure power in PJM service area",
@@ -39,8 +77,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$6.3 billion",
-        "$25 billion"
+        "$25 billion",
+        "$6.3 billion"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -102,20 +140,33 @@
       "is_high_confidence": false
     },
     {
-      "id": "0271e51eaf54d9",
-      "title": "Investment firm Forum Markets partners with Edge Node for US compute roll-out",
-      "url": "https://www.datacenterdynamics.com/en/news/investment-firm-forum-markets-partners-with-edge-node-for-us-compute-roll-out/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "bfbf5ac347aaa4",
+      "title": "Transforming the data path: Dell’s new releases move enterprises closer to the agentic data center",
+      "url": "https://siliconangle.com/2026/10/06/agentic-era-dell-ai-data-platform-thecube-dellaidataplatform/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-10-06",
-      "summary": "JV taking on data center capacity in Dallas and North Carolina, deploying capacity at Texas cell tower",
-      "finding_type": "Statement / Update",
+      "summary": "AI is taking shape, moving from models that answer questions to models that can reason. Now models are powering the agentic era, and Dell Technologies Inc. has announced several extensions to its AI Data Platform designed to manage this new paradigm. These include extending the Dell Data Orchestration Engine with three new capabilities: the Unified [&#8230;] \n The post  Transforming the data path: Dell’s new releases move enterprises closer to the agentic data center  appeared first on  SiliconA",
+      "finding_type": "New Project",
       "companies": [],
-      "locations": [
-        "North Carolina",
-        "Texas",
-        "Dallas"
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c5b5104b6a1fa2",
+      "title": "CoreWeave targets GPU utilization in continuous AI post-training",
+      "url": "https://siliconangle.com/2026/10/06/gpu-utilization-post-training-shapes-better-ai-agents-fullyconnected/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-06",
+      "summary": "GPU utilization during post-training depends partly on how efficiently infrastructure moves data and loads updated models. As enterprises continually refine AI agents, reducing delays between training rounds can help keep that process moving. The need for continual improvement is pushing CoreWeave Inc. to build a full-stack AI cloud for the agent lifecycle. You.com Inc. provides [&#8230;] \n The post  CoreWeave targets GPU utilization in continuous AI post-training  appeared first on  SiliconANGL",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "CoreWeave"
       ],
+      "locations": [],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -135,6 +186,40 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0271e51eaf54d9",
+      "title": "Investment firm Forum Markets partners with Edge Node for US compute roll-out",
+      "url": "https://www.datacenterdynamics.com/en/news/investment-firm-forum-markets-partners-with-edge-node-for-us-compute-roll-out/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-06",
+      "summary": "JV taking on data center capacity in Dallas and North Carolina, deploying capacity at Texas cell tower",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "North Carolina",
+        "Texas",
+        "Dallas"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aa30e7016f7df1",
+      "title": "DCD Studio: Permitting and pre-construction for Edge sites, with Gonzalo de la Pedraja, Quetta Data Centers",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-permitting-and-pre-construction-for-edge-sites-with-gonzalo-de-la-pedraja-quetta-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-06",
+      "summary": "Zoe Turner speaks with Gonzalo de la Pedraja of Quetta Data Centers about permitting and pre-construction challenges for Edge sites, focusing on critical dynamics in data center development.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -179,6 +264,40 @@
       "summary": "Majority of capacity is leased from third-party providers",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2111c584ea7bce",
+      "title": "Google expands EmbeddingGemma beyond text to images, audio and video",
+      "url": "https://siliconangle.com/2026/10/06/google-expands-embeddinggemma-beyond-text-to-images-audio-and-video/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-06",
+      "summary": "Google LLC today released EmbeddingGemma 2, an open multimodal embedding model small enough to run on a smartphone. The release takes the EmbeddingGemma line beyond text, which was all the first version handled when Google introduced it in September 2025. Images, audio and video now share one embedding space with text. An app built on [&#8230;] \n The post  Google expands EmbeddingGemma beyond text to images, audio and video  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3a60305f24e14b",
+      "title": "MasterClass bets AI teaching agents can broaden access to tutoring",
+      "url": "https://siliconangle.com/2026/10/06/ai-teaching-agents-masterclass-tackles-tutoring-costs-fullyconnected/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-06",
+      "summary": "AI teaching agents could make personalized instruction available to more learners by reducing the cost and staffing demands of one-to-one tutoring. MasterClass is exploring that potential through a system designed to adapt to how each student learns. The shift is also feeding CoreWeave Inc.&#8217;s full-stack AI cloud push as companies move AI agents out of [&#8230;] \n The post  MasterClass bets AI teaching agents can broaden access to tutoring  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -236,6 +355,74 @@
       "is_high_confidence": false
     },
     {
+      "id": "e83d1adc130b05",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-06",
+      "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fb99ae4710e1df",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-06",
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cb5256b8282398",
+      "title": "Amazon kills Alexa’s ability to control Echo speakers' AUX input",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-06",
+      "summary": "Amazon hasn't made an Echo with a 3.5mm port in six years.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f155cf6a34dde4",
+      "title": "Googlebook \"Better Together\" phone features don't work with Samsung at launch",
+      "url": "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-06",
+      "summary": "Googlebooks require Android 17, but Samsung's Android 17 phones won't work yet.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "25688fa251f726",
       "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
       "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
@@ -259,7 +446,7 @@
       "source": "Ars Technica",
       "source_cat": "Tech News",
       "date": "2026-10-06",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
       "finding_type": "Statement / Update",
       "companies": [
         "OpenAI"
@@ -280,6 +467,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bbb245a137c79b",
+      "title": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-06",
+      "summary": "Still from a virtual interview featuring three Googlers. Next to them is text saying: Ask a scientist about maternal health research",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -659,41 +863,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b1ec2abffc22f9",
-      "title": "Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure",
-      "url": "https://siliconangle.com/2026/10/05/nvidia-coreweave-tackle-cpu-bottleneck-agentic-ai-infrastructure-fullyconnected/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-05",
-      "summary": "Agentic AI infrastructure must support the work between a model’s decisions as agents move from answering questions to executing tasks. Central processing units handle much of that execution, while graphics processing units power model reasoning. Those complementary roles shape Nvidia Corp.’s planned Vera CPU deployment with CoreWeave Inc., according to Hannah Coutand (pictured, right), director [&#8230;] \n The post  Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure  ap",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "51314971c16cba",
-      "title": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
-      "url": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-05",
-      "summary": "Google Cloud partner Promevo LLC today launched Insights by Promevo, a platform for tracking adoption of Google LLC&#8217;s Gemini Enterprise and the artificial intelligence agents employees build with it, as well as spending across the rest of a customer&#8217;s Google Cloud environment. Insights by Promevo goes after what the company calls a visibility gap in [&#8230;] \n The post  Promevo launches Insights to track Gemini Enterprise adoption and AI agents  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "de6c8c797733c8",
       "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
       "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
@@ -707,21 +876,6 @@
         "OpenAI",
         "Anthropic"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "07bfb630e1be22",
-      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-05",
-      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -745,13 +899,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "85b12293289bfc",
-      "title": "Gemini helps me give a voice to students who cannot write.",
-      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
+      "id": "678fdd788d981f",
+      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-05",
-      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
+      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -779,30 +933,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6caaf30deedea6",
-      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
+      "id": "85b12293289bfc",
+      "title": "Gemini helps me give a voice to students who cannot write.",
+      "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-05",
-      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb5a8c78871490",
-      "title": "Gemini helps me bring hands-on learning into the classroom.",
-      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-05",
-      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "summary": "Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -832,13 +969,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "678fdd788d981f",
-      "title": "My eighth-grade students built our school newscast from scratch with Gemini.",
-      "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/",
+      "id": "6caaf30deedea6",
+      "title": "I replaced traditional coding tests with real conversations about how my students solve problems using AI.",
+      "url": "https://blog.google/products-and-platforms/products/education/gemini-google-colab/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-05",
-      "summary": "Eighth graders built The Cougar Rumble newscast using Gemini and Google Docs. See how these students streamlined their production workflow today.",
+      "summary": "Replace coding tests with AI-driven interviews using Google Gemini in Colab. See how this professor evaluates student judgment. Read the full report.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -883,6 +1020,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "cb5a8c78871490",
+      "title": "Gemini helps me bring hands-on learning into the classroom.",
+      "url": "https://blog.google/products-and-platforms/products/education/english-teacher-gemini/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-05",
+      "summary": "A teacher uses Google Gemini to design interactive role-playing simulations and nutrition lessons. See how AI boosts classroom engagement.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b57b66251202b1",
       "title": "Making AI training available to UK and Ireland educators",
       "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/",
@@ -898,6 +1052,56 @@
         "UK",
         "Ireland"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b1ec2abffc22f9",
+      "title": "Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure",
+      "url": "https://siliconangle.com/2026/10/05/nvidia-coreweave-tackle-cpu-bottleneck-agentic-ai-infrastructure-fullyconnected/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-05",
+      "summary": "Agentic AI infrastructure must support the work between a model’s decisions as agents move from answering questions to executing tasks. Central processing units handle much of that execution, while graphics processing units power model reasoning. Those complementary roles shape Nvidia Corp.’s planned Vera CPU deployment with CoreWeave Inc., according to Hannah Coutand (pictured, right), director [&#8230;] \n The post  Nvidia and CoreWeave tackle the CPU bottleneck in agentic AI infrastructure  ap",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "51314971c16cba",
+      "title": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
+      "url": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-05",
+      "summary": "Google Cloud partner Promevo LLC today launched Insights by Promevo, a platform for tracking adoption of Google LLC&#8217;s Gemini Enterprise and the artificial intelligence agents employees build with it, as well as spending across the rest of a customer&#8217;s Google Cloud environment. Insights by Promevo goes after what the company calls a visibility gap in [&#8230;] \n The post  Promevo launches Insights to track Gemini Enterprise adoption and AI agents  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "07bfb630e1be22",
+      "title": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+      "url": "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-05",
+      "summary": "Russian attacks on Internet, phone services threaten Ukraine’s wartime economy.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1087,13 +1291,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "faf8d652e5004c",
-      "title": "Exclusive: Iterate.ai’s Lifeboat runs up to six times more AI agent sessions per GPU",
-      "url": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "532acf2e2b7907",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-10-05",
-      "summary": "Enterprise artificial intelligence software company Iterate Studio Inc. today launched Lifeboat, an inference engine for large language models that has confidential computing built in. Iterate.ai says the software fits two to six times as many concurrent AI agent sessions on each graphics processing unit. Lifeboat is seeking to take on a memory problem that agents [&#8230;] \n The post  Exclusive: Iterate.ai&#8217;s Lifeboat runs up to six times more AI agent sessions per GPU  appeared first on  ",
+      "summary": "The tool can free up over 12GB of storage.",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1102,13 +1306,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "532acf2e2b7907",
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
+      "id": "faf8d652e5004c",
+      "title": "Exclusive: Iterate.ai’s Lifeboat runs up to six times more AI agent sessions per GPU",
+      "url": "https://siliconangle.com/2026/10/05/exclusive-iterate-ais-lifeboat-runs-up-to-six-times-more-ai-agent-sessions-per-gpu/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-10-05",
-      "summary": "The tool can free up over 12GB of storage.",
+      "summary": "Enterprise artificial intelligence software company Iterate Studio Inc. today launched Lifeboat, an inference engine for large language models that has confidential computing built in. Iterate.ai says the software fits two to six times as many concurrent AI agent sessions on each graphics processing unit. Lifeboat is seeking to take on a memory problem that agents [&#8230;] \n The post  Exclusive: Iterate.ai&#8217;s Lifeboat runs up to six times more AI agent sessions per GPU  appeared first on  ",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -9867,9 +10071,9 @@
         "New York"
       ],
       "amounts": [
-        "2.3GW",
+        "1,525MW",
         "20GW",
-        "1,525MW"
+        "2.3GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10144,206 +10348,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "e970f871f3cda1",
-      "title": "What should Britain expect from its next generation of data centers?",
-      "url": "https://www.datacenterdynamics.com/en/opinions/what-should-britain-expect-from-its-next-generation-of-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "How digital infrastructure projects can contribute to communities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ffb973a398a30d",
-      "title": "Sponsored: Why cooling media quality monitoring is becoming a critical part of data center liquid cooling strategies",
-      "url": "https://www.datacenterdynamics.com/en/opinions/why-cooling-media-quality-monitoring-is-becoming-a-critical-part-of-data-center-liquid-cooling-strategies/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "While much of the industry discussion focuses on thermal performance and cooling system design, another factor is becoming increasingly important: the quality of the cooling media itself",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bed2f525db7192",
-      "title": "OpenAI hiring for clean energy and new technology lead",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-hiring-for-clean-energy-and-new-technology-lead/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Position is an individual contributor lead role and will initially have no direct reports",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c29b2351abfed2",
-      "title": "Digital Realty, Colovore, Hut 8, CoreSite, and DataBank file to build data centers in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-colovore-hut-8-coresite-and-databank-file-to-build-data-centers-in-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Lone Star State continues to appeal to operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "61eddd268fd2b7",
-      "title": "AVK launches dedicated funding arm to own and operate onsite power solutions for data center customers",
-      "url": "https://www.datacenterdynamics.com/en/news/avk-launches-dedicated-funding-arm-to-own-and-operate-onsite-power-solutions-for-data-center-customers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Dubbed AVK Capital",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d14acbc87b6c7e",
-      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
-      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-15",
-      "summary": "Salesforce Inc. said today at its annual user conference Dreamforce that it has partnered with Nvidia Corp. to train and release Koa, a specialized artificial intelligence model that’s custom built for reasoning about customer relationship management data. Based on Nvidia’s Nemotron model architecture, Koa is designed specifically to help AI agents reason through complex, multistep [&#8230;] \n The post  Salesforce debuts Koa, a specialized model built to reason about CRM data  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b84cc04b3b56cd",
-      "title": "StackHawk’s Wingman fixes security flaws while the AI agent is still coding",
-      "url": "https://siliconangle.com/2026/09/15/stackhawks-wingman-fixes-security-flaws-while-the-ai-agent-is-still-coding/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-15",
-      "summary": "Application security company StackHawk Inc. today launched Wingman, a tool that fixes security vulnerabilities inside the artificial intelligence coding session that produced the flawed code. The software installs into agentic coding workflows, among them Claude Code, Cursor and GitHub Copilot. Wingman fires when a coding agent marks a feature as done. The scanner configures itself, [&#8230;] \n The post  StackHawk&#8217;s Wingman fixes security flaws while the AI agent is still coding  appeared ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "bffaa90a022ca9",
-      "title": "Google inks one million ton carbon removal deal with Mitti Labs in India",
-      "url": "https://www.datacenterdynamics.com/en/news/google-inks-one-million-ton-carbon-removal-deal-with-mitti-labs-in-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Credits generated by the company's methane-reduction projects in the rice farming sector",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "17fd469fbc6d94",
-      "title": "Why insurers pay attention to data center cooling",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/why-insurers-pay-attention-to-data-center-cooling/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-15",
-      "summary": "Why cooling reliability is becoming a critical consideration for data center insurers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "425ff229b64ebc",
-      "title": "Trump EPA moves to wipe out climate rules for power plants",
-      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-15",
-      "summary": "EPA says power plant emissions have no material impact on climate change.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2de0af3e910e9f",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$50 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6d684b3dfdb132",
-      "title": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race - fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcC11OGRPRzNZUlY2OVYtVUEwNTQ1Nm45MHRIYktQcXlzTGp0VElteUJ4Nk5SQm5FendjbVA4Q0lkY3NCU0VETno0cUMyY2s3MDF1TzNRMzZsd2Q2allPWEdCRTY3VUlXT19lNkx6VUlwb1ZtRmpOdF8yQjNJV2x1ZjBPMGllelJIZ29oWUJqelVoeE9PWENJTg?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-09-14",
-      "summary": "Alphabet's Rapidly Growing $50 Billion Business Is a Huge Advantage in the AI Arms Race &nbsp;&nbsp; fool.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$50 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
