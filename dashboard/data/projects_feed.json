@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-10-12T14:39:14.302852+00:00",
+  "last_updated": "2026-10-12T22:45:21.658968+00:00",
   "finding_count": 600,
-  "new_project_count": 59,
-  "cancellation_count": 21,
+  "new_project_count": 60,
+  "cancellation_count": 20,
   "sec_filing_count": 3,
-  "high_confidence_count": 152,
+  "high_confidence_count": 155,
   "findings": [
+    {
+      "id": "60794d9db5835e",
+      "title": "DCD Studio: AVK's billion dollar investment into energy solutions, with Ben Pritchard, AVK",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-avks-billion-dollar-investment-into-energy-solutions-with-ben-pritchard-avk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Seb Moss speaks with Ben Pritchard of AVK about meeting data center power demands via microgrids, innovative pod factories, and creative financing backed by a $1B investment.",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "17d8dc64f0d7f7",
       "title": "Report: Amazon in talks with AI startup Decart over possible $7B acquisition",
@@ -24,6 +41,42 @@
         "$7B"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "f212b2df268044",
+      "title": "FiveNines Group and Nexus Core Systems partner on 20MW data center in Morocco",
+      "url": "https://www.datacenterdynamics.com/en/news/fivenines-group-and-nexus-core-systems-partner-on-20mw-data-center-in-morocco/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Data center will be located outside of Casablanca",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "20MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "80f5c83cb9785f",
+      "title": "Memphis council delays decision on year-long data center moratorium despite protests",
+      "url": "https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Home of Musk's xAI data centers could ban new developments for 12 months",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [
+        "Memphis"
+      ],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -101,6 +154,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "fa86343f3e3a05",
+      "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
+      "url": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-12",
+      "summary": "Microsoft Corp. today pulled back the curtains on Maia 300, its newest internally developed artificial intelligence accelerator. The chip is optimized for inference, the process of generating responses to AI queries. Microsoft estimates that it can process 40% more tokens per megawatt than “leading GPU-based systems,” which is likely a reference to Nvidia Corp. products. [&#8230;] \n The post  Microsoft debuts multichiplet Maia 300 inference accelerator  appeared first on  SiliconANGLE .",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "07b0b2c8ab91ef",
       "title": "Google's Jacqueline Dory Prescott named data center portfolio lead at Anthropic",
       "url": "https://www.datacenterdynamics.com/en/news/googles-jacqueline-dory-prescott-named-data-center-portfolio-lead-at-anthropic/",
@@ -136,6 +207,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "87017683437047",
+      "title": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances",
+      "url": "https://siliconangle.com/2026/10/12/nvidia-tackles-ai-factory-scaling-bottlenecks-with-open-rack-designs-and-networking-advances/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-12",
+      "summary": "Nvidia Corp. today announced new partnerships and contributions to the open-source community at the Open Compute Project Global Summit in San Jose, aimed at laying the foundation for the future of agentic artificial intelligence infrastructure. At the core of these announcements, the chip and hardware giant contributed key Vera Rubin rack and compute tray designs [&#8230;] \n The post  Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances  appeared first on ",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "98e83d052debe1",
       "title": "Mistlabs takes its Ambi AI system out of beta on Apple devices with $26M in funding",
       "url": "https://siliconangle.com/2026/10/12/mistlabs-takes-its-ambi-ai-system-out-of-beta-on-apple-devices-with-26m-in-funding/",
@@ -154,6 +242,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b0d82e5813632c",
+      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "cf46d6b8fde97b",
       "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
       "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
@@ -168,6 +273,85 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aa8afa73454026",
+      "title": "SWI raises €800 million for data center expansion",
+      "url": "https://www.datacenterdynamics.com/en/news/swi-raises-800-million-for-data-center-expansion/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Funds to support projects in the US and Europe",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cc1b5b8e99567a",
+      "title": "DCD Studio: Beyond the hype - Practical strategies for data center development with Nick Marlow, BCS",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-beyond-the-hype-practical-strategies-for-data-center-development-with-nick-marlow-bcs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Seb Moss speaks with Nick Marlow of BCS about the evolving European data center landscape, from rising power demands to the challenges of site selection",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f63d4c730ec541",
+      "title": "Russian military takes out more Ukrainian data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Military takes down ISP in Odessa, claims facility was serving Ukrainian armed forces",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "573503bf3c3840",
+      "title": "Nvidia opens up Vera Rubin rack and tray designs to OCP",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-opens-up-vera-rubin-rack-and-tray-designs-to-ocp/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "MGX 1.2 spec doubles down on liquid cooling",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f4102a91b87ffb",
+      "title": "Nvidia gears up to smash CPU hegemony as Vera starts shipping",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-gears-up-to-smash-cpu-hegemony-as-vera-starts-shipping/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Dedicated ‘discrete’ processor platform segregates agentic workloads from NVL72 to boost performance",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -255,13 +439,62 @@
       "is_high_confidence": false
     },
     {
-      "id": "ead816c0a1809e",
-      "title": "US DOE funds 12 projects under Genesis Mission; cloud providers sign up to support effort",
-      "url": "https://www.datacenterdynamics.com/en/news/us-doe-funds-12-projects-under-genesis-mission-cloud-providers-sign-up-to-support-effort/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "3d7fbbfedac1de",
+      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents",
+      "url": "https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-10-12",
-      "summary": "AWS and Crusoe among those to offer compute capacity",
+      "summary": "Meta Platforms Inc. today released Muse Wonder and Muse Wonder Full, two artificial intelligence models it says are its most capable yet at running agents that handle personal and professional tasks. Meta aimed the release at the longer, multistep jobs people hand off to an AI agent. One example it gave was working through an [&#8230;] \n The post  Meta releases Muse Wonder AI models built to run personal and professional agents  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ff9bb8e600c2b3",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b250bf7faccad4",
+      "title": "Russia was not ready for the data center war it started with Ukraine",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f8d560f558e1d6",
+      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -272,28 +505,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "c9cfa0d528c41f",
-      "title": "Orcadian Energy terminates data center agreement for North Sea gas field - report",
-      "url": "https://www.datacenterdynamics.com/en/news/orcadian-energy-terminates-data-center-agreement-for-north-sea-gas-field-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "c3dce9efa8588c",
+      "title": "Announcing AWS Lambda Web Functions",
+      "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
       "date": "2026-10-12",
-      "summary": "Non-exclusive agreement signed with US digital infrastructure developer back in July",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "04a03c3cf4cf0e",
-      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-12",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "summary": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution.",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -366,6 +584,72 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "55d3400ee69b21",
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-10-12",
+      "summary": "Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks. \n The post  Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ead816c0a1809e",
+      "title": "US DOE funds 12 projects under Genesis Mission; cloud providers sign up to support effort",
+      "url": "https://www.datacenterdynamics.com/en/news/us-doe-funds-12-projects-under-genesis-mission-cloud-providers-sign-up-to-support-effort/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "AWS and Crusoe among those to offer compute capacity",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c9cfa0d528c41f",
+      "title": "Orcadian Energy terminates data center agreement for North Sea gas field - report",
+      "url": "https://www.datacenterdynamics.com/en/news/orcadian-energy-terminates-data-center-agreement-for-north-sea-gas-field-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-12",
+      "summary": "Non-exclusive agreement signed with US digital infrastructure developer back in July",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "04a03c3cf4cf0e",
+      "title": "Inside Amazon’s robotic arms race and what it means for the future of human work",
+      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -467,8 +751,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$200 million",
         "$445M",
+        "$200 million",
         "$445 million"
       ],
       "confidence": 6,
@@ -1255,23 +1539,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "fcb66b5aa4de3c",
-      "title": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
-      "url": "https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-08",
-      "summary": "Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free periodic vulnerability scans from the company&#8217;s strongest models. Both fall under a new effort Anthropic calls the Anthropic Cyber [&#8230;] \n The post  Anthropic launches critical infrastructure program and free OSS Scanner for open sourc",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "004fd5552976dd",
       "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
       "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
@@ -1407,6 +1674,23 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fcb66b5aa4de3c",
+      "title": "Anthropic launches critical infrastructure program and free OSS Scanner for open source",
+      "url": "https://siliconangle.com/2026/10/08/anthropic-launches-critical-infrastructure-program-and-free-oss-scanner-for-open-source/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-08",
+      "summary": "Anthropic PBC today launched a program that brings its frontier models and onsite engineers to the security companies protecting power grids, water systems and other critical infrastructure. OSS Scanner, launched with it, offers open-source projects free periodic vulnerability scans from the company&#8217;s strongest models. Both fall under a new effort Anthropic calls the Anthropic Cyber [&#8230;] \n The post  Anthropic launches critical infrastructure program and free OSS Scanner for open sourc",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -4261,23 +4545,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "91d922f7a2ebfc",
-      "title": "Amazon’s New Push to Get Buy-In for Data Center Build-Out - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFBzUjZRQklTX05vWk1WLVBnR3k5MlRpaE5nQzlXUjc0ZG45ODg2c2xhelluelFBY0J1dWlSbHUwbUtobExJY0piWERFTXVBdkhuVGVsTmpjaExNY1hRQnAyRF9EZTRjdXJkRVR2c3N0LW9BQ3FjeDQ2RVJNQ1FwUENDX1NyellSTmRjS1hFbVA5Vk5V?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon’s New Push to Get Buy-In for Data Center Build-Out &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "40615705a8a07a",
       "title": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN3k4bGFzcFFXVzRTTzFyYkFaMWdodi16OHViYlI0UTZXN2R6TWNtbzlpTTFZTUsxZUxYZlJnWUEwT0RhZW1DMVJpeGF5ZS00RWVqbmhYQlpWR3NSaUdFRVVaSDI3MFVHeHBvakxTTVhYQl91Z0hkX055Mm1jNmFLN21SdFpDTWVndGZqRnZFT2VlcGlpZ2tad0hkNlk3X2tBNXhlOGZOVnowWUtoMENfRWN6TzVhN2dzdnhRcW94YnU0Z1I0aGM2TE5zSWRQdmtfa25nekQyUFBPUlpxeEFUdzBvcGREMWJsM2twR3JoakdUYURaS2RYd2p2TzlfU1pjTFdsSU9EYnE0NE0?oc=5",
@@ -4289,6 +4556,23 @@
       "companies": [
         "OpenAI",
         "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "91d922f7a2ebfc",
+      "title": "Amazon’s New Push to Get Buy-In for Data Center Build-Out - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFBzUjZRQklTX05vWk1WLVBnR3k5MlRpaE5nQzlXUjc0ZG45ODg2c2xhelluelFBY0J1dWlSbHUwbUtobExJY0piWERFTXVBdkhuVGVsTmpjaExNY1hRQnAyRF9EZTRjdXJkRVR2c3N0LW9BQ3FjeDQ2RVJNQ1FwUENDX1NyellSTmRjS1hFbVA5Vk5V?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon’s New Push to Get Buy-In for Data Center Build-Out &nbsp;&nbsp; WSJ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
       ],
       "locations": [],
       "amounts": [],
@@ -10071,297 +10355,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0be8f1e6b5759b",
-      "title": "Google-backed battery storage pilot in Texas demonstrates how BESS can improve hourly carbon-free matching for data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/google-backed-battery-storage-pilot-in-texas-demonstrates-how-bess-can-improve-hourly-carbon-free-matching-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-21",
-      "summary": "Pilot undertaken by Quintrace, esVolta, and LevelTen Energy",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4e4bda0ad388ff",
-      "title": "Prysmian, Rio Tinto to supply Amazon data center in Ohio with low-carbon aluminum",
-      "url": "https://www.datacenterdynamics.com/en/news/prysmian-rio-tinto-to-supply-amazon-data-center-in-ohio-with-low-carbon-aluminum/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-21",
-      "summary": "Will deliver electrical cabling to the data center",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9641f10bb8531c",
-      "title": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf0gGsAkFVX3lxTE5hNWFzWVYtcFRueVNxcFVmVEdEZzlLMm9UOW5TNXhJLXJFWEVRMk95VHY1RmpYZzhEdmpWRWVDNEJGSEdhVnd0WmhXSHcxX2F4MTU1TWVGTk42cGdZd0dzSzhfTmloV0xTRmpqb3lLNzUtOUNlQWZuUHhxRVE4MHlHUDd1eHVMeld0Y1hvenlVUzRINTVMUXNFOEZMM1JlZy1yS1VIWDZTOGh3ci1haTVfRVg5cHk2YWNNWF9EdDR5NXJWOHB5QU15UmFBaXFyU1JHdVRYQWFMTWxRREp5bzh5bHMzdk1zSm9PbkZ5anFSWGJuNWl2X2tFYkdkMFZYdDVXX1dRMENiTTBYdjBOZVlOSzkyTll1d1g5QXF1OFBmbzJsSXVkc25tOW85Qw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-09-21",
-      "summary": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete &nbsp;&nbsp; Houston Public Media",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b43548e9db4a5d",
-      "title": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete - houstonpublicmedia.org",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf0gGsAkFVX3lxTE5hNWFzWVYtcFRueVNxcFVmVEdEZzlLMm9UOW5TNXhJLXJFWEVRMk95VHY1RmpYZzhEdmpWRWVDNEJGSEdhVnd0WmhXSHcxX2F4MTU1TWVGTk42cGdZd0dzSzhfTmloV0xTRmpqb3lLNzUtOUNlQWZuUHhxRVE4MHlHUDd1eHVMeld0Y1hvenlVUzRINTVMUXNFOEZMM1JlZy1yS1VIWDZTOGh3ci1haTVfRVg5cHk2YWNNWF9EdDR5NXJWOHB5QU15UmFBaXFyU1JHdVRYQWFMTWxRREp5bzh5bHMzdk1zSm9PbkZ5anFSWGJuNWl2X2tFYkdkMFZYdDVXX1dRMENiTTBYdjBOZVlOSzkyTll1d1g5QXF1OFBmbzJsSXVkc25tOW85Qw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-09-21",
-      "summary": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete &nbsp;&nbsp; houstonpublicmedia.org",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a3dc0a4076ebb6",
-      "title": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete - Houston Public Media",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYlFMVjJndy1JTFU1Y3pqWm0xNHhicF9xWXVtVXVkQXdSajJMTUk4Z3VLa1Z6NnVHVFRkcEVGRlJEUXN3YlI4NE5SU1c5MEpZWFFoV3I2cmZCMTJxUHk3RzF2b0E1dkpkbTlCNV8tVkpHNXNSdk9weTVCcXRxWTRfLVdaZzQyZjM4WGhMSE9nVzZGaFdHQ1pxV0Z1djNSWFVXaTlPT0ppenRqMTVjRkc5VldwTHRLOW5YbHZoYTBCSG9kMng1aXltUWNhODNNMzhwYnFISFc0NHNhSWU4OVVpSWJMM3pFaExKWXhPMlhSR0Q3ZHdjQ0dwaHNkdTQ0cWV5emNZUDgtTG82eTBMNHNMRDJHSU5hWWhHQUJBLTlndnVzUkZf?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-09-21",
-      "summary": "Gov. Abbott orders TCEQ to pause environmental permits for data centers until audit is complete &nbsp;&nbsp; Houston Public Media",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "308dd57aec5f11",
-      "title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale files to go public",
-      "url": "https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-21",
-      "summary": "Salesforce Inc. keeps putting all of its eggs in the agent basket — but the strategy appears to be paying off so far. At Dreamforce 2026, Marc Benioff, chief executive officer of Salesforce, bantered with Nvidia Corp. CEO Jensen Huang and led the announcement of a new artificial intelligence interface layer, AIforce. The event also [&#8230;] \n The post  On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale files to go public  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0d1549b279ed7e",
-      "title": "Googlebook brings premium intelligence to a lightweight ChromeOS-based laptop",
-      "url": "https://siliconangle.com/2026/09/21/googlebook-brings-premium-intelligence-to-a-lightweight-chromeos-based-laptop/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-21",
-      "summary": "Google LLC today announced the launch of its Googlebook lineup, a new family of lightweight, higher-power laptops in the Chromebook legacy that feature artificial intelligence and can run Android apps and ChromeOS. Googlebooks bring the company’s flagship Gemini AI assistant to the forefront and pair directly with the Android ecosystem out of the box. This allows [&#8230;] \n The post  Googlebook brings premium intelligence to a lightweight ChromeOS-based laptop  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78ce9a45e75a0a",
-      "title": "On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale goes public",
-      "url": "https://siliconangle.com/2026/09/21/salesforce-dreamforce-nscale-thecubepod/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-21",
-      "summary": "Salesforce Inc. keeps putting all of its eggs in the agent basket — but the strategy appears to be paying off so far. At Dreamforce 2026, Marc Benioff, chief executive officer of Salesforce, bantered with Nvidia Corp.’s chief executive officer, Jensen Huang, and led the announcement of a new artificial intelligence interface layer, AIforce. The [&#8230;] \n The post  On theCUBE Pod: Dreamforce unveils the agentic dream, and Nscale goes public  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ee12d9c8f10977",
-      "title": "Samsung Electronics Breaks Ground on ₩240 Billion HVAC Plant in Gwangju; Mass Production of AI Data Center Cooling Equipment Set for 2028 - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83VW1hMFJIblBkTXRUSVJpTERJdEJqRlo0VVNlS0p3VFlqZHY0b2o1c0d5eGw1ZmZwMGUxQk15MnUyeUFoRjZtay1vXzFsZXdPZjdEMXp1UHR2WTNnWWJsRVZLMFVzdG9nX0JSNmpZWlZKQnJZNnc?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-09-21",
-      "summary": "Samsung Electronics Breaks Ground on ₩240 Billion HVAC Plant in Gwangju; Mass Production of AI Data Center Cooling Equipment Set for 2028 &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ce9e7c7264e99",
-      "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVWxvdHhBQ2NwNWdDdDZzeU1LSVhYZHJyUjJNVnNVcC1SMzdEMG16azhlMS00V0xyTzF5YXdfVDljdEdYbTNFOFBZMDFIcE5BVTRwRVd1RzNCb0NsMmxla3otRlJSYVpqRm0zLWptRWVfamxkaURiTjQxSlBMdzdjNG5oVnpJcFUySktzaDFjOWs4SDFBcHBaSXkyeml2a1I3NkdLbTdiRkhKTmt3MGtRMXVOd19DT2k4Q1U2UVlIZm9tSF9jbk9KRTRLSnNmWVA3bEJoaFZpUFBmT0g4Nnl1NUc2ZkRkWHJZSGl2blBVR043NGxwX1ZNUXRuamcyTHJ6Wk1EVktQNlZBdmV6ck84VldZdFZyQ0dETU9DbS1ZbGdpY2hhWjdIUExiZm5KRmdUeWtrYzZNX3hIMWhtT18zaTNuYVAxaFI5V2YwQngyWDNCd2dSS2c?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-09-21",
-      "summary": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South &nbsp;&nbsp; Microsoft Source",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aa648d68d81d90",
-      "title": "AWS Weekly Roundup: AWS Builder Center mobile apps, Amazon Connect Talent GA, Amazon Corretto 27, and more (September 21, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "Living in the Netherlands, I spend a fair amount of time on trains, and that is usually where I catch up on what the builder community is writing. Until now, that meant opening a laptop or squinting at a browser tab on my phone. This week I found myself scrolling through trending articles and checking […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Netherlands"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f09b29fd79a54e",
-      "title": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTVIYXN1MVNGVlpFaXBWSU5qdml0UEtPZHl1SXJYQ3BiZWpvRjJjR1BBMXQ1UmtFWFFHYkpCdXlJRkU2Q2U4RjBEN3pCb3NtYUJmckt2a3FhclhOeVFZR3pjaW5YMWRaQzdJUmd6ck9ZcDV0YXhsd010OC1xbWlTTmlTS0tWamN6QnVHZFBPMnFwYUhk?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-09-21",
-      "summary": "CoreWeave: Much, Much More Underperformance To Come (NASDAQ:CRWV) &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "58301b65c2e853",
-      "title": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South - news.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOVWxvdHhBQ2NwNWdDdDZzeU1LSVhYZHJyUjJNVnNVcC1SMzdEMG16azhlMS00V0xyTzF5YXdfVDljdEdYbTNFOFBZMDFIcE5BVTRwRVd1RzNCb0NsMmxla3otRlJSYVpqRm0zLWptRWVfamxkaURiTjQxSlBMdzdjNG5oVnpJcFUySktzaDFjOWs4SDFBcHBaSXkyeml2a1I3NkdLbTdiRkhKTmt3MGtRMXVOd19DT2k4Q1U2UVlIZm9tSF9jbk9KRTRLSnNmWVA3bEJoaFZpUFBmT0g4Nnl1NUc2ZkRkWHJZSGl2blBVR043NGxwX1ZNUXRuamcyTHJ6Wk1EVktQNlZBdmV6ck84VldZdFZyQ0dETU9DbS1ZbGdpY2hhWjdIUExiZm5KRmdUeWtrYzZNX3hIMWhtT18zaTNuYVAxaFI5V2YwQngyWDNCd2dSS2c?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-09-21",
-      "summary": "AI ambition into action: Microsoft brings AI-ready capabilities across its India cloud infrastructure, establishes India South Central region as a strategic hub for Asia and Global South &nbsp;&nbsp; news.microsoft.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2abd53d383bb5a",
-      "title": "Announcing Petal, a First-of-its-Kind Transoceanic Subsea Cable",
-      "url": "https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "We’re announcing Petal, the first subsea cable to deliver petabit capacity across oceans, doubling the capacity of today’s most advanced transoceanic cables.  \n The post  Announcing Petal, a First-of-its-Kind Transoceanic Subsea Cable  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "60b041f095ace1",
-      "title": "Expanding free AI training for educators",
-      "url": "https://blog.google/products-and-platforms/products/education/digital-promise/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "Badges in blue, red, orange, green with gradients representing Google AI Educator Series",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cc0cd57a286cee",
-      "title": "Premium materials and striking design set Googlebook apart",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "Googlebook options",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b0920c7ee4bc19",
-      "title": "Googlebook: The laptop your Android phone has been waiting for",
-      "url": "https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-21",
-      "summary": "Video shows the new Googlebook.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
