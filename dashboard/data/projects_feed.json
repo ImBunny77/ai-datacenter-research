@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-14T13:22:20.639147+00:00",
+  "last_updated": "2026-10-14T18:20:52.934242+00:00",
   "finding_count": 600,
-  "new_project_count": 57,
-  "cancellation_count": 19,
-  "sec_filing_count": 2,
-  "high_confidence_count": 154,
+  "new_project_count": 56,
+  "cancellation_count": 18,
+  "sec_filing_count": 1,
+  "high_confidence_count": 151,
   "findings": [
     {
       "id": "606ce4fd7b59b6",
@@ -21,6 +21,46 @@
         "$1 billion"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "047247b09db19c",
+      "title": "Google signs 20-year PPA with AEP for 702MW Wyoming fuel cell project",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-20-year-ppa-with-aep-for-702mw-wyoming-fuel-cell-project/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Fuel cells to be supplied by Bloom Energy",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Wyoming"
+      ],
+      "amounts": [
+        "702MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d6eb258abc38a6",
+      "title": "Iren targets 900MW data center campus in Wagga Wagga, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/iren-targets-900mw-data-center-campus-in-wagga-wagga-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Company aiming for 2029 grid connection",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [
+        "900MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -121,6 +161,43 @@
       "is_high_confidence": true
     },
     {
+      "id": "9e51da9ad4212d",
+      "title": "OpenAI again shakes up data center leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-again-shakes-up-compute-leadership-with-xai-exec-uday-ruddarraju-to-lead-and-sachin-katti-to-leave/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "After switching out the Stargate team earlier this year",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c2859c28e131cc",
+      "title": "IURC approves AES Indiana plan for $1.3bn solar, storage, and transmission project for Google data center in Monrovia",
+      "url": "https://www.datacenterdynamics.com/en/news/iurc-approves-aes-indiana-plan-for-13bn-solar-storage-and-transmission-project-for-google-data-center-in-monrovia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Google is expected to pay for all the costs associated with the project",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Indiana"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "ecb13063df778d",
       "title": "Microsoft acquires 600 acres of land for data center in Woodward, Iowa",
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-600-acres-of-land-for-data-center-in-woodward-iowa/",
@@ -137,23 +214,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0b748752be1785",
-      "title": "Oregon Govenor Tina Kotek asks state environmental regulator to pause permits, introducing de facto data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/oregon-govenor-tina-kotek-asks-state-environmental-regulator-to-pause-permits-introducing-de-facto-data-center-moratorium/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Follows ban on projects involving state land",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Oregon"
-      ],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -192,6 +252,87 @@
       "is_high_confidence": false
     },
     {
+      "id": "0b748752be1785",
+      "title": "Oregon Govenor Tina Kotek asks state environmental regulator to pause permits, introducing de facto data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/oregon-govenor-tina-kotek-asks-state-environmental-regulator-to-pause-permits-introducing-de-facto-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Follows ban on projects involving state land",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Oregon"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d067b073774ee",
+      "title": "DCD Studio: Manufacturing power systems with Michael Beagan, TES Power",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-manufacturing-power-systems-with-michael-beagan-tes-power/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Seb Moss speaks with Michael Beagan of TES Power on switchgear, power distribution, supply chain management, and the growing role of modular, plug-and-play solutions in accelerating data center delivery",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "575557f58e2638",
+      "title": "Application filed for 3.3 million sq ft data center campus in Augusta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-33-million-sq-ft-data-center-campus-in-augusta-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Project targeting 2028/2029 go live date",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a6d0e13b5d41a1",
+      "title": "Microsoft denies cloud leadership called for significant cost cutting measures",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-denies-cloud-leadership-called-for-significant-cost-cutting-measures/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Reports had suggested the company was reducing spending by at least 20 percent",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "40e96813f7b0c8",
+      "title": "New standards. New era.",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/new-standards-new-era/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Ensuring secure data destruction for today’s data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "d1f81546ee0d06",
       "title": "Submer partners with BSNL for data center development in India",
       "url": "https://www.datacenterdynamics.com/en/news/submer-partners-with-bsnl-for-data-center-development-in-india/",
@@ -216,53 +357,6 @@
       "source_cat": "DC Specialist",
       "date": "2026-10-14",
       "summary": "Continues digital infrastructure expansion",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "545fee94d6ac30",
-      "title": "Aether Infrastructure buys old gearbox factory in Strasbourg, France, for AI data center",
-      "url": "https://www.datacenterdynamics.com/en/news/aether-infrastructure-buys-old-gearbox-factory-in-strasbourg-france-for-ai-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Work could start this month",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "France"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c280a7bf14b806",
-      "title": "Sberbank data center in Russia struck by Ukrainian military",
-      "url": "https://www.datacenterdynamics.com/en/news/sberbank-data-center-in-russia-struck-by-ukrainian-military/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Bank confirms attack, doesn't detail scale of damage",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ca1745358a903",
-      "title": "Sponsored: Why power and zero capex go hand-in-hand as the data center’s real strategic asset",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/why-power-and-zero-capex-go-hand-in-hand-as-the-data-centers-real-strategic-asset/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "“AVK Capital is the catalyst for Energy as a Service”",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -326,6 +420,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "596e391cea2e7c",
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-14",
+      "summary": "Google Ads UI mockup",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "1f33de6f1f481d",
       "title": "Check out this year’s buzziest Halloween trends.",
       "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
@@ -336,6 +447,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3703d7772770e8",
+      "title": "Now You Can Invite Anyone to a WhatsApp Call",
+      "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-10-14",
+      "summary": "You can now invite anyone to a WhatsApp call, even if they don’t have a Whatsapp account, so you can connect with people without worrying what apps they have.  \n The post  Now You Can Invite Anyone to a WhatsApp Call  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -359,6 +487,68 @@
       ],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "545fee94d6ac30",
+      "title": "Aether Infrastructure buys old gearbox factory in Strasbourg, France, for AI data center",
+      "url": "https://www.datacenterdynamics.com/en/news/aether-infrastructure-buys-old-gearbox-factory-in-strasbourg-france-for-ai-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Work could start this month",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "France"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c280a7bf14b806",
+      "title": "Sberbank data center in Russia struck by Ukrainian military",
+      "url": "https://www.datacenterdynamics.com/en/news/sberbank-data-center-in-russia-struck-by-ukrainian-military/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Bank confirms attack, doesn't detail scale of damage",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1ca1745358a903",
+      "title": "Sponsored: Why power and zero capex go hand-in-hand as the data center’s real strategic asset",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/why-power-and-zero-capex-go-hand-in-hand-as-the-data-centers-real-strategic-asset/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "“AVK Capital is the catalyst for Energy as a Service”",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c198659355b0ff",
+      "title": "Sponsored: AI infrastructure needs a new approach to sustainability",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-needs-a-new-approach-to-sustainability/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Sustainability is no longer about reducing environmental impact, it should be increasingly about making better use of every resource entering the facility and capturing greater value from what leaves it",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -1260,23 +1450,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ff9bb8e600c2b3",
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-12",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "c3dce9efa8588c",
       "title": "Announcing AWS Lambda Web Functions",
       "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
@@ -1287,23 +1460,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b107d9ee224e1",
-      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-12",
-      "summary": "TBD",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1346,13 +1502,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "dbd9ba61dc828e",
-      "title": "Google Health: Evolving so you can focus on living better",
-      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+      "id": "6b107d9ee224e1",
+      "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-12",
-      "summary": "What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+      "summary": "TBD",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1373,6 +1529,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ff9bb8e600c2b3",
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-12",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dbd9ba61dc828e",
+      "title": "Google Health: Evolving so you can focus on living better",
+      "url": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-12",
+      "summary": "What’s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2523,23 +2713,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "004fd5552976dd",
-      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-08",
-      "summary": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a15483a5a86785",
       "title": "Meta Donates 1,000 AI Glasses to Singapore’s Disability Community",
       "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
@@ -2554,6 +2727,23 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "004fd5552976dd",
+      "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-08",
+      "summary": "A peer-reviewed study in The Lancet evaluates Google's AMIE medical AI in a real-world primary care clinic.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -6719,6 +6909,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "20ac5a131b7db3",
+      "title": "Grayson County Board of Supervisors announce potential development of data center complex - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjk4am5yTEs2anV2TzB5dDZxWURkVGM5MENiS19CNy0yOC12emJjVmU3SU5LUnJQTnl3VFdVSWROeEJpR013emVrbk1tYjdJSnUwYUd4bmQtc0hSWWl4WVFOcThxeGptcGRSTkY5M04yN3AzbWoxak10NkJMNzFWRWVGVXExLTZVT0JrRUsxZjI2V0VDMVd3OFpmVzlSNFRjWUc4SUppYWk5V0hzbG9sYUMtRW5JOGxWOXBqaFJlbXVnRXFzc1JvQzZCeGZ3Zw?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-09-30",
+      "summary": "Grayson County Board of Supervisors announce potential development of data center complex &nbsp;&nbsp; WSLS",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "cb515c12c530f0",
       "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
       "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
@@ -6730,21 +6935,6 @@
       "companies": [
         "Meta"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20ac5a131b7db3",
-      "title": "Grayson County Board of Supervisors announce potential development of data center complex - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjk4am5yTEs2anV2TzB5dDZxWURkVGM5MENiS19CNy0yOC12emJjVmU3SU5LUnJQTnl3VFdVSWROeEJpR013emVrbk1tYjdJSnUwYUd4bmQtc0hSWWl4WVFOcThxeGptcGRSTkY5M04yN3AzbWoxak10NkJMNzFWRWVGVXExLTZVT0JrRUsxZjI2V0VDMVd3OFpmVzlSNFRjWUc4SUppYWk5V0hzbG9sYUMtRW5JOGxWOXBqaFJlbXVnRXFzc1JvQzZCeGZ3Zw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-09-30",
-      "summary": "Grayson County Board of Supervisors announce potential development of data center complex &nbsp;&nbsp; WSLS",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -10154,208 +10344,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fbaa039f4dbb60",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-09-23",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "34858a9f408dc8",
-      "title": "OpenAI and Anthropic seek 20-30MW data center deployments",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-and-anthropic-seek-20-30mw-data-center-deployments/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-23",
-      "summary": "As companies ramp up inference footprint",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "30MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "19b9f3733dda82",
-      "title": "AI drug discovery startup Basecamp Research raises $140M",
-      "url": "https://siliconangle.com/2026/09/23/ai-drug-discovery-startup-basecamp-research-raises-140m/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-23",
-      "summary": "Basecamp Research Ltd. today announced that it has raised $140 million in funding from a group of prominent investors. S32, a fund affiliated with Google LLC co-founder Bill Maris, led the Series C round. It was joined by more than a dozen other investors. The group included NATO, Nvidia Corp. and the Anthology Fund, a [&#8230;] \n The post  AI drug discovery startup Basecamp Research raises $140M  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$140M",
-        "$140 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1afe4f00d0b6d2",
-      "title": "Meta signs 144MW solar PPA with Apex in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-144mw-solar-ppa-with-apex-in-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-23",
-      "summary": "Seventh agreement between the two companies",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "144MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ff1a9cf56ab61d",
-      "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
-      "url": "https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-23",
-      "summary": "Snorkel AI Inc., a provider of artificial intelligence training data, today disclosed that it has raised $350 million in funding. Insight and S32 led the Series E deal. They were joined by more than a half-dozen other backers including Alphabet Inc.’s GV startup fund.  Snorkel AI was founded in 2019 by researchers from the Stanford [&#8230;] \n The post  Training data provider Snorkel AI raises $350M at $3.5B valuation  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$350 million",
-        "$350M",
-        "$3.5B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b5a3523df916d3",
-      "title": "New Features for Meta Ray-Ban Display",
-      "url": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Today, we announced updates to Meta Ray-Ban Display that make the glasses even more useful in your everyday life.  \n The post  New Features for Meta Ray-Ban Display  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a3f72077da0382",
-      "title": "Abbott halts new Texas data center permits pending ERCOT audit",
-      "url": "https://www.datacenterdynamics.com/en/news/abbott-halts-new-texas-data-center-permits-pending-ercot-audit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-23",
-      "summary": "ERCOT claims the audit will be completed by December",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d1ed4f9a899abc",
-      "title": "Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams",
-      "url": "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "We’re introducing Meta VR Glasses: a new era for virtual reality in a pair of glasses you can comfortably wear for hours. \n The post  Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8a2e60a549f9e2",
-      "title": "Introducing Ray-Ban Meta Audio and More AI Glasses Styles",
-      "url": "https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Today at Connect, we introduced Ray-Ban Meta Audio, our first-ever audio glasses, and our biggest expansion of AI glasses. \n The post  Introducing Ray-Ban Meta Audio and More AI Glasses Styles  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3da6b70c537a2a",
-      "title": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force",
-      "url": "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "It starts with a message. A too-good-to-be-true stock tip. A luxury skincare brand offering deep discounts from a page that didn&#8217;t exist last week. A messaging group promising guaranteed returns with zero risk. Behind these &#8220;opportunities&#8221; are organised, well-resourced criminal networks — operating across borders, platforms, and industries. They move fast, adapt constantly, and rely on the fact that no single organisation can see the full picture of their operations. Disrupting",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9ac30e6a91cf07",
-      "title": "Anyone can make stunning HD videos with Gemini Omni in Google Vids",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-23",
-      "summary": "Google Vids logo surrounded by various video editing options",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
