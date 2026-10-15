@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-15T14:42:17.455883+00:00",
+  "last_updated": "2026-10-15T19:43:45.833151+00:00",
   "finding_count": 600,
   "new_project_count": 59,
-  "cancellation_count": 17,
-  "sec_filing_count": 2,
+  "cancellation_count": 19,
+  "sec_filing_count": 3,
   "high_confidence_count": 151,
   "findings": [
     {
@@ -27,6 +27,21 @@
       "is_high_confidence": true
     },
     {
+      "id": "8aed618bb97814",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-10-15",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "be9978e40c035e",
       "title": "CtrlS plans 150MW data center in Bihar, India",
       "url": "https://www.datacenterdynamics.com/en/news/ctrls-plans-150mw-data-center-in-bihar-india/",
@@ -43,6 +58,44 @@
         "150MW"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "399df11b0a3096",
+      "title": "Solaria plans 500 MW data center project powered by 350 MW of solar in Uruguay - pv magazine Global",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmZma3hvWlRhY3Rkclh3TzlVSUdaNzM3dWtaX1BVU1hrc0otcGNZOENyekRPY0d5T280aUFpT2VlcFo5eTZVZmpsVDF2OEpWbGsyaWtoV2JWZDdnclI5cWFfU2tiQmJ0WEVtSlhkTkZWZWFYSTNJRzgtNFM3N3o5VXh0c3RuM3lYamZNNTdrR0RhSEJrUHhEWUZzTVVCby1TUzV2SnJWYlVleVZJVFZVUERDeFNFdFZIcEE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-15",
+      "summary": "Solaria plans 500 MW data center project powered by 350 MW of solar in Uruguay &nbsp;&nbsp; pv magazine Global",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "350 MW",
+        "500 MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d89bf0f494ec04",
+      "title": "DigiCo signs 71MW lease for Sydney data center with unnamed tech firm",
+      "url": "https://www.datacenterdynamics.com/en/news/digico-signs-71mw-lease-for-sydney-data-center-with-unnamed-tech-firm/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Deal includes reallocation of 20MW of existing contracted capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Sydney"
+      ],
+      "amounts": [
+        "20MW",
+        "71MW"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -82,6 +135,57 @@
       "is_high_confidence": true
     },
     {
+      "id": "eaa9e3718a3efc",
+      "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center",
+      "url": "https://www.datacenterdynamics.com/en/news/ntt-deploys-nvidia-gpu-test-cluster-at-munich-2-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Allows customers to test AI applications on Nvidia Blackwell hardware",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1cf425d2fc6bfb",
+      "title": "Pause in US data center construction could lead to recession, BlackRock CEO warns",
+      "url": "https://www.datacenterdynamics.com/en/news/pause-in-us-data-center-construction-could-lead-to-recession-blackrock-ceo-warns/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Slowed buildout could turn massive investment into a massive crash",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "89653d38b2f75f",
+      "title": "Meta named as company behind 3,000 acre data center project in Mason County, Kentucky",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-named-as-company-behind-3000-acre-data-center-project-in-mason-county-kentucky/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Will receive a 40-year tax break on property taxes",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Kentucky"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "69e4ba500a9257",
       "title": "Oracle renews attempts to secure natural gas pipeline approval for Project Jupiter data center - report",
       "url": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
@@ -108,6 +212,76 @@
       "summary": "Uruguay announces data center project worth $5.7 bn &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8ce04cc95f6417",
+      "title": "Digital Realty tops out second data center in Seoul, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/digital-realty-tops-out-second-data-center-in-seoul-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Facility was first announced in 2021",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0d47a5418f622c",
+      "title": "Colt DCS and RMZ start work on third facility at Mumbai campus, India",
+      "url": "https://www.datacenterdynamics.com/en/news/colt-dcs-and-rmz-start-work-on-third-facility-at-mumbai-campus-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Work starts on 64MW facility after securing lease with hyperscaler",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India",
+        "Mumbai"
+      ],
+      "amounts": [
+        "64MW"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "61649eaecca24b",
+      "title": "Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems",
+      "url": "https://siliconangle.com/2026/10/15/nvidia-expands-nemotron-llm-family-with-hyper-efficient-models-for-agentic-systems/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-15",
+      "summary": "Nvidia Corp. today announced the launch of customizable Nemotron 3.5 Super LV large language models for always-on artificial intelligence agents and edge-focused 3.5 Bolt for local systems. The company said the three new models will cover the full range of agent deployments, from large enterprise servers to edge devices and local hardware. Nemotron 3.5 Super [&#8230;] \n The post  Nvidia expands Nemotron LLM family with hyper-efficient models for agentic systems  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9b88187ed260cd",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-15",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -143,6 +317,66 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b3364dabd3b9bd",
+      "title": "Ensuring uptime, insuring downtime",
+      "url": "https://www.datacenterdynamics.com/en/analysis/ensuring-uptime-insuring-downtime/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Can the insurance industry keep up with data center growth?",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "017bf7c7d7e5d9",
+      "title": "DCD Studio: A year of data center development with Matthew Baynes, Schneider Electric",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-a-year-of-data-center-development-with-matthew-baynes-schneider-electric/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Seb Moss speaks with Matthew Baynes of Schneider Electric about adapting to AI-driven GPU growth through modular construction, liquid cooling, future-proof designs, and sustainable grid innovations.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "635fb41986a898",
+      "title": "DCD Studio: Filtering diesel generators for cleaner air with Senna Nijs, Multronic",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-filtering-diesel-generators-for-cleaner-air-with-senna-nijs-multronic/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Seb Moss joins Senna Nijs of Multronic to discuss advanced emissions after-treatment for data center diesel generators, including SCR, DPF and DOC technologies that reduce pollutants and support regulatory compliance",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a9fc622b0332a4",
+      "title": "Scaleway launches two availability zones for Italy cloud region",
+      "url": "https://www.datacenterdynamics.com/en/news/scaleway-launches-two-availability-zones-for-italy-cloud-region/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Brings total to three AZs",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -186,6 +420,150 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f1cf2c33df3dd0",
+      "title": "Amazon debuts two new AI wearable devices that can listen to conversations and help you shop",
+      "url": "https://siliconangle.com/2026/10/15/amazon-debuts-two-new-ai-wearable-devices-that-can-listen-to-conversations-and-help-you-shop/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-15",
+      "summary": "Amazon.com Inc. today debuted two new wearable, artificial intelligence-enabled devices aimed at making everyday life simpler by listening to conversations and helping users remember what matters. Bee is a personal AI device, coming in the form of Frontier, a wristband, and Eclipse, a credit-card-shaped magnetic snap-on for smartphones. It can listen into calls and conversations, [&#8230;] \n The post  Amazon debuts two new AI wearable devices that can listen to conversations and help you shop  a",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "61c9b4c2bd493e",
+      "title": "Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant",
+      "url": "https://siliconangle.com/2026/10/15/proofpoint-gives-msps-a-microsoft-365-risk-dashboard-teams-training-and-an-ai-assistant/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-15",
+      "summary": "Cybersecurity company Proofpoint Inc. today unveiled new Microsoft 365 security features meant to get managed service providers and the businesses they look after ready to adopt artificial intelligence tools safely. The four new features land in the Microsoft 365 security products sold by Proofpoint MSP Platform, the business unit that handles the company&#8217;s work with [&#8230;] \n The post  Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant  appeared fir",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "30c3559d28a6f5",
+      "title": "ScaleFlux puts controller chips at the heart of AI data pipeline efficiency",
+      "url": "https://siliconangle.com/2026/10/14/liquid-cooling-aside-ai-memory-storage-bottleneck-aidatapipelineforum/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-15",
+      "summary": "AI data centers have spent heavily on faster accelerators, denser racks and liquid cooling to keep that hardware running. The data pipeline that feeds those processors has not kept up, and expensive compute ends up waiting on memory and storage. That gap is getting more attention as AI infrastructure bottlenecks become central to data center [&#8230;] \n The post  ScaleFlux puts controller chips at the heart of AI data pipeline efficiency  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "44d1266c7dd432",
+      "title": "Multiple states sue OpenAI, accusing it of harming children and deceiving parents",
+      "url": "https://siliconangle.com/2026/10/14/multiple-states-sue-openai-accusing-it-of-harming-children-and-deceiving-parents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-15",
+      "summary": "Eight U.S. states have filed lawsuits against OpenAI Group PBC, accusing the artificial intelligence startup of marketing an unsafe product in ChatGPT. The lawsuits filed by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana allege that ChatGPT has harmed multiple children and deceived thousands of parents. The states are suing the company individually [&#8230;] \n The post  Multiple states sue OpenAI, accusing it of harming children and deceiving parents  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "locations": [
+        "Iowa",
+        "Kansas",
+        "Nebraska",
+        "West Virginia",
+        "Arkansas",
+        "Arizona",
+        "Idaho",
+        "Montana"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "385236c0f58590",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "Magic State video",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cd3fb21ce22af7",
+      "title": "Check if a text message is a scam using Circle to Search.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "Use Google Circle to Search to analyze suspicious texts for scams. Long-press your home button to get AI insights on messages. See how it works.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "260fa096c8b810",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "baeba75bfd6cc3",
+      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. \n The post  More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -294,23 +672,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "61c9b4c2bd493e",
-      "title": "Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant",
-      "url": "https://siliconangle.com/2026/10/15/proofpoint-gives-msps-a-microsoft-365-risk-dashboard-teams-training-and-an-ai-assistant/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-15",
-      "summary": "Cybersecurity company Proofpoint Inc. today unveiled new Microsoft 365 security features meant to get managed service providers and the businesses they look after ready to adopt artificial intelligence tools safely. The four new features land in the Microsoft 365 security products sold by Proofpoint MSP Platform, the business unit that handles the company&#8217;s work with [&#8230;] \n The post  Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant  appeared fir",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "87e1372e790481",
       "title": "ScaleFlux bets its controller chips can break AI’s memory bottleneck",
       "url": "https://siliconangle.com/2026/10/14/liquid-cooling-aside-ai-memory-storage-bottleneck-aidatapipelineforum/",
@@ -320,67 +681,6 @@
       "summary": "AI data centers have spent heavily on faster accelerators, denser racks and liquid cooling to keep that hardware running. The data pipeline that feeds those processors has not kept up, and expensive compute ends up waiting on memory and storage. That gap is getting more attention as AI infrastructure bottlenecks become central to data center [&#8230;] \n The post  ScaleFlux bets its controller chips can break AI&#8217;s memory bottleneck  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "44d1266c7dd432",
-      "title": "Multiple states sue OpenAI, accusing it of harming children and deceiving parents",
-      "url": "https://siliconangle.com/2026/10/14/multiple-states-sue-openai-accusing-it-of-harming-children-and-deceiving-parents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-15",
-      "summary": "Eight U.S. states have filed lawsuits against OpenAI Group PBC, accusing the artificial intelligence startup of marketing an unsafe product in ChatGPT. The lawsuits filed by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana allege that ChatGPT has harmed multiple children and deceived thousands of parents. The states are suing the company individually [&#8230;] \n The post  Multiple states sue OpenAI, accusing it of harming children and deceiving parents  appeared first ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [
-        "Iowa",
-        "Kansas",
-        "Nebraska",
-        "West Virginia",
-        "Arkansas",
-        "Arizona",
-        "Idaho",
-        "Montana"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "260fa096c8b810",
-      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-15",
-      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "baeba75bfd6cc3",
-      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-10-15",
-      "summary": "New Meta research across nine APAC markets shows how AI is helping small businesses grow, compete with larger rivals and reach customers across borders. \n The post  More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -415,6 +715,25 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
+    },
+    {
+      "id": "bdb81a715b5fbd",
+      "title": "American Electric Power to invest $4 billion in fuel cell project to power Google - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDVWVDNiei1GdWtyUjd1WUIxSlVJVDFLQ2xnazFXVkZBLWRvUmwtTnJ0R0xmRTBscml5UnJVaWJhXzZzakQxbFMwTlE4MDhLUWRBTzVjWjMtcXotbV80aWd4RHJ5WkVhZVpTb2x5MmZpeDhtNG53RzEwcUlPZEdfb0N6VE8xeGpfZC05YUduY1g3c1lvUWF1R2JDQzg0cy12TlZrTGRKWnJfYzNSOXFuMURYVVJyT2ZFcjJ6ejFhaDh3MklF?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-10-14",
+      "summary": "American Electric Power to invest $4 billion in fuel cell project to power Google &nbsp;&nbsp; Reuters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
     },
     {
       "id": "606ce4fd7b59b6",
@@ -582,6 +901,23 @@
       "companies": [
         "Oracle",
         "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2d0d735f8d9919",
+      "title": "Microsoft looks to composable memory to ease AI infrastructure constraints",
+      "url": "https://siliconangle.com/2026/10/14/composable-memory-helps-microsoft-tackle-ai-memory-crunch-aidatapipelineforum/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-14",
+      "summary": "Memory has become the scarcest resource in the AI data center, and hyperscalers are rethinking how they hand it out. Composable memory, which pools capacity beyond individual servers and assigns it to workloads on demand, is emerging as one of the most practical answers to that squeeze. The pressure is visible across AI factories where [&#8230;] \n The post  Microsoft looks to composable memory to ease AI infrastructure constraints  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
       ],
       "locations": [],
       "amounts": [],
@@ -763,25 +1099,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "accd64ada068f0",
-      "title": "Chainguard puts Claude Mythos on flaw hunting, secures coding agents and widens Libraries",
-      "url": "https://siliconangle.com/2026/10/14/chainguard-puts-claude-mythos-on-flaw-hunting-secures-coding-agents-and-widens-libraries/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-14",
-      "summary": "Secure software supply chain solution provider Chainguard Inc. today unveiled a vulnerability-hunting service that uses frontier artificial intelligence models such as Anthropic PBC&#8217;s Claude Mythos 5.1, as well as two products for securing AI coding agents and an expansion of Chainguard Libraries. All four arrived at the company&#8217;s Assemble London conference today. Vulnerability hunting falls to [&#8230;] \n The post  Chainguard puts Claude Mythos on flaw hunting, secures coding agents",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [
-        "London"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "f9f25c7c39b9ea",
       "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
       "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
@@ -933,6 +1250,25 @@
       ],
       "locations": [
         "Mumbai"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "accd64ada068f0",
+      "title": "Chainguard puts Claude Mythos on flaw hunting, secures coding agents and widens Libraries",
+      "url": "https://siliconangle.com/2026/10/14/chainguard-puts-claude-mythos-on-flaw-hunting-secures-coding-agents-and-widens-libraries/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-14",
+      "summary": "Secure software supply chain solution provider Chainguard Inc. today unveiled a vulnerability-hunting service that uses frontier artificial intelligence models such as Anthropic PBC&#8217;s Claude Mythos 5.1, as well as two products for securing AI coding agents and an expansion of Chainguard Libraries. All four arrived at the company&#8217;s Assemble London conference today. Vulnerability hunting falls to [&#8230;] \n The post  Chainguard puts Claude Mythos on flaw hunting, secures coding agents",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [
+        "London"
       ],
       "amounts": [],
       "confidence": 2,
@@ -1119,6 +1455,21 @@
       "source_cat": "Tech Analysis",
       "date": "2026-10-14",
       "summary": "AI factory deployment has long been a race to secure graphics processing units, but the builders of those systems are finding that compute is only half the problem. Data pipelines, storage costs and the clock on getting a cluster running now weigh as heavily as raw horsepower. The companies supplying that infrastructure are rethinking where [&#8230;] \n The post  Supermicro wants AI factories judged by how fast they go live, not by GPU count  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4f7eb13edabbcf",
+      "title": "Vast Data challenges fragmented AI pipelines as data sovereignty demands grow",
+      "url": "https://siliconangle.com/2026/10/14/data-sovereignty-strains-best-breed-ai-pipelines-aidatapipelineforum/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-14",
+      "summary": "Data sovereignty is becoming an architectural problem as enterprises push artificial intelligence inference toward their most sensitive information. Pipelines assembled from separate tools struggle to keep embeddings, permissions and source data aligned, leaving many valuable data sets out of AI&#8217;s reach. The shift from model training to inference is changing what AI infrastructure has to [&#8230;] \n The post  Vast Data challenges fragmented AI pipelines as data sovereignty demands grow  ap",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1415,40 +1766,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6a9a3d206cb8ce",
-      "title": "Gemini 4 Argon is now available for developers.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-13",
-      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8cdd603febed2c",
-      "title": "Gemini 4 Argon comes to the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-13",
-      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "6d757890ca7a20",
       "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
       "url": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
@@ -1495,6 +1812,40 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6a9a3d206cb8ce",
+      "title": "Gemini 4 Argon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-13",
+      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8cdd603febed2c",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-13",
+      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -1785,6 +2136,23 @@
         "$1B"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4afad117dde55d",
+      "title": "Outlook on Project Stargate’s $500 Billion AI Data Center Initiative: On Track or Derailed? - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSnJ0OU90VGRIeFVUODVpQ2lxdUY0UTVZNDJhaktobUdsLWFwdzJyQS1RbVoxajlnU2ZoTXVGaDhDY0pLR2t6UTFSVkRkMklTdGhYNVdoRFlMVGstN2g3RUUxX05UT1pPcGhIeHNEd0ZpcE1ySTV3Rml6aHBraV9nalk2UW1HRDNlYWh6WnRLSVZxWkV6ZERSMUM1LVhJWU5MSDVRSmlZTHRRRDBMc05mT3RTUVJ0dUh2Z0VsNFBhM3lEWUNxdXBWdWFwSlppeWdz?oc=5",
+      "source": "GNews: Oracle OCI Stargate",
+      "source_cat": "Company",
+      "date": "2026-10-12",
+      "summary": "Outlook on Project Stargate’s $500 Billion AI Data Center Initiative: On Track or Derailed? &nbsp;&nbsp; Construction Review",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$500 Billion"
+      ],
+      "confidence": 6,
       "is_high_confidence": true
     },
     {
@@ -4109,13 +4477,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "53794ad564aa1b",
-      "title": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHNuclJJeVVFY0FlY01JZTlQSTVFMVhyZndUcC1Vd3dvSUNNaHRWSWFWVjdnN0dGYU5GZEFhYk9sRWNKT3NuOTQ0WU5XSHdCQUhaa3Jkanc2YTMydGE0ZkVYakE3RGswdmZPbWNEdmxrUGZyeU1VdzRoU1VlNUdHWjNkWDR5SVh2Vk1mbWxhUmhYSUVrRjJpamZ6RWtfVzVwLU5WYVFpUzhHdVp6Yy1SbmdIX0k4eGtGZXJNbENn?oc=5",
+      "id": "f79804cc2c6191",
+      "title": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWNsb0hERmhKZVRuY3R6bHhQUm05MkpzZElISWNnS2dDOE14MFFOMEdTZk5ERWxfb1RuQzVxWVl3SFZhYk55VWc3cHN1MXREZE5qNWZxd0NHN0FwTWFyTm1kbjJheWhHNE1OYXJQN0tfSGEyYjhTR3FGWXl3WjhCU0M0R2g2bkM1V1ZMTVpCMVBEMXNUN0E?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-10-06",
-      "summary": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring &nbsp;&nbsp; 24/7 Wall St.",
+      "summary": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring &nbsp;&nbsp; Yahoo Finance",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -4128,13 +4496,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "f79804cc2c6191",
-      "title": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWNsb0hERmhKZVRuY3R6bHhQUm05MkpzZElISWNnS2dDOE14MFFOMEdTZk5ERWxfb1RuQzVxWVl3SFZhYk55VWc3cHN1MXREZE5qNWZxd0NHN0FwTWFyTm1kbjJheWhHNE1OYXJQN0tfSGEyYjhTR3FGWXl3WjhCU0M0R2g2bkM1V1ZMTVpCMVBEMXNUN0E?oc=5",
+      "id": "53794ad564aa1b",
+      "title": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORHNuclJJeVVFY0FlY01JZTlQSTVFMVhyZndUcC1Vd3dvSUNNaHRWSWFWVjdnN0dGYU5GZEFhYk9sRWNKT3NuOTQ0WU5XSHdCQUhaa3Jkanc2YTMydGE0ZkVYakE3RGswdmZPbWNEdmxrUGZyeU1VdzRoU1VlNUdHWjNkWDR5SVh2Vk1mbWxhUmhYSUVrRjJpamZ6RWtfVzVwLU5WYVFpUzhHdVp6Yy1SbmdIX0k4eGtGZXJNbENn?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-10-06",
-      "summary": "Amazon at $250: $1 billion “Built Together” Data Center Push Is Already Backfiring &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Amazon at $250: $1 billion \"Built Together\" Data Center Push Is Already Backfiring &nbsp;&nbsp; 24/7 Wall St.",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -9975,376 +10343,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "327e4d3ee2565a",
-      "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ad0c6a8f733ad",
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "Ads appearing all over the Internet are trying to scam people.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c231b4e3463cdb",
-      "title": "Microsoft overhauls Copilot with new coding, document editing features",
-      "url": "https://siliconangle.com/2026/09/25/microsoft-overhauls-copilot-with-new-coding-document-editing-features/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-25",
-      "summary": "Microsoft Corp. today launched a new version of Copilot, the artificial intelligence assistant included in its Microsoft 365 productivity suite. The biggest addition to the tool is an interface section called Code. It enables nontechnical workers to create simple apps using prompts. For example, a business analyst could create a dashboard that tracks store sales. [&#8230;] \n The post  Microsoft overhauls Copilot with new coding, document editing features  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f11170d907492b",
-      "title": "CoreWeave expands full-stack AI cloud push as inference demand grows",
-      "url": "https://siliconangle.com/2026/09/25/coreweave-full-stack-agentic-ai-fullyconnected/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-25",
-      "summary": "The rise of AI-native cloud provider CoreWeave Inc. is part of the greater story emerging around operationalizing AI. As enterprises shift from training to inference, neoclouds such as CoreWeave are providing cloud infrastructure tailor-made for AI. The company made waves by completing the industry’s first bring-up and validation of Nvidia Vera Rubin NVL72 on CoreWeave [&#8230;] \n The post  CoreWeave expands full-stack AI cloud push as inference demand grows  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c8f8db28dae8e3",
-      "title": "More agents go rogue — but AI companies aren’t slowing down yet",
-      "url": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-25",
-      "summary": "It&#8217;s becoming more apparent every day that artificial intelligence agents are escaping our control &#8212; but it&#8217;s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hacked into a government agency among other organizations. [&#8230;] \n The post  More agents go rogue &#8212; but AI companies aren&#8217;t slowing down yet  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c4796a3d45afe4",
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "aeaa4263115c96",
-      "title": "AI cloud and data center firm Nscale raises $3.36bn ahead of its IPO",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-cloud-and-data-center-firm-nscale-raises-336bn-ahead-of-its-ipo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Follows publication of IPO prospectus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d71c9bd708b3b9",
-      "title": "Sponsored: How to scale data centers cheaper, faster, and at a higher quality",
-      "url": "https://www.datacenterdynamics.com/en/opinions/how-to-scale-data-centers-cheaper-faster-and-at-a-higher-quality/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Data centers are the last heavy industry still built by hand. It's time to move them into the factory",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "428d337515997e",
-      "title": "Northern Virginia's Prince William County puts controls on new data center projects",
-      "url": "https://www.datacenterdynamics.com/en/news/northern-virginias-prince-william-county-puts-controls-on-new-data-center-projects/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Size of 'by right' overlay district for digital infrastructure projects cut by two thirds",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "be168911bd6e0a",
-      "title": "Vertiv to acquire data center fluid management firm King Environmental Services",
-      "url": "https://www.datacenterdynamics.com/en/news/vertiv-to-acquire-data-center-fluid-management-firm-king-environmental-services/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Transaction to close before the end of the year",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4007aade630198",
-      "title": "Applied Digital reveals $3.2bn Delta Forge 2 AI data center will be built in Alabama",
-      "url": "https://www.datacenterdynamics.com/en/news/applied-digital-reveals-32bn-delta-forge-2-ai-data-center-will-be-built-in-alabama/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Operations could start by 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "11b79f5eecac74",
-      "title": "Solid oxide fuel cells enabling growth in a power-constrained world",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/solid-oxide-fuel-cells-enabling-growth-in-a-power-constrained-world/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "How solid oxide fuel cells are offering a scalable route to reliable, on-site power as grid constraints reshape data center growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "23eb462cbe61cf",
-      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c53d4ded95a479",
-      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "17f5640204a059",
-      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
-      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-25",
-      "summary": "Better thermals and battery life make this iterative update nicer to use.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a130966c35e23c",
-      "title": "Vocus to build 4,000km fiber link between Brisbane and Darwin",
-      "url": "https://www.datacenterdynamics.com/en/news/vocus-to-build-4000km-fiber-link-between-brisbane-and-darwin/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "The route aims to support growing demand from hyperscaler, neocloud, and enterprise customers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3fd9fc7042c0ac",
-      "title": "DensityAI: Chip startup founded by former Tesla Dojo execs valued at $10bn – report",
-      "url": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-founded-by-former-tesla-dojo-execs-valued-at-10bn-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-25",
-      "summary": "Company has raised “hundreds of millions” for development of chip with 3D DRAM stacking, report claims",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c0b1075eb3b0d7",
-      "title": "Oracle Declares Force Majeure on $165 Billion Project Jupiter Data Center - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUnNEMmhoYnlUMGxHMnFYZzk4Y3N6MzBIbzcxMTRxbVdOZTRud0g3MGN1R3pqVEMwZ1lVdVloNTRRUmlFbkowbDF4MkIwVlZIVm03LUsyUVo4QkpvNEVHOEJmYmtLdDg3MEFleVpvd2czYjhPdjYtVjJDaTN2ZXFtOFN4cmVOanNxdkpPRUxLN01xckVZWC1ia0tvMWRXNV9RU1FsaE9YWHRweHZ5aVEtaERnMGZfVXc?oc=5",
-      "source": "GNews: Oracle OCI Stargate",
-      "source_cat": "Company",
-      "date": "2026-09-24",
-      "summary": "Oracle Declares Force Majeure on $165 Billion Project Jupiter Data Center &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [
-        "$165 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "878a87f99d7bb0",
-      "title": "$3.2 Billion AI Data Center Campus Announced in Brookwood - WBMA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2pmTV9CMTdaZGZMb3VEUWdZaE8wMml6Vm1HMnFvUTZXVmV5eEo4RjNYcmZCcExDVS1HSGN6UGZ4aVRKYy11VENrcW4yRHhwRXhqTWpNV2s4Yi1jRThuR1htZWo3cVlFX0d5RG9VSkZubG1WcGVGUUZIMmJESldVQ1ctUmJURTlRcXZEYW81NVhjYjdxZzR4MHN5ak43WGs5d2t4UVZYUkRQVklwQUdoc0ZTQkdQblZ3Nm5VclAzc2VkTmdDUmJrdnZTQXhkLWx5YWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-24",
-      "summary": "$3.2 Billion AI Data Center Campus Announced in Brookwood &nbsp;&nbsp; WBMA",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$3.2 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8990c85166844d",
-      "title": "Microsoft to Invest $10 Billion in Middle East AI Infrastructure Amid War Risks - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiTTNrWElnVGx2c2tCTGhaMGktRktNaXBLczctd0h1Z1RfNksyeG5ZNHpIZ3g1NW9KRTNSSHppU3BqbzFkdjZyZE9XV0JjVkEyVnRxN3VBenR1aWg2VXFvWGdjQkM1bF9VUENJNFN0dU5lXzNvMXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-24",
-      "summary": "Microsoft to Invest $10 Billion in Middle East AI Infrastructure Amid War Risks &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$10 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e5f7be45411993",
-      "title": "Oracle issues force majeure notice to Blue Owl following series of setbacks at Project Jupiter data center campus – report",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-24",
-      "summary": "The 2.5GW site in New Mexico is set to come online in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [
-        "New Mexico"
-      ],
-      "amounts": [
-        "2.5GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7b24f188bf72d0",
-      "title": "Akamai shares jump more than 20% on $11.6B Anthropic computing deal",
-      "url": "https://siliconangle.com/2026/09/24/akamai-shares-jump-more-than-20-on-11-6b-anthropic-computing-deal/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Shares of Akamai Technologies Inc. jumped more than 20% in after-hours trading today after the cloud and cybersecurity company revealed an $11.6 billion, seven-year deal to supply computing capacity to artificial intelligence developer Anthropic PBC. The agreement is built around central processing unit workloads, where Akamai said Anthropic&#8217;s demand is accelerating. Akamai Cloud will provide [&#8230;] \n The post  Akamai shares jump more than 20% on $11.6B Anthropic computing deal  appeare",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$11.6 billion",
-        "$11.6B"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
     }
   ]
 }
