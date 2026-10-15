@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-15T08:55:51.621326+00:00",
+  "last_updated": "2026-10-15T14:42:17.455883+00:00",
   "finding_count": 600,
-  "new_project_count": 58,
-  "cancellation_count": 18,
-  "sec_filing_count": 1,
-  "high_confidence_count": 154,
+  "new_project_count": 59,
+  "cancellation_count": 17,
+  "sec_filing_count": 2,
+  "high_confidence_count": 151,
   "findings": [
     {
       "id": "25e01c64ece921",
@@ -20,10 +20,46 @@
       ],
       "locations": [],
       "amounts": [
-        "$16.8B",
-        "$16.8 billion"
+        "$16.8 billion",
+        "$16.8B"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "be9978e40c035e",
+      "title": "CtrlS plans 150MW data center in Bihar, India",
+      "url": "https://www.datacenterdynamics.com/en/news/ctrls-plans-150mw-data-center-in-bihar-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Commits to spending $1bn on the project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "150MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "bccb034dfa1b1b",
+      "title": "Meta under investigation regarding alleged tax filings claiming data center projects qualify for research credits",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-under-investigation-regarding-alleged-tax-filings-claiming-data-center-projects-qualify-for-research-credits/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "United States Senate Committee on Finance writes to CEO Mark Zuckerberg",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -46,6 +82,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "69e4ba500a9257",
+      "title": "Oracle renews attempts to secure natural gas pipeline approval for Project Jupiter data center - report",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Seeks approval from FERC to expedite approval of the 17.8-mile pipeline",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "32e7a4a1dfc66a",
       "title": "Uruguay announces data center project worth $5.7 bn - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03b3FHb1JiNE45bjZuX2lGZWlONFdrdGtGVG01ejJYZzdiRUJCT1ZpWTQySDFHLTJkb056QXRpZFBfUFNlTlFjaDZvdEZYYjV0MmxaR2JpZw?oc=5",
@@ -58,6 +111,118 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d00f09482a8039",
+      "title": "Virginia senator proposes three-year state-wide data center moratorium",
+      "url": "https://www.datacenterdynamics.com/en/news/virginia-senator-proposes-three-year-state-wide-data-center-moratorium/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Pause would enable more legislation to be drawn up",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2e54cb40791c0b",
+      "title": "Siemens makes strategic investment in energy infrastructure firm Skeleton Technologies to bolster AI data center offering",
+      "url": "https://www.datacenterdynamics.com/en/news/siemens-makes-strategic-investment-in-energy-infrastructure-firm-skeleton-technologies-to-bolster-ai-data-center-offering/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Also signs an exclusive partnership agreement",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4b8d45a834ef19",
+      "title": "Greece drafts legislation requiring data centers source 60% of power from renewables",
+      "url": "https://www.datacenterdynamics.com/en/news/greece-drafts-legislation-requiring-data-centers-source-60-of-power-from-renewables/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Also proposes the creation of a data center registry",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2e88414c72c193",
+      "title": "The Energy & Sustainability Supplement",
+      "url": "https://www.datacenterdynamics.com/en/magazines/the-energy-sustainability-supplement-2026/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "A sustainable future for data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "156d7f57172fef",
+      "title": "Nvidia joins The Earthshot Prize as new founding member",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-joins-the-earthshot-prize-as-new-founding-member/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Will provide finalists with resources and compute to scale technology",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c61470abff72c0",
+      "title": "Russia could deploy AI data centers in Belarus and Kazakhstan as local capacity struggles",
+      "url": "https://www.datacenterdynamics.com/en/news/russia-could-deploy-ai-data-centers-in-belarus-and-kazakhstan-as-local-capacity-struggles/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Multiple locations are being considered",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cd72c272dc7bc9",
+      "title": "Meta supply chain and capacity manager Surafell Kebede joins Anthropic",
+      "url": "https://www.datacenterdynamics.com/en/news/meta-supply-chain-and-capacity-manager-surafell-kebede-joins-anthropic/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Reuniting with former colleague Sham Parmar",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -129,15 +294,17 @@
       "is_high_confidence": false
     },
     {
-      "id": "2a2e69c7982c08",
-      "title": "Photonics quantum firm Orca Computing deploys PT-3 system at Digital Realty’s LHR19 data center",
-      "url": "https://www.datacenterdynamics.com/en/news/photonics-quantum-firm-orca-computing-deploys-pt-3-system-at-digital-realtys-lhr19-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "61c9b4c2bd493e",
+      "title": "Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant",
+      "url": "https://siliconangle.com/2026/10/15/proofpoint-gives-msps-a-microsoft-365-risk-dashboard-teams-training-and-an-ai-assistant/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-10-15",
-      "summary": "Quantum computer was installed and operational within 24 hours, and is already powering two projects",
+      "summary": "Cybersecurity company Proofpoint Inc. today unveiled new Microsoft 365 security features meant to get managed service providers and the businesses they look after ready to adopt artificial intelligence tools safely. The four new features land in the Microsoft 365 security products sold by Proofpoint MSP Platform, the business unit that handles the company&#8217;s work with [&#8230;] \n The post  Proofpoint gives MSPs a Microsoft 365 risk dashboard, Teams training and an AI assistant  appeared fir",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Microsoft"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -186,6 +353,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "260fa096c8b810",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "baeba75bfd6cc3",
       "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
       "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
@@ -200,6 +384,36 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2a2e69c7982c08",
+      "title": "Photonics quantum firm Orca Computing deploys PT-3 system at Digital Realty’s LHR19 data center",
+      "url": "https://www.datacenterdynamics.com/en/news/photonics-quantum-firm-orca-computing-deploys-pt-3-system-at-digital-realtys-lhr19-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "Quantum computer was installed and operational within 24 hours, and is already powering two projects",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2dae5175366f63",
+      "title": "Celestica debuts liquid-cooled CPO switch for AI fabrics",
+      "url": "https://www.datacenterdynamics.com/en/news/celestica-debuts-liquid-cooled-cpo-switch-for-ai-fabrics/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-15",
+      "summary": "DS6005 targets AI network efficiency through Broadcom switch silicon",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -357,24 +571,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "9e51da9ad4212d",
-      "title": "OpenAI again shakes up data center leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave",
-      "url": "https://www.datacenterdynamics.com/en/news/openai-again-shakes-up-compute-leadership-with-xai-exec-uday-ruddarraju-to-lead-and-sachin-katti-to-leave/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "After switching out the Stargate team earlier this year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "xAI",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "b4d50dcc7d6f63",
       "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns",
       "url": "https://siliconangle.com/2026/10/14/shares-of-oracle-neoclouds-drop-on-coreweave-debt-concerns/",
@@ -403,6 +599,24 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9e51da9ad4212d",
+      "title": "OpenAI again shakes up data center leadership, with xAI exec Uday Ruddarraju to lead and Sachin Katti to leave",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-again-shakes-up-compute-leadership-with-xai-exec-uday-ruddarraju-to-lead-and-sachin-katti-to-leave/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "After switching out the Stargate team earlier this year",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI",
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -497,85 +711,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b1f6ddc2f373ad",
-      "title": "DCD Studio: Powering data centers at scale with Hans Obermillacher, Panduit",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-data-centers-at-scale-with-hans-obermillacher-panduit/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Seb Moss speaks with Hans Obermillacher of Panduit about AI demand surges, edge computing growth in retail, geo-shifting deployments to Nordic countries, and evolving data center infrastructure needs",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3d067b073774ee",
-      "title": "DCD Studio: Manufacturing power systems with Michael Beagan, TES Power",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-manufacturing-power-systems-with-michael-beagan-tes-power/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Seb Moss speaks with Michael Beagan of TES Power on switchgear, power distribution, supply chain management, and the growing role of modular, plug-and-play solutions in accelerating data center delivery",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "575557f58e2638",
-      "title": "Application filed for 3.3 million sq ft data center campus in Augusta, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-33-million-sq-ft-data-center-campus-in-augusta-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Project targeting 2028/2029 go live date",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a6d0e13b5d41a1",
-      "title": "Microsoft denies cloud leadership called for significant cost cutting measures",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-denies-cloud-leadership-called-for-significant-cost-cutting-measures/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Reports had suggested the company was reducing spending by at least 20 percent",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "40e96813f7b0c8",
-      "title": "New standards. New era.",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/new-standards-new-era/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Ensuring secure data destruction for today’s data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -751,6 +886,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "39081eba4068a3",
+      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-10-14",
+      "summary": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art &#8211; Discovering Masterpieces Beyond What Meets the Eye.” This pilot aims to explore how AI glasses can make art more accessible for people who are blind or with low vision &#8211; in collaboration with the some of Italy’s leading sight loss charities &#8211; the Associazione Nazionale Subvedenti (ANS), the Unione Italiana dei Ciechi e degli Ipovedenti (UICI), and the Fondazione Istituto dei Ciechi di Milan",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "3703d7772770e8",
       "title": "Now You Can Invite Anyone to a WhatsApp Call",
       "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
@@ -782,6 +934,85 @@
       "locations": [
         "Mumbai"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b1f6ddc2f373ad",
+      "title": "DCD Studio: Powering data centers at scale with Hans Obermillacher, Panduit",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-data-centers-at-scale-with-hans-obermillacher-panduit/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Seb Moss speaks with Hans Obermillacher of Panduit about AI demand surges, edge computing growth in retail, geo-shifting deployments to Nordic countries, and evolving data center infrastructure needs",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3d067b073774ee",
+      "title": "DCD Studio: Manufacturing power systems with Michael Beagan, TES Power",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-manufacturing-power-systems-with-michael-beagan-tes-power/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Seb Moss speaks with Michael Beagan of TES Power on switchgear, power distribution, supply chain management, and the growing role of modular, plug-and-play solutions in accelerating data center delivery",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "575557f58e2638",
+      "title": "Application filed for 3.3 million sq ft data center campus in Augusta, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/application-filed-for-33-million-sq-ft-data-center-campus-in-augusta-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Project targeting 2028/2029 go live date",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a6d0e13b5d41a1",
+      "title": "Microsoft denies cloud leadership called for significant cost cutting measures",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-denies-cloud-leadership-called-for-significant-cost-cutting-measures/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Reports had suggested the company was reducing spending by at least 20 percent",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "40e96813f7b0c8",
+      "title": "New standards. New era.",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/new-standards-new-era/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Ensuring secure data destruction for today’s data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -881,21 +1112,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c198659355b0ff",
-      "title": "Sponsored: AI infrastructure needs a new approach to sustainability",
-      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-needs-a-new-approach-to-sustainability/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-14",
-      "summary": "Sustainability is no longer about reducing environmental impact, it should be increasingly about making better use of every resource entering the facility and capturing greater value from what leaves it",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
       "id": "0e3dfa544efc7b",
       "title": "Supermicro wants AI factories judged by how fast they go live, not by GPU count",
       "url": "https://siliconangle.com/2026/10/14/ai-factory-deployment-supermicro-puts-speed-ahead-gpu-count-aidatapipelineforum/",
@@ -933,6 +1149,21 @@
       "source_cat": "Tech Analysis",
       "date": "2026-10-14",
       "summary": "AI infrastructure networking is approaching a physical turning point as the copper links that tie GPUs together inside a rack strain under ever-faster signaling speeds. The move to light-based interconnects could redraw the boundaries of what counts as a single AI system. Cisco Systems Inc. is pressing that transition on several fronts, from new silicon [&#8230;] \n The post  Copper&#8217;s days are numbered inside AI racks as Cisco bets on optics  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c198659355b0ff",
+      "title": "Sponsored: AI infrastructure needs a new approach to sustainability",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ai-infrastructure-needs-a-new-approach-to-sustainability/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-14",
+      "summary": "Sustainability is no longer about reducing environmental impact, it should be increasingly about making better use of every resource entering the facility and capturing greater value from what leaves it",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1184,13 +1415,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "8cdd603febed2c",
-      "title": "Gemini 4 Argon comes to the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "id": "6a9a3d206cb8ce",
+      "title": "Gemini 4 Argon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-13",
-      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
+      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1201,13 +1432,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "6a9a3d206cb8ce",
-      "title": "Gemini 4 Argon is now available for developers.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "id": "8cdd603febed2c",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-10-13",
-      "summary": "Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi…",
+      "summary": "Gemini 4 Argon brings frontier reasoning and agentic coding to the Google Gemini app. Google AI Pro and Ultra subscribers can now access Gemini 4 Argon.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1826,6 +2057,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "55d3400ee69b21",
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-10-12",
+      "summary": "Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks. \n The post  Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "ccb5f1a844db1b",
       "title": "How we’re making Google Health and Fitbit Air smarter than ever",
       "url": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
@@ -1871,23 +2119,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "55d3400ee69b21",
-      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
-      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-10-12",
-      "summary": "Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professional agentic tasks. \n The post  Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -10114,257 +10345,6 @@
       ],
       "confidence": 6,
       "is_high_confidence": true
-    },
-    {
-      "id": "60d2a38166ea35",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-24",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New Jersey"
-      ],
-      "amounts": [
-        "$1.1M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4b8555b1cdb14e",
-      "title": "Oracle issues ‘force majeure’ notice to New Mexico data center developer on energy delays",
-      "url": "https://siliconangle.com/2026/09/24/oracle-issues-force-majeure-notice-to-developer-of-new-mexico-data-center-over-energy-delays/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Oracle Corp. has sent a notice of force majeure to the developer of Project Jupiter, a data center campus that’s currently under construction in New Mexico, according to a report by Bloomberg. Force majeure is a kind of clause that’s often inserted into contracts in the energy and commodities industries that excuses one of the [&#8230;] \n The post  Oracle issues &#8216;force majeure&#8217; notice to New Mexico data center developer on energy delays  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [
-        "New Mexico"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fc550a319e54c6",
-      "title": "Amazon to spend $100M on Indiana plant, its fourth site for building robots",
-      "url": "https://siliconangle.com/2026/09/24/amazon-to-spend-100m-on-indiana-plant-its-fourth-site-for-building-robots/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Amazon.com Inc. is spending more than $100 million on a factory in Greenwood, Indiana, to build equipment for its warehouse robots, according to plans the company released today. The Wall Street Journal reported that Greenwood will be the fourth plant Amazon uses to make robots. Until August there were only two, both in Massachusetts. The [&#8230;] \n The post  Amazon to spend $100M on Indiana plant, its fourth site for building robots  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Indiana",
-        "Massachusetts"
-      ],
-      "amounts": [
-        "$100M",
-        "$100 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1ff7943da6d638",
-      "title": "Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters",
-      "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "A startup called PicoJool that’s backed by former Intel Corp. Chief Executive Pat Gelsinger says it’s ready to help ease the strain on artificial intelligence data centers after raising $27.5 million in early-stage funding today. The Series A round was led by Socratic Partners and saw participation from Hudson River Trading. It brings the company’s [&#8230;] \n The post  Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$27.5 million",
-        "$27.5M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4101437d97f0e5",
-      "title": "Oracle issues ‘force majeure’ notice to developer of New Mexico data center over energy delays",
-      "url": "https://siliconangle.com/2026/09/24/oracle-issues-force-majeure-notice-to-developer-of-new-mexico-data-center-over-energy-delays/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Oracle Corp. has sent a notice of force majeure to the developer of Project Jupiter, a data center campus that’s currently under construction in New Mexico, according to a report by Bloomberg. Force majeure is a kind of clause that’s often inserted into contracts in the energy and commodities industries that excuses one of the [&#8230;] \n The post  Oracle issues &#8216;force majeure&#8217; notice to developer of New Mexico data center over energy delays  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [
-        "New Mexico"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5c8c6d2b61b934",
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-24",
-      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e98395b6022e58",
-      "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
-      "url": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-24",
-      "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8bb5129c819a29",
-      "title": "The Biggest News From Connect 2026",
-      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-24",
-      "summary": "Yesterday at Connect, we announced that we're bringing Muse to our AI glasses, launched Meta VR Glasses, and more.  \n The post  The Biggest News From Connect 2026  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "74c3f8d1b69a8c",
-      "title": "Meta tries to resurrect the metaverse with its new VR Glasses",
-      "url": "https://siliconangle.com/2026/09/23/meta-tries-to-resurrect-the-metaverse-with-its-new-vr-glasses/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Meta Platforms Inc. founder and Chief Executive Mark Zuckerberg has reignited his metaverse ambitions with the arrival today of the Meta VR Glasses, a much smaller, lighter and slimmer virtual reality device than the company’s existing Quest-branded VR headsets. The Meta VR Glasses were announced at Meta’s annual Connect conference for developers, and not only [&#8230;] \n The post  Meta tries to resurrect the metaverse with its new VR Glasses  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c4adc1902b6f97",
-      "title": "Amazon’s new plugin lets sellers manage their entire e-commerce business with AI",
-      "url": "https://siliconangle.com/2026/09/23/amazons-new-plugin-lets-sellers-manage-their-entire-ecommerce-business-with-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-24",
-      "summary": "Amazon.com Inc. said today it’s trying to make life easier for independent sellers using its ecommerce platform with new tools including a plugin that allows them to run their businesses via artificial intelligence assistants. The new tools, announced at Amazon’s annual seller conference Accelerate, also include automations that can help sellers to monitor their business [&#8230;] \n The post  Amazon&#8217;s new plugin lets sellers manage their entire e-commerce business with AI  appeared first o",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0dee8aa8b190f9",
-      "title": "Microsoft to invest $10bn into Gulf states by 2030",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-10bn-into-gulf-states-by-2030/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-24",
-      "summary": "Earmarked for investments across the United Arab Emirates, Saudi Arabia, Qatar, and Kuwait",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6d09a755f30d18",
-      "title": "How data centers shift landscape of rural communities - WCAX",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWY0dWtwZUlkOVBXWHFrM0pPVWdyUHg1Qk1WMjNVTEp1MXo4X2ZrM2tWQ2dvcHZYVUJLY212a24tUG9BOEdnUHdUOWhhaVVTa1VIQ3FuWDA3dDlicFZBek1Sd0RYM0VxcDRZemM0amhzRlQ2R25DZGpSMFdaVHZkb3RrckdzVmlQOUpj?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-09-24",
-      "summary": "How data centers shift landscape of rural communities &nbsp;&nbsp; WCAX",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d5c089eb18736f",
-      "title": "5 ways to upgrade your study habits with Chrome",
-      "url": "https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-24",
-      "summary": "The video shows a whiteboard that says \"Keeping Tabs on Google Chrome.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e4e8c270938565",
-      "title": "5 Google Photos updates to make the most of summer memories.",
-      "url": "https://blog.google/products-and-platforms/products/photos/google-photos-updates/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-24",
-      "summary": "Five updates in Google Photos that will help you make the most of your summer memories.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
