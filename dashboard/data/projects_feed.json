@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-18T17:06:26.937293+00:00",
+  "last_updated": "2026-10-18T20:12:40.553259+00:00",
   "finding_count": 600,
-  "new_project_count": 54,
+  "new_project_count": 53,
   "cancellation_count": 22,
-  "sec_filing_count": 3,
-  "high_confidence_count": 152,
+  "sec_filing_count": 2,
+  "high_confidence_count": 151,
   "findings": [
     {
       "id": "92a6bad04837c5",
@@ -19,6 +19,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8bbe023d6b31d1",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-18",
+      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -152,8 +169,8 @@
         "Oregon"
       ],
       "amounts": [
-        "$65M",
-        "$65 million"
+        "$65 million",
+        "$65M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -6028,6 +6045,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "0318d632314bef",
+      "title": "Amazon warns $68 billion in blocked data centers threatens US AI lead - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlFzRERHblMyVmk3emFRS2UybkVndHJ6Q0tJRGNnM3ZrUUFuQ0hBUkhHeEZsbkxKcnd3S09YMlNVRG5vcmx6UjJ3SXh5U0hWMDhqdTFrSkp5dEFObWhDMTRVVV9aUGh1QkRTU3FkSU5VYzBsZWd6NkJhM1UwUk54WUR2YU41a1NQVjNubVR2bVEtcVZNOWhpTmVRMA?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-05",
+      "summary": "Amazon warns $68 billion in blocked data centers threatens US AI lead &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$68 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "735f05f3c335fa",
       "title": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like … clockwork",
       "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
@@ -7084,6 +7120,25 @@
       "source_cat": "Company",
       "date": "2026-10-02",
       "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7d88e2ee43c02d",
+      "title": "Amazon investing $1B in data center communities - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkxVa0NZcnUtZlFIbGd5cFBZSFZDS0tLUzhxRXJUaGZDcHpaRTN1X05vN2hYZmh3YTNCTUtwaDdRUGEzQllOS2h3QkdDdmhiYnVjT1I5VlZiYXhDdjJpTEQ5NEQ5ZVl3YkpZMDY0U0pEb2R5ZDNpQnJMVXFwdjc3MVFxU1A0TG43V2lQdW11WFA1cTNKa1hr?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon investing $1B in data center communities &nbsp;&nbsp; Yahoo Finance",
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
@@ -10294,60 +10349,6 @@
         "90MW"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8ee5b16b17e9fc",
-      "title": "SEC 8-K: Unknown filer",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
-      "source": "SEC EDGAR (official filing)",
-      "source_cat": "SEC Filing",
-      "date": "2026-09-28",
-      "summary": "Official 8-K filing by Unknown filer. Period: .",
-      "finding_type": "SEC Filing",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "759df62cf77f43",
-      "title": "Anthropic Has Not Announced a $518 Billion 2027 Infrastructure Budget - tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZGZLaFE0eEZteEZzc214LVI3SlU2TUh4TmpVeFU5eFdjRlFjWUw1aERaWFZ5b0JSZC14UGhNZ1Nld2RiQThKcW5wNlBwY2FMTnpYS1p6dWFYZ3c?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-28",
-      "summary": "Anthropic Has Not Announced a $518 Billion 2027 Infrastructure Budget &nbsp;&nbsp; tokenpost.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$518 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "47039a9ec32737",
-      "title": "Nvidia boosts share buyback program by record $150B",
-      "url": "https://siliconangle.com/2026/09/28/nvidia-boosts-share-buyback-program-by-record-150b/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-28",
-      "summary": "Nvidia Corp. today announced plans to spend an additional $150 billion on share buybacks through January 2028. The move represents the largest-ever expansion of a stock repurchase program. Furthermore, Nvidia plans to boost its current dividend of 25 cent per share. The company didn’t specify the size or timing of the planned increase. Nvidia says that [&#8230;] \n The post  Nvidia boosts share buyback program by record $150B  appeared first on  SiliconANGLE .",
-      "finding_type": "Expansion",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$150 billion",
-        "$150B"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
