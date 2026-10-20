@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-20T14:44:53.541787+00:00",
+  "last_updated": "2026-10-20T19:51:46.655613+00:00",
   "finding_count": 600,
-  "new_project_count": 56,
+  "new_project_count": 55,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 169,
+  "high_confidence_count": 172,
   "findings": [
     {
       "id": "ed0b9172f92033",
@@ -113,6 +113,59 @@
       "locations": [],
       "amounts": [
         "$4.1B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "3a4ddfb40a2dcd",
+      "title": "Amazon pledges €16bn investment in Germany in 2027",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-pledges-16bn-investment-in-germany-in-2027/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Includes expanding data centers and AI infrastructure, high-speed satellite Internet, and logistics expansion",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "11f1d4439cfed7",
+      "title": "OVHcloud has 110MW of data center capacity up for grabs",
+      "url": "https://www.datacenterdynamics.com/en/news/ovhcloud-has-110mw-of-data-center-capacity-up-for-grabs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Company reveals in its annual earnings call that it has capacity available to grow its customer base",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "110MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "def902ff14e3b3",
+      "title": "Chief Telecom breaks ground on 16MW data center in Taiwan",
+      "url": "https://www.datacenterdynamics.com/en/news/chief-telecom-breaks-ground-on-16mw-data-center-in-taiwan/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Facility due live in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "16MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -247,6 +300,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c288237e366061",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-20",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "6bcceaae67cb66",
       "title": "Google experiences \"service disruption\" in UK cloud region",
       "url": "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
@@ -281,6 +351,117 @@
       "is_high_confidence": false
     },
     {
+      "id": "32cf5e19fa87cb",
+      "title": "Amazon Web Services in Germany: The Key Facts - About Amazon Europe",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CbmpwV1RVTGRLekdsTV9HTWJCS05UVTRrNTVWakhYcFhWSlhSelNCeVAyT0k3Njl5TG1HVVM2RWpCSnB4RkhIVTZNNDBKRHRMT29UUVZPaGV4dktnMS1R?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-20",
+      "summary": "Amazon Web Services in Germany: The Key Facts &nbsp;&nbsp; About Amazon Europe",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f591b4790647f3",
+      "title": "San Francisco shopping mall targeted for potential data center",
+      "url": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Bidders competing for former Bloomingdale's site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6338d5167ee1be",
+      "title": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "It's sink or swim time for promising technology",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "53d2ed2fbef69a",
+      "title": "xMems solid-state cooling chips for data centers and Edge devices go into production",
+      "url": "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Good vibrations can help chill hardware",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "67c27190d14eca",
+      "title": "Blackstone closes latest energy transition fund at $8.7bn, backs several data center focused energy firms",
+      "url": "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Closed 50 percent higher than the previous fund",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3b23a71cd17ef4",
+      "title": "Sponsored: The importance of power quality in data centers: 4 critical areas to keep in mind",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "\"In an always-on digital economy, power quality is not optional, it is foundational\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0a878ec3c3da9f",
+      "title": "Developer looks to convert hotel basement into data center in Lancashire, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "66-year-old hotel getting a facelift",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "f80d053035e074",
       "title": "DCD Studio: The data center workforce challenge with Andy Davis, Data eXec",
       "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-data-center-workforce-challenge-with-andy-davis-data-exec/",
@@ -290,6 +471,74 @@
       "summary": "Seb Moss speaks with Andy Davis of Data eXec on talent acquisition, retention, diversity, and building an inclusive, sustainable culture amid rapid data center industry growth",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3ffc350a831954",
+      "title": "Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chips",
+      "url": "https://siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-20",
+      "summary": "Amazon.com Inc. today introduced TorchNeuron, an open-source toolkit that enables developers to run PyTorch workloads on its AWS Trainium chips. PyTorch is the industry’s most popular artificial intelligence development framework. Until now, running AI projects powered by the tool on Trainium-based Amazon Web Services instances involved a significant amount of manual work. That increased development [&#8230;] \n The post  Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chi",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "32a5c125f6c588",
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "source": "Microsoft IR Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-20",
+      "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential... \n The post  Advancing digital sovereignty with greater control and choice  appeared first on  The ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a66a4ca5e52e41",
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+      "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-10-20",
+      "summary": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c47aa0a2b211b2",
+      "title": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-20",
+      "summary": "Two Googlers in a virtual interview with text to the left of them that says 'Ask a scientist about patient care research'",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -392,57 +641,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "3ffc350a831954",
-      "title": "Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chips",
-      "url": "https://siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-20",
-      "summary": "Amazon.com Inc. today introduced TorchNeuron, an open-source toolkit that enables developers to run PyTorch workloads on its AWS Trainium chips. PyTorch is the industry’s most popular artificial intelligence development framework. Until now, running AI projects powered by the tool on Trainium-based Amazon Web Services instances involved a significant amount of manual work. That increased development [&#8230;] \n The post  Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c288237e366061",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-20",
-      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "32a5c125f6c588",
-      "title": "Advancing digital sovereignty with greater control and choice",
-      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
-      "source": "Microsoft IR Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-20",
-      "summary": "Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential... \n The post  Advancing digital sovereignty with greater control and choice  appeared first on  The ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4067eddda423cc",
       "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
       "url": "https://siliconangle.com/2026/10/19/nvidia-dell-back-200m-round-for-ai-model-developer-doubleai/",
@@ -518,6 +716,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "9ce6540ad62256",
+      "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year",
+      "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-10-19",
+      "summary": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "50GW",
+        "60GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "1c0a3dff7a55a3",
       "title": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
       "url": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/",
@@ -554,24 +770,6 @@
         "UK"
       ],
       "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9ce6540ad62256",
-      "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year",
-      "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-10-19",
-      "summary": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "60GW",
-        "50GW"
-      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -829,21 +1027,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "070f0fae6a9109",
-      "title": "Data Center Deal Lurks Behind Trump's Russian Diesel Plan - CleanTechnica",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGszTVB0MXFiUTktdDJqSU80X2NHVWpia09aMG95RGNKSnE1ZTlMYkRyOXc1YmZDdXV5MnhLa0MyYmtaWWVOSG9LdExRRkE0ckVoNVc5XzdjU1FiVFBjLWN5WXhLR05UbkhhVHJncFV0RUhWQmlldVo1UkR4YmRhTDF4Q1RSeEZTUlZhOHhZNkN0M1U?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-19",
-      "summary": "Data Center Deal Lurks Behind Trump's Russian Diesel Plan &nbsp;&nbsp; CleanTechnica",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d946fc237a9cc0",
       "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZnVnJtTG9xWFdXSExvcXVNQU9fS3lNQTY5RlNTMWtyR3V5MXVob3RpSXFVN3ZsMTExNnhYUUNUNHlNclhNWENaeHcwbVFEclVGX3JBWjBLU3drck4tUGcwZHRFV25lWXhidWdyNmlLQ1JRdzNtV242clJyOGZpbU9FNjdWNTE1Sl8yLThkRFM1ZWxxbEp3MFQ5SW50cFk?oc=5",
@@ -856,38 +1039,6 @@
         "Amazon"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ede739011ac299",
-      "title": "Coatings for faster, safer and more reliable data centers",
-      "url": "https://www.datacenterdynamics.com/en/whitepapers/coatings-for-faster-safer-and-more-reliable-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-19",
-      "summary": "Optimizing data center speed, safety, and infrastructure performance",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7efa0577db3e3e",
-      "title": "Canada puts out Advanced Procurement Notice for data center in Ontario",
-      "url": "https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-19",
-      "summary": "Estimated to cost between CA$1.5bn and $1.85bn",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1027,6 +1178,53 @@
       ],
       "locations": [
         "Brazil"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "070f0fae6a9109",
+      "title": "Data Center Deal Lurks Behind Trump's Russian Diesel Plan - CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGszTVB0MXFiUTktdDJqSU80X2NHVWpia09aMG95RGNKSnE1ZTlMYkRyOXc1YmZDdXV5MnhLa0MyYmtaWWVOSG9LdExRRkE0ckVoNVc5XzdjU1FiVFBjLWN5WXhLR05UbkhhVHJncFV0RUhWQmlldVo1UkR4YmRhTDF4Q1RSeEZTUlZhOHhZNkN0M1U?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-19",
+      "summary": "Data Center Deal Lurks Behind Trump's Russian Diesel Plan &nbsp;&nbsp; CleanTechnica",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ede739011ac299",
+      "title": "Coatings for faster, safer and more reliable data centers",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/coatings-for-faster-safer-and-more-reliable-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-19",
+      "summary": "Optimizing data center speed, safety, and infrastructure performance",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7efa0577db3e3e",
+      "title": "Canada puts out Advanced Procurement Notice for data center in Ontario",
+      "url": "https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-19",
+      "summary": "Estimated to cost between CA$1.5bn and $1.85bn",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Canada"
       ],
       "amounts": [],
       "confidence": 2,
@@ -1494,9 +1692,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "3e80e1711f2235",
+      "id": "40c1d63ddd3cb2",
       "title": "CoreWeave Stock Is Crashing. This Could Be Great News for SpaceX Investors. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmpmSDB5d3NvZm92R0xpUUxDUHZwckthVEs3UHllc3lSZGxRS2tjRXNLdGFMSHIwVnJ6R1FMdGJ5Ymhtdm9fSzlmal8tdjZjVGEwcGowdnZtUWltblRBVGVNaTZXZjRyNkthNkphaFlLeHIzNVVuc2IyZEJmOXRHS2pfeXVsT2hyWndWYTZTNmd0U3VXLUFld0VJTXdMU0NSY1hYMkJqTEVRcE5zRFp1R1pSbW5UU0pCdkRWdWpXTk9GUXFEUC1qRWdOMGdPRTQ3UUVVRy03RjBEQ2pmSlk1YXpaN3pKMHlvU1pBUkhIQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPamJPdGd4Z01Zcjh5YmJqX0pWY3Ewc1lsdjZLMWgySE1VM1FNNVZTelhSZzNESmFFWTNqQklmTVRhWF9rS0lKX0RRa1hOWnFNaUFmSEtCS3JQTVd5U3MxRTJ3RlRGT3FCSTVYTy1RSjYtbU5TWmFTU2t4ck0xV0gyZXNRTWVxTmJMbjZjZWRhZVozdHVaSHdlVnFHME53bmptUG5uMi1SdDBzSUZoS2Y5Z3Q2OG5jV0NBenM1NDJRaGZHcl9OUXJWSUtXQl9SdDBweWNvTy1qSmpRNHBLQ2Zfd1FQZngyUjZrSjBNX3JYWUVYUQ?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-10-16",
@@ -1511,9 +1709,9 @@
       "is_high_confidence": false
     },
     {
-      "id": "40c1d63ddd3cb2",
+      "id": "3e80e1711f2235",
       "title": "CoreWeave Stock Is Crashing. This Could Be Great News for SpaceX Investors. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPamJPdGd4Z01Zcjh5YmJqX0pWY3Ewc1lsdjZLMWgySE1VM1FNNVZTelhSZzNESmFFWTNqQklmTVRhWF9rS0lKX0RRa1hOWnFNaUFmSEtCS3JQTVd5U3MxRTJ3RlRGT3FCSTVYTy1RSjYtbU5TWmFTU2t4ck0xV0gyZXNRTWVxTmJMbjZjZWRhZVozdHVaSHdlVnFHME53bmptUG5uMi1SdDBzSUZoS2Y5Z3Q2OG5jV0NBenM1NDJRaGZHcl9OUXJWSUtXQl9SdDBweWNvTy1qSmpRNHBLQ2Zfd1FQZngyUjZrSjBNX3JYWUVYUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmpmSDB5d3NvZm92R0xpUUxDUHZwckthVEs3UHllc3lSZGxRS2tjRXNLdGFMSHIwVnJ6R1FMdGJ5Ymhtdm9fSzlmal8tdjZjVGEwcGowdnZtUWltblRBVGVNaTZXZjRyNkthNkphaFlLeHIzNVVuc2IyZEJmOXRHS2pfeXVsT2hyWndWYTZTNmd0U3VXLUFld0VJTXdMU0NSY1hYMkJqTEVRcE5zRFp1R1pSbW5UU0pCdkRWdWpXTk9GUXFEUC1qRWdOMGdPRTQ3UUVVRy03RjBEQ2pmSlk1YXpaN3pKMHlvU1pBUkhIQQ?oc=5",
       "source": "GNews: CoreWeave xAI GPU",
       "source_cat": "Company",
       "date": "2026-10-16",
@@ -3046,40 +3244,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "596e391cea2e7c",
-      "title": "Guide your campaign spending with new priority and allocation features",
-      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-14",
-      "summary": "Google Ads UI mockup",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1f33de6f1f481d",
-      "title": "Check out this year’s buzziest Halloween trends.",
-      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-14",
-      "summary": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "39081eba4068a3",
       "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
       "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
@@ -3128,6 +3292,40 @@
       "locations": [
         "Mumbai"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "596e391cea2e7c",
+      "title": "Guide your campaign spending with new priority and allocation features",
+      "url": "https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-14",
+      "summary": "Google Ads UI mockup",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1f33de6f1f481d",
+      "title": "Check out this year’s buzziest Halloween trends.",
+      "url": "https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-14",
+      "summary": "Ready or not, spooky season is here. To help you prepare, we’re launching Google Frightgeist, our annual interactive website highlighting the top trending searches for H…",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10171,213 +10369,6 @@
       ],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c7e7bcb28bbe8f",
-      "title": "Australia's CDC plans gigawatt-scale data center campus in Wagga Wagga",
-      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "Company files for four-building campus well outside usual NSW hubs of Sydney and Canberra",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Australia",
-        "Sydney"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fbbe2a1c5c6e18",
-      "title": "Grayson County Board of Supervisors announce potential development of data center complex - wsls.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjk4am5yTEs2anV2TzB5dDZxWURkVGM5MENiS19CNy0yOC12emJjVmU3SU5LUnJQTnl3VFdVSWROeEJpR013emVrbk1tYjdJSnUwYUd4bmQtc0hSWWl4WVFOcThxeGptcGRSTkY5M04yN3AzbWoxak10NkJMNzFWRWVGVXExLTZVT0JrRUsxZjI2V0VDMVd3OFpmVzlSNFRjWUc4SUppYWk5V0hzbG9sYUMtRW5JOGxWOXBqaFJlbXVnRXFzc1JvQzZCeGZ3Zw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-09-30",
-      "summary": "Grayson County Board of Supervisors announce potential development of data center complex &nbsp;&nbsp; wsls.com",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "791b8ed05f8c4c",
-      "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-30",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Amazon",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d86f7665f50e09",
-      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Amazon S3 Tables now support all data types in the Apache Iceberg V3 spec, along with column default values, deletion vectors, and row lineage. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "36bb7ed7b4cfee",
-      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1d5ac7a69d21da",
-      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
-      "url": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d10c22726d973c",
-      "title": "Celebrating Our Newest AWS Heroes – September 2026",
-      "url": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3a053c71048227",
-      "title": "Celebrating International Translation Day: Meet 3 linguistic experts behind Google Translate",
-      "url": "https://blog.google/products-and-platforms/products/translate/international-translation-day-2026/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "The illustration shows people around the world using Google Translate.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3738ddbee4b2d8",
-      "title": "We’re introducing SynthID Bio, bringing our watermarking technology to synthetic biology.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Google DeepMind introduces SynthID Bio to watermark AI-designed proteins while maintaining biological function. Read the full research report here.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7e4f9c01b413d8",
-      "title": "Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first",
-      "url": "https://siliconangle.com/2026/09/30/googles-new-frontier-ai-model-gemini-4-argon-goes-to-cybersecurity-defenders-first/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-30",
-      "summary": "Google LLC today began rolling out Gemini 4 Argon, a frontier artificial intelligence model that beats rival models from Anthropic PBC and OpenAI Group PBC on most of Google&#8217;s benchmarks, to vetted cybersecurity defenders. Outside Google&#8217;s own teams, only members of its Fairwind Program can use Argon for now. The program opened Sept. 3 with [&#8230;] \n The post  Google&#8217;s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first  appeared first on  SiliconANGLE ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ded422a6850b8b",
-      "title": "Trusted data resiliency anchors Oracle’s ransomware defense strategy",
-      "url": "https://siliconangle.com/2026/09/30/data-resiliency-oracle-cyberattacks-thecube-oraclaicybersecurity/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-30",
-      "summary": "For enterprises, data resiliency ultimately comes down to an ability for useful work to continue. The definition sounds simple, yet making sure that data in critical systems is fully protected and accessible as rapidly as possible is a complicated task. This is the work behind Oracle Corp.’s resilient data architecture, which is driven by a [&#8230;] \n The post  Trusted data resiliency anchors Oracle’s ransomware defense strategy  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8d4997d092c9e5",
-      "title": "CoreWeave expands its AI stack as inference surges: theCUBE’s Fully Connected keynote analysis",
-      "url": "https://siliconangle.com/2026/09/30/token-economics-reshape-ai-infrastructure-fullyconnected/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-09-30",
-      "summary": "Token economics are becoming a defining measure of artificial intelligence infrastructure efficiency. As AI workloads move beyond training, the economics of producing useful intelligence are starting to shape infrastructure decisions. CoreWeave is building around that shift, expanding beyond GPU compute into networking, storage and software while inference demand grows faster than training. That transition is [&#8230;] \n The post  CoreWeave expands its AI stack as inference surges: theCUBE&#8217",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
