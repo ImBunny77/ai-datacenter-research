@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-10-19T23:22:52.102431+00:00",
+  "last_updated": "2026-10-20T03:48:47.988483+00:00",
   "finding_count": 600,
-  "new_project_count": 55,
+  "new_project_count": 56,
   "cancellation_count": 22,
   "sec_filing_count": 2,
   "high_confidence_count": 167,
   "findings": [
+    {
+      "id": "3ffc350a831954",
+      "title": "Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chips",
+      "url": "https://siliconangle.com/2026/10/19/amazon-introduces-toolkit-for-running-pytorch-workloads-on-aws-trainium-chips/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-20",
+      "summary": "Amazon.com Inc. today introduced TorchNeuron, an open-source toolkit that enables developers to run PyTorch workloads on its AWS Trainium chips. PyTorch is the industry’s most popular artificial intelligence development framework. Until now, running AI projects powered by the tool on Trainium-based Amazon Web Services instances involved a significant amount of manual work. That increased development [&#8230;] \n The post  Amazon introduces toolkit for running PyTorch workloads on AWS Trainium chi",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
     {
       "id": "4067eddda423cc",
       "title": "Nvidia, Dell back $200M round for AI model developer doubleAI",
@@ -20,9 +37,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$200M",
+        "$1 billion",
         "$200 million",
-        "$1 billion"
+        "$200M"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -244,8 +261,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "60GW",
-        "50GW"
+        "50GW",
+        "60GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -356,6 +373,40 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f7b0e8c1534820",
+      "title": "Entergy, Google announce second phase partnership - Talk Business & Politics",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM3R2TE5rdDd2T3ZCQldzTzJTSWw2bUp1ZndWRzNTVUNabUh4V3BUQnZNVzFjdko0X2xUZDc3OTQ4NFd0c2ZFVG1SUEV4UTlVTnRWSEozRklkM25jOG9wb09mTjI4RS12ZlR4bEtnNG5FWkZKZTNmeUdEakFVZjI3MTNrZ2IxakFteVE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-19",
+      "summary": "Entergy, Google announce second phase partnership &nbsp;&nbsp; Talk Business & Politics",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d946fc237a9cc0",
+      "title": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEZnVnJtTG9xWFdXSExvcXVNQU9fS3lNQTY5RlNTMWtyR3V5MXVob3RpSXFVN3ZsMTExNnhYUUNUNHlNclhNWENaeHcwbVFEclVGX3JBWjBLU3drck4tUGcwZHRFV25lWXhidWdyNmlLQ1JRdzNtV242clJyOGZpbU9FNjdWNTE1Sl8yLThkRFM1ZWxxbEp3MFQ5SW50cFk?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-19",
+      "summary": "AWS's CFO joked about the financial toll of AI. An internal recording reveals why. &nbsp;&nbsp; Business Insider",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -1094,23 +1145,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d9c81928e87316",
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-16",
-      "summary": "The bug is fixed, but privacy concerns remain.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "86bdee4a332818",
       "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
@@ -1121,6 +1155,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d9c81928e87316",
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-16",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -7670,29 +7721,10 @@
       "id": "f00f064fe7e7d2",
       "title": "Amazon to invest $1 billion over five years in US data center communities - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQenJEMWNZMUk5S2w0dUZiNzdpeTVhdXhCNWpjeWFWR1ZQUDJkTTlBczF5SWw2dk9TQ05kMVF3b3V2czEzYnJOa0JhX0V3WHRMbE8xVlUzR0lJa3RjS3JrWjlHY2o5cktzdWJQa05GZkdlZ3dTZVpsRHlBRDh6ZUczcmhza1JZUXVncDhNaHVtUnc3aEVOWnF6QmItMVJJREQ4MWpfOERMcW1WVkZsZW5GZEJTYWhyQmhSNUx6bDNaa3lUNlhHdWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1 billion over five years in US data center communities &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "909d8694f95c23",
-      "title": "Amazon will invest $1 billion in locations across the US where it will build data centers. - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVUtU1czcDlJQ2hPUmYzVk5KNE5NRkV2RUhPZmFQS05ZSHV5S3h4Q3ZPS2NqQ3ZsQmNucUVGUVhmbDZ3anZnbnFCQXFWSVlZODhsTkVkZ1BoTkRkV2IxdF93VHZndW9pbTVDOHUxVVhRRnFMV3dQOWdfSmdCc1ZMX0dOWGIzY0tJQ3cwcVlwSkFvdjZHUERuQjgtR0Z5RDFl?oc=5",
       "source": "GNews: Amazon AWS data center",
       "source_cat": "Company",
       "date": "2026-10-02",
-      "summary": "Amazon will invest $1 billion in locations across the US where it will build data centers. &nbsp;&nbsp; Vietnam.vn",
+      "summary": "Amazon to invest $1 billion over five years in US data center communities &nbsp;&nbsp; Reuters",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -7712,6 +7744,25 @@
       "source_cat": "Company",
       "date": "2026-10-02",
       "summary": "Amazon vows to invest $1 billion in areas where it builds data centers &nbsp;&nbsp; Yahoo",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "909d8694f95c23",
+      "title": "Amazon will invest $1 billion in locations across the US where it will build data centers. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOVUtU1czcDlJQ2hPUmYzVk5KNE5NRkV2RUhPZmFQS05ZSHV5S3h4Q3ZPS2NqQ3ZsQmNucUVGUVhmbDZ3anZnbnFCQXFWSVlZODhsTkVkZ1BoTkRkV2IxdF93VHZndW9pbTVDOHUxVVhRRnFMV3dQOWdfSmdCc1ZMX0dOWGIzY0tJQ3cwcVlwSkFvdjZHUERuQjgtR0Z5RDFl?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon will invest $1 billion in locations across the US where it will build data centers. &nbsp;&nbsp; Vietnam.vn",
       "finding_type": "New Project",
       "companies": [
         "Amazon"
@@ -10328,61 +10379,6 @@
         "Paris"
       ],
       "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "375316a31da42a",
-      "title": "Google receives planning permission to expand data center in Dublin, Ireland",
-      "url": "https://www.datacenterdynamics.com/en/news/google-receives-planning-permission-to-expand-data-center-in-dublin-ireland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-29",
-      "summary": "An Coimisiún Pleanála greenlights plans",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Ireland"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cfd576974bbb5f",
-      "title": "Meta signs on to use AI capacity at Firmus' Southeast Asia data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/meta-signs-on-to-use-ai-capacity-at-firmus-southeast-asia-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-29",
-      "summary": "Builds on existing agreements in Australia",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Australia"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "099d1995dd60cf",
-      "title": "Samsung Invests $1B in KKR's AI Infrastructure Firm Helix - The Tech Buzz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkd3aV9Jd3I5XzZfX1huYWhHT0twOVFac1BYMjRYNlktUzZ6TmxKVWhxRndYOFhEbkRmR1FjTGhrY1g2clBFdTA1dTZWUTVuQ0xkb0FTSTdLQThUcXBvV3B1bXNOckp3alVwcTlZN1NpM0c5Y0V3QlY5c20zRzh4NU42TXlHa1lHaDZWaG0yVTcwZWc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-09-29",
-      "summary": "Samsung Invests $1B in KKR's AI Infrastructure Firm Helix &nbsp;&nbsp; The Tech Buzz",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
       "confidence": 4,
       "is_high_confidence": false
     }
