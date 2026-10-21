@@ -1,11 +1,69 @@
 {
-  "last_updated": "2026-10-21T09:10:05.010851+00:00",
+  "last_updated": "2026-10-21T14:54:05.562947+00:00",
   "finding_count": 600,
   "new_project_count": 57,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 172,
+  "high_confidence_count": 173,
   "findings": [
+    {
+      "id": "06da8d0ee06437",
+      "title": "Türkiye announces $4.1 billion investment in Ankara data center campus - AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSF95SWFYWmMtWEc5REZpQlpyMGRLNk1qZU92LWRsQ2hGVmFCd2ZadFdRN0h3Y1JJcjhHVG96YU91c1VELW85X2EtYllGVTdTcUM2SQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-21",
+      "summary": "Türkiye announces $4.1 billion investment in Ankara data center campus &nbsp;&nbsp; AzerNews",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4.1 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ea9c363da7d1d6",
+      "title": "AWS Bets $18B On Germany AI Data Center Boom Amid Public Backlash - CRN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3pSTXpZZ3BtQ3MzcmdDNmIweTI0M2hSc0pObEtNUzVIajR4X21qcmF2VzhoUldmcW9KMEN5ek5BbExicjlFZmtYM3kyRW5WbmZqRWZHdGhERHZGNTNDUlY5SDZPYVQ5ZE5hVk1GQUh5WUJjalJ6bzRtUGhKcFJrMFR2MlExbDhsdnBrRE94VUN5Wk5sX202M2tHUmpyQQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-21",
+      "summary": "AWS Bets $18B On Germany AI Data Center Boom Amid Public Backlash &nbsp;&nbsp; CRN",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [
+        "$18B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cd664ded26e870",
+      "title": "Crusoe plans Spark Liquid modular data center to support latest Nvidia GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "3.5MW deployments expected to serve Crusoe Cloud in 20-50MW clusters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "50MW",
+        "3.5MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "99e83245ebd1b7",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -26,6 +84,79 @@
       "is_high_confidence": true
     },
     {
+      "id": "12729910da64d9",
+      "title": "Amazon withdraws application for data center campus at GWU site in Ashburn, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/amazon-withdraws-application-for-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Cloud giant backs off proposals after pushback from Loudoun County officials",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Virginia",
+        "Ashburn",
+        "Loudoun"
+      ],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7948f96777769f",
+      "title": "NorthC breaks ground on data center in Geneva, Switzerland",
+      "url": "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-geneva-switzerland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "First phase of 4.5MW facility due live in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "4.5MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "dae94a9bda76b4",
+      "title": "Duos secures cloud provider as customer for 20MW of data center capacity",
+      "url": "https://www.datacenterdynamics.com/en/news/duos-secures-cloud-provider-as-customer-for-20mw-of-data-center-capacity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Contract worth $700 million, capacity due live next year",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$700 million",
+        "20MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ddb7ff07b44162",
+      "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Details released at GTC Berlin event, taking place this week",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "df8e0a3dbbd0ac",
       "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
       "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
@@ -37,12 +168,106 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$3 billion",
         "$3B",
-        "$325M",
         "$325 million",
-        "$3 billion"
+        "$325M"
       ],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eda8dab80d4b71",
+      "title": "Water harvesting firm Aquaria launches pilot for modular onsite water supply system for data center sector",
+      "url": "https://www.datacenterdynamics.com/en/news/water-harvesting-firm-aquaria-launches-pilot-for-modular-onsite-water-supply-system-for-data-center-sector/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "First units to be shipped in Q3 2027",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "656501ba1b4c2e",
+      "title": "atNorth tops out latest data center in Espoo, Finland",
+      "url": "https://www.datacenterdynamics.com/en/news/atnorth-tops-out-latest-data-center-in-espoo-finland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Company adding five-story building to campus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Finland"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5e3958217b0c2c",
+      "title": "Equinix EPIC: Colo giant launches liquid-cooled testing environment for AI workloads",
+      "url": "https://www.datacenterdynamics.com/en/news/equinix-epic-ai-data-center-colocation/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Available at four data centers, more to be added",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "462585b44e4f57",
+      "title": "President Trump: Data center firms should offer local residents dividends to get communities on-side",
+      "url": "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "President says to 'make deals and get data centers built'",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8afe05980b8aa5",
+      "title": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
+      "url": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Japanese giant inks MoU with Italian energy firm",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "28a5295fa46530",
+      "title": "Nvidia GTC Berlin keynote disrupted by Greenpeace activists",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-gtc-berlin-keynote-disrupted-by-greenpeace-activists/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "‘Nvidia, clean up your dirty business,’ - protesters heckle Jensen Huang",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -89,6 +314,23 @@
       "companies": [
         "Google",
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "33f491ac57ff66",
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-21",
+      "summary": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -476,113 +718,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f591b4790647f3",
-      "title": "San Francisco shopping mall targeted for potential data center",
-      "url": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "Bidders competing for former Bloomingdale's site",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6338d5167ee1be",
-      "title": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
-      "url": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "It's sink or swim time for promising technology",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "53d2ed2fbef69a",
-      "title": "xMems solid-state cooling chips for data centers and Edge devices go into production",
-      "url": "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "Good vibrations can help chill hardware",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "67c27190d14eca",
-      "title": "Blackstone closes latest energy transition fund at $8.7bn, backs several data center focused energy firms",
-      "url": "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "Closed 50 percent higher than the previous fund",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3b23a71cd17ef4",
-      "title": "Sponsored: The importance of power quality in data centers: 4 critical areas to keep in mind",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "\"In an always-on digital economy, power quality is not optional, it is foundational\"",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a878ec3c3da9f",
-      "title": "Developer looks to convert hotel basement into data center in Lancashire, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "66-year-old hotel getting a facelift",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f80d053035e074",
-      "title": "DCD Studio: The data center workforce challenge with Andy Davis, Data eXec",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-data-center-workforce-challenge-with-andy-davis-data-exec/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-20",
-      "summary": "Seb Moss speaks with Andy Davis of Data eXec on talent acquisition, retention, diversity, and building an inclusive, sustainable culture amid rapid data center industry growth",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "d659afda730d90",
       "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
       "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
@@ -697,6 +832,113 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f591b4790647f3",
+      "title": "San Francisco shopping mall targeted for potential data center",
+      "url": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Bidders competing for former Bloomingdale's site",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6338d5167ee1be",
+      "title": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "It's sink or swim time for promising technology",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "53d2ed2fbef69a",
+      "title": "xMems solid-state cooling chips for data centers and Edge devices go into production",
+      "url": "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Good vibrations can help chill hardware",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "67c27190d14eca",
+      "title": "Blackstone closes latest energy transition fund at $8.7bn, backs several data center focused energy firms",
+      "url": "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Closed 50 percent higher than the previous fund",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3b23a71cd17ef4",
+      "title": "Sponsored: The importance of power quality in data centers: 4 critical areas to keep in mind",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "\"In an always-on digital economy, power quality is not optional, it is foundational\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0a878ec3c3da9f",
+      "title": "Developer looks to convert hotel basement into data center in Lancashire, UK",
+      "url": "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "66-year-old hotel getting a facelift",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f80d053035e074",
+      "title": "DCD Studio: The data center workforce challenge with Andy Davis, Data eXec",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-the-data-center-workforce-challenge-with-andy-davis-data-exec/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-20",
+      "summary": "Seb Moss speaks with Andy Davis of Data eXec on talent acquisition, retention, diversity, and building an inclusive, sustainable culture amid rapid data center industry growth",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -8969,6 +9211,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "cbef8184b42f7a",
+      "title": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2Q4M0R2OTNxMWVWLTlxZFpoTXdzM1FrQ0otdlB4OGQ2Ny1pRnBSQ3FaVFQ3bFlvakdGTUVPOXlTOWUxTkVBRnJ5X0N0Q1h2YUdvbGo1MGVraUVodEpYWnVucm1nWmJndl9mOXdicnV4bXZqYmM4RUNmU1dkaGZYa2RDT1lUVk9vbkZCUE93LUhHdFZhZ3BrQm90MUttSENWQnhFRjE5RXZka2J4dUloNkNqMWdmRFZKaEw4bld0OXFKNWM?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead &nbsp;&nbsp; GeekWire",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "85e40409c0e385",
       "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
       "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
@@ -9002,25 +9263,6 @@
       "locations": [],
       "amounts": [
         "$1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cbef8184b42f7a",
-      "title": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2Q4M0R2OTNxMWVWLTlxZFpoTXdzM1FrQ0otdlB4OGQ2Ny1pRnBSQ3FaVFQ3bFlvakdGTUVPOXlTOWUxTkVBRnJ5X0N0Q1h2YUdvbGo1MGVraUVodEpYWnVucm1nWmJndl9mOXdicnV4bXZqYmM4RUNmU1dkaGZYa2RDT1lUVk9vbkZCUE93LUhHdFZhZ3BrQm90MUttSENWQnhFRjE5RXZka2J4dUloNkNqMWdmRFZKaEw4bld0OXFKNWM?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead &nbsp;&nbsp; GeekWire",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -10129,240 +10371,6 @@
       ],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7b7ddadcda5015",
-      "title": "Data center in Kyiv, Ukraine, suffers \"critical damage\" and goes offline after Russian bomb attack",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-in-kyiv-ukraine-suffers-critical-damage-and-goes-offline-after-russian-bomb-attack/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Moscow continues to target digital infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fc8755122eac53",
-      "title": "Sponsored: The data center is becoming a power project",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-data-center-is-becoming-a-power-project/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Developers are taking on more of the infrastructure required to generate, store, and distribute electricity. That shift is changing what it takes to build a data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ef0fc0c499f8e5",
-      "title": "Tencent signs on for 100,000 GPUs via Oracle - report",
-      "url": "https://www.datacenterdynamics.com/en/news/tencent-signs-on-for-100000-gpus-via-oracle-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Will give Chinese cloud provider access to GPUs not allowed in the Middle Kingdom",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "936f772bb2ee9c",
-      "title": "Virginia bans data center NDAs as part of new digital infrastructure framework",
-      "url": "https://www.datacenterdynamics.com/en/news/virginia-bans-data-center-ndas-as-part-of-new-digital-infrastructure-framework/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Governor Spanberger introduces range of measures including AI task force",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "98ff87f38b0d51",
-      "title": "Sponsored: Castrol launches Castrol CORE, an integrated thermal management offer for data centers",
-      "url": "https://www.datacenterdynamics.com/en/product-news/castrol-launches-castrol-core-an-integrated-thermal-management-offer-for-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Castrol CORE marks a shift from a product-led cooling proposition to an integrated thermal management offer, bringing together cooling technology, testing, lifecycle support, as well as new design capabilities",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0553417e9e1076",
-      "title": "October Market Outlook: AI Hyperscaler Earnings, 2027 Capex Guidance - News and Statistics - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWViaXQ0NXpqRzI1dGhFUlhaLU5TTVVoMWIwVFJqb3hVaEVwd2ZIeUtKbXgwZFZhMHU1LU96MmZlQlU4S29yNDAwcGN6OXpkQ3dKbkxxTTFkdGVXOHlrLUltZGxmRUJUMmtxQnZCWGRkNE9jcUVwaS1pbjJIeUJRYnNCVjlyN2J4Nkx2dUFSOFVIRU55dGZLcGNlYjlxRlRlUzJUcg?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-10-01",
-      "summary": "October Market Outlook: AI Hyperscaler Earnings, 2027 Capex Guidance - News and Statistics &nbsp;&nbsp; IndexBox",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f9301525b1b927",
-      "title": "October Market Outlook: AI Hyperscaler Earnings, 2027 Capex Guidance - News and Statistics - indexbox.io",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWViaXQ0NXpqRzI1dGhFUlhaLU5TTVVoMWIwVFJqb3hVaEVwd2ZIeUtKbXgwZFZhMHU1LU96MmZlQlU4S29yNDAwcGN6OXpkQ3dKbkxxTTFkdGVXOHlrLUltZGxmRUJUMmtxQnZCWGRkNE9jcUVwaS1pbjJIeUJRYnNCVjlyN2J4Nkx2dUFSOFVIRU55dGZLcGNlYjlxRlRlUzJUcg?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-10-01",
-      "summary": "October Market Outlook: AI Hyperscaler Earnings, 2027 Capex Guidance - News and Statistics &nbsp;&nbsp; indexbox.io",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "18a612d6161a5f",
-      "title": "Traysar and Armada team up for underground AI infrastructure",
-      "url": "https://www.datacenterdynamics.com/en/news/traysar-and-armada-team-up-for-underground-ai-infrastructure/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Terminus will bring critical infrastructure below the Earth's surface",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "278877079dcc48",
-      "title": "Google is supporting water resilience in Chile.",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Google is investing $1.2M to line Chile's Unidos de Buin canal, saving 1.9 billion gallons of water annually. See how we boost watershed health.",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1.2M"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "79cc3ffeb87e92",
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-09-30",
-      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$30 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d512eecf502b70",
-      "title": "NxN enters Portugal with 1MW data center and plans to invest €100m",
-      "url": "https://www.datacenterdynamics.com/en/news/nxn-enters-portugal-with-a-1-mw-data-center-and-plans-to-invest-100m/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "The company has finalized the acquisition a data center in Évora",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b5fcda7df7e041",
-      "title": "Optical interconnect startup CScale emerges from stealth following investment from Nvidia and Intel",
-      "url": "https://www.datacenterdynamics.com/en/news/optical-interconnect-startup-cscale-emerges-from-stealth-following-investment-from-nvidia-and-intel/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "Californian startup raised $145m in Series C funding round",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$145m"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e770687539f483",
-      "title": "BrightRay plans 40MW data center in Macau",
-      "url": "https://www.datacenterdynamics.com/en/news/brightray-plans-40mw-data-center-in-macau/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "Company set to sell majority stake to BUUU",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "40MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "871515d715ca6a",
-      "title": "Google named as customer for Crusoe's data center campus in Amarillo, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/google-named-as-customer-for-crusoes-data-center-campus-in-amarillo-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "Campus set to span at least six single-story buildings",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 4,
       "is_high_confidence": false
     }
   ]
