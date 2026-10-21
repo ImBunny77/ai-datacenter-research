@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-10-21T03:39:42.771190+00:00",
+  "last_updated": "2026-10-21T09:10:05.010851+00:00",
   "finding_count": 600,
-  "new_project_count": 56,
+  "new_project_count": 57,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 171,
+  "high_confidence_count": 172,
   "findings": [
+    {
+      "id": "99e83245ebd1b7",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-21",
+      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$368 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
     {
       "id": "df8e0a3dbbd0ac",
       "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
@@ -18,12 +37,44 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$325 million",
-        "$325M",
         "$3B",
+        "$325M",
+        "$325 million",
         "$3 billion"
       ],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6967dc23408963",
+      "title": "Sponsored: Shadeform launches Flex VMs, turning any bare-metal GPU cluster into marketplace-ready cloud capacity",
+      "url": "https://www.datacenterdynamics.com/en/product-news/shadeform-launches-flex-vms-turning-any-bare-metal-gpu-cluster-into-marketplace-ready-cloud-capacity/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "Flex VMs turns bare-metal GPU clusters into single-tenant virtual machines on Shadeform's marketplace, with a fast and easy onboarding flow that enrols a node in about 30 minutes once approved",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "150846658fc17f",
+      "title": "Sponsored: The metric that matters: Why AI data centers should be measured in value, not volume",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-metric-that-matters-why-ai-data-centers-should-be-measured-in-value-not-volume/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "The data center industry has spent years measuring capacity. The better question is what each watt ultimately delivers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -319,6 +370,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "c288237e366061",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-20",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "a7f79dbefccbda",
       "title": "Amazon Announces Over 16 Billion Euros Investment in Germany by 2027 - Ratopati",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW1GYlB6Mmw2SS14V1JQTGVzQzN3enI4X082SC03Q2VGSzNvaVVfcEU2QnR1dTZ0UnhVZjFrTU1XX0txQVRnY3ZpZlJBRG9YZlhFNTR2cWhqVVlteWhNcUN5MFNOY1JZbXNnb0pFV2JmUHA1RnZfN1Q3dDhSMkZZOVJPZG9DT0JOVjRHZ1k4UkNCa1g2WXlxdGJtVGV0NEN5ZGp5d1h3?oc=5",
@@ -333,23 +401,6 @@
       "locations": [
         "Germany"
       ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c288237e366061",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-20",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -866,8 +917,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "50GW",
-        "60GW"
+        "60GW",
+        "50GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2634,23 +2685,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "260fa096c8b810",
-      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-15",
-      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "baeba75bfd6cc3",
       "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
       "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
@@ -2661,6 +2695,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "260fa096c8b810",
+      "title": "TIME has named Google SynthID one of the Best Inventions of 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-15",
+      "summary": "TIME named Google SynthID a Best Invention of 2026 for its groundbreaking approach to AI watermarking and verification.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -8671,6 +8722,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "c0ee326b3b6d3e",
+      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; CBS News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "7b6e0a005f00fc",
       "title": "Amazon to Invest $1B into Data Center Communities Amid Backlash Against Data Center Rollouts - Broadband Breakfast",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGJfQ1ducTFLX1FKeHRnWGdxNFFtR0MwY2hha3gtcFU3Q1prclhDVnRwd3RMamxLUThYTmRRWHp4bXpmZEduN2ZMNm5ZWXNCTWE4NU5EN1BWS3VtZ0JrSzRFTXZEMDVFM0I1aXhNVXRDZXdyLWNvQk9KRWxFbmFDQ2tzMHJrSlZHMm9XbG5QVkZsNXFjTU80R3ZzM1RvLVJNZlRrWWVzSDZOMlBSa0RGekNrcm16VkNYYkV6ZW44ZUU?oc=5",
@@ -8742,25 +8812,6 @@
       "locations": [],
       "amounts": [
         "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c0ee326b3b6d3e",
-      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; CBS News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10312,58 +10363,6 @@
       ],
       "amounts": [],
       "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ba0eaede15d7cd",
-      "title": "Google to double cloud capacity in Brazil in through 2030",
-      "url": "https://www.datacenterdynamics.com/en/news/google-cloud-will-double-in-four-years-the-computing-capacity-it-took-nine-years-to-build-in-brazil/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-09-30",
-      "summary": "Executives provide details on the expansion of data centers as well as the arrival of Nvidia Blackwell GPUs in the country",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [
-        "Brazil"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20ac5a131b7db3",
-      "title": "Grayson County Board of Supervisors announce potential development of data center complex - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbjk4am5yTEs2anV2TzB5dDZxWURkVGM5MENiS19CNy0yOC12emJjVmU3SU5LUnJQTnl3VFdVSWROeEJpR013emVrbk1tYjdJSnUwYUd4bmQtc0hSWWl4WVFOcThxeGptcGRSTkY5M04yN3AzbWoxak10NkJMNzFWRWVGVXExLTZVT0JrRUsxZjI2V0VDMVd3OFpmVzlSNFRjWUc4SUppYWk5V0hzbG9sYUMtRW5JOGxWOXBqaFJlbXVnRXFzc1JvQzZCeGZ3Zw?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-09-30",
-      "summary": "Grayson County Board of Supervisors announce potential development of data center complex &nbsp;&nbsp; WSLS",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb515c12c530f0",
-      "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
-      "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-09-30",
-      "summary": "Meta has announced that Dhruv Vohra will take on a new role as Managing Director, Global Business Group, Southeast Asia. \n The post  Meta Names Dhruv Vohra to Lead Southeast Asia Business  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
