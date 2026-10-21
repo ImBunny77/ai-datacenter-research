@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-21T19:56:44.952761+00:00",
+  "last_updated": "2026-10-21T23:07:06.307678+00:00",
   "finding_count": 600,
   "new_project_count": 57,
   "cancellation_count": 22,
   "sec_filing_count": 2,
-  "high_confidence_count": 177,
+  "high_confidence_count": 174,
   "findings": [
     {
       "id": "bd62d1ecbe5d81",
@@ -45,6 +45,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "cd664ded26e870",
+      "title": "Crusoe plans Spark Liquid modular data center to support latest Nvidia GPUs",
+      "url": "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-21",
+      "summary": "3.5MW deployments expected to serve Crusoe Cloud in 20-50MW clusters",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [
+        "50MW",
+        "3.5MW"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "ea9c363da7d1d6",
       "title": "AWS Bets $18B On Germany AI Data Center Boom Amid Public Backlash - CRN",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3pSTXpZZ3BtQ3MzcmdDNmIweTI0M2hSc0pObEtNUzVIajR4X21qcmF2VzhoUldmcW9KMEN5ek5BbExicjlFZmtYM3kyRW5WbmZqRWZHdGhERHZGNTNDUlY5SDZPYVQ5ZE5hVk1GQUh5WUJjalJ6bzRtUGhKcFJrMFR2MlExbDhsdnBrRE94VUN5Wk5sX202M2tHUmpyQQ?oc=5",
@@ -61,26 +81,6 @@
       ],
       "amounts": [
         "$18B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cd664ded26e870",
-      "title": "Crusoe plans Spark Liquid modular data center to support latest Nvidia GPUs",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "3.5MW deployments expected to serve Crusoe Cloud in 20-50MW clusters",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "50MW",
-        "3.5MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -150,8 +150,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "26.3GW",
-        "2.8GW"
+        "2.8GW",
+        "26.3GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -206,8 +206,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "20MW",
-        "$700 million"
+        "$700 million",
+        "20MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -230,6 +230,23 @@
       "is_high_confidence": true
     },
     {
+      "id": "ca56b9f3cf2973",
+      "title": "Nvidia debuts new AI reference architectures, development tools",
+      "url": "https://siliconangle.com/2026/10/21/nvidia-debuts-new-ai-reference-architectures-development-tools/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-21",
+      "summary": "Nvidia Corp. today debuted a set of technologies that will make it easier for customers to build data centers and robots using its chips. Chief Executive Officer Jensen Huang detailed the offerings at the company’s annual GTC Berlin event. The first addition to Nvidia&#8217;s data center portfolio, DSX POD, is a reference architecture. That’s a [&#8230;] \n The post  Nvidia debuts new AI reference architectures, development tools  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
       "id": "df8e0a3dbbd0ac",
       "title": "AI infrastructure management software startup ASI hits $3B valuation after raising $325M in funding",
       "url": "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/",
@@ -241,11 +258,29 @@
       "companies": [],
       "locations": [],
       "amounts": [
+        "$325 million",
         "$3 billion",
-        "$3B",
         "$325M",
-        "$325 million"
+        "$3B"
       ],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c364861bbcd1ac",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-21",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
     },
@@ -397,6 +432,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "cb1f97fcec3f73",
+      "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital",
+      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-21",
+      "summary": "Meta Platforms Inc. shares rose about 2% in after-hours trading today after the social networking company beat third-quarter revenue expectations and unveiled nonvoting Class C shares that will act as a two-for-one stock split. For the quarter ended on Sept. 30, Meta reported diluted earnings per share of $3.83, up from $1.05 a year earlier, [&#8230;] \n The post  Meta beats on revenue and splits its stock with nonvoting shares to raise capital  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "63df3bb90173b6",
+      "title": "Nvidia turns the AI factory into a product, and agents into the workload",
+      "url": "https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-21",
+      "summary": "For most of the past half-decade, the narrative around Nvidia Corp. has largely centered on the graphics processing unit. The questions have been who has allocation, how much faster the next generation is and whether anyone can close the gap. At GTC Berlin early today, Chief Executive Jensen Huang spent surprisingly little of his keynote [&#8230;] \n The post  Nvidia turns the AI factory into a product, and agents into the workload  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "b86218b8ed979d",
       "title": "Era4 ties financial sovereignty to Britain’s AI infrastructure",
       "url": "https://siliconangle.com/2026/10/21/era4-ties-financial-sovereignty-britains-ai-infrastructure-hpesovereignai/",
@@ -423,6 +492,24 @@
       "companies": [
         "Google",
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "480cf4cd1a671a",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-21",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "OpenAI"
       ],
       "locations": [],
       "amounts": [],
@@ -523,6 +610,36 @@
       "locations": [],
       "amounts": [],
       "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3059980aed7ba9",
+      "title": "Tesla profits drop 43% in Q3",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-21",
+      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2829dcab3671fc",
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-21",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -800,23 +917,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "c288237e366061",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-20",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
       "id": "a7f79dbefccbda",
       "title": "Amazon Announces Over 16 Billion Euros Investment in Germany by 2027 - Ratopati",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW1GYlB6Mmw2SS14V1JQTGVzQzN3enI4X082SC03Q2VGSzNvaVVfcEU2QnR1dTZ0UnhVZjFrTU1XX0txQVRnY3ZpZlJBRG9YZlhFNTR2cWhqVVlteWhNcUN5MFNOY1JZbXNnb0pFV2JmUHA1RnZfN1Q3dDhSMkZZOVJPZG9DT0JOVjRHZ1k4UkNCa1g2WXlxdGJtVGV0NEN5ZGp5d1h3?oc=5",
@@ -831,6 +931,23 @@
       "locations": [
         "Germany"
       ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c288237e366061",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-20",
+      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 4,
       "is_high_confidence": false
@@ -958,23 +1075,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "e1d4d5322298cf",
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-20",
-      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "32a5c125f6c588",
       "title": "Advancing digital sovereignty with greater control and choice",
       "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
@@ -1019,6 +1119,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e1d4d5322298cf",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-20",
+      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -2359,23 +2476,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6cf90f2cdbb5ff",
-      "title": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI - Global News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcjRqUERvZWx2cmI3RWRaUGZsSEpBQmZEbU5uRXZ6c0dDS2JnRGU0OTZyams5ZDMwMnFUNEcyZFlxaUJlaGlNaERKd2l0eWYxU1FNSmV1dTdBdTg4cGR2RGRGZWR4X0twdVYxLWhWbHlJY1pTbGYzQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-16",
-      "summary": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI &nbsp;&nbsp; Global News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "86bdee4a332818",
       "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
@@ -2386,6 +2486,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6cf90f2cdbb5ff",
+      "title": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI - Global News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcjRqUERvZWx2cmI3RWRaUGZsSEpBQmZEbU5uRXZ6c0dDS2JnRGU0OTZyams5ZDMwMnFUNEcyZFlxaUJlaGlNaERKd2l0eWYxU1FNSmV1dTdBdTg4cGR2RGRGZWR4X0twdVYxLWhWbHlJY1pTbGYzQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-16",
+      "summary": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI &nbsp;&nbsp; Global News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -10237,134 +10354,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "cd06a678f68b72",
-      "title": "Amazon signs PPA with Constellation for Maryland nuclear plant",
-      "url": "https://www.datacenterdynamics.com/en/news/amazon-signs-ppa-with-constellation-for-maryland-nuclear-plant/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "20-year deal to see 190MW of capacity added to Calvert Cliffs plant",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "Maryland"
-      ],
-      "amounts": [
-        "190MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c9934193723963",
-      "title": "9.4GW SMR-powered data center campus proposed in Utah",
-      "url": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Valar Atomics aims to get first reactor live in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Utah"
-      ],
-      "amounts": [
-        "9.4GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "40197c6f890fc0",
-      "title": "Civo plans 8MW Edge data center for AI in Hertfordshire, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/civo-plans-8mw-edge-data-center-for-ai-in-hertfordshire-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Ultimately planned to scale to 38MW, first of 40 planned sites",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [
-        "8MW",
-        "38MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "dfef1604d8bfbc",
-      "title": "Nvidia ties AI factory economics to tokens and power efficiency",
-      "url": "https://siliconangle.com/2026/10/01/nvidia-links-ai-factory-economics-inference-efficiency-fullyconnected/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-01",
-      "summary": "Artificial intelligence factory economics increasingly depend on more than access to high-performance graphics processing units. As agentic systems draw on multiple models, databases and tools, the entire data center must work as one computing system. That transition is shifting attention from individual chips to the infrastructure that turns computing capacity into useful intelligence. Networking, storage, [&#8230;] \n The post  Nvidia ties AI factory economics to tokens and power efficiency  ap",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "55ac431536001b",
-      "title": "AWS granted planning permission for data center in Iver, UK",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-granted-planning-permission-for-data-center-in-iver-uk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Site at Ridgeway Distribution Centre set to be replaced with data center campus",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "791e9b38cb3418",
-      "title": "SoftBank closes DigitalBridge acquisition",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-closes-digitalbridge-acquisition/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-01",
-      "summary": "Digital infrastructure investor taken private, de-lists from NYSE",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a97cdd0765bec4",
-      "title": "How Much Are AI Companies Spending on Data Centers? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRDhlT2wyczJjb2hKeUNCZG1EUTd4R3ZzM1BQRjFOOGxGMWw0Ql82WmpPS3JIMTVGejI0YWpCRndsMV82R1JSNWhFZF9TUlFkdkNDRlJqOTVkUFdIS01rT3dDcFpTSUJoMzF5alktUjdPNjJqbGUw?oc=5",
-      "source": "GNews: hyperscaler capex earnings guidance",
-      "source_cat": "Earnings",
-      "date": "2026-10-01",
-      "summary": "How Much Are AI Companies Spending on Data Centers? &nbsp;&nbsp; The Motley Fool",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
