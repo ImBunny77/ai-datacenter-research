@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-22T19:46:58.691983+00:00",
+  "last_updated": "2026-10-22T23:00:05.882675+00:00",
   "finding_count": 600,
   "new_project_count": 55,
   "cancellation_count": 24,
   "sec_filing_count": 2,
-  "high_confidence_count": 178,
+  "high_confidence_count": 176,
   "findings": [
     {
       "id": "bd62d1ecbe5d81",
@@ -101,6 +101,26 @@
       ],
       "locations": [],
       "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "66ffdca2ea9af2",
+      "title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry",
+      "url": "https://siliconangle.com/2026/10/22/ex-openai-science-chief-kevin-weil-launches-warp-sciences-with-215m-for-drug-chemistry/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "Drug discovery chemistry startup Warp Sciences Inc. launched today with $215 million in new funding, six months after co-founder and Chief Executive Kevin Weil left his job running science initiatives at OpenAI Group PBC. Warp is building a chemistry contract research organization in the U.S. to supply biotech and pharmaceutical companies with the molecules their [&#8230;] \n The post  Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry  appeared first on  Sili",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$215 million",
+        "$215M"
+      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -333,6 +353,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e76be2a3633ca2",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-10-22",
+      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "c0169cbdbe42b8",
       "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
@@ -427,6 +464,24 @@
       "summary": "17 relate to campuses, 13 to broader AI infrastructure",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "14e32ff29276d8",
+      "title": "Agentic AI Foundation adds four more open-source AI tools",
+      "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "The Agentic AI Foundation, a consortium that maintains open-source artificial intelligence tools, today took four new projects under its wing. The technologies were donated by OpenAI Group PBC, Anthropic PBC, Hugging Face Inc. and Alibaba Group Holding Ltd. They bring the total number of projects maintained by the AAIF to 10. That’s up from the [&#8230;] \n The post  Agentic AI Foundation adds four more open-source AI tools  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -988,6 +1043,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "33f491ac57ff66",
+      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
+      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-21",
+      "summary": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "4b1c2c33b8c7de",
       "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
       "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/",
@@ -1017,23 +1089,6 @@
       "companies": [
         "Google",
         "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "33f491ac57ff66",
-      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-21",
-      "summary": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2122,8 +2177,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "60GW",
-        "50GW"
+        "50GW",
+        "60GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -4603,23 +4658,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d56027a1d6fafe",
-      "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-10-14",
-      "summary": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7c94bc24fe7742",
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
@@ -4685,6 +4723,23 @@
       "locations": [
         "Mumbai"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d56027a1d6fafe",
+      "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-10-14",
+      "summary": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9923,25 +9978,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "c0ee326b3b6d3e",
-      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; CBS News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "fe4a3be83b6887",
       "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWThaOXFXRXZKNkN4ZW9hdjBabzYyR0VBWTNaNkZnSXVmTjViNmZZbEUzN0xndlBSZzZudU56c3JSSFAxLTgtWEhkUmpvZTJEek5DVm1XYWpRUm9NZ3hIZ0lSS3h6MUJaZm5RaF9CSHJKTXhZcm9qMUNZUFptZWJ6U09WR2Z1S3l1aHRHMGVPVnU2em8?oc=5",
@@ -9956,6 +9992,25 @@
       "locations": [],
       "amounts": [
         "$1B"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c0ee326b3b6d3e",
+      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; CBS News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10320,63 +10375,6 @@
         "$401m"
       ],
       "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "93c237c38da5da",
-      "title": "Enetron Park announces zoning approval for 250MW data center in Pyhäjoki, Finland, despite local government denial",
-      "url": "https://www.datacenterdynamics.com/en/news/enetron-park-announces-zoning-approval-for-250mw-data-center-in-pyh%C3%A4joki-finland-despite-local-government-denial/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-02",
-      "summary": "Announcement at odds with government decision",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [
-        "250MW"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "72c4b54535e473",
-      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-02",
-      "summary": "Critics say workers are still owed far more.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$272.5M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c269fe2d0ad5ff",
-      "title": "Report: Amazon to offload $8B worth of AI chips, lease them back",
-      "url": "https://siliconangle.com/2026/10/02/report-amazon-to-offload-8b-worth-of-ai-chips-lease-them-back/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-02",
-      "summary": "Amazon.com Inc. reportedly plans to offload some of its artificial intelligence chips and then lease them back. The Financial Times today cited sources as saying that the transaction would involve a special purpose vehicle, or SPV. A SPV is a type of legal entity that enterprises set up to optimize the administrative aspects of large [&#8230;] \n The post  Report: Amazon to offload $8B worth of AI chips, lease them back  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$8B"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
