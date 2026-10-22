@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-10-22T14:53:56.999332+00:00",
+  "last_updated": "2026-10-22T19:46:58.691983+00:00",
   "finding_count": 600,
-  "new_project_count": 57,
-  "cancellation_count": 25,
+  "new_project_count": 55,
+  "cancellation_count": 24,
   "sec_filing_count": 2,
-  "high_confidence_count": 176,
+  "high_confidence_count": 178,
   "findings": [
+    {
+      "id": "bd62d1ecbe5d81",
+      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-22",
+      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [
+        "$13 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "13a7d7b209f49c",
       "title": "Meta hit with $25 billion fine for deceiving users on privacy",
@@ -25,6 +46,81 @@
         "$25 billion"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "90287fcc66f385",
+      "title": "Google signs 1GW virtual power plant deal with Voltus",
+      "url": "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Biggest VPP deal signed by a hyperscaler to date",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5254015184cdb2",
+      "title": "Canada's Uniserve to launch 1MW data center in Vancouver",
+      "url": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Company developing facility next door to existing data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [
+        "1MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "79070a1a235be3",
+      "title": "Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team",
+      "url": "https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Chris Malone announced new role two months after OpenAI departure was reported",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b7848bfb219adc",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-22",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$25B"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -100,6 +196,25 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "a003dbd5339ce0",
+      "title": "Microsoft files for data center campus in Floyd County, Georgia",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Will feature three data center buildings",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Georgia"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "0f96b9fd0ba45f",
@@ -235,6 +350,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "0f6a9dc362d7d8",
+      "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack",
+      "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Expanding support for agentic AI",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0a399a1b9f2731",
+      "title": "Arbol launches moratorium risk insurance coverage",
+      "url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "First-of-its-kind cover will pay out on suspension of data center construction",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ab11bb60cf5e9e",
+      "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution",
+      "url": "https://www.datacenterdynamics.com/en/news/dell-unveils-nvidia-vera-cpu-offerings-launches-its-first-groq-3-lpu-rack-scale-inference-solution/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "All have been purpose-built for agentic AI, Dell said",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c2840995cd41d0",
       "title": "T-Mobile claims world first AI-RAN call with Nokia and Nvidia",
       "url": "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
@@ -263,6 +427,76 @@
       "summary": "17 relate to campuses, 13 to broader AI infrastructure",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "935d12ffb64afd",
+      "title": "9 executive interviews reveal what’s ahead for enterprise AI at Oracle AI World",
+      "url": "https://siliconangle.com/2026/10/22/enterprise-ai-oracle-executive-interviews-oracleaiworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "Moving enterprise AI applications into production requires more than increasingly capable models. Enterprises need secure access to business data, reliable infrastructure and greater control over autonomous agents as organizations look to turn AI experimentation into measurable business results. &#8220;AI is moving fast. Threats are moving just as fast, and the race is on to build [&#8230;] \n The post  9 executive interviews reveal what&#8217;s ahead for enterprise AI at Oracle AI World  appeare",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a5718cc096095f",
+      "title": "Anthropic introduces Claude Duet, a proactive AI agent for professionals",
+      "url": "https://siliconangle.com/2026/10/22/anthropic-introduces-claude-duet-a-proactive-ai-agent-for-professionals/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "Anthropic PBC Wednesday introduced Claude Duet, a proactive artificial intelligence agent for professionals and small business owners in research preview, which completes tasks when asked, keeps working behind the scenes and checks in. Duet is available as a standalone app on the web, iOS and Android for Pro and Max subscribers. The company said the [&#8230;] \n The post  Anthropic introduces Claude Duet, a proactive AI agent for professionals  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9f84649795b6fd",
+      "title": "1Password for Agents lets personal AI agents log in without ever seeing the password",
+      "url": "https://siliconangle.com/2026/10/22/1password-for-agents-lets-personal-ai-agents-log-in-without-ever-seeing-the-password/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "Identity security company 1Password today launched 1Password for Agents, its new sign-in platform for personal artificial intelligence agents. Agents from Meta Platforms Inc., Anthropic PBC, OpenAI Group PBC and Elon Musk&#8217;s SpaceXSI will be able to log in to people&#8217;s accounts through it without ever seeing the password. 1Password for Agents is aimed at a [&#8230;] \n The post  1Password for Agents lets personal AI agents log in without ever seeing the password  appeared first on  Sili",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8d6702a45a4301",
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-10-22",
+      "summary": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -352,39 +586,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "9f84649795b6fd",
-      "title": "1Password for Agents lets personal AI agents log in without ever seeing the password",
-      "url": "https://siliconangle.com/2026/10/22/1password-for-agents-lets-personal-ai-agents-log-in-without-ever-seeing-the-password/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "81fa99ed1b6446",
+      "title": "Sponsored: Europe’s AI opportunity will be defined by securing delivery",
+      "url": "https://www.datacenterdynamics.com/en/opinions/europes-ai-opportunity-will-be-defined-by-securing-delivery/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-10-22",
-      "summary": "Identity security company 1Password today launched 1Password for Agents, its new sign-in platform for personal artificial intelligence agents. Agents from Meta Platforms Inc., Anthropic PBC, OpenAI Group PBC and Elon Musk&#8217;s SpaceXSI will be able to log in to people&#8217;s accounts through it without ever seeing the password. 1Password for Agents is aimed at a [&#8230;] \n The post  1Password for Agents lets personal AI agents log in without ever seeing the password  appeared first on  Sili",
+      "summary": "As AI infrastructure moves from a capacity race to a test of execution, the projects that matter will be those that can turn power, capital, and land into operational assets",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Meta",
-        "OpenAI",
-        "Anthropic"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8d6702a45a4301",
-      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-22",
-      "summary": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -401,27 +614,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "bd62d1ecbe5d81",
-      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-21",
-      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     },
     {
       "id": "06da8d0ee06437",
@@ -671,9 +863,9 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "$3 billion",
         "$325M",
         "$325 million",
+        "$3 billion",
         "$3B"
       ],
       "confidence": 4,
@@ -715,6 +907,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "653f4cbdb75a57",
+      "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital, stock falls",
+      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-21",
+      "summary": "Updated: Meta Platforms Inc. shares rose about 2% in after-hours trading Wednesday after the social networking company beat third-quarter revenue expectations and unveiled nonvoting Class C shares that will act as a two-for-one stock split. Update: But on Thursday, investors reconsidered, knocking the stock down almost 8%. They may be concerned about the fact that [&#8230;] \n The post  Meta beats on revenue and splits its stock with nonvoting shares to raise capital, stock falls  appeared first ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "20770415a7d835",
       "title": "The Economic Impact of Data Centers in Iowa - Common Sense Institute",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHBoVy03VHBOc3VvcWtfRGh5XzRaczhac0wyUjVXVWkwQk5TaXhVV2RuSkVGOVVOUjVnVEdvdVF1WWJyUjhYcHhidkdlYjJ0TjJPdV9HczFCeVpKUWNIV1phUkJvdjV6NDNnWEtxTXpXRHRLaHhjZndmdGtUYWMzTmRfZjFSb0VYOUVyWnY5YjRZUQ?oc=5",
@@ -741,23 +950,6 @@
       "summary": "AI Data Centers: Environmental Disaster or Groundbreaking Innovation? &nbsp;&nbsp; KnowBe4 Blog",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb1f97fcec3f73",
-      "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital",
-      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-21",
-      "summary": "Meta Platforms Inc. shares rose about 2% in after-hours trading today after the social networking company beat third-quarter revenue expectations and unveiled nonvoting Class C shares that will act as a two-for-one stock split. For the quarter ended on Sept. 30, Meta reported diluted earnings per share of $3.83, up from $1.05 a year earlier, [&#8230;] \n The post  Meta beats on revenue and splits its stock with nonvoting shares to raise capital  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -842,6 +1034,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "cb1f97fcec3f73",
+      "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital",
+      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-21",
+      "summary": "Meta Platforms Inc. shares rose about 2% in after-hours trading today after the social networking company beat third-quarter revenue expectations and unveiled nonvoting Class C shares that will act as a two-for-one stock split. For the quarter ended on Sept. 30, Meta reported diluted earnings per share of $3.83, up from $1.05 a year earlier, [&#8230;] \n The post  Meta beats on revenue and splits its stock with nonvoting shares to raise capital  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -1472,41 +1681,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d659afda730d90",
-      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
-      "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-20",
-      "summary": "OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and technology will now sit inside OpenAI&#8217;s Rosalind life sciences unit. Much of OpenAI&#8217;s case for the deal comes down to how long [&#8230;] \n The post  OpenAI acquires Orchestra Bio to bring AI agents into drug development  appeared first on  SiliconANGLE",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f9843f921175e6",
-      "title": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
-      "url": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-20",
-      "summary": "Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company&#8217;s own benchmarks, Mercury 3 beat OpenAI Group PBC&#8217;s GPT-6 Luna and Anthropic PBC&#8217;s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the main doubt about Inception&#8217;s [&#8230;] \n The post  Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "32a5c125f6c588",
       "title": "Advancing digital sovereignty with greater control and choice",
       "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
@@ -1551,6 +1725,41 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d659afda730d90",
+      "title": "OpenAI acquires Orchestra Bio to bring AI agents into drug development",
+      "url": "https://siliconangle.com/2026/10/20/openai-acquires-orchestra-bio-to-bring-ai-agents-into-drug-development/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-20",
+      "summary": "OpenAI Group PBC revealed today that it has acquired drug development software startup Orchestra Bio Inc. Orchestra builds artificial intelligence agents that help pharmaceutical teams keep development programs on track,. Its staff and technology will now sit inside OpenAI&#8217;s Rosalind life sciences unit. Much of OpenAI&#8217;s case for the deal comes down to how long [&#8230;] \n The post  OpenAI acquires Orchestra Bio to bring AI agents into drug development  appeared first on  SiliconANGLE",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f9843f921175e6",
+      "title": "Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed",
+      "url": "https://siliconangle.com/2026/10/20/inception-says-mercury-3-beats-gpt-6-luna-and-claude-haiku-5-5-at-up-to-8x-the-speed/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-20",
+      "summary": "Diffusion language model startup Inception AI Inc. today released Mercury 3, its new flagship model. In the company&#8217;s own benchmarks, Mercury 3 beat OpenAI Group PBC&#8217;s GPT-6 Luna and Anthropic PBC&#8217;s Claude Haiku 5.5 on eight of 12 tests at four to eight times their speed. The release takes on the main doubt about Inception&#8217;s [&#8230;] \n The post  Inception says Mercury 3 beats GPT-6 Luna and Claude Haiku 5.5 at up to 8x the speed  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -1913,8 +2122,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "50GW",
-        "60GW"
+        "60GW",
+        "50GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -2925,23 +3134,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6cf90f2cdbb5ff",
-      "title": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI - Global News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcjRqUERvZWx2cmI3RWRaUGZsSEpBQmZEbU5uRXZ6c0dDS2JnRGU0OTZyams5ZDMwMnFUNEcyZFlxaUJlaGlNaERKd2l0eWYxU1FNSmV1dTdBdTg4cGR2RGRGZWR4X0twdVYxLWhWbHlJY1pTbGYzQQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-16",
-      "summary": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI &nbsp;&nbsp; Global News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "86bdee4a332818",
       "title": "We’re sharing 3 tips to study smarter with Gemini Notebook.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
@@ -2952,6 +3144,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6cf90f2cdbb5ff",
+      "title": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI - Global News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tcjRqUERvZWx2cmI3RWRaUGZsSEpBQmZEbU5uRXZ6c0dDS2JnRGU0OTZyams5ZDMwMnFUNEcyZFlxaUJlaGlNaERKd2l0eWYxU1FNSmV1dTdBdTg4cGR2RGRGZWR4X0twdVYxLWhWbHlJY1pTbGYzQQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-16",
+      "summary": "EverWind’s large-scale data centre in N.S. will power Anthropic’s Claude AI &nbsp;&nbsp; Global News",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
       ],
       "locations": [],
       "amounts": [],
@@ -4391,6 +4600,23 @@
       ],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d56027a1d6fafe",
+      "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-10-14",
+      "summary": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -9697,25 +9923,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "fe4a3be83b6887",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWThaOXFXRXZKNkN4ZW9hdjBabzYyR0VBWTNaNkZnSXVmTjViNmZZbEUzN0xndlBSZzZudU56c3JSSFAxLTgtWEhkUmpvZTJEek5DVm1XYWpRUm9NZ3hIZ0lSS3h6MUJaZm5RaF9CSHJKTXhZcm9qMUNZUFptZWJ6U09WR2Z1S3l1aHRHMGVPVnU2em8?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "c0ee326b3b6d3e",
       "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
@@ -9730,6 +9937,25 @@
       "locations": [],
       "amounts": [
         "$1 billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "fe4a3be83b6887",
+      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWThaOXFXRXZKNkN4ZW9hdjBabzYyR0VBWTNaNkZnSXVmTjViNmZZbEUzN0xndlBSZzZudU56c3JSSFAxLTgtWEhkUmpvZTJEek5DVm1XYWpRUm9NZ3hIZ0lSS3h6MUJaZm5RaF9CSHJKTXhZcm9qMUNZUFptZWJ6U09WR2Z1S3l1aHRHMGVPVnU2em8?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-10-02",
+      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -10152,227 +10378,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "030a4f95639177",
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-02",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$300M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e7df5cf1f3eca5",
-      "title": "Plans filed for 1GW data center campus at former nuclear plant in Scotland",
-      "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-1gw-data-center-campus-at-former-nuclear-plant-in-scotland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-02",
-      "summary": "CX Tech says site will feature direct-wire connections to renewable projects",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "91d922f7a2ebfc",
-      "title": "Amazon’s New Push to Get Buy-In for Data Center Build-Out - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaFBzUjZRQklTX05vWk1WLVBnR3k5MlRpaE5nQzlXUjc0ZG45ODg2c2xhelluelFBY0J1dWlSbHUwbUtobExJY0piWERFTXVBdkhuVGVsTmpjaExNY1hRQnAyRF9EZTRjdXJkRVR2c3N0LW9BQ3FjeDQ2RVJNQ1FwUENDX1NyellSTmRjS1hFbVA5Vk5V?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon’s New Push to Get Buy-In for Data Center Build-Out &nbsp;&nbsp; WSJ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "40615705a8a07a",
-      "title": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN3k4bGFzcFFXVzRTTzFyYkFaMWdodi16OHViYlI0UTZXN2R6TWNtbzlpTTFZTUsxZUxYZlJnWUEwT0RhZW1DMVJpeGF5ZS00RWVqbmhYQlpWR3NSaUdFRVVaSDI3MFVHeHBvakxTTVhYQl91Z0hkX055Mm1jNmFLN21SdFpDTWVndGZqRnZFT2VlcGlpZ2tad0hkNlk3X2tBNXhlOGZOVnowWUtoMENfRWN6TzVhN2dzdnhRcW94YnU0Z1I0aGM2TE5zSWRQdmtfa25nekQyUFBPUlpxeEFUdzBvcGREMWJsM2twR3JoakdUYURaS2RYd2p2TzlfU1pjTFdsSU9EYnE0NE0?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-10-02",
-      "summary": "OpenAI, Blackstone, Softbank form US data center lobbying group —American Infrastructure Alliance's first job is stop states from blocking AI data center &nbsp;&nbsp; TechRadar",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "3ce337cea83779",
-      "title": "AWS drops non-disclosure agreements for data center projects",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-02",
-      "summary": "Follows Microsoft's footsteps",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft",
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "551eb1faf0f545",
-      "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments - About Amazon",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVvOXNHN3ROUU96WTF0R3hKSnhDcFNXclNzUzBNMEM1bngzV044M3VNdUFNWkJVYjhlcTc3enNfbkV3MTRBNE9CVzUwUURTYThWazJnX2x6MmtWNjZnWXB2bGFZNjhxMjVzZU9Id0lqWnA5SHR5NDl0OVFlS1hROURLOU1qRlE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments &nbsp;&nbsp; About Amazon",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "63a008a0412afd",
-      "title": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments - aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmVvOXNHN3ROUU96WTF0R3hKSnhDcFNXclNzUzBNMEM1bngzV044M3VNdUFNWkJVYjhlcTc3enNfbkV3MTRBNE9CVzUwUURTYThWazJnX2x6MmtWNjZnWXB2bGFZNjhxMjVzZU9Id0lqWnA5SHR5NDl0OVFlS1hROURLOU1qRlE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "The race our nation can’t afford to lose, plus a new commitment from us and a fresh set of community investments &nbsp;&nbsp; aboutamazon.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4e19035f310081",
-      "title": "Amazon Web Services CEO announces no more NDAs with local governments - southbendtribune.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVU1sTzFSeFN1RElySV9wMUl3N1BDWFN1ZlZUZFRXZzE1STNZdC16dktKQlY2OWRnYWl1X20xQjRkX05zNTZRZGZqUXFJTUE3VlFaU1ZaYlpPc3hZRmFwWm1kelBEMnhYcFREaElnSVVNUWdiLUpTQTc1Q2UzWEN2UTloM0kyOXN6M2NjN0tCa3JnalhUTlhheFdPd292UHN2aGhxS0ItVGt0ZWNVOU1PbFBHQWpVUVFJbXl5T1dpc1prNWs0WDlhbjZIUldsczI3cF9MandOei1hQ2M?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon Web Services CEO announces no more NDAs with local governments &nbsp;&nbsp; southbendtribune.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b4bf958aaa6b0",
-      "title": "Sponsored: Managing complexity in the AI data center era",
-      "url": "https://www.datacenterdynamics.com/en/opinions/managing-complexity-in-the-ai-data-center-era/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-02",
-      "summary": "The conversation around AI infrastructure often centers on one question: Where will all the power come from?",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "336d85e53a2cc2",
-      "title": "Amazon Web Services CEO announces no more NDAs with local governments - South Bend Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVU1sTzFSeFN1RElySV9wMUl3N1BDWFN1ZlZUZFRXZzE1STNZdC16dktKQlY2OWRnYWl1X20xQjRkX05zNTZRZGZqUXFJTUE3VlFaU1ZaYlpPc3hZRmFwWm1kelBEMnhYcFREaElnSVVNUWdiLUpTQTc1Q2UzWEN2UTloM0kyOXN6M2NjN0tCa3JnalhUTlhheFdPd292UHN2aGhxS0ItVGt0ZWNVOU1PbFBHQWpVUVFJbXl5T1dpc1prNWs0WDlhbjZIUldsczI3cF9MandOei1hQ2M?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon Web Services CEO announces no more NDAs with local governments &nbsp;&nbsp; South Bend Tribune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9ff0d844bbacc3",
-      "title": "DCD Talks: Inside the US data center power shift with Richard Reisig, Siemens Energy",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-talks-inside-the-us-data-center-power-shift-with-richard-reisig-siemens-energy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-02",
-      "summary": "Richard Reisig, Managing Director for Siemens Energy, discusses with DCD's Zoe Turner about how surging US data center demand is driving investment in gas-powered generation",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a4ce2174aa3be1",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-02",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6eb21b8b1cfbd5",
-      "title": "CrowdStrike and CoreWeave bring AI security to machine speed",
-      "url": "https://siliconangle.com/2026/10/02/coreweave-crowdstrike-pair-attack-defense-models-fullyconnected/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-02",
-      "summary": "AI-native cybersecurity requires defenses that can keep pace with attackers while protecting infrastructure that never stops running. That challenge is bringing security expertise and specialized computing closer together, with automation embedded throughout the systems enterprises use to train and run models. CrowdStrike’s fastest observed eCrime attacker breakout time in 2025 was 27 seconds, underscoring the [&#8230;] \n The post  CrowdStrike and CoreWeave bring AI security to machine speed  ap",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
     }
   ]
 }
