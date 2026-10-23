@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-23T09:09:09.861520+00:00",
+  "last_updated": "2026-10-23T14:42:12.256390+00:00",
   "finding_count": 600,
   "new_project_count": 54,
-  "cancellation_count": 26,
+  "cancellation_count": 27,
   "sec_filing_count": 2,
-  "high_confidence_count": 169,
+  "high_confidence_count": 160,
   "findings": [
     {
       "id": "6c511ec469630e",
@@ -20,12 +20,259 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.25 trillion",
         "$30B",
-        "$30 billion"
+        "$30 billion",
+        "$1.25 trillion"
       ],
       "confidence": 7,
       "is_high_confidence": true
+    },
+    {
+      "id": "88a99fc0fcb998",
+      "title": "US Department of Commerce commits up to $389m in R&D funding to power semiconductors for fusion and advanced computing",
+      "url": "https://www.datacenterdynamics.com/en/news/us-department-of-commerce-commits-up-to-389m-in-rd-funding-to-power-semiconductors-for-fusion-and-advanced-computing/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Google-backed CFS and Microsoft-backed Helion to receive R&amp;D funding",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft",
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$389m"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "cede60a32a8049",
+      "title": "Foresight announces intention to buy stake in Polish data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/foresight-announces-intention-to-buy-stake-in-polish-data-center-developer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "The unnamed firm is developing two facilities in Poland with a combined power capacity of 270MW",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Poland"
+      ],
+      "amounts": [
+        "270MW"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "97ef7a665404ee",
+      "title": "Krolmap plans a 225MW off-grid data center in Zaragoza, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-225mw-off-grid-data-center-in-zaragoza-spain/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Project offers alternative to standard model for connecting large digital loads to power grid",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [
+        "225MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6472a1b626b813",
+      "title": "KT breaks ground on 50MW data center in Ansan, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/kt-breaks-ground-on-50mw-data-center-in-ansan-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Part of company's plans to deploy 1GW by 2031",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "50MW",
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b921003069874f",
+      "title": "Innio signs 620MW gas engine order with undisclosed US data center developer",
+      "url": "https://www.datacenterdynamics.com/en/news/innio-signs-620mw-gas-engine-order-with-undisclosed-us-data-center-developer/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Builds on 1.1GW order signed in July",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1.1GW",
+        "620MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c6bc55877b2a61",
+      "title": "O-Green plans data center campus in Zaragoza, Spain",
+      "url": "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "The fund, which is linked to Oman, plans to invest €7.4 billion in a data center campus in San Mateo de Gállego, Zaragoza",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3cbe26971fac5b",
+      "title": "Emerald AI, Nvidia share results of latest pilot at Nscale data center in Iceland",
+      "url": "https://www.datacenterdynamics.com/en/news/emerald-ai-nvidia-share-results-of-latest-pilot-at-nscale-data-center-in-iceland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Seventh pilot undertaken by Emerald AI to date",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "df3053ebd377be",
+      "title": "Google's fiber unit to snap up dark fiber leasing contract from Ting Fiber in Colorado Springs",
+      "url": "https://www.datacenterdynamics.com/en/news/googles-fiber-unit-to-snap-up-dark-fiber-leasing-contract-from-ting-fiber-in-colorado-springs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "As Ting Fiber set for Colorado Springs exit in late March 2027",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Colorado"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2f1f1e79ee38bf",
+      "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
+      "url": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Affected services included National User Registry and the Electronic Medical Prescription (PEM), as well as access to Electronic Health Record",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6d109b8c7fa3f5",
+      "title": "STTGDC to host Neysa GPUs at data center in Noida, India",
+      "url": "https://www.datacenterdynamics.com/en/news/sttgdc-to-host-neysa-gpus-at-data-center-in-noida-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Noida 2 facility to host up to 9,000 GPUs for Indian neocloud",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f73f82d6be691f",
+      "title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE",
+      "url": "https://www.datacenterdynamics.com/en/news/aleria-to-deploy-nvidia-blackwell-and-vera-rubin-gpus-in-us-and-uae/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Neocloud partners with DDN on deployment",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "UAE"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "594422bef8a1f3",
+      "title": "Supermicro launches 100% liquid cooled Nvidia Vera CPU rack",
+      "url": "https://www.datacenterdynamics.com/en/news/supermicro-launches-100-liquid-cooled-nvidia-vera-cpu-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Rack scale solution can be deployed alone or alongside Nvidia Vera Rubin NVL72",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f2699df3600179",
+      "title": "Endeavour partners with US desalination firm Trevi to turn data center waste heat into clean water",
+      "url": "https://www.datacenterdynamics.com/en/news/endeavour-partners-with-us-desalination-firm-trevi-to-turn-data-center-waste-heat-into-clean-water/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "First deployments expected across Endeavour's US data center portfolio",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8d2788bf17ec5f",
+      "title": "Google Cloud introduces Agent Compute Engine to host AI agents",
+      "url": "https://siliconangle.com/2026/10/22/google-cloud-introduces-agent-compute-engine-to-host-ai-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-23",
+      "summary": "Google LLC’s cloud unit today introduced Agent Compute Engine, an infrastructure service optimized to host artificial intelligence agents. AI agents run in technology environments called sandboxes. They host the applications, data and user instructions that agents need to carry out their work. Sandboxes also contain cybersecurity guardrails that block malicious activity. Google refers to Agent [&#8230;] \n The post  Google Cloud introduces Agent Compute Engine to host AI agents  appeared first on",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "a4338ce3c0d547",
@@ -58,20 +305,18 @@
       "is_high_confidence": false
     },
     {
-      "id": "8d2788bf17ec5f",
-      "title": "Google Cloud introduces Agent Compute Engine to host AI agents",
-      "url": "https://siliconangle.com/2026/10/22/google-cloud-introduces-agent-compute-engine-to-host-ai-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "a498290fbb95e1",
+      "title": "InsurTech company Reliance Global Group to acquire GPU cloud company and pivot strategy",
+      "url": "https://www.datacenterdynamics.com/en/news/insurtech-company-reliance-global-group-to-acquire-gpu-cloud-company-and-pivot-strategy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
       "date": "2026-10-23",
-      "summary": "Google LLC’s cloud unit today introduced Agent Compute Engine, an infrastructure service optimized to host artificial intelligence agents. AI agents run in technology environments called sandboxes. They host the applications, data and user instructions that agents need to carry out their work. Sandboxes also contain cybersecurity guardrails that block malicious activity. Google refers to Agent [&#8230;] \n The post  Google Cloud introduces Agent Compute Engine to host AI agents  appeared first on",
+      "summary": "Will rebrand as GPU Exchange",
       "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
+      "companies": [],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -155,6 +400,45 @@
       "is_high_confidence": true
     },
     {
+      "id": "66ffdca2ea9af2",
+      "title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry",
+      "url": "https://siliconangle.com/2026/10/22/ex-openai-science-chief-kevin-weil-launches-warp-sciences-with-215m-for-drug-chemistry/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-10-22",
+      "summary": "Drug discovery chemistry startup Warp Sciences Inc. launched today with $215 million in new funding, six months after co-founder and Chief Executive Kevin Weil left his job running science initiatives at OpenAI Group PBC. Warp is building a chemistry contract research organization in the U.S. to supply biotech and pharmaceutical companies with the molecules their [&#8230;] \n The post  Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry  appeared first on  Sili",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$215M",
+        "$215 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b7848bfb219adc",
+      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-22",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$25B"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "90287fcc66f385",
       "title": "Google signs 1GW virtual power plant deal with Voltus",
       "url": "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
@@ -207,45 +491,6 @@
       ],
       "locations": [],
       "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "66ffdca2ea9af2",
-      "title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry",
-      "url": "https://siliconangle.com/2026/10/22/ex-openai-science-chief-kevin-weil-launches-warp-sciences-with-215m-for-drug-chemistry/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-22",
-      "summary": "Drug discovery chemistry startup Warp Sciences Inc. launched today with $215 million in new funding, six months after co-founder and Chief Executive Kevin Weil left his job running science initiatives at OpenAI Group PBC. Warp is building a chemistry contract research organization in the U.S. to supply biotech and pharmaceutical companies with the molecules their [&#8230;] \n The post  Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry  appeared first on  Sili",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$215M",
-        "$215 million"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b7848bfb219adc",
-      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-22",
-      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$25B"
-      ],
       "confidence": 5,
       "is_high_confidence": true
     },
@@ -394,21 +639,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d2e3a211292a7a",
-      "title": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Seb Moss speaks with Chris Crosby of Compass Datacenters about data center siting, community engagement, AI's impact, public perception, and focusing on long-term business strategy over a build-to-exit mentality.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "cc6693f81230a5",
       "title": "OpenAI to make its most advanced AI models available in Google Cloud",
       "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
@@ -461,6 +691,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "d2e3a211292a7a",
+      "title": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters",
+      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Seb Moss speaks with Chris Crosby of Compass Datacenters about data center siting, community engagement, AI's impact, public perception, and focusing on long-term business strategy over a build-to-exit mentality.",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "68ed16c84d3610",
       "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
       "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
@@ -490,74 +735,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0f6a9dc362d7d8",
-      "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack",
-      "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Expanding support for agentic AI",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a399a1b9f2731",
-      "title": "Arbol launches moratorium risk insurance coverage",
-      "url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "First-of-its-kind cover will pay out on suspension of data center construction",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ab11bb60cf5e9e",
-      "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution",
-      "url": "https://www.datacenterdynamics.com/en/news/dell-unveils-nvidia-vera-cpu-offerings-launches-its-first-groq-3-lpu-rack-scale-inference-solution/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "All have been purpose-built for agentic AI, Dell said",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c2840995cd41d0",
-      "title": "T-Mobile claims world first AI-RAN call with Nokia and Nvidia",
-      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "The call was completed from a commercial cell site in Bellevue, Washington",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "Washington"
-      ],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -661,6 +838,74 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0f6a9dc362d7d8",
+      "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack",
+      "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Expanding support for agentic AI",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0a399a1b9f2731",
+      "title": "Arbol launches moratorium risk insurance coverage",
+      "url": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "First-of-its-kind cover will pay out on suspension of data center construction",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ab11bb60cf5e9e",
+      "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution",
+      "url": "https://www.datacenterdynamics.com/en/news/dell-unveils-nvidia-vera-cpu-offerings-launches-its-first-groq-3-lpu-rack-scale-inference-solution/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "All have been purpose-built for agentic AI, Dell said",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c2840995cd41d0",
+      "title": "T-Mobile claims world first AI-RAN call with Nokia and Nvidia",
+      "url": "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "The call was completed from a commercial cell site in Bellevue, Washington",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Washington"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1085,21 +1330,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "32c30a1d86e69c",
-      "title": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFNmWXlEdTdPdW9NZUhIUW5fSThzRnEzc0ZaX08xMWJLalVDM2lDZ0tFcWtLdTl1elQtM2p5RWJ6V1U0Zk80ZktGWVdTdWxOM1BwT1pVVUVOR3VoVG1CNXRjdU5RZXNXd09hWENNRTRJcTVtX2xneWkzcEN4X0ZtazRJb3ZaRTZlWlpPckx3cFpWQjFzRHFLZw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-10-21",
-      "summary": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms &nbsp;&nbsp; Yahoo",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "653f4cbdb75a57",
       "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital, stock falls",
       "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
@@ -1111,6 +1341,21 @@
       "companies": [
         "Meta"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "32c30a1d86e69c",
+      "title": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFNmWXlEdTdPdW9NZUhIUW5fSThzRnEzc0ZaX08xMWJLalVDM2lDZ0tFcWtLdTl1elQtM2p5RWJ6V1U0Zk80ZktGWVdTdWxOM1BwT1pVVUVOR3VoVG1CNXRjdU5RZXNXd09hWENNRTRJcTVtX2xneWkzcEN4X0ZtazRJb3ZaRTZlWlpPckx3cFpWQjFzRHFLZw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-10-21",
+      "summary": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms &nbsp;&nbsp; Yahoo",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -1853,23 +2098,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0c93374e556d7",
-      "title": "Watchdog group criticizes TCEQ for advancing data center permits - The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYklaLVh0Tzk5RjVjWjJrTDBiYmRra3JXYkVOV01IN2E5c0dhNDhTVkJfU0JrR3J1Uk9VT3J2YTRHaEk2cEZNdGwyWkV0N1VaRWVCVkQxMEh6YXlFbk1HMkszbWlianpSS05vTnNMMF9rQk5iSC1iT1ZkSUZ0Wk5JNXpscGdqOG11enF0OA?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-10-20",
-      "summary": "Watchdog group criticizes TCEQ for advancing data center permits &nbsp;&nbsp; The Texas Tribune",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "32cf5e19fa87cb",
       "title": "Amazon Web Services in Germany: The Key Facts - About Amazon Europe",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CbmpwV1RVTGRLekdsTV9HTWJCS05UVTRrNTVWakhYcFhWSlhSelNCeVAyT0k3Njl5TG1HVVM2RWpCSnB4RkhIVTZNNDBKRHRMT29UUVZPaGV4dktnMS1R?oc=5",
@@ -1935,6 +2163,23 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a0c93374e556d7",
+      "title": "Watchdog group criticizes TCEQ for advancing data center permits - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYklaLVh0Tzk5RjVjWjJrTDBiYmRra3JXYkVOV01IN2E5c0dhNDhTVkJfU0JrR3J1Uk9VT3J2YTRHaEk2cEZNdGwyWkV0N1VaRWVCVkQxMEh6YXlFbk1HMkszbWlianpSS05vTnNMMF9rQk5iSC1iT1ZkSUZ0Wk5JNXpscGdqOG11enF0OA?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-10-20",
+      "summary": "Watchdog group criticizes TCEQ for advancing data center permits &nbsp;&nbsp; The Texas Tribune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -2330,8 +2575,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "60GW",
-        "50GW"
+        "50GW",
+        "60GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -4811,23 +5056,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "d56027a1d6fafe",
-      "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
-      "source": "GNews: CoreWeave xAI GPU",
-      "source_cat": "Company",
-      "date": "2026-10-14",
-      "summary": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 &nbsp;&nbsp; Seeking Alpha",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7c94bc24fe7742",
       "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
       "url": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
@@ -4893,6 +5121,23 @@
       "locations": [
         "Mumbai"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d56027a1d6fafe",
+      "title": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWDk2Z0VPTmVQeTNJM0R1UGpWVlJYMWpTVk5jUmVkVlNsRjdraU1kRFh5aXB1REJyM2RyeFcxV2hwZk53U1h5N01qbjN6UFVjRnhMSkVLV0I2emNGcXNLdUEteVdzcVgyQkxQUWk3bWt4OGtIZjNXMkpNaUllalN1SzVGaUxUTndZMkhyeGhkaGpzYlNETlpad3U1dUNUUUdJTTlkY3BuWXA2SUJkZWcxZ1k3MVNyQVQ1dk5FcjRwV3dtY3FENlE?oc=5",
+      "source": "GNews: CoreWeave xAI GPU",
+      "source_cat": "Company",
+      "date": "2026-10-14",
+      "summary": "CoreWeave collapses after Gartner predicts 80% of neoclouds will evaporate by 2030 &nbsp;&nbsp; Seeking Alpha",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10090,272 +10335,6 @@
         "$1 billion"
       ],
       "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "71ab3a39cc9e21",
-      "title": "Amazon to invest $1 billion over five years in US data center communities - bilyonaryo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2FSZkZaY0R6LWotcHp4UkpacTd4eEVKVWdWM2R4NU5VcXEzemtiZVFZY2NjVDE5Ni1ta1NLY3Y4OGFJRld5dmlrUzlsMjg5bVh0a29CNWNqZ2N3MTdORGN4ekNSc3ZZaG5DY0JqeVNqcTU5VXZvVG5Kd1JDV1NyR3VSdkpTVzczTlpqZEozbVJQdXl3TGRNamI1SEI?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1 billion over five years in US data center communities &nbsp;&nbsp; bilyonaryo.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e994035a1367b4",
-      "title": "Amazon's AWS Commits Over $1 Billion to US Communities Hosting Data Centers - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52N1VVMTR2N0NuenIyUWtqeGdta3BfSGJMSFlkRW5uY0RUdi1JcnRQTExRUTVTalJuX1A1Z0w4bUlhRWR4UVNwaF8tS0JVWjNxMkcxcTBFMjhuSUZ4RVJUeUVXM2RRUng0WUtFS3g5Q3ppRHdXVlE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon's AWS Commits Over $1 Billion to US Communities Hosting Data Centers &nbsp;&nbsp; finance.biggo.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fe4a3be83b6887",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWThaOXFXRXZKNkN4ZW9hdjBabzYyR0VBWTNaNkZnSXVmTjViNmZZbEUzN0xndlBSZzZudU56c3JSSFAxLTgtWEhkUmpvZTJEek5DVm1XYWpRUm9NZ3hIZ0lSS3h6MUJaZm5RaF9CSHJKTXhZcm9qMUNZUFptZWJ6U09WR2Z1S3l1aHRHMGVPVnU2em8?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c0ee326b3b6d3e",
-      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; CBS News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "92a6a02f578c4a",
-      "title": "Amazon Web Services Vows to Spend $1 Billion Over Five Years in US to Allay Data Center Anxieties - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzQ4RGV2SF9RRUJUUjZlN1ZiN2VyQkpWQnFjQlVfVzRXVk9tOHZoV3pOd3czQmNXX0Jic3ZIbkprQXdjVjhVTnV4SXk2WjYySnZkVl9WZHhodUtOMlVmcDdydGFMYlBHbTM3Q1htblVmNVBfelo3d2tobHZsZkRXRHRqOUR4ZU56MTMyMklEa2lpejZoelpJ?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon Web Services Vows to Spend $1 Billion Over Five Years in US to Allay Data Center Anxieties &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7d88e2ee43c02d",
-      "title": "Amazon investing $1B in data center communities - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdkxVa0NZcnUtZlFIbGd5cFBZSFZDS0tLUzhxRXJUaGZDcHpaRTN1X05vN2hYZmh3YTNCTUtwaDdRUGEzQllOS2h3QkdDdmhiYnVjT1I5VlZiYXhDdjJpTEQ5NEQ5ZVl3YkpZMDY0U0pEb2R5ZDNpQnJMVXFwdjc3MVFxU1A0TG43V2lQdW11WFA1cTNKa1hr?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon investing $1B in data center communities &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7b6e0a005f00fc",
-      "title": "Amazon to Invest $1B into Data Center Communities Amid Backlash Against Data Center Rollouts - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGJfQ1ducTFLX1FKeHRnWGdxNFFtR0MwY2hha3gtcFU3Q1prclhDVnRwd3RMamxLUThYTmRRWHp4bXpmZEduN2ZMNm5ZWXNCTWE4NU5EN1BWS3VtZ0JrSzRFTXZEMDVFM0I1aXhNVXRDZXdyLWNvQk9KRWxFbmFDQ2tzMHJrSlZHMm9XbG5QVkZsNXFjTU80R3ZzM1RvLVJNZlRrWWVzSDZOMlBSa0RGekNrcm16VkNYYkV6ZW44ZUU?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to Invest $1B into Data Center Communities Amid Backlash Against Data Center Rollouts &nbsp;&nbsp; Broadband Breakfast",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "0c8ec47c82cb43",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0szSE5pQWYxdzBaZENlREdEME4ycWNxRU9nejhfMy1lZFZDR3JrUDIzNnBMaTlTeVZSWHU4SWtxMjFidFVCRGphQ2Zxd3JTTHVTU3lZOGl4ek1rdDRTNU91ZTNwSUM4NkpidGZWNjlEX1Z5amRSUXIxdUY3UHFoMnRkUzBhT0pPQjBZQVRzWnFrNW05M3M4X3pZdjlvcV9ZMXZpelB30gGrAUFVX3lxTE1oczZnM05UN0ViVWJidmFURmFLZ0w0RnEtUFJ1OC1PMl9QYzZ0SjlCYnJiWU01eWlhc2QyREZ2Q1dlWWJtSWxIcUVBbTJSNjhmcTdzWkNxRnlDaUZvU244bnVidUh4MDZOdThjSGRIV0VXZDlqTXFJNjU4QkNhTU9sTXgxVlp4bkpNUHEtWjV0WXlrQWREUkpiVjZ0VDd6S2tTb1dWSFpLZUxhbw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "50291f4a080d73",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVV6U2g2TTg0UG9CLUxmQjFzRnNybDdZdjhhcnNzcUVYdkRDX1pWdkFnbmllWG10YmJ6bjFrVVhyZllMWEFtZ0VhVzVaXzY3MGpWX1R6a2VYTVRYOUYtVHBGbDR4SFU4NUNvSE1ORDRHWlJXS1pkVU5XMk5RR2o0c0loYnBvNEd2N1BEXzNlTXRheXIzVmJjaGMxRlJFWjZmSXc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; AP News",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "42e9b7fe973bb1",
-      "title": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tRnFMT1cteWhwdjV3LVRQWmc4SkVoY2d1eXNUWjNVRlB6UExZUG8xNW5aVVM4OEljVTJMdk5pYV9QYUFVN25CRzB2dHA4QzV5eHJadHBjNS1ZeEdNc2hSdUdKN09Bby1faTVIcEp1R1ZBWU1ENmgyQVZyeEg?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon vows $1 billion for data center towns, warning U.S. \"can't afford to lose\" AI race &nbsp;&nbsp; cbsnews.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "10305adb524721",
-      "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0szSE5pQWYxdzBaZENlREdEME4ycWNxRU9nejhfMy1lZFZDR3JrUDIzNnBMaTlTeVZSWHU4SWtxMjFidFVCRGphQ2Zxd3JTTHVTU3lZOGl4ek1rdDRTNU91ZTNwSUM4NkpidGZWNjlEX1Z5amRSUXIxdUY3UHFoMnRkUzBhT0pPQjBZQVRzWnFrNW05M3M4X3pZdjlvcV9ZMXZpelB30gGrAUFVX3lxTE1oczZnM05UN0ViVWJidmFURmFLZ0w0RnEtUFJ1OC1PMl9QYzZ0SjlCYnJiWU01eWlhc2QyREZ2Q1dlWWJtSWxIcUVBbTJSNjhmcTdzWkNxRnlDaUZvU244bnVidUh4MDZOdThjSGRIV0VXZDlqTXFJNjU4QkNhTU9sTXgxVlp4bkpNUHEtWjV0WXlrQWREUkpiVjZ0VDd6S2tTb1dWSFpLZUxhbw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest $1B into data center communities amid backlash against data center rollouts &nbsp;&nbsp; abcnews.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c1bc29d11ee3ab",
-      "title": "Amazon Pledges $1 Billion for Data Center Communities as US Backlash Grows - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmhQTExoLWd2djBqVnVqT3ljZVRKQnNDNnNEZzJPUy11bFlZTFlyZktxYnhrdVZhMHZ6b3dfNnV3MzQtcXhkVVhYU3d6S2FoSzZrRG9qd1NFb1BNTmVNQmtjYWNuc1U2cVBCVW1wN2FvTWs5TjRKd2RUbFR4M2tidkJzbnJZck9fdjNuNDJJUmQ1TVBJc0ZCbWpJMG5CdmlDM19LRlFGVlZFT1k?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon Pledges $1 Billion for Data Center Communities as US Backlash Grows &nbsp;&nbsp; Newsweek",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "90ab911ee59d12",
-      "title": "Amazon pledges $1 billion to data center communities - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkgxaEdwVnpkNHlhbHFZa2tVTFdMWklwTlJnaFF5V1lpR1RSRVd4ZjhZdUJkaU00WVpQRm1kSXdZTkh0cnlqNXBxeGczTzBELXY3bUJGbHJPQVFFSjZHUkNCWDJINXBYakhGdVo4bzVsblRGTnp6eUs3VW5mNjFDbmRQejVZOTFHNzVkNk1sd3daRkZw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon pledges $1 billion to data center communities &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4038b1a39f1709",
-      "title": "Amazon investing $1B in data center communities - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMFBJMDk0OWMwU3l5RV9teUdXVjQ5bW9pb1d5NF9wZE44OEFNc3N5YXBmQ3A2ZWxDSnJiV2xkTjlBeHdEWXp0Q0RSeXFrSF9MS0NhZ09ZWTZmV3RGRXlHd1FUdlU1dFdkZzlFeDNCRnpYanMzcVowWF9ROExUNjk2cC1oRGphbUZxaWQxZXM3UTdKdVlWT0dpbTZ1ZzhTMENQZHYxaXMwNFpYQ2_SAbABQVVfeXFMT0VRNDdmS2h2SjNldEpJcFhNOHQwbjJiZDhMTDRNUVlQMEpIejVTcF80aXNxTjFBQnRSYk5KY0tqUVA4ZU91NGdTMzBReVh2TDJkRzNOakNCcDJRekNGNnlMd2pqMXNIWC0wYTV1YkdUNWFrWmZQXzlSQlpueWJIZUpxcHlGak9yOW9TanlGZGZXcEFjUlhLS09zMm5EZWoxYU9OM0lQNU5CMmRfMFJtNlY?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon investing $1B in data center communities &nbsp;&nbsp; The Hill",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 8,
       "is_high_confidence": true
     }
   ]
