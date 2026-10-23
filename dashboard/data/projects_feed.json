@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-23T03:43:46.901379+00:00",
+  "last_updated": "2026-10-23T09:09:09.861520+00:00",
   "finding_count": 600,
-  "new_project_count": 55,
-  "cancellation_count": 24,
+  "new_project_count": 54,
+  "cancellation_count": 26,
   "sec_filing_count": 2,
-  "high_confidence_count": 174,
+  "high_confidence_count": 169,
   "findings": [
     {
       "id": "6c511ec469630e",
@@ -26,6 +26,36 @@
       ],
       "confidence": 7,
       "is_high_confidence": true
+    },
+    {
+      "id": "a4338ce3c0d547",
+      "title": "Sponsored: Rethinking power infrastructure to scale AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/rethinking-power-infrastructure-to-scale-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Power is the subject of much debate in the data center industry. Rethinking how it’s structured could be the solution, ABB’s Mehdi Rajehi explains",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d750e2398f7142",
+      "title": "Sponsored: Why is Kazakhstan building Central Asia’s first Tier IV data center?",
+      "url": "https://www.datacenterdynamics.com/en/product-news/why-is-kazakhstan-building-central-asias-first-tier-iv-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-23",
+      "summary": "Following a chaotic cryptocurrency mining boom, Kazakhstan is rewriting its energy market rules to attract high-density AI workloads",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
     },
     {
       "id": "8d2788bf17ec5f",
@@ -63,6 +93,25 @@
         "$13 Billion"
       ],
       "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "ed0b9172f92033",
+      "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-22",
+      "summary": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta &nbsp;&nbsp; EnergyNow",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [
+        "$13 Billion"
+      ],
+      "confidence": 7,
       "is_high_confidence": true
     },
     {
@@ -175,8 +224,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$215 million",
-        "$215M"
+        "$215M",
+        "$215 million"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -360,23 +409,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "68ed16c84d3610",
-      "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Could invest hundreds of millions of dollars in neocloud",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "cc6693f81230a5",
       "title": "OpenAI to make its most advanced AI models available in Google Cloud",
       "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
@@ -422,6 +454,23 @@
       "finding_type": "New Project",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "68ed16c84d3610",
+      "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "Could invest hundreds of millions of dollars in neocloud",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -507,21 +556,6 @@
       "locations": [
         "Washington"
       ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b63a58648f7800",
-      "title": "US considering 35 data center-related developments on public land, land records say",
-      "url": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "17 relate to campuses, 13 to broader AI infrastructure",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -626,6 +660,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b63a58648f7800",
+      "title": "US considering 35 data center-related developments on public land, land records say",
+      "url": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-22",
+      "summary": "17 relate to campuses, 13 to broader AI infrastructure",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1036,6 +1085,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "32c30a1d86e69c",
+      "title": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWFNmWXlEdTdPdW9NZUhIUW5fSThzRnEzc0ZaX08xMWJLalVDM2lDZ0tFcWtLdTl1elQtM2p5RWJ6V1U0Zk80ZktGWVdTdWxOM1BwT1pVVUVOR3VoVG1CNXRjdU5RZXNXd09hWENNRTRJcTVtX2xneWkzcEN4X0ZtazRJb3ZaRTZlWlpPckx3cFpWQjFzRHFLZw?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-10-21",
+      "summary": "San Francisco Pauses Data Centers as AI Boom Fuels Backlash Over Power Bills, Water Ahead of Midterms &nbsp;&nbsp; Yahoo",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "653f4cbdb75a57",
       "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital, stock falls",
       "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
@@ -1409,25 +1473,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "ed0b9172f92033",
-      "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-20",
-      "summary": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta &nbsp;&nbsp; EnergyNow",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
       "id": "b1018edf31130b",
       "title": "Amazon invests S$12 billion in Singapore operations and cloud infrastructure, launches AI training scheme - Singapore Economic Development Board (EDB)",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb3JwSEZqY3VaQ0tQcUxLTUlqbXVxeGJtN3RSMC1xX2J4aW5WcjB0ZEhtQkZpQUxkQmstNmRYOEk0UnF3ckdSTU9XVkhlbkV3c1czb0pIdjVzT2k0MF81b0wySnVKcWQzNFltZmVvcnZFZk1wajRrTUkxSjBoT0U1UHA5V2dPZ21SRU1nZkhEMDhHUThPakVmTDFiZ2haWXVKcjUzNG15d01vWUhobGdSUmk2RFMtZ2MzMC1jbWh1Y3dhQXFmWmIxakpBMERNYzhFWGt2Zk13dFpUd1R2dGhMQQ?oc=5",
@@ -1759,6 +1804,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "21de5f48d0c5fb",
+      "title": "Memphis Rejects Data Center Freeze After Fight Over Musk’s AI Expansion - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUURPUXpHdEtnNU50bnpzaFhFYXdsOC1TNERKNE02Qm1aVmtGREZJdGdmVEVES1dmZ0tLNVI5cU1kNVpnNWNSd0k1SGtRcDdmMmhaalV4UjU0Q0JoWklWVk5QNS1XblUzSldQd1hPZ0lVaktNRGJYbUJfbkxqcFVITzRkdUM1VkoySlFmYlNhSkJjcUgyVXgtOW1KNnpCYUxSU2ZDNA?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-10-20",
+      "summary": "Memphis Rejects Data Center Freeze After Fight Over Musk’s AI Expansion &nbsp;&nbsp; Newsweek",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Memphis"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "a2df2bf1ff18c6",
       "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
@@ -1788,6 +1850,23 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a0c93374e556d7",
+      "title": "Watchdog group criticizes TCEQ for advancing data center permits - The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYklaLVh0Tzk5RjVjWjJrTDBiYmRra3JXYkVOV01IN2E5c0dhNDhTVkJfU0JrR3J1Uk9VT3J2YTRHaEk2cEZNdGwyWkV0N1VaRWVCVkQxMEh6YXlFbk1HMkszbWlianpSS05vTnNMMF9rQk5iSC1iT1ZkSUZ0Wk5JNXpscGdqOG11enF0OA?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-10-20",
+      "summary": "Watchdog group criticizes TCEQ for advancing data center permits &nbsp;&nbsp; The Texas Tribune",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -5412,6 +5491,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "1644c5bb431abe",
+      "title": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking - WWNO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2ZrbVl3a3VtQkpiWGo1UnpJM016cjVtNlFLLTNsUjlfYkdyd2hMSU8yWkhRTERNWHZYVlZucUFwZV9QajE3cERFMjlMUWh6cXlfbTBVb2lTd1ppaG9LUWtRMmN1aFQyMTM2RzEzQUd1YlBrMmJveEJHQnBlY1RVRkRfRGptbTNQVkd1TFR1SXc5ZzkwY0RYVHEycUVXVm9ZdmU3VjY0Y1hWc1ZYbjJwSFBLM0VyQ0lJRF8waS1CTzU?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-10-13",
+      "summary": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking &nbsp;&nbsp; WWNO",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Louisiana"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "54f90853593459",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
@@ -5477,23 +5573,6 @@
         "Meta"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1644c5bb431abe",
-      "title": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking - WWNO",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2ZrbVl3a3VtQkpiWGo1UnpJM016cjVtNlFLLTNsUjlfYkdyd2hMSU8yWkhRTERNWHZYVlZucUFwZV9QajE3cERFMjlMUWh6cXlfbTBVb2lTd1ppaG9LUWtRMmN1aFQyMTM2RzEzQUd1YlBrMmJveEJHQnBlY1RVRkRfRGptbTNQVkd1TFR1SXc5ZzkwY0RYVHEycUVXVm9ZdmU3VjY0Y1hWc1ZYbjJwSFBLM0VyQ0lJRF8waS1CTzU?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-10-13",
-      "summary": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking &nbsp;&nbsp; WWNO",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10277,101 +10356,6 @@
         "$1B"
       ],
       "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "59d71ab491dbbb",
-      "title": "Amazon is pledging $1 billion to communities near its data centers - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEdrNG5FS09ZbW5NOXZzd1M4QXdlVGUzVVJuaFZUb1hZc2ZjNVdOYk1MTVZGNV9ZTXpxS3V2a25Ub0Jfb2VzNklyWGJ5QXFzQWhfWGhBc2RBZFNjOXFLRkp6SzYwX3RqREJJTE5pemFSbWZ4TzZ0YlFrV052UjE2ZW5B?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-02",
-      "summary": "Amazon is pledging $1 billion to communities near its data centers &nbsp;&nbsp; qz.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "281f4a1be9aa91",
-      "title": "Amazon pledges $1 billion to data center communities - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkgxaEdwVnpkNHlhbHFZa2tVTFdMWklwTlJnaFF5V1lpR1RSRVd4ZjhZdUJkaU00WVpQRm1kSXdZTkh0cnlqNXBxeGczTzBELXY3bUJGbHJPQVFFSjZHUkNCWDJINXBYakhGdVo4bzVsblRGTnp6eUs3VW5mNjFDbmRQejVZOTFHNzVkNk1sd3daRkZw?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon pledges $1 billion to data center communities &nbsp;&nbsp; finance.yahoo.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cbef8184b42f7a",
-      "title": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2Q4M0R2OTNxMWVWLTlxZFpoTXdzM1FrQ0otdlB4OGQ2Ny1pRnBSQ3FaVFQ3bFlvakdGTUVPOXlTOWUxTkVBRnJ5X0N0Q1h2YUdvbGo1MGVraUVodEpYWnVucm1nWmJndl9mOXdicnV4bXZqYmM4RUNmU1dkaGZYa2RDT1lUVk9vbkZCUE93LUhHdFZhZ3BrQm90MUttSENWQnhFRjE5RXZka2J4dUloNkNqMWdmRFZKaEw4bld0OXFKNWM?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon pledges $1B to data center communities, warns that local opposition threatens U.S. AI lead &nbsp;&nbsp; GeekWire",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "85e40409c0e385",
-      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-02",
-      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1B"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "eca0b9ee2641fd",
-      "title": "Amazon to invest US$1 billion over five years in US data centre communities - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcUtfVzBxdTMxN2RzVHgtSjF5blpQT1FBQUNRT2NIRE5rejl2ZzdDR3lPdVBaeGo0ODNOaVBIdE5xc2dOTkxEQVBwUFZ3bzRmMVhpSE1ra3RDT0hmRTBjbDV6cWxSRVV6bDJWQzZnVnVpaTJ3R1MtNVhyWEYtWXZiZVpSUUI2UXFSMG5NeURmMDc0eGlnSFhZVUtRZDF6Vzl1NFhzUXFTM1hVRkJuMy0yd3hyM3lCaXRvbEFR?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-02",
-      "summary": "Amazon to invest US$1 billion over five years in US data centre communities &nbsp;&nbsp; The Business Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$1 billion"
-      ],
-      "confidence": 7,
       "is_high_confidence": true
     }
   ]
