@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-23T19:49:32.260305+00:00",
+  "last_updated": "2026-10-23T22:56:06.624943+00:00",
   "finding_count": 600,
   "new_project_count": 45,
-  "cancellation_count": 27,
+  "cancellation_count": 26,
   "sec_filing_count": 2,
   "high_confidence_count": 149,
   "findings": [
@@ -21,8 +21,8 @@
       "locations": [],
       "amounts": [
         "$1.25 trillion",
-        "$30B",
-        "$30 billion"
+        "$30 billion",
+        "$30B"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -392,6 +392,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "543ba740086ef2",
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-10-23",
+      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -2799,8 +2816,8 @@
       "companies": [],
       "locations": [],
       "amounts": [
-        "50GW",
-        "60GW"
+        "60GW",
+        "50GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10279,21 +10296,6 @@
       ],
       "confidence": 8,
       "is_high_confidence": true
-    },
-    {
-      "id": "28ac4acc79448d",
-      "title": "America’s AI race won’t be won by hitting pause on data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/americas-ai-race-wont-be-won-by-hitting-pause-on-cata-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-04",
-      "summary": "A moratorium mistake",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
     }
   ]
 }
