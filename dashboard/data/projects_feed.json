@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-01T16:36:31.778759+00:00",
+  "last_updated": "2026-11-01T21:46:25.983391+00:00",
   "finding_count": 600,
   "new_project_count": 46,
-  "cancellation_count": 28,
+  "cancellation_count": 29,
   "sec_filing_count": 2,
-  "high_confidence_count": 147,
+  "high_confidence_count": 146,
   "findings": [
     {
       "id": "fa541e467d97bb",
@@ -24,6 +24,23 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "efebd491b9cd3e",
+      "title": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout",
+      "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-11-01",
+      "summary": "2027 is largely locked in. 2028 is less secure: a prolonged Texas permit freeze is now the biggest single risk to the US buildout, and both parties are running on tighter rules",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "03676480de2f8d",
@@ -176,8 +193,8 @@
         "Finland"
       ],
       "amounts": [
-        "50MW",
-        "40MW"
+        "40MW",
+        "50MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -203,23 +220,6 @@
       "is_high_confidence": true
     },
     {
-      "id": "4995fae7890032",
-      "title": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY3VVTlNDQWhldTR1OVNqT25wb1IyS1ZpZ1NzUWtXVHl4blhiVTN4WW5VcmthbS1XemFVaWxSeTBEeHV1WjRQaXQ2LW5TeTVpTGdfa0hGNU1wX3Z1bU12dHlPeVZhOWNSVWEwdngtVHcyUWpBUmN6cUF2MVBaLWZ1dXMyd1dSQzBvQVlSbzBOeS1oeW4wWmJ1eGxwb0NtTlRfZHA4TW5fd2FGeWtVckJ6RzFwblltTGdUU0JlTDR5dG9USGdGVVMzR05URTRBdjBrN05OTVctUHZRWnBRdnfSAeIBQVVfeXFMTzZIVzJQYWpjOHJack5rX1FpeF9BNDJ1NFhvTW5qUmw5OE5QZVFmVkJCcUZKd2pWTlUzVnQtY2NaTlRhSVR2ZDlLRkpkcXI1RktGNmEwNmsyTGNxdHhaYm1zTTk3azhmSG96cm41RVlVT3EyalZrSU52eXc0dVRvbFVRTlNTS1E4dldlTUFrVFRKU1ByN2ZoYW5YRV9uLXBGbVlGMTE4dXV2bnNaWkJ6Sm1MZlgwT2taS25Jc3VPcHJobUM3a29tUkRwOVBIaXpwTXJOQ0Y5WElLb3VTUzJlWXBZdw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-10-30",
-      "summary": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai &nbsp;&nbsp; ET Datacenters",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "52 MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
       "id": "2626e1cbfd5359",
       "title": "PowerBank plans 2MW modular data center in Ontario, Canada",
       "url": "https://www.datacenterdynamics.com/en/news/powerbank-plans-2mw-modular-data-center-in-ontario-canada/",
@@ -234,6 +234,23 @@
       ],
       "amounts": [
         "2MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4995fae7890032",
+      "title": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY3VVTlNDQWhldTR1OVNqT25wb1IyS1ZpZ1NzUWtXVHl4blhiVTN4WW5VcmthbS1XemFVaWxSeTBEeHV1WjRQaXQ2LW5TeTVpTGdfa0hGNU1wX3Z1bU12dHlPeVZhOWNSVWEwdngtVHcyUWpBUmN6cUF2MVBaLWZ1dXMyd1dSQzBvQVlSbzBOeS1oeW4wWmJ1eGxwb0NtTlRfZHA4TW5fd2FGeWtVckJ6RzFwblltTGdUU0JlTDR5dG9USGdGVVMzR05URTRBdjBrN05OTVctUHZRWnBRdnfSAeIBQVVfeXFMTzZIVzJQYWpjOHJack5rX1FpeF9BNDJ1NFhvTW5qUmw5OE5QZVFmVkJCcUZKd2pWTlUzVnQtY2NaTlRhSVR2ZDlLRkpkcXI1RktGNmEwNmsyTGNxdHhaYm1zTTk3azhmSG96cm41RVlVT3EyalZrSU52eXc0dVRvbFVRTlNTS1E4dldlTUFrVFRKU1ByN2ZoYW5YRV9uLXBGbVlGMTE4dXV2bnNaWkJ6Sm1MZlgwT2taS25Jc3VPcHJobUM3a29tUkRwOVBIaXpwTXJOQ0Y5WElLb3VTUzJlWXBZdw?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-10-30",
+      "summary": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai &nbsp;&nbsp; ET Datacenters",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "52 MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -612,8 +629,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$55 million",
-        "$55M"
+        "$55M",
+        "$55 million"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -10260,25 +10277,6 @@
       "locations": [],
       "amounts": [
         "1.6MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "48996d3671a99f",
-      "title": "Serverfarm tops out first data center at Arkansas campus",
-      "url": "https://www.datacenterdynamics.com/en/news/serverfarm-tops-out-first-data-center-at-arkansas-campus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-12",
-      "summary": "Building to offer 108MW across 300,000 sq ft",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Arkansas"
-      ],
-      "amounts": [
-        "108MW"
       ],
       "confidence": 5,
       "is_high_confidence": true
