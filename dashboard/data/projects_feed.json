@@ -1,11 +1,81 @@
 {
-  "last_updated": "2026-11-01T08:50:16.946294+00:00",
+  "last_updated": "2026-11-01T16:36:31.778759+00:00",
   "finding_count": 600,
   "new_project_count": 46,
-  "cancellation_count": 29,
+  "cancellation_count": 28,
   "sec_filing_count": 2,
   "high_confidence_count": 147,
   "findings": [
+    {
+      "id": "fa541e467d97bb",
+      "title": "Agent demand can’t be forecast, meaning the database has to be ready for anything",
+      "url": "https://siliconangle.com/2026/11/01/agentic-ai-architecture-demands-real-time-databases-evolve26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-01",
+      "summary": "Enterprises building an agentic AI architecture are learning that the database matters as much as the model. AI agents fire off thousands of unplanned queries at once — and expect answers in milliseconds. PhoenixAI, the trade name of CelerData Inc., raised $80 million this year to develop database technology for AI agents to solve this [&#8230;] \n The post  Agent demand can&#8217;t be forecast, meaning the database has to be ready for anything  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "xAI"
+      ],
+      "locations": [],
+      "amounts": [
+        "$80 million"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "03676480de2f8d",
+      "title": "What could 1,000x more reliable quantum computation unlock?",
+      "url": "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-01",
+      "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "960a592178ce80",
+      "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-01",
+      "summary": "Building maintenance needs more attention",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bd62d1ecbe5d81",
+      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-31",
+      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [
+        "$13 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
     {
       "id": "98d49032259cca",
       "title": "Google, Anthropic and others to support new AI crawling opt-out standard",
@@ -91,27 +161,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "bd62d1ecbe5d81",
-      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-30",
-      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "be3ba73d75889d",
       "title": "Google buys 56 hectares in Hamina, Finland, amid ongoing issues over Muhos tree-felling",
       "url": "https://www.datacenterdynamics.com/en/news/google-buys-56-hectares-in-hamina-finland-amid-ongoing-issues-over-muhos-tree-felling/",
@@ -127,8 +176,8 @@
         "Finland"
       ],
       "amounts": [
-        "40MW",
-        "50MW"
+        "50MW",
+        "40MW"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -147,8 +196,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$130M",
-        "$130 million"
+        "$130 million",
+        "$130M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -331,21 +380,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "607fd79c13b224",
-      "title": "The network wall: why switches aren’t scaling fast enough for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-network-wall-why-switches-arent-scaling-fast-enough-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "A failure to scale could hurt data center operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "24f90993972e19",
       "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
       "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
@@ -423,6 +457,21 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "607fd79c13b224",
+      "title": "The network wall: why switches aren’t scaling fast enough for AI data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/the-network-wall-why-switches-arent-scaling-fast-enough-for-ai-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-10-30",
+      "summary": "A failure to scale could hurt data center operators",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -563,8 +612,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$55M",
-        "$55 million"
+        "$55 million",
+        "$55M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -4925,7 +4974,7 @@
       "id": "06da8d0ee06437",
       "title": "Türkiye announces $4.1 billion investment in Ankara data center campus - AzerNews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuSF95SWFYWmMtWEc5REZpQlpyMGRLNk1qZU92LWRsQ2hGVmFCd2ZadFdRN0h3Y1JJcjhHVG96YU91c1VELW85X2EtYllGVTdTcUM2SQ?oc=5",
-      "source": "GNews: breaks ground data center",
+      "source": "GNews: data center announce invest",
       "source_cat": "Announcement",
       "date": "2026-10-21",
       "summary": "Türkiye announces $4.1 billion investment in Ankara data center campus &nbsp;&nbsp; AzerNews",
@@ -5266,6 +5315,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "20770415a7d835",
+      "title": "The Economic Impact of Data Centers in Iowa - Common Sense Institute",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHBoVy03VHBOc3VvcWtfRGh5XzRaczhac0wyUjVXVWkwQk5TaXhVV2RuSkVGOVVOUjVnVEdvdVF1WWJyUjhYcHhidkdlYjJ0TjJPdV9HczFCeVpKUWNIV1phUkJvdjV6NDNnWEtxTXpXRHRLaHhjZndmdGtUYWMzTmRfZjFSb0VYOUVyWnY5YjRZUQ?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-10-21",
+      "summary": "The Economic Impact of Data Centers in Iowa &nbsp;&nbsp; Common Sense Institute",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Iowa"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "17d08a56146ade",
       "title": "AI Data Centers: Environmental Disaster or Groundbreaking Innovation? - KnowBe4 Blog",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0s1VEVXdERyc0J0em12R3IycFNKZVQwbkctYXB6TjZsSGVGS3R5UVVyMkY3YlNjaHpKTXVfaVRLMGJldEthMWNJUHI5Y3RVWUczT05MV2g3YjJUandJZzllSU14SmczZ2xvNGRLN0VKT2JCakdmMG1wMUp2d3NCX0JwSXFTaWNjS3hQME9UX1l4b0hXd2hB?oc=5",
@@ -5276,23 +5342,6 @@
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "20770415a7d835",
-      "title": "The Economic Impact of Data Centers in Iowa - Common Sense Institute",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHBoVy03VHBOc3VvcWtfRGh5XzRaczhac0wyUjVXVWkwQk5TaXhVV2RuSkVGOVVOUjVnVEdvdVF1WWJyUjhYcHhidkdlYjJ0TjJPdV9HczFCeVpKUWNIV1phUkJvdjV6NDNnWEtxTXpXRHRLaHhjZndmdGtUYWMzTmRfZjFSb0VYOUVyWnY5YjRZUQ?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-10-21",
-      "summary": "The Economic Impact of Data Centers in Iowa &nbsp;&nbsp; Common Sense Institute",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Iowa"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -6447,6 +6496,24 @@
       "is_high_confidence": true
     },
     {
+      "id": "9ce6540ad62256",
+      "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year",
+      "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-10-19",
+      "summary": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "50GW",
+        "60GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "5ab09314c0263f",
       "title": "Türkiye breaks ground on $4.1B Ankara data center complex | Daily Sabah - Daily Sabah",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1J5cUQ1cVJaU19GV21MeDBfZ1ltTTVMMml3cTVXZmNybnRWODlFTGtNcFFFckVNU3RnY0xFWjFpaHh3RDlvcUp1NGEzQzdqemt0VjFBX0xDQnVidUFLWTdfMUhCU2tnT1dYZHBDaHBtQkl1Zml2T1V0SUZmXzhvV2FJY0RoeDQ0WFJucEFrSFZDOU9QMFhoelN2TkTSAaIBQVVfeXFMTklkcUQ1Uzh1SGFuRkVnbmZNTVlSUVlrM2pzMllmWGJSRHdWa2Nvcmc1eVpTc09mSTBOSUZVRE1iVXVtbWZIWU9TTERPRXZ0MWtsNEJOTTJDaTNqTnFxaFJwZHNxNW1sdFk3T0FXbWdPUEFreDE5Vk9MQ0lLU29SaDZZVkFoVURGZVlxQ2RSam8zTmdsS1ZWb2FQSld1LVdTTG1B?oc=5",
@@ -6459,24 +6526,6 @@
       "locations": [],
       "amounts": [
         "$4.1B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "9ce6540ad62256",
-      "title": "Datacenters 2027: The Year of Acceleration, +50GW in a Single Year",
-      "url": "https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-10-19",
-      "summary": "60GW Under Construction, SemiAnalysis Leading Indicators, 1.3T of Lease Contracts Signed YTD, The Shortage Could Move to Chips",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "60GW",
-        "50GW"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -9685,23 +9734,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1644c5bb431abe",
-      "title": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking - WWNO",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2ZrbVl3a3VtQkpiWGo1UnpJM016cjVtNlFLLTNsUjlfYkdyd2hMSU8yWkhRTERNWHZYVlZucUFwZV9QajE3cERFMjlMUWh6cXlfbTBVb2lTd1ppaG9LUWtRMmN1aFQyMTM2RzEzQUd1YlBrMmJveEJHQnBlY1RVRkRfRGptbTNQVkd1TFR1SXc5ZzkwY0RYVHEycUVXVm9ZdmU3VjY0Y1hWc1ZYbjJwSFBLM0VyQ0lJRF8waS1CTzU?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-10-13",
-      "summary": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking &nbsp;&nbsp; WWNO",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Louisiana"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "54f90853593459",
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
       "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
@@ -9731,6 +9763,23 @@
         "Meta"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1644c5bb431abe",
+      "title": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking - WWNO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2ZrbVl3a3VtQkpiWGo1UnpJM016cjVtNlFLLTNsUjlfYkdyd2hMSU8yWkhRTERNWHZYVlZucUFwZV9QajE3cERFMjlMUWh6cXlfbTBVb2lTd1ppaG9LUWtRMmN1aFQyMTM2RzEzQUd1YlBrMmJveEJHQnBlY1RVRkRfRGptbTNQVkd1TFR1SXc5ZzkwY0RYVHEycUVXVm9ZdmU3VjY0Y1hWc1ZYbjJwSFBLM0VyQ0lJRF8waS1CTzU?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-10-13",
+      "summary": "Hut 8 donated to Gov. Landry's PAC months before Louisiana data center groundbreaking &nbsp;&nbsp; WWNO",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Louisiana"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -10233,62 +10282,6 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
-    },
-    {
-      "id": "64ff62e30bd945",
-      "title": "Google Defends $15B India AI Hub Amid Water Fears [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWjA2N2pZb2dQSlEtT0JWOHBPVldrQzRHdnU1eU51bjFlTGFXVWRhblZZOWNMV3lENDFFdjFhTTcyTm9weVlBdFM2bnhYZFFaOVVGX3E0bjZ0UUpVaFMzeGlNZDJMSkF5aGlkVGNlODlqVF9RSTJRME9NaDdTTTlUQw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-12",
-      "summary": "Google Defends $15B India AI Hub Amid Water Fears [2026] &nbsp;&nbsp; https://tech-insider.org/",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "India"
-      ],
-      "amounts": [
-        "$15B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fa86343f3e3a05",
-      "title": "Microsoft debuts multichiplet Maia 300 inference accelerator",
-      "url": "https://siliconangle.com/2026/10/12/microsoft-debuts-multichiplet-maia-300-inference-accelerator/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-12",
-      "summary": "Microsoft Corp. today pulled back the curtains on Maia 300, its newest internally developed artificial intelligence accelerator. The chip is optimized for inference, the process of generating responses to AI queries. Microsoft estimates that it can process 40% more tokens per megawatt than “leading GPU-based systems,” which is likely a reference to Nvidia Corp. products. [&#8230;] \n The post  Microsoft debuts multichiplet Maia 300 inference accelerator  appeared first on  SiliconANGLE .",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Microsoft",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c0964bdee14fd5",
-      "title": "SoftBank eyes possible AI data center project in Borneo",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-eyes-possible-ai-data-center-project-in-borneo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-12",
-      "summary": "Company partners with tech company Grab and a government-owned oil and gas firm",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
     }
   ]
 }
