@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T15:27:06.806663+00:00",
+  "last_updated": "2026-11-09T23:58:34.857483+00:00",
   "finding_count": 600,
-  "new_project_count": 93,
-  "cancellation_count": 30,
-  "sec_filing_count": 0,
-  "high_confidence_count": 183,
+  "new_project_count": 94,
+  "cancellation_count": 32,
+  "sec_filing_count": 1,
+  "high_confidence_count": 187,
   "findings": [
     {
       "id": "c90cfddcf399a1",
@@ -26,6 +26,60 @@
       "is_high_confidence": true
     },
     {
+      "id": "09e00146a4f155",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-11-09",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "012a979a551678",
+      "title": "Alphabet’s Wing to invest $125M in new delivery drone factory",
+      "url": "https://siliconangle.com/2026/11/09/alphabets-wing-to-invest-125m-in-new-delivery-drone-factory/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-09",
+      "summary": "Wing Aviation LLC today announced plans to spend $125 million on the construction of a new delivery drone factory.  The initiative is part of a broader investment that also encompasses the Alphabet Inc. unit’s research and development teams in California. Additionally, Wing stated that it plans to invest in the communities where it operates. It [&#8230;] \n The post  Alphabet’s Wing to invest $125M in new delivery drone factory  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "California"
+      ],
+      "amounts": [
+        "$125 million",
+        "$125M"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "535998a95fc8a4",
+      "title": "On theCUBE Pod: Blue wave sends AI stock plunging",
+      "url": "https://siliconangle.com/2026/11/09/midterms-ai-data-centers-thecubepod/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-09",
+      "summary": "The very blue results of last week’s midterms have sent technology investors into a tailspin. With many successful candidates running on platforms opposing data centers and calling for greater restrictions on artificial intelligence, investors anticipate a slowdown in AI spending. Tech stocks fell, with a collective loss of $2.5 trillion in market cap, and the [&#8230;] \n The post  On theCUBE Pod: Blue wave sends AI stock plunging  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$2.5 trillion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "c2b55a50bf3211",
       "title": "AWS commits $100M in AI and cloud credits to health groups in underserved communities",
       "url": "https://siliconangle.com/2026/11/09/aws-commits-100m-in-ai-and-cloud-credits-to-health-groups-in-underserved-communities/",
@@ -39,10 +93,27 @@
       ],
       "locations": [],
       "amounts": [
-        "$100M",
-        "$100 million"
+        "$100 million",
+        "$100M"
       ],
       "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "481766c4d23ceb",
+      "title": "Former US DOE staffers launch modular data center firm Mavria",
+      "url": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Raises $130m to scale factory-built data center platform",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$130m"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -103,6 +174,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "307fef3ac6e9ad",
+      "title": "Norway's grid operator and Australia's NextDC pause data center growth as limits spread from Texas - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjQ0eEVfNklVaHVsZ0dQaThaMXB4eTN4MGhhd3lsck5UZjg4dHpsTzV0dDNaVkU5OUlFU0E5QUtMWUZYeEpwX015MHR1RWZ2eFBLbGN6ejIycEVLem92MGFTT182cUxnVXpaVWZMUFNfcmlkajcxcnFibEdaNl9WMlR6Mzg3NzJZN21wRkN5aWhObGFDdmMxWkZzSjBXZjItaDdBU1JITXRTMFNQd3d6ZVJuZjdwRnQ5?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-11-09",
+      "summary": "Norway's grid operator and Australia's NextDC pause data center growth as limits spread from Texas &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Texas",
+        "Norway",
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "c6a77ae200ecfd",
       "title": "40% of Planned U.S. Data Center Capacity Faces Potential Construction Pauses - Program Business",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbG0xNGQ0Z3BXWjRJUWpWaGRWb0JlS0NEbWNYeVkta2pVT3ptT085QzdodVNPMGgtcDd6SW1NazkxR1FuT2ZTZmdFeEVVV1pDTFlFQXQ3LUhZSFFIc3Y1N0lfTGROa0NyWVNDbkhoR29neGZQQWVxYTFXOUR4ejUzbnNjeXE2ZWxJY0hZREtzSXNoUXVubE9IRE90RVFOcW5tUWVoYmFZSEs1SDdL?oc=5",
@@ -112,6 +202,55 @@
       "summary": "40% of Planned U.S. Data Center Capacity Faces Potential Construction Pauses &nbsp;&nbsp; Program Business",
       "finding_type": "Cancellation / Pause",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0db725a79e60b8",
+      "title": "Norway halts grid connection applications for new data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Seeks to limit rapid buildout while regulation catches up",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [
+        "Norway"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "980711e17adbdc",
+      "title": "AI’s next infrastructure constraint",
+      "url": "https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Data center expansions have long been represented in gigawatts, but measurements of terabits-second and microseconds are now entering the constraint conversation",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "21ed2e1bb965e2",
+      "title": "Despite spying scandal, Trump stands by Nvidia boss Jensen Huang",
+      "url": "https://siliconangle.com/2026/11/09/despite-spying-scandal-trump-stands-by-nvidia-boss-jensen-huang/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-09",
+      "summary": "The revelations this weekend that Nvidia Corp. boss Jensen Huang had an extramarital affair with a woman who has been accused of working for Chinese intelligence have now ensnared U.S. President Donald Trump, raising further questions about national security. Nvidia said on Monday it has launched an investigation into Chief Executive Huang’s actions after he [&#8230;] \n The post  Despite spying scandal, Trump stands by Nvidia boss Jensen Huang  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 3,
@@ -133,6 +272,55 @@
       "is_high_confidence": false
     },
     {
+      "id": "601816f3fcc0bc",
+      "title": "Mastering compliance",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Reporting strategies for data center sustainability",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "efe30a45af1aee",
+      "title": "New Jersey Senate passes bill banning data center-related NDAs",
+      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Bill now goes to NJ Assembly",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "New Jersey"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c7d329fc2c3a27",
+      "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
+      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-09",
+      "summary": "Also behind project to develop Kurri Kurri smelter into data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Australia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "622a52101a020b",
       "title": "Nvidia looks to tap Brightspeed central offices for inference network - report",
       "url": "https://www.datacenterdynamics.com/en/news/nvidia-looks-to-tap-brightspeed-central-offices-for-inference-network-report/",
@@ -143,6 +331,127 @@
       "finding_type": "Statement / Update",
       "companies": [
         "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8188820aa42db1",
+      "title": "Google advances agentic AI custom silicon expanding TPU family with 8tx and 8i Max",
+      "url": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-09",
+      "summary": "Google LLC today introduced two new specialized silicon chips for artificial intelligence to its eighth-generation Tensor Processing Unit architecture family, aimed at higher compute density and secure inference. At Google Cloud Next 2026 in April, Google introduced two specialized TPUs in the same generation, 8t for large-scale training and 8i designed for real-time reasoning. At the time, [&#8230;] \n The post  Google advances agentic AI custom silicon expanding TPU family with 8tx and 8i Max  ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "35b11d51639ce5",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-09",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5f67dd1c777c4a",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-09",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "492ab96e6edf2d",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-09",
+      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4db114bf4e524b",
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-11-09",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "874f4b61b043ec",
+      "title": "Developers can now build with Google Maps Platform in AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-09",
+      "summary": "Developers can now build with Google Maps Platform in AI Studio.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4c196f67e4f333",
+      "title": "Expanding Teen Account Protections to Teens Around the World",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-09",
+      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. \n The post  Expanding Teen Account Protections to Teens Around the World  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -234,40 +543,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "8188820aa42db1",
-      "title": "Google advances agentic AI custom silicon expanding TPU family with 8tx and 8i Max",
-      "url": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-09",
-      "summary": "Google LLC today introduced two new specialized silicon chips for artificial intelligence to its eighth-generation Tensor Processing Unit architecture family, aimed at higher compute density and secure inference. At Google Cloud Next 2026 in April, Google introduced two specialized TPUs in the same generation, 8t for large-scale training and 8i designed for real-time reasoning. At the time, [&#8230;] \n The post  Google advances agentic AI custom silicon expanding TPU family with 8tx and 8i Max  ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4c196f67e4f333",
-      "title": "Expanding Teen Account Protections to Teens Around the World",
-      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-09",
-      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. \n The post  Expanding Teen Account Protections to Teens Around the World  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "87f8d9f218e304",
       "title": "Broadcom open-sources its Kubernetes VM manager",
       "url": "https://siliconangle.com/2026/11/09/broadcom-open-sources-its-kubernetes-vm-manager/",
@@ -280,6 +555,21 @@
       "locations": [],
       "amounts": [],
       "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ca1e86ad2d31d1",
+      "title": "Cisco research: Trust, not technology, is now the speed limit on enterprise AI",
+      "url": "https://siliconangle.com/2026/11/09/cisco-research-trust-not-technology-is-now-the-speed-limit-on-enterprise-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-09",
+      "summary": "For several years, the conversation about enterprise artificial intelligence has focused on capability: which model is smartest and which GPU is fastest. That made sense when technology was the constraint. It isn&#8217;t anymore. AI can now do far more than most organizations will allow, and the gap is trust. That&#8217;s the core finding of &#8220;Permission [&#8230;] \n The post  Cisco research: Trust, not technology, is now the speed limit on enterprise AI  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -407,23 +697,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2b2026da6a6774",
-      "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-08",
-      "summary": "Huang previously denied any relationship with Megaspeed exec",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "480d430ffa1d07",
       "title": "Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy",
       "url": "https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/",
@@ -438,6 +711,23 @@
       "locations": [
         "Singapore"
       ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2b2026da6a6774",
+      "title": "Nvidia CEO Jensen Huang admits affair with alleged Chinese spy, board to investigate",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-08",
+      "summary": "Huang previously denied any relationship with Megaspeed exec",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 3,
       "is_high_confidence": false
@@ -458,27 +748,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "6e1dfe8f856a82",
-      "title": "Crusoe sells its stalled Wyoming data center site to Google, which plans a $17 billion campus there - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY081UDVzQ2ZwSjVoTFRYbTgxZUNoZVpHM1hKQVBiMFZBRC1KN0ttbnYzeWZHaU1BQXBBdmRLOUdPaFphcThKNDZjOEpzUURraHlHVHRtTjJrYi1mLUw0RXpUV1haUnlRMWktZUMxb3ZtT3BpMGZKdGNyejY5bFRmT0hVcVR3T3NaUk9QbjRDeERfY0xlNHVGWjViX1c5VkE1OE4zZ3c0SVJzVWlwQ1pHTmdXYlJuMW16c0E?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-07",
-      "summary": "Crusoe sells its stalled Wyoming data center site to Google, which plans a $17 billion campus there &nbsp;&nbsp; MLQ.ai",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Wyoming"
-      ],
-      "amounts": [
-        "$17 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "3fd80c65ff00ee",
       "title": "Google Buys Wyoming Data Center Site From Crusoe After $17 Billion AI Buildout Pledge - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40Ymxpd1FhSFdKNWdvcjVuTkw0Q3FGSWtZWEszMkEtcmdtUHZrZ2hUaFVjTnJLN3doSkxBcm8yRXRpcDRnRlNGcGo5ZmxaYVRYU2M4RHpCQnRha2ZheGtqeVJVLXhZZHV5YlJnUEtya3pfU0FRWmc?oc=5",
@@ -495,6 +764,27 @@
       ],
       "amounts": [
         "$17 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6e1dfe8f856a82",
+      "title": "Crusoe sells its stalled Wyoming data center site to Google, which plans a $17 billion campus there - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY081UDVzQ2ZwSjVoTFRYbTgxZUNoZVpHM1hKQVBiMFZBRC1KN0ttbnYzeWZHaU1BQXBBdmRLOUdPaFphcThKNDZjOEpzUURraHlHVHRtTjJrYi1mLUw0RXpUV1haUnlRMWktZUMxb3ZtT3BpMGZKdGNyejY5bFRmT0hVcVR3T3NaUk9QbjRDeERfY0xlNHVGWjViX1c5VkE1OE4zZ3c0SVJzVWlwQ1pHTmdXYlJuMW16c0E?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-07",
+      "summary": "Crusoe sells its stalled Wyoming data center site to Google, which plans a $17 billion campus there &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Wyoming"
+      ],
+      "amounts": [
+        "$17 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -694,9 +984,9 @@
       ],
       "locations": [],
       "amounts": [
-        "$1.25T",
         "$11B",
-        "$11 billion"
+        "$11 billion",
+        "$1.25T"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -936,13 +1226,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "cc73590bb7d160",
-      "title": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWllSzJhdDJkQzRJSGRqb3hTaDJ5SnlFMGhYMDByS3dQRV9BdjR6eXRXSU9Cd2g2UDhlR1A5N2VWNnVkSmtBVzViVGRTdlU1bk90cVNDa3BfVld1aEtyNG5WWUdLYmRMWHhDSklHOUFhZllVcVRCN0NZdnp2NUpyOVF5WnA1Mkd1ZnZlMDFwb3otMldnZV9kdVUteHRBbUlPeHRmWl9DU3NoQUxjQkhwRnR5eDU5dw?oc=5",
+      "id": "b774c2a57d1120",
+      "title": "Several Democrats renew calls for datacenter pauses after blue wave - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVlBaF9ySDJtNHBSYkZBYkVTQ1g4cHlER2ZIYnFzakVsUDBSTXpHVXhLU0lWVU83N05INjluWHZVWnBvcVg3YTlHTG5BU0pHRDFKY1NYYlFRZHBVMlQ2cDJmdzFteTV6NHFiYVpETkd1RThhTGFhdWIzWVVxRWRCQWUtUEFqTDFCU3hXbVk0amwyOWZHdWc?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-11-06",
-      "summary": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause &nbsp;&nbsp; Bloomberg.com",
+      "summary": "Several Democrats renew calls for datacenter pauses after blue wave &nbsp;&nbsp; The Guardian",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
@@ -951,13 +1241,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "b774c2a57d1120",
-      "title": "Several Democrats renew calls for datacenter pauses after blue wave - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVlBaF9ySDJtNHBSYkZBYkVTQ1g4cHlER2ZIYnFzakVsUDBSTXpHVXhLU0lWVU83N05INjluWHZVWnBvcVg3YTlHTG5BU0pHRDFKY1NYYlFRZHBVMlQ2cDJmdzFteTV6NHFiYVpETkd1RThhTGFhdWIzWVVxRWRCQWUtUEFqTDFCU3hXbVk0amwyOWZHdWc?oc=5",
+      "id": "cc73590bb7d160",
+      "title": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWllSzJhdDJkQzRJSGRqb3hTaDJ5SnlFMGhYMDByS3dQRV9BdjR6eXRXSU9Cd2g2UDhlR1A5N2VWNnVkSmtBVzViVGRTdlU1bk90cVNDa3BfVld1aEtyNG5WWUdLYmRMWHhDSklHOUFhZllVcVRCN0NZdnp2NUpyOVF5WnA1Mkd1ZnZlMDFwb3otMldnZV9kdVUteHRBbUlPeHRmWl9DU3NoQUxjQkhwRnR5eDU5dw?oc=5",
       "source": "GNews: data center cancel pause halt",
       "source_cat": "Cancellation",
       "date": "2026-11-06",
-      "summary": "Several Democrats renew calls for datacenter pauses after blue wave &nbsp;&nbsp; The Guardian",
+      "summary": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause &nbsp;&nbsp; Bloomberg.com",
       "finding_type": "Cancellation / Pause",
       "companies": [],
       "locations": [],
@@ -1126,6 +1416,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "8277bc5eba0cf7",
+      "title": "Design the Muse App, Just for You",
+      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-06",
+      "summary": "Today, we're introducing spaces, an interactive way to build a more customized experience in the Muse app.  \n The post  Design the Muse App, Just for You  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "531816f6c0ccde",
       "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
       "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
@@ -1150,23 +1457,6 @@
       "source_cat": "Tech News",
       "date": "2026-11-06",
       "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8277bc5eba0cf7",
-      "title": "Design the Muse App, Just for You",
-      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-06",
-      "summary": "Today, we're introducing spaces, an interactive way to build a more customized experience in the Muse app.  \n The post  Design the Muse App, Just for You  appeared first on  Meta Newsroom .",
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
@@ -2209,57 +2499,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "dd304d5f5fba28",
-      "title": "Oracle wants to pull stalled AI agents out of demo mode and into production",
-      "url": "https://siliconangle.com/2026/11/05/ai-architecture-gaps-keep-agents-demo-mode-oracleaiworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-05",
-      "summary": "Companies want AI agents faster than they can build the AI architecture to run them. Most can put together a convincing demo. Far fewer can move agents into production without exposing data, hurting uptime or blowing their budgets. That gap is pushing database providers to rethink what a data platform for agents has to deliver. [&#8230;] \n The post  Oracle wants to pull stalled AI agents out of demo mode and into production  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d6fe1392d097ce",
-      "title": "Oracle’s multicloud approach: Put the database wherever AI pipelines already run",
-      "url": "https://siliconangle.com/2026/11/05/real-time-data-pipelines-drive-oracle-s-multicloud-database-oracleaiworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-05",
-      "summary": "Enterprises racing to put AI agents into production are learning that real-time data pipelines matter as much as the models. An agent working from a stale subset of corporate records delivers far less than one wired into live, mission-critical data. That shift is changing how companies decide where their databases run. Oracle Corp. has pushed [&#8230;] \n The post  Oracle&#8217;s multicloud approach: Put the database wherever AI pipelines already run  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "14e16e77b4b079",
-      "title": "Box taps Nvidia’s AI models to build a rich context layer for autonomous enterprise agents",
-      "url": "https://siliconangle.com/2026/11/05/box-taps-nvidias-ai-models-to-build-a-rich-context-layer-for-autonomous-enterprise-agents/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-05",
-      "summary": "Few technology firms have embraced the arrival of artificial intelligence agents quite like Box Inc., and today it went even further down the road to automation with an expanded partnership with Nvidia Corp. At its annual customer conference BoxWorks 2026, Box debuted a new retrieval engine that’s powered by Nvidia’s AI models and designed to [&#8230;] \n The post  Box taps Nvidia&#8217;s AI models to build a rich context layer for autonomous enterprise agents  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a356c5f1f42ac3",
       "title": "The Iron(wood) Throne: Google's TPU Stakes Its Claim on Inference",
       "url": "https://newsletter.semianalysis.com/p/tpu-strikes-the-king",
@@ -2322,6 +2561,57 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dd304d5f5fba28",
+      "title": "Oracle wants to pull stalled AI agents out of demo mode and into production",
+      "url": "https://siliconangle.com/2026/11/05/ai-architecture-gaps-keep-agents-demo-mode-oracleaiworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-05",
+      "summary": "Companies want AI agents faster than they can build the AI architecture to run them. Most can put together a convincing demo. Far fewer can move agents into production without exposing data, hurting uptime or blowing their budgets. That gap is pushing database providers to rethink what a data platform for agents has to deliver. [&#8230;] \n The post  Oracle wants to pull stalled AI agents out of demo mode and into production  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d6fe1392d097ce",
+      "title": "Oracle’s multicloud approach: Put the database wherever AI pipelines already run",
+      "url": "https://siliconangle.com/2026/11/05/real-time-data-pipelines-drive-oracle-s-multicloud-database-oracleaiworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-05",
+      "summary": "Enterprises racing to put AI agents into production are learning that real-time data pipelines matter as much as the models. An agent working from a stale subset of corporate records delivers far less than one wired into live, mission-critical data. That shift is changing how companies decide where their databases run. Oracle Corp. has pushed [&#8230;] \n The post  Oracle&#8217;s multicloud approach: Put the database wherever AI pipelines already run  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "14e16e77b4b079",
+      "title": "Box taps Nvidia’s AI models to build a rich context layer for autonomous enterprise agents",
+      "url": "https://siliconangle.com/2026/11/05/box-taps-nvidias-ai-models-to-build-a-rich-context-layer-for-autonomous-enterprise-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-05",
+      "summary": "Few technology firms have embraced the arrival of artificial intelligence agents quite like Box Inc., and today it went even further down the road to automation with an expanded partnership with Nvidia Corp. At its annual customer conference BoxWorks 2026, Box debuted a new retrieval engine that’s powered by Nvidia’s AI models and designed to [&#8230;] \n The post  Box taps Nvidia&#8217;s AI models to build a rich context layer for autonomous enterprise agents  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -10235,285 +10525,6 @@
       "source_cat": "Announcement",
       "date": "2026-10-21",
       "summary": "AI Data Centers: Environmental Disaster or Groundbreaking Innovation? &nbsp;&nbsp; KnowBe4 Blog",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "33f491ac57ff66",
-      "title": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
-      "url": "https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-21",
-      "summary": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "63df3bb90173b6",
-      "title": "Nvidia turns the AI factory into a product, and agents into the workload",
-      "url": "https://siliconangle.com/2026/10/21/nvidia-turns-the-ai-factory-into-a-product-and-agents-into-the-workload/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-21",
-      "summary": "For most of the past half-decade, the narrative around Nvidia Corp. has largely centered on the graphics processing unit. The questions have been who has allocation, how much faster the next generation is and whether anyone can close the gap. At GTC Berlin early today, Chief Executive Jensen Huang spent surprisingly little of his keynote [&#8230;] \n The post  Nvidia turns the AI factory into a product, and agents into the workload  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b86218b8ed979d",
-      "title": "Era4 ties financial sovereignty to Britain’s AI infrastructure",
-      "url": "https://siliconangle.com/2026/10/21/era4-ties-financial-sovereignty-britains-ai-infrastructure-hpesovereignai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-21",
-      "summary": "Financial sovereignty is becoming a practical question for nations building AI infrastructure: Who controls the systems, and where does the money go? As AI moves into everyday business applications, those decisions extend from the technology supply chain to the communities hosting data centers. Era4 Ltd. is approaching that challenge through a network of U.K.-owned AI [&#8230;] \n The post  Era4 ties financial sovereignty to Britain’s AI infrastructure  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4b1c2c33b8c7de",
-      "title": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
-      "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-21",
-      "summary": "Google LLC is striving to pry open Nvidia Corp.’s grip on the artificial intelligence computing industry with the launch of a specialized version of the open-source PyTorch framework, called TorchTPU, which is designed to eliminate a key advantage of its rival. One of the reasons why Nvidia and its graphics processing units remain so dominant [&#8230;] \n The post  Google unveils TorchTPU in a push to break Nvidia&#8217;s stranglehold on AI compute  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "480cf4cd1a671a",
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-21",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cb1f97fcec3f73",
-      "title": "Meta beats on revenue and splits its stock with nonvoting shares to raise capital",
-      "url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-21",
-      "summary": "Meta Platforms Inc. shares rose about 2% in after-hours trading today after the social networking company beat third-quarter revenue expectations and unveiled nonvoting Class C shares that will act as a two-for-one stock split. For the quarter ended on Sept. 30, Meta reported diluted earnings per share of $3.83, up from $1.05 a year earlier, [&#8230;] \n The post  Meta beats on revenue and splits its stock with nonvoting shares to raise capital  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5ccb327266364e",
-      "title": "Memphis councilors reject 18-month data center moratorium",
-      "url": "https://www.datacenterdynamics.com/en/news/memphis-data-center-moratorium-xai-elon-musk/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "Instead, they ban new projects for 135 days",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Memphis"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2c9df6af94e026",
-      "title": "BT bolsters 5G Standalone footprint, confirms AI-RAN trials with Nokia, Nvidia",
-      "url": "https://www.datacenterdynamics.com/en/news/bt-bolsters-5g-standalone-footprint-confirms-ai-ran-trials-with-nokia-nvidia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "The AI-RAN trials are set to take place in the UK's second city next year",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a15d4207487700",
-      "title": "Russian forces destroy GigaCenter data center in Kyiv, Ukraine",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-forces-destroy-gigacenter-data-center-in-kyiv-ukraine/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "As Ukrainian forces attack telecoms facilities in Russian-occupied Donetsk and Luhansk",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eda8dab80d4b71",
-      "title": "Water harvesting firm Aquaria launches pilot for modular onsite water supply system for data center sector",
-      "url": "https://www.datacenterdynamics.com/en/news/water-harvesting-firm-aquaria-launches-pilot-for-modular-onsite-water-supply-system-for-data-center-sector/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "First units to be shipped in Q3 2027",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "656501ba1b4c2e",
-      "title": "atNorth tops out latest data center in Espoo, Finland",
-      "url": "https://www.datacenterdynamics.com/en/news/atnorth-tops-out-latest-data-center-in-espoo-finland/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "Company adding five-story building to campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Finland"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5e3958217b0c2c",
-      "title": "Equinix EPIC: Colo giant launches liquid-cooled testing environment for AI workloads",
-      "url": "https://www.datacenterdynamics.com/en/news/equinix-epic-ai-data-center-colocation/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "Available at four data centers, more to be added",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "462585b44e4f57",
-      "title": "President Trump: Data center firms should offer local residents dividends to get communities on-side",
-      "url": "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "President says to 'make deals and get data centers built'",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8afe05980b8aa5",
-      "title": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
-      "url": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "Japanese giant inks MoU with Italian energy firm",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "28a5295fa46530",
-      "title": "Nvidia GTC Berlin keynote disrupted by Greenpeace activists",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-gtc-berlin-keynote-disrupted-by-greenpeace-activists/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "‘Nvidia, clean up your dirty business,’ - protesters heckle Jensen Huang",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6967dc23408963",
-      "title": "Sponsored: Shadeform launches Flex VMs, turning any bare-metal GPU cluster into marketplace-ready cloud capacity",
-      "url": "https://www.datacenterdynamics.com/en/product-news/shadeform-launches-flex-vms-turning-any-bare-metal-gpu-cluster-into-marketplace-ready-cloud-capacity/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "Flex VMs turns bare-metal GPU clusters into single-tenant virtual machines on Shadeform's marketplace, with a fast and easy onboarding flow that enrols a node in about 30 minutes once approved",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "150846658fc17f",
-      "title": "Sponsored: The metric that matters: Why AI data centers should be measured in value, not volume",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/the-metric-that-matters-why-ai-data-centers-should-be-measured-in-value-not-volume/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-21",
-      "summary": "The data center industry has spent years measuring capacity. The better question is what each watt ultimately delivers",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
