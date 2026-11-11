@@ -1,11 +1,87 @@
 {
-  "last_updated": "2026-11-11T13:42:04.411388+00:00",
+  "last_updated": "2026-11-11T21:05:05.076515+00:00",
   "finding_count": 600,
   "new_project_count": 93,
   "cancellation_count": 31,
   "sec_filing_count": 1,
-  "high_confidence_count": 182,
+  "high_confidence_count": 174,
   "findings": [
+    {
+      "id": "5397ad27faf9af",
+      "title": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion - About Amazon",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kUUdQZmRlOS14MmtpNmlYT1R5OGxlQmp1TFlLbi1PalBaYkdhWUdVS2drOVZBODJVV2dBSmdBTXZ1c0xqcUE0d3QwWW55ODNGMXBzSGtGSzNwVG9sQWhXVDhPN1JvckdFWno4VGRGb1lVXzVORGVycVREYmFCZjQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-11-11",
+      "summary": "AWS to launch first cloud infrastructure region in Chile, investing more than $4 billion &nbsp;&nbsp; About Amazon",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "b3cec0b0840814",
+      "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+      "url": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Property would scale from an initial two buildings to ten by 2033",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Massachusetts"
+      ],
+      "amounts": [
+        "900MW",
+        "$16 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "606fc80b8fbab1",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-11",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1B"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "5f618e3d3d3bde",
+      "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+      "url": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "US cloud computing firm Crusoe has indicated interest as a potential off-taker for the project’s data center capacity",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "400MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
     {
       "id": "564c4702cca958",
       "title": "Atomarine raises $19m for nuclear-powered floating data centers",
@@ -39,6 +115,55 @@
       "locations": [],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3360ddc7a1b29d",
+      "title": "Red Hat and Nvidia’s OpenShell puts AI agents on a deny-by-default leash",
+      "url": "https://siliconangle.com/2026/11/11/prompt-injection-attacks-drive-red-hat-nvidia-s-openshell-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Prompt injection attacks and silent data exfiltration have turned AI agent security from a theoretical worry into an urgent enterprise concern. As agents move from developer laptops into data centers, companies need guardrails that don&#8217;t strip away what makes agents useful. Red Hat Inc. and Nvidia Corp. have expanded their partnership to tackle that problem [&#8230;] \n The post  Red Hat and Nvidia&#8217;s OpenShell puts AI agents on a deny-by-default leash  appeared first on  SiliconANGLE ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aa6b5f559c31ce",
+      "title": "Lansing-area data center plan dead two weeks after it was announced - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVJtbjMydVhESVMxa2xacy1DZ0hXTW9EMFoxeWV3Yi1sYWFzdzB1YVU5VmtLb1VaNGc0UVBhZGUwUUxCV0lHcVNPTmNlMWtsQy1DTGVIQUNGWnQ0OE9FeUdjRExobEE0UmtadS1UakM0WHNzNVZ4X2FpalZ0WkotUUVxZW5qMmwwNDNWMzJzbFU2Y05XNEpheTdISTgwMUYtSFl6OTFpdEJhWklUeGJ1aWxTRC1zZDU2alVfalp1SEJaMnpXZ29ETzFJR2U?oc=5",
+      "source": "GNews: state economic development data center",
+      "source_cat": "State/Gov",
+      "date": "2026-11-11",
+      "summary": "Lansing-area data center plan dead two weeks after it was announced &nbsp;&nbsp; The Detroit News",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6e7c7eb28f9abc",
+      "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Jensen Huang's dalliances come under investigation",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -77,6 +202,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b42f082d0b1dfd",
+      "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+      "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Alphabet Inc.’s artificial intelligence research lab, Google DeepMind, Tuesday debuted the next generation of Gemini Robotics, the company’s most capable vision-language-action model to date for creating an “AI brain” for robotics. Separately, DeepMind announced AlphaGenome 2 today, a next-generation AI model that can predict how DNA sequences and their variations affect human cell types, creating [&#8230;] \n The post  Google DeepMind releases new advanced robotics AI model and next-generation g",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "9b8550ef4e9241",
       "title": "What we learned about the hyperscalers from earnings season",
       "url": "https://siliconangle.com/2026/11/10/what-we-learned-about-the-hyperscalers-from-earnings-season/",
@@ -93,6 +235,108 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b6644df572fd1d",
+      "title": "Google’s ongoing commitment to the veteran community",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "Google logo with a box of medals in front of it",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0f7bf87bbfefd4",
+      "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "Today we announced Google Cloud's new Professional Agentic Architect certification.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13af32e7078a6e",
+      "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
+      "url": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Two sign a five-year partnership",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6c290a9a4d7bb5",
+      "title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+      "url": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Claims AI platform completed the process 60x faster than would take manually",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ccedacce0dad20",
+      "title": "Sponsored: Harmonic considerations for data centers",
+      "url": "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "In an always-on digital economy, power quality is not optional. It is foundational to data center reliability",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6ae17a9ae33b5c",
+      "title": "Proposal for AI data center at former paper mill in Maine resurfaces",
+      "url": "https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "JGT2 Redevelopment wants to develop the former site of the Androscoggin paper mill",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Maine"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -130,6 +374,157 @@
       "is_high_confidence": false
     },
     {
+      "id": "af2236b4017c45",
+      "title": "As Kubernetes inference faces launch-day deadlines, CoreWeave deepens its open-source involvement",
+      "url": "https://siliconangle.com/2026/11/11/kubernetes-inference-takes-more-than-downloading-model-weights-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Cloud providers are scaling Kubernetes inference to serve frontier AI models, and the problems they encounter in production are helping shape the open-source projects they rely on. CoreWeave Inc. sits near the center of that shift as AI agents reshape enterprise infrastructure. The company describes itself as a cloud built from the ground up for [&#8230;] \n The post  As Kubernetes inference faces launch-day deadlines, CoreWeave deepens its open-source involvement  appeared first on  SiliconANGLE",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c5dfa3ea23dc05",
+      "title": "Amazon’s open-source AWS Emulator lets developers validate their code locally, without the cloud",
+      "url": "https://siliconangle.com/2026/11/11/amazons-open-source-aws-emulator-lets-developers-validate-their-code-locally-without-the-cloud/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Amazon Web Services Inc. is turning its public cloud computing platform on its head with the launch of a new service called AWS Emulator. It’s a free, locally hosted software suite built by autonomous artificial intelligence agents that can replicate hundreds of the company’s cloud services on developer’s workstations. In a blog post, AWS Senior Principal [&#8230;] \n The post  Amazon&#8217;s open-source AWS Emulator lets developers validate their code locally, without the cloud  appeared first o",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "375fa2e9646c16",
+      "title": "Neoclouds face a shakeout as cloud-native software skills decide who survives",
+      "url": "https://siliconangle.com/2026/11/11/ai-infrastructure-clouds-face-shakeout-over-software-skills-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "AI infrastructure clouds have multiplied as GPU capital pours into new data centers, but standing up capacity is proving easier than running it at scale. With Kubernetes now hardened into the operating layer for AI factories, the cloud-native community holds expertise that many of these new providers lack. KubeCon has been shifting toward an AI [&#8230;] \n The post  Neoclouds face a shakeout as cloud-native software skills decide who survives  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b83389b1cc099e",
+      "title": "Agents may soon be the main workload, and most of the time they’re doing nothing",
+      "url": "https://siliconangle.com/2026/11/11/agent-sandboxing-how-google-s-substrate-isolates-ai-agents-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "As AI agents take on more enterprise work, agent sandboxing has become a basic requirement rather than an afterthought. Every agent that writes code, runs tools or drives a browser needs hard walls around it. Those walls also can&#8217;t come at the cost of runaway compute bills. Google LLC&#8217;s answer is Agent Substrate, an open-source [&#8230;] \n The post  Agents may soon be the main workload, and most of the time they&#8217;re doing nothing  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8416c4862429b5",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-11",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "25b015fbd3106a",
+      "title": "Test your applications against AWS locally with AWS Emulator",
+      "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d9659d08efcdbe",
+      "title": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+      "url": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "The video shows Henry Cavill making his video game on Googlebook.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f6474a1bdfa049",
+      "title": "Google Cloud leaders share what to expect in cybersecurity for 2027.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cybersecurity-2027/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "In our Security 2027 analysis, leaders from across Google, Google Cloud, and Mandiant break down the critical trends shaping the next era of defense.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f35a31f1ced416",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "6101eb3de8c7a0",
       "title": "Data center free cooling: running chillers only when needed",
       "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-free-cooling-running-chillers-only-when-needed/",
@@ -157,6 +552,66 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f6f6ea3579ad85",
+      "title": "Enterprises, not a handful of giants, are becoming the GPU buyers that matter",
+      "url": "https://siliconangle.com/2026/11/11/ai-native-applications-need-distributed-cloud-just-gpus-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Enterprises building AI-native applications are discovering that raw GPU capacity is only half the equation. As Kubernetes users move from cloud-native to AI-native stacks, the question is shifting from who has the most accelerators to who can run distributed, secure workloads at global scale. The first wave of so-called neoclouds stood up massive GPU clusters [&#8230;] \n The post  Enterprises, not a handful of giants, are becoming the GPU buyers that matter  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "976401f21a9a60",
+      "title": "Kubernetes had settled into quiet maturity until AI blew the doors back open",
+      "url": "https://siliconangle.com/2026/11/11/agent-substrate-how-kubernetes-became-foundation-ai-kubeconna/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-11",
+      "summary": "Kubernetes has grown from a maturing container orchestrator into the agent substrate that enterprises are counting on to run artificial intelligence. The shift revives old security ideas such as perimeters while raising the stakes for portability across clouds. Infrastructure providers are racing to make that foundation simpler to deploy and safer to run. Broadcom Inc. [&#8230;] \n The post  Kubernetes had settled into quiet maturity until AI blew the doors back open  appeared first on  SiliconAN",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6c70477dc704be",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-11",
+      "summary": "Apple has already made the forum read-only.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "293746b0884532",
+      "title": "Talk it through with Gemini, now on Apple CarPlay",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-11",
+      "summary": "an MP4 video of Gemini in Apple CarPlay",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -348,23 +803,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "520743f0df035b",
-      "title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
-      "url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-10",
-      "summary": "Neocloud infrastructure darling CoreWeave Inc. delivered an impressive revenue beat and raised its full-year guidance today as it demonstrated that demand for artificial intelligence computing remains strong, pushing its stock higher in late trading. The report comes at a prickly moment for the AI industry as investors increasingly sour on heavily indebted cloud infrastructure startups, [&#8230;] \n The post  CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "CoreWeave"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "f76b6b5d8ddc90",
       "title": "Financial institutions confront the complexities of scaling AI",
       "url": "https://siliconangle.com/2026/11/10/financial-institutions-confront-complexities-of-scaling-ai-awsfinserv/",
@@ -375,6 +813,23 @@
       "finding_type": "Cancellation / Pause",
       "companies": [
         "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "520743f0df035b",
+      "title": "CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-year guidance",
+      "url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-10",
+      "summary": "Neocloud infrastructure darling CoreWeave Inc. delivered an impressive revenue beat and raised its full-year guidance today as it demonstrated that demand for artificial intelligence computing remains strong, pushing its stock higher in late trading. The report comes at a prickly moment for the AI industry as investors increasingly sour on heavily indebted cloud infrastructure startups, [&#8230;] \n The post  CoreWeave arrests stock slide after posting a strong earnings beat and raising its full-",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -433,48 +888,16 @@
       "is_high_confidence": false
     },
     {
-      "id": "d720a25b9b8be5",
-      "title": "Applied Digital is building in the only US town to say yes to data centers",
-      "url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "CEO says firms must earn the right to launch new projects as it plots expansion into Europe",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "043f7c13bbf8c2",
-      "title": "Principal Asset Management acquires data center outside Amsterdam, the Netherlands",
-      "url": "https://www.datacenterdynamics.com/en/news/principal-asset-management-acquires-data-center-outside-amsterdam-the-netherlands/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "Switch gets a new landlord for AMS2",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Netherlands"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4d03d3c6efb755",
-      "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
-      "url": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+      "id": "dec299a7d5c3a0",
+      "title": "CoreWeave arrests stock slide with strong earnings beat and higher guidance, lifting tech stocks",
+      "url": "https://siliconangle.com/2026/11/10/coreweave-arrests-stock-slide-after-posting-a-strong-earnings-beat-and-raising-its-full-year-guidance/",
       "source": "SiliconAngle",
       "source_cat": "Tech Analysis",
       "date": "2026-11-10",
-      "summary": "Meta Platforms Inc. today introduced Muse Ember, an entry-level artificial intelligence model that costs significantly less than the competition. Notably, it’s the first AI that the company trained using Muse Wonder. The latter algorithm is the Facebook parent&#8217;s flagship large language model. Meta didn’t specify which part of the workflow it automated with Muse Wonder.  [&#8230;] \n The post  Meta introduces Muse Ember to power cost-efficient AI agents  appeared first on  SiliconANGLE .",
+      "summary": "Updated: Neocloud infrastructure darling CoreWeave Inc. delivered an impressive revenue beat and raised its full-year guidance today as it demonstrated that demand for artificial intelligence computing remains strong, pushing its stock higher in late trading. Update: CoreWeave&#8217;s shares jumped more than 20% in morning trading, lifting tech stocks across the board. The report comes at [&#8230;] \n The post  CoreWeave arrests stock slide with strong earnings beat and higher guidance, lifting t",
       "finding_type": "Statement / Update",
       "companies": [
-        "Meta"
+        "CoreWeave"
       ],
       "locations": [],
       "amounts": [],
@@ -527,21 +950,6 @@
       "companies": [
         "Google"
       ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2dcd11ad387536",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-10",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "finding_type": "Statement / Update",
-      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -627,6 +1035,70 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d720a25b9b8be5",
+      "title": "Applied Digital is building in the only US town to say yes to data centers",
+      "url": "https://www.datacenterdynamics.com/en/analysis/data-center-harwood-north-dakota-applied-digital-us-midterm-elections/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "CEO says firms must earn the right to launch new projects as it plots expansion into Europe",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "043f7c13bbf8c2",
+      "title": "Principal Asset Management acquires data center outside Amsterdam, the Netherlands",
+      "url": "https://www.datacenterdynamics.com/en/news/principal-asset-management-acquires-data-center-outside-amsterdam-the-netherlands/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "Switch gets a new landlord for AMS2",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Netherlands"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4d03d3c6efb755",
+      "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
+      "url": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-10",
+      "summary": "Meta Platforms Inc. today introduced Muse Ember, an entry-level artificial intelligence model that costs significantly less than the competition. Notably, it’s the first AI that the company trained using Muse Wonder. The latter algorithm is the Facebook parent&#8217;s flagship large language model. Meta didn’t specify which part of the workflow it automated with Muse Wonder.  [&#8230;] \n The post  Meta introduces Muse Ember to power cost-efficient AI agents  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2dcd11ad387536",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-10",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -1044,6 +1516,40 @@
       "is_high_confidence": false
     },
     {
+      "id": "4db114bf4e524b",
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-11-09",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4c196f67e4f333",
+      "title": "Expanding Teen Account Protections to Teens Around the World",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-09",
+      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. \n The post  Expanding Teen Account Protections to Teens Around the World  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "35b11d51639ce5",
       "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
       "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
@@ -1063,23 +1569,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "4db114bf4e524b",
-      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
-      "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-11-09",
-      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "874f4b61b043ec",
       "title": "Developers can now build with Google Maps Platform in AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/",
@@ -1090,23 +1579,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4c196f67e4f333",
-      "title": "Expanding Teen Account Protections to Teens Around the World",
-      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-09",
-      "summary": "We’re expanding our AI age-estimation technology globally to place millions more teens in Teen Account protections on Instagram. \n The post  Expanding Teen Account Protections to Teens Around the World  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -1358,8 +1830,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$15 billion",
-        "1 GW"
+        "1 GW",
+        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -3257,23 +3729,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "064d962fb7546c",
-      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-11-05",
-      "summary": "Omni 1.2 Flash in Google Vids",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "a18a75fa242b80",
       "title": "Give Your Muse a Voice",
       "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
@@ -3301,6 +3756,23 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "064d962fb7546c",
+      "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-05",
+      "summary": "Omni 1.2 Flash in Google Vids",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -7251,8 +7723,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$8.7B",
-        "$136B"
+        "$136B",
+        "$8.7B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10035,494 +10507,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "69ee3f5f8c2b9c",
-      "title": "Sponsored: Data center optionality: Why day one decisions determine day two success",
-      "url": "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Speed to market is a phase, not a strategy",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e4b47278233d81",
-      "title": "Russian finance ministry data center struck by Ukrainian forces",
-      "url": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Another data center damaged in conflict",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2f1f1e79ee38bf",
-      "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
-      "url": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Affected services included National User Registry and the Electronic Medical Prescription (PEM), as well as access to Electronic Health Record",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6d109b8c7fa3f5",
-      "title": "STTGDC to host Neysa GPUs at data center in Noida, India",
-      "url": "https://www.datacenterdynamics.com/en/news/sttgdc-to-host-neysa-gpus-at-data-center-in-noida-india/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Noida 2 facility to host up to 9,000 GPUs for Indian neocloud",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f73f82d6be691f",
-      "title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE",
-      "url": "https://www.datacenterdynamics.com/en/news/aleria-to-deploy-nvidia-blackwell-and-vera-rubin-gpus-in-us-and-uae/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Neocloud partners with DDN on deployment",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [
-        "UAE"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "594422bef8a1f3",
-      "title": "Supermicro launches 100% liquid cooled Nvidia Vera CPU rack",
-      "url": "https://www.datacenterdynamics.com/en/news/supermicro-launches-100-liquid-cooled-nvidia-vera-cpu-rack/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Rack scale solution can be deployed alone or alongside Nvidia Vera Rubin NVL72",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f2699df3600179",
-      "title": "Endeavour partners with US desalination firm Trevi to turn data center waste heat into clean water",
-      "url": "https://www.datacenterdynamics.com/en/news/endeavour-partners-with-us-desalination-firm-trevi-to-turn-data-center-waste-heat-into-clean-water/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "First deployments expected across Endeavour's US data center portfolio",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a4338ce3c0d547",
-      "title": "Sponsored: Rethinking power infrastructure to scale AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/rethinking-power-infrastructure-to-scale-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Power is the subject of much debate in the data center industry. Rethinking how it’s structured could be the solution, ABB’s Mehdi Rajehi explains",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d750e2398f7142",
-      "title": "Sponsored: Why is Kazakhstan building Central Asia’s first Tier IV data center?",
-      "url": "https://www.datacenterdynamics.com/en/product-news/why-is-kazakhstan-building-central-asias-first-tier-iv-data-center/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Following a chaotic cryptocurrency mining boom, Kazakhstan is rewriting its energy market rules to attract high-density AI workloads",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cbbdd99025adcf",
-      "title": "Managed services support keeps neocloud GPU capacity healthy",
-      "url": "https://siliconangle.com/2026/10/23/managed-services-support-keeps-neocloud-gpu-capacity-healthy-dellnewyorksymposium/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-23",
-      "summary": "Neoclouds are multiplying as AI labs and enterprises hunt for dedicated graphics processing unit capacity, but standing up a cluster is only the start. For smaller providers, managed services support from hardware partners increasingly decides whether that capacity stays healthy and profitable after go-live. Specialized AI clouds are carving out a role alongside the hyperscalers, [&#8230;] \n The post  Managed services support keeps neocloud GPU capacity healthy  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a498290fbb95e1",
-      "title": "InsurTech company Reliance Global Group to acquire GPU cloud company and pivot strategy",
-      "url": "https://www.datacenterdynamics.com/en/news/insurtech-company-reliance-global-group-to-acquire-gpu-cloud-company-and-pivot-strategy/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-23",
-      "summary": "Will rebrand as GPU Exchange",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ed0b9172f92033",
-      "title": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta - EnergyNow",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSC1CTGkzWjFmRnhOM0xqdWhyUkV1cG1DN0FmN09DcDlWRzlOV0RRUzZkZi0wT0pJcFBuTkZ5RTZJdC1hZDlGMURrY3R1T0dVZHdzSDVsRVluWmVEVHY1UDdJZzRiUzJJRGY5VHY4NnhIY09sOWhsUExHaUx4RTFURjFES3hHRTk0M3g0LWxNckZuMkFjVXJjSWFQVFd4LVdFZ0NKbkZVbUFoenBaUUFMeEV4cFFCUk5iSlN3YlUzNDY?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-22",
-      "summary": "“THIS IS A BIG DEAL FOR ALBERTA” - Meta Announces $13 Billion AI Data Centre Investment in Alberta &nbsp;&nbsp; EnergyNow",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "fc6f3ca69be6e1",
-      "title": "Microsoft is Creating a $700 Billion Moat With Its AI Spend Through 2030 - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalVleTVJQ2h3TXJQcm5iTXROTzZUWG04MjMzQWctSUpNRk1WeFhRTVZlNmZDUzdYNHkzVU9jc0k1am02ZGhUaS02YWNkUzhYbEZlVmVVUHhuV2FabGdzbmNXRTlKdVFVOGF5OGlBVkdvdXFlbDJQa01ZRUZIS0FXcU5lWGFLY0JDOHJVUFBaLTJ3YTgtcVNyTTNyWXlCRHdnczJ0T0ozVjRNRmRCODJ1RTRMcWhUZw?oc=5",
-      "source": "GNews: Microsoft data center build",
-      "source_cat": "Company",
-      "date": "2026-10-22",
-      "summary": "Microsoft is Creating a $700 Billion Moat With Its AI Spend Through 2030 &nbsp;&nbsp; 24/7 Wall St.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [
-        "$700 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "13a7d7b209f49c",
-      "title": "Meta hit with $25 billion fine for deceiving users on privacy",
-      "url": "https://siliconangle.com/2026/10/21/meta-hit-with-25-billion-fine-for-deceiving-users-on-privacy/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-22",
-      "summary": "Meta Platforms Inc. was ordered to pay $25 billion in penalties today after a jury found the company had misled its users on how it protects and uses their data. In what is one of the largest fines ever leveled against a tech giant, a jury in a Santa Fe, New Mexico, found the company [&#8230;] \n The post  Meta hit with $25 billion fine for deceiving users on privacy  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "New Mexico"
-      ],
-      "amounts": [
-        "$25 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "66ffdca2ea9af2",
-      "title": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry",
-      "url": "https://siliconangle.com/2026/10/22/ex-openai-science-chief-kevin-weil-launches-warp-sciences-with-215m-for-drug-chemistry/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-22",
-      "summary": "Drug discovery chemistry startup Warp Sciences Inc. launched today with $215 million in new funding, six months after co-founder and Chief Executive Kevin Weil left his job running science initiatives at OpenAI Group PBC. Warp is building a chemistry contract research organization in the U.S. to supply biotech and pharmaceutical companies with the molecules their [&#8230;] \n The post  Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry  appeared first on  Sili",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [
-        "$215 million",
-        "$215M"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b7848bfb219adc",
-      "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-22",
-      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [
-        "$25B"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "90287fcc66f385",
-      "title": "Google signs 1GW virtual power plant deal with Voltus",
-      "url": "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Biggest VPP deal signed by a hyperscaler to date",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "5254015184cdb2",
-      "title": "Canada's Uniserve to launch 1MW data center in Vancouver",
-      "url": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Company developing facility next door to existing data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "1MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "79070a1a235be3",
-      "title": "Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team",
-      "url": "https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Chris Malone announced new role two months after OpenAI departure was reported",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "888dd14a5ea295",
-      "title": "Nebius signs on for 50MW at Neom's Oxagon data center in Saudi Arabia",
-      "url": "https://www.datacenterdynamics.com/en/news/nebius-signs-on-for-50mw-at-neoms-oxagon-data-center-in-saudi-arabia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Deal signed with Humain and DataVolt",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Saudi Arabia"
-      ],
-      "amounts": [
-        "50MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2c9589ce6cc346",
-      "title": "Soluna and Applied Digital to build 50MW data center in Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/soluna-and-applied-digital-to-build-50mw-data-center-in-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Companies to build on Soluna’s Dorothy 3 site, lease capacity to Applied spin-out ChronoScale",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [
-        "50MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e04222ccf88c72",
-      "title": "Era4 reveals details of hyperscale data center planned for former steelworks in Newport, Wales",
-      "url": "https://www.datacenterdynamics.com/en/news/era4-reveals-details-of-hyperscale-data-center-planned-for-former-steelworks-in-newport-wales/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "First GPUs set to come online next year, could eventually reach 1GW",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "1GW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2dd2cd1fbdcee3",
-      "title": "Crusoe signs on for Polar DC's upcoming 40MW data center in Norway",
-      "url": "https://www.datacenterdynamics.com/en/news/crusoe-signs-on-for-polar-dcs-upcoming-40mw-data-center-in-norway/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Will be located at Polar's Tørdal campus",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Norway"
-      ],
-      "amounts": [
-        "40MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a003dbd5339ce0",
-      "title": "Microsoft files for data center campus in Floyd County, Georgia",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Will feature three data center buildings",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [
-        "Georgia"
-      ],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0f96b9fd0ba45f",
-      "title": "DCD Studio: Operating AI infrastructure at scale with Matt Hull, Google",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-operating-ai-infrastructure-at-scale-with-matt-hull-google/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "DCD’s Kat Sullivan speaks with Google’s Matt Hull about AI infrastructure, hypercomputers and TPUs, and how data center design must evolve to support AI training and inference",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7c548154cfc2af",
-      "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
-      "url": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Latest agreement in support of the move to 800VDC",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e76be2a3633ca2",
-      "title": "AWS Continuum for code vulnerabilities is now generally available",
-      "url": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-10-22",
-      "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c0169cbdbe42b8",
-      "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-22",
-      "summary": "Google and Voltus are building a 1-gigawatt virtual power plant to boost grid reliability for 67 million people. See how this expansion works.",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
       "is_high_confidence": false
     }
   ]
