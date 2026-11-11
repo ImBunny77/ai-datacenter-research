@@ -1,11 +1,81 @@
 {
-  "last_updated": "2026-11-11T05:02:47.752333+00:00",
+  "last_updated": "2026-11-11T13:42:04.411388+00:00",
   "finding_count": 600,
   "new_project_count": 93,
-  "cancellation_count": 32,
+  "cancellation_count": 31,
   "sec_filing_count": 1,
-  "high_confidence_count": 181,
+  "high_confidence_count": 182,
   "findings": [
+    {
+      "id": "564c4702cca958",
+      "title": "Atomarine raises $19m for nuclear-powered floating data centers",
+      "url": "https://www.datacenterdynamics.com/en/news/atomarine-raises-19m-for-nuclear-powered-floating-data-centers/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Company is touting 150MW nuclear ships to serve AI compute at sea",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "150MW",
+        "$19m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4faaa998a9f28d",
+      "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+      "url": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Quantum firm upgrades Reimei system to H2 version",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ab596becd41e23",
+      "title": "Anthropic signs another $4.3bn in compute agreements with Microsoft",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signs-another-43bn-in-compute-agreements-with-microsoft/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "May cancel contract with neocloud Lambda",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "Microsoft",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "851a05a4466db2",
+      "title": "QumulusAI expands Denver capacity by 1.2MW",
+      "url": "https://www.datacenterdynamics.com/en/news/qumulusai-expands-denver-capacity-by-12mw/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Signs colocation deal to expand availability in the market",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "1.2MW"
+      ],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
     {
       "id": "9b8550ef4e9241",
       "title": "What we learned about the hyperscalers from earnings season",
@@ -23,6 +93,70 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ce2a3ba3ba6490",
+      "title": "10-year data center moratorium approved in Ottawa, Kansas",
+      "url": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "... but the hyperscale project that sparked protests had already been canned",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Kansas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9e092aedd58417",
+      "title": "Data center proposed within Cleveland's Union Trust Building, Ohio",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-proposed-within-clevelands-union-trust-building-ohio/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "Owner looks to partner with Hyperscape Digital despite looming foreclosure sale and a local moratorium",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Ohio"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6101eb3de8c7a0",
+      "title": "Data center free cooling: running chillers only when needed",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/data-center-free-cooling-running-chillers-only-when-needed/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "A guide to trim chilling, and how CDU approach and supply temperature set your chiller hours",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d92625691a5640",
+      "title": "Sponsored: How Kazakhstan’s Akashi Data Center is building trust",
+      "url": "https://www.datacenterdynamics.com/en/product-news/how-kazakhstans-akashi-data-center-is-building-trust/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-11",
+      "summary": "The company is relying on Uptime Institute Tier IV certification, backing from a development bank, and the protections of English common law",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -331,73 +465,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "2fb2839db8c875",
-      "title": "Thousands oppose data center expansion in Italy, gather in Milan for protest",
-      "url": "https://www.datacenterdynamics.com/en/news/thousands-oppose-data-center-expansion-in-italy-gather-in-milan-for-protest/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "Protesters called for a review of Lombardy's recently passed law on data centers",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eba4fb0550a847",
-      "title": "Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia",
-      "url": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "Set for land on Progress Park",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Virginia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ea9ce1bdf8a5d",
-      "title": "Colt breaks ground on data center in Berlin, Germany",
-      "url": "https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "Berlin 1 due live in 2028",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Germany"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "a6883ec6c850eb",
-      "title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-10",
-      "summary": "Defendants claim the company and its chief exec misled shareholders by not disclosing Huang’s relationship with accused spy",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon",
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "4d03d3c6efb755",
       "title": "Meta introduces Muse Ember to power cost-efficient AI agents",
       "url": "https://siliconangle.com/2026/11/09/meta-introduces-muse-ember-to-power-cost-efficient-ai-agents/",
@@ -559,6 +626,73 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2fb2839db8c875",
+      "title": "Thousands oppose data center expansion in Italy, gather in Milan for protest",
+      "url": "https://www.datacenterdynamics.com/en/news/thousands-oppose-data-center-expansion-in-italy-gather-in-milan-for-protest/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "Protesters called for a review of Lombardy's recently passed law on data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eba4fb0550a847",
+      "title": "Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "Set for land on Progress Park",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1ea9ce1bdf8a5d",
+      "title": "Colt breaks ground on data center in Berlin, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "Berlin 1 due live in 2028",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a6883ec6c850eb",
+      "title": "Nvidia shareholders file class action lawsuit against chip giant and its CEO Jensen Huang following fall-out from Chinese spy allegations",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-shareholders-file-class-action-lawsuit-against-chip-giant-and-its-ceo-jensen-huang-following-fall-out-from-chinese-spy-allegations/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-10",
+      "summary": "Defendants claim the company and its chief exec misled shareholders by not disclosing Huang’s relationship with accused spy",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -1211,6 +1345,26 @@
       "is_high_confidence": false
     },
     {
+      "id": "6a04fbf0162330",
+      "title": "Google commits $15 billion to Malaysian data centers in 2027-28, with more than 1 GW of new clean power - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmpfRmN1OUNxTFVoRk9mMmJTR1lvYzhYMmNiYWRSVG84OGk1M0JXemlXd05oRU51VS1hdExnUEF1a1hXNkx5eUVQajBQT3lLdkZ0djQzRjg0ZWVlWEtBcFpNcFZyZkVtMmhoRjF5VWMwQi1EMm5jSXU1aGdGV0RWZjRZZWhKQ2RhQlp4Yy1qNVgtdWRlUVIxUU9ud3JtRlNRMjNSUExSeGozNnhNazdvVTlvUEtrUmpkV0F0ejQzYw?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-11-08",
+      "summary": "Google commits $15 billion to Malaysian data centers in 2027-28, with more than 1 GW of new clean power &nbsp;&nbsp; MLQ.ai",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$15 billion",
+        "1 GW"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "16095831fc099b",
       "title": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmxWWHRKeDM3VjJrWERQVWJROTVVLWxqem80T2xDcGlRNkh3UDV0Y3dJWWRJR1VqTDc1OFFDVHNmTDB1bUZYNXJwalRpRWUwYVg5TXd2d3lXdzhtQTRWcmhlTHUyaTByTDhGS1RiQ1hFZjBETERhVC13NDdKdnhCdFU4cWFiTnAzcWRXYkNNRzRQNGFYM01tUw?oc=5",
@@ -1227,26 +1381,6 @@
       ],
       "amounts": [
         "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6a04fbf0162330",
-      "title": "Google commits $15 billion to Malaysian data centers in 2027-28, with more than 1 GW of new clean power - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmpfRmN1OUNxTFVoRk9mMmJTR1lvYzhYMmNiYWRSVG84OGk1M0JXemlXd05oRU51VS1hdExnUEF1a1hXNkx5eUVQajBQT3lLdkZ0djQzRjg0ZWVlWEtBcFpNcFZyZkVtMmhoRjF5VWMwQi1EMm5jSXU1aGdGV0RWZjRZZWhKQ2RhQlp4Yy1qNVgtdWRlUVIxUU9ud3JtRlNRMjNSUExSeGozNnhNazdvVTlvUEtrUmpkV0F0ejQzYw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-08",
-      "summary": "Google commits $15 billion to Malaysian data centers in 2027-28, with more than 1 GW of new clean power &nbsp;&nbsp; MLQ.ai",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "1 GW",
-        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -7117,8 +7251,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$136B",
-        "$8.7B"
+        "$8.7B",
+        "$136B"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -10389,139 +10523,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cef1ef7c1b654b",
-      "title": "India's data centre boom lifts IT investments - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObzYxSDlCYmREQ0Rmc1B0T3B5TWxacGtxMWtlQXdmdmRUOUg1MVFzUnNUS0FiLWdvZkZteUNQVXllVzJrTjJXMTBXU1hhWlRBRXZqNTd6MXdMUmZTU3JVaVlSWUVyekF3alFKX3BfUGd0dkJ1QlpkMXpBRUhtYmRLZDJpX2pITVBHRDFvMTBXWmNsb2toWk9hX0ZJSTQ4ZHZaMHdENE05R2o1aE9OdWprN2wzMnBvNmJ5a2lEa0xmcndDOUkyclNmRFNXQXE0WW5nbW9mNFdBRzlZOWQ4dElxQ2FnNXgtTndaUzNHck5acUhXSGtPYUNqMl9B0gHIAUFVX3lxTE44ZDNRUVZQZTlRUVdHMXZlOTZsb2pjYTRULUlWdVJ5aHJ0emRCSzVGY004YWUwY3NKVUJZU3U5S2stc1k3VlRERk5MbkR0SlpaOGIzbHlfX1ZHa21sV0JWSm9jc2d1aHhhTk8xdV91dGtrY3BhMDU0aXJ4V1J0T0wzc2RTbVdoY1NTaEpSLUlvQ2JabFpFTGhRN1l0VFRCdmtPeXNjTmVOSGNobUJfLS1TRlc3VjU2TkpGQ1ppYlBmR3BjdWd3UU4t?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-22",
-      "summary": "India's data centre boom lifts IT investments &nbsp;&nbsp; ET Datacenters",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "India"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cc6693f81230a5",
-      "title": "OpenAI to make its most advanced AI models available in Google Cloud",
-      "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-22",
-      "summary": "OpenAI Group PBC today announced plans to make its latest large language models accessible in Google Cloud. The LLMs will be available through the Alphabet Inc.’s unit Model Garden service. It provides access to more than 200 neural networks from Google, its partners and the open-source ecosystem. The lineup includes not only LLMs but also [&#8230;] \n The post  OpenAI to make its most advanced AI models available in Google Cloud  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d2e3a211292a7a",
-      "title": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Seb Moss speaks with Chris Crosby of Compass Datacenters about data center siting, community engagement, AI's impact, public perception, and focusing on long-term business strategy over a build-to-exit mentality.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "68ed16c84d3610",
-      "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-22",
-      "summary": "Could invest hundreds of millions of dollars in neocloud",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e6311cf9ea9b90",
-      "title": "DayOne Data Centers considers delaying US IPO amid volatility - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdGhFT1VHdWFDejB0dUxEOFpfZENZMV9lOHhDSDJ2TDlwS2w5alhmbnZmY1dSaF9PeWkzX3NtZmItOTUzdUt2dnR5ZllUNjloc1I0RElQb0R2VWo1T3NRNHdYSmxqYWZlbXdUbmRRVTNQT3hHUkJMd1NPY0poX1ZSWnZkQXJubVVNMEZ0Z3BoekN0Q2lwMF9QY0cyR3E4bUVFQ3dHWWNIdm1kZVdoVkU1NGRRRTN2S3JmNE05LUxGS0FQMVpTWnlwYTBxYldNemR3ck83S2VnUElnV1BhWkZERWRIVmZhb282aG5NaS1SUG5JejU2UDF2RXF5SVJ5LVF0dkRoOGlpMG5HZkd5NHdxcNIB3wFBVV95cUxPXzdBS3FhekFQQkl4bXdlcWJ4NDFwaEhJdVhUMFA2UGJVY2ttb0diSVNsYXNfNVdXNlFHN0xDWVZWamlkR3ZNTkRuX1pkYnl1RFAzeXZIWFdJZ1l0WDhLMUpTZ2NvTUFPNnVCSVBxVjlGVnRPWGUtU3A1MUNfODZ1cmtTVEtMU25RSHd4MmFuYkZnLWtVUG9WSHBRaWU4TnpsbUVleTh2ZXBDZTJwN1lLSjFQa2JqU3E1eTRVZWVkTU9jVHhQQUZocjN4X2E1MUlmdUMxLUhfa01zWGVOWjVz?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-22",
-      "summary": "DayOne Data Centers considers delaying US IPO amid volatility &nbsp;&nbsp; ET Datacenters",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d3b250b3bffba7",
-      "title": "California cities pull the plug on data centers after state regulations don’t scale up fast enough - CalMatters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNk9qRElsMTZvbzQwYkw0LUw2VEZXWUp4TFVwdzlIUU1fNXFTYW9udFJZVS1kRDQxc0x5ZVR3bjN1ZVRkQ05Vc1c0blAxaGxfUi1aRWdZcTU1SkJNSFdOVnctTG42TTcxMTFuSk1Oa2g2WWItNzBEeTBDQ3Nqd1MzQ25vYjR0dGpPMTVuOXVzQjBGLW9TcVFoSnRmZ0U2LTFuWTI5SkFOVkdSUQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-10-22",
-      "summary": "California cities pull the plug on data centers after state regulations don’t scale up fast enough &nbsp;&nbsp; CalMatters",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "California"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8d6702a45a4301",
-      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop.",
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-22",
-      "summary": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything fr…",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0ee6f5c022dc17",
-      "title": "PHP2Shell attacks began four days before patches, Amazon says, as attempts hit millions",
-      "url": "https://siliconangle.com/2026/10/22/php2shell-attacks-began-four-days-before-patches-amazon-says-as-attempts-hit-millions/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-22",
-      "summary": "Attackers began targeting the critical PHP2Shell vulnerabilities four days before patches were released, Amazon.com Inc. has disclosed, while exploit attempts seen by Cloudflare Inc. have since climbed into the millions. PHP&#8217;s maintainers shipped fixes for the two flaws, tracked as CVE-2026-109618 and CVE-2026-109619, on Wednesday after details leaked ahead of a coordinated release. The bugs [&#8230;] \n The post  PHP2Shell attacks began four days before patches, Amazon says, as attempts hi",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
