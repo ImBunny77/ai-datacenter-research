@@ -1,11 +1,28 @@
 {
-  "last_updated": "2026-11-18T09:49:15.943629+00:00",
+  "last_updated": "2026-11-18T18:40:49.434376+00:00",
   "finding_count": 600,
-  "new_project_count": 106,
-  "cancellation_count": 32,
+  "new_project_count": 102,
+  "cancellation_count": 31,
   "sec_filing_count": 1,
-  "high_confidence_count": 174,
+  "high_confidence_count": 166,
   "findings": [
+    {
+      "id": "d7404341b23025",
+      "title": "Official | The US will invest more than $4 billion to build data centers in this Latin American country, strengthening its technological influence in the region - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcHpkMlo2LUZpdkJlMkt1TlpRVnBja2hQU040QW1ONFFfaWsyalRrSDJhcWFhc2hQTDVIcHkxY3g4Q09mQ0UxM2Myb0JzZDA2ZUNXSENkZzM2VTlQdkQ0XzhaaklRc3NsM096NVB4NnZpVFdrbzNveU95dGRlY1ZpLXNWOEFWVzY5M3hwMVZmN1hPQmZoSFlXWGszYUs0bWVMUGR6ZlFYREc3VENKS3BUQWRLNm93WEVpS014ZVNHal9JeXlfNXpDVTRSRU1yV3k2b3hseWpuZDJsdXFXY0xqMDdyWm9IYjQyZ0cwbkNRbnl3YnFSZ2VHUHBBS1hobW9MVS00UndZYnp0UEdqTWlEVndIenpvejF3cmFv?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-11-18",
+      "summary": "Official | The US will invest more than $4 billion to build data centers in this Latin American country, strengthening its technological influence in the region &nbsp;&nbsp; El Cronista",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$4 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
     {
       "id": "b1710993071e1a",
       "title": "General-purpose robot maker Genesis AI reels in $500M at $3.5B valuation",
@@ -21,12 +38,97 @@
       ],
       "locations": [],
       "amounts": [
+        "$500 million",
         "$3.5B",
-        "$500M",
-        "$500 million"
+        "$500M"
       ],
       "confidence": 6,
       "is_high_confidence": true
+    },
+    {
+      "id": "cbed4bb49cadab",
+      "title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+      "url": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Will deploy B300s at Kyndryl's data center in Boulder, Colorado",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Colorado"
+      ],
+      "amounts": [
+        "$630m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "62dd15a340505b",
+      "title": "DC Blox files for third building at Atlanta West data center campus",
+      "url": "https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Company set to complete 80MW building in 2029",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Atlanta"
+      ],
+      "amounts": [
+        "80MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "7ba5892e630257",
+      "title": "Navigating CEQA: what data center developers need to know before investing in California",
+      "url": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "For data center developers, CEQA deserves particular attention",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "00b33cbd794c64",
+      "title": "Quantum computing drops its decade-away tag as error rates fall 200-fold in two years",
+      "url": "https://siliconangle.com/2026/11/18/quantum-error-correction-ushers-data-center-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "Quantum computing is shedding its reputation as speculative as gains in quantum error correction turn fragile machines into reliable ones. For the supercomputing community, which now measures data centers in gigawatts of power, the more pressing question is how quantum fits beside the processors already on the floor. For years, the field faced a trade-off [&#8230;] \n The post  Quantum computing drops its decade-away tag as error rates fall 200-fold in two years  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "98be0195c15d33",
+      "title": "Stalled data center buildouts send inference chips hunting for space in telco and colo sites",
+      "url": "https://siliconangle.com/2026/11/18/ai-data-centers-delays-push-inference-chips-existing-sites-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "Demand for inference is outrunning the construction of new AI data centers, as power, capital and permitting delays push fresh capacity further out. That gap is sending chipmakers to hunt for room in existing facilities. Many older telco and colocation sites have the space and power. But most can&#8217;t take today&#8217;s dense, liquid-cooled GPU racks [&#8230;] \n The post  Stalled data center buildouts send inference chips hunting for space in telco and colo sites  appeared first on  SiliconAN",
+      "finding_type": "Cancellation / Pause",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
     },
     {
       "id": "608fc139b41158",
@@ -46,13 +148,242 @@
       "is_high_confidence": false
     },
     {
-      "id": "719937acc98ef5",
-      "title": "Sponsored: Connectivity beyond the network",
-      "url": "https://www.datacenterdynamics.com/en/marketwatch/connectivity-beyond-the-network/",
+      "id": "2edbd7ae3f61b0",
+      "title": "Our Approach to Updating Our Commercial Terms of Service",
+      "url": "https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "We recently announced that the proposed updates to our commercial terms of service have been put on hold and that we will revise those proposed changes after a deeper consultation with stakeholders. We made this decision after hearing concerns from news publishers and other stakeholders about how the proposed updates apply to our web crawlers. Meta follows the industry standard robots.txt mechanism as described in our web crawler developer doc. Today, we want to share more details on how we are ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fb1fd65214919e",
+      "title": "Blocking US Data Centers Won’t Stop the Rise of an AI Oligarchy - The National Interest",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmZJN3B3Yy1mZEtTWFJGeXllbHRkVkRpaVJXVWlwY3ExR3hNYkVCWWFacmpsbTNuY0tKYXVEc3N0NTVvdndUaVpneVR4WUJ3LXNXODh5U3lEMllNN3Y3clJwbkNSNnhJbmU5dWV2aURmNW5GaGI1aXh2SFo3cXpwV3JSRlFtV3g2Vk43cGM5bEtCaExhZkwxZ2FQdTZkdVpJX2lCMVRqSE4?oc=5",
+      "source": "GNews: data center cancel pause halt",
+      "source_cat": "Cancellation",
+      "date": "2026-11-18",
+      "summary": "Blocking US Data Centers Won’t Stop the Rise of an AI Oligarchy &nbsp;&nbsp; The National Interest",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fe763a06bbece0",
+      "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+      "url": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
       "source": "DataCenterDynamics",
       "source_cat": "DC Specialist",
       "date": "2026-11-18",
-      "summary": "For Corning, partnerships have always been essential. As the AI data center landscape changes, however, they are becoming critical",
+      "summary": "The trials have been carried out over VodafoneThree's UK network",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "UK"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a95ce512111574",
+      "title": "Sponsored: Beyond cooling: Why heat and noise matter in sustainable AI data center design",
+      "url": "https://www.datacenterdynamics.com/en/opinions/beyond-cooling-why-heat-and-noise-matter-in-sustainable-ai-data-center-design/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "As AI workloads drive higher computing densities, the challenge extends beyond cooling servers efficiently",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f94293adc8f130",
+      "title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+      "url": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Builds on existing partnership with Google",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "811e7671f8b0d7",
+      "title": "OpenAI hires clean energy lead",
+      "url": "https://www.datacenterdynamics.com/en/news/openai-hires-clean-energy-lead/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Nate Sweet joins the team",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7e0b037287f058",
+      "title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+      "url": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "But analysis from October implies Q4 will be another record quarter",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f1dc58504fab4b",
+      "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
+      "url": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Commissioners voted against holding another meeting",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c731e75fbc1b40",
+      "title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+      "url": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Immediately issues an air permit for planned SpaceX data center",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "13a5dd04dea276",
+      "title": "Virginia’s Loudoun County officially adopts 12-month moratorium on data center development",
+      "url": "https://www.datacenterdynamics.com/en/news/virginias-loudoun-county-officially-adopts-12-month-moratorium-on-data-center-development/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Home of Data Center Alley says no more for now",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia",
+        "Loudoun"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f392b920f035ae",
+      "title": "FingerMotion unveils modular data center concept designed to operate in extreme climates",
+      "url": "https://www.datacenterdynamics.com/en/news/fingermotion-unveils-modular-data-center-concept-designed-to-operate-in-extreme-climates/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Concept being developed by Canadian firm BlueFlare",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5d48e40ea0d54a",
+      "title": "Blue Owl data center REIT completes acquisition of first building on GCDC campus in Virginia",
+      "url": "https://www.datacenterdynamics.com/en/news/blue-owl-data-center-reit-completes-acquisition-of-first-building-on-gcdc-campus-in-virginia/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "Part of a larger transaction consisting of three buildings on the campus",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Virginia"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c6f6accc27e880",
+      "title": "Next Capital launches new Australian data center firm Dataspace",
+      "url": "https://www.datacenterdynamics.com/en/news/next-capital-launches-new-australian-data-center-firm-dataspace/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "New company seeded with former Fujitsu-operated facilities",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0425f706aee3ec",
+      "title": "Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt",
+      "url": "https://siliconangle.com/2026/11/18/business-development-agentic-ai-era-puts-cpus-first-dellatsc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "Agentic AI is rewriting the business development playbook for chipmakers and server builders. Graphics processing units still grab the headlines, but as supercomputing and AI converge, the next wave of demand is landing on central processing units that must fit inside the power budgets data centers already have. The shift has been building for years. [&#8230;] \n The post  Agentic AI puts the CPU back at center stage as Dell and AMD chase every watt  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6da14a126e0e51",
+      "title": "From store outlets to methane leaks: AI’s hunt for power",
+      "url": "https://siliconangle.com/2026/11/18/distributed-inference-turns-stranded-power-ai-compute-dellatsc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "AI factories are outgrowing traditional data centers as models grow and distributed inference moves from concept to deployment. The infrastructure behind those models now has to span racks, sites and even scattered pockets of power. Dell Technologies Inc. is betting that the answer lies in building complete systems rather than components, from rack-scale management to [&#8230;] \n The post  From store outlets to methane leaks: AI&#8217;s hunt for power  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -78,6 +409,124 @@
       "is_high_confidence": false
     },
     {
+      "id": "47646735876acd",
+      "title": "Google for Mexico: Technology impact that goes beyond business",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-latin-america/google-for-mexico-2026-november/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "The photo shows Google Mexico Country Director speaking on stage next to a slide displaying economic impact metrics.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "aedcac4ab08fbe",
+      "title": "Las Vegas race week brings big rewards to Google Play",
+      "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "The Auction by Google Play logo next to three gems",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f8a900f201ec17",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eb4db29445c23d",
+      "title": "Cybersecurity tips and tools to keep you safe online",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "Explore this collection to see how Google’s cybersecurity tips and tools can keep your accounts and information safe.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1e09fd80d9c80a",
+      "title": "Drive your best ROI reaching new holiday shoppers with November’s Google Marketing Platform Drop.",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "Boost holiday ROI with November 2026 Google Marketing Platform updates, including Spotify audiences, Pinterest inventory, and Loblaw integration. Get the details.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4a1d1253879969",
+      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.  With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their baske",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "719937acc98ef5",
+      "title": "Sponsored: Connectivity beyond the network",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/connectivity-beyond-the-network/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-18",
+      "summary": "For Corning, partnerships have always been essential. As the AI data center landscape changes, however, they are becoming critical",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "98be27a243ca39",
       "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
@@ -92,6 +541,83 @@
       "locations": [],
       "amounts": [],
       "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "bd3d765172fb00",
+      "title": "AI factories push liquid cooling beyond CPUs and GPUs to nearly every rack component",
+      "url": "https://siliconangle.com/2026/11/18/liquid-cooling-supply-chain-rewards-building-past-forecasts-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "The liquid cooling supply chain is under mounting pressure as AI factories pack more heat into every rack. To meet demand, operators have invested heavily in denser racks and liquid cooling, as well as the hoses and couplings that move the fluid must arrive faster and in larger volumes than ever. But for component makers, [&#8230;] \n The post  AI factories push liquid cooling beyond CPUs and GPUs to nearly every rack component  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fd4747046af43b",
+      "title": "AI’s hidden energy tax: More than 80% of scale-up traffic is just memory moving around",
+      "url": "https://siliconangle.com/2026/11/18/memory-bottlenecks-ai-how-photonics-shared-pools-help-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "Memory bottlenecks are emerging as one of the costliest problems in AI infrastructure as inference overtakes training. GPUs sit idle waiting on data, while high-bandwidth memory, or HBM, stays bolted to processors that cannot share it. Photonics is shaping up as one way out. Marvell Technology Inc. has been pairing optics with photonic memory to [&#8230;] \n The post  AI&#8217;s hidden energy tax: More than 80% of scale-up traffic is just memory moving around  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c28211a94d9a45",
+      "title": "AI and supercomputing merge as universities build GPU clusters at cloud-provider scale",
+      "url": "https://siliconangle.com/2026/11/18/molecular-discovery-speeds-up-texas-m-supercomputing-dellatsc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "Universities racing to build AI infrastructure are learning that raw compute changes the pace of science itself, from molecular discovery to materials engineering. AI and high-performance computing are converging, and campus technology leaders are now building like cloud operators. The Texas A&#38;M University System is standing up two major clusters for researchers across its 12 [&#8230;] \n The post  AI and supercomputing merge as universities build GPU clusters at cloud-provider scale  appeare",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Texas"
+      ],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dd7d3c7a536f5e",
+      "title": "Scripts can’t run AI factories: Dell moves cluster management from the server to the rack",
+      "url": "https://siliconangle.com/2026/11/18/supercomputing-needs-rack-scale-management-dell-says-dellatsc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-18",
+      "summary": "As artificial intelligence clusters grow to supercomputing scale, the hard part of the AI factory is no longer buying hardware. It is keeping racks, switches, GPUs and cooling running once they are switched on. That operational burden is reshaping what infrastructure providers sell. Dell Technologies Inc. has spent the past year pushing its AI Factory [&#8230;] \n The post  Scripts can&#8217;t run AI factories: Dell moves cluster management from the server to the rack  appeared first on  SiliconA",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "fb02e9b2fc125a",
+      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
+      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-18",
+      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
       "is_high_confidence": false
     },
     {
@@ -114,6 +640,26 @@
       "is_high_confidence": true
     },
     {
+      "id": "1d7c64d445b64c",
+      "title": "Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
+      "url": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-17",
+      "summary": "Isomorphic Labs Ltd. today announced that it has closed a $5 billion investment led by Greenoaks and Sequoia Capital. The venture capital firms were joined by more than a half-dozen other backers. The group included Isomorphic parent Alphabet Inc., which made a “significant investment.” The search giant provided the capital through its GV and CapitalG startup [&#8230;] \n The post  Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$5B",
+        "$5 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "db21c1a9392d14",
       "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
       "url": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
@@ -130,26 +676,6 @@
       ],
       "amounts": [
         "50MW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1d7c64d445b64c",
-      "title": "Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI",
-      "url": "https://siliconangle.com/2026/11/17/alphabets-isomorphic-labs-raises-5b-to-accelerate-drug-discovery-with-ai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-17",
-      "summary": "Isomorphic Labs Ltd. today announced that it has closed a $5 billion investment led by Greenoaks and Sequoia Capital. The venture capital firms were joined by more than a half-dozen other backers. The group included Isomorphic parent Alphabet Inc., which made a “significant investment.” The search giant provided the capital through its GV and CapitalG startup [&#8230;] \n The post  Alphabet’s Isomorphic Labs raises $5B to accelerate drug discovery with AI  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$5B",
-        "$5 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -284,6 +810,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "b5eb372665fbaf",
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "url": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "source": "Amazon AWS News",
+      "source_cat": "Company IR",
+      "date": "2026-11-17",
+      "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed. What they have in common is a genuine commitment to supporting the builders […]",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
       "id": "6c91ecebc1add1",
       "title": "Red Hat and Microsoft bring OpenShift virtual machines to Azure",
       "url": "https://siliconangle.com/2026/11/17/red-hat-and-microsoft-bring-openshift-virtual-machines-to-azure/",
@@ -321,23 +864,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "b5eb372665fbaf",
-      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
-      "url": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
-      "source": "Amazon AWS News",
-      "source_cat": "Company IR",
-      "date": "2026-11-17",
-      "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed. What they have in common is a genuine commitment to supporting the builders […]",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
       "id": "1e0d37239a6f13",
       "title": "ReNew Energy announces investments worth Rs 800 billion in Andhra Pradesh with largest share dedicated to building hyperscale data centre - tele.net",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNN0pxTXJqbG00ZnR4cmpwUkREN2VyM1JmZXVNVl9LNDhHOTZQd2JLM0J0b1FDRnREQTJjb2N6aVhnNE9XZThhdHNHQ2haU0tCVVRyLWRyeVljVW1WRDA4bFdSaG1jb0tPZjFkMVo0aHpfc3laeElkbmg3NF9VamVaOEVYUkRVM0IyekdZUnpCdEtlVlUxTG44eVdPV01ha0d0TWNMU1ptRW5TaFRZaDlDUEtNRnB6bi1NZzROZUFjSXJUSTVJYXlObmhCQnJlOWRVVWZOTmxySHNDdUNIUGJyaHROeDluTUFBbU5OMVNwVUVPRmpoWUh0WUw0cHh0MUttbnBJYWhILUlGSkdT?oc=5",
@@ -346,38 +872,6 @@
       "date": "2026-11-17",
       "summary": "ReNew Energy announces investments worth Rs 800 billion in Andhra Pradesh with largest share dedicated to building hyperscale data centre &nbsp;&nbsp; tele.net",
       "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "9277a06263c42a",
-      "title": "Nvidia doubles quarterly earnings, raises forecast, “does not intend to reinstate Jensen as CEO”",
-      "url": "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-17",
-      "summary": "Huge earnings, but CEO drama casts a long shadow",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "96222099e521ad",
-      "title": "The Cooling Supplement",
-      "url": "https://www.datacenterdynamics.com/en/magazines/the-cooling-supplement-2026-4/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-17",
-      "summary": "Hot topics for cold data centers",
-      "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
       "amounts": [],
@@ -446,38 +940,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1880861e36e185",
-      "title": "Arista takes aim at the next AI network battleground: distributed inference",
-      "url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-17",
-      "summary": "Awareness of the network&#8217;s role in artificial intelligence has steadily increased, with much of the focus on the back end – larger clusters, faster ports and scale-across fabrics that stitch graphics processing units together across data centers. Arista Networks Inc. has seen continued, accelerated growth and has been one of the biggest winners of that [&#8230;] \n The post  Arista takes aim at the next AI network battleground: distributed inference  appeared first on  SiliconANGLE .",
-      "finding_type": "Expansion",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "6b3376c0637b60",
-      "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
-      "url": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-17",
-      "summary": "Nvidia Corp. today introduced a set of offerings designed to speed up scientific research across a range of fields. The lineup is headlined by Rubin HPC, an upcoming graphics card with significantly more cores than the company’s current flagship chip. It’s joined by more than a half-dozen software tools geared toward scientists and engineers. The [&#8230;] \n The post  At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -638,13 +1100,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "4e0d2e777ec012",
-      "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
+      "id": "9b9f4d554dc7c5",
+      "title": "Google Wallet is now available on iOS in the U.S.",
+      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-11-17",
-      "summary": "Create custom avatars in Google Vids for free. Design your digital likeness using a selfie and voice recording to narrate videos. Try it out today.",
+      "summary": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -655,13 +1117,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "9b9f4d554dc7c5",
-      "title": "Google Wallet is now available on iOS in the U.S.",
-      "url": "https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/",
+      "id": "4e0d2e777ec012",
+      "title": "Anyone can create a personal avatar of themselves in Google Vids, at no cost.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-11-17",
-      "summary": "Google Wallet is now available on iOS in the U.S. Manage your tickets, boarding passes, and receipts in one secure hub. Get the details.",
+      "summary": "Create custom avatars in Google Vids for free. Design your digital likeness using a selfie and voice recording to narrate videos. Try it out today.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -754,6 +1216,70 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9277a06263c42a",
+      "title": "Nvidia doubles quarterly earnings, raises forecast, “does not intend to reinstate Jensen as CEO”",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-17",
+      "summary": "Huge earnings, but CEO drama casts a long shadow",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "96222099e521ad",
+      "title": "The Cooling Supplement",
+      "url": "https://www.datacenterdynamics.com/en/magazines/the-cooling-supplement-2026-4/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-17",
+      "summary": "Hot topics for cold data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1880861e36e185",
+      "title": "Arista takes aim at the next AI network battleground: distributed inference",
+      "url": "https://siliconangle.com/2026/11/17/arista-takes-aim-at-the-next-ai-network-battleground-distributed-inference/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-17",
+      "summary": "Awareness of the network&#8217;s role in artificial intelligence has steadily increased, with much of the focus on the back end – larger clusters, faster ports and scale-across fabrics that stitch graphics processing units together across data centers. Arista Networks Inc. has seen continued, accelerated growth and has been one of the biggest winners of that [&#8230;] \n The post  Arista takes aim at the next AI network battleground: distributed inference  appeared first on  SiliconANGLE .",
+      "finding_type": "Expansion",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6b3376c0637b60",
+      "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
+      "url": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-17",
+      "summary": "Nvidia Corp. today introduced a set of offerings designed to speed up scientific research across a range of fields. The lineup is headlined by Rubin HPC, an upcoming graphics card with significantly more cores than the company’s current flagship chip. It’s joined by more than a half-dozen software tools geared toward scientists and engineers. The [&#8230;] \n The post  At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -941,8 +1467,8 @@
       "id": "265a97bd9b6546",
       "title": "AWS breaks ground on $7bn data center in Indiana - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkl6eHhwOG1kNmpIWlV6YURITG11eDhvUjdfSFBuY2h5ZmM1TVhmaTNVS3hUZ0J3RjZyVHZLZDVJenRmVl94TTNnenRWejNpcTd4alQyaGV2VGdsUFV1YUhBRUxaS3hLN1FQLXh5RUhhN2hZQkM4NXZ3OWlmeWlucDNJY2dWOEM0VWxJNmpxdENKU3MtbHc?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
       "date": "2026-11-16",
       "summary": "AWS breaks ground on $7bn data center in Indiana &nbsp;&nbsp; Data Center Dynamics",
       "finding_type": "Statement / Update",
@@ -1064,6 +1590,25 @@
       "is_high_confidence": false
     },
     {
+      "id": "cf4ae995e47460",
+      "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-16",
+      "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. \n The post  94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Singapore"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "c838d6b0f160c8",
       "title": "Three small failures combined to take down Microsoft 365",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
@@ -1160,25 +1705,6 @@
         "NVIDIA"
       ],
       "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cf4ae995e47460",
-      "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
-      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-16",
-      "summary": "More than 180 small businesses, heartland merchants and creator-entrepreneurs joined Meta Upskill Day 2026 in Singapore, part of Meta's Small Business Growth Academy, with Senior Minister of State Low Yen Ling attending as Guest of Honour. \n The post  94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Singapore"
-      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -9975,551 +10501,6 @@
         "40MW"
       ],
       "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "477fb9e9678bd6",
-      "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
-      "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "Dulo Inc., a startup co-founded by prominent artificial intelligence researcher Sebastian Thrun, has raised $130 million in funding. The Information broke the news of the investment on Thursday. Dulo co-founder Adrian Aoun confirmed the report in a post on X. Before launching Dulo with Thrun (pictured) earlier this year, Aoun sold an early natural language processing [&#8230;] \n The post  Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo  appeared first on  Silicon",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$130M",
-        "$130 million"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4995fae7890032",
-      "title": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY3VVTlNDQWhldTR1OVNqT25wb1IyS1ZpZ1NzUWtXVHl4blhiVTN4WW5VcmthbS1XemFVaWxSeTBEeHV1WjRQaXQ2LW5TeTVpTGdfa0hGNU1wX3Z1bU12dHlPeVZhOWNSVWEwdngtVHcyUWpBUmN6cUF2MVBaLWZ1dXMyd1dSQzBvQVlSbzBOeS1oeW4wWmJ1eGxwb0NtTlRfZHA4TW5fd2FGeWtVckJ6RzFwblltTGdUU0JlTDR5dG9USGdGVVMzR05URTRBdjBrN05OTVctUHZRWnBRdnfSAeIBQVVfeXFMTzZIVzJQYWpjOHJack5rX1FpeF9BNDJ1NFhvTW5qUmw5OE5QZVFmVkJCcUZKd2pWTlUzVnQtY2NaTlRhSVR2ZDlLRkpkcXI1RktGNmEwNmsyTGNxdHhaYm1zTTk3azhmSG96cm41RVlVT3EyalZrSU52eXc0dVRvbFVRTlNTS1E4dldlTUFrVFRKU1ByN2ZoYW5YRV9uLXBGbVlGMTE4dXV2bnNaWkJ6Sm1MZlgwT2taS25Jc3VPcHJobUM3a29tUkRwOVBIaXpwTXJOQ0Y5WElLb3VTUzJlWXBZdw?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-10-30",
-      "summary": "Vyoma.AI breaks ground on 52 MW AI-ready data center in Chennai &nbsp;&nbsp; ET Datacenters",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "52 MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2626e1cbfd5359",
-      "title": "PowerBank plans 2MW modular data center in Ontario, Canada",
-      "url": "https://www.datacenterdynamics.com/en/news/powerbank-plans-2mw-modular-data-center-in-ontario-canada/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Signs first lease with AI cloud partner",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "2MW"
-      ],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3ef7b4b97d0011",
-      "title": "Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss",
-      "url": "https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "Updated with Friday stock price: Shares of Amazon.com Inc. fell more than 7% in late trading today after the company missed expectations on earnings and revenue and reported rising negative free cash flow as it continues to throw billions of dollars at its cloud infrastructure build out. However, investors Friday thought better of the quarter, [&#8230;] \n The post  Despite cloud boom, Amazon&#8217;s stock falls on disappointing earnings and revenue miss  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 4,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4a194c67e40a9f",
-      "title": "The hidden threat in Anthropic’s prospectus: diseconomies of scale",
-      "url": "https://siliconangle.com/2026/10/30/the-hidden-threat-in-anthropics-prospectus-diseconomies-of-scale/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "As potentially the largest IPO in history, Anthropic PBC is breaking new ground. Its prospectus lists 88 risk factors covering 93 pages alone. From artificial intelligence posing an existential threat to humanity to the possibility AI will blackmail people, the company lists a litany of risks that should make any potential Anthropic investor wary. One [&#8230;] \n The post  The hidden threat in Anthropic’s prospectus: diseconomies of scale  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "90c67cec457ee6",
-      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-30",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "2c508a37049fec",
-      "title": "Modular data center provider DXN loses neocloud customer contract",
-      "url": "https://www.datacenterdynamics.com/en/news/modular-data-center-provider-dxn-loses-neocloud-customer-contract/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Customer cancels deal after shift in business, company still paid for work completed",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "cfa61d363cc946",
-      "title": "Google Fitbit Edge: On shelves now",
-      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-30",
-      "summary": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1caea6200b88fb",
-      "title": "See who has access to your Gmail inbox in 2 minutes.",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-10-30",
-      "summary": "Run a quick Google Security Checkup and protect your email with three quick and easy steps.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "70f4440668aaf0",
-      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1hMOFZzQ0lFZmg4ci0xdnpsVkJsU1hmVW5zSjltYWs2OXBWNHpUV2Q2OHVZLWFqQUNxTVo3a0IzdkM4UU40WDZKTDFWNUJLODNlaFFLMVNyWWpKLU5EcFFGMUlyRFdqcUpORzJrQ3NRVTg0TnVPRTN0XzQ2ZWZxUlM1bmZTUWs?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-30",
-      "summary": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St. &nbsp;&nbsp; The New York Times",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "New York"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0462f9632ff006",
-      "title": "As Anthropic finally files for its IPO, rising risks aren’t slowing the AI buildout – yet",
-      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "The other artificial intelligence shoe dropped this week, as Anthropic filed for what surely will be the second blockbuster AI initial public offering of stock this year. Nearly 70,000 words in the filing list a ton of risks, but in short, it&#8217;s making unimaginably huge bets on buying computing power, it&#8217;s uncertain on how long [&#8230;] \n The post  As Anthropic finally files for its IPO, rising risks aren&#8217;t slowing the AI buildout &#8211; yet  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "287d6c5c8f7610",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-30",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b6bcacfc7d8363",
-      "title": "The race to deploy AI agents finds a familiar hurdle in data access",
-      "url": "https://siliconangle.com/2026/10/30/role-based-access-control-decides-ai-agents-can-trusted-evolve26/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "Enterprises racing to put AI agents into production are discovering that role-based access control, not model choice, decides whether those agents can be trusted. Rising inference costs, privacy worries and sovereignty demands are also pulling more AI workloads back inside corporate data centers. That shift favors companies that have spent years governing sensitive data at [&#8230;] \n The post  The race to deploy AI agents finds a familiar hurdle in data access  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1331d630134ba4",
-      "title": "Data center mooted in Glasgow by Scottish automotive firm",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-mooted-in-glasgow-by-scottish-automotive-firm/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Local automotive company sounding out local council about a project near Cowlairs Park",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7aaa7dd51c982c",
-      "title": "DayOne signs MoU with Sembcorp to integrate power and energy solutions across APAC data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/dayone-signs-mou-with-sembcorp-to-integrate-power-and-energy-solutions-across-apac-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Part of the company’s Bring Your Own Power initiative",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0c3cee6aec932d",
-      "title": "Sponsored: The new age of contractual risk allocation in data center development",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-new-age-of-contractual-risk-allocation-in-data-center-development/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "How hyperscale and AI-driven demand is reshaping contractual liabilities across the development stack",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "f7d5818e1ba925",
-      "title": "Sabey DC to pilot HVO fuel as diesel replacement at its data center in Austin, Texas",
-      "url": "https://www.datacenterdynamics.com/en/news/sabey-dc-to-pilot-hvo-fuel-as-diesel-replacement-at-its-data-center-in-austin-texas/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "If successful, the company plans to expand to additional sites",
-      "finding_type": "Expansion",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "45739579486338",
-      "title": "A taxonomy of American data center opposition: Politics, misinformation, and conspiracy theories",
-      "url": "https://www.datacenterdynamics.com/en/analysis/a-taxonomy-of-american-data-center-opposition-politics-misinformation-and-conspiracy-theories/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "The industry is facing an unprecedented tide of misinformation spreading across social media",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "24f90993972e19",
-      "title": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
-      "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-30",
-      "summary": "The other artificial intelligence shoe dropped this week, as Anthropic filed for what surely will be the second blockbuster AI initial public offering of stock this year. Nearly 70,000 words in the filing list a ton of risks, but in short, it&#8217;s making unimaginably huge bets on buying computing power, it&#8217;s uncertain on how long [&#8230;] \n The post  As Anthropic finally files for IPO, rising risks aren&#8217;t slowing the AI buildout &#8211; yet  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "607fd79c13b224",
-      "title": "The network wall: why switches aren’t scaling fast enough for AI data centers",
-      "url": "https://www.datacenterdynamics.com/en/opinions/the-network-wall-why-switches-arent-scaling-fast-enough-for-ai-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "A failure to scale could hurt data center operators",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "d6bf145e7c1b48",
-      "title": "DayOne inks MoU with Blue Whale Energy to explore feasibility of a distributed virtual power plant in Singapore",
-      "url": "https://www.datacenterdynamics.com/en/news/dayone-inks-mou-with-blue-whale-energy-to-explore-feasibility-of-a-distributed-virtual-power-plant-in-singapore/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Would support DayOne's SG1 data center",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Singapore"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "29fd1a0711e0a2",
-      "title": "Delhi Township considering data center resolution days after proposal made public - Lansing City Pulse",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSXZqY3lPb2lhRVhtQ1ZGbGg3QlJpVzdBLW9OajdFdW9sZVpRQnU3RmNiZi1FS2NscFc3VUVwaU1tRlkxTFhUT2tHcmFOY00wQjA5a19uZ1oycWNOdnJHLUFvMVhDbEpubHNKNFg2U2FxZTc2cWktdDFneE5vX1d5S3cxNkVmdElqa29zM2RKb01ubUprYzNYNDZ5cG12TnpZd2xRT09Ca1RDTHpEblNKTg?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-10-30",
-      "summary": "Delhi Township considering data center resolution days after proposal made public &nbsp;&nbsp; Lansing City Pulse",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7f8a4e5a0b49cd",
-      "title": "DCD Talks: How high-density workloads change power distribution with Megan Josselyn, Starline a brand of Legrand",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-talks-how-high-density-workloads-change-power-distribution-with-megan-josselyn-starline-a-brand-of-legrand/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "Megan Josselyn of Starline a brand of Legrand, and DCD's Tam Pledger discuss the evolution of power distribution in data centers due to high-density workloads and AI",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "c6deb5c9f0f0f0",
-      "title": "Sponsored: The Americas' data center boom may soon face a critical power crunch, Wärtsilä warns – and the industry is moving too fast to see it coming",
-      "url": "https://www.datacenterdynamics.com/en/product-news/the-americas-data-center-boom-may-soon-face-a-critical-power-crunch-w%C3%A4rtsil%C3%A4-warns-and-the-industry-is-moving-too-fast-to-see-it-coming/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-10-30",
-      "summary": "New landmark analysis of data center power across the Americas identifies “speed to powerless” as the defining infrastructure risk of the AI era",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "539a9325613f5c",
-      "title": "Energy-efficient inference chip developer FuriosaAI raises $620M to solve the data center power bottleneck",
-      "url": "https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-29",
-      "summary": "South Korean inference chip startup FuriosaAI Inc. said today it’s ready to step up its challenge to Nvidia Corp. after raising a bumper $620 million round of funding to scale production of its energy-efficient artificial intelligence processors. The round brings FuriosaAI’s valuation to a cool $2.9 billion, the startup said. The investment was led by [&#8230;] \n The post  Energy-efficient inference chip developer FuriosaAI raises $620M to solve the data center power bottleneck  appeared first o",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$620 million",
-        "$620M",
-        "$2.9 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "800418a5bbece1",
-      "title": "Alphabet’s stock sinks after shocking investors with top- and bottom-line misses",
-      "url": "https://siliconangle.com/2026/10/28/alphabets-stock-sinks-after-shocking-investors-with-top-and-bottom-line-miss/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-29",
-      "summary": "Updated with Thursday stock price: Shares of Alphabet Inc. fell more than 12% today after the Google parent Wednesday reported a stunning earnings miss and a substantial drop in free cash flow at the end of its third quarter. The drop vaporized more than $500 billion in market value for Alphabet&#8217;s stock. The search engine [&#8230;] \n The post  Alphabet&#8217;s stock sinks after shocking investors with top- and bottom-line misses  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$500 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "54258711e13b2f",
-      "title": "Alphabet’s stock sinks after shocking investors with top-and-bottom line miss",
-      "url": "https://siliconangle.com/2026/10/28/alphabets-stock-sinks-after-shocking-investors-with-top-and-bottom-line-miss/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-29",
-      "summary": "Updated with Thursday stock price: Shares of Alphabet Inc. fell more than 12% today after the Google parent Wednesday reported a stunning earnings miss and a substantial drop in free cash flow at the end of its third quarter. The drop vaporized more than $500 billion in market value for Alphabet&#8217;s stock. The search engine [&#8230;] \n The post  Alphabet&#8217;s stock sinks after shocking investors with top-and-bottom line miss  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$500 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "20235e49067a85",
-      "title": "Wabi reels in $55M for its consumer-focused AI assistant",
-      "url": "https://siliconangle.com/2026/10/29/wabi-reels-in-55m-for-its-consumer-focused-ai-assistant/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-10-29",
-      "summary": "Wabi Inc., the developer of an artificial intelligence assistant for consumers, today announced that it has raised $55 million in funding. IVP led the seed round with contributions from Amazon Alexa Fund, Andreessen Horowitz and Forerunner. They were joined by a group of angel investors that included Salesforce Inc. CEO Marc Benioff and Shopify Inc. [&#8230;] \n The post  Wabi reels in $55M for its consumer-focused AI assistant  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [
-        "$55 million",
-        "$55M"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "e20a15444e8a7c",
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-10-29",
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$9.06 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4335955480aca1",
-      "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project - The Information",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
-      "source": "GNews: Amazon AWS data center",
-      "source_cat": "Company",
-      "date": "2026-10-29",
-      "summary": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project &nbsp;&nbsp; The Information",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$45 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "3ef0609d7032fb",
-      "title": "$10 billion QTS data center campus breaks ground in Van Wert, Ohio - megaproject.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWM2TlJZWTlSRDVCaFp2bU1Ddl9kY18zNmdkWXlhaFV0RnRiUnJIbHZRS2lDb1VvQlh5LW44UFBtenRMcFJ4UkpqWXlCWWZLTklUZGpka1lIRUo3LVN3SE9rWTVnYXRLdDU1SzkwdWhPNGR6aWltUnNYQUx1M0U1Umxfemt2b2w0ZkdPeE1ZSXBNLUNNYWdRZFhqbnJ4UHhUTGllTWhNRk0?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-10-29",
-      "summary": "$10 billion QTS data center campus breaks ground in Van Wert, Ohio &nbsp;&nbsp; megaproject.com",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Ohio"
-      ],
-      "amounts": [
-        "$10 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "4718d243fba462",
-      "title": "CenterPoint adds $4B to power lines as Houston data center growth accelerates - Houston Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEctVHlzS3NlU2Z4ZkY5aUMwZk1EUUttOHp1MGNxR25FOEJEZVE1MXNZVDM1cnFrdlBualRva2dnM2VnS2VVN05md3RVSHVYSHZ5VjhYMExCZWhjRmYzNGxIRktGbllMRzZYNVhCUG5UV2x3ejZHc2p1dExDcTFhOGJyRVVzYzd0WWtod1pfUkhlSl81cEZDVHdSOVlfbXNoVktabDFzUHJLMEFqMzJ6LUZ1dHUwbXNkUy1R?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-10-29",
-      "summary": "CenterPoint adds $4B to power lines as Houston data center growth accelerates &nbsp;&nbsp; Houston Chronicle",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$4B"
-      ],
-      "confidence": 5,
       "is_high_confidence": true
     }
   ]
