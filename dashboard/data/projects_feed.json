@@ -1,11 +1,26 @@
 {
-  "last_updated": "2026-11-20T18:22:01.982034+00:00",
+  "last_updated": "2026-11-21T01:07:36.732487+00:00",
   "finding_count": 600,
-  "new_project_count": 102,
+  "new_project_count": 103,
   "cancellation_count": 28,
   "sec_filing_count": 1,
   "high_confidence_count": 156,
   "findings": [
+    {
+      "id": "4fb973c8ae9978",
+      "title": "Trump announces plan to tax US companies that build data centers abroad",
+      "url": "https://siliconangle.com/2026/11/20/trump-announces-plan-to-tax-us-companies-that-build-data-centers-abroad/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-21",
+      "summary": "President Donald Trump today announced plans to impose a “tremendous tax” on U.S. companies that build data centers overseas.  “We’re not allowing data centers to go into other countries because China will take all of them, and we’re not allowing that to happen,” Trump told reporters during a White House briefing. That hints the plan [&#8230;] \n The post  Trump announces plan to tax US companies that build data centers abroad  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
     {
       "id": "b0261a436cd0a0",
       "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
@@ -117,18 +132,37 @@
       "is_high_confidence": false
     },
     {
-      "id": "4eaae713e176bd",
-      "title": "Trump Threatens Massive Tax on US Data Centers Built Overseas - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVmZDc1FwQURmVUVCUHU0TkU4cml0Uk1pc1JueVV0ekVPRXpSd2ZnRFAxUmRWRUUtWExyd09LclRMdko2MGYxZ0pieFpjV2o2aGRaRDE4OE5xOFhadW5FWjhPZDlQTlBEb1VxNjJ1YVYyTmVmVnFV?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
+      "id": "b905e473bb8a48",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
       "date": "2026-11-20",
-      "summary": "Trump Threatens Massive Tax on US Data Centers Built Overseas &nbsp;&nbsp; Newsweek",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
       "finding_type": "Statement / Update",
-      "companies": [],
+      "companies": [
+        "Meta"
+      ],
       "locations": [],
       "amounts": [],
-      "confidence": 2,
+      "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "89e7c7f395ba95",
+      "title": "Anthropic researcher claims to have proven Riemann hypothesis using Claude",
+      "url": "https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-20",
+      "summary": "An Anthropic PBC researcher claims to have used Claude to prove the Riemann hypothesis, which is widely considered to be the most important open question in mathematics. Levent Alpöge announced his discovery today on his personal website. Anthropic has not published an official announcement about the news. The company floated on the Nasdaq a day [&#8230;] \n The post  Anthropic researcher claims to have proven Riemann hypothesis using Claude  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
       "is_high_confidence": false
     },
     {
@@ -256,6 +290,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "96d571f334b9e0",
+      "title": "Equifax cuts database firefighting after moving billing to Oracle on AWS",
+      "url": "https://siliconangle.com/2026/11/20/multicloud-strategy-equifax-moves-billing-oracle-aws-oracleaiworld/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-20",
+      "summary": "A multicloud strategy once meant deciding which workloads lived with which provider. Now database providers are moving into the clouds customers already use, and AI projects are raising the value of those migrations well beyond the back office. Equifax Inc. is a case in point. The credit bureau has moved nearly all of its on-premises [&#8230;] \n The post  Equifax cuts database firefighting after moving billing to Oracle on AWS  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon",
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "a2b3d881e4213a",
       "title": "Anthropic goes public, but is it too late to save the AI trade?",
       "url": "https://siliconangle.com/2026/11/20/anthropic-goes-public-but-is-it-too-late-to-save-the-ai-trade/",
@@ -290,6 +342,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "58f36b1e4ebe0f",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-20",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "e7b7fdf35dc6e5",
       "title": "Get your year-end tasks done with new Connected Apps.",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
@@ -301,6 +370,38 @@
       "companies": [
         "Google"
       ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5572adf86eede1",
+      "title": "Advancing Science Together: Highlights From the Open Source AI For Science Summit",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-20",
+      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery.  \n The post  Advancing Science Together: Highlights From the Open Source AI For Science Summit  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "4eaae713e176bd",
+      "title": "Trump Threatens Massive Tax on US Data Centers Built Overseas - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YVmZDc1FwQURmVUVCUHU0TkU4cml0Uk1pc1JueVV0ekVPRXpSd2ZnRFAxUmRWRUUtWExyd09LclRMdko2MGYxZ0pieFpjV2o2aGRaRDE4OE5xOFhadW5FWjhPZDlQTlBEb1VxNjJ1YVYyTmVmVnFV?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-20",
+      "summary": "Trump Threatens Massive Tax on US Data Centers Built Overseas &nbsp;&nbsp; Newsweek",
+      "finding_type": "Statement / Update",
+      "companies": [],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -354,6 +455,21 @@
       "is_high_confidence": false
     },
     {
+      "id": "8ad22fdc15a125",
+      "title": "Inference pushes AI to smaller sites, making the data layer the deciding factor",
+      "url": "https://siliconangle.com/2026/11/20/inference-monolithic-data-center-ai-data-layer-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-20",
+      "summary": "Inference is moving to the center of enterprise AI spending, and the AI data layer is emerging as the piece that decides whether those investments pay off. As GPU costs climb and component shortages persist, the architecture behind AI is shifting from a handful of massive facilities toward a distributed web of smaller sites. That [&#8230;] \n The post  Inference pushes AI to smaller sites, making the data layer the deciding factor  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 1,
+      "is_high_confidence": false
+    },
+    {
       "id": "072b4bceead649",
       "title": "Sponsored: Principles of a financeable GPUaaS SLA",
       "url": "https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/",
@@ -361,6 +477,21 @@
       "source_cat": "DC Specialist",
       "date": "2026-11-20",
       "summary": "\"A financeable SLA is measurable, calculable, and auditable\"",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 0,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a4ddaadfc5594e",
+      "title": "AI deals shrink to as little as 30 days as the data layer sets the pace",
+      "url": "https://siliconangle.com/2026/11/20/ai-data-infrastructure-deals-shrink-year-to-30-days-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-20",
+      "summary": "Artificial intelligence has turned data infrastructure from a back-office purchase into the bottleneck that decides how fast GPUs pay off. As hyperscalers, neoclouds and enterprises race to expand their data layers, the way that infrastructure gets bought is changing just as fast. The storage industry&#8217;s longtime performance specialist sees that shift as its opening. DataDirect [&#8230;] \n The post  AI deals shrink to as little as 30 days as the data layer sets the pace  appeared first on  ",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -523,42 +654,8 @@
       "is_high_confidence": false
     },
     {
-      "id": "3f3cbe2be260b0",
-      "title": "Enterprises fear AI success more than failure, because success means lock-in they can’t escape",
-      "url": "https://siliconangle.com/2026/11/19/scientific-simulation-meets-ai-sovereignty-cloud-act-sc26/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-19",
-      "summary": "The supercomputing world built its reputation on scientific simulation, but the artificial intelligence infrastructure now filling the same data centers raises a harder question. When models turn data into revenue, control over that data and the intelligence it produces becomes a board-level concern few companies discuss publicly. A new buyer&#8217;s guide sets out to measure [&#8230;] \n The post  Enterprises fear AI success more than failure, because success means lock-in they can&#8217;t escap",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "15c70ad7f1320b",
-      "title": "Google’s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
-      "url": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-19",
-      "summary": "After laying low during the summer while competitors Anthropic PBC and OpenAI Group PBC unleashed powerful new frontier models, Google LLC is hitting back. Having released its latest flagship model Gemini 4 Carbon one month ago, followed by the cost-effective Gemini 4 Hydrogen, it’s now striking a balance between the two with Gemini 4 Neon. Google [&#8230;] \n The post  Google&#8217;s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics  appeared first on ",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "OpenAI",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "45582898307a00",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
+      "id": "f48b0accf518fa",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "source": "Ars Technica",
       "source_cat": "Tech News",
@@ -584,40 +681,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "38a42c898e3520",
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-19",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "dabe2828cbdeeb",
-      "title": "Google will launch Android app verification requirement globally in January 2027",
-      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-19",
-      "summary": "Google says almost all developers have already gotten on board with verification.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
       ],
       "locations": [],
       "amounts": [],
@@ -777,6 +840,91 @@
       "locations": [
         "Indonesia"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "3f3cbe2be260b0",
+      "title": "Enterprises fear AI success more than failure, because success means lock-in they can’t escape",
+      "url": "https://siliconangle.com/2026/11/19/scientific-simulation-meets-ai-sovereignty-cloud-act-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-19",
+      "summary": "The supercomputing world built its reputation on scientific simulation, but the artificial intelligence infrastructure now filling the same data centers raises a harder question. When models turn data into revenue, control over that data and the intelligence it produces becomes a board-level concern few companies discuss publicly. A new buyer&#8217;s guide sets out to measure [&#8230;] \n The post  Enterprises fear AI success more than failure, because success means lock-in they can&#8217;t escap",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "15c70ad7f1320b",
+      "title": "Google’s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics",
+      "url": "https://siliconangle.com/2026/11/18/googles-latest-midtier-model-gemini-4-neon-is-three-times-faster-than-carbon-and-wins-on-some-metrics/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-19",
+      "summary": "After laying low during the summer while competitors Anthropic PBC and OpenAI Group PBC unleashed powerful new frontier models, Google LLC is hitting back. Having released its latest flagship model Gemini 4 Carbon one month ago, followed by the cost-effective Gemini 4 Hydrogen, it’s now striking a balance between the two with Gemini 4 Neon. Google [&#8230;] \n The post  Google&#8217;s latest midtier model Gemini 4 Neon is three times faster than Carbon and wins on some metrics  appeared first on ",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "45582898307a00",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-19",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "38a42c898e3520",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-19",
+      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dabe2828cbdeeb",
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-19",
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -991,23 +1139,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "f48b0accf518fa",
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-19",
-      "summary": "Amazon now uses its shopping platform for political purposes.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "ab241639404bb3",
       "title": "Stonepeak-backed Cirion spins off its data center business as Datrix",
       "url": "https://www.datacenterdynamics.com/en/news/stonepeak-backed-cirion-spins-off-its-data-center-business-as-datrix/",
@@ -1158,13 +1289,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "2ba1724a2b2eef",
-      "title": "Sovereignty is the AI story everyone mentions and few have planned for ahead of 2027",
-      "url": "https://siliconangle.com/2026/11/19/ai-infrastructure-economics-favor-vultr-s-global-footprint-sc26/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "ce43638851a67a",
+      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
       "date": "2026-11-19",
-      "summary": "AI infrastructure economics are entering a more sober phase as enterprises move past standing up AI factories and start asking how to run them profitably. Durability, real demand and long-term value are now the tests separating lasting providers from the froth. That shift rewards cloud providers with an operating track record rather than a single [&#8230;] \n The post  Sovereignty is the AI story everyone mentions and few have planned for ahead of 2027  appeared first on  SiliconANGLE .",
+      "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -1173,13 +1304,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ce43638851a67a",
-      "title": "We’re partnering with Blue Origin on our first heavy-lift Project Suncatcher launch.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
+      "id": "2ba1724a2b2eef",
+      "title": "Sovereignty is the AI story everyone mentions and few have planned for ahead of 2027",
+      "url": "https://siliconangle.com/2026/11/19/ai-infrastructure-economics-favor-vultr-s-global-footprint-sc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-11-19",
-      "summary": "We’re partnering with Blue Origin on the first heavy-lift launch for Project Suncatcher, our long-term moonshot to scale AI infrastructure in space by tapping into the a…",
+      "summary": "AI infrastructure economics are entering a more sober phase as enterprises move past standing up AI factories and start asking how to run them profitably. Durability, real demand and long-term value are now the tests separating lasting providers from the froth. That shift rewards cloud providers with an operating track record rather than a single [&#8230;] \n The post  Sovereignty is the AI story everyone mentions and few have planned for ahead of 2027  appeared first on  SiliconANGLE .",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -10325,144 +10456,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e57d7a1fcbbdd6",
-      "title": "Oracle urges database customers to prepare for quantum security risks",
-      "url": "https://siliconangle.com/2026/11/04/quantum-resistant-cryptography-oracle-says-act-now-oracleaiworld/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-04",
-      "summary": "Attackers can copy encrypted traffic today and decrypt it once quantum computers mature, making quantum-resistant cryptography a present-day concern. Oracle Corp. is applying the philosophy behind its security controls beneath AI agents to encryption across database fleets, according to Vipin Samar (pictured), senior vice president of software engineering, database security, at Oracle. &#8220;Even though we [&#8230;] \n The post  Oracle urges database customers to prepare for quantum security ris",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Oracle"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8b425625d0a437",
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-04",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "78e3a83c2d0d6c",
-      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-04",
-      "summary": "\"Data centers in space looking pretty appealing right now.\"",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5c1e0935300cfa",
-      "title": "Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers",
-      "url": "https://siliconangle.com/2026/11/04/google-fine-tunes-its-agentic-data-cloud-to-support-highly-scalable-autonomous-ai-workers/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-04",
-      "summary": "Artificial intelligence is no longer just about conversational assistants that tell people what to do. These days, it’s all about work automation, and Google Cloud is making sure it’s right at the forefront of that trend with its revamped Agentic Data Cloud platform, which received a host of new updates today. The Agentic Data Cloud [&#8230;] \n The post  Google fine-tunes its Agentic Data Cloud to support highly scalable autonomous AI workers  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "b1b5bd6744358d",
-      "title": "Google to pour US$15bil into Malaysia's digital future - NST Online",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1ZCeGtuOWpNNDBSaW5zaEVsR2pJZjY0eUZKRjh1NGQtQjFOdkF0YWowalVwckdua2pFVWc0ZlkyYWF2Q2xHaFJNQWpqMG9za0h3NHIyd2ZVT184d1RIVkVHVFJULWQ4X3huZ0d3S21QbF9zQmJ3RUF4TFVPbERNaGNYRTFxYy10NGZOWkE4TlMyTy12Z0NTYVhUdzUwTXp2VkHSAacBQVVfeXFMT2xyUlJ2QmVYcEYyaHZsWFZCdms2dXc2NTRldVpTal9kdDlnYTd5b251QmpXeTBfNTYzS3JST3dkbTJUWmV4eV9YTmdBdmxFbk4wbnVueDJyVjh1a3U2X0twOTNSUzBuM1RfaVZVcTg1MFZ4MzAwWTRQSDU4UW4ycVprUkFwamlKLVVOZUNkWjBQVHpzZml4WFRvV1o5WGZMNTNMeThYYU0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google to pour US$15bil into Malaysia's digital future &nbsp;&nbsp; NST Online",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "457e925f4789a3",
-      "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
-      "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-04",
-      "summary": "First delivery of heat expected in 2029",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Sweden"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e73b7d50e6a0be",
-      "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-04",
-      "summary": "BidSkim analysis finds £444.6m spent on AWS since 2020",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [
-        "UK"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "562452328878ed",
-      "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
-      "url": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-04",
-      "summary": "Sceye deal brings HAPS from prototypes to happening",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "SoftBank"
       ],
       "locations": [],
       "amounts": [],
