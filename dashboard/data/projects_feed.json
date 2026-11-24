@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-11-23T14:06:09.955487+00:00",
+  "last_updated": "2026-11-24T02:46:13.415320+00:00",
   "finding_count": 600,
-  "new_project_count": 108,
+  "new_project_count": 93,
   "cancellation_count": 27,
-  "sec_filing_count": 1,
-  "high_confidence_count": 165,
+  "sec_filing_count": 2,
+  "high_confidence_count": 148,
   "findings": [
+    {
+      "id": "78dcb6508be8f1",
+      "title": "Amazon acquires key assets of AI startup Decart for reported $7.5B",
+      "url": "https://siliconangle.com/2026/11/23/amazon-acquires-key-assets-of-ai-startup-decart-for-reported-7-5b/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-24",
+      "summary": "Amazon.com Inc. today announced plans to hire the technical staff of startup Decart.AI Inc. and acquire its core technology. The company didn’t disclose the terms of the deal. However, sources told Bloomberg that Amazon is paying about $7.5 billion. That’s nearly twice the valuation Decart reportedly received after its most recent funding round in May. [&#8230;] \n The post  Amazon acquires key assets of AI startup Decart for reported $7.5B  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [
+        "$7.5 billion",
+        "$7.5B"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "4fa393abc47dbf",
+      "title": "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
+      "url": "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-24",
+      "summary": "Anthropic PBC isn’t satisfied with having Claude just write new software. With a new update today, Claude now can tell developers when the code it has generated is ready to ship into production environments. The company announced the launch of Claude Ship, which is a new suite of artificial intelligence agents capable of automating code [&#8230;] \n The post  Anthropic&#8217;s Claude Ship automates the final stage of the software development pipeline  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Anthropic"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
     {
       "id": "128b5503477199",
       "title": "Amazon breaks ground on its $7 billion data center campus in Whe - nwitimes.com",
@@ -26,6 +63,41 @@
       "is_high_confidence": true
     },
     {
+      "id": "a07d283dc9c4a4",
+      "title": "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+      "url": "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-23",
+      "summary": "Six months after its last funding round, artificial intelligence startup Sierra Technologies Inc. today announced that it has closed a $1.75 billion late-stage investment.  Greenoaks and Lightspeed led the Series F deal. They were joined by a group of returning backers that included Alphabet Inc.’s GV fund. Sierra sells a set of cloud services that [&#8230;] \n The post  AI agent provider Sierra closes $1.75B investment amid rapid revenue growth  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$1.75B",
+        "$1.75 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "e554ca9fbf9d4e",
+      "title": "SEC 8-K: Unknown filer",
+      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=&type=8-K&dateb=&owner=include&count=10",
+      "source": "SEC EDGAR (official filing)",
+      "source_cat": "SEC Filing",
+      "date": "2026-11-23",
+      "summary": "Official 8-K filing by Unknown filer. Period: .",
+      "finding_type": "SEC Filing",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "173e2e8aeb6249",
       "title": "Details shared of AWS' 300MW data center in Kozani, Greece",
       "url": "https://www.datacenterdynamics.com/en/news/details-shared-of-aws-300mw-data-center-in-kozani-greece/",
@@ -42,6 +114,43 @@
         "300MW"
       ],
       "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
+      "id": "00cbd2238a9e76",
+      "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
+      "url": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Company signs MoU for $1 billion project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "India"
+      ],
+      "amounts": [
+        "150MW",
+        "$1 billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
+      "id": "c23fc3b28dc453",
+      "title": "Cogent sells three data centers to I Squared Capital's Saragon",
+      "url": "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Fiber firm sells facilities in Omaha, Tacoma, and Cheyenne for $35 million",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "$35 million"
+      ],
+      "confidence": 5,
       "is_high_confidence": true
     },
     {
@@ -98,17 +207,16 @@
       "is_high_confidence": true
     },
     {
-      "id": "cb6d7f731f3916",
-      "title": "Oracle secures funding needed for OpenAI buildout",
-      "url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
+      "id": "c74b8decfa6e9f",
+      "title": "Nvidia reverses course, reinstating Jensen Huang as CEO",
+      "url": "https://siliconangle.com/2026/11/23/nvidia-reverses-course-reinstating-jensen-huang-as-ceo-president-and-director/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
       "date": "2026-11-23",
-      "summary": "Company states that November capital raise has a funny funded investment cycle",
-      "finding_type": "New Project",
+      "summary": "Artificial intelligence chip giant Nvidia Corp. today announced that Jensen Huang has been reinstated as chief executive, president and board director effective immediately after resigning almost two weeks ago. The company’s rockstar leather-jacket-wearing CEO faced turmoil earlier this month after it was revealed that he had been embroiled in a scandal involving multiple extramarital affairs, including [&#8230;] \n The post  Nvidia reverses course, reinstating Jensen Huang as CEO  appeared first",
+      "finding_type": "Statement / Update",
       "companies": [
-        "Oracle",
-        "OpenAI"
+        "NVIDIA"
       ],
       "locations": [],
       "amounts": [],
@@ -133,6 +241,135 @@
       "is_high_confidence": false
     },
     {
+      "id": "cb6d7f731f3916",
+      "title": "Oracle secures funding needed for OpenAI buildout",
+      "url": "https://www.datacenterdynamics.com/en/news/oracle-secures-funding-needed-for-openai-buildout/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Company states that November capital raise has a funny funded investment cycle",
+      "finding_type": "New Project",
+      "companies": [
+        "Oracle",
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b999ae56b2af2d",
+      "title": "AI Boom at Risk as Trump Threatens “Tremendous Tax” on Overseas Data Centers While Restrictions Mount at Home - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUhJeEZydjBJNFd2dkpkME9BaG9icGdJaEFsWGI4Y1d5RzJOSHlwQ3ZkSXQ0Ty0zX2ZMc0VNU2ZTQUdIWXlHTE14MWVBckVKSHR0cDZZcWxBMld4OTdYSGpfUzBDZmdmeU1BbzRNR0JfLTNCTzZLcFZENlB3Z1p6TTIzSHA3ajY2VFlkV3BWd3pBTU1aUE1CLWE2MzAyOHlRLUFESzFablp3NnpZSGpwTXRVR0QyQ0JoZS1WUzZQUFd0THdkUnNhcTJvQXpTaHlmc19IMDl0ekpXTWNYcVh5Y0FheUdkQQ?oc=5",
+      "source": "GNews: Amazon AWS data center",
+      "source_cat": "Company",
+      "date": "2026-11-23",
+      "summary": "AI Boom at Risk as Trump Threatens “Tremendous Tax” on Overseas Data Centers While Restrictions Mount at Home &nbsp;&nbsp; 24/7 Wall St.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e9d2160d3490d6",
+      "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+      "url": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Funds will be used to purchase Nvidia Vera Rubin chips",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "33181192d5046e",
+      "title": "The coming wave: Is compute at sea ready to sink or swim?",
+      "url": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Exploring the world of underwater and floating data centers",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6d214cfc2e8395",
+      "title": "Sponsored: Solving cabling challenges behind AI data center growth",
+      "url": "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "As data centers grow larger and denser, operators need cabling infrastructure designed to overcome the constraints of rapid expansion",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6c63699292c5dc",
+      "title": "Spain approves decree on data centers to curb electricity costs",
+      "url": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "The approval comes after several months of debate between the government and companies in the sector",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Spain"
+      ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "9f6f3fd70172fb",
+      "title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+      "url": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "In partnership with Energie 360°",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "0c36e79eb35bd3",
+      "title": "Nvidia board reinstates Jensen Huang as CEO",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-board-reinstates-jensen-huang-as-ceo/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Board said it received input from \"senior levels of United States government\" in process of reaching its decision",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8fa85ff45adc64",
       "title": "Frux Capital to provide €20m funding for Proxity data center campus in Lisbon",
       "url": "https://www.datacenterdynamics.com/en/news/frux-provides-20-million-euros-in-financing-for-the-proxity-campus-in-lisbon/",
@@ -142,6 +379,177 @@
       "summary": "Facility will be located in Loures",
       "finding_type": "Statement / Update",
       "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "c8fd53c39afbab",
+      "title": "Arm CEO extends contract to 2033 amid reports Nvidia had approached him for vacant CEO role",
+      "url": "https://www.datacenterdynamics.com/en/news/arm-ceo-extends-contract-to-2033-amid-reports-nvidia-had-approached-him-for-vacant-ceo-role/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-23",
+      "summary": "Haas will also assume role of vice chairman at SoftBank on December 1",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA",
+        "SoftBank"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "2a3373ed6ec33a",
+      "title": "HPE’s stock slides despite record revenue growth and upbeat forecast",
+      "url": "https://siliconangle.com/2026/11/23/hpes-stock-slides-despite-record-revenue-growth-and-upbeat-forecast/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-23",
+      "summary": "Server maker Hewlett-Packard Enterprise Co. posted its fastest quarterly revenue growth on record and raised its full-year forecast, but it wasn’t enough to keep up the momentum of a broader Nvidia Corp.-fueled rally, and its stock was headed lower after-hours. The company reported fourth-quarter earnings before certain costs such as stock compensation of $1.43 per [&#8230;] \n The post  HPE&#8217;s stock slides despite record revenue growth and upbeat forecast  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "b9dce842905120",
+      "title": "Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks",
+      "url": "https://siliconangle.com/2026/11/23/cisco-and-openai-launch-shirudo-an-open-source-infrastructure-shield-to-protect-against-ai-driven-cyberattacks/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-23",
+      "summary": "Cybercriminals have gained the ability to discover vulnerabilities in software and take advantage of them in seconds, and it’s all thanks to artificial intelligence. Enterprises need a better way to defend themselves, so it’s fitting that one of the world’s top AI companies, OpenAI Group PBC, together with Cisco Systems Inc., is stepping up with [&#8230;] \n The post  Cisco and OpenAI launch Shirudo open-source infrastructure shield to prevent AI-driven cyberattacks  appeared first on  SiliconANG",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "OpenAI"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "393092c55aa965",
+      "title": "AWS is making AI agents more decisive and secure with its latest Strands updates",
+      "url": "https://siliconangle.com/2026/11/23/aws-is-making-ai-agents-more-decisive-and-secure-with-its-latest-strands-updates/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-23",
+      "summary": "Amazon Web Services Inc. is trying to tackle two major headaches for artificial intelligence agents developers with a major update to Strands Agents, its open-source toolkit for building autonomous workers. Today, the cloud infrastructure giant unveiled a new family of open-weight “decision models” called Strands Decider v2, along with the debut of Box CLI, bringing [&#8230;] \n The post  AWS is making AI agents more decisive and secure with its latest Strands updates  appeared first on  SiliconA",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "6274a07ac7d2bc",
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-23",
+      "summary": "Amazon now uses its packages for political purposes.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Amazon"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "dae2d69d348664",
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "source": "Ars Technica",
+      "source_cat": "Tech News",
+      "date": "2026-11-23",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d40289c89c4311",
+      "title": "Here are 4 things you didn’t know you could do with Gemini Canvas.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-23",
+      "summary": "Boost productivity with Google Gemini Canvas. Build web apps, create custom study tools, and refine writing side-by-side. Try it in your next chat.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f8c4ce5201a610",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-23",
+      "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "f3c75b55f81936",
+      "title": "Organize and share your holiday memories with these five updates in Google Photos.",
+      "url": "https://blog.google/products-and-platforms/products/photos/google-photo-tools-holiday-season-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-23",
+      "summary": "Organize holiday memories with five new Google Photos updates. Use Gemini for video tasks and filter shared albums by people. Try these features today.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "79e50df750407a",
+      "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+      "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-23",
+      "summary": "We brought researchers together for the Open Source AI For Science Summit, where they shared how they’re using AI to accelerate scientific discovery.  \n The post  Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -208,6 +616,46 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
+    },
+    {
+      "id": "bd62d1ecbe5d81",
+      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-22",
+      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
+      "finding_type": "New Project",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [
+        "Canada"
+      ],
+      "amounts": [
+        "$13 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
+      "id": "6dd692aeb885d7",
+      "title": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzQzUHo1QjF5QktqWDB4dWJVLXhIYldVYlQ5TW14ai12WG0yQlhGcjUxSW5ZMHBtZExmNkMzVXBqd3E1Wk1vcjBsQlhDelBZQXNLQWtfTDhIZUdGVjRKYXNjZUw5RlFlMmpsNUE3Y3AxWGJIYnlVcUs3Ym1JX21CSTZfT1FkSEdHR0FjTW1MSXkyYWNicXV1Zm1nZ1VUNm1ydHMwbVl3TExqaVpjQTl3QzBaZV8tTVRtN3RmX3dGSWVTdjl6NmQtN0NNNGNwV0E?oc=5",
+      "source": "GNews: Microsoft data center build",
+      "source_cat": "Company",
+      "date": "2026-11-22",
+      "summary": "Microsoft Stock Forecast: Is Spending $190 Billion on AI Infrastructure in 2026 — Is MSFT a Buy at $452? &nbsp;&nbsp; TradingKey",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [
+        "$190 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
     },
     {
       "id": "809bc6190dd48e",
@@ -313,27 +761,6 @@
       "amounts": [],
       "confidence": 0,
       "is_high_confidence": false
-    },
-    {
-      "id": "bd62d1ecbe5d81",
-      "title": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada - EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHpJcTRfS0hLbWRWNWpadFdJOHZBaFNyUTdaUkh5ZFRSN25wTGRwNHBRZXRwVHBXR3ZQRHhWZXJ5MjNVRG5nZzU4bE1wc2RlRWhPdF9BdkNtbk9NTFNveXRvNTNoaHJheFV5SG5LQlM1Vzg3M1VWZVFYUGFiLVp4eWYxaVctcHkzdGxRREpDTnJrQnNLcC1XQlllQkc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-20",
-      "summary": "Meta to Build C$13 Billion Alberta Data Center, its First in Canada &nbsp;&nbsp; EnergyNow.com",
-      "finding_type": "New Project",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [
-        "$13 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
     },
     {
       "id": "b0261a436cd0a0",
@@ -532,23 +959,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "50643c87739f37",
-      "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
-      "url": "https://siliconangle.com/2026/11/20/canadas-sovereign-ai-ambitions-come-with-local-economic-bargain-dellatsc26/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-20",
-      "summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property lives to where compute runs and who profits from it. Canada offers a sharp test case. A modern [&#8230;] \n The post  Canada&#8217;s sovereign AI ambitions come with a local economic bargain  appeared first on  SiliconANGLE .",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Canada"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "58f36b1e4ebe0f",
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
@@ -578,6 +988,40 @@
         "Google"
       ],
       "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "d67b2903a97187",
+      "title": "Advancing Science Together: Highlights From the Open Source AI for Science Summit",
+      "url": "https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-20",
+      "summary": "We brought researchers from universities, hospitals, and industry together for the Open Source AI for Science Summit, an event built around using open source AI to accelerate scientific discovery.  \n The post  Advancing Science Together: Highlights From the Open Source AI for Science Summit  appeared first on  Meta Newsroom .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "50643c87739f37",
+      "title": "Canada’s sovereign AI ambitions come with a local economic bargain",
+      "url": "https://siliconangle.com/2026/11/20/canadas-sovereign-ai-ambitions-come-with-local-economic-bargain-dellatsc26/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-20",
+      "summary": "Data center backlash is pushing builders to show communities what they get in return, and public-private partnerships are becoming one answer. As the race for sovereign AI heats up, the question is shifting from where intellectual property lives to where compute runs and who profits from it. Canada offers a sharp test case. A modern [&#8230;] \n The post  Canada&#8217;s sovereign AI ambitions come with a local economic bargain  appeared first on  SiliconANGLE .",
+      "finding_type": "New Project",
+      "companies": [],
+      "locations": [
+        "Canada"
+      ],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -919,13 +1363,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "ff3eddda576dca",
-      "title": "Google adds computer use capabilities to Gemini’s Mac app",
-      "url": "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
+      "id": "0deed7bfcbccfd",
+      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
       "date": "2026-11-19",
-      "summary": "Google LLC today released a new version of Gemini’s Mac client that can interact with other apps on the user’s computer. The feature is available in the U.S. on launch. It requires a Google AI subscription, which equips consumer Google accounts with a broader lineup of artificial intelligence tools. The offering also includes additional storage [&#8230;] \n The post  Google adds computer use capabilities to Gemini’s Mac app  appeared first on  SiliconANGLE .",
+      "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -936,47 +1380,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "79a11cdcf46910",
-      "title": "Wiz ties Microsoft Agent Framework package compromise to release pipeline certificate",
-      "url": "https://siliconangle.com/2026/11/19/wiz-ties-microsoft-agent-framework-package-compromise-to-release-pipeline-certificate/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-19",
-      "summary": "Microsoft Corp.&#8217;s official Python package for its Agent Framework artificial intelligence agent toolkit was compromised earlier this week, as an attacker published two malicious versions to the Python Package Index that were designed to steal cloud and developer credentials. The malicious versions, 1.26.1 and 1.26.2, were published on Tuesday through Microsoft&#8217;s own publisher account, giving [&#8230;] \n The post  Wiz ties Microsoft Agent Framework package compromise to release pipeli",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Microsoft"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1ca1b654577567",
-      "title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
-      "url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-19",
-      "summary": "Nvidia Corp. reported its quarterly results this week, and contrary to the prevailing narrative, the sky didn’t fall. Revenue more than doubled year-over-year. The Vera Rubin chip platform achieved the fastest product ramp in the company’s history, and management raised its fiscal 2028 growth outlook to roughly 75%, up from 70%. By all accounts, it [&#8230;] \n The post  What we learned from Nvidia&#8217;s first earnings call without Jensen Huang  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0deed7bfcbccfd",
-      "title": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "id": "1cfa4e11bd8182",
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-11-19",
-      "summary": "Google Quantum AI research proves contextuality powers quantum algorithms at scale. See how our processor beat classical limits. Get the details.",
+      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -1055,23 +1465,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1cfa4e11bd8182",
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-11-19",
-      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "61b326e682111c",
       "title": "See some of the work from Google Flow and Flow Music Sessions artists",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/",
@@ -1122,6 +1515,57 @@
       "locations": [
         "Indonesia"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "ff3eddda576dca",
+      "title": "Google adds computer use capabilities to Gemini’s Mac app",
+      "url": "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-19",
+      "summary": "Google LLC today released a new version of Gemini’s Mac client that can interact with other apps on the user’s computer. The feature is available in the U.S. on launch. It requires a Google AI subscription, which equips consumer Google accounts with a broader lineup of artificial intelligence tools. The offering also includes additional storage [&#8230;] \n The post  Google adds computer use capabilities to Gemini’s Mac app  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "79a11cdcf46910",
+      "title": "Wiz ties Microsoft Agent Framework package compromise to release pipeline certificate",
+      "url": "https://siliconangle.com/2026/11/19/wiz-ties-microsoft-agent-framework-package-compromise-to-release-pipeline-certificate/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-19",
+      "summary": "Microsoft Corp.&#8217;s official Python package for its Agent Framework artificial intelligence agent toolkit was compromised earlier this week, as an attacker published two malicious versions to the Python Package Index that were designed to steal cloud and developer credentials. The malicious versions, 1.26.1 and 1.26.2, were published on Tuesday through Microsoft&#8217;s own publisher account, giving [&#8230;] \n The post  Wiz ties Microsoft Agent Framework package compromise to release pipeli",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Microsoft"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "1ca1b654577567",
+      "title": "What we learned from Nvidia’s first earnings call without Jensen Huang",
+      "url": "https://siliconangle.com/2026/11/19/what-we-learned-from-nvidias-first-earnings-call-without-jensen-huang/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-19",
+      "summary": "Nvidia Corp. reported its quarterly results this week, and contrary to the prevailing narrative, the sky didn’t fall. Revenue more than doubled year-over-year. The Vera Rubin chip platform achieved the fastest product ramp in the company’s history, and management raised its fiscal 2028 growth outlook to roughly 75%, up from 70%. By all accounts, it [&#8230;] \n The post  What we learned from Nvidia&#8217;s first earnings call without Jensen Huang  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -1872,6 +2316,24 @@
       "is_high_confidence": false
     },
     {
+      "id": "4a1d1253879969",
+      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
+      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
+      "source": "Meta Newsroom",
+      "source_cat": "Company IR",
+      "date": "2026-11-18",
+      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.  With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their baske",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google",
+        "Meta"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "aedcac4ab08fbe",
       "title": "Las Vegas race week brings big rewards to Google Play",
       "url": "https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/",
@@ -1899,24 +2361,6 @@
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "4a1d1253879969",
-      "title": "Meta Welcomes Loblaw as First Canadian Retail Partner to Muse",
-      "url": "https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-18",
-      "summary": "Starting today, Loblaw is bringing its catalogue to Muse as a partner connector, the first Canadian retailer to do so. Connectors are a big reason Muse can do so much. Canadians can connect their Muse to apps they already use, including Gmail, Google Calendar and Instagram, so it can help them manage email, coordinate schedules and draw on saved content to get everyday tasks done.  With participating Loblaw banners, Canadian shoppers can now ask Muse to help with meal planning, build their baske",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "Meta"
       ],
       "locations": [],
       "amounts": [],
@@ -7993,6 +8437,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "21df3069c504df",
+      "title": "Google is set to invest $17 billion in a new data centre: where will the electricity come from? - UkrMedia News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0hrSFVjWTNoUWNUVHVvdjA2Z21GeWRsZlpMRzhwTGQtVWlTd3cyNGFJckNxNmRNMjZHNDF6UTRiRDFIYzdQb1JxWW9hQWtQelJ2ekxfMHJBNXlqRUNHNmsxdVJtMnRWNWljb2ZxVjdNdHQ2TTh2R1JqUmhXZFotV1B3?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-06",
+      "summary": "Google is set to invest $17 billion in a new data centre: where will the electricity come from? &nbsp;&nbsp; UkrMedia News",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [
+        "$17 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "16811798d81b57",
       "title": "OpenAI reportedly raises $11B in new funding at $1.25T valuation",
       "url": "https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/",
@@ -8010,25 +8473,6 @@
         "$11 billion",
         "$11B",
         "$1.25T"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "21df3069c504df",
-      "title": "Google is set to invest $17 billion in a new data centre: where will the electricity come from? - UkrMedia News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0hrSFVjWTNoUWNUVHVvdjA2Z21GeWRsZlpMRzhwTGQtVWlTd3cyNGFJckNxNmRNMjZHNDF6UTRiRDFIYzdQb1JxWW9hQWtQelJ2ekxfMHJBNXlqRUNHNmsxdVJtMnRWNWljb2ZxVjdNdHQ2TTh2R1JqUmhXZFotV1B3?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-06",
-      "summary": "Google is set to invest $17 billion in a new data centre: where will the electricity come from? &nbsp;&nbsp; UkrMedia News",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$17 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -8216,8 +8660,8 @@
       "id": "3bda407550bd54",
       "title": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdYV3dXUTRhWEJ2UTJxUXBMMmxVX292SEdXZlVJNmJIa0lzNVNRT0J3QjJhc0VnN2lYUnQybkNkd0JsRV8xUTc1Qk1nZllyQUx0RnJTTENFVEhJdXUyYW9SQXVodjFLT1RmSDF3UE1PODFDRnkzVnhkaEpVSDdwSDJRV2Y5dDZOTXF2cUoxUWlVVnBXWklYRjNpNGp0N2x1N0I1bFgtMFl3eldkdHZxUUlZRVdzQQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-11-06",
       "summary": "Google acquires Wyoming data center site from AI infrastructure firm Crusoe &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
@@ -8661,6 +9105,27 @@
       "is_high_confidence": false
     },
     {
+      "id": "d3f8a347ed02f3",
+      "title": "Google has announced a $17 billion investment to build its first data center in Wyoming, committing to cover all electricity costs. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2UyTnRwQ2JwaUlVSHNES2xZYVJjWUxHNWkzSldtVWZ3Y3QzbzljeVFrVVEtZ3NqdnZ2ZnRaRFktQlRfQm9rV2loSndUVjRWWkJVcTdJRXR6YzNEQlpDUndmNl9QV0wydzg5cHRsaVoxNVB4RGswSGZrQ2ZBVENzWG1GSUIxYlNldGxYbEFlNzF4ZlVfU3lTY1dNM3Fsa0t5MHc?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-05",
+      "summary": "Google has announced a $17 billion investment to build its first data center in Wyoming, committing to cover all electricity costs. &nbsp;&nbsp; 富途牛牛",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Wyoming"
+      ],
+      "amounts": [
+        "$17 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
       "id": "35533fccc4b4ea",
       "title": "Alphabet's Google Plans $17 Billion Investment in Wyoming Data Center - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeFlFcTZtNnFFTmJfZFdPQUlFN1JFOExOV01jREdocW1IT1pxMkN0NUpSRnp5WTF6dW9FbTFRYTB5cFN2TTZYOXl6R2tiUnVWODU0d0FEc2loOHRSNC1YX0lfZlk5M2dyNzdTcmp6Wm1CNGFXUUNaSzhKZXN2QnlKd25rYmtPXzRfbE5NV0RQY1dIb0hRbFc2ak90a2xFN1hXMGw2OEhCT0c?oc=5",
@@ -8698,6 +9163,27 @@
       ],
       "amounts": [
         "$17 billion"
+      ],
+      "confidence": 9,
+      "is_high_confidence": true
+    },
+    {
+      "id": "266e73d30eef23",
+      "title": "Google commits US$15 billion for Malaysia data centers - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUjlFUjNmNnM1aDR5LUh3dDk4YW83aVVTUTRSbEhkdDVrTGNMNkV0WkFacWg5dS1McGlRXzI0R0htV25UVy1FeXhvTTFFY1NUY3F0b0lTdWw5eDVFX1Y0eUZPSUxKVGJBclVjd0JvMkFLUXRXMUs1d2pYWXU3Y3lKOHdoUDU1S1pxMThFU0lSemU0MEUzbXVhS1E3VFlidFJwNTN1V3NrMndCZ2J6U090endSZHVsN2ZXbzlPb2tGcDNad0pEV2xkZXpiT2dGaDQy0gHWAUFVX3lxTE1KM3gzR3Q4R2g2MzdSNFdMclY2c1RfVWRUaVo4SE9tekxCbDV1dTh0Vm9FV0FybG1neVZIT0swRlktSDBGd213UnVlU3pLQlJWVkJqZktlWkFvNDlNSVpSWVFEYXhaUk52TmhFTjhHMXRpejlqRXdtUXI1Wl9GNWYtUG8wOW5oSVZHV3FtZENoc3ZuRElsS0pSV1V2SW94aWFHZXFFSUpieGY2Z20tN2piQkVLamIyQXh3NUkzSGpRTEI2VnExTkl6RzFjXzNfQmg2dnBYOUE?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-11-05",
+      "summary": "Google commits US$15 billion for Malaysia data centers &nbsp;&nbsp; ET Datacenters",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [
+        "$15 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -8761,27 +9247,6 @@
       ],
       "amounts": [
         "$17 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d3f8a347ed02f3",
-      "title": "Google has announced a $17 billion investment to build its first data center in Wyoming, committing to cover all electricity costs. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2UyTnRwQ2JwaUlVSHNES2xZYVJjWUxHNWkzSldtVWZ3Y3QzbzljeVFrVVEtZ3NqdnZ2ZnRaRFktQlRfQm9rV2loSndUVjRWWkJVcTdJRXR6YzNEQlpDUndmNl9QV0wydzg5cHRsaVoxNVB4RGswSGZrQ2ZBVENzWG1GSUIxYlNldGxYbEFlNzF4ZlVfU3lTY1dNM3Fsa0t5MHc?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-05",
-      "summary": "Google has announced a $17 billion investment to build its first data center in Wyoming, committing to cover all electricity costs. &nbsp;&nbsp; 富途牛牛",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Wyoming"
-      ],
-      "amounts": [
-        "$17 billion"
       ],
       "confidence": 9,
       "is_high_confidence": true
@@ -8977,32 +9442,11 @@
       "is_high_confidence": true
     },
     {
-      "id": "66310240609904",
-      "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDJXbC1ibjJ1enZ4ZWdFZ1pqQzNzZFRjaEJVemZ5UTJ3WFNpZFJtSWZBZXhsZmNRZWJNMVV5bl9HS2hCUkRkUndwelJZc28wc1lzZ2kzd1BGd0psTW5HckRJcTJlYTBTdUZYbWRyVkpzdnl0R18wcW1iRXl4UWlJSHJhYTRRTVdocEpveExJSjlrVl9abzFKX0kyWQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-05",
-      "summary": "Google plans $17 billion Wyoming data center amid rising threats of curbs &nbsp;&nbsp; Yahoo Finance",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Wyoming"
-      ],
-      "amounts": [
-        "$17 billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
       "id": "75362607d747b0",
       "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXNTLVJtQV9yc3AzLTh3VGlkVkl5M1ZmMmhjOHkzSGtCWTctUHhwMkhaaHZvLTVhUXNMdmgyNGFYVldhN2RrM0FtUVRRcnBFYnV4Zkxwa0NaRjNOSlJha1RoZ0tWeHVZaTlFb0tQdjUtMTAwNm5XdERkSDVWSjhQc1pYSjV4azVJZVYteF9zb0VCbFA5OEtUZXhnbGhLQTBZUXlkNlJpUGR1RTY4TGRzQVFWLXQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
       "date": "2026-11-05",
       "summary": "Google plans $17 billion Wyoming data center amid rising threats of curbs &nbsp;&nbsp; Reuters",
       "finding_type": "Statement / Update",
@@ -9040,6 +9484,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "d57358dd205ba1",
+      "title": "Google Plans to Spend $17 Billion on Wyoming Data Center - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlJ5V2VlTGZTRFhGUlRFUUdtYUVoWk1YT1FJYWloTXdJdVJEbEM0NERYWnY0YWc2U0tSNjkzdFdVWUxLNENkVDZmN0s3ZTUzWmlqZHd3UXQ1YzVoT2EtcElTQkJfeDgtSmlMZnFoTTVJYlpqaE91VkZHUlpoUlZuZV9JMjROMzZ0MkhwbkRaWWdibDhW?oc=5",
+      "source": "GNews: Google Alphabet data center",
+      "source_cat": "Company",
+      "date": "2026-11-05",
+      "summary": "Google Plans to Spend $17 Billion on Wyoming Data Center &nbsp;&nbsp; Yahoo Finance",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Wyoming"
+      ],
+      "amounts": [
+        "$17 Billion"
+      ],
+      "confidence": 8,
+      "is_high_confidence": true
+    },
+    {
       "id": "5f0ea30479349d",
       "title": "Alphabet's Google Advances $17 Billion Wyoming Data Center as Regulatory Tightening May Strengthen Cloud Giants' Compute Advantage - TradingKey",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHozS2VyWjNxS1UybDdqZTBHdTd3VS1meTlRYlAyR3MwaURQeGU0VTRKUl9zX1RqSFQ4OFNsZnNrVjBEN0dLQ0FZa0NqZ05rVmxpR0dzTGs3ZXE2LUVJNmVBNG1QRENnUVdNNU5ablQ4Wk1MMVU0TFBVcThudjJKZml2eFVOblA0dC1GS285ZG41OUU5UXBDZDlhclJ3RE9pLXJWc3NoWVpBQXNpeWNTcTJsNEhXX0xLTF9yWXpfYUVrZFE?oc=5",
@@ -9061,13 +9526,13 @@
       "is_high_confidence": true
     },
     {
-      "id": "d57358dd205ba1",
-      "title": "Google Plans to Spend $17 Billion on Wyoming Data Center - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlJ5V2VlTGZTRFhGUlRFUUdtYUVoWk1YT1FJYWloTXdJdVJEbEM0NERYWnY0YWc2U0tSNjkzdFdVWUxLNENkVDZmN0s3ZTUzWmlqZHd3UXQ1YzVoT2EtcElTQkJfeDgtSmlMZnFoTTVJYlpqaE91VkZHUlpoUlZuZV9JMjROMzZ0MkhwbkRaWWdibDhW?oc=5",
+      "id": "66310240609904",
+      "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDJXbC1ibjJ1enZ4ZWdFZ1pqQzNzZFRjaEJVemZ5UTJ3WFNpZFJtSWZBZXhsZmNRZWJNMVV5bl9HS2hCUkRkUndwelJZc28wc1lzZ2kzd1BGd0psTW5HckRJcTJlYTBTdUZYbWRyVkpzdnl0R18wcW1iRXl4UWlJSHJhYTRRTVdocEpveExJSjlrVl9abzFKX0kyWQ?oc=5",
       "source": "GNews: Google Alphabet data center",
       "source_cat": "Company",
       "date": "2026-11-05",
-      "summary": "Google Plans to Spend $17 Billion on Wyoming Data Center &nbsp;&nbsp; Yahoo Finance",
+      "summary": "Google plans $17 billion Wyoming data center amid rising threats of curbs &nbsp;&nbsp; Yahoo Finance",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -9076,7 +9541,7 @@
         "Wyoming"
       ],
       "amounts": [
-        "$17 Billion"
+        "$17 billion"
       ],
       "confidence": 8,
       "is_high_confidence": true
@@ -9143,6 +9608,27 @@
       "is_high_confidence": true
     },
     {
+      "id": "6025ae71fa1f39",
+      "title": "Google announces US$15 billion investment in Malaysia’s data centre expansion - Scandasia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkp6SE5RemViSUhCSHlxNWVZb3liVVpYeUY4U0NvZ1VBZUV4ckIxS2J4Y1ZxcXpYSy1jMDg0MndPQUg5TDdsdkxFekZjLWRKVVBfUWhMMGlJQmlxVXQtZmN3MVRvUFdVTHRaZ2xsRmxmWGxMajNTUm5lWUY1WEJGd1hBUXRXbXpnSWJmb1IySGNLNm9rLUZQUHNocjFiRkE?oc=5",
+      "source": "GNews: data center announce invest",
+      "source_cat": "Announcement",
+      "date": "2026-11-05",
+      "summary": "Google announces US$15 billion investment in Malaysia’s data centre expansion &nbsp;&nbsp; Scandasia",
+      "finding_type": "New Project",
+      "companies": [
+        "Google"
+      ],
+      "locations": [
+        "Malaysia"
+      ],
+      "amounts": [
+        "$15 billion"
+      ],
+      "confidence": 7,
+      "is_high_confidence": true
+    },
+    {
       "id": "8b844832a9449a",
       "title": "Google’s $17B Wyoming Data Center: 702 MW Plan [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSms2bTNaVVNxd0hydWpibjg0ekoyNlBJYks4TmszZzRabF9paXh3bVRDMXNjZGNnNlpKeTN2cnhqUmlBclU4RHBTVE5IX240UjhkYlJ2MS1sMHdfazVENTNGZDVEdV9Zc2duVFZkUmczTXpJeE13dzNUVGV5NzBxRWdrdmg1WmNPNlFxOUxB?oc=5",
@@ -9181,27 +9667,6 @@
       ],
       "amounts": [
         "$17 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "6025ae71fa1f39",
-      "title": "Google announces US$15 billion investment in Malaysia’s data centre expansion - Scandasia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMkp6SE5RemViSUhCSHlxNWVZb3liVVpYeUY4U0NvZ1VBZUV4ckIxS2J4Y1ZxcXpYSy1jMDg0MndPQUg5TDdsdkxFekZjLWRKVVBfUWhMMGlJQmlxVXQtZmN3MVRvUFdVTHRaZ2xsRmxmWGxMajNTUm5lWUY1WEJGd1hBUXRXbXpnSWJmb1IySGNLNm9rLUZQUHNocjFiRkE?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-05",
-      "summary": "Google announces US$15 billion investment in Malaysia’s data centre expansion &nbsp;&nbsp; Scandasia",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
       ],
       "confidence": 7,
       "is_high_confidence": true
@@ -9931,542 +10396,6 @@
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
-    },
-    {
-      "id": "724da299181126",
-      "title": "Texas governor-elect Gina Hinojosa promises continued data center moratorium, further legislation",
-      "url": "https://www.datacenterdynamics.com/en/news/texas-governor-elect-gina-hinojosa-promises-continued-data-center-moratorium-further-legislation/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-05",
-      "summary": "Outlines 'Texans First Data Center Priorities'",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "ffef3bd7bbd202",
-      "title": "DCD Talks: Frontier batteries for frontier compute with Jean de La Verpilliere, Echion Technologies",
-      "url": "https://www.datacenterdynamics.com/en/videos/dcd-talks-frontier-batteries-for-frontier-compute-with-jean-de-la-verpilliere-echion-technologies/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-05",
-      "summary": "Echion Technologies CEO Jean de La Verpilliere joins DCD’s Tam Pledger to explain how niobium-oxide anodes in data center batteries enable high-rate battery cycling and power resilience",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "5df846c4f24d7c",
-      "title": "University of Utah retains operational sovereignty as Redtail expands research access",
-      "url": "https://siliconangle.com/2026/11/05/university-utah-retains-operational-sovereignty-redtail-expands-research-access-hpesovereignai/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-05",
-      "summary": "Operational sovereignty gives universities authority over how shared computing resources are allocated, managed and secured. The University of Utah’s Redtail AI factory supercomputer brings advanced computing capabilities to a statewide community. Supporting researchers, students, administrators and external partners through that infrastructure requires more than computing capacity, according to Manish Parashar (pictured), chief AI officer of [&#8230;] \n The post  University of Utah retains oper",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [
-        "Utah"
-      ],
-      "amounts": [],
-      "confidence": 0,
-      "is_high_confidence": false
-    },
-    {
-      "id": "84394b66475337",
-      "title": "Google Announces $15 Billion Data Center Investment - the Electrical Distributor magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uR1VIa29iTExxU2Jka2tXZGw5eWZUWXJLMXpQdmhjdmZDUHItc0hiYUx1ZnZRdGQ1ei1TNFFwTS16NDdXUGtkN2N3VGVfZmJDR28xMWI5NjZ4SWVueTFOOWdGdXFoRUQ2bEZTbWJ2dG5HTjJKa2NCR29R?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google Announces $15 Billion Data Center Investment &nbsp;&nbsp; the Electrical Distributor magazine",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "a2e4258c516992",
-      "title": "AI Computing Demand Clashes with Cash Return Logic Again! Alphabet (GOOGL.US) Invests $15 Billion to Expand AI Data Centers in Malaysia - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQk81bUNYbkRLOFBIdDBrMXVfeWlTYThndGNnNlpiWTBQQlMxM1dMY0hfaGl6SWRxRmc1Q2lRb08tOGE0cVZXY1dVRlN4QXM5UnhCTmtDQWFkdWFNRXRmNkR3aEw1dV81UVd6QXdER0NxOUluMERKeXVFQlJicjB0SXpsa1ltWWJaZVZsZVc4dEhON3JWdFdTLUQ0ZWJiMmU1TGpCRGUyUV9pd21RbUE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "AI Computing Demand Clashes with Cash Return Logic Again! Alphabet (GOOGL.US) Invests $15 Billion to Expand AI Data Centers in Malaysia &nbsp;&nbsp; Moomoo",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "880f88a7a8157f",
-      "title": "Google to Invest $15 Billion in Malaysia, Data Center Footprint More Than 7 Times Previous Commitment - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNQ29leHBmN0lobUtPT1gwSmZwVjhrYWlSU3o2QlZBei1YY1dfNC1IQVdYWHN0LVYtemx0UVluS1JfT2JoeFFOR2h5NzdwQWxzRlJQcTJHUUdoRk1ZYXVJWXo5YUZwbXdYQlFFZEx6UWp3TUdRRkE?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to Invest $15 Billion in Malaysia, Data Center Footprint More Than 7 Times Previous Commitment &nbsp;&nbsp; BigGo Finance",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "d5d78cd449da3f",
-      "title": "Google unveils $15 billion data center investment in Malaysia - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjRhR2ZxbkhRXy1hMzJYdzFRTE5EMlBhdzNUMlEtY0tyazV2Rkg0eVc0QnViSzFqN2k4d3lOaENYVVRLYUVYS0xULVU3eDhkaXI5SFJvaFdoZ3FleW1Qd1Bvc1pObFN2V2dXWXBtWGpiSTdMY1BuM2NkMmlfOEJtTzBBTFIwTDhL?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google unveils $15 billion data center investment in Malaysia &nbsp;&nbsp; Tech Xplore",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bf144703127e58",
-      "title": "Google unveils $15 billion data center investment in Malaysia - Kuwait Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXMxODN4TmU0Mlp1aE1xNEFKYldIM043dlhQMzJRZG5BRC1vYjJZQnluNzRsUG1YNWRJMXFfQjFyVWFleVZnTG5DZDYtQ1hvMTJ0Qko1QmwxZUlqcVdHSDJzbVo2Q0Y0aklyaXhaQ3BkNmJwNll5ME12UFUtalFIdEdIXzYzRnUwcHd5MXBNSC1fWk1oQU91SzNBTVExaXNtaFIwaF9FS0_SAawBQVVfeXFMTVluaEttSUFmSFRSODAtYmNHNUUweU5qZE1uTFQxVmtRYUE5ZXVHeHBpSjBpTktDNU5lUWIwV2dvQlgtSHd2bENINnZQck1hTHR1c0F0Z0tqTDlSOFVmZklVXzJaWnF6SV80Z0VzeEdCN2ZrRTVzSWg4dXRZeUhzWWJxV0xSRTlRa2lqX29uRDFQd2RkRlpBdFMxbVNrLUtlMXQ3dGVucG1BTjRLWQ?oc=5",
-      "source": "GNews: breaks ground data center",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google unveils $15 billion data center investment in Malaysia &nbsp;&nbsp; Kuwait Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "2e1a088344728e",
-      "title": "Google Unveils $15 Billion Data Center Investment in Malaysia - Jakarta Globe",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0VKd1ZCcW1pLWdSN1VaZ29uRHA5aXNXSkEyUDhjV004OEZqdEE3N3hMdmt1LVQ0QTFzTzlzeE5jRXAtZE9lTjctRnkySkRqMlpFQy1FSjZnSUEtQ0tBa29JVGNYS1JsS2tQUzVvd3pxNm0xOXhRSm10dmhwN29XbDFVSGViWWJRdlhXRHRpdzlnODQ?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google Unveils $15 Billion Data Center Investment in Malaysia &nbsp;&nbsp; Jakarta Globe",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 9,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c90dcdd74fafc9",
-      "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGlyQlIwa3hBUUNkMmRqcmlyaUxkVTF1ZTdlOFpkNGJ6OTdUR3hkVE11YWFBY1hvRjdIQUtjdjJHcEpmV250c0RYaEFNMkh2S2x6Nk9rQ1FQUkR0S3lzZERqNEJheUV0aVhhbG11MmFORS1jNnBTTzFDTmdfV0FYaVhWNDRCVkVIeW50NmtTbUQyQUJzYi1TcXplUTA1WDhDM0JjaXIzVXhVSWxEcngxcA?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to Spend $15 Billion in Malaysia Data Center Expansion &nbsp;&nbsp; Bloomberg.com",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "1a80741afa2c7d",
-      "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGlyQlIwa3hBUUNkMmRqcmlyaUxkVTF1ZTdlOFpkNGJ6OTdUR3hkVE11YWFBY1hvRjdIQUtjdjJHcEpmV250c0RYaEFNMkh2S2x6Nk9rQ1FQUkR0S3lzZERqNEJheUV0aVhhbG11MmFORS1jNnBTTzFDTmdfV0FYaVhWNDRCVkVIeW50NmtTbUQyQUJzYi1TcXplUTA1WDhDM0JjaXIzVXhVSWxEcngxcA?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to Spend $15 Billion in Malaysia Data Center Expansion &nbsp;&nbsp; Bloomberg",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 8,
-      "is_high_confidence": true
-    },
-    {
-      "id": "ee9e1e1f48acd1",
-      "title": "Google to invest $15 billion in Malaysia in 2027 and 2028 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1FaR0wwZ3NzY3ZuM1lwaExfWVRlOGVrTGFJakc1dHZsY2RyMV9tYXNVbDJKYVczUk1DUFVCYURtejVSOTNtR1ZzMVh2Z2NSQjl5UG9jRzlza0h6NUFMS3EzTnRsQTlmWTF4dzd6bkpfbnV4TFdLRFNST0ZxblFIMjVIdzIwRE9pUWNKUU1LWVJqRFlhZFhXWFhzb1owSkU?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to invest $15 billion in Malaysia in 2027 and 2028 &nbsp;&nbsp; Reuters",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "cb66a978436e9c",
-      "title": "Lambda announces $33.1 billion AI data center in Lowndes County, largest economic development project in county history - Yellowhammer News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGV6LTcwbGhjOFNDMEhrRGFrZHJXWUFybkxqU09qTzBBNnpfSVVhV1RTUk1YVUtwVUpGck1qZElJNFcya2dJWkhLMHB6TVVfNWtYSEU3TUxXcTNSbHNUOTA5eVdrVTJGQno0VU1RZk12NlI4QTJUd2QyQ1FiekdQMllWV2NtVS0xeDdzV0JpZEFsQTFkZTl1XzkxaFUwWEc1YWVxOURCSVY5MklqRGFDY1E4c1h1bmNkNldxZ240SjN4MGZsenFubVozRC1tcTNvQ014NW92Uk1GcUh2OFRKRg?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-11-04",
-      "summary": "Lambda announces $33.1 billion AI data center in Lowndes County, largest economic development project in county history &nbsp;&nbsp; Yellowhammer News",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$33.1 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8d513777252333",
-      "title": "Google Announces Digital Infrastructure Expansion, Local Jobs, Water Replenishment, and Clean Energy Initiatives with US$15 Billion Malaysia Investment - Google Cloud Press Corner",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNSzRkb2ZrRXFtNXFSUlpvdEoyYXZXbks2TUpXbllJWXB3TEQxRzJwN21Ib2lKLU1iRXJMVTJ6dldIRGtrZ1NoVXZ3SmVUaVY3ZUtSVmNveGRyVjJRcENEYjQ3LTE4TWdRMVp5bTk4ZjVQTUF3R2NuN1pVeHVPSm0yYklmX3Eycm9Ra2JkUVU5ZTBERGFQYnhITnVQVTlTNGx3U0IyR2dIZGJQLWxxcGlVZC0zcWljWVpWVVZ1S0lZbU0zdWNNVnJIaEp3blN0dG1CSDRpc2NUTEVYUTB6ZG5NRFVRQXVlblQ1SXVpQ2dJc2VMalhWSWdZVGF1aXNXcWZFXzJkenBrOVROY3hBbGJmRUl1U0txY0VESHdvQnJvUzBOSVlB?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google Announces Digital Infrastructure Expansion, Local Jobs, Water Replenishment, and Clean Energy Initiatives with US$15 Billion Malaysia Investment &nbsp;&nbsp; Google Cloud Press Corner",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "685ff66af24cda",
-      "title": "Lambda Announces $33.1 Billion Alabama Data Center Campus - Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1k4WkdaTjVlTzkwUGVwQmdqNmpMMXZaVVg5dWRYOGZ6dlpHdnlWZlNCNzVGSmI0ZTF1eFozZTBMRG9FMEdEVDBJbE1nMXlQODJlUUJvNWpYcHhydlUxOVRuRVdPZTZmR0dzS0dQNVBnSXZJVExuS3MzUWMtS0hrNEktV1ZyeXk4Zkdj?oc=5",
-      "source": "GNews: state economic development data center",
-      "source_cat": "State/Gov",
-      "date": "2026-11-04",
-      "summary": "Lambda Announces $33.1 Billion Alabama Data Center Campus &nbsp;&nbsp; Securities.io",
-      "finding_type": "New Project",
-      "companies": [],
-      "locations": [
-        "Alabama"
-      ],
-      "amounts": [
-        "$33.1 Billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7f4c5692ea52b2",
-      "title": "Google Announces US$15 Billion Malaysia Investment, Plans New Data Centre And 1GW Clean Energy Capacity - BusinessToday Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXdxT3F0a1EwQ3h0R2NhUEZNaHZHYm1PN2VYWGtISDI5OG9rTGJPVWYxcmdJUFFmd3FRNGNMaVlUdC1PSlVnNWg2M0FtdTQ2b2NQRFF5ZFZLdnEzNHJJSTRzRkl4Y2tOaWRhWkxjdWZqeVN2b0ZQem8tNDBLVU5nRUtPUjBkWC12RUFtV1F0eDJvUTZjMF9sMjkxU1RQNHBLV2stNzBSWDk3R2hmS25Ja3MtMjZSbkpMbE50UFB3WGtwNDhOS0dfVGhVWnIxeTNjeThvdjZhZlFZSGVvVnY0?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google Announces US$15 Billion Malaysia Investment, Plans New Data Centre And 1GW Clean Energy Capacity &nbsp;&nbsp; BusinessToday Malaysia",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 Billion",
-        "1GW"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "8166fecb9cd970",
-      "title": "Google to invest US$15 billion in Malaysia in 2027 and 2028 amid data centre expansion - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmFUSlB4Z2lXRzdvU0hjSXo5ZXJmcmdPaUw3WHlabER5OXRIVVE3VnJyNC1vU3l5bE41R2Y1aEdyZmczMHpKQ09Ra1V5TTNxS3NHb21PeWthQjhHRzVQX21aTHQyZ2I5Wk9sc0k2MHQwV0JjR2VlQWpOdjlYRTdOYm5jSy1hdmRHOHI1NGo3SS01RS03SVgwbEJmdzBNdGZlYUNuSDZkaFExOHdfNzZwV245enJkTUFRRU94cXVCYncxNzR1LUtySw?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to invest US$15 billion in Malaysia in 2027 and 2028 amid data centre expansion &nbsp;&nbsp; The Business Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b6df67c1d0c158",
-      "title": "Google to invest US$15 billion in Malaysia in 2027 and 2028 - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnRPMVhRbHJ4TDFsSkJqaGllWDRaWFR1UmQwczJZR0l0V29MU3dCOWFockp3R01henV0TUhldDhjWTZrWDVudWZuSExuci0wUGo4S3JUWkozWmt6WHJPT2NXU19GNVNVNTU5Ui11ZTZSTWhyQWJNRkZlNzBKZXg4QUhDa0pmRzRqbXJvLU5xOUlfNGk2ZHBSbUU0dkU?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to invest US$15 billion in Malaysia in 2027 and 2028 &nbsp;&nbsp; The Straits Times",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b78199ce8ff34f",
-      "title": "Google unveils $15 billion data centre investment in Malaysia - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUllGZ0lSenZaN3NWTzg4andReTFFVzBfV2FxVEQxbkY5Zmx4UDhMSGtmb0Nfa3lvckNQMTRhZ05VTVlvWEtoWHZKc1h5QjNNQVhOOE8xYWo5STN1dVRHU1dfbXF1bGlyNXA5ZUVpNnU2b2NjWXZkQ0phVWJ3VnZiVDJZTVJTX3RjaHJWQVVwdHVHbjJLTU9LNzk3WURhUdIBpgFBVV95cUxOWTR0WGZndVJlUFRuVk1RUy1jeXZFZk5TUlFHRW5BX3NZbTZvcllpNHYxZ183b1owNjRqamE0NVNGaHRjU2l2OGp1dHpmc3FBS1BjcjlETFdCVDdBZFV3WlZYeExTNThCazViLU9fZ2JtMklWVC1Rb3VGbTlYVG9KOWdEMW5sbHBOb2E5Nnk1QmlBZ0hpV0Y1OFAweEVKRGJJUE9VV1Vn?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google unveils $15 billion data centre investment in Malaysia &nbsp;&nbsp; The Express Tribune",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15 billion"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "b9d0692d391391",
-      "title": "AI cloud startup Applied Compute raises $350M after reaching key revenue milestone",
-      "url": "https://siliconangle.com/2026/11/03/ai-cloud-startup-applied-compute-raises-350m-after-reaching-key-revenue-milestone/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-04",
-      "summary": "Applied Compute Inc., a fast-growing provider of artificial intelligence infrastructure, has raised $350 million in funding at a $3.25 billion valuation. The startup announced the deal on Monday. Prominent angel investor Elad Gil led the round with participation from Nvidia Corp., Shopify Ventures, HubSpot Ventures and more than a dozen others. Applied Compute operates a [&#8230;] \n The post  AI cloud startup Applied Compute raises $350M after reaching key revenue milestone  appeared first on  S",
-      "finding_type": "New Project",
-      "companies": [
-        "NVIDIA"
-      ],
-      "locations": [],
-      "amounts": [
-        "$3.25 billion",
-        "$350 million",
-        "$350M"
-      ],
-      "confidence": 7,
-      "is_high_confidence": true
-    },
-    {
-      "id": "bbc3f61e93490e",
-      "title": "Google commits additional US$15b to Malaysia data centre expansion over two years, projects 37,000 jobs as Anwar hails investment - Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZGVIaGMtNHBHUGs0cHZTWm1SZVNaRGFybm1EMi1BVTJPRUNJOVZ2YzdEZTd3TWpCMDRJcTQ2bWpweHJlekp5Z1ZfQzNOSk9xdTZSVnNsVU9CWmVuRk1tUTFvV2RzUldVbGU4MGpvRkFoUjAxcFdlcEdqTHRmb0pzQnBlTUg3UGg3Q2M1TjhpUXpUd0E5X0pHYlYxQ3VxWVlURklhejFMUHlSRDBwc1QySTU0UGN6WnBQaWxuNWZsSHNjNDF5d3ZRbUNmWEF6QlV6V1dCMThFN1hvbTBlcUVqenpLRHV3RVUwaWxpRFd1VzY1T1UzLU1WazdHVHlLTC1lYnQzaGNKQlBQTmNiOEJReUd30gGXAkFVX3lxTE1XRXZXV1RiSWIxVWl5S2FWb3owUkpSMmRTd3JBakpBMVBLWGhGZFBadmV3ZmNEU1ZkNTI5ak9pVHZqT2RFdEVDSkxGMjNaU1Y0N3A3UFU2bkR5NjVVNlJMcDdUajBFVnVjTDlhbWJRNXZXVzVIcm5JazVPalNscmhrLVNYXzBSWjFheFZNTENTUzVMcHRsNnQ3eVdGUTVPQ0ZqVGFBdjdGbEpyOUc3T00yRmZ4S3lLYnBVSTJRUmJZeEtfOHQ1blpiU0FlQ2E0alVZX3hZUW9PYnM0Wm1ycEpBTDJGVUROOVNuX1JRdlc4eWtHdVRoUkQ5VEtieWkwOXl5b3NJOEVDcTZfWHlTa1hOSk1HWTZabw?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google commits additional US$15b to Malaysia data centre expansion over two years, projects 37,000 jobs as Anwar hails investment &nbsp;&nbsp; Malay Mail",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15b"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "86d01f47ffe989",
-      "title": "Google to invest U$15b in Malaysia in 2027 and 2028 - The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uRGlLbU9POHpid2FGVmJERXUxcWR6Q0RLalJIZDh2aGhXUjZENEhKXzNkbDZkWExUM1UzNVczeGRyV05RRHpMdEQ3cTVia1ot?oc=5",
-      "source": "GNews: Google Alphabet data center",
-      "source_cat": "Company",
-      "date": "2026-11-04",
-      "summary": "Google to invest U$15b in Malaysia in 2027 and 2028 &nbsp;&nbsp; The Edge Malaysia",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15b"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "839dbdf066b654",
-      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-04",
-      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [
-        "$13.4 billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "baff9ee1435977",
-      "title": "TeraWulf Lands Google Backing for $19 Billion Anthropic Lease - Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbF95ZUxxLV9BNUNuS25JZkMwMTF3cWk3XzVpSnNPQlZIT0RxWnFXLVRXbERPbHdHd3lkY1ZyN1QtVkpLTEJkallqZW5uSlNTRFRQQXVnYjY1UjdEUHNRZFZoa1p4VlRoaktremNtVVV4MVo4dWNOY2Jzcm0wNVAtOG5LZ3NWa0ZXUS1QQjVUTGY?oc=5",
-      "source": "GNews: SEC 8-K data center capital",
-      "source_cat": "SEC Filing",
-      "date": "2026-11-04",
-      "summary": "TeraWulf Lands Google Backing for $19 Billion Anthropic Lease &nbsp;&nbsp; Securities.io",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google",
-        "Anthropic"
-      ],
-      "locations": [],
-      "amounts": [
-        "$19 Billion"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "def827a881b570",
-      "title": "Google commits additional US$15b to Malaysia data centre expansion over two years, projects 37,000 jobs as Anwar hails investment - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTFg1SE44QmJvSzA3TDB4VnVIbEU5c2NDQm1YNkdRZHM5Nk5mUkRjM0tHRjZ0MFduMGF2a3hoWnpQVl8yMUlyc0t0U281UnBSaGpqWW5Fc0RFUEE3Ny0zbE1hUzZ4aDdxVWFrakEtRGlwR2p4bDFTNURLd2ljYVQ2bm9NbDF1UQ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google commits additional US$15b to Malaysia data centre expansion over two years, projects 37,000 jobs as Anwar hails investment &nbsp;&nbsp; Yahoo",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia"
-      ],
-      "amounts": [
-        "$15b"
-      ],
-      "confidence": 6,
-      "is_high_confidence": true
-    },
-    {
-      "id": "c88065570dc3c2",
-      "title": "Google unveils $15 bil data center investment in Malaysia - Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTGtPNGhRTDR1VDAxamE1Tmh3ZlExU05WZWV5UnJNVGZ6R3BibVM0V0hFSnRfalZlZGVuY0ZQTzZTVk5qR0hSMDVoai1lWjFuRXZuaUtXRGhKRVFicFhjWk5BbUtyd252VkE0U1RDeWV3ZTJQZ1oyQmJqbUdZTFVRdGs4TFpNS3J5TUMwMHZIaWNoOGFGaHRJ?oc=5",
-      "source": "GNews: data center announce invest",
-      "source_cat": "Announcement",
-      "date": "2026-11-04",
-      "summary": "Google unveils $15 bil data center investment in Malaysia &nbsp;&nbsp; Japan Today",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [
-        "Malaysia",
-        "Japan"
-      ],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
-    },
-    {
-      "id": "7ec947b956dd05",
-      "title": "Google commits to $15bn investment in Malaysian data centers",
-      "url": "https://www.datacenterdynamics.com/en/news/google-commits-to-15bn-investment-in-malaysian-data-centers/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-04",
-      "summary": "Investments will occur during 2027 and 2028",
-      "finding_type": "New Project",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 5,
-      "is_high_confidence": true
     }
   ]
 }
