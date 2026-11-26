@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-26T13:44:08.944263+00:00",
+  "last_updated": "2026-11-26T22:50:19.093575+00:00",
   "finding_count": 600,
-  "new_project_count": 72,
-  "cancellation_count": 28,
+  "new_project_count": 73,
+  "cancellation_count": 24,
   "sec_filing_count": 2,
-  "high_confidence_count": 132,
+  "high_confidence_count": 137,
   "findings": [
     {
       "id": "0e4a3884385ee5",
@@ -20,8 +20,8 @@
         "Brazil"
       ],
       "amounts": [
-        "6MW",
-        "1MW"
+        "1MW",
+        "6MW"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -63,6 +63,80 @@
       "is_high_confidence": true
     },
     {
+      "id": "faaedd9b9df648",
+      "title": "500MW data center project planned outside San Diego, California",
+      "url": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Spanish renewable firm Ignis behind project",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "California"
+      ],
+      "amounts": [
+        "500MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "27fb3eea09eefb",
+      "title": "KT Cloud signs 60MW lease at data center in Ansan, South Korea",
+      "url": "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Data center being developed by Keppel Ltd",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [
+        "60MW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "d0ad6119b01ffc",
+      "title": "Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote",
+      "url": "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Threats tied to a up to 1GW project in Lackawanna County",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [
+        "1GW"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
+      "id": "1e2ccf52834a94",
+      "title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+      "url": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Property sold for $162.9m",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Pennsylvania"
+      ],
+      "amounts": [
+        "$162.9m"
+      ],
+      "confidence": 5,
+      "is_high_confidence": true
+    },
+    {
       "id": "e8211c19236f56",
       "title": "Etix launches 23MW data center in Bangkok, Thailand",
       "url": "https://www.datacenterdynamics.com/en/news/etix-launches-23mw-data-center-in-bangkok-thailand/",
@@ -78,6 +152,23 @@
       ],
       "confidence": 5,
       "is_high_confidence": true
+    },
+    {
+      "id": "69bf4b67da35f7",
+      "title": "Nvidia backs startup developing chiller-free data center cooling system",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Y Combinator venture Madrone secures $500k seed funding",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 4,
+      "is_high_confidence": false
     },
     {
       "id": "ec5e9dbd0063f1",
@@ -96,6 +187,95 @@
       ],
       "amounts": [],
       "confidence": 4,
+      "is_high_confidence": false
+    },
+    {
+      "id": "7b4b1d39dcd701",
+      "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report",
+      "url": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Unclear how long the pause will last for",
+      "finding_type": "Cancellation / Pause",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Malaysia",
+        "Singapore",
+        "Indonesia"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "8c0bd72ba4a57c",
+      "title": "Report sheds light on China ties of some US-based Nvidia partners",
+      "url": "https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/",
+      "source": "SiliconAngle",
+      "source_cat": "Tech Analysis",
+      "date": "2026-11-26",
+      "summary": "An investigation has shed light on links between some Nvidia Corp. partners and companies that are based in China or are accused of breaching export controls. The analysis was carried out by C4ADS, a Washington, D.C.-based nonprofit, at the request of CBS News. The outlet published the findings Wednesday evening. The first focus of the [&#8230;] \n The post  Report sheds light on China ties of some US-based Nvidia partners  appeared first on  SiliconANGLE .",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "NVIDIA"
+      ],
+      "locations": [
+        "Washington"
+      ],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "eebd8b97989b1f",
+      "title": "15 years of investing in Colombia’s talent and future",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-26",
+      "summary": "An illustration of Colombia with 'Google' written in front of it",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 3,
+      "is_high_confidence": false
+    },
+    {
+      "id": "510b0843b61147",
+      "title": "Modern data center cooling",
+      "url": "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Everything you need to know about liquid cooling",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "e8e5e0055d9b58",
+      "title": "University of Augsburg breaks ground on data center at Augsburg Innovation Park, Germany",
+      "url": "https://www.datacenterdynamics.com/en/news/university-of-augsburg-breaks-ground-on-new-data-center-at-augsburg-innovation-park-germany/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-26",
+      "summary": "Scheduled for completion in 2029",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [
+        "Germany"
+      ],
+      "amounts": [],
+      "confidence": 2,
       "is_high_confidence": false
     },
     {
@@ -146,6 +326,23 @@
       "is_high_confidence": false
     },
     {
+      "id": "e9cf10bf9404cf",
+      "title": "Evaluating Recent Model Releases on GDPx",
+      "url": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+      "source": "SemiAnalysis",
+      "source_cat": "Deep Analysis",
+      "date": "2026-11-26",
+      "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
       "id": "8b2f56ab053260",
       "title": "Bharti Airtel to develop three data centers in Assam, India",
       "url": "https://www.datacenterdynamics.com/en/news/bharti-airtel-to-develop-three-data-centers-in-assam-india/",
@@ -189,23 +386,6 @@
       "summary": "With no time to slow down, safety must come built-in to data center construction projects, say Milwaukee Tools’ experts",
       "finding_type": "Statement / Update",
       "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "e9cf10bf9404cf",
-      "title": "Evaluating Recent Model Releases on GDPx",
-      "url": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
-      "source": "SemiAnalysis",
-      "source_cat": "Deep Analysis",
-      "date": "2026-11-26",
-      "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
       "locations": [],
       "amounts": [],
       "confidence": 2,
@@ -295,8 +475,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$100M",
-        "$100 million"
+        "$100 million",
+        "$100M"
       ],
       "confidence": 5,
       "is_high_confidence": true
@@ -451,21 +631,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "5e221d4e226bfb",
-      "title": "Panthalassa, floating data centers, and the power of the ocean",
-      "url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-25",
-      "summary": "Peter Thiel-backed startup has big plans to put compute at sea",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "cab5db8e0db4bb",
       "title": "FCC clears SpaceX to put up to 1 million Starmind data centers in space",
       "url": "https://siliconangle.com/2026/11/25/fcc-clears-spacex-to-put-up-to-1-million-starmind-data-centers-in-space/",
@@ -523,6 +688,21 @@
       "source_cat": "Tech News",
       "date": "2026-11-25",
       "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "finding_type": "Statement / Update",
+      "companies": [],
+      "locations": [],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "5e221d4e226bfb",
+      "title": "Panthalassa, floating data centers, and the power of the ocean",
+      "url": "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+      "source": "DataCenterDynamics",
+      "source_cat": "DC Specialist",
+      "date": "2026-11-25",
+      "summary": "Peter Thiel-backed startup has big plans to put compute at sea",
       "finding_type": "Statement / Update",
       "companies": [],
       "locations": [],
@@ -759,8 +939,8 @@
       ],
       "locations": [],
       "amounts": [
-        "$277M",
-        "$227 million"
+        "$227 million",
+        "$277M"
       ],
       "confidence": 6,
       "is_high_confidence": true
@@ -2691,23 +2871,6 @@
       "is_high_confidence": false
     },
     {
-      "id": "1cfa4e11bd8182",
-      "title": "Build strategic A/B tests to grow your ad performance.",
-      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
-      "source": "Google Blog",
-      "source_cat": "Company IR",
-      "date": "2026-11-19",
-      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Google"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
       "id": "7b7b19eca3866c",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
@@ -2725,13 +2888,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "a0c455b2e5182f",
-      "title": "A smarter way to track and buy clean energy",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
+      "id": "1e44fca1f1b7a2",
+      "title": "Small businesses, big results: How teams scale with AI",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-11-19",
-      "summary": "Video discussion featuring Carolyne Murff (CEO, ClearLight Energy) and Devin Hardman (CCO, esVolta) explaining how Google scales Granular Certificates to track clean energy hour by hour, guide grid planning, and unlock revenue for energy storage.",
+      "summary": "A montage of four U.S. small business owners using Google Workspace with Gemini on their phones and laptops to run their businesses.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2742,13 +2905,13 @@
       "is_high_confidence": false
     },
     {
-      "id": "1e44fca1f1b7a2",
-      "title": "Small businesses, big results: How teams scale with AI",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/",
+      "id": "1cfa4e11bd8182",
+      "title": "Build strategic A/B tests to grow your ad performance.",
+      "url": "https://blog.google/products/ads-commerce/ads-decoded-ab-testing/",
       "source": "Google Blog",
       "source_cat": "Company IR",
       "date": "2026-11-19",
-      "summary": "A montage of four U.S. small business owners using Google Workspace with Gemini on their phones and laptops to run their businesses.",
+      "summary": "Improve your Google Ads performance with expert A/B testing strategies. Master AI Max experiments and Smart Bidding with our latest guide. Listen now.",
       "finding_type": "Statement / Update",
       "companies": [
         "Google"
@@ -2792,6 +2955,23 @@
       "locations": [
         "Indonesia"
       ],
+      "amounts": [],
+      "confidence": 2,
+      "is_high_confidence": false
+    },
+    {
+      "id": "a0c455b2e5182f",
+      "title": "A smarter way to track and buy clean energy",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
+      "source": "Google Blog",
+      "source_cat": "Company IR",
+      "date": "2026-11-19",
+      "summary": "Video discussion featuring Carolyne Murff (CEO, ClearLight Energy) and Devin Hardman (CCO, esVolta) explaining how Google scales Granular Certificates to track clean energy hour by hour, guide grid planning, and unlock revenue for energy storage.",
+      "finding_type": "Statement / Update",
+      "companies": [
+        "Google"
+      ],
+      "locations": [],
       "amounts": [],
       "confidence": 2,
       "is_high_confidence": false
@@ -7475,6 +7655,25 @@
       "is_high_confidence": true
     },
     {
+      "id": "90342597c02b53",
+      "title": "Oracle Breaks Ground on $4.5 Billion, 82-Acre Nashville Global Headquarters Campus - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3ZkcWpsdnN5SW8tUWc2N2hWd3h1b3Q4S2s4YllOWE9zRkxzSDk1Y3lrei1xaW1YYXlhLXBWeUxzVktnSm1OZGNTZDVuS3c4M3QzOWtvdHQzOHdVZlpBNG1GbVZHbUFiY3prSzJaU2dXek9mdkZxc002dWdRUDBVazNzOWQ4SWVkaWNsWV9fRThwWnRoanNnbVVsYXY3UHJkTWJFU0FXc1ByTGd0Y1RtUFJIcnB4bGRjVVE?oc=5",
+      "source": "GNews: breaks ground data center",
+      "source_cat": "Announcement",
+      "date": "2026-11-11",
+      "summary": "Oracle Breaks Ground on $4.5 Billion, 82-Acre Nashville Global Headquarters Campus &nbsp;&nbsp; Construction Review",
+      "finding_type": "New Project",
+      "companies": [
+        "Oracle"
+      ],
+      "locations": [],
+      "amounts": [
+        "$4.5 Billion"
+      ],
+      "confidence": 6,
+      "is_high_confidence": true
+    },
+    {
       "id": "606fc80b8fbab1",
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
@@ -10120,183 +10319,6 @@
       "locations": [],
       "amounts": [],
       "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "1cd1c689c31e95",
-      "title": "Hinojosa Seeks Halt On New Texas Data Centers - iHeart",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnAwRTdoR2ZGOTRlcUhhaTViUnV2TkdubWlQZGFjRjI2bm5KWlA4Y1FpWTF3VWR4eGJnR2RCNVhiYlIxaGhHWEtLbmJ6dzJFeXhZdG1RVjdjazVwcVN5UUd2SnZ4VEJ2TC1ILWU0TWR2RldvYjY0TnFMMElWZ0pGVGJVcW9pOUJIRGRRdGgweWZrUdIBmgFBVV95cUxQRUtMaHJqQ2Z6bU54OG1naHpPM0V3SVRRT3pEZnMzaEJ1VU1mTFFfeVl4M1BTSkVsbHh6dXB6bWV3ckZ3YVlqaWFKSzhBVmJqek5rY3lRMlN0czVsY1o4b1VNZzlPbGxoRDU5YmswNFRtS3dmN2pxT3VfNEVwOTJ6Zi1YeTEwcjFZaGhvNnRhaU53cHk1Y1ltSkl3?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-11-06",
-      "summary": "Hinojosa Seeks Halt On New Texas Data Centers &nbsp;&nbsp; iHeart",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "eb412f421e7960",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "source": "Ars Technica",
-      "source_cat": "Tech News",
-      "date": "2026-11-06",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "finding_type": "Cancellation / Pause",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "afbbccd66b236d",
-      "title": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjZDWEhKOHdpSGxrdWw4N2xXNlFYN3ZEc3ctcHBLUWxVcFYwRTFXVW9NS2pfODF3LU1JSzVhOWcteVZ1b1VBZ1hObjVZV21TY1hNaDhYTjFOWUdXeFE4YVRzWnVtcUdEQUdhaXh1UzBMcGhsdm1lQWZ2eXRTanc5Z0VjbjVWcDYx?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-11-06",
-      "summary": "U.S. Data Center Delays Spark Korean Semiconductor Stock Panic &nbsp;&nbsp; 조선일보",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "0a472a72f69889",
-      "title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
-      "url": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
-      "source": "DataCenterDynamics",
-      "source_cat": "DC Specialist",
-      "date": "2026-11-06",
-      "summary": "An almost $10bn increase",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "fd6ee0d64af646",
-      "title": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWllSzJhdDJkQzRJSGRqb3hTaDJ5SnlFMGhYMDByS3dQRV9BdjR6eXRXSU9Cd2g2UDhlR1A5N2VWNnVkSmtBVzViVGRTdlU1bk90cVNDa3BfVld1aEtyNG5WWUdLYmRMWHhDSklHOUFhZllVcVRCN0NZdnp2NUpyOVF5WnA1Mkd1ZnZlMDFwb3otMldnZV9kdVUteHRBbUlPeHRmWl9DU3NoQUxjQkhwRnR5eDU5dw?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-11-06",
-      "summary": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause &nbsp;&nbsp; Bloomberg",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "71864fa80e9b62",
-      "title": "Hinojosa Seeks Halt On New Texas Data Centers - KFBK",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTldQOWZZRXNybGNGWnBiazEtMHlBRmNKN2UxNjczX2ttTTRtTUdkVVZ4bllSQ1hMNks0RmdpTjVRWVpBOW9EZ19xR2Z6X1A1eWpyYmNHTW0yazV2NURvdVE5Mk5hamluUWdGVEF3aE90NTZGQ24zX2R2UlNQbGdQa3V4VGhSbmlIeE5qZ3JXcFNwSzQ?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-11-06",
-      "summary": "Hinojosa Seeks Halt On New Texas Data Centers &nbsp;&nbsp; KFBK",
-      "finding_type": "Cancellation / Pause",
-      "companies": [],
-      "locations": [
-        "Texas"
-      ],
-      "amounts": [],
-      "confidence": 3,
-      "is_high_confidence": false
-    },
-    {
-      "id": "8277bc5eba0cf7",
-      "title": "Design the Muse App, Just for You",
-      "url": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
-      "source": "Meta Newsroom",
-      "source_cat": "Company IR",
-      "date": "2026-11-06",
-      "summary": "Today, we're introducing spaces, an interactive way to build a more customized experience in the Muse app.  \n The post  Design the Muse App, Just for You  appeared first on  Meta Newsroom .",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Meta"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "759e75413a5852",
-      "title": "US Clean Power Rises With Data Centers: Three Things to Know - BloombergNEF",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDZHZG5NUG9wWll4TFZZMUZVb0tZc0NWUmZBOTJ3U0RpbEM3OEZQMjZvU3Q4SnkycDNMOG1EZktFcmE5djRWdWFFS3hNYk5KUVdLOXh5cUlqMXZkVGlialRZLW9uZzBJeEE1NFBzWGN1ZXp3TEFuQkhZTVp0RVZjLVF0WktMMUFMUEp2YlZjT1o5SnRGNmp6b0xaUlVHMkFJWFJuem1BaVE?oc=5",
-      "source": "GNews: data center gigawatt nuclear power",
-      "source_cat": "Infrastructure",
-      "date": "2026-11-06",
-      "summary": "US Clean Power Rises With Data Centers: Three Things to Know &nbsp;&nbsp; BloombergNEF",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "7028be6d2d12fb",
-      "title": "The midterms didn’t stop the AI buildout. They simply repriced it—and OpenAI is already promising to pay up - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3JfbjI2TWVnb1poRHhHNVVMVVdjVnRNejBqYUtRZEhBLWc5TDkySUR3SFFCeDBlVm5TSmR1TV9HcVRPY2xCNDlmekh6VUM0T2ZwVlZoVDJkQWNrdjY4VHJNT1VqemxwOHE3bmw1TG1nMVVTUkRHQzdsRkhQcGZOX01oTWlJTVltOU5McWFJcHAwSVU?oc=5",
-      "source": "GNews: data center cancel pause halt",
-      "source_cat": "Cancellation",
-      "date": "2026-11-06",
-      "summary": "The midterms didn’t stop the AI buildout. They simply repriced it—and OpenAI is already promising to pay up &nbsp;&nbsp; Fortune",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "OpenAI"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "878d055169ec67",
-      "title": "AWS’ Colleen Aubrey: Stop inventing new AI metrics — it’s your business metrics that matter",
-      "url": "https://siliconangle.com/2026/11/06/aws-colleen-aubrey-stop-inventing-new-ai-metrics-its-your-business-metrics-that-matter/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-06",
-      "summary": "There isn’t a business or information technology leader today who doesn’t have artificial intelligence at the top of their priority list. The challenge for most organizations is deciding what to measure and how to determine whether an AI initiative was successful. To better understand how customers should approach AI metrics, I spoke with Colleen Aubrey [&#8230;] \n The post  AWS&#8217; Colleen Aubrey: Stop inventing new AI metrics — it’s your business metrics that matter  appeared first on  Sili",
-      "finding_type": "Statement / Update",
-      "companies": [
-        "Amazon"
-      ],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
-      "is_high_confidence": false
-    },
-    {
-      "id": "15119b7eb5ed24",
-      "title": "Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?",
-      "url": "https://siliconangle.com/2026/11/06/midterm-elections-will-put-ai-and-data-centers-on-trial-but-big-tech-may-end-up-winning-anyway/",
-      "source": "SiliconAngle",
-      "source_cat": "Tech Analysis",
-      "date": "2026-11-06",
-      "summary": "It may be a little soon to determine the ultimate winners and losers among enterprise suppliers after the midterm elections, but the early line is: Big Tech wins and data center suppliers operators such as chipmakers and neoclouds lose. Or will everybody lose? The day after the elections, stocks of many tech companies shot up, [&#8230;] \n The post  Midterm elections will put AI and data centers on trial, but will Big Tech end up winning anyway?  appeared first on  SiliconANGLE .",
-      "finding_type": "Statement / Update",
-      "companies": [],
-      "locations": [],
-      "amounts": [],
-      "confidence": 2,
       "is_high_confidence": false
     }
   ]
